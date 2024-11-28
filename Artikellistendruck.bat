@@ -1,3 +1,2 @@
 @echo off
-set "filePath=%1"
-powershell -NoProfile -ExecutionPolicy Bypass -File ".\HelperScript.ps1" %filePath%
+powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0HelperScript.ps1" %1 %~dp0

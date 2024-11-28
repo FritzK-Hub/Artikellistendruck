@@ -1,8 +1,13 @@
 param (
-    [string]$filePath
+    [string]$filePath,
+	[string]$installPath
 )
-$xmlFile = ".\temp.xml"
+$tmpFileName = "temp.xml"
+$layoutFileName = "EtikettenLayouts.bcfp"
+$xmlFile = "$installPath$tmpFileName"
+$layoutFile = "$installPath$layoutFileName"
 $command = "C:\Program Files (x86)\Barcode Forge\bcf.exe"
+
 
 function Append-Xml {
 	param (
@@ -16,46 +21,66 @@ function Clubber-Xml {
 	)
 	$content | Out-File -FilePath $xmlFile -NoNewline -Encoding utf8
 }
+function Append-Xml-Header {
+	Clubber-Xml '<?xml version="1.0" encoding="UTF-8"?><printjob labelsperrow="1" printdirection="vertical" startpositionx="1" startpositiony="1" designno="'
+	Append-Xml $layout
+	Append-Xml '"><printservice name="Microsoft Print to PDF"/>'
+}
+function Append-Xml-Fieldmap {
+	param (
+		[string]$line
+	)
+	Append-Xml '<fieldmap>'
+	$tokens = $line -split ";"
+	foreach ($token in $tokens) {
+		Append-Xml '<field>'
+		Append-Xml $token
+		Append-Xml '</field>'
+	}
+	Append-Xml '</fieldmap><data>'
+}
+function Append-Xml-Row {
+	param (
+		[string]$line
+	)
+	Append-Xml '<row>'
+	$tokens = $line -split ";"
+	foreach ($token in $tokens) {
+		Append-Xml '<cell>'
+		Append-Xml $token
+		Append-Xml '</cell>'
+	}
+	Append-Xml '</row>'
+}
 
 
-function Drucken {
+function Print {
 	param (
 		[string]$layout
 	)
 	[void]$MainForm.Dispose()
 	
-	Clubber-Xml '<?xml version="1.0" encoding="UTF-8"?><printjob labelsperrow="1" printdirection="vertical" startpositionx="1" startpositiony="1"><printservice name="Microsoft Print to PDF"/>'
+	Append-Xml-Header
+	
 	$counter = 0
 	Get-Content -Path $filePath | ForEach-Object {
 		$line = $_
 		if ($counter++ -eq 0) {
-			Append-Xml '<fieldmap>'
-			$tokens = $line -split ";"
-			foreach ($token in $tokens) {
-				Append-Xml '<field>'
-				Append-Xml $token
-				Append-Xml '</field>'
-			}
-			Append-Xml '</fieldmap><data>'
+			Append-Xml-Fieldmap $line
 			return
+		} else {
+			Append-Xml-Row $line
 		}
-		Append-Xml '<row>'
-		$tokens = $line -split ";"
-		foreach ($token in $tokens) {
-			Append-Xml '<cell>'
-			Append-Xml $token
-			Append-Xml '</cell>'
-		}
-		Append-Xml '</row>'
 	}
+	
 	Append-Xml '</data></printjob>'
 
-	& "$command" $layout $xmlFile
+	& "$command" $layoutFile $xmlFile
 	Return
-} 
+}
 
 
-
+# Setup GUI
 Add-Type -AssemblyName System.Windows.Forms
 $MainForm                    = New-Object system.Windows.Forms.Form
 $MainForm.ClientSize         = '512,92'
@@ -70,7 +95,7 @@ $RegalBtn.height            = 80
 $RegalBtn.location          = New-Object System.Drawing.Point(28,6)
 $RegalBtn.Font              = 'Microsoft Sans Serif,18'
 $RegalBtn.ForeColor         = "#ffffff"
-$RegalBtn.Add_Click({Drucken ".\Regaletiketten.bcfp"})
+$RegalBtn.Add_Click({Print "1"})
 
 $HangBtn                   = New-Object system.Windows.Forms.Button
 $HangBtn.BackColor         = "#ca0a1c"
@@ -80,7 +105,7 @@ $HangBtn.height            = 80
 $HangBtn.location          = New-Object System.Drawing.Point(274,6)
 $HangBtn.Font              = 'Microsoft Sans Serif,18'
 $HangBtn.ForeColor         = "#ffffff"
-$HangBtn.Add_Click({Drucken ".\Haengeetiketten.bcfp"})
+$HangBtn.Add_Click({Print "2"})
 
 $MainForm.Controls.Add($RegalBtn)
 $MainForm.Controls.Add($HangBtn)
