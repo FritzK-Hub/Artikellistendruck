@@ -15,35 +15,44 @@ function Append-Xml {
 	)
 	$content | Out-File -FilePath $xmlFile -Append -NoNewline -Encoding utf8
 }
-
 function Clubber-Xml {
 	param (
 		[string]$content
 	)
 	$content | Out-File -FilePath $xmlFile -NoNewline -Encoding utf8
 }
-
 function Append-Xml-Header {
 	Clubber-Xml '<?xml version="1.0" encoding="UTF-8"?><printjob labelsperrow="1" printdirection="vertical" startpositionx="1" startpositiony="1" designno="'
 	Append-Xml $layout
 	Append-Xml '"><printservice name="Microsoft Print to PDF"/>'
 }
-
-function Append-Xml-Block {
+function Append-Xml-Fieldmap {
 	param (
-		[string]$name,
-		[string]$inner,
 		[string]$line
 	)
-	Append-Xml "<$name>"
+	Append-Xml '<fieldmap>'
 	$tokens = $line -split ";"
 	foreach ($token in $tokens) {
-		Append-Xml "<$inner>"
+		Append-Xml '<field>'
 		Append-Xml $token
-		Append-Xml "</$inner>"
+		Append-Xml '</field>'
 	}
-	Append-Xml "</$name>"
+	Append-Xml '</fieldmap><data>'
 }
+function Append-Xml-Row {
+	param (
+		[string]$line
+	)
+	Append-Xml '<row>'
+	$tokens = $line -split ";"
+	foreach ($token in $tokens) {
+		Append-Xml '<cell>'
+		Append-Xml $token
+		Append-Xml '</cell>'
+	}
+	Append-Xml '</row>'
+}
+
 
 function Print {
 	param (
@@ -57,13 +66,13 @@ function Print {
 	Get-Content -Path $filePath | ForEach-Object {
 		$line = $_
 		if ($counter++ -eq 0) {
-			Append-Xml-Block "fieldmap" "field" $line
-			Append-Xml '<data>'
+			Append-Xml-Fieldmap $line
 			return
 		} else {
-			Append-Xml-Block "row" "cell" $line
+			Append-Xml-Row $line
 		}
 	}
+	
 	Append-Xml '</data></printjob>'
 
 	& "$command" $layoutFile $xmlFile
@@ -79,7 +88,7 @@ $MainForm.text               = "Artikelliste Drucken"
 $MainForm.BackColor          = "#ffffff"
 
 $RegalBtn                   = New-Object system.Windows.Forms.Button
-$RegalBtn.BackColor         = "#3c3c3b"
+$RegalBtn.BackColor         = "#ca0a1c"
 $RegalBtn.text              = "Regaletiketten"
 $RegalBtn.width             = 200
 $RegalBtn.height            = 80
@@ -89,7 +98,7 @@ $RegalBtn.ForeColor         = "#ffffff"
 $RegalBtn.Add_Click({Print "1"})
 
 $HangBtn                   = New-Object system.Windows.Forms.Button
-$HangBtn.BackColor         = "#3c3c3b"
+$HangBtn.BackColor         = "#ca0a1c"
 $HangBtn.text              = "Haengeetiketten"
 $HangBtn.width             = 200
 $HangBtn.height            = 80
