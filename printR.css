@@ -1,0 +1,31 @@
+@page {
+    size: 60mm 31mm;
+}
+
+/* Elements to force page breaks */
+.page-break {
+    width: 60mm;
+    left: -2mm;
+    height: 30.9mm;
+    box-sizing: content-box;
+    position: relative;
+    page-break-before: always;
+    overflow: hidden;
+    border: 1px solid black;
+}
+
+.gui-container {
+    display: none !important;
+}
+
+.list-p {
+    top: 12mm;
+    left: 3mm;
+    position: relative;
+}
+
+.sansserif {
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 2mm;
+}

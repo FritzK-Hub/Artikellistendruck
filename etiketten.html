@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document with Multiple Pages</title>
+    <link rel="stylesheet" media="screen" href="gui.css"/>
+    <link id="print-style-h" rel="stylesheet" media="print" href="printH.css"/>
+    <link id="print-style-r" rel="stylesheet" media="print" href="printR.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="gui-container">
+        <img id="main-logo" src="logo.png" alt="SBP Logo">
+        <p class="title-name roboto">Artikelliste-11/11/24-fd34ll3</p>
+        <div class="button-background">
+            <div class="button-container">
+                <button onclick="printEtikett(true)" id="haenge">HAENGE-ETIKETT</button>
+                <button onclick="printEtikett(false)" id="regal">REGAL-ETIKETT</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="page-break">
+        <p class="list-p sansserif">Test</p>
+    </div>
+    <div class="page-break">
+        <p class="list-p sansserif">Test</p>
+    </div>
+    <div class="page-break">
+        <p class="list-p sansserif">Test</p>
+    </div>
+
+    <script type="text/javascript">
+        function printEtikett(isH) {
+            var styleH = document.getElementById("print-style-h");
+            var styleR = document.getElementById("print-style-r");
+
+            if (isH) {
+                styleH.disabled = false;
+                styleR.disabled = true;
+            } else {
+                styleH.disabled = true;
+                styleR.disabled = false;
+            }
+            window.print();
+        }
+    </script>
+
+    <!-- Add more pages as needed -->
+</body>
+</html>
