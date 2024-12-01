@@ -1,21 +1,25 @@
 /* Elements to force page breaks */
 .page-break {
+    background-color: #f2f2f2;
     page-break-before: always;
-    width: 100%;
-    height: 11mm;
-    display: flex;
+    height: 32px;
+    width: fit-content;
     align-items: center;
     justify-content: center;
+    display: flex;
+}
+
+.outer-page-break {
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
 }
 
 body {
     margin: 0;
 }
 
-.list-p {
-    top: 3mm;
-    left: 3mm;
-}
 
 button {
     background-color: #3c3c3b;
@@ -23,8 +27,9 @@ button {
     color: lightgrey;
     margin-left: 16px;
     margin-right: 16px;
-    transform: translateY(50%);
-    font-size: 1.5rem;
+    transform: translateY(90%);
+    font-size: 1.2rem;
+    font-weight: bold;
 }
 
 .roboto {
@@ -34,9 +39,18 @@ button {
     font-style: normal;
 }
 
+svg {
+    margin-left: 4px;
+    margin-right: 4px;
+    width: 128px;
+    height: 24px;
+}
+
 .sansserif {
     font-family: sans-serif;
     font-weight: bold;
+    margin-left: 4px;
+    margin-right: 4px;
 }
 
 .title-name {

@@ -1,15 +1,22 @@
 @page {
     size: 60mm 31mm;
+    margin: 0mm;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
 }
 
 /* Elements to force page breaks */
 .page-break {
     width: 60mm;
-    left: -2mm;
-    height: 30.9mm;
+    left: 0mm;
+    height: 30.5mm;
     box-sizing: content-box;
     position: relative;
-    page-break-before: always;
+    page-break-after: always;
     overflow: hidden;
     border: 1px solid black;
 }
@@ -19,13 +26,69 @@
 }
 
 .list-p {
+    margin: 0;
+    padding: 0;
+    top: 18mm;
+    left: 4mm;
+    position: absolute;
+    font-size: 2mm;
+}
+.list-pp {
+    margin: 0;
+    padding: 0;
+    top: 2mm;
+    left: 4mm;
+    position: absolute;
+    font-size: 3mm;
+    font-weight: bold;
+}
+.list-ppp {
+    margin: 0;
+    padding: 0;
+    width: 32mm;
+    height: 22mm;
+    top: 14mm;
+    left: 27mm;
+    position: absolute;
+    font-size: 10mm;
+    font-weight: bold;
+    text-align: right;
+}
+.list-pppp {
+    margin: 0;
+    padding: 0;
+    top: 25mm;
+    left: 4mm;
+    position: absolute;
+    font-size: 2mm;
+}
+.list-ppppp {
+    margin: 0;
+    padding: 0;
+    top: 14mm;
+    left: 4mm;
+    position: absolute;
+    font-size: 2mm;
+    letter-spacing: 0.5mm;
+}
+/* Clear both left and right floats */
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+
+svg {
+    margin: 0;
+    padding: 0;
     top: 12mm;
-    left: 3mm;
-    position: relative;
+    left: 4mm;
+    width: 32mm;
+    height: 2mm;
+    position: absolute;
 }
 
 .sansserif {
     font-family: sans-serif;
-    font-weight: bold;
-    font-size: 2mm;
 }

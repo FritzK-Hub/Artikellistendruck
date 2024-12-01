@@ -1,15 +1,21 @@
 @page {
     size: 26mm 39mm;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
 }
 
 /* Elements to force page breaks */
 .page-break {
     width: 26mm;
-    left: -2mm;
-    height: 38.9mm;
+    left: 0mm;
+    height: 38.5mm;
     box-sizing: content-box;
     position: relative;
-    page-break-before: always;
+    page-break-after: always;
     overflow: hidden;
     border: 1px solid black;
 }
@@ -22,6 +28,16 @@
     top: 3mm;
     left: 3mm;
     position: relative;
+}
+
+svg {
+    margin: 0;
+    padding: 0;
+    top: 22mm;
+    left: 1mm;
+    width: 24mm;
+    height: 5mm;
+    position: absolute;
 }
 
 .sansserif {
