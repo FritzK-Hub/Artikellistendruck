@@ -132,13 +132,6 @@ function Append-Svg {
 	$out
 }
 
-
-
-function Clubber-Xml {
-	param (
-		[string]$content
-	)
-}
 $svgOut = '<svg id="Barcode" width="100%" height="100%" viewBox="0 0 123 100" preserveAspectRatio="none"> xmlns="http://www.w3.org/2000/svg">'
 $c128CStart = 105;
 $c128ToB = 100;

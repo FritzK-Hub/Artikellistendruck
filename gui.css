@@ -53,6 +53,10 @@ button {
     height: 40px;
 }
 
+svg {
+    filter: invert(0.2);
+}
+
 
 
 .sansserif {
