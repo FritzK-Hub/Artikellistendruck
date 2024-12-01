@@ -133,65 +133,47 @@ function Append-Svg {
 }
 
 
-function Append-Xml {
-	param (
-		[string]$content
-	)
-	$content | Out-File -FilePath $xmlFile -Append -NoNewline -Encoding utf8
-}
+
 function Clubber-Xml {
 	param (
 		[string]$content
 	)
-	$content | Out-File -FilePath $xmlFile -NoNewline -Encoding utf8
 }
-$GTIN = '9002701143629'
-
 $svgOut = '<svg id="Barcode" width="100%" height="100%" viewBox="0 0 123 100" preserveAspectRatio="none"> xmlns="http://www.w3.org/2000/svg">'
-$offset = 0
-
+$c128CStart = 105;
+$c128ToB = 100;
+$c128stop = 106;
 $checksum = 105;
 $checkmultiplier = 1;
-for ($i = 0; $i -lt 6; $i += 2) {
-	$svgOut += Append-Svg $Code128Spaces[105][$i] $offset
-	$offset += $Code128Spaces[105][$i + 1] + $Code128Spaces[105][$i]
+function Concat-Svg {
+	param (
+		[int]$value,
+		[int]$pos
+	)
+	$checksum += $value * $checkmultiplier
+	$offset = $pos
+	$checkmultiplier += 1
+	$out = ""
+	for ($i = 0; $i -lt 6; $i += 2) {
+		$out += Append-Svg $Code128Spaces[$value][$i] $offset
+		$offset += $Code128Spaces[$value][$i + 1] + $Code128Spaces[$value][$i]
+	}
+	$out
 }
+$GTIN = '1234567089054'
+
+$svgOut += Concat-Svg $c128CStart 0
 foreach ($item in 0..5) {
 	$currentValue = [int]($GTIN.Substring($item*2, 2))
 	$offsetTotal = ($item * 11 + 11)
 	$offsetCurrent = 0
-	$checksum += $currentValue * $checkmultiplier
-	$checkmultiplier += 1
-	for ($i = 0; $i -lt 6; $i += 2) {
-		$svgOut += Append-Svg $Code128Spaces[$currentValue][$i] ($offsetTotal + $offsetCurrent)
-		$offsetCurrent += $Code128Spaces[$currentValue][$i] + $Code128Spaces[$currentValue][$i+1]
-	}
+	$svgOut += Concat-Svg $currentValue ($offsetTotal + $offsetCurrent)
 }
-$offset = 77 
-$checksum += 100 * $checkmultiplier
-$checkmultiplier += 1
-for ($i = 0; $i -lt 6; $i += 2) {
-	$svgOut += Append-Svg $Code128Spaces[100][$i] $offset
-	$offset += $Code128Spaces[100][$i + 1] + $Code128Spaces[100][$i]
-}
-$offset = 88
-$value = [int]$GTIN.Substring(12,1) + 16
-$checksum += $value * $checkmultiplier
-$checksum = $checksum % 103
-for ($i = 0; $i -lt 6; $i += 2) {
-	$svgOut += Append-Svg $Code128Spaces[$value][$i] $offset
-	$offset += $Code128Spaces[$value][$i + 1] + $Code128Spaces[$value][$i]
-}
-$offset = 99 
-for ($i = 0; $i -lt 6; $i += 2) {
-	$svgOut += Append-Svg $Code128Spaces[$checksum][$i] $offset
-	$offset += $Code128Spaces[$checksum][$i + 1] + $Code128Spaces[$checksum][$i]
-}
-$offset = 110
-for ($i = 0; $i -lt 6; $i += 2) {
-	$svgOut += Append-Svg $Code128Spaces[106][$i] $offset
-	$offset += $Code128Spaces[106][$i + 1] + $Code128Spaces[106][$i]
-}
+$svgOut += Concat-Svg $c128ToB 77
+$lastDigit = [int]$GTIN.Substring(12,1) + 16
+$svgOut += Concat-Svg $lastDigit 88 
+$svgOut += Concat-Svg $checksum 99
+$svgOut += Concat-Svg $c128stop 110
 $svgOut += Append-Svg 2 121
 $svgOut += '</svg>'
-Clubber-Xml $svgOut
+$svgOut | Out-File -FilePath $xmlFile -NoNewline -Encoding utf8

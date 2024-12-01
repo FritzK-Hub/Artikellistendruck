@@ -7,6 +7,9 @@ body {
     margin: 0;
     padding: 0;
 }
+.page-break:first-of-type {
+    display: none !important;
+}
 
 /* Elements to force page breaks */
 .page-break {
@@ -17,7 +20,6 @@ body {
     position: relative;
     page-break-after: always;
     overflow: hidden;
-    border: 1px solid black;
 }
 
 .gui-container {
@@ -25,11 +27,51 @@ body {
 }
 
 .list-p {
-    top: 3mm;
-    left: 3mm;
-    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 16.5mm;
+    left: 1mm;
+    width: 24mm;
+    height: 3mm;
+    font-size: 2mm;
+    position: absolute;
 }
-
+.list-pppp {
+    margin: 0;
+    padding: 0;
+    top: 19mm;
+    left: 1mm;
+    width: 24mm;
+    height: 3mm;
+    font-size: 2mm;
+    position: absolute;
+}
+.list-pp {
+    margin: 0;
+    padding: 0;
+    top: 1mm;
+    left: 1mm;
+    width: 24mm;
+    height: 15mm;
+    font-size: 2.5mm;
+    font-weight: bold;
+    position: absolute;
+    overflow-wrap: anywhere;
+    word-break: break-all;
+    overflow: hidden;
+}
+.list-ppppp {
+    margin: 0;
+    padding: 0;
+    top: 27mm;
+    left: 1mm;
+    width: 24mm;
+    height: 3mm;
+    font-size: 2mm;
+    position: absolute;
+    letter-spacing: 0.5mm;
+    text-align: center;
+}
 svg {
     margin: 0;
     padding: 0;
@@ -39,9 +81,18 @@ svg {
     height: 5mm;
     position: absolute;
 }
-
+.list-ppp {
+    margin: 0;
+    padding: 0;
+    top: 29mm;
+    left: 1mm;
+    width: 24mm;
+    height: 11mm;
+    font-size: 8mm;
+    font-weight: bold;
+    text-align: right;
+    position: absolute;
+}
 .sansserif {
     font-family: sans-serif;
-    font-weight: bold;
-    font-size: 2mm;
 }
