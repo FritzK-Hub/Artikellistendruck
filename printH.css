@@ -7,7 +7,8 @@ body {
     margin: 0;
     padding: 0;
 }
-.page-break:first-of-type {
+
+.dont-print {
     display: none !important;
 }
 
@@ -26,7 +27,7 @@ body {
     display: none !important;
 }
 
-.list-p {
+#ArticleNr {
     margin: 0;
     padding: 0;
     top: 16.5mm;
@@ -36,7 +37,8 @@ body {
     font-size: 2mm;
     position: absolute;
 }
-.list-pppp {
+
+#Source {
     margin: 0;
     padding: 0;
     top: 19mm;
@@ -46,7 +48,8 @@ body {
     font-size: 2mm;
     position: absolute;
 }
-.list-pp {
+
+#Name {
     margin: 0;
     padding: 0;
     top: 1mm;
@@ -60,7 +63,8 @@ body {
     word-break: break-all;
     overflow: hidden;
 }
-.list-ppppp {
+
+#GTIN {
     margin: 0;
     padding: 0;
     top: 27mm;
@@ -72,7 +76,8 @@ body {
     letter-spacing: 0.5mm;
     text-align: center;
 }
-svg {
+
+#Barcode-Code128 {
     margin: 0;
     padding: 0;
     top: 22mm;
@@ -81,7 +86,8 @@ svg {
     height: 5mm;
     position: absolute;
 }
-.list-ppp {
+
+#Price {
     margin: 0;
     padding: 0;
     top: 29mm;
@@ -93,6 +99,7 @@ svg {
     text-align: right;
     position: absolute;
 }
+
 .sansserif {
     font-family: sans-serif;
 }
