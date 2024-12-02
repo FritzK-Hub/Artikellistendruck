@@ -36,6 +36,7 @@ body {
     height: 3mm;
     font-size: 2mm;
     position: absolute;
+    letter-spacing: 0.2mm;
 }
 
 #Source {
@@ -47,6 +48,7 @@ body {
     height: 3mm;
     font-size: 2mm;
     position: absolute;
+    letter-spacing: 0.2mm;
 }
 
 #Name {
@@ -68,12 +70,12 @@ body {
     margin: 0;
     padding: 0;
     top: 27mm;
-    left: 1mm;
+    left: 1.5mm;
     width: 24mm;
     height: 3mm;
     font-size: 2mm;
     position: absolute;
-    letter-spacing: 0.5mm;
+    letter-spacing: 0.7mm;
     text-align: center;
 }
 

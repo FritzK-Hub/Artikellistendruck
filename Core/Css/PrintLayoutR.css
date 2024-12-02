@@ -36,6 +36,7 @@ body {
     left: 3mm;
     position: absolute;
     font-size: 2mm;
+    letter-spacing: 0.4mm;
 }
 #Name {
     margin: 0;
@@ -54,12 +55,12 @@ body {
 #Price {
     margin: 0;
     padding: 0;
-    width: 36mm;
+    width: 40mm;
     height: 22mm;
-    top: 14mm;
-    left: 22mm;
+    top: 15mm;
+    left: 18mm;
     position: absolute;
-    font-size: 12mm;
+    font-size: 13mm;
     font-weight: bold;
     text-align: right;
 }
@@ -67,19 +68,22 @@ body {
 #Source {
     margin: 0;
     padding: 0;
+    width: 16mm;
+    height: 5mm;
     top: 25mm;
     left: 3mm;
     position: absolute;
     font-size: 2mm;
+    letter-spacing: 0.4mm;
 }
 #GTIN {
     margin: 0;
     padding: 0;
-    top: 14mm;
+    top: 14.2mm;
     left: 3mm;
     position: absolute;
     font-size: 2mm;
-    letter-spacing: 0.5mm;
+    letter-spacing: 0.75mm;
 }
 /* Clear both left and right floats */
 .clearfix::after {

@@ -32,7 +32,7 @@
     padding: 0;
 }
 
-.only-print {
+.hide {
     display: none !important;
 }
 
@@ -155,13 +155,13 @@ button:hover {
 #Barcode-Code128 {
     height: 65%;
     width: 100%;
+    margin-left: 0px;
     margin-top: 6px;
 }
 
 .header {
     height: 100%;
     width: 100%;
-    top: 8px;
     position: relative;
 }
 
@@ -173,6 +173,9 @@ button:hover {
     overflow: scroll;
 }
 
+#Source {
+    margin-top: 4px;
+}
 
 
 #ArticleNr-Container {
@@ -180,10 +183,7 @@ button:hover {
 }
 
 #Name-Container {
-    width: 50%;
-    overflow-wrap: anywhere;
-    word-break: break-all;
-    line-height: calc(var(--article-height)*0.3);
+    width: 35%;
 }
 
 
@@ -191,3 +191,8 @@ button:hover {
     width: 10%;
     text-align: right;
 }
+
+#Source-Container {
+    width: 15%;
+}
+

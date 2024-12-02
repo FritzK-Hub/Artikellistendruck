@@ -1,15 +1,20 @@
 param (
-    [string]$filePath,
-	[string]$installPath
+    [string]$filePath
 )
 
+Get-ChildItem -Path $PSScriptRoot\Barcodes -Include *.* -File -Recurse | ForEach-Object { $_.Delete()}
 $Code128Spaces = . $PSScriptRoot\Code128Array.ps1
 
-$tmpFileName = "temp.xml"
-#$layoutFileName = "EtikettenLayouts.bcfp"
-$xmlFile = "$installPath$tmpFileName"
-#$layoutFile = "$installPath$layoutFileName"
-#$command = "C:\Program Files (x86)\Barcode Forge\bcf.exe"
+$articleAmount = 1;
+$svgFileNames = [System.Collections.ArrayList]@()
+$svgFile = "code_" + $([string]$articleAmount) + ".svg"
+$articleAmount = 2;
+$svgFile2 = "code_" + $([string]$articleAmount) + ".svg"
+$svgFileNames.Add($svgFile)
+$svgFileNames.Add($svgFile2)
+$xmlFile = "$PSScriptRoot\Barcodes\" + $svgFileNames[0]
+$xmlFile = "$PSScriptRoot\Barcodes\" + $svgFileNames[1]
+Write-Host $svgFileNames
 
 function Add-Svg {
 	param (
@@ -25,7 +30,7 @@ function Add-Svg {
 	$out
 }
 
-$svgOut = '<svg id="Barcode" width="100%" height="100%" viewBox="0 0 123 100" preserveAspectRatio="none"> xmlns="http://www.w3.org/2000/svg">'
+$svgOut = '<svg id="Barcode" width="100%" height="100%" viewBox="0 0 123 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">'
 $c128CStart = 105;
 $c128ToB = 100;
 $c128stop = 106;
