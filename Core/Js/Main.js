@@ -108,43 +108,57 @@ const c128 = [
 	[2,3,3,1,1,1]
 ];
 
-function generateCharacter_C128(codeArr, checksumArr, value, pos) {
-    let offset = pos;
-    for (let i = 0; i < 6; i += 2) {
-        let width = c128[value][i];
-        let rect = `<rect width="${width}" height="100" x="${offset}" y="0" fill="black" />`;
-        codeArr.push(rect);
-        offset += c128[value][i] + c128[value][i + 1]
-    }
-    checksumArr[0] += value;
-    checksumArr[1] += 1;
-    return value;
-}
+class C128 {
+    characterWidth = 11;
+    c128CStart = 105;
+    c128ToB = 100;
+    c128stop = 106;
+    checksum = 0;
+    checkmultiplier = 1;
 
-function generateBarcode_C128(barcodeCharacters, gtin) {
-    gtin = String(gtin).trim()
-    let characterWidth = 11;
-    let c128CStart = 105;
-    let c128ToB = 100;
-    let c128stop = 106;
-    let checksumArr = [105, 1];
-
-    generateCharacter_C128(barcodeCharacters, checksumArr, c128CStart, 0);
-    checksumArr[1] = 1;
-
-    for (let i = 0; i <= 5; i++) {
-        let currentValue = parseInt(gtin.substring(i*2, (i*2)+2));
-        let offset = (i * characterWidth) + characterWidth;
-        generateCharacter_C128(barcodeCharacters, checksumArr, currentValue, offset);
+    constructor (codeArr, gtin) {
+        this.generateBarcode_C128(codeArr, gtin)
+        console.log("___________")
     }
 
-    generateCharacter_C128(barcodeCharacters, checksumArr, c128ToB, 77);
-    let lastDigit = parseInt(gtin[12]) + 16;
-    generateCharacter_C128(barcodeCharacters, checksumArr, lastDigit, 88);
-    generateCharacter_C128(barcodeCharacters, checksumArr, checksumArr[0]%103, 99);
-    generateCharacter_C128(barcodeCharacters, checksumArr, c128stop, 110);
-    barcodeCharacters.push(`<rect width="2" height="100" x="121" y="0" fill="black" />`);
+    generateCharacter_C128(codeArr, value, pos) {
+        console.log(value + " " + (this.checksum + value * this.checkmultiplier))
+        let offset = pos;
+        for (let i = 0; i < 6; i += 2) {
+            let width = c128[value][i];
+            let rect = `<rect width="${width}" height="100" x="${offset}" y="0" fill="black" />`;
+            codeArr.push(rect);
+            offset += c128[value][i] + c128[value][i + 1]
+        }
+        this.checksum += value * this.checkmultiplier;
+        this.checkmultiplier += 1;
+        return value;
+    }
+
+    generateBarcode_C128(codeArr, gtin) {
+        gtin = String(gtin).trim()
+        this.generateCharacter_C128(codeArr, this.c128CStart, 0);
+        this.checkmultiplier = 1;
+
+        for (let i = 0; i <= 5; i++) {
+            let currentValue = parseInt(gtin.substring(i*2, (i*2)+2));
+            let offset = (i * this.characterWidth) + this.characterWidth;
+            this.generateCharacter_C128(codeArr, currentValue, offset);
+        }
+
+        this.generateCharacter_C128(codeArr, this.c128ToB, 77);
+        let lastDigit = parseInt(gtin[12]) + 16;
+        this.generateCharacter_C128(codeArr, lastDigit, 88);
+        console.log(String(gtin) + " " + this.checksum % 103)
+        this.generateCharacter_C128(codeArr, this.checksum % 103, 99);
+        this.generateCharacter_C128(codeArr, this.c128stop, 110);
+        codeArr.push(`<rect width="2" height="100" x="121" y="0" fill="black" />`);
+    }
 }
+
+
+
+
 
 const articleNode = document.getElementsByClassName("page-break")[0];
 const listNode = document.getElementById("ArticleList-Container");
@@ -160,12 +174,13 @@ let sourceData      = document.getElementById("Source-Data").innerText.split(";"
 
 document.getElementsByTagName("title")[0].innerText = titleData;
 document.getElementById("Article-Title").innerHTML = titleData;
+
 for (let index = 0; index < dataAmount; index++) {
     let toAppend = articleNode.cloneNode(true);
     let currentName = nameData[index].replace(/[\"]/g, "").replace(/[,]/g, '<br>');
 
     let barcode = [];
-    generateBarcode_C128(barcode, gtinData[index]);
+    new C128(barcode, gtinData[index]);
     barcode.forEach(character => {
         toAppend.querySelector('#Barcode-Code128').innerHTML += character;
     });

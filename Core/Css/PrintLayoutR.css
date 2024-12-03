@@ -36,6 +36,7 @@ body {
     left: 3mm;
     position: absolute;
     font-size: 2mm;
+    letter-spacing: 0.2mm;
 }
 #Name {
     margin: 0;
@@ -47,9 +48,9 @@ body {
     position: absolute;
     font-size: 3mm;
     font-weight: bold;
-    overflow-wrap: anywhere;
-    word-break: break-all;
     overflow: hidden;
+    hyphens: auto;
+    hyphenate-limit-chars: auto 5;
 }
 #Price {
     margin: 0;
