@@ -10,21 +10,22 @@ function CSVtoHTML {
     $priceData = "" 
     $sourceData = "" 
     
-    $counter = 0
+    $counter = -1
     $CSV | ForEach-Object {
-        if ($counter++ -eq 0) {
+        if ($counter++ -eq -1) {
             return
         }
         $tokens = $_.Split(";")
+        $sourceToken = $tokens[5]
 
         $gtinData += $tokens[0] + ";"
         $articleNrData += $tokens[1] + ";"
         $nameData += $tokens[2] + ";"
         $priceData += $tokens[3] + ";"
-        $sourceData += $tokens[5] + ";"
+        $sourceData += $sourceToken.Replace("Strecke ", "").Replace("Lager ", "") + ";"
     }
 
-    $dataBuilder = $(InnerDiv $titleData "Title-Data")
+    $dataBuilder =  $(InnerDiv $titleData "Title-Data")
     $dataBuilder += $(InnerDiv $gtinData "GTIN-Data")
     $dataBuilder += $(InnerDiv $articleNrData "ArticleNr-Data")
     $dataBuilder += $(InnerDiv $nameData "Name-Data")

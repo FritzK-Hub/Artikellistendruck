@@ -47,7 +47,7 @@ body {
     height: 2mm;
     font-size: 1.4mm;
     position: absolute;
-    letter-spacing: 0.1m;
+    letter-spacing: 0.1em;
     overflow: hidden;
 }
 
