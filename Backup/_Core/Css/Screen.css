@@ -141,7 +141,7 @@ button:hover {
     margin-right: 8px;
     height: 100%;
     width: 100%;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 .list-item {
@@ -170,7 +170,7 @@ button:hover {
     width: 100%;
     text-align: center;
     letter-spacing: 5px;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 #Source {

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>...</title>
+    <link rel="icon" type="image/x-icon" href="Icons/spb_main.png">
+    <link rel="stylesheet" media="screen" href="Css/Screen.css"/>
+    <link id="print-style-h" rel="stylesheet" media="print" href="Css/PrintLayoutH.css"/>
+    <link id="print-style-r" rel="stylesheet" media="print" href="Css/PrintLayoutR.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap" rel="stylesheet">
+    <script src="Main.js" defer></script>
+</head>
+
+<body>
+    <div id="Header-Container" class="dont-print">
+        <img id="Main-Logo" src="Icons/spb_main.png" alt="SBP Logo">
+        <p id="Article-Title" class="roboto w500">...</p>
+    </div>
+
+    <div id="Button-Container" class="dont-print">
+        <button onclick="printEtikett(true)" class="roboto w500">HAENGE-ETIKETT</button>
+        <button onclick="printEtikett(false)" class="roboto w500">REGAL-ETIKETT</button>
+    </div>
+
+    <div id="ArticleList-Container">
+        <div id="Article-Container" class="dont-print">
+            <div id="Barcode-Container" class="list-element">
+                <p class="roboto w300 header">Barcode</p>
+            </div>
+            <div id="ArticleNr-Container" class="list-element">
+                <p class="roboto w300 header">Artikel-Nr.</p>
+            </div>
+            <div id="Source-Container" class="list-element">
+                <p class="roboto w300 header">Bezieher</p>
+            </div>
+            <div id="Name-Container" class="list-element">
+                <p class="roboto w300 header">Bezeichnung</p>
+            </div>
+            <div id="Price-Container" class="list-element">
+                <p class="roboto w300 header">VK</p>
+            </div>
+        </div>
+        
+        <div id="Article-Container" class="page-break">
+            <div id="Barcode-Container" class="list-element">
+                <object id="Barcode-Code128" class="roboto w300 list-element" data="..." type="image/svg+xml"></object>
+                <p id="GTIN" class="sansserif">...</p>
+            </div>
+            <div id="ArticleNr-Container" class="roboto w300 list-element">
+                <p id="ArticleNr" class="list-item sansserif">...</p>
+            </div>
+            <div id="Source-Container" class="roboto w300 list-element">
+                <p id="Source" class="sansserif">...</p>
+            </div>
+            <div id="Name-Container" class="roboto w300 list-element">
+                <p id="Name" class="list-item sansserif">...</p>
+            </div>
+            <div id="Price-Container" class="roboto w300 list-element">
+                <p id="Price" class="list-item sansserif">...</p>
+            </div>           
+        </div>
+    </div>
+
+    <div id="Article-Data" amount="2" class="hide dont-print">
+        <div id="Title-Data">
+            Artikelliste-11/11/24-4589dfh4
+        </div>
+        <div id="Barcode-Data">
+            Svg\code_2.svg;Svg\code_2.svg 
+        </div>
+        <div id="GTIN-Data">
+            9002701143629;9111101143629
+        </div>
+        <div id="ArticleNr-Data">
+            160420008;160521118
+        </div>
+        <div id="Name-Data">
+            "KapselgehörschutzKapselgeh","Basic+","";"Kapsel","","Test"
+        </div>
+        <div id="Price-Data">
+            4,99;120,49
+        </div>
+        <div id="Source-Data">
+            Gebol;Hama GmbH
+        </div>
+    </div>
+</body>
+</html>
