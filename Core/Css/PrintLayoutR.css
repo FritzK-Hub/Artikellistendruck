@@ -1,8 +1,7 @@
 @page {
-    size: 60mm 31mm;
+    size: 60mm 31mm landscape;
     margin: 0mm;
 }
-
 
 body {
     margin: 0;
@@ -13,8 +12,6 @@ body {
     display: none !important;
 }
 
-
-/* Elements to force page breaks */
 .page-break {
     width: 60mm;
     left: 0mm;
@@ -87,12 +84,8 @@ body {
     font-size: 2mm;
     letter-spacing: 0.75mm;
 }
-/* Clear both left and right floats */
-.clearfix::after {
-    content: "";
-    clear: both;
-    display: table;
-}
+
+
 
 
 #Barcode-Code128 {

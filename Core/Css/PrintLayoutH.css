@@ -1,5 +1,5 @@
 @page {
-    size: 26mm 39mm;
+    size: 26mm 39mm landscape;
     margin: 0;
 }
 
@@ -12,7 +12,6 @@ body {
     display: none !important;
 }
 
-/* Elements to force page breaks */
 .page-break {
     width: 26mm;
     left: 0mm;
