@@ -16,13 +16,13 @@ function CSVtoHTML {
             return
         }
         $tokens = $_.Split(";")
-        $sourceToken = $tokens[5]
+        $sourceToken = CleanupSource -Source $tokens[5]
 
         $gtinData += $tokens[0] + ";"
         $articleNrData += $tokens[1] + ";"
         $nameData += $tokens[2] + ";"
         $priceData += $tokens[3] + ";"
-        $sourceData += $sourceToken.Replace("Strecke ", "").Replace("Lager ", "") + ";"
+        $sourceData += $sourceToken + ";"
     }
 
     $dataBuilder =  $(InnerDiv $titleData "Title-Data")
@@ -59,4 +59,15 @@ function OuterDiv {
 </body>
 </html>
 "@ -f $amount, $innerData
+}
+
+function CleanupSource {
+    param (
+        [string]$Source
+    )
+    $waste = @("Strecke ", "Lager ", "(MTS-Intertec)", "GmbH & Co.KG", "GmbH", "Co.KG")
+    $waste | ForEach-Object {
+        $Source = $Source.Replace($_, "")
+    }
+    return $Source
 }
