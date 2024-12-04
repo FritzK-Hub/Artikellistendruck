@@ -6,6 +6,6 @@ param (
 
 $articleList = CSVtoHTML -FileName $FileName -CSV $(Get-Content -Path $FilePath)
 
-$guiPath = "$($PSScriptRoot)\..\Core\Gui.html"
+$guiPath = "$($PSScriptRoot)\..\Interface\Gui.html"
 Copy-Item -Path "$($PSScriptRoot)\HTML\Head.html" -Destination $guiPath
 $articleList | Out-File -FilePath $guiPath -Append -Encoding utf8

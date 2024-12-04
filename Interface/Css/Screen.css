@@ -13,7 +13,7 @@
 }
 
 .roboto {
-    font-family: "Roboto Condensed", sans-serif;
+    font-family: "Roboto Condensed", Arial, sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
 }
@@ -35,7 +35,6 @@
 .hide {
     display: none !important;
 }
-
 
 
 /* HEADER */
@@ -123,7 +122,7 @@ button:hover {
 }
 
 #Article-Container {
-    border-top: 1px solid black;
+    border-top: 1px solid #a4a4a4;
     margin-top: -1px;
     width: 75%;
     height: var(--article-height);
@@ -131,7 +130,7 @@ button:hover {
 }
 
 #Article-Container:first-of-type {
-    border-top: 0px solid black;
+    border-top: 0px solid #a4a4a4;
     height: 32px;
 }
 
@@ -171,6 +170,7 @@ button:hover {
     text-align: center;
     letter-spacing: 5px;
     overflow: hidden;
+	font-family: Arial, sans-serif;
 }
 
 #Source {
@@ -197,4 +197,3 @@ button:hover {
 #Source-Container {
     width: 15%;
 }
-

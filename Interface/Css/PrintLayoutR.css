@@ -1,5 +1,5 @@
 @page {
-    size: 60mm 31mm landscape;
+    size: 60mm 31mm;
     margin: 0mm;
 }
 
@@ -99,5 +99,5 @@ body {
 }
 
 .sansserif {
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
 }
