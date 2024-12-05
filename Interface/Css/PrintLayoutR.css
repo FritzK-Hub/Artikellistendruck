@@ -1,11 +1,15 @@
 @page {
-    size: 60mm 31mm landscape;
+    size: 60mm 31mm;
     margin: 0mm;
 }
 
-body {
-    margin: 0;
-    padding: 0;
+* {
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+}
+
+.bold-weight {
+    font-weight: 600;
 }
 
 .dont-print {
@@ -22,22 +26,24 @@ body {
     overflow: hidden;
 }
 
-.gui-container {
+.clean {
+    margin: 0mm;
+    padding: 0mm;
+}
+
+#ArticleContainer:first-of-type {
     display: none !important;
 }
 
 #ArticleNr {
-    margin: 0;
-    padding: 0;
     top: 18mm;
     left: 3mm;
     position: absolute;
     font-size: 2mm;
     letter-spacing: 0.2mm;
 }
+
 #Name {
-    margin: 0;
-    padding: 0;
     width: 54mm;
     height: 11mm;
     top: 1mm;
@@ -49,9 +55,8 @@ body {
     hyphens: auto;
     hyphenate-limit-chars: auto 5;
 }
+
 #Price {
-    margin: 0;
-    padding: 0;
     width: 40mm;
     height: 22mm;
     top: 15mm;
@@ -63,8 +68,6 @@ body {
 }
 
 #Source {
-    margin: 0;
-    padding: 0;
     width: 15mm;
     height: 4mm;
     top: 26mm;
@@ -75,9 +78,8 @@ body {
     line-height: 2mm;
     overflow: hidden;
 }
+
 #GTIN {
-    margin: 0;
-    padding: 0;
     top: 14.2mm;
     left: 3mm;
     position: absolute;
@@ -85,19 +87,10 @@ body {
     letter-spacing: 0.75mm;
 }
 
-
-
-
 #Barcode-Code128 {
-    margin: 0;
-    padding: 0;
     top: 12mm;
     left: 3mm;
     width: 34mm;
     height: 2mm;
     position: absolute;
-}
-
-.sansserif {
-    font-family: Arial, sans-serif;
 }

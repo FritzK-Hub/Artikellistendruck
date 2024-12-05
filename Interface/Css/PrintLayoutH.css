@@ -1,11 +1,15 @@
 @page {
-    size: 26mm 39mm landscape;
-    margin: 0;
+    size: 26mm 39mm;
+    margin: 0mm;
 }
 
-body {
-    margin: 0;
-    padding: 0;
+* {
+    font-family: Arial, sans-serif;
+    font-weight: 400;
+}
+
+.bold-weight {
+    font-weight: 600;
 }
 
 .dont-print {
@@ -22,13 +26,16 @@ body {
     overflow: hidden;
 }
 
-.gui-container {
+.clean {
+    margin: 0mm;
+    padding: 0mm;
+}
+
+#ArticleContainer:first-of-type {
     display: none !important;
 }
 
 #ArticleNr {
-    margin: 0;
-    padding: 0;
     top: 16.5mm;
     left: 1mm;
     width: 24mm;
@@ -39,8 +46,6 @@ body {
 }
 
 #Source {
-    margin: 0;
-    padding: 0;
     top: 19mm;
     left: 1mm;
     width: 24mm;
@@ -52,8 +57,6 @@ body {
 }
 
 #Name {
-    margin: 0;
-    padding: 0;
     top: 1mm;
     left: 1mm;
     width: 24mm;
@@ -67,8 +70,6 @@ body {
 }
 
 #GTIN {
-    margin: 0;
-    padding: 0;
     top: 27.5mm;
     left: 1.5mm;
     width: 24mm;
@@ -80,8 +81,6 @@ body {
 }
 
 #Barcode-Code128 {
-    margin: 0;
-    padding: 0;
     top: 21.5mm;
     left: 1.1mm;
     width: 24mm;
@@ -90,8 +89,6 @@ body {
 }
 
 #Price {
-    margin: 0;
-    padding: 0;
     top: 29mm;
     left: 1mm;
     width: 24mm;
@@ -100,8 +97,4 @@ body {
     font-weight: bold;
     text-align: right;
     position: absolute;
-}
-
-.sansserif {
-    font-family: Arial, sans-serif;
 }

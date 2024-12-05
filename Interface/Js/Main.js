@@ -34,16 +34,9 @@ for (let index = 0; index < dataAmount; index++) {
 
 articleNode.remove();
 
-function printEtikett(isH) {
-    var styleH = document.getElementById("print-style-h");
-    var styleR = document.getElementById("print-style-r");
-    
-    if (isH) {
-        styleH.disabled = false;
-        styleR.disabled = true;
-    } else {
-        styleH.disabled = true;
-        styleR.disabled = false;
-    }
+
+function printList(h, r, l) {
+    document.getElementById("print-style-h").disabled = !h;
+    document.getElementById("print-style-r").disabled = !r;
     window.print();
 }

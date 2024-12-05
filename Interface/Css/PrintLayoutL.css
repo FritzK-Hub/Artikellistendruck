@@ -1,9 +1,9 @@
 :root {
     --main-color: #ca0a1c;
-    --accent-color-dark: #3c3c3b;
-    --accent-color-light: #4e5052;
-    --accent-color-grey: #d3d3d3;
-	--border-color: #a4a4a4;
+    --accent-color-dark: #000000;
+    --accent-color-light: #000000;
+    --accent-color-grey: #000000;
+	--border-color: #000000;
 
     --header-height: 128px;
     --buttons-height: 48px;
@@ -14,8 +14,6 @@
 }
 
 * {
-    margin: 0;
-    padding: 0;
     font-family: Arial, sans-serif;
     font-weight: 400;
 }
@@ -24,99 +22,42 @@
     font-weight: 600;
 }
 
-.hide {
+.dont-print {
     display: none !important;
 }
 
-
-/* HEADER */
-/* HEADER */
-
-
-
-
-#Header-Container {
-    height: var(--header-height);
-    width: 100%;
-    background-color: var(--main-color);
-}
-
-#Main-Logo {
-    margin: 14px;
-    width: 100px;
-    height: 100px;
-    float: left;
-}
-
-#Article-Title {
-    color: white;
-    font-size: 32px;
-    line-height: var(--header-height);
-    float: left;
-    height:100%;
-    width: calc(100% - var(--header-height));
-    text-align: left;
+.page-break {
+    width: 60mm;
+    left: 0mm;
+    height: 30.5mm;
+    box-sizing: content-box;
+    position: relative;
+    page-break-after: auto;
     overflow: hidden;
 }
 
-
-
-
-/* BUTTONS */
-/* BUTTONS */
-
-
-
-
-#Button-Container {
-    background-color: var(--accent-color-dark);
-    height: var(--buttons-height);
-    width: 100%;
-    margin-top: 4px;
-    display: flex;
-    justify-content: center;
+.clean {
+    margin: 1cm;
+    padding: 0;
 }
 
-button {
-    background-color: var(--accent-color-dark);
-    border: 0;
-    color: var(--accent-color-grey);
-    width: fit-content;
-    margin-top: calc(var(--buttons-height)*0.25);
-    margin-left: 8px;
-    margin-right: 8px;
-    height: calc(var(--buttons-height)*0.75);
-    font-size: 1.2em;
-    padding-right: 8px;
-    padding-left: 8px;
+@page {
+    size: A4 portrait;
 }
-
-button:hover {
-    background-color: var(--accent-color-light);
-}
-
-
-
-
-/* ARTICLELIST */
-/* ARTICLELIST */
-
-
-
 
 #ArticleList-Container {
     width: 100%;
     height: fit-content;
-    margin-top: 22px;
-    padding-left: 12.5%;
-    padding-right: 12.5%;
+    margin-top: 32px;
+    padding-left: 2.5cm;
+    padding-right: 1cm;
     color:#3c3c3b;
 }
 
 #Article-Container {
-    border-top: 1px solid var(--border-color);
-    margin-top: -1px;
-    width: 75%;
+    border-top: 0.4mm solid var(--border-color);
+    margin-top: -1mm;
+    width: 80%;
     height: var(--article-height);
     display: flex;
 }
@@ -124,6 +65,7 @@ button:hover {
 #Article-Container:first-of-type {
     border-top: 0;
     height: 32px;
+    margin-bottom: 2mm;
 }
 
 
