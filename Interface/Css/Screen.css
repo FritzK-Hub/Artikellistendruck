@@ -13,10 +13,20 @@
     --debug-outline-red: 1px solid red;
 }
 
+@font-face {
+    font-family: "GenericNormal";
+    src: url("fonts/GenericNormal.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "GenericBold";
+    src: url("fonts/GenericBold.otf") format("opentype");
+}
+
 * {
     margin: 0;
     padding: 0;
-    font-family: "Open Sans", Arial, sans-serif;
+    font-family: "GenericNormal";
     font-weight: 400;
 }
 
@@ -87,6 +97,7 @@ button {
     margin-right: 8px;
     height: calc(var(--buttons-height)*0.75);
     font-size: 1.2em;
+    font-family: "GenericBold";
     padding-right: 8px;
     padding-left: 8px;
 }

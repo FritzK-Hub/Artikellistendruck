@@ -3,9 +3,18 @@
     margin: 0mm;
 }
 
+@font-face {
+    font-family: "GenericNormal";
+    src: url("fonts/GenericNormal.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "GenericBold";
+    src: url("fonts/GenericBold.otf") format("opentype");
+}
+
 * {
-    font-family: "Open Sans", Arial, sans-serif;
-    font-weight: 400;
+    font-family: "GenericNormal";
 }
 
 .bold-weight {
@@ -50,7 +59,6 @@
     left: 3mm;
     position: absolute;
     font-size: 3mm;
-    font-weight: bold;
     line-height: 3.66mm;
     overflow: hidden;
     hyphens: auto;
@@ -64,14 +72,14 @@
     left: 18mm;
     position: absolute;
     font-size: 13mm;
-    font-weight: bold;
+    font-family: "GenericBold";
     text-align: right;
 }
 
 #Source {
     width: 15mm;
     height: 4mm;
-    top: 26mm;
+    top: 23mm;
     left: 3mm;
     position: absolute;
     font-size: 1.5mm;
@@ -81,7 +89,7 @@
 }
 
 #GTIN {
-    top: 15.7mm;
+    top: 14.7mm;
     left: 3mm;
     position: absolute;
     font-size: 2mm;
@@ -89,7 +97,7 @@
 }
 
 #Barcode-Code128 {
-    top: 13.5mm;
+    top: 12.5mm;
     left: 3mm;
     width: 40mm;
     height: 2mm;
