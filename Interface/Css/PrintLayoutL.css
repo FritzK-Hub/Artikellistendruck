@@ -70,13 +70,12 @@ img {
     left: 19mm;
     width: 171mm;
     height: 90mm;
-    font-size: 12mm;
+    font-size: 14mm;
     font-weight: bold;
     text-align: center;
     position: absolute;
     overflow: hidden;
-    hyphens: auto;
-    hyphenate-limit-chars: auto 5;
+    hyphenate-limit-chars: 100 100 100;
     color: #3f3f41;
 }
 
@@ -111,7 +110,7 @@ img {
     width: 76mm;
     height: 37mm;
     font-size: 20mm;
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
     line-height: 37mm;
     position: absolute;

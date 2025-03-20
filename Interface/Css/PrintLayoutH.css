@@ -65,8 +65,7 @@
     font-weight: bold;
     position: absolute;
     overflow: hidden;
-    hyphens: auto;
-    hyphenate-limit-chars: auto 5;
+    hyphenate-limit-chars: 100 100 100;
 }
 
 #GTIN {

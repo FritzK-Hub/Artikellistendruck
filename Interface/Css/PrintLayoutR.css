@@ -51,9 +51,10 @@
     position: absolute;
     font-size: 3mm;
     font-weight: bold;
+    line-height: 3.66mm;
     overflow: hidden;
     hyphens: auto;
-    hyphenate-limit-chars: auto 5;
+    hyphenate-limit-chars: 100 100 100;
 }
 
 #Price {
@@ -80,7 +81,7 @@
 }
 
 #GTIN {
-    top: 14.2mm;
+    top: 15.7mm;
     left: 3mm;
     position: absolute;
     font-size: 2mm;
@@ -88,7 +89,7 @@
 }
 
 #Barcode-Code128 {
-    top: 12mm;
+    top: 13.5mm;
     left: 3mm;
     width: 40mm;
     height: 2mm;
