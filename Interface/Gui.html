@@ -6,9 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>...</title>
     <link rel="icon" type="image/x-icon" href="Icons/spb_main.png">
+    <link rel="icon" type="image/x-icon" href="Icons/spb_main.png">
     <link rel="stylesheet" media="screen" href="Css/Screen.css"/ defer>
     <link id="print-style-h" rel="stylesheet" media="print" href="Css/PrintLayoutH.css"/>
-    <link id="print-style-r" rel="stylesheet" media="print" href="Css/PrintLayoutR.css"/>
+    <link id="print-style-r" rel="stylesheet" media="print" href="Css/PrintLayoutR.css"/>    
+    <link id="print-style-l" rel="stylesheet" media="print" href="Css/PrintLayoutL.css"/>
+	<link rel="preload" as="style" onload="this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap">
     <script src="Js/C128.js"></script>
 	<script src="Js/Main.js" defer></script>
 </html>
@@ -22,6 +25,7 @@
     <div id="Button-Container" class="dont-print">
         <button onclick="printList(true, false, false)" class="bold-weight">HAENGE-ETIKETT</button>
         <button onclick="printList(false, true, false)" class="bold-weight">REGAL-ETIKETT</button>
+        <button onclick="printList(false, false, true)" class="bold-weight">PLAKAT</button>
     </div>
 
     <div id="ArticleList-Container">
@@ -44,8 +48,9 @@
         </div>
 
         <div id="Article-Container" class="page-break">
+			<img src="Icons/placard_background.png" alt="" class="hide"/>
             <div id="Barcode-Container" class="list-element">
-                <svg id="Barcode-Code128" width="100%" height="100%" viewBox="0 0 123 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"></svg>
+                <svg id="Barcode-Code128" width="100%" height="100%" viewBox="0 0 112 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"></svg>
                 <p id="GTIN" class="clean">...</p>
             </div>
             <div id="ArticleNr-Container" class="list-element">
@@ -66,7 +71,7 @@
         Artikelliste_Test
     </div>
     <div id='GTIN-Data'>
-        4026947099217;4002019448978;4068400030153;4002019460277;8720573514798;8719987833441;9002560783714;8716242979296;8716242979241;8716242979104;8716242979081;8716242841388;4008153858642;8711252343778;4036812411594;4008153475238;4046281902301;4046281900765;5707672734220;5706773180899;5706773134526;5701922130312;5706773313105;5707672734213;4049376101504;4100420038648;4026947073101;4002031110006;4049376106578;4026947079875;4026947021720;4026947001449;4026947032320;4008153740916;4017681174766;4046281900222;4008153756191;4049145106419;8711500475169;8711500406071;4008153777417;4008153778308;4038373061218;4008153778339;4008153777851;3165141228915;3165143410387;
+        4026947099217;4002019448978;40020194;40020194602771;872057351479;8719987833441;9002560783714;8716242979296;8716242979241;8716242979104;8716242979081;8716242841388;4008153858642;8711252343778;4036812411594;4008153475238;4046281902301;4046281900765;5707672734220;5706773180899;5706773134526;5701922130312;5706773313105;5707672734213;4049376101504;4100420038648;4026947073101;4002031110006;4049376106578;4026947079875;4026947021720;4026947001449;4026947032320;4008153740916;4017681174766;4046281900222;4008153756191;4049145106419;8711500475169;8711500406071;4008153777417;4008153778308;4038373061218;4008153778339;4008153777851;3165141228915;3165143410387;
     </div>
     <div id='ArticleNr-Data'>
         175130038;171500002;150000062;171800011;128200276;170410001;174300020;171200152;171200150;171030037;171030038;171200048;182130007;182010152;170500004;172050012;128300068;180041955;150210190;150210203;150210207;150210221;150210202;150210213;150090145;180100051;173090107;150090098;150100173;174220001;178030040;150080002;150080021;150110154;150100863;255050002;150101024;150100178;150090081;150090082;150090072;150090086;150090067;150090089;150090078;150090437;150101040;

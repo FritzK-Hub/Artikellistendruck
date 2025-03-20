@@ -6,9 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>...</title>
     <link rel="icon" type="image/x-icon" href="Icons/spb_main.png">
+    <link rel="icon" type="image/x-icon" href="Icons/spb_main.png">
     <link rel="stylesheet" media="screen" href="Css/Screen.css"/ defer>
     <link id="print-style-h" rel="stylesheet" media="print" href="Css/PrintLayoutH.css"/>
-    <link id="print-style-r" rel="stylesheet" media="print" href="Css/PrintLayoutR.css"/>
+    <link id="print-style-r" rel="stylesheet" media="print" href="Css/PrintLayoutR.css"/>    
+    <link id="print-style-l" rel="stylesheet" media="print" href="Css/PrintLayoutL.css"/>
+	<link rel="preload" as="style" onload="this.rel='stylesheet'" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap">
     <script src="Js/C128.js"></script>
 	<script src="Js/Main.js" defer></script>
 </html>
@@ -22,6 +25,7 @@
     <div id="Button-Container" class="dont-print">
         <button onclick="printList(true, false, false)" class="bold-weight">HAENGE-ETIKETT</button>
         <button onclick="printList(false, true, false)" class="bold-weight">REGAL-ETIKETT</button>
+        <button onclick="printList(false, false, true)" class="bold-weight">PLAKAT</button>
     </div>
 
     <div id="ArticleList-Container">
@@ -44,8 +48,9 @@
         </div>
 
         <div id="Article-Container" class="page-break">
+			<img src="Icons/placard_background.png" alt="" class="hide"/>
             <div id="Barcode-Container" class="list-element">
-                <svg id="Barcode-Code128" width="100%" height="100%" viewBox="0 0 123 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"></svg>
+                <svg id="Barcode-Code128" width="100%" height="100%" viewBox="0 0 112 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg"></svg>
                 <p id="GTIN" class="clean">...</p>
             </div>
             <div id="ArticleNr-Container" class="list-element">

@@ -4,7 +4,7 @@
 }
 
 * {
-    font-family: Arial, sans-serif;
+    font-family: "Open Sans", Arial, sans-serif;
     font-weight: 400;
 }
 
@@ -73,7 +73,7 @@
     top: 26mm;
     left: 3mm;
     position: absolute;
-    font-size: 1.4mm;
+    font-size: 1.5mm;
     letter-spacing: 0.1mm;
     line-height: 2mm;
     overflow: hidden;
@@ -90,7 +90,7 @@
 #Barcode-Code128 {
     top: 12mm;
     left: 3mm;
-    width: 34mm;
+    width: 40mm;
     height: 2mm;
     position: absolute;
 }

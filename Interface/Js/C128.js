@@ -24,22 +24,19 @@ class C128 {
     }
 
     generateBarcode_C128(codeArr, gtin) {
-        gtin = String(gtin).trim()
+        gtin = String(gtin).trim().padStart(14, '0');
         this.generateCharacter_C128(codeArr, this.c128CStart, 0);
         this.checkmultiplier = 1;
 
-        for (let i = 0; i <= 5; i++) {
+        for (let i = 0; i <= 6; i++) {
             let currentValue = parseInt(gtin.substring(i*2, (i*2)+2));
             let offset = (i * this.characterWidth) + this.characterWidth;
             this.generateCharacter_C128(codeArr, currentValue, offset);
         }
 
-        this.generateCharacter_C128(codeArr, this.c128ToB, 77);
-        let lastDigit = parseInt(gtin[12]) + 16;
-        this.generateCharacter_C128(codeArr, lastDigit, 88);
-        this.generateCharacter_C128(codeArr, this.checksum % 103, 99);
-        this.generateCharacter_C128(codeArr, this.c128stop, 110);
-        codeArr.push(`<rect width="2" height="100" x="121" y="0" fill="black" />`);
+        this.generateCharacter_C128(codeArr, this.checksum % 103, 88);
+        this.generateCharacter_C128(codeArr, this.c128stop, 99);
+        codeArr.push(`<rect width="2" height="100" x="110" y="0" fill="black" />`);
     }
 }
 

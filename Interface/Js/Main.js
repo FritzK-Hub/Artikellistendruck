@@ -38,5 +38,6 @@ articleNode.remove();
 function printList(h, r, l) {
     document.getElementById("print-style-h").disabled = !h;
     document.getElementById("print-style-r").disabled = !r;
+    document.getElementById("print-style-l").disabled = !l;
     window.print();
 }
