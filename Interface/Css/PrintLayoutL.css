@@ -14,7 +14,7 @@
 }
 
 * {
-    font-family: "GenericNormal";
+    font-family: "GenericNormal", Sans-Serif;
     color-adjust: exact;  
     -webkit-print-color-adjust: exact; 
     print-color-adjust: exact; 
@@ -80,7 +80,7 @@ img {
     width: 171mm;
     height: 90mm;
     font-size: 14mm;
-    font-family: "GenericBold";
+    font-family: "GenericBold", Sans-Serif;
     text-align: center;
     position: absolute;
     overflow: hidden;
@@ -119,7 +119,7 @@ img {
     width: 76mm;
     height: 37mm;
     font-size: 20mm;
-    font-family: "GenericBold";
+    font-family: "GenericBold", Sans-Serif;
     text-align: center;
     line-height: 37mm;
     position: absolute;
