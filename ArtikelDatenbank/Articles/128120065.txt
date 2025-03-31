@@ -1,0 +1,4 @@
+{
+    "uvp": 1999.95,
+    "attributes": "<ul><li>Loungeset bestehend aus 3-Sitzer Bank, Tisch und zwei Sofas</li><li>bietet Sitzplätze für bis zu 5 Personen</li><li>geeignet für Garten, Balkon oder Terrasse</li><li>wetterfestes und stabilem Aluminiumgestell</li><li>mit Polstern und Rückenkissen aus Olefin in dunkelgrau<br/></li></ul>"
+}

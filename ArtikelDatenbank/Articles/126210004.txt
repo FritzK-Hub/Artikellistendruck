@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>praktischer Ersatzfilter von Güde</li><li>passend für den Wasserfilter Typ A (siehe Onlineshop: 180020272).</li><li>in Gartenpumpen oder Hauswasserwerken einsetzbar</li><li>geeignet als Schmutz- oder Sandfilter</li><li>leichtes auswechseln mit wenigen Handgriffen<br/></li></ul>"
+}

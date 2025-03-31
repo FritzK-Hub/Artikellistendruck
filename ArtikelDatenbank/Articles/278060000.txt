@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Wildwaage bis 200 kg / 440 lbs (Pfund)</li><li>inklusive zwei große, verzinkte Stahlhaken, lebensmittelecht</li><li>ideal zur schnellen Gewichtsbestimmung</li><li>inklusive Zeiger-Regulierschraube zum Tarieren der Waage</li><li>Front aus robustem Plexiglas, Gehäuse aus Metall</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>gute Klebeeigenschaften auf fast allen Materialien</li><li>transparenter Universalkleber</li><li>10 Klebesticks im Set</li><li>mit einem Durchmesser von 11 mm</li><li>zum Basteln, Reparieren Fixieren und Abdichten</li></ul>"
+}

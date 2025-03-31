@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>zum horizontalen Ziehen von Lasten</li><li>maximale Zugkraft von 720 kg</li><li>stromunabhängig in den verschiedensten Bereichen einsetzbar</li><li>für Garagen, im Garten, auf Anhängern oder in der Forst- und Landwirtschaft</li><li>zur Festmontage geeignet</li></ul>"
+}

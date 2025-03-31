@@ -1,0 +1,4 @@
+{
+    "uvp": 6.79,
+    "attributes": "<ul><li>Sägeblätter aus Bi-Metall</li><li>2 Stück im Set</li><li>für kleine Bogensägen</li><li>fein verzahnt <br/></li><li>gute Schnittqualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2199.0,
+    "attributes": "<ul><li>effizientes Mähen großer Flächen</li><li>robustes Mähwerk für langlebige Leistung</li><li>große Fangbox reduziert Entleerungsaufwand</li><li>ergonomischer Sitz &amp; Hybridstart bieten hohen Arbeitskomfort</li><li>schnelle Reinigung dank Wasserschlauchanschluss</li></ul>"
+}

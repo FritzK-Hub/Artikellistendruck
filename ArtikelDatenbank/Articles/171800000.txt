@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>gebrauchsfertiger Reiniger 500 ml</li><li>zum Säubern von Ölverschmutzungen</li><li>für mineralische und keramische Untergründe</li><li>einfache Anwendung, wirkt selbstständig</li><li>Bindemittel zur Entfernung von ölbasierten Verschmutzungen<br/></li></ul>"
+}

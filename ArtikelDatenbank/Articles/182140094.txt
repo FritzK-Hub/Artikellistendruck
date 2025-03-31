@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Lenker-Tasche für alle gängigen Smartphones</li><li>werkzeuglose Befestigung</li><li>mit Klick-System</li><li>Touchscreen geeignet</li><li>wasserabweisendes Sichtfenster</li></ul>"
+}

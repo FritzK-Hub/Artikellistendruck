@@ -1,0 +1,4 @@
+{
+    "uvp": 400.0,
+    "attributes": "<ul><li>attraktives Design in Naturstein-Optik</li><li>großes Volumen für effiziente Wassersammlung</li><li>robustes, witterungsbeständiges Material</li><li>praktische Entleerung vor Frostperioden möglich</li><li>sofort einsatzbereit dank Anschluss-Set</li></ul>"
+}

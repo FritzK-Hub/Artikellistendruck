@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Guter Farbaustausch, gute Verschlichtung, leichte Reinigung</li><li>Für Abschlüsse und Kanten, kleine Flächen</li><li>Bester Materialauftrag auch bei starken Vertiefungen</li><li>Bestens geeignet: Für alle Lacke</li></ul>"
+}

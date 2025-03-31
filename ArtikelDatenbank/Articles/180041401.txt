@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>stabile Metallkonstruktion</li><li>vielseitige Anwendung</li><li>präzises Arbeiten</li><li>komfortabler Griff</li><li>platzsparende Aufbewahrung<br/><br/></li></ul>"
+}

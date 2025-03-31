@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>mobiler Heizlüfter für kleine Räume oder Wohnmobile</li><li>kompaktes Kunststoff-Design beansprucht kaum Platz</li><li>lässt sich einfach in eine Wandsteckdose stecken</li><li>integrierter Überhitzungsschutz für mehr Sicherheit</li><li>mit Timerfunktionen von 1 bis 12 Stunden</li></ul>"
+}

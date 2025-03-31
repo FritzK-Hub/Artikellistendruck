@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Pattex® Kraftkleber \"click &amp; fix\" Stempel mit 20 Dosierungen</li><li>restlichen Dosierungen am Griff leicht ablesbar</li><li>Verarbeitungszeit von 5 - 10 Minuten sowie UV-, Witterungsbeständig</li><li>einfache Bedienung ganz ohne Werkzeug und Lärm</li><li>für den Innen- und Außenbereich geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>LED-Stableuchte mit 2 Stäben und warmweißem Licht</li><li>Bedienung erfolgt über den herkömmlichen Lichtschalter </li><li>sorgt für ausreichend Beleuchtung in deinen Räumen</li><li>individuell für Wohnzimmer, Schlafzimmer, Flur oder Küche</li><li>mitgeliefertes Befestigungsmaterial erleichtert die Deckenmontage<br/></li></ul>"
+}

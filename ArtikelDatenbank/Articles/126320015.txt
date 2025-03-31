@@ -1,0 +1,4 @@
+{
+    "uvp": 239.9,
+    "attributes": "<ul><li>leistungsstarke Akku-Kettensäge mit 34,5 cm Schnittlänge </li><li>zuverlässiger Helfer für Forst- und Gartenarbeiten</li><li>automatische Kettenschmierung mit Ölstandsanzeige</li><li>werkzeuglose Kettenspannung erleichtert die Wartung</li><li>mechanischen Rückschlagbremse bietet zusätzliche Sicherheit<br/></li></ul>"
+}

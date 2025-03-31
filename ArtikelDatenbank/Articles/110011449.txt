@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>WC-Sitz aus Duroplast in Weiß<br/></li><li>Komfort durch Absenkautomatik<br/></li><li>langlebig: bruchsicher und kratzfest</li><li>inklusive Befestigungsmaterial zur mühelosen Installation<br/></li><li>passend zu allen handelsüblichen WC-Becken<br/></li></ul>"
+}

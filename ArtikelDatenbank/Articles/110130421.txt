@@ -1,0 +1,4 @@
+{
+    "uvp": 2.9,
+    "attributes": "<ul><li>speziell für Regale entwickelt</li><li>aus hochwertigem, transparentem Kunststoff</li><li>einfache Montage in 5-mm-Bohrlöchern</li><li>sichere und stabile Befestigung</li><li>dauerhafte und zuverlässige Unterstützung<br/></li></ul>"
+}

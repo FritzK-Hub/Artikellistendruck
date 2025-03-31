@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>leichte Ausführung und hohe Vielseitigkeit</li><li>hochwertiges Material</li><li>moderner und lebendiger Touch</li><li>schnelle Verarbeitung</li><li>stilvolle Endresultate<br/></li></ul>"
+}

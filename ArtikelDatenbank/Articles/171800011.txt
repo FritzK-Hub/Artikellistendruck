@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Holz-Reiniger von Ultrament<br/></li><li>reduziert die Schmutzanhaftung</li><li>besonders schonend zu deinen Oberflächen</li><li>reduziert die Alterungserscheinungen deiner Gartenmöbel</li><li>entfernt auch hartnäckige Verschmutzungen und Grünbelag</li></ul><p></p>"
+}

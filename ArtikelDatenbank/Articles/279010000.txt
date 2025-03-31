@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>stabile, klappbare Sackkarre aus Aluminium</li><li>Handgriff der Transportkarre lässt sich einschieben</li><li>Tragefläche der Stapelkarre ist einklappbar</li><li>ideal geeignet für Verladearbeiten, Umzüge, Lieferungen</li><li>für den anspruchsvollen Heimwerker im Haus oder im Garten</li></ul>"
+}

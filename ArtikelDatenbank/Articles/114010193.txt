@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>vielseitig einsetzbare Klebefolie 200 x 45 cm</li><li>mit schönem, grauen Eichenmotiv versehen</li><li>verleiht Möbeln einen neuen Anstrich</li><li>lässt sich einfach aufkleben und ist abwaschbar</li><li>kann ohne große Rückstände entfernt werden<br/></li></ul>"
+}

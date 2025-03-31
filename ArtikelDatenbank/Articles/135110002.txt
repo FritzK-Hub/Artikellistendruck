@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>Stabelektroden universal 2,5 x 350 mm 1 kg</li><li>umhüllte Stäbe mit guten Zündeigenschaften</li><li>zum Verbinden von niedriglegiertem Stahl</li><li>vielfältig für alle Schweißpositionen einsetzbar</li><li>auch fallend zu verschweißen<br/></li></ul>"
+}

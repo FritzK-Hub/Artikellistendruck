@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Matrix Akku-Säbelsäge 20 V</li><li>ideal für Sägearbeiten oder im Baubereich geeignet</li><li>profilierter Softgriff für komfortables Arbeiten</li><li>mit werkzeuglosen Sägeblatt-Schnellwechsel ausgestattet</li><li>kompatibel mit dem GERMANIA® Plattform Akku</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>für Einsatzzwecke im Haus, Garten oder der Landwirtschaft</li><li>besonders langlebig, aus strapazierfähigem Bändchengewebe </li><li>zum Abdecken von Gartenmöbeln, Baumaterial oder Holz</li><li>Aluminiumösen und Randverstärkung für mehr Stabilität</li><li>auch als Wind-, Sonnen- oder Sichtschutz universell einsetzbar<br/></li></ul>"
+}

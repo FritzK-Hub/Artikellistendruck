@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Pedale für alle Fahrrad-Typen</li><li>Rutsch- und trittfeste Spezialausführung</li><li>Plattformpedale mit Reflektoren</li><li>zugelassen im Bereich der StVZO</li><li>Maße Trittfläche (BxTxH) ca. 7 x 9,5 x 2,5 cm</li></ul>"
+}

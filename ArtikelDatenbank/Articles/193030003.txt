@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>robustes Vogelhaus aus stabilem Nadelholz</li><li>Ständer aus Massivholz für den nötigen Halt</li><li>massive und robuste Holzarbeit</li><li>vier offene Seiten für einfaches Befüllen</li><li>Überdachung mit Bitumenschindeln bedeckt<br/></li></ul>"
+}

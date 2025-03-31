@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>Netzwerkkabel, flach, ungeschirmt</li><li>mit 2 x RJ45 Steckern</li><li>Kontakte mit 3µ vergoldeten Kontaktflächen</li><li>kurzer Steckertyp ohne Rastnasenschutz</li><li>ideal um hinter Fussleisten, unter Teppichen oder anderen Fussböden verlegt zu werden</li></ul><p></p>"
+}

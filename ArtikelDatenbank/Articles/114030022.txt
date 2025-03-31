@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>runde Pappteller</li><li>lebensmittelecht und kompostierbar</li><li>ideale Einwegteller für eine Grillparty</li><li>praktisch und hygienisch</li><li>Grammatur 250g/m²</li></ul>"
+}

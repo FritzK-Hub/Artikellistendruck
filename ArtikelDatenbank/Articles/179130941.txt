@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>süßes Design</li><li>angenehmer Tragekomfort</li><li>für Kinder von 9-10 Jahren</li><li>rutschfeste Handfläche</li><li>hochwertige Materialien</li></ul>"
+}

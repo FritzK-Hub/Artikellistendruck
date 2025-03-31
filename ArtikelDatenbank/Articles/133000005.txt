@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>hochwertiges, 75-teiliges Makita Bit- und Drill-Set</li><li>mit alle gängigen Bits für Schraubarbeiten</li><li>große Auswahl an unterschiedlichen Bohrern</li><li>inklusive magnetischem Bithalter, Körner, Senkbit uvm.</li><li>im praktischen Transportkoffer</li></ul>"
+}

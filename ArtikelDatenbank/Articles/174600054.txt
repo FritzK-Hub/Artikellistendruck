@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Wenko Badkorb Soria in der Farbe Grau</li><li>trendiges Design</li><li>aus hochwertigem Baumwollmischgewebe</li><li>vielseitig einsetzbar im Haushalt</li><li>mit praktischer Schlaufe zum Aufhängen</li></ul>"
+}

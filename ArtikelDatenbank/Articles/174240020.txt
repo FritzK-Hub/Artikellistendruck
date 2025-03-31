@@ -1,0 +1,4 @@
+{
+    "uvp": 6.0,
+    "attributes": "<ul><li>perfekt für eine breite Palette von Kabeln geeignet<br/></li><li>mit Einstellrad zur Anpassung an die Dicke des Kabels</li><li>für Flach- und auch für Rundkabel geeignet</li><li>komfortable Handhabung</li><li>präzise Abisolier-Ergebnisse</li></ul>"
+}

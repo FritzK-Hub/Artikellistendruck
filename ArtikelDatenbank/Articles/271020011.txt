@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>dient zur effektiven Kraftübertragung auf das eingespannte Aufsatz</li><li>besonders flexibel, ist sowohl für Rechts- als auch für Linkslauf geeignet</li><li>erleichtert ein sicheres Einspannen von Bohrern und Bits</li><li>vielseitig für herkömmliche Bohrmaschinen oder Akkuschrauber anwendbar</li><li>lässt sich auch als Ersatzbohrfutter bei defekten Maschinen verwenden<br/></li></ul>"
+}

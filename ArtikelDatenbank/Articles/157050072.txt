@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>dekorativer Antik- Effekt</li><li>direkt auf Metall anwendbar</li><li>in verschiedenen Farben erhältlich</li><li>für Innen und Außen geeignet</li><li>einfache und praktische Anwendung</li></ul>"
+}

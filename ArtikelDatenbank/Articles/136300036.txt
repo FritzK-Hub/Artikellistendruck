@@ -1,0 +1,4 @@
+{
+    "uvp": 11.29,
+    "attributes": "<ul><li>Klappschlüssel mit zwei Größen</li><li>aus robustem Chrom-Vanadium-Stahl</li><li>großer Schwenkbereich</li><li>leicht bewegliche Gelenkköpfe</li><li>ideal für enge Platzverhältnisse<br/></li></ul>"
+}

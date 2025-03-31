@@ -1,0 +1,4 @@
+{
+    "uvp": 169.95,
+    "attributes": "<ul><li>robustes und langlebiges Stahlgestell</li><li>attraktiver Fotodruck „Ostsee“</li><li>schnelle und einfache Montage</li><li>effektiver Sicht- und Windschutz</li><li>stilvolle Privatsphäre im Freien</li></ul>"
+}

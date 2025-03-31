@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>geeignet für Keramik, Email, Acryl, Metall, pulverbeschichtete und lackierte Oberflächen</li><li>Fliesen-Glasuren an Kanten und Ecken können ebenfalls repariert werden</li><li>Reparatur Lackstift für kleine Schlagschäden an Sanitärobjekten</li><li>einfach, schnell und kostengünstig</li><li>Füllmasse und Decklack in einem</li></ul>"
+}

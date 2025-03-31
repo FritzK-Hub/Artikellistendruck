@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>8 Tortenunterlagen aus Pappe</li><li>beschichtet</li><li>lebensmittelecht</li><li>praktisch und stabil</li><li>für Torten bis Ø 28 cm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Profilzylinder Rosetten</li><li>2 Stück im Set</li><li>rostfrei, aus Edelstahl</li><li>Durchmesser 54 mm</li><li>Rosetten mit Schlüsselloch</li></ul>"
+}

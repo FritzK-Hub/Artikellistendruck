@@ -1,0 +1,4 @@
+{
+    "uvp": 1649.95,
+    "attributes": "<ul><li>Eckbank-Set bestehend aus 2 Sofas, Eckelement, Bank und Tisch</li><li>bietet Sitzplätze für bis zu 7 Personen</li><li>geeignet für Garten, Balkon oder Terrasse</li><li>mit wasserfestem, pulverbeschichtetem Aluminiumgestell</li><li>inklusive Polster und Rückenkissen, wasserabweisend in grau<br/></li></ul>"
+}

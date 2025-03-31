@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>für Kinder ab 3 Jahren</li><li>leicht und handlich</li><li>hochwertige Materialien</li><li>einfache Handhabung</li><li>attraktives Design</li></ul>"
+}

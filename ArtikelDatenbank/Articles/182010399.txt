@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>dekorative Feuerschale mit zwei praktischen Griffen</li><li>mit drei fest verschweißten Beinen</li><li>aus massivem Stahl</li><li>verwendbar als Wärmefeuer</li><li>Terrassenfeuer für gemütliche Stunden am Feuer</li></ul>"
+}

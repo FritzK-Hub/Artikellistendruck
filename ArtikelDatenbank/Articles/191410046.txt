@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Kinder Schwimmflügel aufblasbar 25 x 15 cm</li><li>in zwei verschiedenen Designs erhältlich</li><li>zum Heranführen der Kinder an das Schwimmen </li><li>für Kinder von 18 bis 30 Kg (von 3 bis 6 Jahren)</li><li>eine Auftriebshilfe, kein Schutz gegen Ertrinken<br/></li></ul>"
+}

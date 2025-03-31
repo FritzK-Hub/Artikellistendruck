@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul> <li>2 m langer Zollstock</li> <li>Qualität von GERMANIA® Qualitätswerkzeuge</li> <li>aus extrem stabilen Holz</li> <li>mit 90° Einrastfunktion</li> <li>mit Millimeterkennzeichnung</li></ul>"
+}

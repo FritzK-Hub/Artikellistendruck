@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Radiergummi in weiß</li><li>3 Stück im Set</li><li>Größe ca. 45 x 20 x 10 mm</li><li>Radierer mit Pappbanderole</li><li>geeignet für Blei- und Farbstifte<br/></li></ul>"
+}

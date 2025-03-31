@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>3 Klett-Schleifscheiben</li><li>kunstharzgebundener Korund</li><li>zum Schleifen von Holz passend für Band- und Tellerschleifer </li><li>für Schleifteller-Durchmesser 150mm und Klett-Aufnahme</li><li>passend für Band- und Tellerschleifer Güde® GBTS 400<br/></li></ul><p></p>"
+}

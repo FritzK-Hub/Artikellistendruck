@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>hochwertiges Wundpflaster in 2 verschiedenen Größen</li><li>zur Abdeckung von Hautverletzungen</li><li>besonders hautfreundlich</li><li>extrem wasserfest</li><li>geeignet zum Duschen, Baden und für den Abwasch<br/></li></ul>"
+}

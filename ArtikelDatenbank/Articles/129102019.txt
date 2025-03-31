@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>blüht lange von Sommer bis Herbst</li><li>perfekte runde Wuchsform</li><li>anziehend für Bienen und Schmetterlinge</li><li>pflegeleicht und winterhart</li><li>vielseitig einsetzbar in Beeten und Kübeln</li></ul>"
+}

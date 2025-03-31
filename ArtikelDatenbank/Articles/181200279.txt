@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Boretsch einjährig für ca. 80 Pflanzen</li><li>mit salzigen Krautteilen, ideal als salzarme Diät</li><li>Blätter haben einen gurkenähnlichen Geschmack</li><li>Blüten wie Blätter mit beruhigender Wirkung</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>hochwertiges Material</li><li>zeitloses Design</li><li>durchdachte Aufteilung</li><li>stilvolle Eleganz</li><li>vielseitiger Begleiter<br/><br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>hochwertige Schleifpapiere mit 8-Loch-Absaugung</li><li>passend für die verschiedensten Schwingschleifer</li><li>Set, bestehend aus fünf Schleifblättern mit K120</li><li>hervorragendes Schleifbild und effizienter Materialabtrag</li><li>schnelles Wechseln der Schleifblätter dank Klettverschluss<br/></li></ul>"
+}

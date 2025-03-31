@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Länge: (L) ca. 760 mm</li><li>Material: Metall</li><li>Zähne: gehärtet</li><li>Lochmittenabstände: ca. 71,8 und 74,2 cm</li><li>für Bügelsägen</li><li>Inhalt: 1 Stück</li></ul>"
+}

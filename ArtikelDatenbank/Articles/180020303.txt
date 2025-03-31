@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li><div>Schlauchverbinder 1/2\"-5/8\"</div></li><li><div>zur schnellen Verbindung von 2 Schläuchen</div></li><li><div>für 1/2\"-5/8\" Gartenschläuche</div></li><li><div>wird zwischen zwei Schlauchenden montiert</div></li></ul>"
+}

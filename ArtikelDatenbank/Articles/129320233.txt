@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>vielseitige Farbenpracht</li><li>dekorative und essbare Blüten</li><li>leicht in der Pflege</li><li>attraktiv für Bestäuber</li><li>lang anhaltende Blütezeit<br/><br/></li></ul>"
+}

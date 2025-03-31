@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>2 LED Reflektor-Lampen mit GU10 Sockel</li><li>warmweißes, angenehmes Licht</li><li>lange Lebensdauer</li><li>LED Lampe mit guter Farbwiedergabe</li><li>sehr sparsam, da Energieeffizeinzklasse F<br/></li></ul>"
+}

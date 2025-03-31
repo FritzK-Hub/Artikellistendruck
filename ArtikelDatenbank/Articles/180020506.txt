@@ -1,0 +1,4 @@
+{
+    "uvp": 11.79,
+    "attributes": "<ul><li>Gardena Classic Sprühregner Fox für kleine Rasenflächen</li><li>Sprengbereich liegt bei einem Durchmesser von 3 bis 11 m</li><li>Sprengbereich kann durch die Reduzierung des Wasserdrucks verkleinert werden</li><li>eignet sich für Flächen von 9 bis maximal 100 m²</li><li>mit feinen Sprühstrahl beregnet er empfindliche Pflanzen sehr schonend<br/></li></ul>"
+}

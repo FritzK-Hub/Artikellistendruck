@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>optimale Leistung mit Güde® Druckluftnagler</li><li>geeignet für verschiedene Handwerksarbeiten</li><li>2500 Stück für umfangreiche Projekte</li><li>40 mm Länge und 5,8 mm Rückenbreite</li><li>langlebig durch verzinkten Stahl</li></ul>"
+}

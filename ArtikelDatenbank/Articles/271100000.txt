@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Körner aus Stahl</li><li>zur Verwendung mit dem Hammer</li><li>Schlagwerkzeug schwarz lackiert</li><li>zum Ankörnen von Werkstücken</li><li>zum Setzen von Genauigkeitspunkten</li></ul>"
+}

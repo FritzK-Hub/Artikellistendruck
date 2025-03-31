@@ -1,0 +1,4 @@
+{
+    "uvp": 0.59,
+    "attributes": "<ul><li>Saatgut Ringelblume Erfurter Orangefarbige einjährig</li><li>getrocknete Blüten sind ein besonderes Heilkraut</li><li>das Kraut ist als Tinktur oder Salbe verwendbar</li><li>wirkt gegen Blutergüsse oder Sehnenverzerrungen</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
+}

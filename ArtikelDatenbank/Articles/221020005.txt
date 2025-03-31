@@ -1,0 +1,4 @@
+{
+    "uvp": 0.5,
+    "attributes": "<ul><li>Zimmermannsbleistift zum Anzeichnen von Werkstoffen</li><li>mit aufgedruckter Skalierung</li><li>ovale Form gegen das Herunterrollen von schrägen Flächen</li><li>rechteckige Grafit/Tonmineral Mine</li><li>auch für den Heimwerkerbereich bestens geeignet</li></ul>"
+}

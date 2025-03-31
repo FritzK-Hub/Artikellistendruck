@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Abgangsbogen aus verchromtem Metall</li><li>für Siphon-Anschluß</li><li>90° gebogene Ausführung</li></ul>"
+}

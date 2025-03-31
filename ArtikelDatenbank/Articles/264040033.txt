@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul> <li>Art: Wandhaken für Hängematten</li> <li>Maße Platte: (BxHxT) ca. 65 x 44 x 26 mm</li> <li>Bohrungen Platte: (Ø) ca. 7 mm</li> <li>Abstände Bohrungen: (BxH) ca. 46 x 28 mm</li> <li>Haken: (TxBxH) ca. 80 x 50 x 40 mm</li> <li>Materialstärke Haken: (Ø) ca. 10 mm</li> <li>Material: Stahl verzinkt</li> <li>Tragkraft: ca. 100 kg</li> <li>Wandbefestigung</li> <li>Inhalt: 1 Stück</li> <li>Lieferung erfolgt ohne Montagematerial</li></ul>"
+}

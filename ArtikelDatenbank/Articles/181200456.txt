@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Rettich Minowase Summer F1</li><li>ist eine vitaminreiche, milde Herbstsorte</li><li>besitzt gute Resistenz gegenüber Krankheiten</li><li>ideal für den Frischverzehr oder für Salate</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

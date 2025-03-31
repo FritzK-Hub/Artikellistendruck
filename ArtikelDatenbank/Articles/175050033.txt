@@ -1,0 +1,4 @@
+{
+    "uvp": 119.14,
+    "attributes": "<ul><li>Druckluft-Schlagschrauber mit handlicher Form</li><li>dieses Normex Profiwerkzeug dreht rechts wie links</li><li>super kräftig dank 6 bis 8 Bar Betriebsdruck </li><li>mühelos Schrauben lösen oder anziehen</li><li>TÜV und GS geprüfte Sicherheit<br/></li></ul><p></p>"
+}

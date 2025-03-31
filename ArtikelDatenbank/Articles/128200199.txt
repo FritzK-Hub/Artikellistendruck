@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>buntes Windrad 22 x 55 cm</li><li>in 6 verschiedenen Farb-Ausführungen erhältlich</li><li>eine tolle Dekoration für Garten oder Balkon</li><li>naturbelassener und Stab aus Rundholz</li><li>auch zwischen Blumen oder Vorgarten geeignet<br/></li></ul>"
+}

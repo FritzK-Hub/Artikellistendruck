@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Schaber- und Hakensatz 5-teilig </li><li>schwarz oxidiert &amp; gehärtet</li><li>blaue 4-kant Griffe</li><li>universal einsetzbar</li><li>qualitativ hochwertig</li></ul>"
+}

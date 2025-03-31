@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Größen: 32mm (auch komplettes Set erhältlich)</li><li>Stärke Gabelschlüssel: ca. 12mm</li><li>Ausführung Ringschlüssel: 12kant</li><li>Gewicht: ca. 634gr.</li></ul>"
+}

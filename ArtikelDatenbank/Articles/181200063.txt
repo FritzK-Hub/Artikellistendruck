@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatgut Gurke Dill Duo ca. 2 Meter Saatband</li><li>mit walzenförmigen, dunkelgrünen Früchten</li><li>eine widerstandsfähige, mittelfrühe Gurkensorte</li><li>gut als Pfeffer- oder Gewürzgurke verwendbar</li><li>passender Dill fürs Einlegen ist mit inklusive<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 44.99,
+    "attributes": "<ul><li>Full HD-Videoqualität überträgt klare Details</li><li>Infrarot-Nachtsicht für 24/7 Überwachung</li><li>Zwei-Wege-Audio zur direkten Kommunikation</li><li>einfache Steuerung mit Sprachassistenten</li><li>Aktivitäts-Meldung als Push-Nachricht in Echtzeit</li></ul>"
+}

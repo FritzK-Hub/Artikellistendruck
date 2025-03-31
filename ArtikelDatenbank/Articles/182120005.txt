@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>12 Speichensticks Sekuclip</li><li>patentierte 360°-Lichtreflektion</li><li>3M-Reflex zum Nachrüsten</li><li>verbesserte Sichtbarkeit durch retroreflektierende Ummantelung aller Speichen</li><li>geeignet für alle gängigen Speichenarten</li></ul>"
+}

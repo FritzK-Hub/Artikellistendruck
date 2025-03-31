@@ -1,0 +1,4 @@
+{
+    "uvp": 3.3,
+    "attributes": "<ul><li>beeindruckende Haftkraft</li><li>kompakte Größe</li><li>langlebig dank Dauermagnetismus</li><li>starke Tragfähigkeit</li><li>aus hochwertigen Materialien<br/></li></ul>"
+}

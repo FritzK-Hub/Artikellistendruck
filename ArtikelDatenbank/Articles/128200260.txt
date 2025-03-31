@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>3er-Set Solarleuchten mit kaltweißen LEDs<br/></li><li>setzen Lichtakzente auf Gartenwegen, Terrassen oder in Blumentöpfen</li><li>verfügt über einen ON/OFF-Schalter und einen Dämmerungssensor</li><li>sind besonders witterungsbeständig</li><li>dank Erdspieß an beliebiger Stelle platzierbar<br/></li></ul>"
+}

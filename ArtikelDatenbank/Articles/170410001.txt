@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>LED-Kerze batteriebetrieben im Betontopf 12 x 6,5 cm</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>vielseitig einsetzbare Leuchtdekoration</li><li>täuschend echte Kerzenflamme durch warmweißes Licht</li><li>passende Tischdekoration im Innen– und Außenbereich<br/></li></ul>"
+}

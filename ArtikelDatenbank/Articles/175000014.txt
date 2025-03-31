@@ -1,0 +1,4 @@
+{
+    "uvp": 1999.0,
+    "attributes": "<ul><li>moderner und wirtschaftlicher Kaminofen Rosella R1<br/></li><li>gusseiserne Feuerraumauskleidung und eine robuste Gusseisentür</li><li>Boden des Feuerraums mit Rüttelrost, ausziehbarer Aschenbehälter</li><li>Sichtscheibe ist aus hitzebeständigem 750-Grad-Keramikglas</li><li>Verkleidung aus einer bordauxfarbenen Kachelverkleidung</li></ul><p></p>"
+}

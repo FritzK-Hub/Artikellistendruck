@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>aktiviert den Blaufarbstoff</li><li>wasserlösliche Formel</li><li>ausreichend für 20 Pflanzen</li><li>mit Aluminium, Eisen und Spurennährstoffen</li><li>praktischer Dosierlöffel<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>ideales Reinigungsmittel für Öfen</li><li>wirkt schnell und gründlich</li><li>besonders einfache Anwendung</li><li>effektive Reinigung <br/></li><li>für mehrmalige Anwendungen<br/></li></ul>"
+}

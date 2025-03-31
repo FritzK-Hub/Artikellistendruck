@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>einfache und effektive Lösung</li><li>problemlose Montage</li><li>benutzerfreundliche Handhabung</li><li>modernes schlichtes Erscheinungsbild</li><li>robust und langlebig<br/></li></ul>"
+}

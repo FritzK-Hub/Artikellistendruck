@@ -1,0 +1,4 @@
+{
+    "uvp": 22.04,
+    "attributes": "<ul><li> Tischbein in klassischer runder Säulenform \"PASO\" in Silber<br/></li><li>aus vor Korrosion geschütztem pulverbeschichtetem Stahlrohr</li><li>dezente Fuß-Stellschraube in stylischem Schwarz</li><li>stufenlos höhenverstellbar von 60 bis 90 cm<br/></li><li> solide verarbeitet und hoch belastbar </li></ul><p></p>"
+}

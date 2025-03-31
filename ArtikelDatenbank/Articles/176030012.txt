@@ -1,0 +1,4 @@
+{
+    "uvp": 12.23,
+    "attributes": "<ul><li>vielseitiges Sortiment</li><li>hochwertige Materialien</li><li>zuverlässig und langlebig</li><li>organisierter Sortimentskasten</li><li>schnelle Durchführung</li></ul>"
+}

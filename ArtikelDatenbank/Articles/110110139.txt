@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Handfeger mit Kunstfaserborsten und abgewinkeltem Griff</li><li>Kehrschaufel mit Lippe und großem Auffangbehälter</li><li>2-teilige Kehrgarnitur aus PET-Kunststoff</li><li>effektive Reinigung von Schmutz</li><li>vielseitig einsetzbar<br/><br/></li></ul>"
+}

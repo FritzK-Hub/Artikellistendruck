@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>nachfüllbarer Seifenspender</li><li>stilvolles Design</li><li>für Flüssigseife geeignet</li><li>äußerst umweltfreundlich</li><li>hochwertige Materialien<br/><br/></li></ul>"
+}

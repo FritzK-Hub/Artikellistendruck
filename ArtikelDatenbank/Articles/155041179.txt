@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>kompakt und handlich für daheim und unterwegs</li><li>Möglichkeit schneller und präziser Berechnungen</li><li>energiesparende automatische Abschaltung integriert</li><li>vielseitig mit erweiterten Funktionen nutzbar</li><li>sofort einsatzbereit dank mitgelieferter Batterie</li></ul><p></p>"
+}

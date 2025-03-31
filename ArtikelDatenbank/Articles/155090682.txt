@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>praktischer 4in1 12-Volt-Geräteverteiler mit USB für KFZ/Wohnmobile</li><li>gleichzeitiger Anschluss von zwei 12V-Verbrauchern am Zigarettenanzünder</li><li>großzügige Anschlussleitung von ca. 0,75 Meter für maximale Flexibilität</li><li>lädt dein Smartphone oder Tablet per USB mit maximal 2 A Ladestrom<br/></li><li>hochwertige Qualität von EUFAB für zuverlässige Stromversorgung</li><li>integrierte 10-A-Leitungssicherung für optimalen Geräteschutz<br/></li></ul>"
+}

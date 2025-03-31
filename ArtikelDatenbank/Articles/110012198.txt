@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>hochwertige Reduziermuffe aus langlebigem Messing</li><li>beständig gegen Korrosion, Druck und Temperaturschwankungen</li><li>präzise gefertigte Gewinde für sichere und dichte Verbindungen</li><li>verfügbar in verschiedenen Größen für vielfältige Anwendungen</li><li>einfache Installation und minimale Wartungsanforderungen</li></ul><p></p>"
+}

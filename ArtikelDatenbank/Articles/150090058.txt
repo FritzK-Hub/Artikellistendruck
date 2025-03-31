@@ -1,0 +1,4 @@
+{
+    "uvp": 3.69,
+    "attributes": "<ul><li>KFZ Glas-Sicherungen im Set</li><li>die gängigsten Glas Fahrzeug-Sicherungen</li><li>5 verschiedene Sicherungen</li><li>für 12 Volt Bordsysteme geeignet</li><li>für Autoradios mit Feinsicherungen</li></ul>"
+}

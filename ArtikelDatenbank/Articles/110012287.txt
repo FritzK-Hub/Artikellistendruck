@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>effiziente Lösung für zuverlässige Schlauchverbindungen</li><li>¾\" Tülle &amp; 1\" Flügelmutter für vielseitige Anschlüsse</li><li>sichere Verbindung durch Schlauchschellen-Montage</li><li>perfekt für ¾\" Schläuche an 1\" Wasserhähnen</li><li>2-teiliges Messingdesign für einfache Montage</li><li>robuste Messingkonstruktion für Langlebigkeit</li></ul>"
+}

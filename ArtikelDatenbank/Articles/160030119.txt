@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Arbeitshandschuhe Größe 11 in Blau<br/></li><li>ideal für Präzisions-, Montage- oder Reparaturarbeiten</li><li>Handinnenfläche und Fingerspitzen mit Beschichtung </li><li>besonders widerstandsfähig mit sicherem Halt</li><li>atmungsaktives Strickmaterial für angenehmen Tragekomfort<br/></li></ul>"
+}

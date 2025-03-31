@@ -1,0 +1,4 @@
+{
+    "uvp": 24.37,
+    "attributes": "<ul><li>extra lange Ausführung 15,5cm</li><li>Kopf um 90° nach oben und unten schwenkbar</li><li>aus Chrom-Vanadium-Stahl mit “Quick-Out System“</li><li>1/4\" Antrieb mit 48er Kraftverzahnung</li><li>ergonomisch geformtes 2-Komponenten-Heft<br/></li></ul>"
+}

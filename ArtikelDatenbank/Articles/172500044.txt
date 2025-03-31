@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>1,5 m SAT-Anschlusskabel</li><li>2-fach geschirmtes SAT-Kabel</li><li>zur Übertragung des Audio- und Videosignals</li><li>Ausführung SAT an Receiver</li><li>mit Koaxial-Aufbau</li></ul>"
+}

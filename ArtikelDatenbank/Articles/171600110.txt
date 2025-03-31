@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>eine hochwertig polymervergütete Spachtelmasse auf Bitumenbasis</li><li>ideal zur Reparatur von Bitumendachbahnen, Rissen und Bruchstellen</li><li>besitzt eine hohe Haftung und kann waagerechte und senkrechte aufgetragen werden</li><li>auch zum Abdichten von Anschlüssen und Kehlen im Anschlussbereich geeignet</li><li>einfach in der Handhabung, besitz eine Reichweite von bis zu 3 m²<br/></li></ul>"
+}

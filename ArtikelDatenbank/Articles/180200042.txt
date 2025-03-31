@@ -1,0 +1,4 @@
+{
+    "uvp": 19.59,
+    "attributes": "<ul><li>verhindert Festbrennen von Düsennadeln</li><li>reduziert Kraftstoffverbrauch</li><li>optimiert Motorleistung</li><li>schützt vor Korrosion</li><li>entfernt Ablagerungen</li></ul>"
+}

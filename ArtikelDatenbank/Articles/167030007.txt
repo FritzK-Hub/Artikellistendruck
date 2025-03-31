@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>4 Spanngurte im Set</li><li>2-teilige Gurte mit je 250kg Tragkraft</li><li>mit stabilem Stahlhaken und Spannratsche</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Gartenlaterne aus Holz mit Glaszylinder</li><li>setzt Gartenwege oder Pflanzkübel gekonnt in Szene</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>drei-beiniger Standfuß sorgt für die nötige Stabilität</li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar<br/></li></ul>"
+}

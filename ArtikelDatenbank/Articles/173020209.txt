@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>BGS PH2 Bit-Einsatz mit Rändelung</li><li>aus hochwertigem Chrom-Vanadium-Stahl</li><li>geeignet für alle gängigen 1/4\" Umschaltknarren</li><li>mit Kordierung und ohne Bohrung</li><li>zum Befestigen von PH2-Schrauben</li></ul>"
+}

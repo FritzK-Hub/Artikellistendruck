@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>hohe Reißfestigkeit</li><li>vielseitige Anwendung</li><li>robustes Material</li><li>pflanzenschonend</li><li>großzügige Maße</li></ul>"
+}

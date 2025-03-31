@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>ideale Stütze für Orchideen oder hohen Blumen</li><li>in einem schönem Schmetterlings-Design</li><li>klemmt die Pflanzen sanft an die Rankhilfe</li><li>Klammer ist tranpsarent-pink gefärbt</li><li>Orchideen-Clip rückt nicht in den Vordergrund<br/></li></ul>"
+}

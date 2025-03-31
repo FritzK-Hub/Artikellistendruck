@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>robustes, langlebiges Holzmaterial</li><li>integrierte Dachbepflanzungsmöglichkeit</li><li>einfache Selbstmontage</li><li>stilvolles Design in Grau</li><li>optimaler Witterungsschutz</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>kompakt und wendig für verwinkelte Bereiche</li><li>ergonomischer Griff zum mühelosen Arbeiten</li><li>leistungsstarker Motor erlaubt effizientes Mähen</li><li>flexible Schnitthöhenverstellung<br/></li><li>integrierter Grasfangkorb für saubere Ergebnisse<br/></li></ul>"
+}

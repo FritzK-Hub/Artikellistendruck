@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Nass Trockensauger GNTS 1200 W von GERMANIA®</li><li>zum mühelosen Entfernen von Nass- oder Trockenschmutz</li><li>praktischer Helfer im Haushalt, Werkstatt oder Auto</li><li>einfache Mobilität dank den vier Lenkrollen</li><li>integrierte Zubehöraufnahme für Düsen und Saugrohr<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Wasserhahn Cantap aus schlagfestem Kunststoff</li><li>zum Einfüllen von Regenwasser in Regentonnen</li><li>Anschluss von Gartenschläuchen über Druckgurt möglich</li><li>zum präzisen Befüllen von Gießkannen oder Eimern</li><li>preiswerte und effiziente Gartenbewässerung<br/></li></ul>"
+}

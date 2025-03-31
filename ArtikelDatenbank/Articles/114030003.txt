@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>runde Pappteller</li><li>lebensmittelecht</li><li>kompostierbar</li><li>ideale Einwegteller für z.B. die nächste Grillparty</li><li>praktisch und hygienisch</li></ul>"
+}

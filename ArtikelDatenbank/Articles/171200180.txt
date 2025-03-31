@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>für Innenanwendungen auf Booten und Yachten</li><li>hohe Witterungsbeständigkeit</li><li>ausgezeichnete Abriebfestigkeit</li><li>extrem seewasserbeständig</li><li>hervorragende UV-Beständigkeit<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Bestway Oberarm-Wasserflügel</li><li>für Kleinkinder im Alter von 3-6 Jahren geeignet</li><li>zum Erlernen grundlegender Schwimmfähigkeiten im Wasser </li><li>robuste Konstruktion aus langlebigem Vinyl</li><li>verfügt über doppelte Luftkammern und sichere PVC-Ventile<br/></li></ul>"
+}

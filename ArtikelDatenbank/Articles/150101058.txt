@@ -1,0 +1,4 @@
+{
+    "uvp": 25.99,
+    "attributes": "<ul><li>Scheibenwischer Aerotwin KSN AP475U 47,5 cm</li><li>aus flexiblem Kunststoff mit Graphitüberzug</li><li>universell passend, Fahrzeugunabhängig, für Fahrzeuge mit Flachbalkenwischer</li><li>optimale Anpassung an die Fahrzeugscheibe durch gebogene Form</li><li>inklusive 4 Adaptern (Adapterverwendung wird mitgeliefert)<br/></li></ul>"
+}

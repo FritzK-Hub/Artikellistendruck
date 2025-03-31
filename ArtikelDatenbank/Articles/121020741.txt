@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>Warnschild mit weißem Symbol</li><li>mit Zeichen \"Fluchtweg\" - Figur rechts</li><li>grüner Hintergrund</li></ul>"
+}

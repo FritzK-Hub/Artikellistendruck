@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>stabile LED Feuchtraumleuchte</li><li>für Feuchträume oder Außenbereich </li><li>eingebautes LED Leuchtmittel</li><li>robustes ABS-Gehäuse</li><li>inklusive Montagematerial</li></ul>"
+}

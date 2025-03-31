@@ -1,0 +1,4 @@
+{
+    "uvp": 279.99,
+    "attributes": "<ul><li>Gartensessel mit Aluminiumgestell, robust und langlebig</li><li>verstellbare Rückenlehne schafft individuellen Sitzkomfort</li><li>natürlicher Charakter durch Polyrattan-Geflecht</li><li>UV-beständige Polsterauflage für dauerhafte Qualität</li><li>elegantes Design bietet zeitgemäße Gartenästhetik</li></ul>"
+}

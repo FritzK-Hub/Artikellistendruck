@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Unkrautvlies für Gemüse Beete geeignet</li><li>eine umweltfreundliche und biologische Methode zur Unkrautbekämpfung</li><li>wasser- und luftdurchlässig</li><li>reflektiert Sonneneinstrahlung</li><li>verhindert, dass sich zwischen den Zierpflanzen unerwünschte Unkräuter ausbreiten<br/></li></ul>"
+}

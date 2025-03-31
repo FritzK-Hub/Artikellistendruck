@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Hunde-Spielball aus 100% Naturgummi</li><li>der besondere Jagderfolg mit Spiel und Spaß</li><li>befüllbar mit Leckerlies<br/></li><li>mit integrierten Zwischenwänden<br/></li><li>spielerisches Training für den Hund</li></ul>"
+}

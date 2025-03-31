@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>batteriebetriebene LED-Stirnlampe mit 3 Leuchtmodis</li><li>ideal zum Joggen, Biken, Werken, Wandern oder Reaparatuurarbeiten</li><li>verstellbares Kopfband für angenehmeren Tragekomfort</li><li>Stufenlose Leuchtstrahl-Fokussierung versehen</li><li>besitzt eine Reichweite von bis zu 60 Metern<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Poolmattenset für transportable Gartenpools</li><li>bieten einen effektiven Schutz und erhöht Haltbarkeit</li><li>besonders leicht und einfach zu handhaben</li><li>einzelnen Teile werden miteinander verbunden</li><li>sowohl für runde als auch quadratische Schwimmbecken<br/></li></ul>"
+}

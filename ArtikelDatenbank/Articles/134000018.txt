@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>kompaktes Kofferformat mit Zubehörstaufach für mobile Nutzung</li><li>digitales Manometer und präzise Druckanzeige mit Abschaltautomatik</li><li>bis zu 10,3 bar Druckleistung ermöglicht hohe Kompatibilität</li><li>robustes Kunststoffgehäuse für Langlebigkeit</li><li>Betrieb mit Autostecker oder 20V Akku</li></ul><p></p>"
+}

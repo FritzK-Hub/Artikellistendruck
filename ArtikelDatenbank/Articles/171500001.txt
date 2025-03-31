@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>gebrauchsfertige Spezialgrundierung </li><li>zum Schutz vor Schimmelbildung und Feuchtigkeit </li><li>Verwendung direkt auf feuchtem Untergrund </li><li> deckt desinfizierte Stockflecken ab </li><li> dauerhafte Wirkung </li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>schnelltrocknendes Lackspray</li><li>schöner satinierter Farbton</li><li>in verschiedenen Farben erhältlich</li><li>ideal für Neulackierungen und Reparaturen</li><li>einfache und praktische Anwendung</li></ul><p><br/></p>"
+}

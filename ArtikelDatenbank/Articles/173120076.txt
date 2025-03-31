@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>LED Lampe E27 in Birnenform im Retro-Look</li><li>warmweißes, angenehmes Licht</li><li>lange Lebensdauer</li><li>LED Filament Birne mit guter Farbwiedergabe</li><li>sehr sparsam<br/></li></ul>"
+}

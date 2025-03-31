@@ -1,0 +1,4 @@
+{
+    "uvp": 14.3,
+    "attributes": "<ul><li>8-teiliger SDS-Hammerbohrersatz</li><li>für Steine, Mauerwerk und Putze</li><li>geeignet für Geräte mit einer SDS-Plus Aufnahme</li><li>in Kunststoff-Aufbewahrungsbox</li><li>für Profis und Hobbyheimwerker<br/></li></ul>"
+}

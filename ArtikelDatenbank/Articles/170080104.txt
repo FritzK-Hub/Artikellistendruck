@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>10 Velcut-Zuschnitte 70 x 125 mm</li><li>beste Qualität</li><li>für alle Schleifarbeiten</li><li>verfügt über K40 Körnung</li><li>speziell für Handschleifer Velcropad Art. Nr. 40150<br/></li></ul>"
+}

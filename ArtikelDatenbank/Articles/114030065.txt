@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Zahnstocher aus weichen Birkenholz</li><li><span class=\"a-list-item\">inklusive praktischer Aufbewahrungsdose aus Kunststoff</span></li><li><span class=\"a-list-item\">geringe Splitterung</span></li><li><span class=\"a-list-item\">entfernt Zahnbelag dort, wo Karies häufig entsteht</span></li><li><span class=\"a-list-item\">naturbelassen<br/></span></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Filz Buchstaben mehrfarbig</li><li>72 Stück im Set</li><li>24 Vokale und 48 Konsonanten</li><li>für DIY- und Bastelarbeiten</li><li>Filzbuchstaben zum Basteln oder als Tischdeko</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>Saatscheiben Smoothie-Kräuter-Mix in verschiedenen Sorten</li><li>zum Verfeinern von grünen, gesunden Smoothies</li><li>ideal für den Anbau auf Fensterbank oder Balkon geeignet</li><li>für eine bewusstere Ernährung mit köstlichem Geschmack</li><li>schnelle und einfache Handhabung</li></ul>"
+}

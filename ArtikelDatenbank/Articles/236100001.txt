@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Rabitzzange 200 mm mit kurzem Kopf und langen Schenkeln</li><li>aus massivem Chrom-Vanadium-Stahl gefertigt</li><li>passend für verschiedene Stahlbetonarbeiten</li><li>zum schnellen Verdrillen und Abtrennen des Bindedrahtes </li><li>eignet sich auch zum Abkneifen von Drähten und Kabeln<br/></li></ul>"
+}

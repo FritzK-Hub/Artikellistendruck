@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>haftet auch auf feuchten Untergründen</li><li>mit Wasser vollständig mischbar</li><li>nicht explosionsgefährlich und selbstentzündlich</li><li>ideal für Forst, Landwirtschaft, Bau</li><li>Berührungstrocken nach ca. 10 min</li></ul>"
+}

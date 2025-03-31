@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Schnittsellerie für ca. 400 Pflanzen</li><li>mit einem herzhaften, würzigen Geschmack</li><li>zur Verfeinerung von Eintöpfen oder Soßen</li><li>das beliebte Gewürzkraut wirkt entwässernd</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

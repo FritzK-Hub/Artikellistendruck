@@ -1,0 +1,4 @@
+{
+    "uvp": 15.49,
+    "attributes": "<ul><li>hochwertige Weichlötmetallpaste für Kupferrohrinstallationen</li><li>beständig gegen Korrosion und Verschleiß für lange Lebensdauer der Verbindungen</li><li>einfach zu handhaben und erfordert keine speziellen Lötfähigkeiten</li><li>kompatibel mit Fittingslots CFH-No. 52339 und 52340</li><li>ideal für Vorverzinnen und Weichlöten geeignet</li></ul><p></p>"
+}

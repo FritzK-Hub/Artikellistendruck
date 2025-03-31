@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Wasserschieber 43 cm mit doppelter Moosgummilippe</li><li>aus stabilem, blauem Kunststoff gefertigt</li><li>mit einschraubbarer Stielaufnahme versehen</li><li>ideal für Waschräume, Keller oder Küchen</li><li>universell einsetzbar im Innen- und Außenbereich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>10 m Antennenkabel</li><li>2-fach geschirmt</li><li>Ausführung Koax Stecker - Koax Kupplung</li><li>für Antennendose und TV</li><li>Anschlusskabel mit Koaxial-Aufbau</li></ul>"
+}

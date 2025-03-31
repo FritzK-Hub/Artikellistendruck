@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>1,5\"</li><li>rot lackiert</li><li>mit polierten Backen</li><li>kein Abrutschen durch 3-Punkt-Haftung</li><li>Zangenöffnung maximal 50mm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 148.95,
+    "attributes": "<ul><li>runder Gartentisch im Jugendstil-Design</li><li>zaubert ein nostalgisches, romantisches Flair in den Garten</li><li>als Dekoobjekt sowie als Esstisch geeignet</li><li>Gartentisch mit Ornamenten und unterer Ablage</li><li>aus wetterfestem Aluguss</li></ul>"
+}

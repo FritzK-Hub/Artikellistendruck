@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>3-teiliges Adapterset von Güde</li><li>vielseitig einsetzbar</li><li>sehr langlebig und robust</li><li>bestehend aus Fahrradventil-Adapter, Ballfüllnadel und Adapter für Luftmatratze</li><li>Schraubgewinde-Anschluss passend für herkömmliche Fußluftpumpen<br/><br/></li></ul>"
+}

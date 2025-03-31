@@ -1,0 +1,4 @@
+{
+    "uvp": 159.95,
+    "attributes": "<ul><li>ideal zum Kochen, Entsaften, Sterilisieren, Warmhalten</li><li>29 Liter Fassungsvermögen bietet ausreichen Stauraum</li><li>Kontrollleuchte und Überhitzungsschutz für mehr Sicherheit </li><li>lässt sich auch vielseitig als Getränkespender verwenden</li><li>mitgeliefertes Einlegerost für 14 je 1-Liter Gläser</li></ul>"
+}

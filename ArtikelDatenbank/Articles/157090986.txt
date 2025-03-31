@@ -1,0 +1,4 @@
+{
+    "uvp": 52.95,
+    "attributes": "<ul><li>klare Hohlkammerplatte aus bruchfestem Polycarbonat</li><li>vielseitige Einsatzmöglichkeiten in unterschiedlichsten Bereichen</li><li>widerstandsfähig gegen Wettereinflüsse für Langlebigkeit</li><li>dient als Überdachung für Hauseingänge oder Wintergärten</li><li>eignet sich auch für den Bau von Gewächshäusern<br/></li></ul>"
+}

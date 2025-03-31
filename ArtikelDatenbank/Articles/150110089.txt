@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>3-teiliges Set Microfasertücher für Autos von Nigrin</li><li>für Glas, Lack und Cockpit</li><li>optimierte Mikrofasern nach Einsatzbereich</li><li>umweltfreundliche Microfaser-Tücher mit Insektennetz</li><li>praktische Tuchecke mit Kennzeichnung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>passend für AEG, Bosch, Metabo, Makita und weitere Maschinen</li><li>besonders langlebig, leise und vibrationsarm</li><li>hochflexibler Sägeblattstahl, ideal für schnelles Arbeiten</li><li>geeignet für Holz, kunststoffbeschichtete Hölzer, Kunststoffe</li><li>Präzisionswerkzeug von Drillcraft Werkzeuge<br/><br/></li></ul>"
+}

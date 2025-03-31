@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>schnelle Fixierung für sofortige Ergebnisse</li><li>kein kompliziertes Mischungsverhältnis erforderlich</li><li>Materialerhärtung beginnt ab 5 Minuten</li><li>Belastbarkeit nach nur 24 Stunden</li><li>witterungs- und frostbeständige Stabilität</li></ul>"
+}

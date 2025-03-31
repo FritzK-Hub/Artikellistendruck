@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Sicherheitstürzylinder mit Knauf</li><li>Bedienung von innen mit Knauf</li><li>von außen mit Schlüssel abschließbar</li><li>mit 5 Schlüsseln</li><li>ideal für Eingangstüren oder Wohnungstüren</li></ul>"
+}

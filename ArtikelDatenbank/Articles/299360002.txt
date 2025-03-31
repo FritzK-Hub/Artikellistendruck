@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>hoch belastbar, für schwere Lasten</li><li>korrosionssicher, mit verzinkter Oberfläche</li><li>ideal zur Transportsicherung geeignet</li><li>aus robustem Stahl gefertigt</li><li>schnelle und unkomplizierte Installation</li></ul>"
+}

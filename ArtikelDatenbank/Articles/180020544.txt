@@ -1,0 +1,4 @@
+{
+    "uvp": 43.99,
+    "attributes": "<ul><li>zur sparsamen, sanften und gezielten Bewässerung</li><li>kann vielseitig überirdisch oder unterirdisch verlegt werden</li><li>für Anhäufungen wachsenden Pflanzen wie Rabatten oder Felsenpflanzen</li><li>Tropfmenge über Wasserdruck regulierbar, auch mit niedrigen Druck möglich</li><li>Wassereinsparungen bis zu 70%, ist kosteneffektiv und umweltfreundlich<br/></li></ul>"
+}

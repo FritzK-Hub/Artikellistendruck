@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hohe Korrosionsbeständigkeit</li><li>erhöht die Lebensdauer von Kabeln und Schläuchen</li><li>einfache Montage</li><li>im Set mit 4 gängigen Größen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Lithiumbatterie mit hoher Zellspannung und geringer Selbstentladung</li><li>weiterer Temperaturbereich von -40 bis +60°C für Lagerung und Betrieb</li><li>ideal für den Einsatz in Rauchmeldern</li><li>hält starken Temperaturschwankungen Stand</li><li>nicht wiederaufladbar<br/></li></ul>"
+}

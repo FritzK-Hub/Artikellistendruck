@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Maler-Garnitur 2-teilig</li><li>Farbrolle mit 24 cm langem Bügel</li><li>Abstreifgitter mit Griff</li><li>Einhängemöglichkeit am Farbeimer</li><li>fest montierte Farbwalze</li></ul>"
+}

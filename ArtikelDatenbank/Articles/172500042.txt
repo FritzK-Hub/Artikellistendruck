@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>HDMI™-Adapter mit HDMI™-Kupplungs-Anschluss</li><li>für HDTV und 3D-Übertragung</li><li>bis zu 18 Gbit/s bei 600 MHz Bandbreite</li><li>hochauflösendes Bild in Ultra HD 4k</li><li>überträgt Audiodaten Dolby Digital Plus, True HD, dts-HD</li></ul>"
+}

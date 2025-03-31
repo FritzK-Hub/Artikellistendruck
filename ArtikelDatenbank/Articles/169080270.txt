@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>4-teiliges Rundkeil-Set</li><li>für Hammer- und Fäustelstiele aus Holz</li><li>sicherer Halt für den Stiel</li><li>Ringkeile aus Stahl in 4 Größen</li><li>Keil-Sortiment von GERMANIA® </li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>100 Wasserbomben in verschiedenen Farben</li><li>für Gartenpartys und Wasserschlachten</li><li>lassen sich leicht mit Wasser befüllen</li><li>hochwertiges Material</li><li>einfache Handhabung</li></ul>"
+}

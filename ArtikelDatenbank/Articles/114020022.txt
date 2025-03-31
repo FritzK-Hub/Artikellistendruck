@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Geschenkband Amore</li><li>verschiedene Dekore mit Herzen<br/></li><li>aus Kunstfaser</li><li>mit seitlicher Drahtkante</li><li>fürDIY Handarbeiten geeignet</li></ul>"
+}

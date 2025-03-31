@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>hohe Belastbarkeit</li><li>vielseitige Anwendung</li><li>langlebiges Material</li><li>einfache Montage</li><li>kompakte Abmessungen</li></ul>"
+}

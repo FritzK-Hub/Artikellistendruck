@@ -1,0 +1,4 @@
+{
+    "uvp": 179.9,
+    "attributes": "<ul><li>YARD FORCE Akku-Rasenmäher im kompakten Design</li><li>ideal für Rasenflächen von bis zu 200 m² geeignet</li><li>zentrale Schnitthöhenverstellung, 3-fache</li><li>faltbarer Griff für einfache Handhabung</li><li>inklusive 30 Liter Fangkorb, Akku und Schnellladegerät<br/></li></ul>"
+}

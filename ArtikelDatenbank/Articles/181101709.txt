@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>lange Blütezeit bis in den November</li><li>strahlende Farben für einen bunten Herbstgarten</li><li>robust gegen Herbstwetter</li><li>wohlriechende Blüten, ideal als Schnittblume</li><li>pflegeleicht und einfach zu kultivieren</li></ul>"
+}

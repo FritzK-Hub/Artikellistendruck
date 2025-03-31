@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Weihwasserpinsel 180 mm goldfarbig</li><li>aus flexiblem Messingdraht</li><li>besitzt weiche Kunststoffborsten</li><li>praktisches Zubehör bei jedem Weihwasserbecken</li><li>Aufhängöse für die einfache Aufbewahrung</li></ul>"
+}

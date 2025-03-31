@@ -1,0 +1,4 @@
+{
+    "uvp": 7.94,
+    "attributes": "<ul><li>Übergangsprofil aus pulverbeschichtetem Aluminium in ahorn</li><li>zur dauerhaften Verbindung zweier gleich- oder verschiedenartigen Bodenbelägen</li><li>unsaubere Schnittkanten werden verdeckt</li><li>auf Stoß verlegte Üergänge werden dauerhaft geschützt</li><li>Montage durch spezielle superhaftende Klebestreifen</li></ul>"
+}

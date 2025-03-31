@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Herdanschlussdose aus Kunststoff in weiß<br/></li><li>mit Anschlussklemmen 5 x 2,5 mm² und Zugentlastung</li><li>Nennspannung 400 V</li><li>geeignet für die Aufputz- und Unterputzmontage</li><li>bei der Aufputz-Montage müssen die Spreizkrallen entfernt werden</li></ul>"
+}

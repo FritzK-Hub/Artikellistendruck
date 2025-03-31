@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> Maße: (LxBxT) ca. 123 x 50 x 7 mm </li><li> Maße Reflektorfläche: (BxH) ca. 100 x 50 mm </li><li> Form: rechteckig </li><li> Farbe: weiss </li><li> Befestigung: Schraubbefestigung </li></ul> </div>"
+}

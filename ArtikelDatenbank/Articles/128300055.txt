@@ -1,0 +1,4 @@
+{
+    "uvp": 39.99,
+    "attributes": "<ul><li>Balkon Sonnenschirm halbrund 250 x 220 cm</li><li>sorgt für ein schattiges Plätzchen auf dem Balkon</li><li>mit einem Polysterbezug 160 g/m² in taube bezogen</li><li>robustes Aluminiumstange für einen sicheren Stand</li><li>dank Kurbelmechanismus öffnen und schließen möglich<br/></li></ul>"
+}

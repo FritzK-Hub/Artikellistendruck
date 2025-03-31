@@ -1,0 +1,4 @@
+{
+    "uvp": 74.95,
+    "attributes": "<ul><li>GERMANIA® Plattform Handkreissäge 20 V</li><li>für gerade Schnitte in Holz und Holzwerkstoffen</li><li>Schnittwinkel für Gehrungs- und Schrägschnitte, manuell einstellbar (0°-45°)</li><li>Führungsschiene und Laserführung für präzise Schnitte</li><li>Zusatzhandgriff für die sichere Handhabung und Führung<br/></li></ul>"
+}

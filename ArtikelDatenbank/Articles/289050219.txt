@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Flachstange aus verzinktem Stahl, kaltgewalzt</li><li>Oberfläche durch Spezialbehandlung vom Zunder befreit</li><li>mit handelsüblicher Metallsäge abzulängen</li><li>Materialstärke 1,5 mm</li><li>Flach-Profil 35,5 x 1,5 mm in silber</li></ul>"
+}

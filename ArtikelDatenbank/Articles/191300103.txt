@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>handliche Kühltasche mit Reißverschluss in Grau</li><li>Fassungsvermögen von 10 Liter</li><li>besonders für Ausflüge und Sport geeignet</li><li>angenehmer Tragekomfort durch Tragegriffe</li><li>zum Kaltstellen von Speisen und Getränken<br/></li></ul>"
+}

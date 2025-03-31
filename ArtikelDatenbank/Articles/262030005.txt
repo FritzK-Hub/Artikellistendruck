@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Art: Flachwinkel (auch Fensterwinkel, Stuhlwinkel oder Eckwinkel genannt) </li><li>Löcher: 2 Bohrungen je Schenkel / einseitig gesenkt</li><li>Material: Stahl, gelb verzinkt</li></ul>"
+}

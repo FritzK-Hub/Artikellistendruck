@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Kapselgehörschutz aus Spezial-Kunststoff</li><li>angenehm zu tragen</li><li>sehr weiche Ohrpolster</li><li>angenehmer Anpressdruck</li><li>größenverstellbar<br/></li></ul>"
+}

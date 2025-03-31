@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Nebelschlussleuchte Radex 4001</li><li>für deinen Anhänger geeignet</li><li>sorgt für optimale Sicht und Sicherheit</li><li>inklusive Montagewinkel und Befestigungsmaterial</li><li>Lieferung erfolgt ohne Leuchtmittel<br/><br/></li></ul>"
+}

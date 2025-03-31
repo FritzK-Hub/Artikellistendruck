@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>wasserdicht</li><li>mit stilvollem Muster</li><li>ideal für Gartenmöbel</li><li>besonders bequemer Sitzkomfort</li><li> formschönes, quadratisches Sitzkissen<span data-mce-style=\"font-weight: bold;\" style=\"font-weight: bold;\"> </span>aus Polyester <br/></li></ul>"
+}

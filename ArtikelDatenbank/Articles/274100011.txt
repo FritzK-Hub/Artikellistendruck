@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul> <li>sehr leichter, aus Aluminium gefertigter Schraubstock</li> <li>werkstoffschonende, weiche Spannbacken aus Gummi</li> <li>stufenlos ver- und feststellbares Kugelgelenk</li> <li>Klemmvorrichtung für einfaches, zeitsparendes Montieren des Schraubstocks</li> <li>die ideale dritte Hand für Handwerker, Modellbauer, Bastler</li></ul>"
+}

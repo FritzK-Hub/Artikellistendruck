@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>langlebig und strapazierfähig</li><li>hohe Knickfestigkeit</li><li>universelle Passform</li><li>wassersparende Dichtung</li><li>erweiterbare Schlauchlänge</li></ul>"
+}

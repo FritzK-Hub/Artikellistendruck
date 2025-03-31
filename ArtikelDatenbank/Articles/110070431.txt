@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>hitzebeständige Universaldichtung aus Erdalkali-Silikatwolle</li><li>für Revisions- / Reinigungsöffnungen, Kapseln, Türen</li><li>bis 1000°C hitzebeständig</li><li>für innen</li></ul>"
+}

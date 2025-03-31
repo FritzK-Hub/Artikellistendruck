@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Saugnapf in transparent mit robustem Haken</li><li>für glatte Oberflächen geeignet</li><li>schnelle und unkomplizierte Montage</li><li>Befestigung ohne Kleben</li><li>problemlos jederzeit abnehmbar<br/></li></ul>"
+}

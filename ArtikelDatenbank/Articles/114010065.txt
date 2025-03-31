@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>selbstklebende Dekorationsfolie 200 x 45 cm</li><li>mit schönen Tiffany-Blume-Motiv versehen</li><li>für verschiedene Anwendungen einsetzbar</li><li>lässt sich einfach aufkleben und ist abwaschbar</li><li>kann ohne Kleberückstände entfernt werden<br/></li></ul>"
+}

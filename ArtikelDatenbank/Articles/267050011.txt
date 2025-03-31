@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>ein Qualitätsprodukt aus synthetischen Kunstfasern</li><li>besitzt eine hohe Festigkeit, ist abriebfest und temperaturbeständig</li><li>weich, flexibel, drallfrei, wasserabweisend und salzwasserbeständig</li><li>ideal für den Einsatz in der Landwirtschaft, Schifffahrt, Bau- und Transportwesen, oder für private Zwecke rund um Haus &amp; Garten</li><li>wasser resistent und widerstandsfähig gegen Chemikalien wie Laugen, Säuren, Benzin etc.</li></ul>"
+}

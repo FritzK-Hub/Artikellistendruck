@@ -1,0 +1,4 @@
+{
+    "uvp": 431.95,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> hochwertiger Ausziehtisch </li><li> ausziehbar von 180x100 cm auf 240x100 cm </li><li> Tischplatte aus Sicherheitsglas, schwarz </li><li> Gestell aus pulverbeschichtetem Aluminium </li><li> Tischhöhe: ca. 75 cm </li></ul> </div> <div class=\"bs-row\"> <div class=\"bs-col-md-12 spb-detail-data-ratgeber-container\"> </div> </div>"
+}

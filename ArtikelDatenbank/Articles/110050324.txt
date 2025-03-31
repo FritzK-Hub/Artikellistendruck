@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Kühlakku 2 Stück aus blauem Kunststoff</li><li>für Kühlschrank oder Tiefkühltruhe geeignet</li><li>hält Speisen, Getränke oder Medikamente kühl</li><li>ideal für unterwegs, z. B. Picknick, Urlaub, Camping</li><li>passend für alle herkömmlichen Kühltaschen und Kühlboxen</li></ul>"
+}

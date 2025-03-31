@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>enthält ein umfangreiches aus verschiedenen Steinbohrer, Spitz- oder Flachmeißeln</li><li>Werkzeug-Set ideal für verschiedene Beton- und Steinarbeiten</li><li>eignet sich zum Bohren von Beton, Mauerwerk oder Dachziegeln</li><li>ermöglicht schnelle und präzise Bohrungen für eine effiziente Arbeitsweise</li><li>mit Aufbewahrungstasche für einfachen Transport und Organisation</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>LED-Beleuchtung im Lavadesign</li><li>aus stabilem Kunststoff gefertigt</li><li>vielseitig einsetzbare Leuchtdekoration</li><li>für die dekorative Gestaltung im Innenbereich</li><li>inklusive der benötigten 3 x LR33 Knopfzellen<br/></li></ul>"
+}

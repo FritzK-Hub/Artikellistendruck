@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Eiskratzer mit Handschuh</li><li>Handschuh innen weich gefüttert</li><li>aus stabilem Kunststoff</li><li>außen wasserundurchlässig</li><li>Einheitsgröße, universal passend</li></ul>"
+}

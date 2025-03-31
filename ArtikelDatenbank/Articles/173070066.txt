@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>ergonomisches Design, komfortabel</li><li>8 mm Größe, matt verchromt</li><li>12-kant-Form für festen Halt</li><li>langlebig und zuverlässig</li><li>feinverzahnt: 72 Zähne<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Seifenblasen Nachfüllflasche 1 Liter</li><li>in praktischem Nachfüllpack</li><li>Konzentrat, Verhältnis 1:28</li><li>zum Nachfüllen von Seifenblasenstäben oder Seifenblasenpistolen</li><li>einfaches und schnelles abfüllen <br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.15,
+    "attributes": "<ul><li><em>Reifen Montiereisen</em> von BGS</li><li>zum Auf- und Abziehen von Reifen auf die Felge</li><li>lange Lebensdauer durch hochwertige Materialen</li><li>aus Chrom-Vanadium-Stahl gefertigt</li><li>Doppel-T-Profil sorgt für hohe Stabilität</li></ul>"
+}

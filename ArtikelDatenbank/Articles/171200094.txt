@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>Holzisoliergrundierung in Weiß</li><li>dient zur Vorbereitung von Deckanstrichen auf unbehandeltem Holz</li><li>verhindert Flecken und Unregelmäßigkeiten</li><li>gewährleistet gleichmäßige Saugfähigkeit des Holzes</li><li>erzielt schönere Optik des Endanstrichs<br/></li></ul>"
+}

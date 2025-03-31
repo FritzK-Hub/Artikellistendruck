@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>DecoPro Tapeziergrund 5 Liter</li><li>die ideale Grundierung zum Tapezieren</li><li>weiß pigmentiert, lösemittelfrei</li><li>gleicht Farbtonunterschiede des Untergrundes aus</li><li>schafft gleichmäßig saugende Untergründe</li></ul>"
+}

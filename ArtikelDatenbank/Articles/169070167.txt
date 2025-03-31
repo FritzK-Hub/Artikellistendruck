@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>zuverlässige Sicherheit und Komfort</li><li>präzise verarbeitete Schlüssel</li><li>Schutz gegen unbeabsichtigtes Schließen</li><li>beidseitige Bedienbarkeit</li><li>einfache Montage<br/></li></ul>"
+}

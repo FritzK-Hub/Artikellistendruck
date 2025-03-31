@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>2 Funksteckdosen mit Fernbedienung im Set</li><li>Steckdose für den Innen- und Außenbereich geeignet</li><li>für den Betrieb von Elektrogeräten und Beleuchtungen</li><li>ca. 30 Meter Reichweite des Handsenders, auch durch Wände, Decken und Fenster</li><li>inklusive 1 x CR2032 Knopfzellbatterien für die Fernbedienung<br/></li></ul>"
+}

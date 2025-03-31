@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Ohrenstöpsel von Wundmed sind der ideale Lärmschutz</li><li>zum Schlafen und Entspannen</li><li>aus elastischem Polymerschaum</li><li>wiederverwendbare Ohrstöpsel</li><li>halten Lärm effektiv ab<br/></li></ul>"
+}

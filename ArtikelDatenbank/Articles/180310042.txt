@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>Waschhandschuh 2in1 für schnelle und einfache Autopflege</li><li>Chenille-Waschseite ist besonders schonend zu Lack- und Chromflächen</li><li>Mikrofasertuch dient zum Entfernen von hartnäckigem Schmutz<br/></li><li>elastischer Gummibund verhindert ein ungewolltes Abrutschen </li><li>ist nach Gebrauch waschbar und jederzeit wiederverwendbar<br/></li></ul>"
+}

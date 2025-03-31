@@ -1,0 +1,4 @@
+{
+    "uvp": 2.39,
+    "attributes": "<ul><li>Drahstseil-Spannschraube aus Edelstahl</li><li>bis 50 kg belastbar</li><li>für Stahlseile bis 7 mm Durchmesser geeignet</li><li>ideal zum Abspannen z. B. von Sonnensegeln</li><li>Spannschloss mit Haken und Öse</li></ul>"
+}

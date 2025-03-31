@@ -1,0 +1,4 @@
+{
+    "uvp": 499.95,
+    "attributes": "<ul><li>wunderschönes 2-Sitzer-Lounge-Set</li><li>ebenso stilvoll wie bequem</li><li>besteht aus zwei Sesseln mit niedriger Rückenlehne</li><li>mit UV-beständigen, besonders weichen Sitz- und Rückenkissen aus Polyester</li><li>Couchtisch mit Geflechtgestell und Platte aus gehärtetem Glas<br/></li></ul>"
+}

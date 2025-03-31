@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>besonders dichte und stabile Glasfaser-Matte</li><li>für großflächige Arbeiten und vibrationsbeanspruchte Bauteile</li><li>sehr stabil, verfügt über optimale Hafteigenschaften</li><li>ideal für alle formgebenden Arbeiten</li><li>für Fahrzeug-Karosserien, Motorrad-Verkleidungen, Wohnwagen, Booten, Modellbau</li></ul>"
+}

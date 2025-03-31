@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>mit Unterlegscheibe und Sechskantmutter</li><li>mit praktischem Federmechanismus</li><li>lange Gewindestange für große Wandstärke</li><li>vielseitig einsetzbar</li><li>gute Haltekraft und einfache Montage<br/></li></ul>"
+}

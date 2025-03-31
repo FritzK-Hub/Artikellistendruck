@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Schäkel standard, 6 mm</li><li>aus hochwertigem V4A (CrNiMo) Edelstahl</li><li>mit einer max. Tragkraft von 375 kg</li><li>in gerader Form</li><li>rostfrei und witterungsbeständig</li></ul>"
+}

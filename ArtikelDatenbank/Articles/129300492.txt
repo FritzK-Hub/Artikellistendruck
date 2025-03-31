@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>farbintensive Blüten für den Spätsommer</li><li>ideal an sonnigen bis halbschattigen Plätzen</li><li>insektenfreundliche Nahrungsquelle</li><li>perfekt auch als dekorative Schnittblumen</li><li>kombiniert zwei schöne Blütenarten harmonisch</li></ul>"
+}

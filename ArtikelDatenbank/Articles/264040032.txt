@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Art: Manschettenhaken, Schaukelhaken, Schaukelmanschette</li><li>Maße Manschette: (ØxB) ca. 100x35mm</li><li>Materialstärke: (t) ca. 3mm</li><li>Maße Karabiner: (LxB) ca. 10x4,7cm</li><li>Materialstärke: (Ø) ca. 10mm</li></ul>"
+}

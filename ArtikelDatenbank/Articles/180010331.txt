@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>torffreie SERAMIS®-Balkonerde</li><li>für Grün- und Blühpflanzen auf Balkon und Terrasse geeignet</li><li>besonders hohe Wasser- und Nährstoffspeicherkapazität</li><li>aus hochwertigem Pflanzengranulat und nachwachsenden Rohstoffen</li><li>für ca. 4-6 Wochen vorgedüngt<br/></li></ul>"
+}

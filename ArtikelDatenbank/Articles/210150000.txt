@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Luftgewehr-Munition Made in Germany</li><li>leichte Luftgewehrkugeln Diabolo 4,5 mm</li><li>Diabolos Kaliber 177</li><li>geeignet für kleine bis mittlere Distanzen bis 20 m</li><li>Gewicht pro Diabolo ca. 0,48 g</li></ul>"
+}

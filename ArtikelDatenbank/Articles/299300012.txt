@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Lochplattenwinkel aus Edelstahl</li><li>Löcher beidseitig versenkt</li><li>ideal für den Holzbau geeignet</li><li>aus rostfreiem Material</li><li>vielseitig einsetzbar</li></ul><br/>"
+}

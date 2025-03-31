@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>farbloses Hartwachs-Öl von Clou</li><li>für Böden und Möbel aus Holz geeignet</li><li>bewahrt die natürliche Optik des Holzes</li><li>mechanisch gut beanspruchbar und schmutzabweisend</li><li>gegen viele Haushaltschemikalien beständig<br/></li></ul>"
+}

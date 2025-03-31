@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>hochwertiges Stahlmaterial</li><li>gelb verzinkte Oberfläche</li><li>vielseitige Anwendung</li><li>einseitig gesenktes Langloch</li><li>Verstärkung durch Sicke<br/><br/></li></ul>"
+}

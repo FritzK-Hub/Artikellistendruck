@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li><div>GARDENA Dichtungssatz 4-teilig</div></li><li><div>enthält eine Flachdichtung und drei O-Ringe</div></li><li><div>passen für die GARDENA G3/4\", 26,5 mm Hahnstücke</div></li><li><div>100% dicht, keine Wasserverschwendung</div></li><li>Material: Gummi</li></ul>"
+}

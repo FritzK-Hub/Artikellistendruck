@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>digitale Zeitschaltuhr für den Innenbereich</li><li>20 Schaltzeiten pro Tag, mit Wochenprogrammierung</li><li>Blockbildung möglich (Mo-Fr, Mo-Sa, Sa-So, Mo-So)</li><li>mit Countdown- und Zufallsfunktion, 12 h oder 24 h Anzeige</li><li>kein Datenverlust durch Gangreserve über eingebauter Batterie</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Hafthaken selbstklebend mit 6,8 cm Durchmesser</li><li>aus stabilem Kunststoff in Metalloptik gefertigt</li><li>verfügt über eine Tragkraft von ca. 0,75 kg</li><li>zur Befestigung von kleineren Gegenständen oder Handtücher</li><li>einfaches Befestigen ganz ohne Bohren<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Gartenstecker 60 cm mit Tiermotiven</li><li>in drei verschiedenen Ausführungen erhältlich</li><li>vielseitig einsetzbare Gartendekoration</li><li>Stab aus robustem Metall für sicheren Halt</li><li>auch zwischen Büschen und Blumen geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 20.49,
+    "attributes": "<ul><li>Klobe mit 13 mm dicken Stift</li><li>aus robustem A2 Edelstahl</li><li>geeignet für Fenster, Türen oder Toren</li><li>in Tür- oder Fensterrahmen montierbar</li><li>4 Bohrlöcher für zusätzliche Stabilität<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.09,
+    "attributes": "<ul><li>Full HD SVGA Monitorverlängerung</li><li>mit einzeln geschirmten RGB Video Leitungen</li><li>voll beschaltet 3x Coax RGB + 8x Steuerleitungen</li><li>max. Auflösung WUXGA / Full HD 1920 x 1080</li><li>vergoldete Stecker<br/></li></ul>"
+}

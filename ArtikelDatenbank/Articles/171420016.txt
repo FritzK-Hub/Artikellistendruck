@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>eignet sich besonders für Dicht- und Klebstoffe</li><li>für präzise Dosierung und optimale Ergebnisse</li><li>erleichtert das Auspressen einer Kartusche</li><li>einfache Bedienung über Abzughebel am Griffstück <br/></li><li>ideal für Baukleber, Komponentenkleber und Silikonkartuschen <br/></li></ul>"
+}

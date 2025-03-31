@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Bohr- und Gewindepaste in der Tube</li><li>für schwere bis sehr schwere Gewindeschneidarbeiten</li><li>auch für Bohren, Fräsen usw geeignet</li><li>gute Haftung und Schmiereigenschaften</li><li>Tube wiederverschliessbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.29,
+    "attributes": "<ul><li>vielseitig einsetzbarer Elektrodenhalter EH 550</li><li>für alle Elektrodenarten bis Ø 2,4 mm geeignet</li><li>ermöglicht das Einspannen von rechts, links und an der Vorderseite</li><li>garantiert stets präzise und zuverlässige Schweißergebnisse</li><li>leistungsstark bis zu 200 A, für problemlose Schweißarbeiten<br/></li></ul>"
+}

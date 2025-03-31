@@ -1,0 +1,4 @@
+{
+    "uvp": 279.95,
+    "attributes": "<ul><li>fahrbarer Gasgrillwagen</li><li>3 Brenner mit je 3,2 kW</li><li>Grillfläche und Haube aus Edelstahl</li><li>Haube mit Thermometer</li><li>inkl. Gasschlauch, Gasflaschenhalterung und Druckminderer</li></ul>"
+}

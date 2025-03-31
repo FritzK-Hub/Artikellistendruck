@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>Japansäge für schnelle, feine Schnitte</li><li>ergonomischer 2-Komponenten-Kunststoffgriff</li><li>sägt mit geringem Kraftaufwand auf Zug</li><li>3-fach geschliffene und gehärtete Zähne</li><li>leicht austauschbares Sägeblatt</li></ul><p></p>"
+}

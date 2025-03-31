@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>optimierte Handhabung durch ideale Länge</li><li>schützt Oberflächen mit transparenten Schonbacken</li><li>anpassbare Größe für vielseitigen Einsatz</li><li>spezialisiert auf Sanitärinstallationen und -reparaturen</li><li>robust Herstellung garantiert präzise Ergebnisse</li></ul>"
+}

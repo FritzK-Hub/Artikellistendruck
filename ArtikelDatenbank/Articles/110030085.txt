@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Staubmagnet mit festem Stiel</li><li>mit weichen Kunstfaserborsten</li><li>zur schonenden Reinigung empfindlicher Oberflächen</li></ul>"
+}

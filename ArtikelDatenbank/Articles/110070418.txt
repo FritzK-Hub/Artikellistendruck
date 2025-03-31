@@ -1,0 +1,4 @@
+{
+    "uvp": 5.59,
+    "attributes": "<ul><li>extrem hitzebeständig bis zu 1000°C</li><li>vielseitig einsetzbar für unterschiedliche Bereiche</li><li>praktische und einfache Anwendung dank Tubenverpackung</li><li>starke und dauerhafte Bindung für Glas- und Mineralfasern</li><li>hohe Festigkeit und Zuverlässigkeit, auch in anspruchsvollen Umgebungen<br/></li></ul>"
+}

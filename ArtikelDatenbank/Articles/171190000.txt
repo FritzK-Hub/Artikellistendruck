@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>praktischer Rost-Umwandler 250 ml von Alpina</li><li>bildet auf Eisen- und Stahlteilen eine schützende, schwarze Schicht</li><li>verbessert die Haftung des Folgeanstriches</li><li>lässt sich direkt auftragen und stoppt die Rostbildung</li><li>ist kratzfest, blättert nicht ab und benötigt keine Vorbehandlung</li></ul>"
+}

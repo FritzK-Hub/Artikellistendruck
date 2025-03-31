@@ -1,0 +1,4 @@
+{
+    "uvp": 345.95,
+    "attributes": "<ul><li>Hochwertiger Ausziehtisch</li><li>ausziehbar von 150 x 90 cm auf 210 x 90 cm</li><li>Tischplatte aus Sicherheitsglas, schwarz</li><li>Gestell aus pulverbeschichtetem Aluminium</li><li>Tischhöhe ca. 75 cm</li></ul>"
+}

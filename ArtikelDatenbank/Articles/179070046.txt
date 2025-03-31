@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Maße: HxBxL 65x390x490mm</li><li>transparenter Deckel</li><li>stabiler Kunststoff</li><li>flexible Einteilung der Fächer</li><li>mit Griff</li><li>max. 18 Fächer möglich</li><li>mit zwei Druckverschlüssen</li><li>weitere Aufbewahrungen und Boxen finden Sie in unserem Shop!</li></ul>"
+}

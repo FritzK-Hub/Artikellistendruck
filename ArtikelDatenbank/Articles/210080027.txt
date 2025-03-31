@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>selbstklebende Filzgleiter Platte quadratisch, zuschneidbar</li><li>die ideale Gleithilfe und Geräuschdämmung für Stühle und sonstige Kleinmöbel</li><li>gleitet und schützt auf glatten Oberflächen wie Laminat, Parkett, Kunststoff oder Steinböden</li><li>die Oberflächen müssen vor der Anbringung sauber, trocken und fettfrei sein</li><li>aus hochwertigem und strapazierfähigem Material<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>hochglänzender Boots- &amp; Yachtlack</li><li>seewasserfest und wetterbeständig</li><li>beständig gegen Alkohol und Haushaltsreiniger</li><li>für natürliches Aussehen des Holzes</li><li>zur Neulackierung und Renovierung<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 109.95,
+    "attributes": "<ul><li>Wandbrunnen im klassischen Antik-Look</li><li>Blickfang für jeden Garten</li><li>aus rostfreiem Aluguss</li><li>inkl. vermessingtem Wasserkran</li><li>voll funktionsfähig</li></ul>"
+}

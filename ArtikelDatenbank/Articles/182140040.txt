@@ -1,0 +1,4 @@
+{
+    "uvp": 13.49,
+    "attributes": "<ul><li>Kettenniet-Drücker Universal</li><li>passend für alle gängigen Fahrradketten</li><li>in robuster Profiqualität</li><li>mit Ausdrückbolzen</li><li>Fahrrad Kettennieter aus Metall</li></ul>"
+}

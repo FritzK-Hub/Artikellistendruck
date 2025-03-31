@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>Saatscheiben Pflücksalat „Fitness-Mix“ in verschiedenen Sorten</li><li>spezielle Mischung enthält Salatsorten, die keinen Kopf ausbilden</li><li>roten und grünen Blatt- sowie Bataviasalate sind gleichzeitig erntereif</li><li>die Samen sind über die gesamte Freilandsaison anbaubar</li><li>für eine gesündere Ernährung mit köstlichem Geschmack</li></ul>"
+}

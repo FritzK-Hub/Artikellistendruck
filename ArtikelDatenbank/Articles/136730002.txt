@@ -1,0 +1,4 @@
+{
+    "uvp": 6.1,
+    "attributes": "<ul><li>15-Meter-Maßband für Messungen auf Distanzen</li><li>im Garten, auf Baustellen oder Haushalt einsetzbar</li><li>stabiles Kunststoffgehäuse für längere Nutzung</li><li>ausklappbare Handkurbel für schnelles Aufrollen</li><li>beidseitig bedruckt und mit Öse am Bandanfang<br/></li></ul>"
+}

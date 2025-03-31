@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Schlagschnurroller-Set</li><li>mit Libelle zum Einhängen</li><li>inklusive 115 g blaue Markierkreide</li><li>für lange, gerade Linien</li><li>ideal für den Innenausbau oder Holzbau</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.57,
+    "attributes": "<ul><li>Anschluss für Übergang von KG-Rohr auf Steinzeugrohr-Ende</li><li>passgenaue und problemlose Anschlussmöglichkeiten</li><li>zum Verbinden von KG-Kanalrohren und HT-Rohren</li><li>Doppeldichtungs-Set für KGUG und KGU Überschiebmuffe erforderlich</li><li>Sicherheit durch Rückstauverschlüsse</li></ul>"
+}

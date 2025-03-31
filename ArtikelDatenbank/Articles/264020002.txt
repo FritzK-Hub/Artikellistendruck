@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Schäkel Durchmesser 8mm</li><li>gerade Form</li><li>galvanisch verzinkt</li><li>max. Tragkraft 200kg</li><li>qualitativ hochwertiges Produkt</li></ul>"
+}

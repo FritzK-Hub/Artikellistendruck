@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>kuschelweiche Wohndecke aus Polyester</li><li>in den Farben Anthrazit und Beige erhältlich</li><li>ideal für Wohnzimmer, Schlafzimmer oder Garten</li><li>ein stilvolles Accessoire für deine Couch</li><li>besonders wärmende und pflegeleichte Decke<br/></li></ul>"
+}

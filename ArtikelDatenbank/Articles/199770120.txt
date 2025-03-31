@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hochwertige FISHBULL Einschlagmuttern im 6er Set</li><li>mit Schlitzantrieb</li><li>mit selbstschneidendem Außengewinde</li><li>ideal für den Möbelbau</li><li>aus robustem Metall mit verzinkter Oberfläche<br/><br/></li></ul>"
+}

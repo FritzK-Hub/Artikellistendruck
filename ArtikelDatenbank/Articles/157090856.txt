@@ -1,0 +1,4 @@
+{
+    "uvp": 3.15,
+    "attributes": "<ul><li>für eckige Dachrinnen geeignet</li><li>zum Aufstecken und Verkleben</li><li>aus stabilem Kunststoff<br/></li><li>hohe Witterungsbeständigkeit</li><li>für Dachrinnen RG 70 </li></ul>"
+}

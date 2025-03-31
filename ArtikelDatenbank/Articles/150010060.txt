@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>Gummibesen 34 cm in rot-schwarz</li><li>verfügt über eine Arbeitsbreite von 34 cm</li><li>mit einer Wasserschiebekante versehen</li><li>besonders für Nassbereiche geeignet</li><li>auch zum Fegen auf Teppichböden geeignet<br/></li></ul>"
+}

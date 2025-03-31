@@ -1,0 +1,4 @@
+{
+    "uvp": 74.95,
+    "attributes": "<ul><li>GERMANIA® Plattform G2 Handkreissäge 160mm 20V ohne Akku</li><li>für gerade Schnitte in Holz und Holzwerkstoffen</li><li>Schnittwinkel für Gehrungs- und Schrägschnitte, manuell einstellbar (0°-45°)</li><li>Führungsschlitz und Laserführung für präzise Schnitte</li><li>Staubsaugeranschluss für Vermeidung von Staub</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Saatgut Balkontomate Tiny Tim für ca. 30 Pflanzen</li><li>ertragreiche Buschtomatensorte mit 50 cm Wuchshöhe</li><li>mit einer Vielzahl an kirschgroßen, süßen Früchten</li><li>lässt sich in Kübeln oder Kästen kultivieren</li><li>ideal für den Frischverzehr oder zur Garnierung geeignet<br/><br/></li></ul>"
+}

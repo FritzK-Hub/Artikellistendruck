@@ -1,0 +1,4 @@
+{
+    "uvp": 7.79,
+    "attributes": "<ul><li>Regentonnen-Verbindungsstutzen aus Messing</li><li>zur Installation eines Schlauchanschlusses an einer Regentonne</li></ul>"
+}

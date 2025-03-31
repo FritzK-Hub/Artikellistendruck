@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Karabiner verzinkt 5 x 50 mm</li><li>belastbar bis 120 kg</li><li>birnenförmig (C-Form)</li><li>nach DIN 5299</li><li>auch Feuerwehr Karabinerhaken genannt</li></ul>"
+}

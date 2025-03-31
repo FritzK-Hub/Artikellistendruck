@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>zum Einkehren von schmalen Fugen bei Pflasterflächen</li><li>entzieht dem Unkraut die Nährstoffe und stoppt das Wachstum</li><li>einfache Verarbeitung mit einem weichen Besen</li><li>Oberfläche bekommt eine stabile, wasserdurchlässige und optische Fuge</li><li>verhindert die Verunreinigung der Pflasteroberfläche durch Staub<br/></li></ul>"
+}

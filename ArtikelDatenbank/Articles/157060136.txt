@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>1 x750 ml Holzisoliergrund in weiß</li></ul>"
+}

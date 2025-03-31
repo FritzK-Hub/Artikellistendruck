@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hochwertige Stahlrillenhaken von FISHBULL</li><li>aus gerilltem Stahl gefertigt</li><li>galvanisch verzinkt</li><li>zum Einhämmern in Stein oder Beton</li><li>besonders robust und langlebig<br/></li></ul>"
+}

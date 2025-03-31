@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>lebendige Schönheit</li><li>vielseitige Verwendung</li><li>einfacher Anbau</li><li>Bodenverbesserung</li><li>genussvolle Ernte<br/></li></ul>"
+}

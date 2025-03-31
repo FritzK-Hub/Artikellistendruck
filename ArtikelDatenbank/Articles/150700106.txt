@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Vorratsdosenset 10-teilig mit Deckeln</li><li>aus robustem, verschiedenfarbigem Kunststoff gefertigt</li><li>ideal zum Aufbewahren, Einfrieren und Erwärmen</li><li>verschließt luft-, wasser- und aromadicht</li><li>platzsparend ineinander stapelbar</li></ul>"
+}

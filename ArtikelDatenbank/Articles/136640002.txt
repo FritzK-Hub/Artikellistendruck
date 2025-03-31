@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Sägeblätter aus Metall</li><li>5 Stück im Set</li><li>für kleine Bogensägen</li><li>aus CRV-Stahl, fein verzahnt </li><li>gute Schnittqualität</li></ul>"
+}

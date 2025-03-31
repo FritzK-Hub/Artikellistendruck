@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Geschenkpapier mit verschiedenen Motiven auf Kern</li><li>tolle hochwertige Farben</li><li><span class=\"a-list-item\">eignet sich auch perfekt zum Basteln</span></li><li>hochwertiges Material</li><li>einseitig bedruckt</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Geschirr Reiniger Tabs 7in1</li><li>entfernt kraftvoll und schonend hartnäckige und eingetrocknete Speisereste</li><li>perfektes Reinigungsergebnis</li><li>multifunktionelle Geschirr-Reiniger-Tabs</li><li>7 Eigenschaften: Reinigung, Klarspüler, Salzfunktion, Glasschutz, Edelstahlglanz, Silberschutz und Geruchsneutralisator</li></ul>"
+}

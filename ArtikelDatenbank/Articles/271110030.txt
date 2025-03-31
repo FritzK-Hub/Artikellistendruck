@@ -1,0 +1,4 @@
+{
+    "uvp": 25.99,
+    "attributes": "<ul><li>praktischer Flachmeißel mit SDS max Aufnahme</li><li>für Meißel- und Abbruchabeiten</li><li>für Mauerwerk, Beton und losem Gestein</li><li>aus einem Stück Stahl geschmiedet</li><li>hochwertige Markenqualität von GERMANIA®<br/></li></ul>"
+}

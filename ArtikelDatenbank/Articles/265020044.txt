@@ -1,0 +1,4 @@
+{
+    "uvp": 9.29,
+    "attributes": "<ul><li>Kistenband französische Art 160 x 35 mm</li><li>aus robustem A2 Edelstahl gefertigt</li><li>zur Befestigung von Kistendeckel an Kisten</li><li>für sämtliche Kistengrößen geeignet</li><li>8 Borhlöcher für zusätzliche Stabilität<br/></li></ul>"
+}

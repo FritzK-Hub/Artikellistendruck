@@ -1,0 +1,4 @@
+{
+    "uvp": 8.79,
+    "attributes": "<ul><li>hochwertiges Spezialflussmittel zum Weichlöten im Dachdeckerbereich</li><li>einfache Anwendung und effektive Verbindung von verzinkten Stahlblechen, - Dachrinnen und Fallrohren <br/></li><li>sorgt für gleichmäßigen Fluss des Lötzinns und eine hohe Festigkeit der Verbindung</li><li>perfekt geeignet für den Einsatz in Verbindung mit Stangenlötzinn</li><li>erfüllt höchste Qualitätsstandards im Dachdeckerbereich</li></ul><p></p>"
+}

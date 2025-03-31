@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Universal-Wasserhahnanschluss mit Innengewinde</li><li>für Wasserhähne mit 1/2\", 3/4\" und 1\" Gewinde</li><li>mit ergonomischer Form</li><li>ermöglicht ein schnelles und bequemes Anbringen</li><li>zum Verbinden von einem Gartenschlauch mit einem Wasserhahn</li></ul>"
+}

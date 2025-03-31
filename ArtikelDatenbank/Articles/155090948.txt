@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Einzelrahmen aus Kunststoff</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>für Unterputz-Steckdosen und -Schalter aus der Serie EverLuxe</li><li>für waagrechte oder senkrechte Montage</li><li>einfache Montage<br/></li></ul><p></p>"
+}

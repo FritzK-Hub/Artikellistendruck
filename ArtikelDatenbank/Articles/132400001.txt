@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>GERMANIA® Plattform Akku-Multitool 20 V zum Schleifen, Schaben oder Trennen</li><li>mitSchnellwechselsystems schnelles Wechseln der Werkzeuge möglich</li><li>integriertes Staubabsaugungssystem mit dazugehörigem Staubfangbeutel</li><li>zusätzlicher Griff für einfachere und sichere Arbeit</li><li>verschiedene Aufsätze sind mit inklusive</li></ul>"
+}

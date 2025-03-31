@@ -1,0 +1,4 @@
+{
+    "uvp": 6.29,
+    "attributes": "<ul><li>praktischer Schnellverbinder für Schläuche</li><li>optimiert den Wasserfluss deiner Gartengeräte</li><li>durch leuchtendes orange leicht zu erkennen</li><li>robustes Material für dichte Verbindungen</li><li>kompatibel mit ¾\" Schläuchen</li></ul>"
+}

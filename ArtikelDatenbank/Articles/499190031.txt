@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Sicherungsmutter M14 mit Außensechskant-Gewinde</li><li>besonders langlebig und korrosionsbeständig, aus rostfreiem Edelstahl</li><li>zur sicheren Verbindung von unterschiedlichsten Werkstoffen<br/></li><li>Klemmring verhindert ein ungewolltes Lösen durch z.B. Vibrationen</li><li>vielseitig im Maschinenbau oder Elektronik- und Automobilbereich einsetzbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 57.56,
+    "attributes": "<ul><li>pilzförmige Reparaturkörper für die Reifenreparatur</li><li>Set bestehend aus 24 Stopfen</li><li>geeignet für Radial- und Diagonalreifen</li><li>Verarbeitung nur in Verbindung mit Vulkanisiermasse</li><li>US-Amerikanisches Originalprodukt<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 149.99,
+    "attributes": "<ul><li>hochwertiger Edelstahl, extrem langlebig</li><li>sichere, kontrollierte Flammenausbreitung<br/></li><li>umweltfreundlich, reduziert CO2-Emissionen</li><li>vielseitig auch als Tisch nutzbar</li><li>komfortable, elektronische Piezozündung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>hervorragende Stabilität</li><li>anpassbares Bodenniveau</li><li>langlebige Konstruktion</li><li>elegantes Design</li><li>hohe Tragfähigkeit<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>organisch-mineralischer Universaldünger in Gärtnerqualität</li><li>ausgewogene Nährstoffzusammensetzung</li><li>wirkt ideal auf Wachstum, gute Blüten-, Frucht- und Geschmacksbildung</li><li>sorgt für bodenverbessernde Humusbildung</li><li>Inhalt ist ausreichend für ca. 50 m²</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.59,
+    "attributes": "<ul><li>Scheinwerferlampe H4 </li><li>Ausführung Halogen</li><li>entspricht E4</li><li>mit P43t Sockel</li><li>Ersatzlampe für Hauptscheinwerfer</li></ul>"
+}

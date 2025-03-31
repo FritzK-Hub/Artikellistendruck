@@ -1,0 +1,4 @@
+{
+    "uvp": 8.29,
+    "attributes": "<ul><li>eine Klemmringverschraubung für Mehrschicht-Verbundrohr-Systeme (MVR)</li><li>hochwertige robuste Vernickelung schützt vor Korrosion und Verschleiß</li><li>extrem einfache, saubere und schnelle Montage ohne Spezialwerkzeug</li><li>für Trinkwasser- und Heizungs-Installation bis 95°C möglich</li><li>wieder lösbare Verbindungen</li></ul><p></p>"
+}

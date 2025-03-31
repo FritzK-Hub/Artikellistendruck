@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Dreiloch Hakenplatte</li><li>Dreiecksform</li><li>galvanisch verzinkt</li><li>ideal zur Ladungssicherung</li><li>anwendbar bis 5mm</li></ul>"
+}

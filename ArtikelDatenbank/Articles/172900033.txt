@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li>80 Watt Leistung für zuverlässige Stromversorgung unterwegs</li><li>ETFE-laminierte Platte für maximale Lichtdurchlässigkeit und hohe Langlebigkeit</li><li>klappbares Design mit Magnetverschluss für einfachen Transport und platzsparende Aufbewahrung</li><li>LCD-Display zur Überwachung von Spannung und Ladestrom</li><li>bis zu 23 % Effizienz für schnelles und effektives Aufladen</li></ul><p></p>"
+}

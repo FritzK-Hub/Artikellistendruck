@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Portion Saatgut für ca. 7 - 9 laufende Meter inklusive Stecketikett</li><li>altbekannte Züchtung mit wohlschmeckenden Hülsen</li><li>fadenlose Hülsen</li><li>frühe Sorte mit hohen Erträgen</li><li>eine Delikatesse als Bohnengemüse mit verschiedenen Fleischsorten<br/></li></ul>"
+}

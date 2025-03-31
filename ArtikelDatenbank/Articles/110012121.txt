@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Handbrause Honey von eisl mit 1 Funktion</li><li>aus schlagfestem, verchromtem ABS-Kunststoff</li><li>mit Antikalksystem für eine leichtere Reinigung</li><li>passendes Zubehör für die Dusche</li><li>mit einem 1/2“ Brauseanschluss versehen<br/></li></ul>"
+}

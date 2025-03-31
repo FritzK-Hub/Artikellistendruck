@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>faltbare Picknickdecke </li><li>aus weicher, pflegeleichter Perlbaumwolle und Flanell</li><li>für einen angenehmen Liegekomfort</li><li>Ideal zum Picknicken, Campen oder einfach für Unterwegs</li><li>Aluminiumbeschichtung an der Unterseite, welche vor Kälte, Feuchtigkeit und Schmutz schützt<br/></li></ul>"
+}

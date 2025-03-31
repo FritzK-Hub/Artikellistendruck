@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>hochwertiger Ellenbogenschutz von Wundmed</li><li>ideal zur Verhütung von Verletzungen</li><li>lindert Schmerzen</li><li>klinisch getestet und mehrmals verwendbar</li><li>für Männer und Frauen<br/></li></ul>"
+}

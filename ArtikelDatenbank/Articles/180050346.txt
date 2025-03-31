@@ -1,0 +1,4 @@
+{
+    "uvp": 307.95,
+    "attributes": "<ul><li>3-Sitzer Gartenbank</li><li>aus Metall / Streckmetall</li><li>eisengrau beschichtet</li><li>mit Rückenlehne<br/></li><li>Armlehnen aus Aluguss</li></ul>"
+}

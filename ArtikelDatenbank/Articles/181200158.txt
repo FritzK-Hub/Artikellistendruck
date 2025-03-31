@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Salbei „Extrakta“ reicht für ca. 70 Pflanzen</li><li>aromatisches Würzkraut für verschiedenen Gerichte</li><li>ist entzündungshemmend, schmerz- als auch krampfhemmend</li><li>ideal für die Teezubereitung oder als hautreinigendes Bad</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

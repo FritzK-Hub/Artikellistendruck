@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>sanfter Farbwechsel für stimmungsvolle Beleuchtung</li><li>besonderes Design – Luftblasen im Leuchtkörper als Hingucker</li><li>Solarbetrieb – lädt sich per Sonnenenergie auf</li><li>hochwertige Materialien – Edelstahl &amp; Kunststoff</li><li>vielseitig einsetzbar – ideal für Beete, Wege &amp; Töpfe<br/></li></ul>"
+}

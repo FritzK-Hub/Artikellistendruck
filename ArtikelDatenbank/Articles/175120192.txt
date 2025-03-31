@@ -1,0 +1,4 @@
+{
+    "uvp": 6.19,
+    "attributes": "<ul><li>präzise Stromführung für saubere Schweißergebnisse</li><li>robuste Materialien für hohe Widerstandsfähigkeit</li><li>vielseitig einsetzbar in Industrie und Hobby</li><li>einfache Montage und optimale Passform</li><li>sorgt für zuverlässige Schweißnähte<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>Grubber mit 22 bodenschonenden Zinken aus Kunststoff<br/></li><li>zum leichten Zusammenfegen von Laub, Grasschnitt oder Vertikutiergut</li><li>der Aufsatz ist mit allen Stielen aus dem Gardena-Combisystem kompatibel</li><li>lässt sich einfach in den gewünschten Stiel einstecken und verschrauben</li><li>Arbeitsbreite von 43 cm für eine effektive und schnelle Gartenarbeit<ul></ul></li></ul><p><br/></p>"
+}

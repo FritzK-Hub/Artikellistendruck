@@ -1,0 +1,4 @@
+{
+    "uvp": 7.79,
+    "attributes": "<ul><li>12,5 Liter Blumenerde mit 50 % weniger Gewicht</li><li>umweltfreundlich da torffrei</li><li>extra lockere Erde für eine prächtige und lange Blüte</li><li>idealer Wasser- und Nährstoffspeicher</li><li>mit SERAMIS® Pflanz-Granulat</li></ul>"
+}

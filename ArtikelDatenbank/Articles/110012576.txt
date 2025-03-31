@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>mit passenden Kunststoff-Brauseschlauch</li><li>5 verschiedenen Strahlarten</li><li>robuste Haltbarkeit</li><li>einfache Reinigung</li><li>mit praktischen Einstellring</li></ul>"
+}

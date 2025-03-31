@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>sofort gebrauchsfertig und einsatzbereit, muss nicht mehr verdünnt werden</li><li>auf natürlicher Basis hergestellt und daher umweltfreundlich</li><li>eignet sich für die transparente und geruchslose Restaurierung von Holzoberflächen</li><li>bietet optimalen Schutz, ist besonders kratzbeständig, schmutz- und wasserabweisend </li><li>auch als Innenanstriche von Schränken und Schubladen vielseitig einsetzbar</li></ul>"
+}

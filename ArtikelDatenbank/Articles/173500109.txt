@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Kristallschliff für elegante Lichtmuster</li><li>kabellos dank Solarpaneel</li><li>hochwertiger Marterialmix aus Echtglas und Metall</li><li>einfache Handhabung mit Ein-/Ausschalter</li><li>perfekt für gemütliche Abende</li></ul>"
+}

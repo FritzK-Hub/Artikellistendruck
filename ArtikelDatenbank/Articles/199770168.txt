@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>zur zuverlässigen Fixierung von Möbelrückwände </li><li>besonders langlebig, aus weißem Kunststoff </li><li>für Schränken, Kommoden oder Schubladenböden einsetzbar</li><li>garantieren eine starke, feste Verbindung</li><li>mitgelieferte Spanplattenschrauben erleichtern die Montage<br/></li></ul>"
+}

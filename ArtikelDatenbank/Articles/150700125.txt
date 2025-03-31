@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>kuschelweiche Flanell-Wohndecke 150 x 200 cm in Sand</li><li>aus 100 % Polyester gefertigt</li><li>ideal für Wohnzimmer, Schlafzimmer oder Garten</li><li>auch ein stilvolles Accessoire für deine Couch</li><li>wärmendes und pflegeleichtes Produkt<br/></li></ul>"
+}

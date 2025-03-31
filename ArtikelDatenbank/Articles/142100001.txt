@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>der Grillanzünder ist absolut geruchsneutral<br/></li><li>mit Kindersicherheitsverschluss ausgestattet</li><li>ideal für Holzkohle und Holz geeignet</li><li>sehr sparsam im Verbrauch</li><li>schnelles und effizientes Entfachen des Feuers</li></ul>"
+}

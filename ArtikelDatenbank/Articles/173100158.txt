@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>3er Set LED Lampe in Tropfenform</li><li>warmweißes, angenehmes Licht</li><li>lange Lebensdauer</li><li>LED Birne mit guter Farbwiedergabe</li><li>Lampenwechsel durch einfaches Austauschen</li></ul>"
+}

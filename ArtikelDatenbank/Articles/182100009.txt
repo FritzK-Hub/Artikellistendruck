@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Fahrradreifen 26 x 1,75 Zoll aus Nylon</li><li>für 26\" Citybikes</li><li>einfacher und schneller Wechsel</li><li>passend für Felgen 17-27 mm</li><li>auch für 40 bis 54-559</li></ul>"
+}

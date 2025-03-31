@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>Party-Set mit Helium-Flasche</li><li>der Party-Spaß für Hochzeit, Geburtstag oder Firmenfeier</li><li>einfache Anwendung</li><li>2,2 Liter Helium für Ballons</li><li>inkl. 30 Luftballons, Ballonschnur und Entnahmeventil</li></ul>"
+}

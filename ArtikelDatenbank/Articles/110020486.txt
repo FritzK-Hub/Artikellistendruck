@@ -1,0 +1,4 @@
+{
+    "uvp": 11.49,
+    "attributes": "<ul><li>Leimring mit insektizidfreiem Leim</li><li>effektiv  gegen Raupen, Ameisen und andere Schädlinge an Obst- und Ziergehölzen</li><li>witterungsbeständiger Spezialleim</li><li>klebt auch bei niedrigen Temperaturen</li><li>der Nebenfang von nützlichen Insekten wird wirkungsvoll verhindert</li></ul>"
+}

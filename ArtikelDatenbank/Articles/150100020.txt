@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Auffahrrampe aus robustem Stahl in blau</li><li>für jegliche Art von Arbeiten am und unter dem Fahrzeug</li><li>Ölwechsel oder ein Austausch der Front- oder Heckschürzen sind kein Problem mehr</li><li>verfügt über eine Traglast von ca. 1 t und kann 195 mm breite Reifen aufnehmen</li><li>eignen sich zum Befahren von Vorder- wie Hinterreifen, nur paarweise verwenden<br/></li></ul>"
+}

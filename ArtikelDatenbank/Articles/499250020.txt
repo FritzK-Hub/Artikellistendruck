@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Hutmutter mit M5 Gewinde nach DIN 1587</li><li>besonders langlebig und korrosionsbeständig, aus rostfreiem Edelstahl</li><li>schützt Schraubenenden effektiv vor Rost und Verschmutzung</li><li>rundlicher Hut für zusätzliche Sicherheit, verhindert Verletzungsgefahr am Schraubenende</li><li>vielseitig als Befestigung bei Radachsen oder als Gegenmutter bei Seilen einsetzbar<br/></li></ul>"
+}

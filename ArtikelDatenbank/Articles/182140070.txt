@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Fahrradglocke in silber</li><li>für mehr Sicherheit im Straßenverkehr</li><li>traditionelle Lenkerklingel</li><li>komplett mit Befestigungsmaterial</li><li>Glocke mit verchromtem Oberteil</li></ul>"
+}

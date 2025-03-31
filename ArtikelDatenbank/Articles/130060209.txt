@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Fingerverband von Wundmed</li><li>Spezialpflaster für Hautverletzungen am Finger</li><li>elastisch, hohe Dehnbarkeit</li><li>leicht und schmerzfrei wieder abziehen</li><li>Pflaster sind einzeln verpackt<br/></li></ul>"
+}

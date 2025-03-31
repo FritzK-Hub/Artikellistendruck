@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>    Ersatzlampe für Standlicht </li><li>auch für Kennzeichenbeleuchtung geeignet</li><li>mit Glassockel    </li><li>passend für Fahrzeuge mit T10-Sockel    </li><li>preiswerte Alternative zu Lampen in Erstausrüsterqualität</li></ul>"
+}

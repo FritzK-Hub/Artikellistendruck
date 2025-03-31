@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Größe: (Ø) ca. 100 mm</li><li>Breite: (B) ca. 2 cm</li><li>Material Draht: Stahl, mit Messing beschichtet</li><li>Aufnahme: (Ø) ca. 14 mm</li><li>Drähte: gewellt</li></ul>"
+}

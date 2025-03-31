@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>starke Feder</li><li>besonders benutzerfreundlich</li><li>mit Einhandbedienung</li><li>hohe Schnittleistung</li><li>robuste Bauweise</li></ul>"
+}

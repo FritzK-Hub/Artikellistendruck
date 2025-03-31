@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>effektiver Schutz</li><li>vielseitige Anwendung</li><li>einfache Handhabung</li><li>professionelle Ergebnisse</li><li>leistungsstark und zuverlässig</li></ul>"
+}

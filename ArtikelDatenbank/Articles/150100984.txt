@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li><div><strong>Radkappen </strong>Set Daytona 16''</div></li><li><div>silberne Optik mit Chrom Caps</div></li><li><div>3-fach verstellbarem Ring</div></li><li><div>bruchsicher, schlagfest</div></li><li><div>2 mal lackiert</div></li></ul>"
+}

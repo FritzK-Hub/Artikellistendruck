@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Stecknuss Adapter Set aus Chrom-Vanadium Stahl</li><li>alle Adapter mit Sicherungskugel</li><li>geeignet für Akkuschrauber oder Bohrmaschine</li><li>hochwertige GERMANIA® Qualität</li><li>passend für alle Schnellwechselfutter sowie Standard-Bohrfutter</li></ul>"
+}

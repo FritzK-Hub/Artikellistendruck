@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>stilvolles Design</li><li>hochwertiges Material</li><li>optimal für Waschtische</li><li>bequeme Bedienung</li><li>vielseitige Anpassung<br/></li></ul>"
+}

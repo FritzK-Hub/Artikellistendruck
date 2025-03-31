@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>abschließbarer Fenstergriff</li><li>mit Druckknopf</li><li>verriegelt gekippte und geschlossene Fenster</li><li>einfaches kinder- und einbruchsicheres Abschließen</li><li>Fenstergriff inklusive Befestigungsmaterial</li></ul>"
+}

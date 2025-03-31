@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Pappbecher aus Hartpapier - hitzebeständig</li><li>auslaufsichere Beschichtung für sauberes Trinken</li><li>bequemer Henkel bietet sicheren Halt</li><li>platzsparendes Stapeln ermöglicht einfache Aufbewahrung</li><li>recyclingfähig für nachhaltigen Genuss</li></ul>"
+}

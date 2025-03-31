@@ -1,0 +1,4 @@
+{
+    "uvp": 27.9,
+    "attributes": "<ul><li>geeignet für den Innen-sowie Außenbereich</li><li>perfekte Beleuchtung für den Garten, in Partyzelten oder Pavillons</li><li>IP44- spritzwassergeschützt</li><li>1,8 m Zuleitung zum Außentrafo</li><li>strahlt maximal 5 m weit und ist schwenkbar</li></ul>"
+}

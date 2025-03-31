@@ -1,0 +1,4 @@
+{
+    "uvp": 17.49,
+    "attributes": "<ul><li>Stahlblech Tafel</li><li>aus Stahl</li><li>verzinkt</li><li>Plattenstärke 0,5 mm</li><li>Glattblech 100 x 60 cm</li></ul>"
+}

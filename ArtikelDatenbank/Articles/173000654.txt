@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>robust und widerstandsfähig für alle Bedingungen</li><li>leistungsstarkes Licht auf großen Entfernungen</li><li>flexibel und unabhängig dank Akku</li><li>anpassbare Helligkeit bietet Felxibilität</li><li>Powerbank-Funktion als Notfall-Energiequelle</li></ul>"
+}

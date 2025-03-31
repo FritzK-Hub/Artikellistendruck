@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>aus strapazierfähigem Gummi</li><li>ideal für Waschbecken</li><li>in konischer Form</li><li>eine saubere und moderne Optik</li><li>zuverlässiger Schutz<br/></li></ul>"
+}

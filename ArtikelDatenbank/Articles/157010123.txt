@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Seidenlatex für den Innenbereich</li><li>strapazierfähige Latexfarbe gut deckend</li><li>seidenglänzend</li><li>kann mit Vollton- und Abtönfarben eingefärbt werden</li><li>lösemittel- und weichmacherfrei</li></ul>"
+}

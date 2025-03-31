@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>gebrauchsfertig</li><li>schrumpfarm</li><li>schleif- und überstreichbar</li><li>mit Dosierspritze</li><li>weiß</li></ul>"
+}

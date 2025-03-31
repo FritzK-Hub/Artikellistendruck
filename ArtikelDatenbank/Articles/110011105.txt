@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Duschstange aus Metall mit Aluminiumlegierung</li><li>mit Endstücken aus Kunststoff zum einfachen Einspannen</li><li>stufenlos ausziehbar für von 70 cm bis maximal 120 cm</li><li>hält ohne Schrauben oder Befestigungsmaterial</li><li>einfacher Aufbau und Befestigung durch einfaches Drehen der Stange<br/></li></ul>"
+}

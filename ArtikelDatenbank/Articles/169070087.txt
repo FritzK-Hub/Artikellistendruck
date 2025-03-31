@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Einsteckschloss für Zimmertüren</li><li>mit Buntbartschlüssel und Schloss</li><li>für links-hängende Türen</li><li>DIN 72 mm Zimmertür</li></ul>"
+}

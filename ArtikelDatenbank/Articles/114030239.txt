@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>handliche Coffee to go Becher aus Hartpapier</li><li>Set aus 50 Becher, 200 cl, gut isolierend</li><li>auffälliges Design, praktisch, trendig und zeitgemäß</li><li>Aufdruck Vorderseite \"Sonderpreis Baumarkt\"</li><li>Aufdruck Rückseite \"Der Kaffee für Macher\" versehen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>zum Austausch alter Tauchrohre ohne Geräteanschluss</li><li>passt zu 40mm Kunststoff-Siphons, vielseitig kompatibel</li><li>schnelle Installation für effiziente Abwasserentsorgung</li><li>robustes weißes Kunststoffmaterial, lange Haltbarkeit</li><li>3/4\" Geräteanschlüsse, 1 1/2\" Verschraubung</li></ul>"
+}

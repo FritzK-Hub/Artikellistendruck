@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>T-Stück aus Messing</li><li>mit 3 Innengewinden 1\"</li><li>für effektive, sichere und stabile Rohrverbindungen</li></ul>"
+}

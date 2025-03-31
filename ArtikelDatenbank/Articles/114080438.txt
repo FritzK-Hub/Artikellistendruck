@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Wachs Teelichter Set 30 Stück</li><li>in der Farbe weiß</li><li>Durchmesser ca. 39 mm</li><li>Brenndauer von ca. 3 - 4 Stunden</li><li>ideal als Tisch- oder Partybeleuchtung<br/></li></ul>"
+}

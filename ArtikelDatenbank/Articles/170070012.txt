@@ -1,0 +1,4 @@
+{
+    "uvp": 142.95,
+    "attributes": "<ul><li>Gewindeschneider-Set 44-teilig von BGS</li><li>Teile sind aus HSS G Stahl gefertigt</li><li>Umfassendes Set mit verschiedensten Größen</li><li>inklusive Gewindelehre, Schraubendreher </li><li>platzsparende Aufbewahrung dank Metall-Displaykassette<br/></li></ul>"
+}

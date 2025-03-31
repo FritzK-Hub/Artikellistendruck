@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>aus strapazierfähigem PVC</li><li>Platz für bis zu vier Personen</li><li>Getränkehalter für jeden Sitz</li><li>integrierte Kühlbox </li><li>der absolute Hit am See oder Pool</li></ul>"
+}

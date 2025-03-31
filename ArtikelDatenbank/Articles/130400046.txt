@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>Standventilator mit Schwenkfunktion<br/></li><li>3 Geschwindigkeitsstufen</li><li>höhenverstellbar<br/></li><li>mit Sicherheits-Nachtlicht</li><li>TÜV GS zertifiziert</li></ul>"
+}

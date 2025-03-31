@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Markerbsen Kelvedon für ca. 12 lfd. Meter</li><li>niedrigerer Wuchs mit großem Grünkern</li><li>eine ertragreiche und frühreifende Sorte</li><li>eignet sich gut zum Einfrieren</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

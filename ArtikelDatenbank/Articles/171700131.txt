@@ -1,0 +1,4 @@
+{
+    "uvp": 3.59,
+    "attributes": "<ul><li>universell einsetzbarer Hobby-Gips</li><li>zum Fixieren von Elektroinstallationen</li><li>zum Gießen, Formen und Modellieren</li><li>schnelle Abbindzeit und schnelltrocknend</li><li>klumpfreies Anrühren und leicht dosierbar</li></ul>"
+}

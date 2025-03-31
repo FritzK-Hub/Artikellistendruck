@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>Kindersicherungen in weiß</li><li>10 Stück im Set</li><li>schneller und einfacher Einbau</li><li>lässt sich mit Stecker vom Endgerät leicht entfernen</li><li>geeignet für gängige Schutzkontakt Steckdosen</li></ul>"
+}

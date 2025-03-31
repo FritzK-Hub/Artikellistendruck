@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut StiefmütterchenSchweizer Riesen Mischung</li><li>bunter Farbenmix, mit großflächiger Farbwirkung</li><li>blüht im Frühjahr etwas später</li><li>Probefeldgetestete Qualität</li><li>eignet sich gut für Grabbepflanzungen und Einfassungen<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>360° Basisstation</li><li>automatische Abschaltung</li><li>Wasserstandsanzeige und Trockenlaufschutz</li><li>verdecktes Heizelement</li><li>beleuchteter Ein/Aus Schalter<br/></li></ul>"
+}

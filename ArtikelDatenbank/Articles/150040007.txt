@@ -1,0 +1,4 @@
+{
+    "uvp": 29.04,
+    "attributes": "<ul><li>Dellen und Hagelschäden Reparaturset</li><li>ohne Beschädigung der Autolacke</li><li>kostengünstige und fachgerechte Reparatur</li><li>Smart Repair ohne Spachteln und Lackieren</li><li>einfach zu bedienen<br/></li></ul>"
+}

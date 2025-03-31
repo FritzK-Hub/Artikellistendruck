@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Doppel-Würfel-Design setzt moderne Akzente</li><li>Holzstruktur-Effekt erzeugt natürliche Note</li><li>wetterfest zum ganzjährigen Einsatz</li><li>vielseitig für drinnen und draußen geeignet</li><li>langlebig durch hochwertigen Kunststoff</li></ul>"
+}

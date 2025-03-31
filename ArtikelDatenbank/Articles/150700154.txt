@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>schützt den Eingangsbereich vor Regen, Schnee oder Hagel</li><li>besonders langlebig und witterungsbeständig, aus Polycarbonat </li><li>transparentes Material für gute Lichtdurchlässigkeit, Hauseingang bleibt hell</li><li>einfache Montage durch mitgelieferte Bolzen für Backsteinwände</li><li>lässt sich bei Bedarf mit anderen Sets vielseitig erweitern<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Erste-Hilfe-Set von Wundmed</li><li>in stabiler Metall Pflasterbox</li><li>luftdurchlässig, verkleben nicht mit der Wunde</li><li>Wundpflaster in Hautfarbe</li><li>einzeln verpackt, in 5 verschiedenen Größen</li></ul>"
+}

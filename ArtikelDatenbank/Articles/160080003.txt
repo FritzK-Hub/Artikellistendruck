@@ -1,0 +1,4 @@
+{
+    "uvp": 3.1,
+    "attributes": "<ul><li>Drahtstifte aus Eisen blank</li><li>in der praktischen Sichtbox</li><li>aus Eisen blank</li><li>Inhalt 150g</li><li>Abmessung: ca. 1,4 x 25 mm</li></ul>"
+}

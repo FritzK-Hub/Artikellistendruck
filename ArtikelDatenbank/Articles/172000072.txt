@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    für UAE-Anschlussdose Art.-Nummer 43772,/nmit Befestigungsschraube\"\"/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n                "
+}

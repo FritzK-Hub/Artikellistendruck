@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Halbgarage für Pkws in der Größe L</li><li>aus sehr strapazierfähigem Polyester gefertigt</li><li>optimaler Schutz gegen Eis, Schnee, Schmutz oder Sonnenstrahlen</li><li>einfache und schnelle Befestigung dank Gummizüge</li><li>bei Nichtgebrauch platzsparend im Aufbewahrungsbeutel verstaubar<br/></li></ul>"
+}

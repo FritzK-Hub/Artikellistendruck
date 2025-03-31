@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Gießkanne aus grünem Kunststoff</li><li>mit abnehmbarer Brause</li><li>10 Liter Fassungsvermögen</li><li>sorgt für noch üppigerer Blütenprach</li><li>ideal für Haus und Garten</li></ul>"
+}

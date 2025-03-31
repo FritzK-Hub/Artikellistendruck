@@ -1,0 +1,4 @@
+{
+    "uvp": 7.1,
+    "attributes": "<ul><li>Innensechskantschlüssel im Handklapphalter</li><li>aus gehärtetem Stahl</li><li>sieben verschiedene Schlüsselgrößen</li><li>klein und handlich</li><li>platzsparend und kostengünstig</li></ul>"
+}

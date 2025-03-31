@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>leichter und kompakter Campingtisch mit Stahlrohrgestell</li><li>bei Nichtgebrauch platzsparend zusammenklappen</li><li>dank seiner kleinen Abmessungen überall verstaubar</li><li>mit Tragegriff für den einfachen Transport</li><li>ideal für Camping, Ausflüge oder im Garten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 52.95,
+    "attributes": "<ul><li>für die Veredelung von Innenräumen</li><li>robuste, deckende Beschichtung</li><li>beständig gegen Verschmutzung</li><li>atmungsaktiv und wasserabweisend</li><li>Umweltfreundlich und lösemittelfrei<br/></li></ul>"
+}

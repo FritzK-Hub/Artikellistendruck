@@ -1,0 +1,4 @@
+{
+    "uvp": 269.0,
+    "attributes": "<ul><li>Tischbohrmaschine mit Keilriemenantrieb</li><li>Drehzahleinstellung durch Stufen-Riemenscheibe</li><li>Bohrtisch höhenverstellbar, +/- 45° neigbar und 360° schwenkbar</li><li>Standfuß mit Langlöchern für Schraubstockbefestigung</li><li>kugelgelagerte Bohrspindel - Spindelaufnahme MK2 und Bohrfutterkegel B16</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Buntstifte Dreikant</li><li>12 Stück im Set</li><li>Farbstifte in einer Faltschachtel</li><li>holzfrei und lackiert</li><li>Schaft in Strichfarbe<br/></li></ul>"
+}

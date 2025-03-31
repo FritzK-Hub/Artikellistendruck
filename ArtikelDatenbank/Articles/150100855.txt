@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>sportliche Optik für dein KFZ</li><li>Gewindeadapter für viele KFZ-Antennenfüße</li><li>dezentes und elegantes Schwarz</li><li>hochwertiges Aluminium</li><li>starke Empfangsqualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Fahrrad-Kettenreiniger in der Spraydose</li><li>verbessert die Leichtlaufeigenschaften,erhöht den Verschleißschut</li><li>entfernt hartnäckige Verschmutzungen und verunreinigtes Kettenfett</li><li>schnelle Abtrocknung</li><li>schnell wirkender und entfettenter Spezialreiniger</li></ul>"
+}

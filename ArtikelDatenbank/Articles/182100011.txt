@@ -1,0 +1,4 @@
+{
+    "uvp": 24.49,
+    "attributes": "<ul><li>Fahrradreifen 28 x 1 5/8 x 1 3/8 Zoll</li><li>für 28\" Trekkingbikes</li><li>mit Pannenstopp für mehr Sicherheit</li><li>passend für Felgen 17-23 mm</li><li>auch für 32 bis 42-622 / 700 x 32C bis 40C</li></ul>"
+}

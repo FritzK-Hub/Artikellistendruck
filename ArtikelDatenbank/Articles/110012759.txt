@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>hochwertiges Messing</li><li>speziell für Wasserhähne</li><li>ohne Griff mit einem 1/2\"-Anschluss</li><li>zuverlässige Leistung</li><li>einfache Installation<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>praktischer Zinkeimer mit Holzgriff</li><li>aus verzinktem, robustem Stahlblech</li><li>zum Transportieren von Asche oder Wasser</li><li>auch als Nostalgie-Deko-Eimer geeignet</li><li>Tragegriff ist fest am Eimer vernietet</li></ul>"
+}

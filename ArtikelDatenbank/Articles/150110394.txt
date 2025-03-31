@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Reinigungstücher in der Spenderbox</li><li>extra feste Tücher für alle Scheiben</li><li>streifenfreie Reinigung</li><li>in der praktischen Spenderbox mit Flip-Top-Deckel</li><li>jedes Tuch bleibt feucht und frisch bis zur Entnahme</li></ul>"
+}

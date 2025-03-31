@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>robuste Konstruktion</li><li>kompakte Bauweise</li><li>präzise Kraftübertragung</li><li>ergonomischer Griff</li><li>für vielseitige Anwendungen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>spitzt ovale und eckige Zimmermannsbleistift</li><li>spezielle Führungstechnik zum Anspitzen<br/></li><li>scharfe Klinge zum leichten und schnellen Anspitzen<br/></li><li>integrierte Schleiffläche für den Feinschliff</li><li>nie wieder Nachschärfen mit dem Messer<br/></li></ul>"
+}

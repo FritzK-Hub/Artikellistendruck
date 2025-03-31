@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>geeignet für Hobby- und Einsteigerspiele</li><li>leichte Schläger mit gutem Handling</li><li>kindgerechter Ball für entspannten Spielspaß</li><li>bequemer Transport dank Schulterriemen-Tasche</li><li>ideal für Garten, Park, Camping &amp; Strand</li></ul>"
+}

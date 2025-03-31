@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>LED Nachtlicht batteriebetrieben mit LED-Licht</li><li>kann auch auf Dauerbeleuchtung eingestellt werden</li><li>mit Dämmerungs- und Bewegungssensor versehen</li><li>einfache Montage dank Klebfläche auch Rückseite</li><li>dafür benötigten 3 x AAA Batterien sind inklusive</li></ul>"
+}

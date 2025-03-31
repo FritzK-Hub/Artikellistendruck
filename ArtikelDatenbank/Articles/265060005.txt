@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>mit Ösen zum Einschrauben </li><li>einfache aber wirkungsvolle Sicherung von Fenstern, Türen und Toren</li><li>ideal auch für fixierte Teilöffnungen von Holzfenstern geeignet<br/></li><li>robust aus verzinktem Stahl</li><li>korrosionsbeständig</li></ul>"
+}

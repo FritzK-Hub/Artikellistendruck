@@ -1,0 +1,4 @@
+{
+    "uvp": 13.69,
+    "attributes": "<ul><li>Bastlerlot für allgemeine Lötarbeiten</li><li>flussmittelgefüllt für normale Lötungen</li><li>nicht im Elektronikbereich geeignet</li><li>bleifrei</li><li>zum Weichlöten, Punktlöten geeignet<br/></li></ul>"
+}

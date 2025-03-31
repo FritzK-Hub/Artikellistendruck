@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>leichtgängiges Gleiten ohne verhakende Röllchen</li><li>universelle Passform für verschiedene Schienen</li><li>schnelles, einfaches Einhängen dank Klemmverschluss</li><li>robuster Kunststoff für Langlebigkeit</li><li>elegantes Weiß für dezente Gardinenpräsentation</li></ul><p></p>"
+}

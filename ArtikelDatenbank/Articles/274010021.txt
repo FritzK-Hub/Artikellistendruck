@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Profi Schraubzwinge mit Holzgriff<br/></li><li>geriffelte, verzinkte Profilschiene</li><li>Kunststoff-Schutzbacken</li><li>Spannbereich bis 300 mm<br/></li><li>mit beweglicher Druckplatte</li></ul>"
+}

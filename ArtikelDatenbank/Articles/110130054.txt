@@ -1,0 +1,4 @@
+{
+    "uvp": 7.0,
+    "attributes": "<ul><li>hochwertiger Zinkdruckguss für lange Lebensdauer</li><li>modernes Design mit nickelmatter Oberfläche</li><li>passend für die meisten Schränke und Schubladen</li><li>einfache Montage dank mitgeliefertem Befestigungsmaterial</li><li>enthält vier Griffe für schnelle Aktualisierung<br/></li></ul>"
+}

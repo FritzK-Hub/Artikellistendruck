@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>vielseitig für die verschiedensten Laubsägearbeiten aller Art geeignet</li><li>vier Platten aus robustem Birkenholz, besonders langlebig und stabil<br/></li><li>in der einheitlichen Größe DIN A4 erhältlich</li><li>sind besonders leicht und einfach zu handhaben, für präzise Ergebnisse</li><li>ideale Wahl für alle Hobbyhandwerker mit deren dessen DIY-Projekte<br/></li></ul>"
+}

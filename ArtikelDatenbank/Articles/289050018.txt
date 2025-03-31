@@ -1,0 +1,4 @@
+{
+    "uvp": 7.29,
+    "attributes": "<ul><li>Rauputz Tafel</li><li>aus blankem Aluminium</li><li>unbehandelt</li><li>Plattenstärke 0,8 mm</li><li>Alublech 50 x 25 cm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Acryl-Klarlackfarblos seidenmatt auf Wasserbasis</li><li>der Blaue Engel Siegel</li><li>leicht zu verarbeiten und schnell trocknend</li><li>vergilbungsfrei und blockfest</li><li>nach DIN EN 71.3 für Kinderspielzeug geeignet</li></ul>"
+}

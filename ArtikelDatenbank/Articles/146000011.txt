@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Flash Kaminblock Green Energy ohne Bindemittel</li><li>aus 100 % nachwachsenden Rohstoffen hergestellt</li><li>einfaches Entzünden an den Ecken des Papiers</li><li>gleichmäßiges abrennen von bis zu 2,5 Stunden</li><li>besonders umweltschonend da wenig Emissionen entstehen<br/></li></ul>"
+}

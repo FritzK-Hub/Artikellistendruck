@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Nagelbürsten-Set aus Kunststoff mit Polyesterborsten</li><li>ideal für die Reinigung nach jeglicher Arbeit</li><li>verhindert den Schmutz unter den Fingernägeln</li><li>1 Bürste mit Griffbügel für einen sicheren Halt</li><li>1 doppelseitige Bürste mit Öse für mehr Sauberkeit<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 69.9,
+    "attributes": "<ul><li>stabile Basis für dein Gewächshaus</li><li>passend für Vitavia Modelle Styx und Ida </li><li>robustes Material bietet lange Haltbarkeit</li><li>einfache und schnelle Montage</li><li>witterungsbeständig für alle Jahreszeiten</li></ul>"
+}

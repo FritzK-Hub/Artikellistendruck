@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Deckenbürste mit gestanzten Synthetikborsten</li><li>zum Auftragen von Tapetenkleister<br/></li><li>auch für andere dünnflüssige Materialien wie Grundierung<br/></li><li>Holzgriff und Borsten aus Synthetikfaser</li><li>sehr stabil, ermöglicht ein effektives Arbeiten<br/></li></ul>"
+}

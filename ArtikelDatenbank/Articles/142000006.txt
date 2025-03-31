@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>zur Verwendung in allen Tenderflame-Produkten</li><li>ungiftig - flammhemmend</li><li>kein unkontrolliertes Abrennen im Tenderflame möglich</li><li>brennt nur in Kombination mit Edelstahldocht</li><li>geruchlos und erzeugt keinen Rauch<br/></li></ul><p><br/></p>"
+}

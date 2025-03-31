@@ -1,0 +1,4 @@
+{
+    "uvp": 6.19,
+    "attributes": "<ul><li>Kraft-Magnethalter mit 8 Magnetflächen<br/></li><li>sichere Zugkraft bis zu 11 kg</li><li>praktisches Hilfsmittel bei Schweißarbeiten</li><li>zuverlässige Fixierung von Stahl oder Werkstücken</li><li>vielseitige Nutzung in verschiedenen Winkeln<br/></li></ul>"
+}

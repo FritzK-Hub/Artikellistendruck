@@ -1,0 +1,4 @@
+{
+    "uvp": 249.0,
+    "attributes": "<ul><li>kraftvolle 750 Watt Leistung</li><li>2-Gang-Getriebe für flexible Anwendungen</li><li>präzise Bohrungen mit 2,8 Joule</li><li>schnell durch 3.000 U/min Leerlaufdrehzahl</li><li>Sicherheit mittels integrierter Schlagstopp-Funktion</li></ul>"
+}

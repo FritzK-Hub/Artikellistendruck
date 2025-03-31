@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Gartenschere mit pflanzenschonendem Bypass-Schneidprinzip</li><li>zum Schneiden von bis zu 18 mm dicken Ästen, Zweigen und Blumen</li><li>besitzt zwei Griffpositionen für Kraft - und Schnellschnitte</li><li>durch den Einhand-Sicherheitsverschluss leichter verschließen</li><li>antihaftbeschichteten Klingen für einfache und präzise Schnitte</li></ul>"
+}

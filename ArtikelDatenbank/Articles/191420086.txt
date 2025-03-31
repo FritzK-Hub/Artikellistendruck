@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>sorgt für eine kühle Erfrischung an heißen Sommertagen</li><li>ist einfach zu transportieren und kann überall eingesetzt werden</li><li>vielseitig im Büro, Zuhause oder unterwegs einsetzbar</li><li>kann auch als Wasserpistole eingesetzt werden</li><li>aus stabilem Kunststoff in verschiedenen Farben gefertigt<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>hochwertiger, robuster Kunststoff für lange Haltbarkeit</li><li>DIN-Schienen für einfache Montage von bis zu 3x12 Modulen</li><li>weiße Kunsstofftür für einfachen Zugang und neutrales Design<br/></li><li>PE- und N-Anschlussleisten für zuverlässigen Anschluss</li><li>platzsparendes Design für flexible Installationen</li></ul>"
+}

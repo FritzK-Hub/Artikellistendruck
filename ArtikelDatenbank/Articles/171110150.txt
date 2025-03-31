@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>für beanspruchte Holzoberflächen</li><li>hochwertig und umweltfreundlich</li><li>hohe Abriebfestigkeit</li><li>minimiert Spannungen</li><li>vielseitige Anwendung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>doppelseitiges Klebeband stark klebend</li><li>ideal für Teppiche mit glattem Rücken</li><li>mit Kunstharzkleber</li><li>zur dauerhaften Fixierung und permanenten Verklebung</li><li>haftet auf vielen Oberflächen</li></ul>"
+}

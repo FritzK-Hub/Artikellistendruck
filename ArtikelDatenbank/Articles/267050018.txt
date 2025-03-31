@@ -1,0 +1,4 @@
+{
+    "uvp": 4.19,
+    "attributes": "<ul><li>Durchmesser: ca. 1,3mm</li><li>Länge: ca. 80m</li><li>Belastbarkeit bis ca. 5kg</li><li>Farbe: beige</li><li>auf Rolle</li></ul>"
+}

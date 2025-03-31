@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>eine schonende und gründliche Lösung zur Handreinigung</li><li>entfernt sandfrei, effektiv Fett oder hartnäckigen Verschmutzungen</li><li>spendet Feuchtigkeit, ist besonders schonend und pflegend</li><li>für empfindliche Haut geeignet, ist dermatologisch getestet</li><li>reinigt ohne unangenehmes Reiben oder Kratzen der Hände<br/></li></ul>"
+}

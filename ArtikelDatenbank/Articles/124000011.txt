@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>effiziente Gartenbewässerung dank der stufenlosen Regulierung des Wasserdrucks</li><li>maximale Flexibilität mithilfe des 180° drehbaren Kopfes</li><li>passt perfekt zu allen herkömmlichen 1/2\" Schnellkupplungen</li><li>ergonomisches Design sorgt für komfortable Handhabung</li><li>mit SAFETOUCH™ System für einen sicheren Griff</li></ul>"
+}

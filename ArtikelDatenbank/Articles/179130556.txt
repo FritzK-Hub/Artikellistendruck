@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>Metallfassung mit Lüftungsschlitzen</li><li>mit Schlauchgummipolster und verstellbarem Band</li><li>geprüft nach EN 166/169</li><li>Glas ø 50 mm nach EN Stufe 5</li><li>Gläser austauschbar<br/></li></ul>"
+}

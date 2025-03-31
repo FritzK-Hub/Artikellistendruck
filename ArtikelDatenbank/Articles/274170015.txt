@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Cuttermesser sehr stabile Ausführung aus Zinklegierung</li><li>mit Metallführung</li><li>Feststellklemme im Schieber für Klingenarretierung</li><li>inklusive Abbrechklinge</li><li>das richtige Werkzeug für Renovierungsarbeiten</li></ul>"
+}

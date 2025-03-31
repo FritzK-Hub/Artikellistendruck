@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>Rauchmelder mit erweiterter Q-Qualitätsprüfung</li><li>fotoelektrisch sorgt für frühzeitige Erkennung von langsamen Schwellbränden</li><li>Brandschutzprodukt nach VDS 3131 (EN 14604:2005)</li><li>mit Langzeitbatterie - 10 Jahre Batterielaufzeit, Warnsignal bei schwacher Batterie</li><li>extralauter Warnton 85 dB, Alarm-Stummschaltefunktion, Testknopf für regelmäßige Funktionsprüfung</li></ul>"
+}

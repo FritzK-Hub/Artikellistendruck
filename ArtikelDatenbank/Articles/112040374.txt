@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>HDMI Kunststoffadapter in Schwarz</li><li>360° frei abwinkelbar</li><li>HDMI A Buchse und HDMI Stecker</li><li>vergoldete Kontakte</li><li>zum Anschluss von z. B. an der Wand befestigten LCD- / Plasma-TV-Geräten<br/></li></ul>"
+}

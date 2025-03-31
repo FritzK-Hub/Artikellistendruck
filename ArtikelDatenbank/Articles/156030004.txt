@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Eckenpinsel mit gebogenem Pinselkopf</li><li>bestens geeignet für schwer zugängliche Stellen</li><li>Basis-Qualität für einfache Streicharbeiten</li><li>langer, stabiler Holzgriff</li><li>geeignet für alle Farben und Lacke</li></ul>"
+}

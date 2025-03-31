@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li> Ablaufverbinder/Dichtung für Siphon</li><li>aus weichem Gummimaterial</li><li>geeignet für die Verbindung von Abwasserrohren </li></ul>"
+}

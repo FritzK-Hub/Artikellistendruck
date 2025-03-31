@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Sortimentskasten mit 5 Fächer</li><li>Transportbox mit fester Unterteilungen</li><li>praktischer Tragegriff im Klappdeckel</li><li>Transportbox mit Klickverschluss</li><li>ideal für Hobby und Beruf zum Aufbewahren von Kleinteilen<br/></li></ul>"
+}

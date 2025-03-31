@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Cyclamen Alpenveilchen verschiedenfarbig</li><li>sind pflegeleichte Herbstblüher im Topf</li><li>zur Erschaffung von Pflanzenteppichen</li><li>für Grabbepflanzungen und Rabatten</li><li>besonders starkleuchtende gemischte Blüten<br/></li></ul>"
+}

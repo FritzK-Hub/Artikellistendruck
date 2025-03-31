@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Fliesenfugenkreuze 4 mm in weiß</li><li>aus stabilem Kunststoff gefertigt</li><li>Packung beinhaltet 250 Stück</li><li>zuverlässiger Helfer bei Fliesenarbeiten</li><li>für gleichbleibenden Abstand beim Fliesenliegen<br/></li></ul>"
+}

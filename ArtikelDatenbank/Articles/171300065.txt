@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>vielseitige Anwendung</li><li>Schutz gegen Schimmel</li><li>gute Haftung ohne Grundierung</li><li>lösemittelfrei und geruchsarm</li><li>dauerhaft elastisch und witterungsbeständig<br/></li></ul>"
+}

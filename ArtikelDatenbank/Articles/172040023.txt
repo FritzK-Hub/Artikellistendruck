@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>bietet eine zuverlässige Trennung des Stromkreises</li><li>speziell für Schaltschränke und Verteiler konzipiert</li><li>ideal für mittelgroße bis größere elektrische Anlagen</li><li>ermöglicht ein Abschalten und Wiederherstellen der Stromzufuhr</li><li>kompakte Bauform für die Montage auf Hutschienen in Verteilern<br/></li></ul>"
+}

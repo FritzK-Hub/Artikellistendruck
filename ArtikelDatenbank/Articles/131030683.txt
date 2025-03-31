@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>hochwirksam gegen Kalk-, Wasser-, Rostflecken, Seifenresten und ölige Flecken</li><li>komplett säurefreie Reinigung</li><li>schnell und wirkungsvoll</li><li>beugt neue Ablagerungen vor</li><li>gebrauchsfertig in der Pumpsprühflasche<br/></li></ul>"
+}

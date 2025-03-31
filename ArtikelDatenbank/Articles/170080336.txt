@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>Schleifpapier-Set für die gängigsten Deltaschleifer mit 140 x 90 mm Aufnahme</li><li>11-Loch-Absaugung sorgt für eine saubere Arbeitsumgebung</li><li>garantiert ein ausgezeichnetes Schleifbild mit gleichmäßiger Oberfläche</li><li>effektives Schleifen dank hohem Materialabtrag und hoher Schleifleistung</li><li>einfaches und schnelles Wechseln der Schleifblätter dank Klettverschluss<br/></li></ul>"
+}

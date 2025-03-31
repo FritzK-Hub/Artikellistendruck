@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>sportliche Optik für dein KFZ</li><li>dezentes und elegantes Schwarz</li><li>variable Länge mit Adapter</li><li>hochwertiges Aluminium</li><li>starke Empfangsqualität<br/></li></ul>"
+}

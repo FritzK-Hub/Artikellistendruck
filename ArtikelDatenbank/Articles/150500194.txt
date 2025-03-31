@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>perfekt für sicheres Fahrvergnügen und strahlend saubere Helme und Visiere</li><li>schonende Formel entfernt Schmutz, Insektenreste und Fingerabdrücke</li><li>hochwirksame Reinigung für klare Sicht und langanhaltenden Glanz</li><li>einfache Anwendung für schnelle und unkomplizierte Reinigung</li><li>praktische Reisegröße für unterwegs und immer klare Sicht</li></ul>"
+}

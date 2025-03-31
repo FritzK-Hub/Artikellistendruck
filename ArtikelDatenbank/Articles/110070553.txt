@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Ofenkesseldrahtbürste mit Stiel</li><li>Borsten aus Stahldraht</li></ul>"
+}

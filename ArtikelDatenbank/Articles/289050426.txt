@@ -1,0 +1,4 @@
+{
+    "uvp": 6.03,
+    "attributes": "<ul><li>Rundrohr aus kaltgewalztem Stahl</li><li>mit handelsüblicher Metallsäge oder Trennschleifer abzulängen</li><li>Durchmesser (a) 20 mm</li><li>Materialstärke (b) 1,25 mm</li><li>eisengraues Rundrohr <br/></li></ul>"
+}

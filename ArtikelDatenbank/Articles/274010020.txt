@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Bastel-Schraubzwinge mit großem Spannbereich &amp; Holzgriff<br/></li><li>geriffelte, verzinkte Profilschiene</li><li>Kunststoff-Schutzbacken</li><li>Sapnnbereich bis 300 mm<br/></li><li>mit beweglicher Druckplatte</li></ul>"
+}

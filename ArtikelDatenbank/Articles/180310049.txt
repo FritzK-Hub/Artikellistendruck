@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>silikonfreie Reifenpflege verleiht ein neuwertiges Aussehen</li><li>schützt, reinigt und pflegt mit langanhaltendem Glanz</li><li>vielseitig für Auto-, Motorrad- oder Fahrradreifen geeignet</li><li>regelmäßige Pflege beugt vorzeitige Alterung und Versprödung</li><li>schnelle und einfache Anwendung für eine simple Reifenpflege<br/></li></ul>"
+}

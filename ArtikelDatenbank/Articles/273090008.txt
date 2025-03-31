@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>universal Drehgriff für Rohrsteckschlüsseln</li><li>stabile Ausführung</li><li>passend für alle GERMANIA® Rohrsteckschlüsseln</li><li>Ausführung verchromt</li></ul>"
+}

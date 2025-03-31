@@ -1,0 +1,4 @@
+{
+    "uvp": 21.99,
+    "attributes": "<ul><li>Schrägsitzventil ohne Entleerung</li><li>zur sicheren Absperrung von Rohren</li><li>beidseitig Lötfittings für Kupferrohre</li><li>platzsparendes Design für enge Platzverhältnisse</li><li>abnehmbares Fitting zur mührelosen Montage</li></ul>"
+}

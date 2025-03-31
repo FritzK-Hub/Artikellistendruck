@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Vorhang-Zahlenschloss für Taschen, Koffer, Türen</li><li>mit Zahlenkombination</li><li>schützt Ihr Reisegepäck vor Diebstahl</li><li>individuell einstellbarer Zahlencode</li><li>einfach anzuwenden</li></ul>"
+}

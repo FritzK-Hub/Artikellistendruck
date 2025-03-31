@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Protect Home Mausefallen-Set 2 Stück </li><li>eine klassische Schlagfalle</li><li>einfache Handhabung, leicht zu reinigen und wiederverwendbar<br/></li><li>schnelles und effektives Fangen von Mäusen</li><li>ohne Gebrauch von Rattengift einsetzbar<br/></li></ul>"
+}

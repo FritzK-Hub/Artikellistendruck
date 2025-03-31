@@ -1,0 +1,4 @@
+{
+    "uvp": 2.8,
+    "attributes": "<ul><li>optimaler Schutz vor Kratzern und Beschädigungen</li><li>einfache und schnelle Anbringung dank selbstklebender Eigenschaften</li><li>hochwertiges Filzmaterial für leise und sanfte Bewegungen der Möbel</li><li>für eine Vielzahl von glatten Böden geeignet</li><li>umfangreiches Set mit verschiedenen Größen<br/></li></ul>"
+}

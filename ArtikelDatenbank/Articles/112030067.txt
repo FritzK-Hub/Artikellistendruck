@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>kleiner mini USB 2.0-Verteiler 4-Port</li><li>sehr kompakte Bauform</li><li>bis 480 Mbps Datentransfer abwärtskompatibel mit USB 1.1</li><li>inkl. 0.4 m USB Anschlusskabel</li><li>mit Netzteil-Anschluss (ohne Netzteil)<br/></li></ul>"
+}

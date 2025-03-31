@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>effektive Reinigung und Schutzfunktion</li><li>optimiert Motorleistung und Zündwilligkeit</li><li>kompatibel mit allen gängigen Dieselkraftstoffen</li><li>unkomplizierte Anwendung zu jedem Zeitpunkt</li><li>nachhaltige Verringerung von Kraftstoffverbrauch und Emissionen</li></ul>"
+}

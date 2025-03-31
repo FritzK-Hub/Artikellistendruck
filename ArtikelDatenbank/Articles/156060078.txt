@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Innenecken-Kelle aus Edelstahl</li><li>mit lackiertem Holzgriff</li><li>zum Auftragen und Glätten von z.B. Putz auf Innenecken</li><li>leicht und griffig</li><li>sorgt für glatte Oberflächen</li></ul>"
+}

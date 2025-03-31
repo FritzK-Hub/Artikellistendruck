@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>mattes Behagliches Grün für Gartenmöbel und Accessoires</li><li>Vintage-Flair mit halbdeckender, wasserbasierter Farbe</li><li>vielseitige Anwendung auf Holz, Terrakotta, Zink</li><li>einfache, tropfgehemmte Verarbeitung bietet optimalen Komfort</li></ul><p></p>"
+}

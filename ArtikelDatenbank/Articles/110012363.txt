@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Kupferrohr geeignet zum Hart- und Weichlöten</li><li>langlebig: korrosionssicher durch Kupfermaterial</li><li>zuverlässig: hohe Qualität schafft sichere Verbindungen</li><li>vielseitig: für Heizungs-, Gas- und Sanitärinstallationen konzipiert</li><li>robust: 1 mm Materialstärke bietet Stabilität</li></ul>"
+}

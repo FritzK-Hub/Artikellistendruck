@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>10 m Gesamtlänge und 25 Flaggen bieten ausreichend Spielraum zur Gestaltung</li><li>vielseitige Dekoration für den Garten, Keller oder Wohnräume</li><li>verleiht eine besondere Partystimmung und gute Laune bei jeder Veranstaltung </li><li>universell einsetzbar, egal ob für Fußball, Handball oder Schwimmen</li><li>Befestigungsschnur erleichtert das Aufhängen an der Wand <br/></li></ul>"
+}

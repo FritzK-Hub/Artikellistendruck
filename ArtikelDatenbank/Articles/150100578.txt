@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>digitaler Reifendruckprüfer</li><li>für Schraderventile</li><li>mit LCD-Display</li><li>inklusive Lithium Batterie 3V</li><li>Anzeige bar oder PSI möglich</li></ul>"
+}

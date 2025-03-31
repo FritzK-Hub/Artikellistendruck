@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Schrubber 24 cm mit Kunststoffborsten</li><li>praktischer Helfer für gründliche Reinigungen</li><li>zum Entfernen von Schmutz auf glatten oder rauen Oberflächen</li><li>universell einsetzbar im Innen- und Außenbereich</li><li>bei Nichtgebraucht mittels Öse aufhängbar<br/></li></ul>"
+}

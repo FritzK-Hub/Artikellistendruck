@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>praktische Gefriergut-Skala für einfaches Ablesen</li><li>robustes Kunststoffmaterial für lange Lebensdauer</li><li>vielseitiger Messbereich von -35°C bis +45°C</li><li>einfache Handhabung durch Haken zum Aufhängen</li><li>kompakte Größe für praktische und zuverlässige Nutzung<br/></li></ul>"
+}

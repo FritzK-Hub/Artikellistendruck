@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>rundes LED-Blinklicht in rot</li><li>3 Funktionen, Blinklicht schnell und langsam, Dauerlicht </li><li>batteriebetrieben, 100 Stunden Blinken</li><li>inklusive Cliphalterung, Druckschalter und Knopfzelle</li><li><strong>nicht zugelassen im Bereich der StVZO</strong></li></ul>"
+}

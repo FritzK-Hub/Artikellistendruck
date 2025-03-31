@@ -1,0 +1,4 @@
+{
+    "uvp": 61.99,
+    "attributes": "<ul> <li>CFH Druckregler für Schutzgasgeräte DR 516</li> <li>Durchfluss manuell einstellbar</li> <li>mit 2 Manometern</li></ul>"
+}

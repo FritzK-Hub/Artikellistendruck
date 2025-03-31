@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>schnelltrocknend</li><li>mit RAL Farbcode<br/></li><li>in verschiedenen Farben erhältlich</li><li>ideal für Neulackierungen und Reparaturen</li><li>einfache und praktische Anwendung</li></ul>"
+}

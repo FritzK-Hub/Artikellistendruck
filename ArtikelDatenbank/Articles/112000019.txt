@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>bietet eine langanhaltende Lösung für Ihre Zaunmontage dank seiner robusten Konstruktion und feuerverzinkten Oberfläche</li><li>Die Anbringung dieses Halteres ist mühelos und erfordert kein kompliziertes Werkzeug</li><li>sorgt für einen sicheren Halt Ihrer Zaunlatten</li><li>feuerverzinkte Oberfläche schützt vor Rost und Witterungseinflüssen</li><li>eignet sich für verschiedene Zaunarten und -stile</li></ul>"
+}

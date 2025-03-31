@@ -1,0 +1,4 @@
+{
+    "uvp": 32.95,
+    "attributes": "<ul><li>Druckminderer mit Filter und Wasserabscheider</li><li>mit Ablassventil, Manometer und transparentem Auffangglas aus PVC</li></ul>"
+}

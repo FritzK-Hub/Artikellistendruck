@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Quadratspachtel mit Kunststoffgriff und Stahlblatt</li><li>prakisches Hilfsmittel bei Renovierungsarbeiten</li><li>zum Auftragen von z.B. Putz oder Spachtelmasse</li><li>flexibles quadratisches Blatt</li><li>Griff mit Aufhängeloch</li></ul>"
+}

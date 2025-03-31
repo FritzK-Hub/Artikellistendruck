@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Sechskantmutter nach DIN 934</li><li>Belastbarkeitsklasse 8</li><li>galvanisch verzinkt</li><li>Schlüsselweite (s) ca. 8,0 mm</li><li>Eckmaß (e) ca. 8,79 mm</li></ul>"
+}

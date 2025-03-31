@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Set Crimpzange mit 150 Aderendhülsen</li><li>für lötfreies Anpressen von Aderendhülsen auf Kabelenden</li><li>Kabelschuhzange mit Trapezpressung</li><li>Chrom - Vanadium geschmiedet</li><li>mit 150 Stück verzinkten Aderendhülsen</li></ul>"
+}

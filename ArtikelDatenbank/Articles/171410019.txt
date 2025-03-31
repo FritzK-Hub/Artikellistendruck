@@ -1,0 +1,4 @@
+{
+    "uvp": 10.59,
+    "attributes": "<ul><li>ideal zum Abdichten, Reparieren und Isolieren</li><li>für Rohre, Schläuche, Kabel und Versiegelungen</li><li>extrem druck- und wetterresistent</li><li>haftet selbst an öligen und nassen Untergründen </li><li>temperaturbeständig von -60 °C -  +260 °C</li></ul>"
+}

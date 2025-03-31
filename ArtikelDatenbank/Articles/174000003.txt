@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>effektive Abwasserleitung für optimale Sauberkeit</li><li>einfache Installation ohne aufwendiges Zubehör</li><li>hochwertiger Kunststoff für lange Haltbarkeit</li><li>kompatibel mit gängigen Waschtischkonfigurationen</li><li>unauffälliges Design für ästhetische Badezimmergestaltung</li></ul>"
+}

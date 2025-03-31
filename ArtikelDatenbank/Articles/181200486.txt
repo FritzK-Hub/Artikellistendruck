@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Gewürzpaprika Westlandia für ca. 50 Pflanzen</li><li>ist eine der ertragreicheren Paprikasorten</li><li>intensiv roten, langen als auch scharfen Früchten</li><li>bevorzugt einen nicht zu schweren, humosen und nährstoffreichen Boden</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

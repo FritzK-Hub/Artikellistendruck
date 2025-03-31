@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Fugenkratzer aus Edelstahl mit Kunststoff-Schonkappe</li><li>entfernt störendes Unkraut, Moos, Gras und Wildbewuchs</li><li>für Terrassen, Hofeinfahrten, und Gehwege geeignet</li><li>rückenschonende Arbeit dank ca. 140 cm langem Stiel</li><li>vermeidet den Einsatz von schädlichen Chemikalien<br/></li></ul>"
+}

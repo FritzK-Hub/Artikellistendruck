@@ -1,0 +1,4 @@
+{
+    "uvp": 84.95,
+    "attributes": "<ul><li>für Räume bis 20 m² geeignet</li><li>drei Wärmestufen - 750, 1250, 2000 Watt</li><li>Turbofunktion für schnelles Aufheizen</li><li>leistungsstark und intelligent</li><li>smarte WLAN-Steuerung</li></ul>"
+}

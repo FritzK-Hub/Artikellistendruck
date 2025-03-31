@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>große Auswahl an Universal- und Durchsteckspreizdübeln</li><li>hohe Tragfähigkeit und zuverlässige Befestigung</li><li>einfache Aufbewahrung und sicherer Transport dank Kunststoffbox</li><li>für eine Vielzahl von Materialien geeignet</li><li>einfache und schnelle Anwendung<br/><br/></li></ul>"
+}

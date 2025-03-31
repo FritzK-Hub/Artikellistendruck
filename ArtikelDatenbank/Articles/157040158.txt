@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>wasserbasierter Spezial-Weißlack für die hochwertige Lackierung von Heizkörpern und Rohrleitungen an Heizungsanlagen</li><li>gute Temperatur- und Vergilbungsbeständigkeit</li><li>weiß deckend und schnell trocknend</li><li>strapazierfähig, stoß- und schlagfest</li><li>Umweltzeichen Blauer Engel</li></ul>"
+}

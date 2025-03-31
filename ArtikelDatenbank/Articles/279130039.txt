@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>2 Paar Ersatzstopfen</li><li>für Gehörschutzbügel von Oakwood</li><li>für den Gebrauch bei lärmbedingten Tätigkeiten im Beruf oder Freizeit</li><li>Reduzierung der Geräusche um bis zu 25 dB</li><li>einfacher Tausch der Gehörstopfen</li></ul>"
+}

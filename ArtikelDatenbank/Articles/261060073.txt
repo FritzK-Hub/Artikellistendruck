@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>robuste Konstruktion für zuverlässiges Schrauben</li><li>Innenvielzahnantrieb zur optimalen Schraubenführung</li><li>ästhetischer Senkkopf für ansprechende Optik</li><li>hochbelastbare Kunststoff und verzinkte Holzschraube für sichere Verbindung</li><li>vielseitige Anwendungsmöglichkeiten<br/></li></ul>"
+}

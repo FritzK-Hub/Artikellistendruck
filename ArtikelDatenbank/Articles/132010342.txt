@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Katzentoilette aus Kunstststoff</li><li>abnehmbare Haube </li><li>mit Belüftungsrillen <br/></li><li>mit Katzenklappe</li><li>zentral fixierter Tragegriff</li></ul>"
+}

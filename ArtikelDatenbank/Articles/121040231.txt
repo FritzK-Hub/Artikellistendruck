@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>feine Künstler-Ölfarbe von The Wall</li><li>kann dünn oder pastös aufgetragen werden</li><li>Farbton im nassen und trockenen Zustand identisch</li><li>für verschiedene Techniken und Untergründe</li><li>besonders vielseitig <br/></li></ul>"
+}

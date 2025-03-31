@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Pressklemme für Drahtseile</li><li>aus Aluminium</li><li>geeignet für Drahtseile bis 4mm</li><li>klemmt zuverlässig und sicher Drahtseile bis 4mm</li></ul>"
+}

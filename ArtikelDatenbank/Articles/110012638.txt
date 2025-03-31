@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li><div>Rohrschere für Kunststoff- und Mehrschicht-Verbundrohre</div></li><li><div>mit Ratschenfunktion für kraftsparendes Arbeiten</div></li><li><div>geeignet für Rohre mit einem Außendurchmesser von bis zu 42 mm</div></li><li><div>schneidet z. B. PVC- und HDPE-Rohre</div></li><li>Körper aus Alu-Druckguss, Schneide aus Stahl</li></ul>"
+}

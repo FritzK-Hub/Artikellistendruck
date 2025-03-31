@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>effektive Rattenbekämpfung</li><li>langlebige Verarbeitung</li><li>sicher für Haustiere und Kinder</li><li>einfache Anwendung</li><li>Langzeitüberwachung<br/></li></ul>"
+}

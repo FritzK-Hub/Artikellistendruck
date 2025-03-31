@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>ultraleicht und mühelos zu transportieren</li><li>stabile Aluminiumbeine für dauerhafte Zuverlässigkeit</li><li>robuste, pflegeleichte MDF-Oberfläche</li><li>kompakt zusammenklappbar für platzsparende Lagerung</li><li>individuell einstellbare Höhe ermöglicht vielseitige Anwendungen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Schrumpfschlauch ist ohne Kleber und bietet eine saubere, bequeme Anwendung</li><li>vielseitig in der Elektrotechnik und Modellbau einsetzbar</li><li>ideal zur Isolation von Elektroleitungen, sorgt für eine sichere Verwendung</li><li>eignet sich besonders als Korrosionsschutz für Kabelverbindungen</li><li>bietet Schutz gegen Feuchtigkeit und Schmutz, für eine längere Lebensdauer<br/></li></ul>"
+}

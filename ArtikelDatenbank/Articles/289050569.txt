@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>Stahlblech Tafel</li><li>aus rohem Stahl unbehandelt</li><li>Länge: ca. 100 cm</li><li>Breite: ca. 12 cm</li><li>Plattenstärke: ca. 0,75 mm</li></ul>"
+}

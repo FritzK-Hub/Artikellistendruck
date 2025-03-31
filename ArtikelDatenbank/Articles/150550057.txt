@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>pflegeleichte, abwaschbare Wachstuch Tischdecke</li><li>schonend für die Tischplatte dank PE-Vlies-Beschichtung auf der Rückseite</li><li>Länge wählbar - bis zu ganzen Rollen (25 m)</li><li>Grammatur: ca. 310 g/m²</li><li>vielseitig einsetzbar</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>Sortimentskasten NOR16 in schwarz</li><li>eignet sich zur Aufbewahrung von Schrauben, Knöpfen usw.</li><li>9 rote Einsteckwände zur flexiblen Einteilung</li><li>alles auf einem Blick dank transparentem Deckel</li><li>integrierter Tragegriff für einfachen Transport</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>praktische Burgerpresse 11,7 x 9 cm aus Aluminium</li><li>erleichtert dir die Herstellung von perfekten Fleischpatties</li><li>einfach die Presse mit Fleisch befülle und auf die gewünschte Dicke pressen</li><li>Antihaftbeschichtung verhindert, dass das Fleisch anhaftet</li><li>einfach in der Handhabung und leicht zu reinigen<br/></li></ul>"
+}

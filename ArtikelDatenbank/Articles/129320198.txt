@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>hohe und frühe Erträge</li><li>vielseitige Verwendung</li><li>natürliche Bodenverbesserung</li><li>robuste Standortanpassung</li><li>einfache Pflege<br/></li></ul>"
+}

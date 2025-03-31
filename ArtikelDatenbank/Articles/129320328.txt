@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>Basilikum „Genoveser“ ist ein bekanntes Würzkraut</li><li>besonders großblättrig mit süß-pfeffrigen Aroma</li><li>zum Würzen von Salaten, Fischgerichten oder Gemüsesuppen</li><li>als Teeaufguss wirkt Basilikum nervenstärkend</li><li>essbare Blüten dienen als dekorative Garnierung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.25,
+    "attributes": "<ul><li>Fallrohranschluss an KG-Rohre DN 110</li><li>Gummimanschette mit seitlichen Dichtungslippen</li><li>für Fallrohranschlüsse an die Grundleitung</li><li>Anschluss an KG-Muffe oder KG-Spitzende</li><li>kann mittels Cuttermesser zugeschnitten werden</li></ul>"
+}

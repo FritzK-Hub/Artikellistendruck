@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Klappsplinte ermöglichen eine schnelle Demontage ohne Werkzeug</li><li>bieten eine sichere, aber dennoch flexible Verbindung,</li><li>können mehrfach verwendet werden, was Kosten und Abfall reduziert</li><li>zuverlässige und sichere Befestigung von Teilen</li><li>universell einsetzbar, einfach zu montieren</li></ul>"
+}

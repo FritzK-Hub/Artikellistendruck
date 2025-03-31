@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Standluftpumpe mit Manometer</li><li>passend für alle gängigen Ventilarten</li><li>inklusive Ventiladapter</li><li>gewebeummantelter Schlauch</li><li>sicherer Stand und kräftiger Hub</li></ul>"
+}

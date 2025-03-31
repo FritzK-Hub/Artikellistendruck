@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Kombizange mit optimierter Hebelübersetzung für kraftvolle Präzision</li><li>induktiv gehärtete Schneide bietet Langlebigkeit</li><li>vielseitige Greifzone erlaubt diverse Materialien</li><li>inklusive Nagel- und Drahthalter für Effizienz</li><li>ergonomischer Griff und Abgleitschutz gewährt Sicherheit</li></ul><p></p>"
+}

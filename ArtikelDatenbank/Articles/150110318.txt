@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Kupferpaste vereinfacht die Demontage</li><li>hochdruckstabiles Trennmittel</li><li>ideal zur Vorbehandlung stark korrosiver und hitzebelasteter Teile</li><li>verhindert das Festrosten</li><li>ist hitze-, salz-, wasser-, laugen- und säurebeständig</li></ul>"
+}

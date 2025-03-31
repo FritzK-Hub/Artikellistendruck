@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Lederpflege-Spray wirkt farbauffrischend</li><li>reinigt schonend, hält Glattleder geschmeidig</li><li>Lederpflege reinigt sanft durch spezielle, milde Seifenanteile</li><li>pflegt mit natürlichen Ölen und Wachsen</li><li>schützt vor vorzeitigem Altern, Verspröden und Ausbleichen</li></ul>"
+}

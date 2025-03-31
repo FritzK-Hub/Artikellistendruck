@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Hauptfuttermittel für Wellensittiche<ul></ul></li><li>Mischung bestehend aus Saaten und Getreide</li><li>sorgt für notwendige Energie</li><li>ohne künstliche Geschmackstoffe und Konservierungsmittel</li><li>in einem handlichen 500 g Beutel</li></ul>"
+}

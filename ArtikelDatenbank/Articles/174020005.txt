@@ -1,0 +1,4 @@
+{
+    "uvp": 32.95,
+    "attributes": "<ul><li>Präzisions-Minizangensatz 5-teilig</li><li>aus gehärtetem Stahl angefertigt</li><li>sind mit isolierten Griffen ausgestattet</li><li>bei Nichtgebrauch platzsparend in der Tragetasche aufbewahrbar</li><li>verfügt über eine lange Lebensdauer im täglichen Werkstatteinsatz</li></ul>"
+}

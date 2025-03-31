@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Sonderpreis Scheibenwischer-Reparaturset</li><li>für die Reparatur von Scheibenwischer jeglicher Art</li><li>das handliche Set darf in keinem Auto fehlen</li><li>die Wischblätter werden einfach und schnell angeschliffen</li><li>fünf Vliestücher für die schnelle Reinigung sind mit inklusive</li></ul>"
+}

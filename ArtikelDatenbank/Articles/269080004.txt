@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>verstellbar </li><li>4 Bohrlöcher mit Senkung<br/></li><li>für Befestigungen mit Lochband</li><li>Montage durch Anschrauben</li><li>witterungsbeständig durch verzinkten Stahl<br/></li></ul>"
+}

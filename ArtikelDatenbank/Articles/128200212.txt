@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Dekofigur Mönch sitzend 30 cm in weiß</li><li>aus robustem Polyresin hergestellt</li><li>kann je nach Bedarf individuell bemalt werden</li><li>zur dekorativen Gestaltung im Garten oder Wohnräumen</li><li>die Optik strahlt eine gewisse Ruhe und Gelassenheit aus<br/></li></ul>"
+}

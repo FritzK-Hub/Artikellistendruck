@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>hochwertige Stumpenkerze Rustic 7 x 7,5 cm </li><li>aus Echtwachs in rot gefertigt</li><li>schafft eine wohlfühlende Atmosphäre</li><li>ideal für Tisch- oder Weihnachtsdekorationen</li><li>auch für die Bestückung von Weihnachtskränzen geeignet<br/></li></ul>"
+}

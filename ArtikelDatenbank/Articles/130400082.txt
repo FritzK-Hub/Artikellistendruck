@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>elektrischer Heizstrahler High Cell mit bis 1,2 kW</li><li>vielseitig im Innen- oder Außenbereich einsetzbar</li><li>zwei Heizstufen sorgen für individuelle Wärmeoptionen</li><li>robustes Metall-Gehäuse mit Gitter für zusätzliche Stabilität</li><li>einfache Montage an der Decke oder Wand möglich<br/></li></ul>"
+}

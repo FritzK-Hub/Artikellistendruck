@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<p>- schneidet Eisenmetalle bis zu 6mm Durchmesser</p>"
+}

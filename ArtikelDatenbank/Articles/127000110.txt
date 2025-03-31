@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>kleiner Spaten aus Stahl mit Hammerschlag-Finish</li><li>zum Umgraben, Auflockern, Ausheben von Erde</li><li>besitzt einen 48 cm langen Stiel aus massivem Holz</li><li>15 cm breites Schaufelblatt erleichtert die Arbeit mit eigenem Körpergewicht</li><li>lässt sich platzsparend aufbewahren und überall mitnehmen<br/></li></ul>"
+}

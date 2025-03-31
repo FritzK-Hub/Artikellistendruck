@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Runder Beistelltisch</li><li>zusammenklappbar</li><li>Eukalyptusholz</li><li>geölte Oberfläche</li><li>kleiner Gartentisch</li></ul>"
+}

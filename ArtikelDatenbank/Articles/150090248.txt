@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>sichere Steckverbindung zwischen Zugfahrzeug und Anhänger</li><li>12 Volt, die ideale Wahl für eine Vielzahl von Anhängern</li><li>robust und langlebig, aus Metall gefertigt</li><li>sorgt für eine optimale Stromversorgung des Anhängers<br/></li><li>hohe Qualität, entspricht der DIN ISO 1724 Norm</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>für eine prächtige Blütenpracht</li><li>kontinuierliche Nährstoffversorgung</li><li>3-monatige Langzeitwirkung</li><li>mit natürlichen Guano</li><li>einfache Anwendung<br/><br/></li></ul>"
+}

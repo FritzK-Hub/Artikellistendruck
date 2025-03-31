@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>geschirmter CAT-6a-Stecker mit Knickschutzhülle</li><li>zur Selbstmontage von CAT-6a-Netzwerkkabeln</li><li>Ethernet-Datenübertragung von bis zu 10 Gbit/s</li><li>geschirmter Stecker zur Reduzierung von Störeinflüssen</li><li>Anfertigung von Kabeln in beliebiger Länge<br/></li></ul>"
+}

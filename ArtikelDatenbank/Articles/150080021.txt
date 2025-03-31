@@ -1,0 +1,4 @@
+{
+    "uvp": 13.55,
+    "attributes": "<ul><li>robuste Materialien</li><li>magnetische Befestigung</li><li>hohe Passgenauigkeit</li><li>Schutz vor Beschädigungen</li><li>vielseitig einsetzbar</li></ul>"
+}

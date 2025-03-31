@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>leichter schwimmen lernen</li><li>leuchtende Farbe </li><li>aus dickem Vinyl </li><li>Kinder gewinnen Vertrauen im Wasser</li><li>bestehend aus zwei Luftkammern </li></ul>"
+}

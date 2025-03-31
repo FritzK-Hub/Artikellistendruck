@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>schnelltrocknendes Lackspray </li><li>schöner satinierter, schwarzer Farbton</li><li>bietet eine hervorragende Haftung an Metalloberflächen</li><li>aktive Rostschutzpigmente sorgen für Korrosionsschutz</li><li>einfache und praktische Anwendung</li></ul>"
+}

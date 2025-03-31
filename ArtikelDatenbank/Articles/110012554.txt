@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Rohrclip einfach, mit integrieter Gewindehülse</li><li>für die schnelle und problemlose Rohrmontage</li><li>hervorragende mechanische Eigenschaften</li><li>Geeignet für Kunststoff- und Metallrohre</li><li>wärmeformbeständig</li></ul>"
+}

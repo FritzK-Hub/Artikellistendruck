@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>aufblasbares Kajak aus stabilem PVC</li><li>eignet sich für Seen und seichte Flüsse</li><li>für bis zu zwei Personen mit einem Gesamtgewicht von 160 kg</li><li>breite Bauart sorgt für zusätzliche Stabilität auf dem Wasser</li><li>inklusive Reparaturflicken, zwei Paddel, Tragetasche und Blasebalg mit Adapter</li></ul>"
+}

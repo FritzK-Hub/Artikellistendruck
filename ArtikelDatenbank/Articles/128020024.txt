@@ -1,0 +1,4 @@
+{
+    "uvp": 34.9,
+    "attributes": "<ul><li>handliches Erdsieb-Set aus robustem Metall gefertigt</li><li>Set bestehend aus drei Sieben mit verschiedenen Maschenweiten</li><li>nützlicher Helfer bei deiner Gartenarbeit</li><li>trennt effektiv Steine und Verunreinigungen von der Erde</li><li>schafft eine frische, verfeinerte Erde für deine Jungpflanzen oder Setzlinge<br/></li></ul>"
+}

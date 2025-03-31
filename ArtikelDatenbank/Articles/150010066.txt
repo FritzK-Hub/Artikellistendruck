@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>Toilettenbürstenset 2 Stück aus Edelstahl</li><li>passende Ersatzbürsten für die WC-Garnitur</li><li>ist besonders hygienisch und pflegeleicht</li><li>sorgt für mehr Sauberkaut auf dem WC</li><li>Bürstenkopf ist auswechselbar<br/></li></ul>"
+}

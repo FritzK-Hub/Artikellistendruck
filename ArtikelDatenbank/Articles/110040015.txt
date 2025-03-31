@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>15 Tortenspitzen aus Papier</li><li>weiß mit Muster</li><li>eignen sich perfekt für Teller, flache Schalen</li><li>lebensmittelecht</li><li>im Vintage-Stil</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Wasserpistolen-Set 4 Stück je 9,5 x 6,5 cm</li><li>Set ist in verschiedenen Farben erhältlich</li><li>kleine handliche Wasserkanone</li><li>besitzt einen kleinen Wassertank</li><li>sorgt für riesigen Wasserspaß<br/></li></ul>"
+}

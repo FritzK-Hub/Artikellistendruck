@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Lasurwalze mit sehr saugfähigen &amp; tropfarmen Mikrofaserbezug  </li><li>sehr gute Farbaufnahme und -abgabe, dadurch hohe Reichweite</li><li>geeignet für alle Holzschutzlasuren, speziell für Dünnschichtlasuren </li><li>für glatte und leicht strukturierte Untergründe</li><li>beste Materialabdeckung</li></ul>"
+}

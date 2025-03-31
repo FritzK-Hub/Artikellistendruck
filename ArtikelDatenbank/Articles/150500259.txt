@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>hervorragend für Veranstaltungen, beim Camping und im Wohnmobil</li><li>besonders langlebig und robust, aus stabilem Kunststoff gefertigt</li><li>bietet ausreichend Platz für verschiedene Speisen oder Leckereien</li><li>lassen sich schnell und einfach reinigen, sind auch Spülmaschinen geeignet</li><li>ideal für Unterwegs, können je nach Bedarf wiederverwendet werden<br/></li></ul>"
+}

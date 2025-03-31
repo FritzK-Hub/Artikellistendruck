@@ -1,0 +1,4 @@
+{
+    "uvp": 25.95,
+    "attributes": "<ul><li>präzises Bohren</li><li>superscharfe Schneiden</li><li>schneller Spantransport</li><li>vielseitig einsetzbar</li><li>verschiedene Größen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>zum Aufnähen</li><li>individuell zuschneidbar</li><li>geeignet für Kleidung, Heimtextilien oder zum Dekorieren</li><li>ideal zum Fixieren von leichten Gegenständen<br/></li><li>lässt sich bis zu 10.000 mal öffnen und schließen</li></ul>"
+}

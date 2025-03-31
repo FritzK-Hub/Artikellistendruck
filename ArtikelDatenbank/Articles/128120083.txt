@@ -1,0 +1,4 @@
+{
+    "uvp": 429.95,
+    "attributes": "<ul><li>5-teiliges Bistroset aus Eisen mit stillvollem Mosaikdesign</li><li>4 Klappstühle und 1 runder Tisch mit 60cm Durchmesser</li><li>Pulverbeschichtung für Langlebigkeit und einfache Pflege</li><li>bequeme Sitzfläche mit attraktivem Kreuzmuster-Design</li><li>platzsparendes Design durch Klappstühle<br/></li></ul><p></p>"
+}

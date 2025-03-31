@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Halogenlampen-Set H4, 12 V im Doppelpack</li><li>für eine bessere Sicht im Straßenverkehr</li><li>50% mehr Licht als herkömmliche Halogenlampen</li><li>für den einfachen Austausch oder Ersatz</li><li>ist StVZO zugelassen<br/></li></ul>"
+}

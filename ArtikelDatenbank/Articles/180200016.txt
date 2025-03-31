@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>schnelltrocknendes Lackspray </li><li>glänzender, farbloser Lack</li><li>in verschiedenen Farben erhältlich </li><li>für Kontrast- und Teillackierungen </li><li>einfache und praktische Anwendung<br/></li></ul>"
+}

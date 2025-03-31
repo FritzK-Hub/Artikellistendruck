@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Aufbewahrungsbox aus recyceltem Kunststoff</li><li>modular stapelbar für eine platzsparende Lagerung</li><li>Vertiefungen im Deckel bieten optimalen Halt beim Stapeln</li><li>Deckel mit schwarzem Klipverschluss<br/></li><li>inklusive QR-Code Etikett und App zum Beschriften</li></ul>"
+}

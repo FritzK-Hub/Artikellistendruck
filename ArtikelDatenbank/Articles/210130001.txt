@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Möbel-Transport-Set 5-teilig</li><li>universal einsetzbar</li><li>zum bequem Verschieben von schweren Möbeln</li><li>zum Anheben von Türen</li><li>schwarze Scheibe und Hebeleisen drehbar</li></ul>"
+}

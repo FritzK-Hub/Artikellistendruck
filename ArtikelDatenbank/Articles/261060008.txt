@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Durchmesser: Ø 8mm</li><li>Menge: 120 Stück</li><li>mit Kragen</li><li>Farbe grau</li><li>universal einsetzbar</li></ul>"
+}

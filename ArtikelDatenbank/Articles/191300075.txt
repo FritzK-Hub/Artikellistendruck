@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Fußluftpumpe mit 2 Liter Volumen in Schwarz-Gelb</li><li>ideal zum Aufblasen und Entleeren geeignet</li><li>für Luftmatratzen, Gästebetten oder Schwimmutensilien</li><li>2 Luft-Adapterspitzen mit verschiedenen Durchmessern</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar</li></ul>"
+}

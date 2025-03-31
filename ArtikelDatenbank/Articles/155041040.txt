@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>3 W-LED-Streifen sorgen für ausreichende Beleuchtung</li><li>vielseitig in der Werkstatt, im Garten oder Büro einsetzbar</li><li>für eine klare Sicht, auch bei schwerzugänglichen Stellen</li><li>einfache Handhabung, mit flexiblen Drehkopf und Neigungswinkel</li><li>bei Nichtgebrauch dank Haken platzsparend aufhängbar<br/></li></ul>"
+}

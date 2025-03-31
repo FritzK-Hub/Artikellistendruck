@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>15 Luftballons</li><li>in weiß und blau</li><li>die ideale Dekoration für dein nächstes \"Oktoberfest\"</li><li>lassen sich leicht mit einer Ballonpumpe aufblasen</li><li>hochwertiges Material</li></ul>"
+}

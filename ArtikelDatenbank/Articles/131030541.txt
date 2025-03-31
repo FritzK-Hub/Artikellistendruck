@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Schnell-Entkalker im Portionsbeutel</li><li>für Kaffemaschinen, Wasserkocher, Kaffevollautomaten</li><li>einfach 1 Beutel in 500ml Wasser auflösen</li><li>nur für Geräte mit säurebeständigen Oberflächen geeignet</li><li>4 Beutel á 15 g im Pack<br/></li></ul>"
+}

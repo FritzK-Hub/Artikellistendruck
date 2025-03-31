@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>UV-beständiges Pflanzgefäß 45 cm für innen und außen</li><li>aus hochwertigem Kunststoff gefertigt</li><li>zum direkten Bepflanzen geeignet</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>runder Blumentopf in matter Optik<br/></li></ul>"
+}

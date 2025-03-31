@@ -1,0 +1,4 @@
+{
+    "uvp": 41.2,
+    "attributes": "<ul><li>handliche Seegeringzange in gebogener Form</li><li>große Begeisterung durch hohe Qualitätsansprüche</li><li>Made in Germany nach den DIN-Vorgaben</li><li>zu speziellen Lagesicherungsverbindungen bei Maschinen oder Bauteilen</li><li>auch bekannt als Sicherungsring- oder Nutenringzange<br/></li></ul>"
+}

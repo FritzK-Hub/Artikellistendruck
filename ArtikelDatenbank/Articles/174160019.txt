@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Stanzstück 128 mm für Nibbler Knabberer</li><li>einfach auszutauschen</li><li>ca. 4 mm Durchmesser</li><li>aus robustem Metall<br/></li></ul>"
+}

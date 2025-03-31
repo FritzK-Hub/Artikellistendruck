@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>zum Verbinden von M12-Gewindestangen, auch mit Stockschrauben oder Bolzen kompatibel</li><li>besonders langlebig und korrosionsbeständig, aus rostfreiem Edelstahl</li><li>Außensechskant erleichtert die Handhabung und verhindert ein Abrutschen des Werkzeuges</li><li>durchgehendes, metrisches Gewinde für einfache und schnelle Montage</li><li>bietet vielseitige Einsatzmöglichkeiten im Innen- und Außenbereich<br/></li></ul>"
+}

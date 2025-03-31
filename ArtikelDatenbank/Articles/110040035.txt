@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>10 x Gartenabfallsäcke auf Rolle</li><li>mit extra großer Öffnung</li><li>extra starke Ausführung</li><li>besonders reißfeste Mehrschichtfolie</li><li>verhält sich grundwasserneutral</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Glasfaser-Dichtschnur Ø 10 mm x 2 m</li><li>als Ersatz für defekte Türdichtungen an Öfen und Kaminen</li><li>bis 650°C hitzebeständig</li><li>inklusive 1 Tube Kleber 17 ml<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.39,
+    "attributes": "<ul><li>Alublech-Tafel</li><li>aus rohem Aluminium unbehandelt</li><li>Länge: ca. 50 cm</li><li>Breite: ca. 25 cm</li><li>Plattenstärke: ca. 0,8 mm</li></ul>"
+}

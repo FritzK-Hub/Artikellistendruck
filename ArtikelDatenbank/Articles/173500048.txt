@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>dekorative LED-Lichterkette 300 cm mit 10 warmweißen LEDs</li><li>ideal als Partybeleuchtung oder für Sonnenschirme geeignet</li><li>setze Büschen, Pflanzen oder Lauben dekorativ in Szene</li><li>ist für den Innen- als auch Außenbereich einsetzbar</li><li>verfügt über eine 1 m lange Zuleitung und einen Schalter<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Allzweckbesen</li><li>Arenga und Elaston Borsten</li><li> universal Stielaufnahme</li><li>aus massivem Holz</li><li>universell einsetzbar im Innen- und Aussenbereich</li></ul>"
+}

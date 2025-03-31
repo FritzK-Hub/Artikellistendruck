@@ -1,0 +1,4 @@
+{
+    "uvp": 38.95,
+    "attributes": "<ul><li>1 Knarre, feinverzahnt, 72 Zähne (extra kurz</li><li>nur 108 mm)</li><li>1 Verlängerung 1/4\" 50 mm</li><li>1 Bithalter</li><li>9 Steckschlüsseleinsätze mit GEARLOCK-Profil: 5-6-7-8-9-10-11-12-13 mm</li><li>durch Gearlock-Profil passend für 6-kant, 12-kant, E-Profil, metrische + zöllige Schrauben</li><li>16 Bits 1/4“ S2-Sonderstahl: PH# 1+2 ; PZ# 1+2 ; Schlitz 4,5 + 6 mm</li><li>Innensechskant 3+4+5 mm</li><li>T-Profil T10-15-20-25-27-30-40</li><li>im praktischen Hartschalenkoffer</li></ul>"
+}

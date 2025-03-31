@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Unkrautbürste gegen Unkraut, für die Fugenreinigung</li><li>ideal geeignet für Terrassen, Hofeinfahrten, und Gehwegen</li><li>entfernt störendes Unkraut, Moos, Gras und Wildbewuchs</li><li>mit Stahlkratzer und ca. 150 cm langen Holzstiel ausgestattet</li><li>vermeidet den Einsatz von schädlichen Chemikalien</li></ul>"
+}

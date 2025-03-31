@@ -1,0 +1,4 @@
+{
+    "uvp": 6.0,
+    "attributes": "<ul><li>SAT-Adapter mit Vollmetallgehäuse</li><li>mit F-Kupplung und Koax-Kupplung </li><li>voll geschirmt und schraubbar</li><li>zur Adaption von F-Kabeln</li><li>für 2-Loch-SAT-Dosen</li></ul>"
+}

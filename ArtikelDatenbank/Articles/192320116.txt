@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>LED-Wanddekoration Neon Weihnachtsbaum 68 x 46 cm</li><li>mit 96 LED’s in grün und gelb versehen</li><li>schafft in Wohnräumen eine tolle Atmosphäre</li><li>mit Timerfunktion von 8 Stunden</li><li>inklusive eine ca. 5 m lange Zuleitung<br/></li></ul>"
+}

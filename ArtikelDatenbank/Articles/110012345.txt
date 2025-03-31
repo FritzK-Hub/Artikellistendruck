@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>schneidet mühelos Rohre bis zu 30 mm Ø</li><li>geeignet für Kupfer, Messing und Leichtmetallrohre</li><li>einfache Handhabung dank ergonomischer Griffe</li><li>robuste Konstruktion für langlebige Nutzung</li><li>scharfes Schneidrad für präzise Trennungen<br/><br/></li></ul>"
+}

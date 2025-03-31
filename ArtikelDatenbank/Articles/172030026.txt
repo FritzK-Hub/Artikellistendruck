@@ -1,0 +1,4 @@
+{
+    "uvp": 2.19,
+    "attributes": "<ul><li>Starres Isolierrohr für Aufputzmontage</li><li>für leichte mechanische Beanspruchung</li><li>aus PVC-Material</li><li>einseitig angeformter Muffe</li><li>flammwidrig, selbstverlöschend, korrosionsfest</li></ul>"
+}

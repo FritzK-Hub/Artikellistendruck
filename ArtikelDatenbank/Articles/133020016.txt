@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>10-teiliger Steinbohrersatz </li><li>mit 9 sandgestrahlten Steinbohrern in 6 Größen<br/></li><li>Bohrer geeignet für Steinmaterialien</li><li>inklusive Bohrstaubfänger</li><li>für Profis und Hobbyheimwerker</li></ul>"
+}

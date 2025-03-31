@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>perfekt für die Weihnachtsbäckerei geeignet</li><li>fördert Kreativität und Teamarbeit beim Backen</li><li>hochwertige Materialien für langanhaltenden Spaß</li><li>kindgerechtes Design</li><li>ideales Geschenk für kleine Backfreunde</li></ul>"
+}

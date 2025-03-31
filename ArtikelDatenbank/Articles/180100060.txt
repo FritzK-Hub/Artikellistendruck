@@ -1,0 +1,4 @@
+{
+    "uvp": 19.29,
+    "attributes": "<ul><li>Nachfüll-Leichtlaufmotoröl für höchste Anforderungen</li><li>Turbo- und Kat-getestet</li><li>ideal auch bei Common-Rail-Technologie</li><li>minimiert Verschleiß, Ablagerungen und Kraftstoffverbrauch</li><li>maximiert Lebensdauer des Motors, schont die Umwelt</li></ul>"
+}

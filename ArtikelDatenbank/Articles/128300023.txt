@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>Sonnenschirm 240 cm mit UV-Schutz</li><li>inklusive Tragetasche und Befestigungsmaterial</li><li>geteiltes Standrohr, höhenverstellbar</li><li>mit Lichtschutzfaktor 50+</li><li>Sonnenschirm mit Seitenteilen</li></ul>"
+}

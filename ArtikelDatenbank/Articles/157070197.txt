@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Isolierfarbe gegen Nikotin-, Ruß- und Wasserflecken</li><li>verhindert langfristig das Durchschlagen der Flecken</li><li>mit Dispersionen einfach überstreichbar</li><li>lösemittelhaltig</li><li>für innen geeignet</li></ul>"
+}

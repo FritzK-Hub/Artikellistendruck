@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>3 Aluminiumpflaster im Set</li><li>zur Abdeckung von Hautverletzungen</li><li>haftet nicht an der Wundstelle</li><li>unterstützt die Atmung der Haut</li><li>schützt vor Eindringen von Fremdkörpern</li></ul>"
+}

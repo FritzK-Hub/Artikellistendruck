@@ -1,0 +1,4 @@
+{
+    "uvp": 9.79,
+    "attributes": "<ul><li>Halogen-Scheinwerfer</li><li>StVZO zugelassen</li><li>inkl. integriertem Frontreflektor</li><li>mit Überspannungsschutz</li><li>Fahrradleuchte mit austauschbarer Halogenglühlampe</li></ul>"
+}

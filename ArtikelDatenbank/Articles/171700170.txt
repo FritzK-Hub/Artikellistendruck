@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>mühelose Reparatur für verschiedene Holzschäden</li><li>sofort einsatzbereit inklusive Spatel</li><li>mischbare Farbtöne für perfekte Anpassung</li><li>langlebige Ergebnisse auch bei stark beanspruchten Flächen</li><li>vielseitig einsetzbar auf Holz und Kunststoff</li></ul>"
+}

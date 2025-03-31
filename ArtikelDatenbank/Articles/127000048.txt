@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Damenspaten mit griffigem T-Griff</li><li>Schaufelblatt aus gehärtetem Edelstahl gefertigt</li><li>zum Umgraben, Auflockern, Ausheben von Erde</li><li>Trittkante erleichtert die Arbeit mit dem ganzen Körpergewicht</li><li>rückenschonende Arbeit dank 90 cm langem Holzstiel</li></ul>"
+}

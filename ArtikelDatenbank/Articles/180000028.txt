@@ -1,0 +1,4 @@
+{
+    "uvp": 120.95,
+    "attributes": "<ul><li>für Fahrzeuge mit einfacher Start-Stopp-Automatik</li><li>kostengünstigere Alternative zu den AGM-Batterien</li><li>geringerer Innenwiderstand mit mehr Ladezyklen</li><li>hohe Kaltstartleistung für sicheres Starten des Motors</li><li>wartungsfrei und auslaufsicher für mehr Sicherheit<br/></li></ul>"
+}

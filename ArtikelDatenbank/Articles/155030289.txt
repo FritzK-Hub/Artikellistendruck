@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>langlebige, nicht wiederaufladbar Batterie</li><li>ideal für Geräte mit hohem Energiebedarf</li><li>auf einer stabilen Blisterkarte zur einfachen Bevorratung<br/></li><li>Einsatz primär in Kameras, Blitzgeräte, WiFi-PIR-Sensoren, Alarmgeber<br/></li><li>die Batterie ist umweltfreundlich und kann nach Gebrauch sicher und ordnungsgemäß entsorgt werden</li></ul><p></p>"
+}

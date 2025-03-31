@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>    stoppt bei einem Schlauchbruch das Ausströmen von Gas    </li><li>die Montage erfolgt direkt am Druckregler</li><li>verpflichtend für den gewerblichen Bereich</li><li>sorgt für mehr Sicherheit im Haushalt und Garten</li><li>vermeidet den Austritt von Gas durch defekte Schläuche<br/></li></ul>"
+}

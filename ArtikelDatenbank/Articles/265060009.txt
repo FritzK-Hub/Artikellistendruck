@@ -1,0 +1,4 @@
+{
+    "uvp": 11.49,
+    "attributes": "<ul><li>Sturmhaken aus Edelstahl mit Öse</li><li>zur Sicherung von Fenstern und Toren</li><li>witterungsbeständig und langlebig</li><li>mit einer festen und einer losen Öse</li><li>mit Holzschraubengewinde</li></ul><h2><strong><br/></strong></h2><p><br/></p>"
+}

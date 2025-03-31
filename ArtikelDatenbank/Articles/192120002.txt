@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>doppelt sicher durch zwei Handbremsen</li><li>leicht lenkbar für präzise Manöver</li><li>elternfreundlich dank inkludiertem Zugseil</li><li>stabile Kunsstoffkonstruktion bietet maximalen Fahrspaß</li><li>attraktive blaue Farbe sorgt für Wiedererkennungswert</li></ul>"
+}

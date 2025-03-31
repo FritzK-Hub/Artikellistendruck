@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>klassische Regentonne 200 Liter mit Deckel und Hahn</li><li>aus 100% recyceltem Plastik gefertigt </li><li>einfache Lösung zum Sammeln von Regenwasser</li><li>spart Kosten und kostbares Trinkwasser</li><li>für günstige und effiziente Gartenbewässerung<br/></li></ul>"
+}

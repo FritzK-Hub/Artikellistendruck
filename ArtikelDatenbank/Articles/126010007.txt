@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>ideal für kleinere und mittlere Rasenflächen, 32 cm Schnittbreite</li><li>leistungsstarker 1300 Watt Motor mit 3500 min-1</li><li>robuste 30 Liter Fangbox mit Kunststoffabdeckung und Füllstandsanzeige</li><li>klappbarer Handgriff zur einfachen und platzsparenden Lagerung oder Transport</li><li>zentrale Schnitthöhenverstellung in 3 Positionen (20 – 60 mm)<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 169.95,
+    "attributes": "<ul><li>Hocker Valencia Smoke mit Aluminiumgestell </li><li>mit grauem, wasserfestem Polyrattangeflecht bespannt</li><li>durch die optische Eleganz ist der Hocker ein wahrer Blickfang</li><li>passendes Zubehör für die Eckbank Lounge Valencia Smoke</li><li>Lieferung inklusive Sitzkissen<br/></li></ul>"
+}

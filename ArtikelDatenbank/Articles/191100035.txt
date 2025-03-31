@@ -1,0 +1,4 @@
+{
+    "uvp": 599.95,
+    "attributes": "<ul><li>Pool Set mit Filterpumpe, Abdeckplane, Leiter und Chemikaliendosierer</li><li>Innenverkleidung in schöner Mosaikoptik</li><li>ovale Form, ideal fürs Bahnenschwimmen</li><li>robust und dank Seal &amp; Lock System leicht aufzustellen</li><li>extrem stabile Rahmenkonstruktion mit Korrosionsschutz</li></ul><p></p>"
+}

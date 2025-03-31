@@ -1,0 +1,4 @@
+{
+    "uvp": 20.77,
+    "attributes": "<ul><li>Übergang von Dachrinne zu Fallrohr</li><li>zuverlässige Umleitung von Regenwasser</li><li>sichert den reibungslosen Ablauf deiner Dachrinne<br/></li><li>aus robustem Kunststoff</li><li>Nennweite RG 100/DN 75</li></ul>"
+}

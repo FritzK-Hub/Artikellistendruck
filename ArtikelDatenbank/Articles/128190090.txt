@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Sitzkissen für Gartenstühle</li><li>sehr weich, bietet hohen Sitzkomfort</li><li>wasserabweisend</li><li>besitzt Polyesterfüllung</li><li>verfügt über Bänder zum Befestigen<br/></li></ul>"
+}

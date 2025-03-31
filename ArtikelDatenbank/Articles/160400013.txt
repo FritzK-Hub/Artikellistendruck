@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Stoffmaske unisex in schwarz</li><li>aus atmungsaktivem Polyester gefertigt</li><li>schützt vor Tröpfchenübertragungen</li><li>besonders angenehm beim Tragen </li><li>bis zu 30 °C waschbar (Handwäsche)<br/></li></ul>"
+}

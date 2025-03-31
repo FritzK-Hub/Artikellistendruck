@@ -1,0 +1,4 @@
+{
+    "uvp": 79.99,
+    "attributes": "<ul><li>leistungsstarker Standventilator</li><li>drei Geschwindigkeitsstufen, Überhitzungsschutz<br/></li><li>Schutzgitter und Flügel aus Chrom</li><li>verschiedene Neigungswinkel</li><li>in der Höhe verstellbar</li></ul>"
+}

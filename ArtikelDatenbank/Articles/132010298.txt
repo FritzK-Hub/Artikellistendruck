@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>mit Babypuderduft</li><li>feine Körnung</li><li>sparsam im Verbrauch</li><li>sanft für die Katzenpfoten</li><li>extra hohes Aufsaugvermögen</li></ul>"
+}

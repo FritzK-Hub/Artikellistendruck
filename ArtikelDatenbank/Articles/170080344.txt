@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Schleifgitter mit Silicium-Carbid-Schleifkörpern</li><li>für Schleifarbeiten auf Trockenbauwänden z. B. Gipskartonplatten</li><li>extra robust, hohe Standfestigkeit</li><li>Grobschliff, hoher Material-Abtrag</li><li>5 Blatt Schleifgitter mit Körnung K80</li></ul>"
+}

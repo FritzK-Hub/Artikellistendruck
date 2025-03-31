@@ -1,0 +1,4 @@
+{
+    "uvp": 1.59,
+    "attributes": "<ul><li>20 rechteckige Pappteller mit Anfasser</li><li>lebensmittelecht</li><li>kompostierbar, beschichtet<br/></li><li>Einwegteller für eine Grillparty oder Kindergeburtstag</li><li>praktisch und hygienisch</li></ul>"
+}

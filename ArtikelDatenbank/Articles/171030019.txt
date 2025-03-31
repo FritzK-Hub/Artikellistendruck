@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>schnelle Vintage-Gestaltung in nur zwei Schritten</li><li>ideal für authentischen Shabby-Chic mit Gebrauchsspuren</li><li>zügige Trockenzeit von nur 4 Stunden</li><li>Schutz und Veredelung einfach durch zu ergänzendem Wachs</li><li>vielseitige Anwendung auf Möbeln und mehr</li></ul><p></p>"
+}

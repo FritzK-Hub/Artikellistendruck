@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Rundpinsel mit geradem Pinselkopf</li><li>bestens geeignet für einfache Streicharbeiten</li><li>bester Materialauftrag</li><li>stabiler Holzgriff, Kunststoff-Zwinge</li><li>geeignet für alle Farben und Lacke</li></ul>"
+}

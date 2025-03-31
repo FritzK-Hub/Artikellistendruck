@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Benzinkanister 5 Liter aus robustem Kunststoff</li><li>leichte Handhabung dank Auslaufrohr</li><li>für die Reservehaltung und Transport von Kraftstoffen</li><li>mit Kindersicherheits-Verschluss</li><li>mit einer UN-Zulassung versehen<br/></li></ul>"
+}

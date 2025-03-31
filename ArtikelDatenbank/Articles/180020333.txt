@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li><div>Schlauchtrommel passend für 45m 1/2\" Schlauch, 30m 5/8\" Schlauch oder 20m 3/4\" Schlauch</div></li><li><div>einfache Montage ohne Werkzeug</div></li><li><div>mit rutschfestem Gummigriff</div></li><li><div>leichter Transport und schonende Aufbewahrung des Schlauchs</div></li></ul>"
+}

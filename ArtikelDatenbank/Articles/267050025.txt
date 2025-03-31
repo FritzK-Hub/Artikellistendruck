@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>2-fach gedrehter Bindfaden</li><li>vielseitige Packschnur auf Kern</li><li>reißfest, tragfähig, belastbar</li><li>gedrehter Polyesterfaden</li><li>Tragfähigkeit der Schnur 35 kg</li></ul>"
+}

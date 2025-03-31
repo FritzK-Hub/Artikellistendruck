@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Block-Seilrolle in einfacher Ausführung</li><li>Nylonseil mit Ø 10 mm</li><li>Rolle aus verzinktem Metall</li><li>Ösen-Innenmaße 16 x 22 mm</li><li>Umlenkrolle für Seile bis Ø 10 mm</li></ul>"
+}

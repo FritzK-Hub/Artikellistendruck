@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Fußmatte aus Gummi mit Ring-Muster<br/></li><li>für den Innen- und Außenbereich geeignet</li><li>sehr gute Reinigungswirkung</li><li>wetterbeständige Schmutzfangmatte<br/></li><li>die Fußmatte lässt sich leicht reinigen</li></ul>"
+}

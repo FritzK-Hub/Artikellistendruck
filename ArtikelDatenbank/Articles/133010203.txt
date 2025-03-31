@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Ergänzungsfuttermittel für freilebende Vögel</li><li>aus natürlichen Rohstoffen hergestellt</li><li>sorgt vor allem zur kalten Jahreszeit für eine wichtige Energieversorgung</li><li>schmackhaftes Ergänzungsfuttermittel für Wildvögel mit hohem Nährwertgehalt</li><li>lässt sich leicht an Balkon, Terrasse oder direkt an Baum anbringen<br/></li></ul>"
+}

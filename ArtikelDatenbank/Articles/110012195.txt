@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Gummidichtung sorgt für eine sichere Abdichtung und verhindert Leckagen</li><li>einfaches Auf- und Zuschrauben ohne spezielle Werkzeuge</li><li>fügt sich harmonisch in dein Badezimmer oder Küche ein</li><li>deckt den Geräteanschluss-Siphon zuverlässig ab</li><li>hält den Siphon sauber und funktionsfähig<br/></li></ul>"
+}

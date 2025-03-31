@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>selbstklebend für eine einfache Installation ohne zusätzliche Befestigungsmittel</li><li><li>hochwertiges Material für zuverlässige Isolierung</li></li></ul><ul><li>effiziente Wärmedämmung reduziert Heizkosten</li></ul><ul><li><li>schützt vor Wärmeverlusten und Kondensation</li></li><li>für Heizungs- und Wasserleitungsrohre geeignet</li></ul>"
+}

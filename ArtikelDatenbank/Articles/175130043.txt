@@ -1,0 +1,4 @@
+{
+    "uvp": 23.99,
+    "attributes": "<ul><li>mit Beleuchtung</li><li>220 Volt</li><li>VDE-Stecker, doppelt isoliert</li></ul>"
+}

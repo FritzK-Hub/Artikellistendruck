@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>besonders robust und langlebig</li><li>auch für schwer zugänglichen Stellen</li><li>sichere Handhabung und bequeme Reinigung</li><li>einfache Kombination mit den meisten Bürsten</li><li>für professionelle und private Anwendungen<br/></li></ul>"
+}

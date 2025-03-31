@@ -1,0 +1,4 @@
+{
+    "uvp": 11.49,
+    "attributes": "<ul><li>Aufschraubhülse aus robustem Stahl, verzinkt</li><li>ideal geeignet für Mittel- oder Eckpfosten</li><li>schnell und einfach montiert</li><li>wird direkt auf den Untergrund aufschraubt</li><li>widerstandsfähig und witterungsbeständig<br/></li></ul>"
+}

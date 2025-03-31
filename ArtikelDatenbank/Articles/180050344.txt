@@ -1,0 +1,4 @@
+{
+    "uvp": 133.95,
+    "attributes": "<ul><li>2-Sitzer Gartenbank<br/></li><li>aus Gusseisen mit Holzbelattung</li><li>mit Rücken- und Armlehne<br/></li><li>Sitzbank-Seitenteile aus Gusseisen schwarz beschichtet</li><li>Seitenteile verziert mit stilisiertem Löwenkopf</li></ul>"
+}

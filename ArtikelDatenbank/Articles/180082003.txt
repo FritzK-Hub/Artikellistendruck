@@ -1,0 +1,4 @@
+{
+    "uvp": 3470.0,
+    "attributes": "<ul><li>Gartenzaun Rimini aus Metall</li><li>leicht, preiswert und sehr vielseitig einsetzbar</li><li>modernste Schweißtechnik garantiert höchste Qualität</li><li>besticht durch seine zeitlose, klassische Optik und seine hohe Formstabilität</li><li>sehr lange Lebensdauer durch Feuerverzinkung und hochwertige Pulverbeschichtung</li></ul><p></p>"
+}

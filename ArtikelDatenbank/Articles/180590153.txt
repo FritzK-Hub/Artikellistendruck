@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>flexibel einstellbar für optimale Sicht</li><li>sicherer Halt ohne Verrutschen</li><li>einfache Montage ohne Werkzeug</li><li>kompatibel mit vielen Geräten</li><li>perfekt für lange Autofahrten</li></ul>"
+}

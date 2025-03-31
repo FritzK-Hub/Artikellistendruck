@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>klassisches Pflanzenstärkungsmittel aus pflanzlichen Inhaltsstoffen</li><li>Stärkungsmittel für schädlingsanfällige Pflanzen</li><li>als Spritz- und Gießmittel verwendbar</li><li>wirkt vorbeugend und regenerierend</li><li>jederzeit anwendbar, ohne vorhergehende Vorbereitung<br/></li></ul>"
+}

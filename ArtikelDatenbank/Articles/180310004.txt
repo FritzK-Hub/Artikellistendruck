@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>für alle schwarzen Kunststoff-Außenteilen geeignet</li><li>die enthaltenden Pigmente frischen die Farbe neu auf</li><li>verleiht einen dauerhaften Oberflächenschutz</li><li>für den Werterhalt und Glanz deines Fahrzeugs</li><li>inklusive Applikations-Schwamm für eine einfache Handhabung<br/></li></ul>"
+}

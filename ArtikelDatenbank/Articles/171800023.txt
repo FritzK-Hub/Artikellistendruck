@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>besonders hohe Effizienz</li><li>schonende Anwendung</li><li>vielseitige Anwendbarkeit</li><li>hohe Benutzerfreundlichkeit</li><li>optimale Vorbereitung für Neuanstriche<br/></li></ul>"
+}

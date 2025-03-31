@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li> enorme Klebekraft und gleichzeitig abdichtende Eigenschaften </li><li>hochwertiger, faserverstärkter Bitumenkleber auf Polymer-Bitumenbasis</li><li>anwendbar auf Schrägdächern bis 45° Neigung ohne zusätzliches Vernageln </li><li> optimal geeignet für schnelle Reparaturen und Verklebungen auf Dachpappen </li><li> tropfgehemmte Einstellung, extrem schnell trocknend. Kein Aufweichen nach Sonneneinstrahlung   </li></ul>"
+}

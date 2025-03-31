@@ -1,0 +1,4 @@
+{
+    "uvp": 159.95,
+    "attributes": "<ul><li>zuverlässige Wasserversorgung, auch wenn kein Stromnetz vorhanden ist </li><li>aus robustem Aluminium-Druckguss mit mechanischer Dichtung</li><li>für effiziente Wasserförderung in verschiedenen Situationen</li><li>in landwirtschaftlichen Betrieben oder zur Notentwässerung einsetzbar</li><li>einfache Wartung dank Entlüftungs- und Wasserablassschraube<br/></li></ul>"
+}

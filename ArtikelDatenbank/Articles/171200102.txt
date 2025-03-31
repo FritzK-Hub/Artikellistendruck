@@ -1,0 +1,4 @@
+{
+    "uvp": 22.99,
+    "attributes": "<ul><li>farbig dekorativ und in verschiedenen Farbtönen erhältlich<br/></li><li>speziell für Holz im Innenbereich besonders schnelltrocknend</li><li>pflegeleicht sowie wasser- und schmutzabweisend</li><li>strapazierfähig und lichtbeständig</li><li>Speichel- und schweißecht</li></ul><p></p>"
+}

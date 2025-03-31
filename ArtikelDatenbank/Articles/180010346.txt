@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>rein biologischer Naturdünger aus Hornspänen</li><li>dient zur Bodenverbesserung</li><li>Nährstoffversorgung mit Stickstoff</li><li>passend für Gartenkulturen wie Topf- und Grabpflanzen</li><li>auch für kalkempfindliche Pflanzen verwendbar</li></ul>"
+}

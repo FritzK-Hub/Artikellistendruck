@@ -1,0 +1,4 @@
+{
+    "uvp": 1.5,
+    "attributes": "<ul><li>Heißklebesticks 12 Stück je Ø 8 x 50 mm</li><li>praktischer, transparenter Universalkleber</li><li>gute Klebeeigenschaften auf fast allen Materialien</li><li>für faste jede Klebepistole geeignet</li><li>zum Basteln, Reparieren Fixieren und Abdichten<br/></li></ul>"
+}

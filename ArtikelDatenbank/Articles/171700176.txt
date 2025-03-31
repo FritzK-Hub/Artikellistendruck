@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>schnelle Reparatur für Holzfuniere</li><li>einfache Anwendung ohne Fachkenntnisse</li><li>vielseitig für verschiedene Holzarten</li><li>perfekte Farbanpassung zur unsichtbaren Ausbesserung</li><li>langlebige Ergebnisse für nachhaltige Schönheit</li></ul>"
+}

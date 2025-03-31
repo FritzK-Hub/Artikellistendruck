@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Einweg-Kompresse für Kaltanwendung</li><li>Sofort-Kompresse zur schnellen Kühlung</li><li>sofortige Hilfe bei Sportverletzungen</li><li>Kühlpack per leichten Druck aktivierbar</li><li>Kühlkompresse für unterwegs</li></ul>"
+}

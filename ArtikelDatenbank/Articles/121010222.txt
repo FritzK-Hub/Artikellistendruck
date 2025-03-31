@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>selbstklebende Tafelsticker zum Beschriften</li><li>1 Bogen mit 7 Tafel Etiketten</li><li>4 verschiedene Größen und Formen</li><li>klebt auf vielen Materialien</li><li>feucht und trocken abwischbar bei der Verwendung von Kreidemarkern<br/></li></ul>"
+}

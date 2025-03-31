@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>langlebige Alkali-Mangan Knopfzelle LR43<br/></li><li>geeignet für Armbanduhren und vieles mehr</li><li>lange Lagerfähigkeit ohne nennenswerte Verluste</li><li>auf einer stabilen Blisterkarte für übersichtliche Bevorratung</li><li>ideal für Geräte mit niedrigem und konstantem Energiebedarf</li></ul>"
+}

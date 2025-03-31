@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Kabelkanal aus PVC für Aufputzmontage</li><li>schwer entflammbar, selbstverlöschend</li><li>temperaturbeständig -5 °C bis +60 °C</li><li>Doppelseitiges Klebeband am Unterteil</li><li>Minikanal mit Klappdeckel für den Innenbereich</li></ul>"
+}

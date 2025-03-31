@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Frischhaltefolie auf Rolle</li><li>gut selbsthaftend und stark dehnbar</li><li>lebensmittelecht und PVC-frei</li><li>aus recyclebarem Polyethylen ohne Zusätze</li><li>verschließt luftdicht und aromaschützend</li></ul>"
+}

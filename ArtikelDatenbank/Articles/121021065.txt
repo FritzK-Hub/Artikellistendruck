@@ -1,0 +1,4 @@
+{
+    "uvp": 4.19,
+    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>mit Schriftzug \"Rauchen Verboten!\"</li><li>schwarze Schrift</li><li>gelber Hintergrund</li><li>wetterbeständig</li></ul>"
+}

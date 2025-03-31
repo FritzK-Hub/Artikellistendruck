@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>für dauerelastische Verfugung</li><li>schützt vor Verfärbungen</li><li>pilzhemmend und vorbeugend gegen Schimmel</li><li>witterungs- und UV-beständig</li><li>geeignet für den Sanitär- und Außenbereich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>rollgewalzter Stahl-Spiralbohrer für hohe Qualität</li><li>Bohrer geeignet für Gußmetall, NE-Metall, Kunststoff, Eisen, Stahl</li><li>hergestellt aus langlebigem HSS-Stahl</li><li>für Profis und Hobbyheimwerker</li><li>große Stabilität und Festigkeit</li></ul><p></p>"
+}

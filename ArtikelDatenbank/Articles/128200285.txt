@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>solarbetriebene Gartenfackel aus Edelstahl 112 cm </li><li>setzt Gartenwerge oder Blumenbeete in Szene</li><li>auch als dekorativer Orientierungspunkt einsetzbar</li><li>stabiler Halt dank massivem Erdspieß</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung<br/></li></ul>"
+}

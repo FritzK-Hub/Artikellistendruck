@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    für senkrechte oder waagerechte Montage,/nSchutzart: IP44 (spritzwassergeschützt)\"\"/n                "
+}

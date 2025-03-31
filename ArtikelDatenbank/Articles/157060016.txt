@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Leinölfirnis ist ein natürliches Öl</li><li>wird aus der Flachs- oder Leinpflanze gewonnen</li><li>doppelt gekocht, mit Trockenstoffen versehen und kobaltfrei</li><li>zur Oberflächenbehandlung/Versiegelung von Hölzern</li><li>zur Herstellung von pigmentierten Grundierungen</li></ul>"
+}

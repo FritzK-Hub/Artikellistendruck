@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>GERMANIA® Plattform Akku-Rasentrimmer mit Alu-Teleskopstab</li><li>verstellbarer Zusatzhandgriff für angenehmeren Komfort</li><li>Kantenschneider-Funktion dank bis zu 60° drehbarem Kopf</li><li>Grasrandschneider erleichtert das Schneiden an engen Rasenkanten</li><li>Freischneider mit ca. 23 cm Schnittbreite<br/></li></ul>"
+}

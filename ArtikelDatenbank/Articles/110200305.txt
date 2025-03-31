@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>massives Kiefernholz für DIY-Projekte</li><li>ideal für Modellbau und Basteln</li><li>geeignet als Zier- und Pflanzstab</li><li>robust, langlebig und widerstandsfähig</li><li>leicht zu schneiden und bearbeiten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Abbrechmesser aus Kunststoff</li><li>ausschiebbare Klinge</li><li>stabile Metallführung</li><li>mit Arretierfunktion</li><li>Griff aus 2-Komponenten Kunststoff</li></ul>"
+}

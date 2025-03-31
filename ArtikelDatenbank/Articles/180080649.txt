@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>zusammenfaltbarer Gartenabfallsack</li><li>Gartentasche praktisch und platzsparend</li><li>leichte Handhabung durch 2 Tragegriffe</li><li>unverzichtbar für Arbeiten im Garten</li><li>robuster und langlebiger Gartensack</li></ul>"
+}

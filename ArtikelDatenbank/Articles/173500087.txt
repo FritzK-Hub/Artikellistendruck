@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>LED-Solarbodenbeleuchtung für außen mit Dämmerungssensor</li><li>besonders langlebig und widerstandsfähig, aus schwarzem Kunststoff</li><li>lässt sich vielseitig als Orientierungslicht im Garten verwenden</li><li>schnell und einfach mit Erdspieß oder Sockel aufstellbar</li><li>Bewegungssensor von 5-8 m Reichweite bietet mehr Sicherheit<br/></li></ul>"
+}

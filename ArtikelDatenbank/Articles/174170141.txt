@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Ersatz-Abbrechklingen im Set</li><li>für handelsübliche Teppichmesser</li><li>Verpackt zu 12 Stück</li><li>in der praktischen Spenderbox</li><li>mit 7 Einteilungen</li><li>extrem scharf</li></ul>"
+}

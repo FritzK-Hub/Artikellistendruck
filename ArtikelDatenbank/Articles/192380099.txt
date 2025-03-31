@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Servietten mit Schriftzug</li><li>mit Prägerand in hochwertiger Qualität</li><li>praktisch und universell einsetzbar</li><li>3-lagige, saugfähige Qualität</li><li>aus feinem Tissue hergestellt</li></ul>"
+}

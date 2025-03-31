@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>3 Aufnahmen für diverse Werkzeugaufsätze</li><li>ideal für Kleinbohrmaschinen</li><li>geeignet für Multitools, Minibohrmaschinen u.v.m.</li><li>universell einsetzbar</li><li>Profiqualität<br/></li></ul>"
+}

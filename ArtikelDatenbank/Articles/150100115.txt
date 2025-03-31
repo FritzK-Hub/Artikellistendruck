@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>mechanische Universal-Siphonpumpe</li><li>flexible Ausgießtülle</li><li>einfache und unkomplizierte Anwendung</li><li>mit 150 mm langem Schlauch</li><li>Siphon Maße (ØxH) ca. 40 x 75 mm</li></ul>"
+}

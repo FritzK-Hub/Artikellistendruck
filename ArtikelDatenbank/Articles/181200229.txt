@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Weißkohl Express Spitzkohl für ca. 120 Pflanzen</li><li>ist eine sehr frühe Kohlsorte mit kurzer Entwicklungszeit</li><li>mit mittelgroßen, festen Kopf und zartem Kohlgeschmack</li><li>eignet sich für den Frischverzehr und ist kälteunempfindlich</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

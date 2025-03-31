@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Schutzkontakt-Kupplung in weiß</li><li>Schutzart IP 20, nicht wassergeschützt</li><li>für den Einsatz im Innenbereich geeignet</li><li>mit Knickschutz</li><li>Schutzkontaktstecker mit zentraler Kabeleinführung<br/></li></ul>"
+}

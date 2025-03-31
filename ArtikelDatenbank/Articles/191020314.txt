@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>einfädige Angelschnur aus Nylon </li><li>20 teiliges Set</li><li>Anwendungsbereich: Weissfische</li><li>mit Haken lose</li><li>transparent<br/></li></ul>"
+}

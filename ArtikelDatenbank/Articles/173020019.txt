@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>Bit-Set 7-teilig mit 3/8\" Antrieb<br/></li><li>Größen: 3-4-5-6-7-8-10mm</li><li>auf Metallschiene</li><li>matt verchromt</li><li>gerändelt</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>für die zuverlässige und feste Verbindung</li><li>perfekt für die meisten Schrankverbindungen</li><li>einfache und problemlose Montage</li><li>besonders robust, stabil und langlebig</li><li>aus hochwertigem Material<br/></li></ul>"
+}

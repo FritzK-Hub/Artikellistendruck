@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Marienglockenblumen Mischung zweijährig</li><li>reich und lange blühenden Pflanze</li><li>becherförmigen Blüten in Weiß, Rosa und Blau</li><li>probefeldgetestete Qualität</li><li>als Schnittblume dekorativ, hält bis zu 10 Tagen</li></ul>"
+}

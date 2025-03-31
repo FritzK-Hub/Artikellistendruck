@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>dient zum Polieren von Kunststoffen oder verschiedenen Metallen</li><li>vielseitig als Multifunktionswerkzeug oder Gravurwerkzeug</li><li>optimale Ergänzung für unterschiedliche Polierarbeiten</li><li>dank Baumwollstruktur, besonders schonend für die Oberfläche</li><li>verhindert Kratzer und Beschädigungen bei den Arbeiten<br/></li></ul>"
+}

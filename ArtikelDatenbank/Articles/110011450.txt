@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Holzkern WC-Sitz in Weiß</li><li>einfache Reinigung dank besonders feiner Oberfläche</li><li>langlebig: äußerst bruchsicher und kratzfest</li><li>leichte Montage inkl. Befestigung</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
+}

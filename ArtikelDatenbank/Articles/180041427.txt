@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>Laubbesen mit 22 federnden Zinken</li><li>Zinken aus verzinktem Stahl</li><li>geeignet für Stiele mit einem Durchmesser Ø von ca. 2,2cm</li></ul>"
+}

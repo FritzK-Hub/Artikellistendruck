@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>LED-Lichterkette batteriebetrieben mit 2,3 m Länge</li><li>ist mit 24 warmweißen LEDs versehen</li><li>verfügt über eine Timer-Funktion wie 8 Funktionen</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>für Innen und Außen vielfältig einsetzbar<br/></li></ul>"
+}

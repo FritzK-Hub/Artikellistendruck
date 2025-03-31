@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>1 Flaschenbürste mit Sonne für 1 und 2 Liter Flaschen</li><li>1 konische Tüllenbürste mit Käppchen</li><li>gedrehte Bürsten mit Kunststoffgriff</li><li>strapazierfähige Nylonborsten</li><li>zum Reinigen des Inneren der Flaschen bis zum Boden<br/></li></ul>"
+}

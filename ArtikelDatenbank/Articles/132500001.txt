@@ -1,0 +1,4 @@
+{
+    "uvp": 179.99,
+    "attributes": "<ul><li>Elektroschrauber 550 W für den Trockenbau</li><li>mit Schraubenmagazin für schnelles Arbeiten</li><li>mit Verriegelungsknopf für Dauerbetrieb ausgestattet</li><li>innovatives Auto-Start-Stop-Getriebe</li><li>Tiefenanschlag stufenlos einstellbar für konstante Einschraubtiefe</li></ul>"
+}

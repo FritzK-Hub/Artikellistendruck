@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Gewinde: ca. 9 mm</li><li>Schraubenlänge: ca. 120 mm</li><li>Gewindelänge: (L) ca. 45 mm</li><li>Ring aussen: (Ø) ca. 63 mm</li><li>Ring innen: (Ø) ca. 46 mm</li><li>Materialstärke Ring: (Ø) ca. 9 mm</li><li>Material: Stahl verzinkt</li><li>Inhalt: 1 Stück</li></ul>"
+}

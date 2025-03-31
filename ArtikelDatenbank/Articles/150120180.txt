@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>effiziente Reinigung durch dichte Borsten</li><li>hygienische Säuberung der Bürste dank Kammzähnen</li><li>robust und langlebig aus Kunststoff</li><li>kompakt und platzsparend verstaubar</li><li>vielseitig innen und außen einsetzbar</li></ul>"
+}

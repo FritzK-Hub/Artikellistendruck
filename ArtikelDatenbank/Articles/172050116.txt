@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>Stromsparen mit individueller Geräteabschaltung möglich</li><li>komfortable Steuerung per Funkbedienung inklusive</li><li>perfekt geeignet bei schwer zugänglichen Geräteanschlüssen <br/></li><li>Dauer-EIN-Steckdosen für kontinuierlichen Betrieb wichtiger Geräte</li><li>klare LED-Anzeigen unterstützen einfache Überwachung</li></ul>"
+}

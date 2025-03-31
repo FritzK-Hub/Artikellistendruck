@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>für halbrunde Dachrinnen geeignet<br/></li><li>dichtet zuverlässig Enden ab</li><li>aus stabilem PVC</li><li>für Dachrinnen RG 100 </li><li>Montage ohne Werkzeug möglich</li></ul>"
+}

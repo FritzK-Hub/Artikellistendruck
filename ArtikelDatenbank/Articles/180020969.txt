@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>Zweiwege-Verteilerstück aus Messing</li><li>mit 1 x 3/4\" Innengewinde und 2 x 3/4\" Außengewinde</li><li>zum anschlussfertigen Verzweigen von Schläuchen</li><li>zum Verzweigen innerhalb von Schlauchsträngen</li></ul>"
+}

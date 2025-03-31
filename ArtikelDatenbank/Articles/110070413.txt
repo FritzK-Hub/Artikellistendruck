@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>feuerfester Schamottemörtel 2 kg</li><li>für Reparaturarbeiten im Feuerraum</li><li>enthält kein Bindemittel, bindet nur keramisch ab</li><li>Dauer-Anwendungstemperatur bis 1.200 ° C</li><li>für den Innenbereich im Gebäude geeignet</li></ul>"
+}

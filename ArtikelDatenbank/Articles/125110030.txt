@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>Lizetan® Plus Schädlingsfrei Konzentrat</li><li>Konzentrat für große Reichweite</li><li>Wirkstoff inspiriert von der Natur</li><li>schneller, sichtbarer Erfolg bereits nach 1 Stunde</li><li>langanhaltender Schutz vor erneutem Befall</li></ul>"
+}

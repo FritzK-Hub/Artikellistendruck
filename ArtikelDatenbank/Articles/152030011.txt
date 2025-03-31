@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>stabiler Koffergurt mit Schnappverschluss für mehr Sicherheit beim Reisen</li><li>besonders reißfest und strapazierfähig, aus Gewebeband gefertigt</li><li>frei codierbares, 3-stelliges Zahlenschloss schützt vor unerwünschtem Zugriff</li><li>längenverstellbar und an den Koffer anpassbar, passt auf die meisten Koffergrößen</li><li>unverzichtbares Accessoire für alle Reisenden, die auf Sicherheit und Komfort Wert legen<br/></li></ul>"
+}

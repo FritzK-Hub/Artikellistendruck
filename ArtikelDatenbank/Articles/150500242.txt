@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>25 Einweg-Thermobecher 0,2 Liter mit 3D-Struktur</li><li>aus weißer Pappe mit PE-Beschichtung gefertigt</li><li>geeignet für Heißgetränke wie Kaffee, Tee oder Glühwein</li><li>ideal für den Weihnachtsmarkt oder Silvesterparty</li><li>können problemlos im Recyclingbehälter entsorgt werden<br/></li></ul>"
+}

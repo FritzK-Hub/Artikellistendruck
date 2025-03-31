@@ -1,0 +1,4 @@
+{
+    "uvp": 6.03,
+    "attributes": "<ul><li>flaches Abschlussprofil aus eloxiertem Aluminium mit Zierrillen</li><li>für einen sauberen Abschluss bei Bodenbelägen</li><li>verdeckt unsaubere Schnittkanten </li><li>Stolperfallen werden verhindert</li><li>einfache Montage durch super haftendes, selbstklebendes Doppelklebeband</li></ul>"
+}

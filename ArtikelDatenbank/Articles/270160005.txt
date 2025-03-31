@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>für Säbelsägen und Elektrofuchsschwänze</li><li>besonders langlebig, leise und vibrationsarm</li><li>hochflexibler Sägeblattstahl</li><li>speziell für Tauchschnitte</li><li>geeignet für Paletten, Holz, Metallbleche, Rohre, Aluminiumprofile<br/></li></ul>"
+}

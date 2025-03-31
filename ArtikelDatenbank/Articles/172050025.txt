@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Steckdosenwürfel weiß mit Kindersicherung</li><li>inklusive Klebepads auf der Ober- wie Unterseite</li><li>3 Schutzkontakt-Steckdosen (16A)</li><li>3 USB-Anschlüsse (output max. 2A)</li><li>beleuchteter Schalter</li></ul>"
+}

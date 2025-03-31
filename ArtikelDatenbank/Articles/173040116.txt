@@ -1,0 +1,4 @@
+{
+    "uvp": 2.89,
+    "attributes": "<ul><li><strong>Steckschlüsseleinsatz 3/8\"</strong> SW 11mm einzeln erhältlich</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>mit Innenvierkant-Antrieb und Super Lock (Wellenprofil)</li><li>verfügt über eine matt verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li></ul>"
+}

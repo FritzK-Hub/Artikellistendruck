@@ -1,0 +1,4 @@
+{
+    "uvp": 499.0,
+    "attributes": "<ul><li>verdoppelt Energie deiner Powerstation PS600AC</li><li>einfache Verbindung, sofort einsatzbereit</li><li>effiziente Solarstromspeicherung möglich</li><li>kompakte Lösung für mehr Unabhängigkeit</li><li>übersichtliche Kapazität dank LED-Anzeige</li></ul>"
+}

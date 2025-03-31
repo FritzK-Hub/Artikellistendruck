@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>repariert schnell, verankert sicher</li><li>hohe Frühfestigkeit</li><li>greift Eisen nicht an</li><li>zum Montieren, Verankern, Befestigen und Abdichten</li><li>für innen und außen</li></ul>"
+}

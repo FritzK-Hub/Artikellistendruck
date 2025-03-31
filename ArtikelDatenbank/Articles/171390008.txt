@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>für eine effektive Vermeidung von Dreiflankenhaftungen</li><li>ist mit allen Soudal-Dichtstoffen verträglich</li><li>zur Hinterfüllung von Anschluss- und Baufugen</li><li>besonders für Außenfugen von Fassaden im Hochbau geeignet</li><li>auch für Innenfugen im Bodenbereich von Bädern und Küchen<br/></li></ul>"
+}

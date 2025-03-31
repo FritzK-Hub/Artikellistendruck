@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>Schubkarre mit grünem Gestell und ca. 100 Liter Fassungsvermögen</li><li>stabile Ausführung für eine sichere Arbeit</li><li>aus robustem, verzinktem Stahl gefertigt</li><li>mit einem Luftreifen ca. 35 cm Durchmesser</li><li>erleichtert den Transport von Laub, Holz, Steine, Baumaterial und Werkzeug<br/></li></ul>"
+}

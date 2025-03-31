@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>stabiles Stahlgestell belastbar bis 120 kg</li><li>robuste Konstruktion mit Zusatzverstärkung</li><li>Liegefläche mit Komfortmaßen</li><li>rutschfeste Fußkappen bieten überall sicheren Stand</li><li>praktische Tragetasche für Lagerung und Transport</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>ultimativer Schutz vor Umwelteinflüssen</li><li>hochelastische Formel für langanhaltende Versiegelung</li><li>unterstützt Farbbrillanz der charakteristischen Holzfarbe</li><li>schnelle Trocknung in nur 2 Stunden</li><li>leichte Anwendung für effiziente Ergebnisse</li></ul><p></p>"
+}

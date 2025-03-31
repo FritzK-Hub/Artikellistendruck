@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Sonnensegel rechteckig 2 x 3 aus Polyestergewebe in verschiedenen Farben<br/></li><li>vielseitig im Garten, Strand oder beim Camping einsetzbar</li><li>spendet ausreichend Schatten zur Abkühlung<br/></li><li>bei Nichtgebrauch platzsparend zusammenfaltbar</li><li>inklusive Tragetasche, Stangen, Heringe und Spannseile</li></ul>"
+}

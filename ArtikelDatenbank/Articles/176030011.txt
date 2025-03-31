@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>hohe Vielseitigkeit</li><li>einfache Handhabung</li><li>robust und langlebig</li><li>organisierte Aufbewahrung</li><li>für den Innenbereich</li></ul>"
+}

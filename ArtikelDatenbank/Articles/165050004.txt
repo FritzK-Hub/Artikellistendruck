@@ -1,0 +1,4 @@
+{
+    "uvp": 2.89,
+    "attributes": "<ul><li>Schraubklemme für Drahtseile</li><li>aus Aluminium</li><li>geeignet für Drahtseile von 4 bis 6 mm</li><li>klemmt Drahtseile bis 6 mm</li><li>geringes Gewicht, ca. 15 g</li></ul>"
+}

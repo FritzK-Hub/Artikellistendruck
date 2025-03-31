@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Steckdosenadapter 3-fach für innen</li><li>aus stabilem, weißem Kunststoff gefertigt </li><li>bestehend aus zwei Eurostecker und einem Schutzkontaktstecker </li><li>ideal zur Erweiterung der einfachen Steckdose</li><li>ermöglicht es mehre Geräte gleichzeitig mit Strom zu versorgen<br/></li></ul>"
+}

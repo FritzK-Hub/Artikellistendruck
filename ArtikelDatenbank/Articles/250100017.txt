@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Eiskratzer mit weichem Softgriff</li><li>aus stabilem Kunststoff</li><li>rutschfester und flexibler Griff</li><li>mit Eisbrecher-Zähnen</li><li>besitzt eine Aufhängöse</li></ul>"
+}

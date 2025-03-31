@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Steckdose mit Ein/Aus Schalter</li><li>Steckdose einfach für Schutzkontaktstecker</li><li>stromsparende Wirkung; kein Standby mehr</li><li>das lästige Einstecken und Herausziehen des Steckers entfällt</li><li>beleuchteter Schalter</li></ul><p><br/></p>"
+}

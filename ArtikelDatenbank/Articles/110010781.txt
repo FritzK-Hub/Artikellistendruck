@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Gleitmittel für HT-Innenentwässerung</li><li>gute Schmiereigenschaft</li><li>gebrauchsfertig </li><li>für KG-Kanalrohre geeignet</li><li>Tube mit 150 ml Inhalt</li></ul>"
+}

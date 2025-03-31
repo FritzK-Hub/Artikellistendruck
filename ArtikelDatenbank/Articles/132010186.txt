@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Halsband in der Größe XS – S </li><li>aus geflochtenem Nylon gefertigt</li><li>passendes Accessoire für dein Haustier</li><li>stufenlos verstellbar für genauere Anpassungen</li><li>für kleine Haustiere geeignet<br/></li></ul>"
+}

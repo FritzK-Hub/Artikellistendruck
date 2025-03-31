@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>flexibles Schleifvlies ideal bei unebenen Flächen</li><li>präziser Grobschliff mit 100er Körnung</li><li>optimal für Lackierarbeiten an Fahrzeugen</li><li>handlich, einfach und vielseitig anwendbar</li><li>effizientes Schleifen auf verschiedensten Materialien</li></ul><p></p>"
+}

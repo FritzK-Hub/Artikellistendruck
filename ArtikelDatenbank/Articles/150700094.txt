@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Doppel-Türhakenset aus massivem Edelstahl</li><li>sorgt für mehr Ordnung im Eingangsbereich oder Bad</li><li>einfaches befestigen ganz ohne Bohren</li><li>zur Befestigung von kleineren Gegenständen oder Handtücher</li><li>gummierte Innenseite schützt die Tür vor Kratzer<br/></li></ul>"
+}

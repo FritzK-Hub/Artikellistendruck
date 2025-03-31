@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Schneidebrett-Set aus Bambus </li><li>besonders widerstandsfähig und langelebig</li><li>sehr robust und formstabil</li><li>aus nachhaltigem, schnellwachsendem Rohstoff</li><li>Kunstleder Schlaufe zum Aufhängen<br/><br/></li></ul>"
+}

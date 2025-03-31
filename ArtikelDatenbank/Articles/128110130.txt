@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>runde Nestschaukel in Schwarzgrün, Ø 100 cm</li><li>2 höhenverstellbaren Seile</li><li>optimaler Sitzkomfort </li><li>hohe Wetterbeständigkeit</li><li>maximale Traglast von bis zu 100 kg<br/></li></ul>"
+}

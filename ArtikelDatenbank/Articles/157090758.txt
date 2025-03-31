@@ -1,0 +1,4 @@
+{
+    "uvp": 13.29,
+    "attributes": "<ul><li>hochwertige Qualität</li><li>vielseitige Anwendung</li><li>effizienter Verbrauch</li><li>optimale Haftung</li><li>professionelle Ergebnisse</li></ul>"
+}

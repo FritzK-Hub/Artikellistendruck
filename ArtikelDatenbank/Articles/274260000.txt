@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>schlanker und ergonomischer 2-Komponenten-Griff</li><li>ermöglicht präzise Schnitte</li><li>hohe Schnittleistung bei geringem Kraftaufwand</li><li>polierter Werkzeugkopf</li><li>gehärtete Schneiden</li></ul>"
+}

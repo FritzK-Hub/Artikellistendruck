@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>intensive und porentiefe Einfärbung von Hart- und Weichhölzern</li><li>besonders für grobporige Weich- und Harthölzer ideal geeignet<br/></li><li>in praktischer 250 ml Flasche für 1,5 qm Fläche ausreichend</li><li>hebt die Porenstruktur wirkungsvoll hervor</li><li>geeignet zum Rollen oder Streichen</li></ul><p></p>"
+}

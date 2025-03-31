@@ -1,0 +1,4 @@
+{
+    "uvp": 99.0,
+    "attributes": "<ul><li>professioneller Ratschenkasten, 94-teilig</li><li>Industriequalität, alle Teile aus Chrom-Vanadium-Stahl, die Biteinsätze aus S2-Stahl</li><li>zwei feinverzahnte Ratschen mit ergonomischem, rutschfestem Griff und Schnell-Löser</li><li>Steckschlüsseleinsätze in \"Super Lock\"-Ausführung (Wellenprofil) - 15% größere Kraftübertragung</li><li>in einem praktischen Kunststoff-Aufbewahrungskoffer</li></ul>"
+}

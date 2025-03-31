@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Duschablage 25 x 11 x 4 cm aus verchromtem ABS-Kunststoff</li><li>für Duschstangen mit einem Durchmesser von 18 – 25 mm</li><li>ideal für die Aufbewahrung von Dusch-Accessoires</li><li>Ablagefläche mit ausreichend Stauraum</li><li>Lieferung inklusive Montagezubehör</li></ul>"
+}

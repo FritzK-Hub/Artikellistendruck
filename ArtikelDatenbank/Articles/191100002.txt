@@ -1,0 +1,4 @@
+{
+    "uvp": 349.0,
+    "attributes": "<ul><li>rechteckiger XXL Pool aus robustem PVC-Polyestergewebe</li><li>leichter und schneller Auf- und Abbau ohne Werkzeug</li><li>Stahlrohrkonstruktion mit Korrosionsschutz-Beschichtung</li><li>Ablassventil zum Anschluss eines Wasserschlauches</li><li>Filterpumpe und Sicherheitsleiter mit inklusive</li></ul>"
+}

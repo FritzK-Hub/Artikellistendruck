@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>wasserabweisende, atmungsaktive Kinderpflaster </li><li>verkleben nicht mit der Wunde </li><li>schützen vor Verunreinigungen</li><li>hautfreundliche und luftdurchlässige Wundpflaster</li><li>können individuell zugeschnitten werden</li></ul>"
+}

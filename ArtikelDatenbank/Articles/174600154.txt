@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>wasserabweisendes Material</li><li>modernes, zeitloses Design</li><li>leichte Installation</li><li>hygienisch und pflegeleicht</li><li>beeindruckende Maße<br/><br/></li></ul>"
+}

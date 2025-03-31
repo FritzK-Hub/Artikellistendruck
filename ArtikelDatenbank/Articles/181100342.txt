@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>lang anhaltende Blütenpracht bis November</li><li>winterhart und mehrjährig für dauerhafte Freude</li><li>farbenfroher Blickfang im Spätherbst</li><li>pflegeleicht und vielseitig einsetzbar</li><li>ideal für sonnige bis halbschattige Bereiche</li></ul>"
+}

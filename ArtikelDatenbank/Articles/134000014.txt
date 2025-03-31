@@ -1,0 +1,4 @@
+{
+    "uvp": 179.0,
+    "attributes": "<ul><li>fahrbarer Kompressor 24 Liter von GERMANIA®</li><li>1-Zylinder-Kolbenkompressor, ölfrei</li><li>ideal zum Schleifen, Nageln/Klammern, Bohren oder Schrauben</li><li>mit gummierten Räder für den leichteren Transport versehen</li><li>inlusive Druckminderer und Schnellkupplung<br/></li></ul>"
+}

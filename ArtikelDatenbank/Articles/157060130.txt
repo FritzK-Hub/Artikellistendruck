@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>neutrales Spezial Waschbenzin</li><li>eignet sich aufgrund des hohen Lösevermögens hervorragend für Säuberungsarbeiten</li><li>auch als Löt-, Feuerzeug-, Katalyt- und Waschbenzin geeignet</li><li>löst lackierte Flächen nicht an</li><li>milder Geruch und schnellflüchtig</li></ul>"
+}

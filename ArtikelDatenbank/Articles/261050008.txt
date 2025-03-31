@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul> <li><strong>Dübel </strong>mit Senkopf aus verzinktem Stahl</li> <li>für verschiedene Holzkonstruktionen durch Durchsteckmontage geeignet</li> <li>durch Kreuzschlitzbefestigung ist eine einfache Nachmontage möglich</li> <li>freistehende Spitze für eine zielgenaue Ausführung</li> <li>die Stoßsicherung sorgt dafür, dass der Dübel sich nicht zu früh öffnet</li></ul>"
+}

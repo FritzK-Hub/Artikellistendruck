@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Spezial-Innendispersionsfarbe für Bad und Küche</li><li>mit vorbeugendem Filmschutz gegen Schimmelpilzbefall</li><li>hohe Deckkraft und hoher Weißgrad matt</li><li>waschbeständig und diffusionsfähig</li><li>Kenndaten nach DIN EN 13300</li></ul>"
+}

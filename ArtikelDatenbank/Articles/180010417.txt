@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Starthilfekabel 16 mm² mit Überspannungsschutz</li><li>für Benzinmotoren bis 2500 ccm Hubraum</li><li>Überbrückungskabel mit voll isolierten Polklemmen</li><li>Leitermaterial kupferbeschichteter Aluminium-Kern</li><li>resistent gegen Öl, Benzin und Säure</li></ul>"
+}

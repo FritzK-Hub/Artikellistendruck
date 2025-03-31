@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>zum Anschließen eines Gartenschlauches am Wasserhahn</li><li>besonders langlebig und robust, aus stabilem Kunststoff gefertigt</li><li>einfach in der Handhabung, dank spezieller Form des Wasserhahnanschlusses</li><li>ermöglicht eine einfache, problemlose Benutzung mit 1\" Schläuchen</li><li>lässt sich problemlos ohne Werkzeug montieren<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>ideales Stützelement für Sträucher und Stauden</li><li>aus robustem Stahldraht im unauffälligen Grün</li><li>bietet den weichen Stielen einen sicheren Halt</li><li>witterungsbeständig durch Kunststoffummantelung</li><li>lässt sich leicht in die Erde einbringen<br/></li></ul>"
+}

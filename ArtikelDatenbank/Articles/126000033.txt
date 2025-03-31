@@ -1,0 +1,4 @@
+{
+    "uvp": 249.95,
+    "attributes": "<ul><li>hohe Leistung für schnelle Mähergebnisse</li><li>großer Auffangbehälter für weniger Unterbrechungen</li><li>kompakt, wendig - gute Manövrierbarkeit</li><li>selbstfahrend durch Antriebsräder</li><li>einstellbare Schnitthöhe</li></ul>"
+}

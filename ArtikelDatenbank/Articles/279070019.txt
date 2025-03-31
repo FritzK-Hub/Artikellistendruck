@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>aus reißfestem Polyester</li><li>mit Trageschlaufe</li><li>mit Reißverschluss</li><li>universal passend bis Schwertlängen von maximal 45 cm</li><li>für Schutz und Transport</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>lässt alte Pflastersteine wie Neu aussehen</li><li>die natürliche Struktur des Untergrundes bleibt erhalten</li><li>langanhaltender Schutz</li><li>ideal zum Auffrischen des Farbtons verblasster Pflastersteine</li><li>dringt in den Untergrund ein</li></ul>"
+}

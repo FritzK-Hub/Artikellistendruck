@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>4 Fliegenfänger zum Aufhängen</li><li>Fliegen bleiben am Streifen kleben</li><li>verwendbar in allen geschlossenen Räumen</li><li>wirkt effektiv</li><li>Biozidfrei und Insektizidfrei, da reine Klebefallen</li></ul>"
+}

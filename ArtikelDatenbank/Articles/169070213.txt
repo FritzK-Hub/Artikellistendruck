@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>2 Sicherheitstürzylinder</li><li>beidseitig abschließbar</li><li>mit 5 Schlüsseln je Zylinder</li><li>Schließzylinder gleichschließend</li></ul>"
+}

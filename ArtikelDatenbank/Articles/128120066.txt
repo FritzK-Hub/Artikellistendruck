@@ -1,0 +1,4 @@
+{
+    "uvp": 1799.95,
+    "attributes": "<ul><li>Multifunktionsbank Pandora Black mit einer Vielfalt an Kombinationsmöglichkeiten</li><li>Garnitur bestehend aus einem 3-Sitzer Sofa und zwei Hocker mit Glasplatte</li><li>einsetzbar als Lounge-Ecke oder als gemütliche Liefermöglichkeit für Zwei mit Abstelltisch</li><li>die Hocker lassen sich als Sitzgelegenheit oder als Loungetische verwenden</li><li>inklusive Polstern und Rückenkissen, wasserabweisend in dunkelrau<br/></li></ul>"
+}

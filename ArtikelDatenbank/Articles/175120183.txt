@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>umhüllte Stabelektroden mit guten Zündeigenschaften</li><li>zum Verbinden von niedriglegiertem Stahl</li><li>für alle Schweißpositionen</li><li>auch fallend zu verschweißen</li><li>vielfältig einsetzbar<br/></li></ul>"
+}

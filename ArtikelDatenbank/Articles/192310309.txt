@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Dachrinnenhaken-Set 50 Stück aus Kunststoff, transparent</li><li>zum Befestigen von Lichterketten an Dachrinnen</li><li>einfaches und schnelles Anbringen an die Rinne</li><li>sicherer Halt, ohne selbst in den Vordergrund zu rücken</li><li>können nach Gebrauch wiederverwendet werden<br/></li></ul>"
+}

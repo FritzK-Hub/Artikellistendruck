@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>leistungstarker Akku-Multitool 20 V zum Schleifen, Schaben oder Trennen</li><li>mt Schnellwechselsystems für schnelles Wechseln der Werkzeuge<br/></li><li>ermöglicht uneingeschränkte Mobilität ohne lästige Kabel</li><li>integriertes Staubabsaugungssystem für einen stets sauberen Arbeitsplatz</li><li>inklusive verschiedene Aufsätze, Schleifpapier und Garantie<br/></li></ul>"
+}

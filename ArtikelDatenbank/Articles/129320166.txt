@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>intensive Aromen</li><li>vielseitige Verwendung</li><li>robuste Anbauvoraussetzungen</li><li>kompakte Wuchsform</li><li>natürliche Bienenweide<br/></li></ul>"
+}

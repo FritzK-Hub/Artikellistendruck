@@ -1,0 +1,4 @@
+{
+    "uvp": 14.49,
+    "attributes": "<ul><li>Sichtkontrolle der korrekten Leiterposition</li><li>zum schnellen und praktischen Verbinden</li><li>Steckklemmen für eindratige Leiter</li><li>aus hochwertigem Kunststoff</li><li> Betätigungshebel einzeln lösbar</li></ul>"
+}

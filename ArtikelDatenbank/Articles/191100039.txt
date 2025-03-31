@@ -1,0 +1,4 @@
+{
+    "uvp": 109.95,
+    "attributes": "<ul><li>einfach aufstellbar, ohne Werkzeug</li><li>aus robustem und reißfestem Tritech-Material</li><li>sehr langlebig und strapazierfähig</li><li>platzsparend einzulagern</li><li>inklusive Filterpumpe, Filterkartusche und Reparaturflicken<br/></li></ul>"
+}

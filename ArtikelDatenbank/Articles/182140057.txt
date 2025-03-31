@@ -1,0 +1,4 @@
+{
+    "uvp": 3.69,
+    "attributes": "<ul><li>Fahrrad Sattelkloben für Rundgestell</li><li>zur Montage des Sattels</li><li>winkelverstellbar</li><li>individuelle Einstellung der Sitzneigung</li><li>inkl. Befestigung</li></ul>"
+}

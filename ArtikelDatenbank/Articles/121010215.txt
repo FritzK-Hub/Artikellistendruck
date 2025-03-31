@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Bleistifte mit Radiergummi</li><li>3 Stück im Set</li><li>Härtegrad HB - mittel</li><li>umweltfreundlich</li><li>Bleistift in 6-kant Form</li></ul>"
+}

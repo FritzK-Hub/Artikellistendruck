@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>Staubmaske im 3er Set</li><li>aus Filtervlies mit Gummizug</li><li>für den einmaligen Gebrauch</li><li>Schutzklasse FFP1</li><li>entspricht EN149:2001+A1:2009</li></ul>"
+}

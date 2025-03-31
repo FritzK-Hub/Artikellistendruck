@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>intensive und porentiefe Einfärbung von Hart- und Weichhölzern</li><li>Farbtöne sind untereinander mischbar, für individuelle Farbauswahl</li><li>mit allen Clou-Lacken überlackierbar, für hohe Beständigkeit und Haltbarkeit</li><li>in praktischer 250 ml Flasche für 1,5 qm Fläche ausreichend</li><li>geeignet zum Rollen oder Streichen<br/></li></ul>"
+}

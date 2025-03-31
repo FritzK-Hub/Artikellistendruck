@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>Bankkissen für Gartenbänke</li><li>sehr weich, bietet hohen Sitzkomfort</li><li>wasserabweisend</li><li>mit Reißverschluss, waschbar bei 40° Grad</li><li>verfügt über Bänder zum Befestigen<br/></li></ul>"
+}

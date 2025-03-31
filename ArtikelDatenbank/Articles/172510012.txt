@@ -1,0 +1,4 @@
+{
+    "uvp": 19.49,
+    "attributes": "<ul><li>3 m CAT-6 Netzwerkkabel</li><li>für alle Arten von Netzwerken geeignet</li><li>zu empfehlen für VDSL-Internet </li><li>Ethernet-Datenübertragung von bis zu 1000 Mbit/s</li><li>mechanisch extrem belastbar</li></ul>"
+}

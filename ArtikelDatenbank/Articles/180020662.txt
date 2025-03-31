@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Perlschlauch zur sparsamen, sanften und gezielten Bewässerung</li><li>gleichmäßige Bewässerung auf ganzer Schlauchlänge</li><li>Verlegung überirdisch oder unterirdisch</li><li>bis zu 70% Wassereinsparung</li><li>Tropfmenge über Wasserdruck regulierbar</li></ul><ul><p><br/></p></ul>"
+}

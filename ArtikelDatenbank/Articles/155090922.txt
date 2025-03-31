@@ -1,0 +1,4 @@
+{
+    "uvp": 13.68,
+    "attributes": "<ul><li>Kontrollwechselschalter inkl. Kunststoffwippe in Maron</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>passt in viele Raumgestaltungskonzepte</li><li>zur Unterputzmontage in der Schalterdose (min. 45mm Tiefe)</li><li>nur in Kombination mit Rahmen der REV-Serie Trend zu verwenden</li><li>unterschiedliche Nutzungen der Kontrollleuchte möglich:<ul><li>die Glimmlampe leuchtet beim eingeschalteten Verbraucher (3-Draht-Technik)</li><li>die Glimmlampe leuchtet als Orientierungslicht, wenn der Verbraucher ausgeschaltet ist (2-Draht-Technik)</li></ul></li></ul><p></p>"
+}

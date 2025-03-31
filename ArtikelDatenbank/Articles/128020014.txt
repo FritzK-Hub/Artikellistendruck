@@ -1,0 +1,4 @@
+{
+    "uvp": 44.9,
+    "attributes": "<ul><li>automatischer Dachlüfter von Vitavia</li><li>stromlos und ohne großen Aufwand montierbar</li><li>wetterfest mit Alu-Zink Beschichtung</li><li>für eine optimale Temperaturregulierung im Gewächshaus</li><li>Hebekraft von bis zu 7 kg</li></ul><p></p>"
+}

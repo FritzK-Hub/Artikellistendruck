@@ -1,0 +1,4 @@
+{
+    "uvp": 7.19,
+    "attributes": "<ul><li>Kreuzschalter der Serie LeMans aus Kunststoff in Ultraweiß</li><li>Anwendung für mehr als zwei Schaltstellen</li><li>vielseitig in Fluren oder im Keller einsetzbar</li><li>zur Unterputz-Installation im Innenbereich</li><li>integrierte Steckklemmen erleichtern die Montage<br/></li></ul>"
+}

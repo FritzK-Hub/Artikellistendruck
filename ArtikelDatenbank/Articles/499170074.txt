@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Durchmesser Kopf (dk): ca. 24,0mm</li><li>Höhe Kopf (k): ca. 5,0mm</li><li>​Vierkanthöhe (f): ca. 5,5mm</li><li>Vierkantbreite (v): ca. 10,0mm</li><li>Gewindelänge (b): 30mm</li></ul>"
+}

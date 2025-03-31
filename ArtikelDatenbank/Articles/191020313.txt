@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>4er-Angelposen-Set mit Schnur und Haken</li><li>für ruhige Gewässer</li><li>für den Ein- und Auslaufbereich von Seen</li><li>geeignet für Friedfischer und Räuber</li><li>aus langlebigen Kunststoff gefertigt<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Lenkergriffe Relax</li><li>Fahrradgriffe mit ergonomischer Form</li><li>mit breiter Handauflage an der Seite</li><li>entlastet und schont Handflächen und -gelenke</li><li>mit einem Innendurchmesser von ca. 22 mm</li></ul>"
+}

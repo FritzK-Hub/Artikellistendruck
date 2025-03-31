@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>ausreichend Platz für deine Lieblingsfotos</li><li>in einem modernen und stilvollen Design<br/></li><li>passt perfekt zu jedem Einrichtungsstil</li><li>aus stabilem Kunststoff gefertigt mit 6 Einteilungen</li><li>ein perfektes Geschenk für Freunde und Familie</li></ul>"
+}

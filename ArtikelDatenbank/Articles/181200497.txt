@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Buschbohnen Purple Teepee</li><li>blauviolette, runde bis 15 cm lange Hülsen</li><li>eignen sich ausgezeichnet für Gemüse und Salat</li><li>Probefeldgetestete Qualität</li><li>mittelspäte und robuste Sorte ohne Fäden<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Abflussreiniger „Drain Buster“ mit integrierter Pumpe</li><li>entfernt Verstopfungen mit Hilfe von Druckluft</li><li>einfach per Pumpprinzip den Luftdruck aufbauen und mit dem Abzug freilassen</li><li>ideal für Abflüsse in der Dusche, Badewanne oder Waschbecken</li><li>inklusive eines WC-Stutzen für den Toiletten-Abfluss<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>stabile Verarbeitung</li><li>EG Genehmigung</li><li>runder Anschluss</li><li>geeignet für 50 mm Kupplungskugeln</li><li>in weiteren Größen erhältlich<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Drehmomentschlüssel mit 1/2“ Vierkant-Antrieb und 2 Stecknüssen</li><li>zum präzisen Anziehen von Radschrauben </li><li>aus massivem Chrom-Vanadium-Stahl gefertigt</li><li>mit einstellbarem Drehmomentbereich von 28 bis 210 Nm</li><li>einfacher Transport und platzsparende Aufbewahrung im Koffer<br/></li></ul>"
+}

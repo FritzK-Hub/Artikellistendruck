@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>für Flaschen bis 190 bar Prüfdruck und 210 g Füllgewicht bei CO2, 60 bar bei verdichteten Gasen</li><li>mit Manometer für den Überblick des Drucks</li><li>vielseitiges Hilfstool für die Gastronomie oder Industrie</li><li>Eingang-Anschluss mit M 10 x 1 Gewinde für eine stabile Verbindung</li><li>spezielle Ausgangs-Kupplung für Schläuche mit Ø 4 mm Durchmesser<br/></li></ul>"
+}

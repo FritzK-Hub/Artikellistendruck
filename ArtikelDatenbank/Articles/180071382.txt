@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>nützlicher Korb mit stabilen Griffen </li><li>geringes Eigengewicht</li><li>aus flexiblem Kunststoff</li><li>praktisches Hilfsmittel für innen und außen</li><li>flexibel einsetzbar, je nach Bedarf<br/></li></ul>"
+}

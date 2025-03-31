@@ -1,0 +1,4 @@
+{
+    "uvp": 7.29,
+    "attributes": "<ul><li>8-teiliges Abbrechmesser- und Klingenset</li><li>Messer mit Kunststoffkorpus und Metallführung</li><li>inkusive Abbrechklingen 9 und 18 mm</li><li>Material Führung: Metall</li><li>auschiebbar</li></ul>"
+}

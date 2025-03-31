@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Gärtnerspaten mit gerader Einstechkante </li><li>zuverlässiges Werkzeug für schwierige Grabarbeiten</li><li>zum Ausgraben, Einpflanzen und Entfernen von Wurzeln</li><li>integrierter Trittschutz verhindert Schäden am Schuhwerk</li><li>Holzstiel mit T-Griff sorgt für sicheren Halt <br/></li></ul>"
+}

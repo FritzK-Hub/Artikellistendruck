@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>LED-Leuchtstoffröhre G13 Sockel</li><li>Lichtfarbe neutralweiß</li><li>große Energieeinsparung gegenüber Standard-Leuchtstofflampen</li><li>ermüdungsfreies Arbeiten durch flimmerfreies Licht</li><li>sofort die volle, optimale Lichtausbeute nach dem Einschalten<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 849.95,
+    "attributes": "<ul><li>4-Takt OHV Powerengine Motor</li><li>150 Liter Laubfangsack</li><li>Saug-, Blas-, Kehr- und Häckselfunktion</li><li>leichtes Fahren auf unebenen Flächen</li><li>580 mm Arbeitsbreite, verstellbare Saughöhe</li></ul>"
+}

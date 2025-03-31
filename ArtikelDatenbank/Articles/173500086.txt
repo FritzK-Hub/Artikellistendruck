@@ -1,0 +1,4 @@
+{
+    "uvp": 25.99,
+    "attributes": "<ul><li>LED-Solarwandbeleuchtung für außen mit Dämmerungsensor</li><li>besonders langlebig und widerstandsfähig, aus schwarzem Kunststoff</li><li>12 SMD-LEDs sorgen stets für eine klare Sicht </li><li>lässt sich schnell und einfach an der gewünschten Stelle befestigen</li><li>Bewegungssensor von 5-8 m Reichweite bietet mehr Sicherheit</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.0,
+    "attributes": "<ul><li>Heliumflasche mit 7,1 Liter Inhalt</li><li>das nicht brennbare Gas reicht für bis zu 30 Ballons</li><li>nach Aufdrehen des Schraubventils entweicht kein Gas</li><li>präzises Befüllen durch Knickventil</li><li>leichtes Befüllen von Ballons<br/></li></ul>"
+}

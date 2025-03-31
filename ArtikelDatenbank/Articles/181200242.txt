@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Radieschen Eiszapfen</li><li>weiß mit leicht grünem Kopf</li><li>Radieschen mit zartem, feinem Geschmack</li><li>Probefeldgetestete Qualität</li><li>bestens geeignet zum Rohverzehr oder für Salate</li></ul>"
+}

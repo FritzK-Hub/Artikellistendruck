@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Saatgut Partytomate Sweet Million F1 für ca. 15 Pflanzen</li><li>mit runden, bis zu ca. 50 g schweren Früchten</li><li>eine ertragreiche Tomatensorte mit hohem Vitamingehalt</li><li>für den Anbau auf dem Freiland oder unter dem Glas</li><li>ideal für den Frischverzehr oder zur Garnierung<br/></li></ul>"
+}

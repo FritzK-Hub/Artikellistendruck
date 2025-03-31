@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Acrylfarbe auf Wasserbasis</li><li>für verschiedene Techniken und Untergründe</li><li>äußerst vielseitig verwendbar</li><li>schnelltrocknend</li><li>besonders strahlende Farbe</li></ul>"
+}

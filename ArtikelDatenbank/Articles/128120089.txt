@@ -1,0 +1,4 @@
+{
+    "uvp": 699.0,
+    "attributes": "<ul><li>robustes Flachstahlgestell für maximale Stabilität</li><li>hochwertige Robinienholzbelattung zur langlebigen Nutzung</li><li>mit platzsparender Klappfunktion der Stühle</li><li>großzügige Maße des Tisches für gesellige Zusammenkünfte</li><li>ästhetisches Design in dunkelgrüner Pulverbeschichtung<br/></li></ul>"
+}

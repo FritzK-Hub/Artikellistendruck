@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Dichtband mit E-Profil 9 x 4 mm auf 6 m Rolle</li><li>aus UV- und witterungsbeständigem EPDM gefertigt</li><li>verhindert Zugluft, Lärm, Staub oder Kälte</li><li>für Fenster- und Türspalten mit einer Maße von 1 bis 3,5 mm</li><li>einfache Montage dank selbstklebendem Streifen<br/></li></ul>"
+}

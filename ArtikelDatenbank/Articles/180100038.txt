@@ -1,0 +1,4 @@
+{
+    "uvp": 13.49,
+    "attributes": "<ul><li>hochwertige Grundöle und Additive</li><li>ausgezeichnete Reinigungswirkung</li><li>erhöht die Schmierwirkung</li><li>geringer Verdampfungsverlust</li><li>vielseitig für Gartengeräte einsetzbar</li></ul>"
+}

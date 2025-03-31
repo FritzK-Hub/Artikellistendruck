@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>leicht zu bearbeitendes Pappelholz</li><li>für Bastelarbeiten, Laubsägearbeiten und Modellbau</li><li>glatte Oberfläche zum Bemalen, Bekleben, Lackieren</li><li>für saubere Schnitte</li><li>geeignet für Anfänger und erfahrene Bastler</li></ul>"
+}

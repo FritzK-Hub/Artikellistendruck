@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Schutzhelm in Universalgröße</li><li>aus stabilem HDPE-Polyethylen gefertigt</li><li>mit 6-Punkt-Aufhängung</li><li>inklusive Schweißband</li><li>angenehmer Tragekomfort<br/></li></ul>"
+}

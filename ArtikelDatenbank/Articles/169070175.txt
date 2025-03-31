@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>System mit speziellen Stiften erschwert Schlagschlüssel-Öffnung</li><li>sogar schon Schlagschlüssel-Einbruchs-Versuche sind nachweisbar</li><li>Drehknauf ersetzt innen den Schlüssel<br/></li><li>Nachfräsen ohne speziellen Schlüssel-Rohling bleibt wirkungslos</li><li>Nachschlüssel nur unter Angabe der Servicenummer (Servicekarte im Lieferumfang) beim Händler bzw. im Markt bestellbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 629.95,
+    "attributes": "<ul><li>Bautrockner für geschlossene Räume im Keller oder Baustellen</li><li>einfacher Transport und Standortwechsel</li><li>optimaler Einsatz für Raumgrößen von 50 - 120 m2</li><li>vollautomatische Frostschutzkontrolle</li><li>einstellbarer Hygrostat, hohe Luftumwälzung<br/></li></ul>"
+}

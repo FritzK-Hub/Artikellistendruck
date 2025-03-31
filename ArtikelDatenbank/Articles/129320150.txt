@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>aromatische Vielseitigkeit</li><li>unkomplizierte Pflege</li><li>gesundheitsfördernder Tee</li><li>natürlicher Sichtschutz und Insektenmagnet</li><li>nachhaltiger Anbau<br/><br/></li></ul>"
+}

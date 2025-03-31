@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Setz- und Eindrehwerkzeug aus massivem Metall</li><li>zum Eindrehen von Gipskartondübeln aus Kunststoff</li><li>einfaches einspannen im Akkuschrauber möglich</li><li>erleichtert somit die Montagearbeiten</li><li>einfaches Werkzeug mit effektiver Wirkung<br/></li></ul>"
+}

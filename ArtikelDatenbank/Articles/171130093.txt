@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>HSSG Spiralbohrer</li><li>zum Bohren des Kernlochmaßes beim Gewindeschneiden</li><li>Bohrer geeignet für Gußmetall, NE-Metall, Kunststoff, Eisen, Stahl</li><li>große Stabilität und Festigkeit</li><li>für professionelle und Hobbyheimwerker</li></ul>"
+}

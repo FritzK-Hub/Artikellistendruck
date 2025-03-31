@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>herausragendes farbloses Spezialöl</li><li>für die Pflege von Holzoberflächen</li><li>wasserabweisender Schutz</li><li>antistatische Wirkung</li><li>langanhaltende Schönheit<br/></li></ul>"
+}

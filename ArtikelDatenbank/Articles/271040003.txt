@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>SDS Dosenbohrer Bohrkrone von GERMANIA®</li><li>geeignet für Rohrdurchbrüche oder zum setzen von Unterputzdosen</li><li>Kernbohrer für Mauerwerk, Beton, Leichtbeton oder Naturstein</li><li>Hartmetall bestückte Dosenbohrer Bohrkrone</li><li>Förderwendel zur besseren Bohrmehlabfuhr</li></ul>"
+}

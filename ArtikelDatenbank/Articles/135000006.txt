@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>bietet Flexibilität und Leistung für präzises Löten</li><li>für mühelose Lötarbeiten dank 60 Minuten Betriebsdauer</li><li>integrierte LED-Leuchten zeigen Leistungs- und Heizstatus an</li><li>Softgrip-Gehäuse für angenehme Handhabung und komfortables Arbeiten</li><li>erreicht die Betriebsbereitschaft in bereits nur 45 Sekunden<br/></li></ul>"
+}

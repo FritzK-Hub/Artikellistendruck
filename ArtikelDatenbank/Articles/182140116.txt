@@ -1,0 +1,4 @@
+{
+    "uvp": 30.99,
+    "attributes": "<ul><li>Fahrradhelm Shadow in der Größe L/XL</li><li>passend für einen Kopfumfang von 55 - 61 cm</li><li>mit fester EPS-Innenschale und verstellbarem Innnenring-System</li><li>seine 16 Lufteinlässe sorgen für eine gute Belüftung</li><li>auch zum Inlineskaten oder Skateboarden verwendbar<br/></li></ul>"
+}

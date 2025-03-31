@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Ölmalpinsel-Set 5-teilig</li><li>für alle Lacke geeignet</li><li>Griff aus Holz, Zwinge aus Aluminium</li><li>gekochte Borsten, für feine Striche</li><li>auch für Aquarell, Hobby und Schule geeignet</li></ul>"
+}

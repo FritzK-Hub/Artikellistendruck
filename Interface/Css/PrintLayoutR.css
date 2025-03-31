@@ -14,7 +14,7 @@
 }
 
 * {
-    font-family: "GenericNormal", Sans-Serif;
+    font-family: Arial, Sans-Serif;
 }
 
 .bold-weight {
@@ -72,7 +72,7 @@
     left: 18mm;
     position: absolute;
     font-size: 13mm;
-    font-family: "GenericBold", Sans-Serif;
+    font-family: Arial, Sans-Serif;
     text-align: right;
 }
 

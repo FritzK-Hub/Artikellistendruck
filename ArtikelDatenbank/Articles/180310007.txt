@@ -1,0 +1,4 @@
+{
+    "uvp": 7.95,
+    "attributes": "<ul><li>Batavia Stützteller 150 mm</li><li>ideal für Polierhauben mit 150 mm Durchmesser</li><li>einfache Montage dank M8 Spindelgewinde</li><li>sorgt für gute Ergebnisse beim Polieren von lackiertem Blech</li><li>passendes Ersatz-Zubehör für die Batavia Exzenter Poliermaschine</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>FISHBULL PKW Sicherungssatz 100-teilig</li><li>verschiedene Sicherungsstärken von 2 bis 30 A<br/></li><li>inklusive Auszieher für schnellen Sicherungswechsel</li><li>farbige Kennzeichnung erleichtert die Auswahl</li><li>kompakte Box für Ordnung und Übersicht</li></ul>"
+}

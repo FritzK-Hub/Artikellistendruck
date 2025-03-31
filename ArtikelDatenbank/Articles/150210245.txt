@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Klappbox 48 x 35 x 23,5 cm mit 2 Griffen</li><li>aus recyceltem Kunststoff in schwarz gefertigt</li><li>zur Aufbewahrung von Wäsche oder Haushaltsutensilien</li><li>auch als Einkaufsbox oder für den Transport geeignet</li><li>bei Nichtgebrauch platzsparend zusammenklappbar</li></ul>"
+}

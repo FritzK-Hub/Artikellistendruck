@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Abdeckplane 2 x 3 m 150 g/m² in grün/schwarz</li><li>aus wetterbeständigem Bändchengewebe gefertigt</li><li>zum Abdecken von Dächern, Baumaterial oder Holz</li><li>auch als Wind-, Sonnen- oder Sichtschutz einsetzbar</li><li>mit stabilen Metallösen und gummierten Ecken versehen</li></ul>"
+}

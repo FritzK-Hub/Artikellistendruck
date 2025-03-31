@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>Rahmendübel mit Spezial-Holzschraube</li><li>geeignet für die Verwendung in weichen Baustoffen</li><li>zur Befestigung von Fassaden und Unterkonstruktionen</li><li>mit doppelter Spreizzone</li><li>optimale, zentrische Schraubenführung<br/></li></ul>"
+}

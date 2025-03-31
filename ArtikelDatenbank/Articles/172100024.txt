@@ -1,0 +1,4 @@
+{
+    "uvp": 129.89,
+    "attributes": "<ul><li>schnelle und einfache Montage ohne viel Aufwand</li><li>über Handy oder Tablet steuerbar</li><li>kann einfach mit dem bisherigen Heizkörperregler ausgetauscht werden</li><li>Heizzyklen lassen sich jederzeit flexibel anpassen</li><li>nahtlose Integration in verschiedener Smart-Home-Systeme</li></ul>"
+}

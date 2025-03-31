@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>stabile Unterstützung für kräftiges Pflanzenwachstum</li><li>unauffälliges Design bietet harmonisches Gesamtbild</li><li>wetterfest und langlebig im Garten und Haus</li><li>flexibel einsetzbar für verschiedene Pflanzenarten</li><li>praktisches Set mit 10 Stäben</li></ul>"
+}

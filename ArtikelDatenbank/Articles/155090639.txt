@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>5-aderige Herdanschlussleitung mit 2 m Länge</li><li>mit PVC-Ummantelung in Weiß und grün/gelb gekennzeichneten Schutzleiter</li><li>bereits anschlussfertig konfektioniert und mit Aderendhülsen versehen</li><li>zum Anschließen von mittleren, mechanischen Beanspruchungen im Haushalt</li><li>auch für Herde mit 3 x16 A Absicherung<br/></li></ul>"
+}

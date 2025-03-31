@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Dreifach-Arbeitsplatten Steckdosen für vielseitige Nutzung</li><li>zwei USB-Anschlüsse mit bis zu 2,1A Leistung</li><li>vielseitig in der Küche, Werkstatt oder Schlafzimmer einsetzbar</li><li>ideale Lösung für die Organisation der elektronischen Geräte</li><li>integrierte Touch-Schalter für die Beleuchtung erleichtert die Handhabung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>extrem starkes Kunstfaserseil</li><li>für Fahrzeuge bis 2500 kg</li><li>mit zwei starken Karabinern</li><li>großzügiger Sicherheitsbereich gegeben</li><li>inklusive roter Warnflagge und Gebrauchsanweisung<br/></li></ul>"
+}

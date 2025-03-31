@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>vielseitige Anwendungsmöglichkeiten</li><li>hohe Korrosionsbeständigkeit und Langlebigkeit</li><li>fest integrierte Einschraubschraube</li><li>einfache und schnelle Montage</li><li>robust, langlebig und widerstandsfähig<br/></li></ul>"
+}

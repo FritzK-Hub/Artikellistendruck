@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>Schleifstreifen Set 10 Stück mit K180</li><li>für Klemmbefestigung geeignet</li><li>überzeugt mit seiner Langlebigkeit und gleichmäßigem Schleifbild</li><li>ermöglicht dir eine mühelose Arbeit</li><li>für das Abschleifen von größeren Flächen bei Holz, Metall und Farbe<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Badminton Set 6-teilig in verschiedenen Farben</li><li>Set besteht aus zwei Schläger und drei Kunststoff-Federbällen</li><li>für den Spielspaß im Garten, am Strand oder beim Campen</li><li>trainiert die Hand-Augen-Koordination und Gleichgewicht der Kinder</li><li>bei Nichtgebrauch platzsparend in der Tragetasche verstaubar<br/></li></ul>"
+}

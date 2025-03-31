@@ -1,0 +1,4 @@
+{
+    "uvp": 368.95,
+    "attributes": "<ul><li>Luxuriöser 3 x 3 m Pavillon</li><li>wasserdichte Dachbespannung, PVC-beschichtet</li><li>Seitenteile aus Polyester </li><li>Stahlgestell aus Vierkant-Profil, schwarz pulverbeschichtet</li><li>witterungsbeständig</li></ul>"
+}

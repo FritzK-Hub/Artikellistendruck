@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Steinbohrer mit Hartmetallschneide</li><li>Bohrer geeignet für Mauerwerk, Beton, Dachziegel, Klinker oder ähnliche Materialien</li><li>hohe Industriequalität von GERMANIA® Qualitätswerkzeuge</li><li>große Stabilität und Festigkeit</li><li>für professionelle und Hobbyheimwerker</li></ul>"
+}

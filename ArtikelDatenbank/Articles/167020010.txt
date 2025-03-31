@@ -1,0 +1,4 @@
+{
+    "uvp": 179.0,
+    "attributes": "<ul> <li>Elektroseilzug zum Bewegen und Heben von Lasten bis 400 kg</li> <li>Seilzugkonsole aus pulverbeschichtetem Stahlblech</li> <li>Motor- und Getriebegehäuse aus Alu-Druckguss</li> <li>inklusive Lasthaken mit integrierter Umlenkrolle</li></ul>"
+}

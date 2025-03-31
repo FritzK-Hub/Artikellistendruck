@@ -1,0 +1,4 @@
+{
+    "uvp": 119.95,
+    "attributes": "<ul><li>aus strapazierfähigem EVA Kunststoff</li><li>mit Rundum-Reißverschluss zum kompletten Öffnen</li><li>elegant und funktionell zugleich</li><li>je ein Zahlenschloss für die Sicherheit</li><li>platzsparend ineinander verstaubar<br/></li></ul>"
+}

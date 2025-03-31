@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>WECK® Einmachglas 500 ml mit Deckel</li><li>eignet sich gut für Marmeladen, Kompott oder Konfitüre</li><li>geeignet für Spülmaschinen</li><li>schönes DIY-Geschenk für Freunde und Verwandte</li><li>inklusive Einmachring und Klammer zum besseren Schutz</li></ul>"
+}

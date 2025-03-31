@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>stabile Masseklemme verzinkt</li><li>für Kabelschuhanschluss M6</li><li>aus massivem Metall gefertigt</li><li>ohne Polverbindung mit Kupferband</li><li>für Elektroden- oder Schutzgasschweißgeräte<br/></li></ul>"
+}

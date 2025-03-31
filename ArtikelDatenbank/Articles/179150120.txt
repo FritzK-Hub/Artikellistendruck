@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>Elektrodenschweißgerät GE 145 von Güde</li><li>Gehäuse aus pulverbeschichtetem Stahlblech gefertigt</li><li>für kleine, bis mittlere Schweißarbeiten bei Materialstärken bis ca. 4mm</li><li>mit einstellbarem Schweißstrom und Thermoüberlastungsschutz ausgestattet</li><li>inklusive Schlackenhammer, Schweißkabel und Massekabel</li></ul>"
+}

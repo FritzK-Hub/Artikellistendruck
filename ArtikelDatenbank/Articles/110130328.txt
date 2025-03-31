@@ -1,0 +1,4 @@
+{
+    "uvp": 3.89,
+    "attributes": "<ul><li>1-reihige Regalsystem-Wandschiene aus pulverbeschichtetem Stahl</li><li>für 1-reihige Träger, Winkelträger, Kleiderträger und Bücherbügel</li><li>bis zu 55 kg / 20 cm belastbar, wenn alle Befestigungspunkte der Schiene fixiert werden</li><li>bis zu 27 kg / 20 cm belastbar, wenn jeder zweite Befestigungspunkt verschraubt wird</li><li>ideal zum Bau von Einzelregalen aus zwei Schienen + Regalböden<br/></li></ul>"
+}

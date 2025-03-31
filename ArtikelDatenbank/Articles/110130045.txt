@@ -1,0 +1,4 @@
+{
+    "uvp": 15.8,
+    "attributes": "<ul><li>stilvolles Design</li><li>hochwertige Materialien</li><li>vielseitige Anwendung</li><li>besonders langlebig</li><li>einfache Installation</li></ul>"
+}

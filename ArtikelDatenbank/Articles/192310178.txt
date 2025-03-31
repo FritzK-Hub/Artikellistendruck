@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>erweiterbare System-Lichterkette mit 100 LEDs</li><li>warmweiße LEDS, ca. 3 mm, mit grünem Kabel</li><li>mit Erweiterungsbuchse und Stecker </li><li>für innen und außen</li><li>ohne Transformator / Netzteil</li></ul>"
+}

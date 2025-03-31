@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>hochwertige Batterie in Erstausrüsterqualität</li><li>Ca/Ca Technologie für eine geringe Selbstentladung und für eine erhöhte Unfallsicherheit</li><li>höhere Kaltstartleistung als vergleichbare Batterien</li><li>integrierte Ladezustandsanzeige, für Ladespannung bis 15,2 Volt geeignet</li><li>100 % wartungsfrei, komplett verschlossen</li></ul>"
+}

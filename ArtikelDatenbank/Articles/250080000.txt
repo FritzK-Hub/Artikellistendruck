@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>einfache und schnelle Handhabung</li><li>mit doppeltem Kugelgelenk</li><li>ideal für schwer zugängliche Stellen</li><li>in alle Richtungen schwenkbar</li><li>gummierter, ergonomischer Griff mit Halteclip</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Handgrasschere mit Feststeller</li><li>tauchbeschichteter Griff<br/></li><li>lackierte Stahlklingen</li><li>ideal für den Schnitt an Mauern geeignet</li><li>für den letzten Schliff am Rasen</li></ul><p><br/></p>"
+}

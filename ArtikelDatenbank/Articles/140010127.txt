@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>zur gründlichen Reinigung von Pfannen, Töpfen oder Geschirr</li><li>löst grobe und feine Verschmutzungen oder hartnäckigen Verkrustungen</li><li>spezielle Scheuerseite aus Vlies erleichtert die Reinigung auf unempfindlichen Oberflächen</li><li>vielseitig gegen angebranntes Essen oder hartnäckiges Fett einsetzbar</li><li>einfach in der Handhabung, lässt sich nach Gebrauch leicht auswaschen<br/></li></ul>"
+}

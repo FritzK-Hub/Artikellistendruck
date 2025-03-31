@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li><em>Pflanzenroller</em> aus unbehandeltem Holz</li><li>große Zimmerpflanzen unkompliziert und schnell verschieben</li><li>für beinahe alle Bodenoberflächen geeignet</li><li>solide Ausführung und hohe Belastbarkeit</li><li>auch als Rollbrett oder Möbelroller für leichtere Möbel geeignet</li></ul>"
+}

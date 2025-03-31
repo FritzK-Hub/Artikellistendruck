@@ -1,0 +1,4 @@
+{
+    "uvp": 329.0,
+    "attributes": "<ul><li>PKW-Befahrbarkeits-Set</li><li>passend für Regenwasser-Flachtank</li><li>PKW-befahrbare Abdeckung aus Kunststoff</li><li>inklusive hohem Ausgleichsdom </li><li>für eine max. Radlast von 600 kg</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 74.95,
+    "attributes": "<ul><li>präzise Fräsarbeiten dank 2-Säulen Führung</li><li>anpassbare Drehzahlregulierung für vielseitige Anwendungen</li><li>beschichteter Standfuß für leichtes Gleiten auf der Arbeitsoberfläche</li><li>Spindelarretierung für einfachen und schnellen Fräserwechsel</li><li>staubfreies Arbeiten dank Absaugsystemanschluss<br/></li></ul>"
+}

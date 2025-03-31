@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>5 Schwerlast-Abfallsäcke auf Rolle </li><li>extra starke Ausführung</li><li>dehn- und widerstandsfähig gegen Risse</li><li>für höhere Belastungen ausgelegt</li><li>aus transparentem Polyethylen</li></ul>"
+}

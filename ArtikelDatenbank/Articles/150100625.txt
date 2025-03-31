@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>zur Verbindung von Zugrohr und Stützrad</li><li>für eine stabile und feste Verbindung</li><li>geeignet für Stützräder mit Ø48mm Rohr</li><li>für Rundrohrdeichseln von Ø 60 - 70 mm</li><li>stabile Vollmetallausführung<br/><br/></li></ul>"
+}

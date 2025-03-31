@@ -1,0 +1,4 @@
+{
+    "uvp": 6.35,
+    "attributes": "<ul><li>Gepäckschloss-Satz zur Sicherung von Gepäck</li><li>Messinggehäuse, Bügel aus Stahl</li><li>inklusive vier Schlüssel</li><li>kleine, praktische Größe</li><li>seitlich abschließbar<br/></li></ul>"
+}

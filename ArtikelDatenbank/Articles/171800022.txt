@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>vielseitiges Putzmittel, speziell für den Innenbereich</li><li>ideal zum Wischen und Putzen</li><li>mühelose Fleckenbeseitigung</li><li>zuverlässiger Klebstoffentferner</li><li>neutralisiert unangenehme Gerüche<br/></li></ul>"
+}

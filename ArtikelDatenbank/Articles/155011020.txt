@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>Druckbleistift im praktischen 2er-Set</li><li>integrierter Radiergummi </li><li>für präzises Schreiben und Malen</li><li>mit Strichstärken 0,5 mm und 0,7 mm</li><li>inklusive Ersatzminen in HB-Härtegrad </li></ul>"
+}

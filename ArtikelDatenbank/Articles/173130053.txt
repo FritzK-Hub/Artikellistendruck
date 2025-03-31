@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<p>- verchromt<br/>- polierte Köpfe<br/>- 8-9-10-12-13-14-17-19mm<br/></p>"
+}

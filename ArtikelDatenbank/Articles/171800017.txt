@@ -1,0 +1,4 @@
+{
+    "uvp": 8.55,
+    "attributes": "<ul><li>bewährtes, natürliches Anstrichmittel</li><li>aus reinem Leinöl gefertigt</li><li>zur Pflege und Langlebigkeit von Holz</li><li>zum Herstellen von Künstlerfarben</li><li>zuverlässigen Schutz vor Korrosion<br/></li></ul>"
+}

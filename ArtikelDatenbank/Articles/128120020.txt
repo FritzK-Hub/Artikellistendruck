@@ -1,0 +1,4 @@
+{
+    "uvp": 319.95,
+    "attributes": "<ul><li>Gartengarnitur Tobago 5 teilig</li><li>aus nachhaltigem, geöltem Akazienholz gefertigt</li><li>Set besteht aus einem Tisch und vier Klappstühlen</li><li>bietet ausreichend Platz für vier Personen</li><li>passende Sitzmöglichkeit bei der nächsten Feir oder Grillabend<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Flachwischer mit zwei Bezügen (glatt und flauschig)</li><li>für optimale Reinigung an schwer zugänglichen Stellen</li><li>sehr flach und extrem biegsam</li><li>verwendbar als praktisches Handgerät</li><li>mit Teleskopstiel aus stabilem Metallrohr<br/></li></ul>"
+}

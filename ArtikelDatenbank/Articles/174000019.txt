@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>Smartes WLAN-Heizkörperthermostat App-steuerbar von Hama</li><li>eingestellte Heizzyklen lassen sich jederzeit und überall anpassen</li><li>lässt sich auch über „Amazon Alexa“ oder „Google Assistant“ sprachsteuern</li><li>kann einfach mit dem bisherigen Heizkörperregler ausgetauscht werden</li><li>inklusive 2 x AA Batterien, Adapter-Set und Kurzbedienungsanleitung<br/></li></ul>"
+}

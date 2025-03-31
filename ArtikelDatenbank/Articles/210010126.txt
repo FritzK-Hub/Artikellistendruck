@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>zuverlässige Abwasserableitung für deine Küchenspüle</li><li>einfache Montage dank optimalem Durchmesser von 50 mm</li><li>verhindert effektiv unangenehme Gerüche in der Küche</li><li>hochwertiger Kunststoff für eine langfristige Nutzung</li><li>perfekt geeignet für Doppelspülen</li></ul><p></p>"
+}

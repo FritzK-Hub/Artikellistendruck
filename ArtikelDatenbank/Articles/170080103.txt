@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Handschleifer aus PU / Nylon</li><li>schneller Schleifpapierwechsel mit Klettverschluss</li><li>vielseitig einsetzbar, 125x70 mm Größe</li><li>ergonomisches Design für präzises Arbeiten</li><li>langlebig und zuverlässig</li></ul>"
+}

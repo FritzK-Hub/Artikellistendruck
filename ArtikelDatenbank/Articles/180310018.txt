@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>hochwertiger, gebrauchsfertiger Sommerscheibenreiniger von RobbyRob</li><li>problemlose Auflösung von Insektenresten und Fettrückständen</li><li>Lacke und Kunststoffe werden nicht angegriffen</li><li>polycarbonatverträglich und fächerdüsentauglich</li><li>mit erfrischendem Citrusduft<br/></li></ul>"
+}

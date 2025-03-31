@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Farbroller mit Lackierwalze</li><li>für alle Lacke</li><li>glatte Untergründe</li><li>gutes Oberflächenfinish</li><li>Lackierroller beidseitig rollend</li></ul>"
+}

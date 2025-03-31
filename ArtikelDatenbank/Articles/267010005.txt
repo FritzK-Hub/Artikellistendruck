@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Durchmesser Rolle: (Ø) ca. 50mm</li><li>Stärke Seil: (Ø) max. ca. 5mm</li><li>Gesamthöhe: ca. 12,2cm</li><li>Gesamtbreite: ca. 2cm</li><li>Gewindelänge: (L) ca. 30mm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Zierkürbis Kleinfrüchtige Mischung</li><li>nicht essbare Früchte in verschiedenen Formen</li><li>als Dekoration fürs Erntedankfest geeignet</li><li>kann an Zäunen oder Spalieren gut ranken</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

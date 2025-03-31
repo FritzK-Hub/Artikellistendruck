@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>vielseitige Aromen</li><li>kulinarische Kreativität</li><li>leichte Pflege</li><li>lange Blütezeit</li><li>geeignet für jeden Garten<br/></li></ul>"
+}

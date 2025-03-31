@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Blaue Malve für ca. 80 Pflanzen</li><li>ist mit farbkräftigen, violetten Blüten versehen</li><li>ideal zur Fassadenbegrünung oder als Windschutz</li><li>als Malventee gegen Entzündungen im Magen</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

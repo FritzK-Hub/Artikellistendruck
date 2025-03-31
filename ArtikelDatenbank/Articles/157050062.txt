@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Sprühlack zur Grundierung</li><li>ideal für Leuchtspray-Farben</li><li>bereitet den Untergrund ideal vor</li><li>geeignet für Holz, Metall, Dekorationsartikel u.v.m.</li><li>einfache Anwendung<br/></li></ul>"
+}

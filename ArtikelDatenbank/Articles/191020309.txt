@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>2-teiliges Angelposen-Set für ruhige Gewässer</li><li>für weite und zielgenaue Würfe</li><li>geräuscharmes Eintauchen</li><li>geeignet für z.B. Forellen</li><li>aus Kunststoff, bebleit<br/></li></ul>"
+}

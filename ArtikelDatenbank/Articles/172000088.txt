@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Abdeckrahmen 4-fach Monaco aus Kunststoff</li><li>klassisches Design mit weißer Oberfläche</li><li>passt sich jedem Wohnbereich an</li><li>ideal für Unterputz-Steckdosen, -Schalter und -Dimmer</li><li>waagerechte oder senkrechte Montagen möglich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.19,
+    "attributes": "<ul><li>universal Ölfilterschlüssel mit Stahlband</li><li>stabile Metallausführung</li><li>Einstellschraube, Spindel und Metallauflage</li><li>für schwer zugängliche Stellen</li><li>das Lösen von festsitzenden Ölfiltern wird vereinfacht</li></ul>"
+}

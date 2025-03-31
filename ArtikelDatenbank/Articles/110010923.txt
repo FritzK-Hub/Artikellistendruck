@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>temperaturbeständig bis 200°C</li><li>nicht brennbar</li><li>zur Ableitung von Küchenabluft</li><li>unterstützt die Förderleistung des Dunstabzuges </li><li>einfache Installation</li></ul>"
+}

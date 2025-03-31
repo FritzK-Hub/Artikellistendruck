@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>zur Befestigung von Blindnieten / Popnieten</li><li>vier verschiedene Mundstücke</li><li>mit bequemen Kunststoffgriff</li><li>inklusive Montageschlüssel zum Wechseln der Mundstücke</li></ul>"
+}

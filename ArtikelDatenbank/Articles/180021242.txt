@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Untersetzer Basecan in schwarz</li><li>aus schlagfestem Kunststoff gefertigt</li><li>erleichter das Unterstellen von Gießkannen</li><li>beständig gegen mechanische Beschädigungen</li><li>UV-beständig</li></ul>"
+}

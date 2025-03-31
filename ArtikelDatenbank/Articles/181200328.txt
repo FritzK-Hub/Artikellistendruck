@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Portion Saatgut für ca. 20 Pflanzen inklusive Stecketikett</li><li>gefüllte und halbgefüllte Bluten</li><li>rankend, als Bodendecker oder in Kästen und Kübel</li><li>leuchtende Blüten in gelben und roten Tönen</li><li>Blüten und junge Früchte sind essbar<br/></li></ul>"
+}

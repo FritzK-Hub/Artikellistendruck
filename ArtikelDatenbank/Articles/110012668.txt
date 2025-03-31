@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Klemmringverschraubung für Mehrschicht-Verbundrohr-Systeme (MVR)</li><li>extrem einfache, saubere und schnelle Montage ohne Spezialwerkzeug</li><li>für Trinkwasser- und Heizungs-Installation bis 95°C möglich</li><li>Übergang zu allen anderen Rohrsystemen möglich</li><li>wieder lösbare Verbindungen<br/></li></ul>"
+}

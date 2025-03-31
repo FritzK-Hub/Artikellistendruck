@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Messer-Set für die GERMANIA® Elektro-Motorhacke 1500W</li><li>robuste Messer für den Einsatz in kleineren Gärten</li><li>kompakte Bauweise, widerstandsfähig<br/></li><li>Arbeitsbreite 450 mm bei einer Tiefe von 220 mm</li><li>für die Neuanlage oder für die Vorbereitung zur Ausaat<br/></li></ul>"
+}

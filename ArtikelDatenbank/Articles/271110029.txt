@@ -1,0 +1,4 @@
+{
+    "uvp": 21.99,
+    "attributes": "<ul><li>SDS Flachmeißel<strong><br/></strong></li><li>Größe: 350 mm x 40 mm</li><li>für max Aufnahme</li><li>Meißel- und Abbruchabeiten</li><li>für Mauerwerk, Beton und losem Gestein</li><li>aus einem Stück Stahl geschmiedet</li><li>weiteres GERMANIA® Werkzeug finden Sie in unserem Shop!</li></ul>"
+}

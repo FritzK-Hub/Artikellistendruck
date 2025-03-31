@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Klebegummi 50 g selbsthaftend auf Kalkbasis<br/></li><li>wiederverwendbar und rückstandsfrei ablösbar</li><li>sparsam in der Anwendung</li><li>haftet auf fast allen glatten Untergründen</li><li>knetbarer Kleber zum Kleben, Füllen, Befestigen, Abdichten<br/></li></ul>"
+}

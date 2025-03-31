@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Coaxial-Entmanteler</li><li>aus robustem Kunststoff<br/></li><li>runde Form</li><li>mit 4 Klingen</li><li>für Antennenkabel von 4,8-7,5 mm</li></ul>"
+}

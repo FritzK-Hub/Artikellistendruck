@@ -1,0 +1,4 @@
+{
+    "uvp": 11.9,
+    "attributes": "<ul><li>Taster für Unterputz-Montage</li><li>klassisches Design mit mat-chromfarbener Oberfläche</li><li>mit Krallen- und Schraubbefestigung</li><li>z. B. zum Betätigen von Klingeln, Türöffnern, etc.</li><li>nur in Kombination mit Rahmen der Serie Arcada zu verwenden</li></ul>"
+}

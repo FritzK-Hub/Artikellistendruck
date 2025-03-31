@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>wollartige Weichheit</li><li>hautfreundlich und kratzfrei</li><li>pflegeleicht und formbeständig </li><li>einfache Handhabung</li><li>universelle Verwendbarkeit<br/></li></ul>"
+}

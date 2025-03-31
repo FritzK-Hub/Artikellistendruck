@@ -1,0 +1,4 @@
+{
+    "uvp": 6.59,
+    "attributes": "<ul><li>Vorhangschloss 40 mm mit hohem Bügel</li><li>Schlosskörper aus Messing gefertigt</li><li>auch für weiter auseinander liegenden Ösen geeignet</li><li>einfache Ausführung, einseitig verriegelt</li><li>inklusive 3 Schlüssel</li></ul>"
+}

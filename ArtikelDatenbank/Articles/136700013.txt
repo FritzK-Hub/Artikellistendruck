@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>schnelle Erkennung von versteckten Wasserschäden</li><li>ideal für Baustellen- und Outdoor-Einsätze</li><li>einfache Handhabung mit klarer Anzeige</li><li>robustes Gehäuse bietet lange Haltbarkeit</li><li>variable Messoptionen für unterschiedliche Materialien</li></ul>"
+}

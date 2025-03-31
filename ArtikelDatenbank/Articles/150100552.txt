@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Expanderseil mit 2 Würgeklemmen</li><li>aus schwarzem Gummi</li><li>textilummantelt</li><li>ideal für Anhängernetze und Planen</li><li>passende Rundknöpfe separat erhältlich</li></ul>"
+}

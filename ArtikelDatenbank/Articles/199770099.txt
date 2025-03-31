@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>10 Holzschrauben mit Teilgewinde im Set</li><li>mit Schlitz Antrieb</li><li>aus verzinktem Stahl</li><li>für Verbindungen von Metall und Holz Werkstücken</li><li>Holzschrauben mit Linsensenkkopf nach DIN 95<br/></li></ul>"
+}

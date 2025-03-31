@@ -1,0 +1,4 @@
+{
+    "uvp": 13.19,
+    "attributes": "<ul><li>2-Wege Verteilerstück aus Kunststoff</li><li>mit 2 Absperrhähnen</li><li>3/4\" Anschluss Innengewinde zur Installation an Wasserhahn oder Rohrleitung</li><li>2 x 1/2\" Anschlüsse für Stecksysteme</li><li>Ausgänge unabhängig voneinander stufenlos regulierbar<br/></li></ul>"
+}

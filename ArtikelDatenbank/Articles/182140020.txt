@@ -1,0 +1,4 @@
+{
+    "uvp": 18.49,
+    "attributes": "<ul><li>Fahrradkette 1/2 x 3/32 Zoll</li><li>für Fahrräder mit Kettenschaltung</li><li>Shimano und SRAM / Suntour kompatibel</li><li>inkl. wieder verschließbarem Verschlussglied</li><li>Kette mit 116 Glieder</li></ul>"
+}

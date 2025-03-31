@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Versandtaschen C5</li><li>ohne Fenster</li><li>Haftklebeverschluss mit Abdeckstreifen</li><li>10 Versandtaschen in Weiß</li><li>umweltfreundlich</li></ul>"
+}

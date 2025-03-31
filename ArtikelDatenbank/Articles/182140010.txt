@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>Fahrradkorb aus robustem Metallgitter</li><li>Schnellbefestigung mit Klicksystem</li><li>auch für viele E-Bikes geeignet</li><li>mit Verdreh- und Kippsicherung</li><li>Lenker-Korb mit Tragebügel</li></ul>"
+}

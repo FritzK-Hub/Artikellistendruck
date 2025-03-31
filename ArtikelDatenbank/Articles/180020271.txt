@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>zuverlässige Wasserabsaugung</li><li>mit VARIO-Verschraubungsanschluss</li><li>aus robusten Materialien</li><li>langlebige und sichere Verbindung</li><li>für stets sauberes Wasser<br/></li></ul>"
+}

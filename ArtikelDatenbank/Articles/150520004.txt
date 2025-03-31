@@ -1,0 +1,4 @@
+{
+    "uvp": 1.79,
+    "attributes": "<ul><li>Geschenkpapier mit Herzen</li><li>hochwertiges Material</li><li>eignet sich auch perfekt zum Basteln</li><li>zur Dekoration bei Geburtstagen und Partys</li><li>einseitig bedruckt, Grammatur ca. 60 g/m²</li></ul>"
+}

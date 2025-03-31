@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>hochwertige Gummi-Dichtung für WC-Spülkästen</li><li>zuverlässige Abdichtung und verhindert Wasseraustritt</li><li>Abustar-Qualität für Verlässlichkeit und Effizienz</li><li>robustes Material für lang anhaltende Leistung</li><li>passgenaue Maße: 62 x 31 x 2,2 mm<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Drahtbürste mit Stahldrahtborsten</li><li>idealer Helfer für Arbeiten im Trockenbau</li><li>zum Entfernen von Roststellen, Gipsresten oder Putz</li><li>4-reihige Anordnung für bessere Schmutzbeseitigung</li><li>stabiler Hartholzgriff für leichtere Handhabung</li></ul><p><br/></p>"
+}

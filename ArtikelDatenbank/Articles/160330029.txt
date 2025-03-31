@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>atmungsaktive Clogs für Herren aus Filz</li><li>in den Größen 36 – 45 und verschiedenfarbig erhältlich</li><li>gute Passform sorgt für angenehmen Tragekomfort</li><li>Material ist besonders wärmedämmernd</li><li>sorgen für warme Füße in der kalten Jahreszeit<br/></li></ul>"
+}

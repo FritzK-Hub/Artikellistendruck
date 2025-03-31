@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>haltbar und robust</li><li>besonders leistungsstark</li><li>komfortabler Griff</li><li>mit Einhandverschluss</li><li>kompakt und leicht</li></ul>"
+}

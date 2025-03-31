@@ -1,0 +1,4 @@
+{
+    "uvp": 7.07,
+    "attributes": "<ul><li>Hammer mit Kopf aus Hartgummigemisch</li><li>zylindrischer Kopf</li><li>ideal zum Verlegen von Fliesen</li><li>universell einsetzbar</li><li>Handgriff aus Holz</li></ul>"
+}

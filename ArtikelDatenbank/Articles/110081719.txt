@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>praktische Einhubpumpe</li><li>zum mühelosen Befüllen von Luftballons</li><li>handlich und leicht</li><li>stabile Ausführung</li><li>pumpt in eine Richtung</li></ul>"
+}

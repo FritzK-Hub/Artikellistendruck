@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li> HSS Spiralbohrersatz </li><li> Bohrer geeignet für Metalle </li><li> hohe Qualität, geschliffen, Schneidwinkel 118° </li><li> große Stabilität und Festigkeit </li><li> für Profis und Hobbyheimwerker</li></ul><p></p>"
+}

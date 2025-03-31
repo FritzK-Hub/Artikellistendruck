@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>ertragreiche Sorte</li><li>vielseitige Verwendung</li><li>leichte Pflege</li><li>einfache Überwinterung</li><li>gesund und Bienenfreundlich<br/></li></ul>"
+}

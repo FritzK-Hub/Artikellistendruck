@@ -1,0 +1,4 @@
+{
+    "uvp": 379.0,
+    "attributes": "<ul><li>mobile Klimaanlage CLATRONIC® CL 3672 3in1</li><li>für eine angenehme Kühle bis 70 m³</li><li>3in1 Funktion: Kühlen, Entfeuchten und Belüften</li><li>mit integriertem 24 Stunden-Timer und 2 herausnehmbaren Filtern</li><li>mobil, überall einsetzbar dank 4 leichtgängigen Rollen<br/></li></ul>"
+}

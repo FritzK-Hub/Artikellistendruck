@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Ersatztabletten für den Pooltester</li><li>zur Messung von pH-Werte und Chlor</li><li>mit schnelllöslichen Phenol Red Tabletten den pH-Wert</li><li>kann durch seine Chlortabletten den Chlorgehalt des Poolwassers bestimmen</li><li>in einer handlichen Aufbewahrugnschachtel</li></ul>"
+}

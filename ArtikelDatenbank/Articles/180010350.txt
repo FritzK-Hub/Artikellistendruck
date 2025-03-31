@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Beerenfrüchtedünger im 2,5 kg Beutel</li><li>ausgewogene Nährstoffrezeptur mit extra Kalium</li><li>ideal für alle Beerenarten, Obstbäume und Tomaten</li><li>fördert den Geschmack und die Reife der Früchte</li><li>Humusbildende Bestandteile und Versorgung des Wurzelwerks<br/></li></ul>"
+}

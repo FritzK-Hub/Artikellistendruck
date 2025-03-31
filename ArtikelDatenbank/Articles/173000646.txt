@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>modernes, stilvolles Design für jedes Interieur</li><li>vielseitig einsetzbar in allen Wohnbereichen</li><li>direkt einsatzbereit mit wechselbarem Leuchtmittel</li><li>einfache, stabile Befestigung an Oberflächen</li><li>flexibel ausrichtbar für gezieltes Licht</li></ul>"
+}

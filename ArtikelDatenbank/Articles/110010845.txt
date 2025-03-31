@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Ersatz-Dichtring zur Verwendung in der Hausentwässerung</li><li>für HT-Rohre und Gussrohre geeignet</li><li>sichere Abdichtung </li><li>besonders langlebig</li><li>aus Gummi, schwarz</li></ul>"
+}

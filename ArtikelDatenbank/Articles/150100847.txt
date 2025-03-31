@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>optimaler Schutz gegen übermäßiges Aufheizen des Auto-Innenraums im Sommer</li><li>mit 2 Gummilaschen zum platzsparenden Zusammenfalten</li><li>nur für den Innenraum geeignet</li></ul>"
+}

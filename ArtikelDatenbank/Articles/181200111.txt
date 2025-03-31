@@ -1,0 +1,4 @@
+{
+    "uvp": 0.59,
+    "attributes": "<ul><li>Portion Saatgut für ca. 200 Pflanzen inklusive Stecketikett</li><li>mit sehr festen, gelbgrünen Köpfen</li><li>übersteht ohne Schaden leichte Spätfröste</li><li>für den frühesten Freilandanbau gezüchtet</li><li>eine willkommene Abwechslung nach der kalten Jahreszeit</li></ul>"
+}

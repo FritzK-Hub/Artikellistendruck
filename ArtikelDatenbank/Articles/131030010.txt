@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>entfernt Fett- und Kalkrückstände</li><li>Geschirrspülmaschinen-Pfleger</li><li>schafft hygienische Sauberkeit</li><li>sorgt für volle Spülkraft</li><li>Inhalt: ca. 250 ml<br/></li></ul>"
+}

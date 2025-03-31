@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>hochwertiges Ersatzschwert</li><li>mit Umlenkstern</li><li>passend für Güde® Elektrokettensäge KS 450 B</li></ul>"
+}

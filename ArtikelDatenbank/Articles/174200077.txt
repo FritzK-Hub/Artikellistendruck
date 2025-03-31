@@ -1,0 +1,4 @@
+{
+    "uvp": 32.99,
+    "attributes": "<ul><li>Antikalk-Noppen für einfache Reinigung</li><li>flexibles Kugelgelenk für individuelle Ausrichtung</li><li>elegantes Chromdesign für stilvolles Ambiente</li><li>einfache Montage mit ½''-Anschluss</li><li>inklusive Wasserspardichtung<br/><br/></li></ul>"
+}

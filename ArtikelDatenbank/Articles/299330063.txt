@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>T-Anker für erfahrene Monteure</li><li>kaum sichtbare Befestigung</li><li>zum Einbetonieren für geschlitzte Holzpfosten</li><li>zum Schutz vor Bodenfeuchtigkeit</li><li>für schwere Zimmermanns-Konstruktionen</li></ul>"
+}

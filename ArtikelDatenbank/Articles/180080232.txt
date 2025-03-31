@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Fallrohrverbinder gerade für Dachrinnensysteme </li><li>passend für NW 90</li><li>zuverlässige Verbindung </li><li>aus hochwertigem PVC</li><li>kein Verkleben notwendig</li></ul>"
+}

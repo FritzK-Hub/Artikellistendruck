@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Universaldecke besonders strapazierfähig</li><li>zum Teil aus Recyclingmaterial (Alt-Textilien) hergestellt</li><li>als Transportschutz deiner Möbel oder Gegenstände</li><li>ideal als Unterlage im Kofferraum oder bei Reparaturen</li><li>ist universal einsetzbar und antistatisch</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Scheinwerferlampe von Philips</li><li>mit H4 P43t Sockel</li><li>gemäß ECE R 37</li><li>4 x längere Lebensdauer, 1500 h </li><li>Lichtfarbe 3100 K</li></ul>"
+}

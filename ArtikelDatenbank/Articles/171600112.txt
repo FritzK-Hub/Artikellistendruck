@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>lösemittelfreier Voranstrich mit Eindringvermögen in saugfähige Untergründe</li><li>für das Anbringen einer Bitumen-Dickbeschichtung oder einer Kaltklebebahn</li><li>bindet effektiv den Reststaub an der Oberfläche und sorgt für optimale Haftung</li><li>lässt sich leicht auf waagerechten und senkrechten Flächen auftragen</li><li>passend für Baustoffe wie Beton, Mörtel, Estrich, Putz und Holzfaserplatten</li></ul>"
+}

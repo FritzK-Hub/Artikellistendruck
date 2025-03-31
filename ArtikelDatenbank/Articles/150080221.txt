@@ -1,0 +1,4 @@
+{
+    "uvp": 12.35,
+    "attributes": "<ul><li>Reifen-Montiereisen 400 mm von Kraftmann</li><li>zum Auf- und Abziehen von Reifen auf die Felge</li><li>lange Lebensdauer durch hochwertige Materialen</li><li>aus Chrom-Vanadium-Stahl gefertigt</li><li>Doppel-T-Profil sorgt für hohe Stabilität<br/></li></ul>"
+}

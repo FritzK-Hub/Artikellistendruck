@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>Ersatzkartusche für den Korkenzieher Cork-X-Press (Artikelnummer 110050412)</li><li>bietet eine einfache und sichere Möglichkeit, Korken aus Wein- und Sektflaschen zu entfernen</li><li>entfernt den Korken effektiv mittels Luftdruck</li><li>vielseitig einsetzbar, für alle handelsüblichen Flaschen mit Korken geeignet</li><li>Korkenziehen und Folienschneider in einem, für leichtere Handhabung<br/></li></ul>"
+}

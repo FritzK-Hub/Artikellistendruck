@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li> hochwertige F-Stecker aus Metall </li><li> 10 Stück in der Vorrats-Packung </li><li> zum Aufschrauben auf ein Koaxial-Kabel </li><li> ideal für DVB-Sat </li><li> leichte Handhabung </li></ul><p></p>"
+}

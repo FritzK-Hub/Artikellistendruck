@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Fliese 30 x 30 cm aus Holz-Kunststoff zum Zusammenstecken</li><li>lässt sich nach Belieben mit anderen Fliesen verbinden</li><li>sehr standfest und präzise dank Kunststoffplatte</li><li>es werden keine Schrauben oder Kleber benötigt</li><li>die Bodenhalterung schützt die Holzfliese vor Nässe<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>robust und stabiler Wasserschieber</li><li>Moosgummilippe - doppelt</li><li>Metall Stielaufnahme</li><li>aus verzinktem Metall</li><li>universell einsetzbar im Innen- und Aussenbereich</li></ul>"
+}

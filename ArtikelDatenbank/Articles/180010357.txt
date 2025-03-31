@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>für Blumen und blühende Sträucher</li><li>für gesundes und üppiges Wachstum</li><li>auch für Pflanzgranulat und Hydrosteine geeignet</li><li>für intensives Blattgrün</li><li>macht prächtige Blüten<br/></li></ul>"
+}

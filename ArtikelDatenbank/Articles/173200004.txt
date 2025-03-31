@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>LED-Strahler 10 W mit COB Technologie</li><li>klare Sicht auf Baustellen oder beim Camping</li><li>mehrstufig ausklappbarer Standfuß</li><li>verfügt über ein robustes Kunststoff-Gehäuse</li><li>Batteriebetrieb, Batterien nicht im Lieferumfang enthalten<br/></li></ul>"
+}

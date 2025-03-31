@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Kopfsalat Mona</li><li>zarte und aromatische Blätter</li><li>hohe Widerstandfähigkeit gegen Salatfäule</li><li>Probefeldgetestete Qualität</li><li>sehr beständig gegen Hitze<br/></li></ul>"
+}

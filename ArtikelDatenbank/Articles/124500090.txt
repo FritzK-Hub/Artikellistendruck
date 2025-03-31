@@ -1,0 +1,4 @@
+{
+    "uvp": 340.0,
+    "attributes": "<ul><li>platzsparend dank flacher Rückseite</li><li>natürliche Optik für harmonischen Gartenstil</li><li>langlebig durch UV- und Witterungsschutz</li><li>kindersicherer Deckel für maximalen Schutz</li><li>frostsicher nach Entleerung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>bequemer Liegeplatz im Kronenmotiv</li><li>aus hellgrauem Filz gefertigt</li><li>ein kuscheliger Rückzugsort für dein Haustier</li><li>optimal zum Entspannen oder Schlafen</li><li>mitgeliefertes Kissen sorgt für noch mehr Komfort<br/></li></ul>"
+}

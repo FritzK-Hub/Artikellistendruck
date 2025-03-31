@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Zahnkelle aus robustem Edelstahl</li><li>einfachere Handhabung dank stabilem Holzgriff</li><li>passendes Zubehör für jeden Handwerker</li><li>besitzt eine Zahnung von 8 x 8 mm</li><li>zum Auftragen von Putz, Spachtelmasse, Fliesenkleber</li></ul><p><br/></p>"
+}

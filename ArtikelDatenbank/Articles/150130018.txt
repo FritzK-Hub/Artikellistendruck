@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>FISHBULL Einbereichs-Rasenmäheröl SAE 30W</li><li>für alle handelsüblichen 4-Takt-Benzin-Rasenmäher</li><li>auf Basis ausgesuchter Grundöle</li><li>im Sommerbetrieb geeignet</li><li>mineralisch, scherstabil mit Verschleißschutz<br/></li></ul>"
+}

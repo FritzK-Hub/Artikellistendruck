@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>maximale Schmierung</li><li>abgeschleuderfester Schutz</li><li>vielseitig einsetzbar</li><li>weniger Verschleiß</li><li>Straßen- und Geländetauglich</li></ul>"
+}

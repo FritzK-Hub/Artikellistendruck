@@ -1,0 +1,4 @@
+{
+    "uvp": 11.39,
+    "attributes": "<ul><li>bis 33 kg</li><li>mit 8 Magnetflächen</li></ul>"
+}

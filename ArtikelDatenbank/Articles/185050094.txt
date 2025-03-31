@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Lichternetz für innen und außen geeignet</li><li>geringer Stromverbrauch und hohe Effizienz dank LED Technik</li><li>transparentes Kabel inklusive Transformator </li><li>viele Anwendungsmöglichkeiten</li><li>kaltweiße Lichtfarbe, ohne Blinkmodi</li></ul>"
+}

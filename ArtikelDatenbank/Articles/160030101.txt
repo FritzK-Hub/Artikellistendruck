@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>strapazierfähige Handschuhe Driver in der Größe 10</li><li>aus hellgrauem, strechtbarem Premium Rindsvollleder gefertigt</li><li>ermöglicht eine reibungslose Arbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>besonders angenehmen Komfort bei der Arbeit<br/></li></ul>"
+}

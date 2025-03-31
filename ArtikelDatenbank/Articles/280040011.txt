@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li><em>Rosenschere</em> Typ Bypass</li><li>dauerhaft scharfbleibende Schneiden aus Mangan-Stahl</li><li>ergonomischer und rutschfester Kunststoffgriff</li><li>Arretierung zum sicheren Verschließen der Schere</li><li>glatte, nicht ausfransende Schnitte</li></ul>"
+}

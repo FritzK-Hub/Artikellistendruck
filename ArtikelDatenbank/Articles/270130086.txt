@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Multitool fester Spachtel schwarz 50 mm</li><li>einfache und schnelle Handhabung</li><li>zum Entfernen von Lacken, Klebstoffen oder Fliesenklebern</li><li>aufgrund guter Qualität ein langlebiges Werkzeug</li><li>es ist ein vielfach einsetzbares Werkzeug<br/></li></ul>"
+}

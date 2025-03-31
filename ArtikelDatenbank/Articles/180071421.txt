@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Untersetzer Terra eckig 27 x 27 cm in Anthrazit</li><li>UV-beständig und stabil</li><li>verhindert das Auslaufen von Wasser</li><li>schützt Fensterbänke vor Beschädigungen</li><li>besteht aus hochwertigem Kunststoff<br/></li></ul>"
+}

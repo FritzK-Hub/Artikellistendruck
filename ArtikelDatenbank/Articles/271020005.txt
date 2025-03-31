@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>SDS-max Aufnahmeschaft für einfache Bohrkronen-Aufnahme</li><li>ermöglicht große Bohrungen mittels Diamant-Bohrkronen</li><li>Feststellschraube für einfache Montage des Führungsbohrers</li><li>hochwertige Stahl-Ausführung für hohe Arbeitssicherheit</li><li>für große Bohrhämmer dank SDS max Aufnahme geeignet<br/></li><li>metrisches Aussengewinde für festen Sitz der Bohrkrone</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>vielseitiges Induktionskochfeld für Outdooraktivitäten oder als zusätzliches Feld zum Kochen</li><li>Kochfläche von 22 cm bietet ausreichend Platz für verschiedene Pfannen oder Töpfe</li><li>Überhitzungsschutz mit Automatik-Stopp und Kindersicherung garantieren zusätzliche Sicherheit</li><li>regulierbare Kochstufen von 60°C bis 240°C, zur präzisen Steuerung der Temperatur</li><li>einfache Bedienung mit Berührungssensoren und vier Digitalanzeigen versehen</li></ul>"
+}

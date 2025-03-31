@@ -1,0 +1,4 @@
+{
+    "uvp": 578.0,
+    "attributes": "<ul><li>Wellengitter-Doppeltor mittig geteilt aus grünem Stahl</li><li>für Maschendrahtzaun und Fix-Clip Pro®-Zaun</li><li>Wellengitter-Doppeltor inklusive Pfosten</li><li>mit Türdrücker, Profilzylinder und 2 Schlüssel</li><li>zinkphosphatiert und kunststoffbeschichtet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 32.95,
+    "attributes": "<ul><li>Güde® Schutzgas-Schweißdraht SG2 Ø 0,6 mm 5 kg</li><li>Universal-Schweißdraht verkupfert</li><li>für un- und niedriglegierten Stahl</li><li>auf Kunststoffspule (200-Spule) aufgewickelt</li><li>für Fülldrahtschweißen geeignet<br/></li></ul>"
+}

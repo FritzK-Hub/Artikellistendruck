@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Handfeger 30 cm aus unbehandeltem Holz</li><li>mit robusten, roten PVC-Borsten versehen</li><li>universell einsetzbar im Haushalt oder Gewerbe</li><li>zum Entfernen von Schmutz auf glatten oder rauen Oberflächen</li><li>bei Nichtgebraucht platzsparend aufhängbar<br/></li></ul>"
+}

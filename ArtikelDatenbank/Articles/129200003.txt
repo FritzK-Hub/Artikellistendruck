@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>schnell wirkende Rasenreparatur</li><li>praktische 3-in-1 Lösung zur idealen Wirkung</li><li>geieignet für verschiedene Rasenprobleme</li><li>einfache Anwendung ohne Fachkenntnisse</li><li>verbessert nachhaltig das Gartenerscheinungsbild</li></ul>"
+}

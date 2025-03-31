@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>vielseitige Saatgut Bienenmischung, ausreichend für ca. 50 m²</li><li>Mischung besteht aus vielfältigen Blumen mit angenehmem Duft</li><li>bietet verschiedenen Bienenarten eine Vielfalt an Pflanzen</li><li>dient als Nahrungsquelle zahlreiche Insekten</li><li>unterstütze aktiv die Biodiversität und die Artenvielfalt<br/></li></ul>"
+}

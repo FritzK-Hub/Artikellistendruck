@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>6-teiliges Daumenschrauber-Set</li><li>Daumenschrauber mit Steckschlüsseleinsatz 1/4\"</li><li>für Ratschenschrauber und Knarrenschrauber<br/></li><li>Adapter 1/4\" Sechskant außen auf 1/4\" Vierkant außen</li><li>für schwer zugängliche Schrauben</li></ul>"
+}

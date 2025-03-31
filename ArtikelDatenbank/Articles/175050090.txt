@@ -1,0 +1,4 @@
+{
+    "uvp": 7.95,
+    "attributes": "<ul> <li>8-teiliges Adapterset</li> <li>zum Befüllen von Reifen, Bällen, Luftmatratzen, Schlauchbooten, etc.</li> <li>Schraubgewinde-Anschluss passend für herkömmliche Fußluftpumpen</li></ul>"
+}

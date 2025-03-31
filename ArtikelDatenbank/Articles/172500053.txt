@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>8 F-Stecker im Set</li><li>inklusive 4 Wetterschutztüllen</li><li>passend für 6,5 mm Kabeldurchmesser</li><li>aus Metall, zum Aufschrauben</li><li>für Quadswitch-LNB geeignet</li></ul>"
+}

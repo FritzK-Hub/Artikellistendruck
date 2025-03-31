@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Solar <strong>Gartenkugel </strong>aus ABS und PP Kunststoff (hohe Kratzfestigkeit)</li><li>schöne weiß glänzende Kugel und ein stabiler Erdspieß</li><li>Stromversorgung durch leistungsfähiges Solarstrom</li><li>Wegebeleuchtung ohne Kabelverlegung</li><li>bis zu 6 Stunden Leuchtkraft bei einer Aufladung</li></ul>"
+}

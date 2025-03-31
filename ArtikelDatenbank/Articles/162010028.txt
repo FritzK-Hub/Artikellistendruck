@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>transparentes Design unterstreicht zeitgemäßes Ambiente</li><li>langlebiger Kunststoff bietet nachhaltige Nutzung</li><li>12 Ringe im Set als Komplettlösung für einen Vorhang</li><li>mühelose Handhabung dank praktischer C-Form</li><li>hochwertige Verarbeitung sichert dauerhafte Zuverlässigkeit</li></ul><p></p>"
+}

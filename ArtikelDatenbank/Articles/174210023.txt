@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>langlebige Materialien</li><li>elegantes Design</li><li>universelle Passform</li><li>angenehme Flexibilität</li><li>leichte Reinigung<br/></li></ul>"
+}

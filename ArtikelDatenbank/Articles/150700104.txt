@@ -1,0 +1,4 @@
+{
+    "uvp": 64.95,
+    "attributes": "<ul><li>Mülleimer Ø 29,5 x 64 cm mit Tretfunktion</li><li>aus Metall gefertigt, weiß lackiert<br/></li><li>sorgt für mehr Ordnung im Bad, Küche oder Büro</li><li>verfügt über ein Fassungsvermögen von ca. 30 Liter</li><li>inklusive herausnehmbaren, schwarzen Einsatz mit Tragegriff<br/></li></ul>"
+}

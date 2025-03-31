@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Steckschlüssel und Bitsatz Set 130-teilig von GERMANIA®</li><li>aus verschiedenen Bit- und Steckschlüssel-Ausführungen</li><li>alle Teile aus Chrom-Vanadium-Stahl gefertigt</li><li>ideal für alle Schraubarbeiten rund um das Auto oder im Haushalt</li><li>bei Nichtgebraucht platzsparend im Koffer verstaubar</li></ul>"
+}

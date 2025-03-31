@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Bleistifte mit Tauchkappe</li><li>4 Stück im Set</li><li>verschiedene Härtegrade</li><li>je 1 Stück H, HB, B, 2B</li><li>Bleistift in 6-kant Form</li></ul>"
+}

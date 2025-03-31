@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>besonders langlebige Konstruktion, aus stabilem Metall gefertigt</li><li>angenehmer Sitzkomfort dank Textilbespannung für erholsame Stunden</li><li>vielseitige Einsatzmöglichkeiten im Innen- und Außenbereich <br/></li><li>einfach zu lagern und zu transportieren, lässt sich platzsparend aufeinanderstapeln</li><li>trotzt geringes Eigengewicht besonders stabil, bis 120 kg belastbar</li></ul>"
+}

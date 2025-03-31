@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Leckstein 60 g in naturbelassener Form</li><li>aus 100% natürlichem Himalaya-Salz (entspreicht 39,0 % Natrium)</li><li>Ergänzungsfuttermittel für Kaninchen, Meerschweinchen und Kleinnager</li><li>versorgt das Haustier mit wichtigen Salzen und Mineralien</li><li>Holzaufhängung erleichtert die Befestigung am Käfig<br/></li></ul>"
+}

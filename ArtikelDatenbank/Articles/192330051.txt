@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>batteriebetriebene LED-Laterne mit warmweißer Kerze</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>schafft eine entspannte Wohlfühlatmosphäre</li><li>ideal zur Gestaltung von Wohnräumen oder Treppenhäusern</li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar<br/></li></ul>"
+}

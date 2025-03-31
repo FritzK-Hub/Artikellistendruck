@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Saatgut Mikrowellen-Kürbis Jack Be Little</li><li>ist eine vorzügliche Miniaturkürbis-Sorte</li><li>benötigt nur ca. 5 Minuten in der Mikrowelle</li><li>mit Frischkäse oder frischen Kräutern befüllbar</li><li>für die Zubereitung auch im Backofen geeignet</li></ul>"
+}

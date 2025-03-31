@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>LED-Strahler mit Solarzelle in Silber<br/></li><li>setzt Gartenwerge oder Blumenbeete in Szene</li><li>auch als dekorativer Orientierungspunkt einsetzbar</li><li>stabiler Halt dank massivem Erdspieß</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung<br/></li></ul>"
+}

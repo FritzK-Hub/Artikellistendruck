@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Einsteckschloss für Bad und WC Türen</li><li>für Beschläge mit Dreh-Knauf</li><li>für rechts-hängende Türen</li><li>DIN 78 mm Bad- und WC-Tür<br/></li></ul>"
+}

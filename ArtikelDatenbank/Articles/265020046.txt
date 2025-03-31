@@ -1,0 +1,4 @@
+{
+    "uvp": 22.99,
+    "attributes": "<ul><li>Ladenband 400 mm für 13 mm Klobe</li><li>aus robustem A2 Edelstahl gefertigt</li><li>für Gartentüren oder Gartentoren geeignet</li><li>müheloses inenanderstecken mit der Klobe</li><li>2 Borhlöcher für zusätzliche Stabilität<br/></li></ul>"
+}

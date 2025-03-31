@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Bohnenkraut „Aromata“ reicht für ca. 4 - 5 lfd. Meter</li><li>ist ein besonders ertragreiches und würziges Kraut</li><li>zur Verfeinerung deiner Soßen als auch Pilzgerichte</li><li>zudem ein Heilmittel gegen Austen und verschleimte Atemwege</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

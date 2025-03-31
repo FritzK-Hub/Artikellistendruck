@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>batteriebetriebener Funk-Fahrradcomputer</li><li>mit Mehrfachfunktionsanzeige und gut lesbarem Display</li><li>besitzt 22 verschieden Funktionen, welche leicht zu wechseln sind</li><li>integrierte Solarzellen unterstützen die Lebensdauer der Batterie</li><li>inklusive benötigter Knopfzellbatterien und Montagezubehör</li></ul>"
+}

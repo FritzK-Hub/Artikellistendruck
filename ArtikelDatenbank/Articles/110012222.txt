@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>präzise Durchflusskontrolle</li><li>einfache Montage</li><li>vielfältige Durchflussraten</li><li>universelle Kompatibilität</li><li>nachhaltige Wasserersparnis<br/></li></ul>"
+}

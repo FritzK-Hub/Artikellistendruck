@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>vielseitige Verwendung</li><li>robuste Anpassungsfähigkeit</li><li>lang anhaltende Blütenpracht</li><li>Bienenweide und Hummelmagnet</li><li>aromatische Besonderheit<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>3M Doppelseitiges Allrounder-Montage-Klebeband 19 mm x 3 m</li><li>besonders anpassungsfähig und reduziert die Nachbearbeitung</li><li>ideal zur Montage von Gegenständen im Innen- und Außenbereich</li><li>doppelseitig klebend mit starker Klebekraft</li><li>ersetzt das Bohren, Schleifen Schrauben oder Schweißen<br/></li></ul>"
+}

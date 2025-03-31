@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Länge: ca. 45 mm</li><li>Breite: ca. 45 mm</li><li>Schraub Durchmesser Ø: ca. 10 mm (M10)</li><li>Ringinnendurchmesser Ø: ca. 25 mm</li><li>Materialstärke: ca. 10 mm</li></ul>"
+}

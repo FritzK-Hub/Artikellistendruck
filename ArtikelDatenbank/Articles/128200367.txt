@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>automatisches LED-Lichtspiel schaltet sich bei Dunkelheit ein</li><li>vielseitig einsetzbar, ideal für Garten, Teich oder Terrasse</li><li>wetterfest &amp; langlebig aus robustem Polyresin gefertigt</li><li>Maritimes Flair – sorgt Tag und Nacht für Atmosphäre</li><li>Solarbetrieben – kein Stromanschluss nötig<br/></li></ul>"
+}

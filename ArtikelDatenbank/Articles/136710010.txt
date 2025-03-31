@@ -1,0 +1,4 @@
+{
+    "uvp": 24.9,
+    "attributes": "<ul><li>3-teiliges Wasserwaagen-Set aus robustem Aluminium</li><li>stabile Konstruktion für eine lange Lebensdauer</li><li>vielseitig für Bau- und Renovierungsarbeiten einsetzbar</li><li>drei Libellen (180°, 90°, 45°) bieten Genauigkeit und Vielseitigkeit</li><li>Aufhängloch zur Befestigung auf nicht magnetischen Oberflächen</li></ul>"
+}

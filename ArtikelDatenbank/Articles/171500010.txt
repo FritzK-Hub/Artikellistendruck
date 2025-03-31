@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>zuverlässige Schimmelentfernung</li><li>Wohn- und Schlafbereich-optimiert</li><li>für verschiedene Materialien</li><li>mit Langzeitwirkung</li><li>chlor- und lösungsmittelfrei<br/></li></ul>"
+}

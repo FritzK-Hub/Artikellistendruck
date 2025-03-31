@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Putzband quergerillt in weiß</li><li>für innen und außen geeignet</li><li>neutrale Farbe ermöglicht Einputzen des Bandes</li><li>bis 14 Tage rückstandfrei entfernbar</li><li>PVC-Band ist leicht und exakt von Hand zu trennen</li></ul>"
+}

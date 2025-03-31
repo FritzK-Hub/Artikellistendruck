@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>stufenloser Thermostatregler 30° - 110°C</li><li>120 Minuten Zeitschaltuhr</li><li>mit Kontrollleuchte</li><li>wärmeisolierende Griffe</li><li>inklusive Einlegerost aus Metall<br/></li></ul>"
+}

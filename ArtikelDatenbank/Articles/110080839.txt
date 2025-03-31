@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Tischdeckenklammer im Set (4 Stück)</li><li>unerlässlich an windigen Tagen</li><li>transparent, fast unsichtbar </li><li>eingebaute Feder für festen Sitz</li><li>die Tischdecke liegt stets sauber und ordentlich<br/></li></ul>"
+}

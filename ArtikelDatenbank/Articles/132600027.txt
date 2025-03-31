@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>GERMANIA® Rührwerk: leistungsstark und effizient</li><li>ideal für Putz, Mörtel, Kleber, Farbe</li><li>Arbeitskomfort mit ergonomischen Metallgetriebegehäuse und Softgriff</li><li>vielseitig einsetzbar bei Renovierungsarbeiten</li><li>inklusive Rechtsgewendelter-Rührer und 3 m Stromkabel</li></ul>"
+}

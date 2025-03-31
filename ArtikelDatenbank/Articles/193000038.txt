@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>komfortable Liegedecke für entspannten Transport</li><li>einfache Handhabung mit Reißverschlussöffnungen</li><li>praktische Aufbewahrung durch faltbare Konstruktion</li><li>inklusive faltbarem Trinknapf</li><li>strapazierfähiger, leicht zu reinigender Stoff</li></ul>"
+}

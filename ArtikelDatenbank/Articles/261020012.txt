@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Einschlaganker 40 mm mit M10 Innengewinde</li><li>das Set beinhaltet 6 Ankerhülsen</li><li>für die Befestigung von Rohrleitungen oder Stahlkonstruktionen</li><li>handelsüblicher Schrauben oder Gewindestangen sind einsetzbar</li><li>ideal für jeden Heim- oder Handwerker<br/></li></ul>"
+}

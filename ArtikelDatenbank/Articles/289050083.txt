@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Rundrohr aus eloxiertem Aluminium </li><li>Länge: ca. 200 cm</li><li>Durchmesser: 16 mm</li><li>Materialstärke: 1 mm</li><li>Material: Aluminium</li></ul>"
+}

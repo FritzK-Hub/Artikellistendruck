@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>Ultra High Speed HDMI-Kabel mit hochwertig vergoldeten Metall-Steckern Typ A</li><li>HEC für Netzwerkverbindungen via HDMI für einen veringerten Verkabelungsaufwand</li><li>hochwertige Schirmung für garantiert zuverlässige Signalübertragung</li><li>120Hz für verzögerungsfreien Spielgenuss in 4K-Auflösung</li><li>Ultra-HD-Kino-Qualität 7680 x 4320 (8K) <br/></li></ul>"
+}

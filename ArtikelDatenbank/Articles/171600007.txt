@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>hoch flexibler Bitumenkleber</li><li>gebrauchsfertig und wasserdicht</li><li>Polystyrol verstärkt und rissüberbrückend</li><li>schnell trocknend, UV-beständig und umweltschonend</li><li>Dichtmasse auf Basis neuester Polymer-Bitumentechnologie<br/></li></ul>"
+}

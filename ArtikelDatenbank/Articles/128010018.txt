@@ -1,0 +1,4 @@
+{
+    "uvp": 2029.9,
+    "attributes": "<ul><li>Vitavia Gewächshaus Uranus für erfahrene Gärtner</li><li>inklusive stabilem Fundamentrahmen</li><li>bietet viel Platz auch für hochwachsende Pflanzen</li><li>Verglasung aus klassischem Sicherheitsglas</li><li>leichtgängige, große Doppelschiebetür</li></ul><p></p>"
+}

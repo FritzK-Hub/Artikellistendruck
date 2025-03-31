@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li> <div>einfach und schnell anwendbar</div> </li><li> <div>demontierbar</div> </li><li> <div>nicht brennbar, nicht entzündbar</div> </li><li> <div>resistent gegen Pilze</div> </li><li> <div>quillt nicht</div> </li></ul>"
+}

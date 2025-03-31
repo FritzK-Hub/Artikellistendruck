@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>zum Ausbessern und Reparieren von Rissen und Löchern</li><li>an Fassaden oder in Feuchträumen einsetzbar</li><li>kompatibel mit allen mineralischen Untergründen</li><li>besitzt eine gute Oberflächeneigenschaften</li><li>extrem füllstark und ist witterungsbeständig<br/></li></ul>"
+}

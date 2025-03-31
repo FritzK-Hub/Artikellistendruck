@@ -1,0 +1,4 @@
+{
+    "uvp": 21.49,
+    "attributes": "<ul><li>leistungsstarker Lötkolben mit 100 Watt / 230 Volt</li><li>präzise Ergebnisse durch Cu-Lötspitze in Meißelform</li><li>praktischer Ablegeständer für sicheres Arbeiten</li><li>kurze Anheizzeit von nur ca. 2,5 Minuten</li><li>ideal für Kupferleiter bis 3,0 mm²</li></ul><p></p>"
+}

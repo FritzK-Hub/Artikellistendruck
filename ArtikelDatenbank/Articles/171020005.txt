@@ -1,0 +1,4 @@
+{
+    "uvp": 10.79,
+    "attributes": "<ul><li>Bohrfutter mit SDS Adapter </li><li>inklusive Bohrfutterschlüssel</li><li>einfacher Austausch </li><li>perfekte Kraftübertragung auf den Bit</li><li>Befestigung an der Spindel des Bohrers</li></ul>"
+}

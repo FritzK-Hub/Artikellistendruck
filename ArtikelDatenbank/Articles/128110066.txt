@@ -1,0 +1,4 @@
+{
+    "uvp": 575.95,
+    "attributes": "<ul><li>5-teiliges Gartenmöbel-Set aus Holz</li><li>4 Hochlehner-Klappsessel und ein Klapptisch</li><li>aus geöltem Akazienholz</li><li>platzsparend zusammenklappbar</li><li>robust und wetterfest</li></ul>"
+}

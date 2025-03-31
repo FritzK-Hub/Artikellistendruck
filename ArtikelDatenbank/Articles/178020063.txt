@@ -1,0 +1,4 @@
+{
+    "uvp": 6.95,
+    "attributes": "<ul><li>Winkel-Wasserwaage von Kraftmann</li><li>Pfosten-Ebene<br/></li><li>sehr hilfreich beim Ausrichten von Pfosten + Rohren</li><li>4 Magnete </li><li>mit Gummiband</li></ul>"
+}

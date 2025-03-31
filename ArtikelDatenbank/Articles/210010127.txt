@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>sichere Abwasserableitung für Waschmaschinen</li><li>Geräteanschluss ¾\" für handelsübliche Waschmaschinen</li><li>einfache Installation mit starrem Abgangsrohr</li><li>hochwertiger Kunststoff für Langlebigkeit</li><li>effektive Geruchsbeseitigung im Raum<br/></li></ul>"
+}

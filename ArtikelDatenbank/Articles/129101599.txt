@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>dekorative Strauchveronika, verschiedenfarbig im Blumentopf</li><li>ein pflegeleichter und unkomplizierter Herstblüher</li><li>im Garten oder als Grabschmuck verwendbar</li><li>zur Verschönerung deines Gartenbeets oder Balkon geeignet</li><li>verwandeln Beete oder Pflanzkübel in ein Blumenparadies<br/></li></ul>"
+}

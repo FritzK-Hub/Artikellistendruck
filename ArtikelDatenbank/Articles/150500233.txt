@@ -1,0 +1,4 @@
+{
+    "uvp": 2.59,
+    "attributes": "<ul><li>biologisch abbaubar</li><li>aus nachwachsenden Rohstoffen</li><li>aus Birkenholz hergestellt</li><li>Umweltfreundlich</li><li>natürliches Besteck für deine Gesundheit</li></ul>"
+}

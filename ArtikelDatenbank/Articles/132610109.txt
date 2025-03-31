@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>leistungsstarker 2.0 Ah Akku 20 V als Ersatz- oder Zweit-Akku</li><li>ein vielseitiger Akku ob zum Bohren, Sägen oder Schleifen</li><li>integrierter Überspannungsschutz für sicheres Arbeiten <br/></li><li>Batteriestand lässt sich einfach per Knopfdruck anzeigen</li><li>universell für die gesamte Plattform 2.0 Collection geeignet</li></ul>"
+}

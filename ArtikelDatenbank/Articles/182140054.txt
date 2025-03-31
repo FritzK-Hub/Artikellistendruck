@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Luftpumpe für Rahmenbefestigung</li><li>mit reversiblen Einsatz</li><li>passend für alle gängigen Ventilarten</li><li>Federspannung zur Rahmenklemmung</li><li>Rahmenpumpe in schwarz</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>vielseitige Verwendung</li><li>frosthart und Langzeit-Ernte</li><li>optimale Standortanpassung</li><li>leichte Pflege</li><li>länger haltbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Kerze 9 cm aus Echtwachs im Glas mit LED im Wachs<br/></li><li>schafft mit Farbwechsel eine wohlfühlende Atmosphäre</li><li>ideal für Tisch- oder Weihnachtsdekorationen</li><li>zur Bestückung von Weihnachtskränzen geeignet</li><li>inklusive der benötigten Batterien<br/></li></ul>"
+}

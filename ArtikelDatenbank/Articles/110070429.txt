@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Ofenrohr gerade</li><li>aus feueraluminiertem Stahlblech</li><li>für den Innenbereich</li><li>einfacher Anschluss deiner Feuerstellen</li><li>120 mm Durchmesser<br/></li></ul><p></p>"
+}

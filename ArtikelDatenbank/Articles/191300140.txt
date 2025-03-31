@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>vielseitig zum Aufblasen und Absaugen von Luft einsetzbar</li><li>kompakt und tragbar für unterwegs</li><li>Schutzgitter gegen Schmutz für Langlebigkeit</li><li>integrierte Campingleuchte bietet zusätzliche Funktionalität</li><li>einfaches Aufladen mittels USB-C Kabel</li></ul>"
+}

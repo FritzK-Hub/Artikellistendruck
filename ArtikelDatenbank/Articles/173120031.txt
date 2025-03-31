@@ -1,0 +1,4 @@
+{
+    "uvp": 5.89,
+    "attributes": "<ul><li>10x11mm</li><li>verchromt</li><li>Sechskant</li><li>15° abgewinkelt</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>36 Stück seidenmatte Kunststoff-Pflegetücher fürs Auto</li><li>reinigen, pflegen und schützen aller Kunststoff- und Vinyloberflächen</li><li>Schutz vor vorzeitiger Alterung durch Versprödung</li><li>antistatisch, bewahren vor UV-Strahlungen sowie farb- und glanzauffrischend</li><li>im Spender mit Flip-Top Deckel</li></ul>"
+}

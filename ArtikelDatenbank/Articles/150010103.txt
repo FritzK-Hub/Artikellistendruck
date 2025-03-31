@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Mikrofasertücher-Set 8-teilig besonders saugfähig</li><li>zur gründlichen Reinigung im Bad, Küche oder am Auto</li><li>entfernt kraftvoll jede wasserlösliche Verschmutzung</li><li>einfach in der Handhabung, besonders weich und flauschig</li><li>ist oberflächenschonend, verhindert das Verkratzen der Oberflächen<br/></li></ul>"
+}

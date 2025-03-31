@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>hervorragende Haftung auf diversen Materialien</li><li>besonders witterungs- und UV-stabil</li><li>für den Innen- und Außenbereich geeignet</li><li>pilzhemmend zur Vermeidung von Schimmelbildung</li><li>effizienter Verbrauch für 8 Meter Fuge</li></ul>"
+}

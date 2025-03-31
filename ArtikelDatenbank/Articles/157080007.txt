@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>vielseitiges Universalöl </li><li>für Haushalts-, Büro- und Werkzeugmaschinen</li><li>schnelle und effektive Schmierung</li><li>harz- und säurefrei </li><li>einfache Handhabung und Aufbewahrung<br/></li></ul>"
+}

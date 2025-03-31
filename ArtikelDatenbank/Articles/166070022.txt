@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>Sackkarrenrad aus geschäumten Polyurethan</li><li>auf stabiler Metallfelge</li><li>hochwertiges Rollenlager für leichten Lauf</li><li>Profil für bessere Bodenhaftung</li><li>universell einsetzbar</li></ul>"
+}

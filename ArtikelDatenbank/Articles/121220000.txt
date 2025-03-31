@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Balkonkasten-Halter für 14 cm Balkonkästen</li><li>aus lackiertem Metall</li><li>ohne Bohren zu befestigen</li><li>stufenlos verstellbar</li><li>universell passend</li></ul>"
+}

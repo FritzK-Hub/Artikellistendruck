@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>stilvolles Amphorendesign mit steinähnlicher Textur</li><li>große Kapazität zur nachhaltigen Wassernutzung</li><li>praktische Anschlussvorbereitungen für Hahn oder Schlauch</li><li>wetterfest und UV-beständig</li><li>dekoratives Highlight und funktional zugleich</li></ul>"
+}

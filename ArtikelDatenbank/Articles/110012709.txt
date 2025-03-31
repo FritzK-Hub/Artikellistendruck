@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>langlebig &amp; sicher: robuste Kombi aus Polyethylen und Aluminiun</li><li>hygienisch: bietet Trinkwasserqualität</li><li>benutzerfreundlich: enorme Biegsamkeit spart Fittings &amp; Arbeit</li><li>flexibel: variabel für Trinkwasser und Heizung einsetzbar</li><li>mühelos: einfache und schnelle Montage ohne Spezialwerkzeug</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.63,
+    "attributes": "<ul><li>für Hand und Schlagschrauberbetrieb</li><li>mit Kunststoffmantel und Kunststoffeinsatz zum Schutz von Alufelgen</li><li>mit Kugelfangrille und Bohrung</li><li>Länge 85 mm</li><li>17 mm Durchmesser und 1/2\"-Aufnahme für genaue Anwendung<br/></li></ul>"
+}

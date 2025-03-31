@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>stufenlose Sprühbilder ermöglichen flexible Bewässerung</li><li>Wasserstopp schafft maximale Wassereffizienz</li><li>ideal für Garten und Reinigung</li><li>Schnellkupplungen zur einfachen Handhabung</li><li>hochwertige, robuste Verarbeitung aus Kunststoff</li></ul>"
+}

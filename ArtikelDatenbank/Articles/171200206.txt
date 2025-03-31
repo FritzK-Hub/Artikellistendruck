@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>schnelle Auffrischung von Teakholz liefert sofortige Ergebnisse</li><li>gelartige Konsistenz erleichtert Reinigung</li><li>universelle Eignung für Gartenmöbel und Flächen<br/></li><li>effektive Entgrauung mit sparsamer Produktformel</li><li>ideale Vorbereitung für langfristigen Schutz</li></ul><p></p>"
+}

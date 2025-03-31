@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>natürliche Schönheit für jedes Zuhause</li><li>langanhaltender Duft unterstreicht festliche Stimmung</li><li>vielseitig einsetzbar in verschiedenen Arrangements</li><li>pflegeleicht zur stressfreien Dekoration</li><li>frische, robuste Qualität</li></ul>"
+}

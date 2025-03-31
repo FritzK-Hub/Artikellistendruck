@@ -1,0 +1,4 @@
+{
+    "uvp": 6.35,
+    "attributes": "<ul><li>massive Rundstange aus eloxiertem Aluminium</li></ul><ul><li>Länge: ca. 100cm</li><li>Durchmesser: 10mm</li><li>Material: Aluminium</li><li>Farbe: silber</li></ul>"
+}

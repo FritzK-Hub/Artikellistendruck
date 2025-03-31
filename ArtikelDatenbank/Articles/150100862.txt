@@ -1,0 +1,4 @@
+{
+    "uvp": 6.95,
+    "attributes": "<ul><li>Antirutsch Pad 15,5 x 10 x 2 cm selbsthaftend in schwarz</li><li>praktisch zur Navigation durch Smartphone</li><li>bietet auch Platz für Kleinteile, Brillen oder Schlüssel</li><li>für gewölbte und schräge Oberflächengeeignet</li><li>leicht abwaschbar und wiederverwendbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>beeindruckende Früchte</li><li>marmoriertes Fruchtfleisch</li><li>späte Reifung</li><li>geschützter Anbau empfohlen</li><li>intensiver, fruchtiger Geschmack<br/></li></ul>"
+}

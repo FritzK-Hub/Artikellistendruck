@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>handliche Trinkflasche 750 ml aus Edelstahl in Schwarz</li><li>verfügt über ein praktisches Strohhalm-Prinzip für einfaches Trinken</li><li>dank großer Öffnung einfach zu befüllen und reinigen</li><li>bestens für Sport, Wandern oder Camping geeignet</li><li>inklusive praktischer Halterung für eine einfache Befestigung<br/></li></ul>"
+}

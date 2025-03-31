@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>4 Sicherungshaken im Set</li><li>mit Silikonband</li><li>26 cm lang</li><li>Oberfläche verzinkt</li><li>Sicherungshaken für empfindliche Oberflächen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>höchste Sicherheit</li><li>beidseitig abschließbar</li><li>hohe Qualität</li><li>einfache Montage</li><li>inklusive 3 Schlüsseln<br/></li></ul>"
+}

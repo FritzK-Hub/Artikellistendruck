@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>intelligente Scheren-Form für einfache Handhabung</li><li>robuster Edelstahl schafft langanhaltende Qualität</li><li>breite Auflagefläche bietet sicheren Griff</li><li>mühelose Reinigung von Hand oder Spülmaschine</li><li>vielseitig einsetzbar für Grillgut jeder Art</li></ul><p> </p>"
+}

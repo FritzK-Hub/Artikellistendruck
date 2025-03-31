@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>schnelles und einfaches Spannen und Lösen von Winkelschleiferzubehör</li><li>Schnellspannmutter für werkzeugloses Wechseln</li><li>geeignet für Winkelschleifer mit Normalflansch M14</li><li>Spindellänge min. 8 mm</li><li>passend für fast alle handelsüblichen Winkelschleifer</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Durchmesser Kopf (S): ca. 8,0mm</li><li>Höhe Kopf (k): ca. 3,5mm</li><li>Durchmesser Schraube (d): ca. 5,0mm (M5)</li><li>Länge (l): ca. 16mm</li><li>Abstand Gewinde zu Kopf (a): ca. 2,4 mm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Pattex® Kleberextrem schnelltrocknend je 12 g</li><li>bereits nach 3 Minuten getrocknet und nach 10 Minuten handfest</li><li>härtet schnell und glasklar aus</li><li>vergilbt nicht und ist Bohr- und feilbar</li><li>für anspruchsvolle Verklebungen bei starker Belastungen</li></ul>"
+}

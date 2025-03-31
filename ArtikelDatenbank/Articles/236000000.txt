@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Latthammer von GERMANIA®, 600 g</li><li>ideal im Holzbau einsetzbar</li><li>mit magnetischem Nagelhalter</li><li>Klaue zum Herausziehen von Nägeln</li><li>verlängerter, spitzer Klauenzahn</li></ul>"
+}

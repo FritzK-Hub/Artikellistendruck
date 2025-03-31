@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Luftentfeuchtersack befüllt mit 1000 g Silica Gel</li><li>verhindert Schimmel, Feuchtigkeitsflecken und muffige Gerüche</li><li>für die Verwendung in Schränken, Kellern, Wohnmobilen, Wohnwagen und Autos</li><li>mit selbstklebendem Klettstreifen zum Fixieren</li><li>vollgesogener Luftentfeuchter lässt sich einfach auf der Heizung oder Backofen trocknen</li></ul>"
+}

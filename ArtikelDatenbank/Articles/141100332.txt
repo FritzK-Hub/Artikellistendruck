@@ -1,0 +1,4 @@
+{
+    "uvp": 24.49,
+    "attributes": "<ul><li>grüner Feinspachtel als Oberflächenfinish</li><li>wasserabweisend für die Anwendung in Feuchträumen</li><li>trocknet schnell und haftet sehr gut</li><li>dank geschmeidiger Konsistenz gut zu verarbeiten</li><li>gebrauchsfertig angemischt</li></ul>"
+}

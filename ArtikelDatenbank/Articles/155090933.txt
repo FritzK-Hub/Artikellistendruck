@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>Abdeckung für ISDN-Dosen</li><li>hochwertiger Kunststoff in Weiss</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>nur in Verbindung mit ISDN-Dose der Serie EverLuxe </li><li>nur in Kombination mit Rahmen der Serie EverLuxe<br/></li></ul>"
+}

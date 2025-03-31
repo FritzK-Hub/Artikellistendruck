@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>Ersatzkette von Güde</li><li>passend für den Elektro Kettensäge KS 501 B</li><li>besitzt eine Kettenlänge von 64 cm</li><li>liefert eine besonders gute Schnittleistung</li><li>schneller Ersatz für die stumpfe Kette</li></ul>"
+}

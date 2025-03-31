@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>ideal als Ausschankbecher auf Veranstaltungen oder beim Camping </li><li>für den Coffee to go oder für andere Getränke</li><li>bieten ausreichend Platz für Heiß- oder Kaltgetränke</li><li>einfache Entsorgung, erspart lästigen Abwasch</li><li>sind bei Nichtgebrauch platzsparend zusammenstapelbar<br/></li></ul>"
+}

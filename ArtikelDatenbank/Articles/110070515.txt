@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>Ofenrohr gerade Ausführung in gussgrau </li><li>aus senotherm-lackiertem Stahlblech gefertigt</li><li>für den Innenbereich</li><li>für den Anschluss von Kaminöfen</li><li>Ø 150 x500 mm mit 2 mm Materialstärke<br/></li></ul>"
+}

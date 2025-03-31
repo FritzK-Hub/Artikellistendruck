@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Pflanzensprüher zum Versprühen von Düngemitteln oder Reinigungsmitteln</li><li>aus stabilem Kunststoff gefertigt</li><li>der Druck wird mittels Hebel aufgebaut (durch Pumpen)</li><li>besitzt ein Fassungsvermögen von 500 ml</li><li>Sprühdüse abschraubbar</li></ul>"
+}

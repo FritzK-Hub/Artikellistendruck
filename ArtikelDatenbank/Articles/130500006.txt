@@ -1,0 +1,4 @@
+{
+    "uvp": 129.95,
+    "attributes": "<ul><li>hohe Fördermenge zur effizienten Reinigung</li><li>einfacher Düsenwechsel ermöglicht flexible Anwendung</li><li>integrierte Kindersicherung bietet zusätzliche Sicherheit</li><li>große Räder und klappbarer Transportgriff</li><li>inklusive vielfältiger Aufsatzdüsen für alle Anforderungen</li></ul>"
+}

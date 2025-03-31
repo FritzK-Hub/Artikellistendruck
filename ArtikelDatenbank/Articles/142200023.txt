@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>GERMANIA® Gaskartusche 227 g mit Butanmischung</li><li>Bajonett-Verschluss verhindert beim Ein- und Ausstecker das Austreten von Gas</li><li>bietet viele Einsetzmöglichkeiten</li><li>passend für Campinggaskocher, Gasbrenner oder Unkrautbrenner</li><li>ergiebig und schnell austauschbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>Schlauchabzweigung für bis zu zwei Bewässerungsvorgänge</li><li>effiziente Wasserverteilung ohne Leistungsverlust</li><li>robustes, langlebiges Material</li><li>einfache, benutzerfreundliche Montage</li><li>vielseitig und platzsparend für verschiedene Bewässerungsgeräte</li></ul>"
+}

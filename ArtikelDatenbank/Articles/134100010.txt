@@ -1,0 +1,4 @@
+{
+    "uvp": 33.24,
+    "attributes": "<ul><li>massive Ausführung aus Metall für hohe Belastbarkeit und Langlebigkeit</li><li>100 mm Länge für eine schnelle und einfache Verlängerung der Reichweite</li><li>3/4\" Anschluss für eine universelle Passform auf viele Schlagschrauber</li><li>runkelrote Farbe für eine auffällige Optik und leichteres Wiederfinden</li><li>pflegeleichtes und abnutzungsresistentes Material für langjährige Nutzung<br/></li></ul>"
+}

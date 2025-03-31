@@ -1,0 +1,4 @@
+{
+    "uvp": 3.69,
+    "attributes": "<ul><li>Flachstange aus blankem Aluminium gefertigt</li><li>mit einzigartiger Bohr-Kennrille zum genauen Zentrieren von Bohrungen</li><li>mit handelsüblicher Stichsäge abzulängen</li><li>Materialstärke 2 mm</li><li>Flach-Profil 19,5 x 2 mm in silber</li></ul>"
+}

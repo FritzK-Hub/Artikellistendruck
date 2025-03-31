@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>hoher Reinigungseffekt auch ohne Chemie</li><li>entfernt kraftvoll jede wasserlösliche Verschmutzung</li><li>handsympathischer Frottiercharakter</li><li>hervorragend geeignet zur Trocken- und Nassreinigung</li><li>angenehm flauschig und oberflächenschonend<br/></li></ul>"
+}

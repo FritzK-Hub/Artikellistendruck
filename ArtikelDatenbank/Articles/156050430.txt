@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Vielzweckmesser aus Druckguss</li><li>mit ausschiebbarer Klinge</li><li>ideal als Teppichmesser verwendbar</li><li>inklusive Klinge</li><li>massive Ausführung</li></ul>"
+}

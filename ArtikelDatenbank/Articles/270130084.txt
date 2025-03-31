@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>hartmetallbeschichtete Schneidekante</li><li>für Fliesen, Gips, Gasbeton u. ä. Materialien</li><li>zum Heraustrennen von beschädigten Fliesenfugen</li><li>zum sauberen Schneiden von Furchen und Rillen</li><li>Aufnahme passend für FEIN Multimaster und BOSCH PMF Serie u.v.a.<br/><br/></li></ul>"
+}

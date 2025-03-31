@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li>Lichtschutzfaktor UV 50+</li><li>mit wasserabweisendem Dach</li><li>dank hochwertiger Verarbeitung besonders langlebig</li><li>Reinigung von Hand mit einfachen Mitteln</li><li>einfache, schnelle Montage</li></ul>"
+}

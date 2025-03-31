@@ -1,0 +1,4 @@
+{
+    "uvp": 299.99,
+    "attributes": "<ul><li>mobiler Gasgrill für Garten, Terasse oder Balkon</li><li>perfekte Steaks dank Infrarot-Steak Zone</li><li>langlebig und robust durch veredelte Oberflächen</li><li>präzise Hitzeverteilung mit einzeln ansteuerbaren Brennern</li><li>modernes Design schafft ansprechende Optik</li></ul>"
+}

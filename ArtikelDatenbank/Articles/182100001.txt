@@ -1,0 +1,4 @@
+{
+    "uvp": 12.49,
+    "attributes": "<ul><li>Fahrradreifen 16 x 1,75 Zoll aus Nylon</li><li>für 16\" Kinderfahrräder</li><li>schneller und einfacher Wechsel</li><li>passend für Felgen 17-27 mm</li><li>auch für 40 bis 57-305</li></ul>"
+}

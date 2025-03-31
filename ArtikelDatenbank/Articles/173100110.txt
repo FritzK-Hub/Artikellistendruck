@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>LED Lampe in Tropfenform, E27</li><li>warmweißes, angenehmes Licht</li><li>lange Lebensdauer</li><li>LED Birne mit guter Farbwiedergabe</li><li>Lampenwechsel durch einfaches Austauschen<br/></li></ul>"
+}

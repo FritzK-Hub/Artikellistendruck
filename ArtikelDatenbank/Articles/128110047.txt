@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>klappbarer Gartenhocker</li><li>aus massiven Akazienholz</li><li>wetterfestem und robust</li><li>schlichtes Design</li><li>leicht zu verstauen</li></ul>"
+}

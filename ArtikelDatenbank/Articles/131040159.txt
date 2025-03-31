@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>WC-Duftspüler/Lufterfrischer 5-Ball</li><li>angenehme Frische für Ihr WC</li><li>Frische und Duft bei jedem Spülgang</li><li>langanhaltender und angenehmer Duft</li><li>für die komplette Pflege der Toilette<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 82.39,
+    "attributes": "<ul><li>LIQUI MOLY Motorenöl Top Tec 4200 5W-30 für Benzin- und Dieselmotoren</li><li>senkt den Kraftstoffverbrauch und reduziert den Schadstoffausstoß</li><li>für Turbomotoren und Dieselpartikelfilter (DPF)<br/></li><li>lange Motorlebensdauer und leichter Motorlauf</li><li>basierend auf HC-Syntheseölen</li></ul><p></p>"
+}

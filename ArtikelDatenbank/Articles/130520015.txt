@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li>enorme Saugkraft von bis zu 2600 Pa</li><li>saugen und wischen gleichzeitig mit einem Sauger</li><li>genaue Navigation mittels Gyroskopsensoren mit Treppenschutz</li><li>steuerbar über Fernbedienung, App oder Sprachsteuerung</li><li>hohe Laufleistung, bis zu 120 Minuten<br/></li></ul>"
+}

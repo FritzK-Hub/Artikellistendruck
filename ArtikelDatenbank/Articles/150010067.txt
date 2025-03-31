@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Botanika-Besen 40 cm aus Kunststoff</li><li>mit kunststoffverstärkten Naturfaser-Borsten versehen</li><li>universell einsetzbar in der Industrie, Garten oder Gewerbe</li><li>zum Entfernen von Schmutz auf glatten oder rauen Oberflächen</li><li>2in1 Universal-Stielhalters für Stiele mit oder ohne Gewinde<br/></li></ul>"
+}

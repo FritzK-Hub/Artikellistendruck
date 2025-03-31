@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Pattex® Kraftkleber \"Kleben statt Bohren\" mit hoher Endfestigkeit</li><li>hochwertiger und starker Kleber für den Innen- und Außenbereich</li><li>für schnelle und saubere Anwendungen ohne Werkzeug</li><li>hohe Anfangshaftung, ohne Lösungsmittel</li><li>Möglichkeit Lücken von bis zu 10 mm zu füllen</li></ul><p><br/></p>"
+}

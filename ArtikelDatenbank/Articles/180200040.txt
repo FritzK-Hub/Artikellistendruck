@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>reduziert effektiv Hydro-Stößel-Geräusche</li><li>stellt optimale Ventilbohrungsfunktion wieder her</li><li>optimiert die Schmierung für längere Motorlebensdauer</li><li>geeignet für Turbo- und Katalysatorfahrzeuge</li><li>entfernt störende Hydrostößel-Motorgeräusche</li></ul>"
+}

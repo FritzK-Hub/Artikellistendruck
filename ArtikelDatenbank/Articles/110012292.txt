@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>universell für 70 mm Spül- und Waschbecken einsetzbar</li><li>sammelt kleine Küchenabfälle und Speisereste ein</li><li>besonders langlebig und widerstandsfähig, aus Edelstahl</li><li>beugt Verstopfungen des Abflusses durch Haare und Speiseresten vor</li><li>ein nützlicher Helfer im Haushalt, lässt sich leicht reinigen<br/></li></ul>"
+}

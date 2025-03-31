@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>Klauenhammer mit poliertem Kopf</li><li>mit robustem Stiel aus Fiberglas</li><li>für Profis und Heimwerker geeignet</li><li>Einkerbung im Hammerkopf zum Ziehen von Nägeln</li><li>liegt besonders gut in der Hand und ist unzerbrechlich</li></ul>"
+}

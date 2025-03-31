@@ -1,0 +1,4 @@
+{
+    "uvp": 12.78,
+    "attributes": "<ul><li>Geräuschreduzierung von bis zu 24 dB SNR</li><li>hervorragender Schutz</li><li>komfortabler Tragegenuss</li><li>passgenauer Sitz</li><li>vielseitig einsetzbar</li></ul>"
+}

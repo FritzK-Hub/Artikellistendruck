@@ -1,0 +1,4 @@
+{
+    "uvp": 7.29,
+    "attributes": "<ul><li>hohe mechanische Belastbarkeit</li><li>Frostwiderstands- und Wasserdampfdiffusionsfähigkeit</li><li>vielseitig einsetzbar</li><li>langlebig und widerstandsfähig</li><li>hochwertige Materialien</li></ul>"
+}

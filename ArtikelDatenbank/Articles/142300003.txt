@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Kaminanzünder ohne schädliche Ruß-Entwicklung</li><li>trocknet auch bei längerer Lagerung nicht aus</li><li>ökologischer Feueranzünder aus 100 % nachwachsenden Rohstoffen</li><li>Naturholz und pflanzlichem Wachs</li><li>sicheres, geruchsarmes und sauberes Anzünden</li></ul>"
+}

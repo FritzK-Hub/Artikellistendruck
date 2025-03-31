@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Vorhang zum Schutz vor lästigen Insekten</li><li>einfach zu befestigen, keine Bohren nötig</li><li>geeignet für Einzeltüren, Schiebetüren oder auch beim Camping an der Wohnwagen- oder Wohnmobiltür</li><li>inklusive Aufhängeleiste und Magnetschließern</li><li>aus Polyester in schwarz</li></ul>"
+}

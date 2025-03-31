@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Dichtband 2 x 5 m Rollen mit I-Profil 15 x 5,5 mm</li><li>aus UV- und witterungsbeständigem Polyurethan gefertigt</li><li>verhindert Zugluft, Lärm, Staub oder Kälte</li><li>für Fenster- und Türspalten mit einer Maße von 4 bis 6 mm</li><li>einfache Montage dank selbstklebendem Streifen</li></ul>"
+}

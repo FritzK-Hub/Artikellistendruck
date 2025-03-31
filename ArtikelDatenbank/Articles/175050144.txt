@@ -1,0 +1,4 @@
+{
+    "uvp": 369.0,
+    "attributes": "<ul><li>Druckluftkompressor mit einer Luftleistung von 400 Litern pro Minute</li><li>leistungsfähig, maximaler Druck von bis zu 10 bar</li><li>dank Vollkunststoffräder mit Gummilauffläche transportfähig und flexibel einsetzbar</li><li>sicherheitsgeprüfter 50 Liter Druckluftkessel, zuverlässig und sicher in der Anwendung</li><li>direktgeflanschter V-2-Zylinder-Kompressor für hohe Effizienz und geringen Energieverbrauch</li></ul>"
+}

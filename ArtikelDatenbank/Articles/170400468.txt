@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>ätherisches Öl mit wohlriechendem Lavendelduft</li><li>schafft ein beruhigendes und angenehmes Ambiente</li><li>verwandelt Wohnräume in duftende Wohlfühloasen</li><li>vielseitig für Duftlampen, Diffuser und Bäder nutzbar</li><li>unterstützt einen erholsamen Schlaf<br/></li></ul>"
+}

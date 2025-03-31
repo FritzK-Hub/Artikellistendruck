@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>faszinierende Farbkombination</li><li>vielseitige Verwendung</li><li>anspruchslose Pflege</li><li>lange Blütezeit</li><li>kulinarische Vielfalt<br/></li></ul>"
+}

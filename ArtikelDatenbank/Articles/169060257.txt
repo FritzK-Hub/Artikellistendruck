@@ -1,0 +1,4 @@
+{
+    "uvp": 2.59,
+    "attributes": "<ul><li>Pattex® Kraftkleber \"Multi Alleskleber\" transparent</li><li>vertikale oder horizontale Verklebungen möglich</li><li>für fast grenzenlose, universelle Einsatzmöglichkeiten</li><li>schnelltrocknend und extra stark</li><li>lösemittelfreier Klebstoff</li></ul>"
+}

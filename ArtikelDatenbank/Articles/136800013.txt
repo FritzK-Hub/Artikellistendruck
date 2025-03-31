@@ -1,0 +1,4 @@
+{
+    "uvp": 99.0,
+    "attributes": "<ul><li>97-teiliges Werkzeugset für vielseitige Einsatzmöglichkeiten</li><li>enthält Stecknussadapter, Sechskant Steckschlüsseleinsätze uvm.</li><li>perfekter Begleiter für Heimwerker und Profis gleichermaßen</li><li>hochwertige Halteeinlagen für optimale Organisation</li><li>stabiler Koffer für zuverlässigen Werkzeugschutz</li></ul>"
+}

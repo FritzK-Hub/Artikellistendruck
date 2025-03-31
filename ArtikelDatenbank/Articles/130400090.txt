@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li>effizient in Räumen bis 15 m²</li><li>integrierter 24-Stunden-Timer bietet Komfort</li><li>3-in-1: Klimatisierung, Entfeuchten und Lüften</li><li>einfache Handhabung durch Fernbedienung</li><li>hohe Entfeuchtungsleistung von 19 Litern</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>batteriebetriebene LED-Tischlampe für innen<br/></li><li>schafft in Wohnräumen ein stimmungsvolles Ambiente</li><li>ist eine vielseitig einsetzbare Innenbeleuchtung</li><li>dank Batteriebetrieb unabhängig von Stromquellen</li><li>ohne komplizierte Installation, einfach in der Handhabung <br/></li></ul>"
+}

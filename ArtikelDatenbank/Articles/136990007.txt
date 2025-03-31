@@ -1,0 +1,4 @@
+{
+    "uvp": 84.95,
+    "attributes": "<ul><li>Adventskalender von Sonderpreis Baumarkt</li><li>der Kalender ist mit 24 Werkzeugen versehen</li><li>ideal für jeden Heimwerker egal ob Anfänger oder Profi</li><li>jeden Tag gibt es eine neue Überraschung</li><li><strong>Achtung: Auslaufartikel, Verpackung / Kalender ist teilweise beschädigt</strong></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>handliche Kohleschaufel mit Holzgriff</li><li>erleichtert die Kamin- oder Ofenreinigung</li><li>aus verzinktem Metall gefertigt</li><li>ideal als hilfreiches Zubehör für deinen Holzkamin</li><li>bei Nichtgebrauch platzsparend aufhängbar<br/></li></ul>"
+}

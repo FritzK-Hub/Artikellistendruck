@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Bartnelken einfache Mischung für ca. 250 Pflanzen</li><li>ist eine beliebte Beet- und Schnittblumen</li><li>in Kombination für farbige Blütenpracht</li><li>Probefeldgetestete Qualität</li><li>an rauen Standorten ist Winterschutz vorteilhaft</li></ul>"
+}

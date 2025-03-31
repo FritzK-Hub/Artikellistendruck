@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hochwertige Schlagfallen aus Metall</li><li>klassiche Falle mit Wippe</li><li>extra starke Klemmvorrichtung</li><li>schnelles und effektives fangen von Mäusen</li><li>ohne Gebrauch von Rattengift einsetzbar</li></ul>"
+}

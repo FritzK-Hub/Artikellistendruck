@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>selbstklebenden, transparente Pool-Pflastern 10 Stück</li><li>für Reparaturen an Teichen, Pools oder Gartenschläuchen</li><li>sind individuell zuschneidbar, wasserfest und strapazierfähig</li><li>sichere Haftung auf einer Vielzahl von Materialien</li><li>einfache Handhabung, egal ob über oder unter Wasser<br/></li></ul>"
+}

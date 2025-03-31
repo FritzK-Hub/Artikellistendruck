@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>schnelltrocknender Rostschutzspray mit hoher Deckkraft</li><li>ideale Grundierung von Metallteilen, auch als Holz-Füllgrund geeignet</li><li>100% Acryl-Rostschutzgrund</li><li>schützt vor Rost mit Langzeitwirkung</li><li>mit automatisch selbstreinigendem Spezialventil</li></ul>"
+}

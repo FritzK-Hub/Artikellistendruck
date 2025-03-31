@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>LED-Minilampe batteriebetrieben in Grau</li><li>schafft eine entspannte Wohlfühlatmosphäre</li><li>zur Gestaltung von Wohnräumen oder Treppenhäusern</li><li>als Tischdekoration im Innen– und Außenbereich einsetzbar</li><li>vielseitig einsetzbare Leuchtdekoration<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>ergiebiger Füllspachtel für Außen<br/></li><li>für tiefe Löcher und Risse</li><li>für Putz und Mauerwerk</li><li>extrem füllstark, witterungsbeständig</li><li>in bester Handwerker-Qualität<br/></li></ul>"
+}

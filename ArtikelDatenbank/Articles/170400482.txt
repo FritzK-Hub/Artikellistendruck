@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Teelichter-Set 9 Stück mit grünem Ingwertee-Duft</li><li>schafft ein gemütliches Wohlfühlambiente</li><li>lassen sich für dekorative Zwecke beliebig platzieren</li><li>bieten ein gleichmäßiges, ruhiges Brennverhalten</li><li>auch in Teelichthalterungen platzierbar<br/></li></ul>"
+}

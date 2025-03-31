@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>hochwertiger Zweigeräte-TV-Verteiler</li><li>1 x Koaxial-Kupplung / 2 x Koaxial-Stecker</li><li>Standardverteiler für TV</li><li>Antennensignal verteilt sich auf zwei Fernsehgeräten</li><li>TV-Splitter aus stabilem Kunststoff</li></ul>"
+}

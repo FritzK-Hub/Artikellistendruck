@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Doppelfeder-Spatenstiel von GERMANIA®<br/></li><li>für Herren</li><li>aus Eschenholz</li><li>mit T-Griff</li><li>Ersatz-Spatenstiel mit Ø 4 cm<br/></li></ul>"
+}

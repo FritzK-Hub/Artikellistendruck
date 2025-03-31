@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Teelichthalter für bis zu neun Kerzen</li><li>schafft ein entspanntes, gemütliches Ambiente</li><li>zur weihnachtlichen Gestaltung von Wohnräumen oder </li><li>Eingangsbereichen</li><li>vielseitig einsetzbare als Dekoration oder Geschenkidee</li><li>universell für alle LED- als auch für normale Teelichter geeignet<br/></li></ul>"
+}

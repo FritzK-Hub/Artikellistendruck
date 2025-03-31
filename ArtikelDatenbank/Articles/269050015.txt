@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> Kabelbinder aus Polyamid </li><li> hohe Zugkraft <br/></li><li> ab einem Bündeldurchmesser von ca. 4 mm geeignet </li><li> schwer entflammbar, selbstlöschend </li><li>Zertifikate: UL/CE/GL/ MIL </li></ul> </div><p><br/></p>"
+}

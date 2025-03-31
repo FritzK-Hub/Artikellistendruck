@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Biodünger für Gemüse und Obst 2,5 kg für ca. 80 m²</li><li>einzigartiger Naturdünger aus organischen und mineralischen Rohstoffen</li><li>macht den Boden fruchtbar und wirkt Humusbildend</li><li>sofortige und langanhaltende Wirkung</li><li>für alle Gemüse- und Obstsorten<br/></li></ul>"
+}

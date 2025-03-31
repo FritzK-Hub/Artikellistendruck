@@ -1,0 +1,4 @@
+{
+    "uvp": 56.99,
+    "attributes": "<ul><li>Schutzbeschlag mit handlichen Türknauf und Drücker</li><li>aus leichtem Aluminium in Silber gefertigt</li><li>passend für Wohnungstüren mit 40 mm Türstärke</li><li>mit PZ-Lochungen für einfaches Bohren versehen</li><li>inklusive Befestigungsmaterial zur schnellen Montage<br/></li></ul>"
+}

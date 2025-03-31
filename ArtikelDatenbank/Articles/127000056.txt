@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Astschere mit Ratschenfunktion</li><li>ideal zum Schneiden im heimischen Garten</li><li>für Äste oder Zweige mit max. 30 mm Durchmesser</li><li>Klingen mit Antihaftbeschichtung versehen</li><li>für Links- oder Rechtshänder geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>stimmungsvolle Lagerfeuer-Romantik überall genießen</li><li>hochwertige LEDs mit langer Lebensdauer</li><li>flexibel und kabellos positionierbar</li><li>energieeffizient und umweltfreundlich</li><li>elegantes Design für jedes Zuhause</li></ul>"
+}

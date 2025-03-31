@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>hochwirksame Bekämpfung</li><li>schnell und langanhaltend</li><li>hohe Pflanzenverträglichkeit</li><li>einfache Anwendung</li><li>umwelt- und bienenfreundlich<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 67.0,
+    "attributes": "<ul><li>Spezialeinsätze für Antriebswellen und Gelenkwellen </li><li>speziell auf den Bedarf professioneller Anwender</li><li>aus schlagfestem Chrom-Molybdän-Stahl gefertigt</li><li>halten selbst stärksten Belastungen stand</li><li>in stabilem Kunststoffkoffer<br/></li></ul>"
+}

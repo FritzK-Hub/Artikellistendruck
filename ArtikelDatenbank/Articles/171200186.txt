@@ -1,0 +1,4 @@
+{
+    "uvp": 36.95,
+    "attributes": "<ul><li>zur Auffrischung von Terrassen und Holzmöbeln</li><li>Schutz vor Vergrauuung</li><li>UV-beständig und witterungsbeständig </li><li>atmungsaktiv und schmutzabweisend</li><li>rein pflanzliche Öle<br/></li></ul>"
+}

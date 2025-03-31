@@ -1,0 +1,4 @@
+{
+    "uvp": 13.79,
+    "attributes": "<ul><li>Läutewerk mit Trafobetrieb, verchromt</li><li>elektromagnetische Klingel</li><li>zum Anschluss an eine Klingelanlage</li><li>Lautstärke 80 dB</li><li>zweispulig, für Wechselstrom geeignet</li></ul>"
+}

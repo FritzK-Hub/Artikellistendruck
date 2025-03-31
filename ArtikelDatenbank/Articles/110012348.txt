@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>hoher Zinngehalt von 60%</li><li>erfüllt die Qualitätsstandards der DIN EN ISO 9453 </li><li>praktische Kunststoffdose mit integriertem Pinsel </li><li>ideal zum Löten von Kupferrohren in Kalt- und Warmwasserinstallationen</li><li>sorgt für zuverlässige und langlebige Lötverbindungen<br/></li></ul>"
+}

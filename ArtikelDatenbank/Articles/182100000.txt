@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Fahrradreifen 12 ½ x 2 ¼ Zoll aus Nylon</li><li>für 12,5\" Kinderfahrräder</li><li>schneller und einfacher Wechsel</li><li>passend für Felgen 19-29 mm</li><li>auch für 47 bis 62-203</li></ul>"
+}

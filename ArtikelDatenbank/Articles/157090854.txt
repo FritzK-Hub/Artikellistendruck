@@ -1,0 +1,4 @@
+{
+    "uvp": 16.66,
+    "attributes": "<ul><li>geeignet für Carports, Gartenhäuser, Vordächer<br/></li><li>für zuverlässige Dachentwässerung</li><li>aus stabilem Kunststoff<br/></li><li>witterungsbeständig und UV-beständig</li><li>Länge 200 cm</li></ul>"
+}

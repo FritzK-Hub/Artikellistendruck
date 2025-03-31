@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>stabiler Rahmen zur langlebigen Nutzung</li><li>müheloses Aufrollen durch einfaches Kurbeln</li><li>großes Fassungsvermögen - ideal für lange Schläuche</li><li>mobil dank leichtläufiger Räder</li><li>platzsparend und einfach zu verstauen</li></ul>"
+}

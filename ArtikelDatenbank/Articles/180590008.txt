@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>AdBlue® in 10 Liter Kanister mit Füllschlauch</li><li>in einem handlichen 10 Liter Kanister</li><li>für alle Dieselfahrzeuge mit SCR-Technologie</li><li>reduziert die Stickoxide um bis zu 80 %</li><li>reduziert den Rußpartikel-Ausstoß um mindestens 80%<br/></li></ul>"
+}

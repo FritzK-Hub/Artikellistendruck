@@ -1,0 +1,4 @@
+{
+    "uvp": 36.99,
+    "attributes": "<ul><li>vielseitiger Stauraum</li><li>pulverbeschichtete Oberfläche</li><li>mühelose Montage</li><li>platzsparendes Design</li><li>praktische Haken für Zusatznutzen<br/></li></ul>"
+}

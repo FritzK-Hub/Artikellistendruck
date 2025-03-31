@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>umfangreiches Steckschlüsselsatz mit verschiedenen Größen und Steckkombinationen</li><li>passend für alle Schraubarbeiten rund um das Auto, Motorrad oder im Haushalt</li><li>besonders langlebig, aus massivem Chrom-Vanadium Stahl</li><li>Quick-Release-Systems erleichtert den Wechsel zwischen den einzelnen Aufsätzen</li><li>robuster Aufbewahrungskoffer für sicheren Transport und geordnete Aufbewahrung</li></ul>"
+}

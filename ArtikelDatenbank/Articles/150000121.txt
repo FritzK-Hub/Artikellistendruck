@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>umweltfreundliche Unkrautbeseitigung für Außenbereiche</li><li>hohe Ergiebigkeit durch verdünnten Einsatz</li><li>natürliche Alternative zu chemischen Mitteln</li><li>einfache, unkomplizierte Anwendung</li><li>langanhaltender Schutz vor Unkrautausbreitung</li></ul>"
+}

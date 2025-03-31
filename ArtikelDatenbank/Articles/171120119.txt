@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>dekorativer Metallic- Effekt</li><li>auf vielen Oberflächen anwendbar</li><li>schnell-trocknend</li><li>einfache und praktische Anwendung</li><li>optimaler Effekt auf schwarzem Untergrund</li></ul><p><br/></p>"
+}

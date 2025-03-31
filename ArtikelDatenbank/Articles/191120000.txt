@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Wasseranalyse für Schwimmbäder</li><li>für pH-Wert, freies Chlor, Algenschutz</li><li>enthält 50 Teststreifen</li><li>leichte Handhabung</li><li>zuverlässige Analysenergebnisse<br/></li></ul>"
+}

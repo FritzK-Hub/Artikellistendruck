@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>klassischer Messbecher aus Kunststoff</li><li>mit Liter-, Zucker- und Mehlskala</li><li>aufgedruckte Skalen auf beiden Seiten</li><li>Skalen in 5 Sprachen</li><li>mit geschlossenem Griff</li></ul>"
+}

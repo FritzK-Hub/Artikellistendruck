@@ -1,0 +1,4 @@
+{
+    "uvp": 355.95,
+    "attributes": "<ul><li>4-Sitzer Gartenbank aus Holz</li><li>mit Rückenlehne und Armlehnen</li><li>großer Stauraum</li><li>geöltes Eukalyptusholz</li><li>Truhenbank für 4 Personen</li></ul>"
+}

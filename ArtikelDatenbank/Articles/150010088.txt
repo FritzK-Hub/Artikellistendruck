@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>für besonders schonende Reinigung von Auto, Wohnwagen, Wohnmobil</li><li>kann nass oder trocken verwendet werden</li><li>abnehmbar, waschbar, wiederverwendbar</li><li>Ersatzhaube für Mikrofaser Waschmopp<br/></li><li>sicherer Sitz dank Kordelzug</li></ul>"
+}

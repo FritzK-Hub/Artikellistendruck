@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Trennstreifen gelocht in 4 Farben</li><li>40 Stück im Set</li><li>bunt gemischt</li><li>8 cm Lochung</li><li>Registerstreifen für DIN A4 Ordner<br/></li></ul>"
+}

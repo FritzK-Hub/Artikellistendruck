@@ -1,0 +1,4 @@
+{
+    "uvp": 6.25,
+    "attributes": "<ul><li>gebrauchsfertige Paste in 150 g-Eimer</li><li>für eine schnelle Holzreparatur</li><li>individuelle Farbgestaltung durch Mischen</li><li>vielseitige Bearbeitungsmöglichkeiten</li><li>für makellose Ergebnisse<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Art: Maschinenschraube DIN 933 (auch Sechskantschraube und Schlüsselschraube genannt)</li><li>Kopf: Sechskant / 6-kant</li><li>Gewinde: metrisches Gewinde</li><li>Material: A2 Edelstahl</li><li>Beständigkeit gegen Rost: hoch</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Farbroller für alle Bodenbeschichtungen</li><li>gleichmäßiger Materialauftrag</li><li>sehr gute Farbaufnahme und -abgabe</li><li>besonders spritz- und flusenarm</li></ul>"
+}

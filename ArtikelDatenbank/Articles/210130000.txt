@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>robustes Blechmaterial</li><li>stabil und langlebig</li><li>einfache Montage</li><li>vielseitig einsetzbar</li><li>komfortable Handhabung</li></ul>"
+}

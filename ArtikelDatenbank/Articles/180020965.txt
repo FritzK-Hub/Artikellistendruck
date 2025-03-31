@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Schnellkupplung aus Messing</li><li>mit 3/4\" Außengewinde</li><li>zur schnellen und einfachen Verbindung von Schläuchen an Aggregate oder Schläuchen untereinander</li><li>kein selbstständiges Lösen auch in drucklosem Zustand</li><li>bei allen Schnellkupplungen beträgt der Klauenabstand einheitlich 40mm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>zur Verlegung von Sinus-Wellplatten auf Holzkonstruktionen</li><li>aus robustem Kunststoff, besonders widerstandsfähig</li><li>transparente Form passt sich unauffällig dem Gesamtbild an</li><li>verhindert Verformung der Platte</li><li>erleichtern die Montage</li></ul>"
+}

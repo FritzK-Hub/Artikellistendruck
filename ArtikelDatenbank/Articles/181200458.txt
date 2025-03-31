@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Rote Rübe Cylindra für ca. 120 Pflanzen</li><li>eine ertragreiche, spätreifende Rübensorte</li><li>besonders schossresistent mit dunkelrotem Fleisch</li><li>ideal als Salatgemüse oder zur Nasskonservierung</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

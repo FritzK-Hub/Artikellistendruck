@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>2-adrige Zwillingsleitung mit 10 m Länge </li><li>lässt sich flexibel um Ecken und Kanten führen</li><li>zum Einsatz als Niederspannungsleitung bis max. 50 V geeignet</li><li>z. B. für den Anschluss leichter Elektrogeräte wie Radios oder Uhren</li><li>Verwendung in trockenen Räumen bei sehr geringer mechanischer Beanspruchung<br/></li></ul>"
+}

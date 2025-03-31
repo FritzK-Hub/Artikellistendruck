@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>hochwertiges Wundpflaster in 4 verschiedenen Größen</li><li>zur Abdeckung von Hautverletzungen</li><li>besonders hautfreundlich</li><li>Schmutz- und Wasserabweisend</li><li>schmerzlos zu entfernen</li></ul>"
+}

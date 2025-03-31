@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>4-seitig gehobelte Latte aus Fichte oder Tanne</li><li>unbehandeltes und kammergetrocknetes Holz mit gefasten Kanten<br/></li><li>vielseitig einsetzbar für Renovierungsarbeiten und Ausbauten</li><li>für die Montage von Gipskarton- oder OSB-Platten</li><li>sehr gut geeignet für die Konstruktion von Regalen<br/></li></ul>"
+}

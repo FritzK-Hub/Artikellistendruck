@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>LED-Lichterkette aus Sisalseil mit 30 warmweißen LED</li><li>schafft eine weihnachtliche Atmosphäre</li><li>vielfältig einsetzbare Weihnachtsdekoration</li><li>verfügt über eine Timerfunktion von 6 Stunden</li><li>inklusive einer 30 cm langen Zuleitung<br/></li></ul>"
+}

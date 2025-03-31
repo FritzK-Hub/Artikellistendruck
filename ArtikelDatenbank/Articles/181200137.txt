@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Mairüben Holländische Weiße</li><li>Packung reicht für ca. 1300 – 1500 Pflanzen</li><li>ideal als Stoppelfrucht (Humusbildung im Boden)</li><li>weißfleischige Rübe gedeiht auf Sandböden</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

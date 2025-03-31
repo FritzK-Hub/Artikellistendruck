@@ -1,0 +1,4 @@
+{
+    "uvp": 7.89,
+    "attributes": "<ul><li>Motoröl für 2-Takt-Motoren wie Motorräder, Rasenmäher etc.</li><li>selbstmischend<br/></li><li>guter Korrosionsschutz</li><li>rückstandsfreie Verbrennung</li><li>hält Zündkerzen sauber</li><li>hoher Verschleißschutz<br/></li></ul>"
+}

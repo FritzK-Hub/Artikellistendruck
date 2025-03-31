@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>5-teiliges Maler Universal-Set</li><li>Basis-Qualität für einfache Streicharbeiten</li><li>Set bestehend aus Flachpinsel und Rundpinsel</li><li>für wasser- und lösungsmittelhaltige Farben</li><li>mit Holz- bzw. Kunststoffgriff</li></ul>"
+}

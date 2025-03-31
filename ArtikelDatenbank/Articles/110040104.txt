@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Alu-Grillpfannen im Set</li><li>Auffangrillen verhindern das Abtropfen von Fett</li><li>kein Entstehen gesundheitsschädlicher Stoffe</li><li>immer sauberer Grillrost</li><li>das Grillfleisch bleibt zart und saftig</li></ul>"
+}

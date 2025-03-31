@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>beidseitiger Rohranschluss Ø 100 mm</li><li>verhindert Luft- und Geruchsrückstrom<br/></li><li>mit selbsttätiger Rückstauklappe</li><li>reduziert Energieverluste</li><li>aus stabilem Kunststoff</li></ul>"
+}

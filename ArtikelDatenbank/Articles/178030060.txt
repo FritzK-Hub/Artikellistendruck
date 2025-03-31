@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>selbstklebendes Gitterband für einfache Wandreparaturen</li><li>zum Abdecken der Stoßkanten von Gipskartonplatten</li><li>sorgt für Stabilität der Füllmasse</li><li>Gewebe-Fugenband für den Trockenbau </li><li>Rissband zur Überbrückung von Putzrissen im Innenbereich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>Ersatzrad auf Metallfelge für verschiedene Beanspruchungen bei Sackkarren</li><li>besonders widerstandfähig und belastbar, aus stabilem Polyurethan gefertigt</li><li>besitzt eine Größe von 260 mm, passend für viele handelsübliche Sackkarren</li><li>vielseitige Einsatzmöglichkeiten, Kugellager garantiert eine reibungslose Arbeit</li><li>einfach in der Handhabung, lässt sich schnell und unkompliziert austauschen</li></ul>"
+}

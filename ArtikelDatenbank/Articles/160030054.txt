@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Gartenhandschuhe Super Grip Größe 11 aus Nylon</li><li>Handinnenfläche mit Nitril-Beschichtung versehen</li><li>ermöglicht eine reibungslose Gartenarbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>besitzt einen angenehmen Komfort wie Belastbarkeit<br/></li></ul>"
+}

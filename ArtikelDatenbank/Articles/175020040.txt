@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Black&amp;Decker Elektro-Bandschleifer mit starken 720 Watt</li><li>ideal für große Flächen und randnahes Schleifen</li><li>einfacher Austausch der Schleifbänder</li><li>automatische Bandlaufjustierung</li><li>inklusive Staubfangsack für sauberes Arbeitsumfeld</li></ul>"
+}

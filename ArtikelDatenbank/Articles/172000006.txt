@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>weiße Aufputz Steckdose 2-fach 250 V </li><li>mit Kindersicherung</li><li>aus stabilem Kunststoff gefertigt</li><li>fügt sich in vielen Einrichtungskonzepten ein</li><li>inklusive Schraubklemmen</li></ul>"
+}

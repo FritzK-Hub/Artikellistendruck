@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>frühreife Ernte</li><li>lange Lagerfähigkeit</li><li>geringe Neigung zu Schossen und Verholzen</li><li>vielseitiger Freilandanbau</li><li>optimale Pflegeanforderungen<br/></li></ul>"
+}

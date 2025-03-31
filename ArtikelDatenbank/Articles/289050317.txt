@@ -1,0 +1,4 @@
+{
+    "uvp": 6.03,
+    "attributes": "<ul><li>Übergangsprofil gewölbt aus eloxiertem Aluminium in bronze</li><li>zur dauerhaften Verbindung zweier gleich- oder verschiedenartigen Bodenbelägen</li><li>unsaubere Schnittkanten werden verdeckt</li><li>auf Stoß verlegte Übergänge werden dauerhaft geschützt</li><li>Stolperfallen werden vermieden<br/><br/></li></ul>"
+}

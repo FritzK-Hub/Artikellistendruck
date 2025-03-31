@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>vielseitiges Set für präzise Schnitte</li><li>immer scharfe Klingen durch Segmentierung</li><li>komfortable Handhabung dank ergonomischer Griffe</li><li>robustes Design schafft lange Haltbarkeit</li><li>inklusive 20 Ersatzklingen für Nachschub</li></ul>"
+}

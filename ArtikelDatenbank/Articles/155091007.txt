@@ -1,0 +1,4 @@
+{
+    "uvp": 4.19,
+    "attributes": "<ul><ul><li>für Rauchwarnmelder mit einem Durchmesser von 70 mm \t</li><li>erleichtert Batteriewechsel und Funktionstest beim Rauchmelder </li> <li>sichere Befestigung durch starke Klebe-Pads</li> <li>leichte, zeitsparende Montage ohne Werkzeug, ohne Bohren, ohne Schmutz</li> <li>keine Gefahr, Leitungen zu beschädigen </li></ul></ul>"
+}

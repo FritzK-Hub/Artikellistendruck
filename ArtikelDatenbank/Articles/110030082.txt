@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>unverzichtbares Küchenutensil mit Griffleiste</li><li>optimale Saugfähigkeit und Haltbarkeit</li><li>effektive Entfernung von Verschmutzungen</li><li>besonders langlebig und zuverlässig</li><li>einfache Handhabung<br/></li></ul>"
+}

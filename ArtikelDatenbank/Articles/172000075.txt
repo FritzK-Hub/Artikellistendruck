@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    für Drehdimmer Art.-Nummer 43763, 43764 und 43765,/nmit Befestigungsmutter\"\"/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n                "
+}

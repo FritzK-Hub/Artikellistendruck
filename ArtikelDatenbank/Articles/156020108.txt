@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Eckenpinsel mit gebogenem Pinselkopf</li><li>bestens geeignet für schwer zugängliche Stellen</li><li>gute Farbaufnahme und Abgabe, sehr flexible Borste</li><li>langer und stabiler Holzstiel</li><li>bestens geeignet für alle Lacke</li></ul>"
+}

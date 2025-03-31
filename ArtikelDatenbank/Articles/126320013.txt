@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>Akku-Kettensäge 20 V GERMANIA® Plattform 2.0</li><li>geeignet für Baumschnitte oder Brennholz</li><li>Softgriff und werkzeuglose Kettenspannung</li><li>automatische Kettenschmierung für reibungsloses Sägen</li><li>inklusive Akku und Ladegerät</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>kompakt und leistungsstark</li><li>präzise Einschraubtiefen</li><li>leichte und ergonomische Bauweise</li><li>vielseitig und praktisch</li><li>hohe Langlebigkeit</li></ul>"
+}

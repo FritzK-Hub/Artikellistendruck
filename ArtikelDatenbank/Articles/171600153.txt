@@ -1,0 +1,4 @@
+{
+    "uvp": 32.49,
+    "attributes": "<ul><li>WPC-Experte für optimalen Schutz</li><li>langanhaltende Versiegelung gegen Witterungseinflüsse</li><li>effektiver Schutz vor Fett und Flüssigkeiten</li><li>wasserabweisender Effekt bietet zusätzliche Beständigkeit</li><li>einfache Anwendung, kurze Trocknungszeiten, schnelle Ergebnisse</li></ul><p> </p><p></p>"
+}

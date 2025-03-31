@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Rasenkanten aus Kunststoff im 8er Set</li><li>dekorative Einfassung für Wege und Beete</li><li>sehr einfach zu montieren</li><li>mehrere Einfassungen miteinander verbindbar</li><li>kältebeständig, wetterfest, UV-beständig<br/></li></ul>"
+}

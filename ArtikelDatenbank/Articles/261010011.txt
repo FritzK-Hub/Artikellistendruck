@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Spreizdübel mit Kragen in grau</li><li>Inhalt 100 Stück</li><li>Durchmesser Ø 8 mm</li><li>zur Befestigung von Bilderrahmen oder Lampen</li><li>Dübel für die Decke oder Wand<br/></li></ul>"
+}

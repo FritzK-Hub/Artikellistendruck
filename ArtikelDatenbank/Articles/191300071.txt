@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>elektrische Kühlbox in Blau</li><li>bietet ein Fassungsvermögen von 22 Litern</li><li>auch für Auto, Boot oder Camping geeignet</li><li>geräuschlose Kühlung durch Kühlaggregat</li><li>integrierte Ventilator sorgt für gute Belüftung <br/></li></ul>"
+}

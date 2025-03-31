@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>GERMANIA® Ratschen-Ringmaulschlüssel</li><li>feinverzahnte Ratschenfunktion</li><li>aus Chrom-Vanadium-Stahl hergestellt</li><li>matt polierte und satinierte Oberfläche</li><li>lange Lebensdauer im täglichen Werkstatteinsatz</li></ul>"
+}

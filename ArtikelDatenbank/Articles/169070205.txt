@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Profil-Schließzylinder</li><li>beidseitig schließbar</li><li>mit 5 Schlüsseln im Lieferumfang</li><li>ideal für den Einbau in Haustüren geeignet</li><li>Aufteilung 30/30 (vorne/hinten)<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Politurpaste erzeugt brillanten Hochglanz</li><li>Metallpolitur entfernt Kratzer, Rost und Verfärbungen von blanken, unlackierten Metallflächen</li><li>reinigt und poliert intensiv und schonend</li><li>arbeitet korrodierte blind gewordene Metalle auf</li><li>schützt vor erneutem Anlaufen und Rost</li></ul>"
+}

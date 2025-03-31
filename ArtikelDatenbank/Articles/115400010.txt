@@ -1,0 +1,4 @@
+{
+    "uvp": 199.99,
+    "attributes": "<ul><li>Metall Werkbank pulverbeschichtet</li><li>höhenverstellbare Gewindefüße</li><li>stabile Arbeitsplatte aus Holz</li><li>ideal zur Aufbewahrung von Werkzeugen</li><li>zwei Fächer mit abschließbaren Türen</li></ul>"
+}

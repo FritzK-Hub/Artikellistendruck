@@ -1,0 +1,4 @@
+{
+    "uvp": 4.7,
+    "attributes": "<ul><li>Abbrechmesser aus Kunststoff</li><li>ausschiebbare Klinge </li><li>mit automatischer Arretierung</li><li>gezahnte Führung<br/></li><li>zum Öffnen von Kartons, Schneiden von Papier und Tapeten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>problemloses Entfernen von Laub und Gartenabfällen </li><li>21 flache, besonders elastische Zinken</li><li>Arbeitsbreite von 375 mm</li><li>Stiellänge 1400mm    </li><li>Gesamtlänge 1445mm</li></ul>"
+}

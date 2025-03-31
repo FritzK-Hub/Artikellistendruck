@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>aktive Full HD DVB-T2 Zimmerantenne</li><li>speziell für HD/SD digitalen terrestrischen Fernsehempfang</li><li>zum Empfang von digitalen TV-Signalen im UHF (470-790MHz)-Bereich</li><li>GSM/LTE/4G - Filter zur Vermeidung von lästigen Störungen durch Handys</li><li>ultraflache Bauweise (5mm), Stand- oder Wandmontage geeignet<br/></li></ul>"
+}

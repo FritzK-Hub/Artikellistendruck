@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Kastenaufschraubschloss mit Buntbart-Lochung (nicht im Lieferumfang)</li><li>mit Aussparung für Buntbart-Schlüssel</li><li>für rechts- und links-hängende Türen</li><li>mit Beschlag und Schliessblech</li><li>2 Schlüssel sind mit inklusive</li></ul>"
+}

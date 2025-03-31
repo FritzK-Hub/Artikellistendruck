@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>Gardena Perlstrahl-Gewindeadapter für den Anschluss des Gardena-Systems</li><li>Passend für Wasserhähne im Küchen- oder Badbereich</li><li>ist frostbeständig, wasserdicht und tropft nicht</li><li>der Gewindeadapter ist passend für Wasserhähne mit M 22 x 1 Innengewinde</li><li>Ausgangsseitig ist er mit einem 3/4“ Gewinde versehen<br/></li></ul>"
+}

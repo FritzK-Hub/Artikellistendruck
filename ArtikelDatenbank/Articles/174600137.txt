@@ -1,0 +1,4 @@
+{
+    "uvp": 21.99,
+    "attributes": "<ul><li>auswechselbarer Bürstenkopf</li><li>elegantes Design</li><li>vielseitige Montageoptionen</li><li>hochwertiges Material</li><li>einfache Installation<br/></li></ul>"
+}

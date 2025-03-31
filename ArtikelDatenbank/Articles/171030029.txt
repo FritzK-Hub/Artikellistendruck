@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Kreidefarbe Classic White extra matt</li><li>eignet sich für Möbel, Wände und Wohnaccessoires</li><li>enthält Kreide, ist stark pigmentiert und hat ausgezeichnete Deckkraft</li><li>für großartige Matteffekte und intensive Farben </li><li>besonders für dekorative Techniken<br/></li></ul>"
+}

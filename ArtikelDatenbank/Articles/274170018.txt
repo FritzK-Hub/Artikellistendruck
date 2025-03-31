@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Cuttermesser</li><li>18mm Abbrechklinge</li><li>Klingenarretierung im Schieber</li><li>robuster Kunststoffgriff</li><li>Werkzeug für Renovierungsarbeiten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>zusätzliche Sicherung des PKW-Anhängers <br/></li><li>betätigt die Bremse eines Anhängers, falls dieser sich während der Fahrt vom Zugfahrzeug löst<br/></li><li>    mit robustem PVC-Mantel zum Schutz vor Verschleiß und Beschädigungen</li><li>kann größere Schäden und Unfälle verhindern</li><li>einfach zu befestigen und sorgt für Sicherheit <br/></li></ul>"
+}

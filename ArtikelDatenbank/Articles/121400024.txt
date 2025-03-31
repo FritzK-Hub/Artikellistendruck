@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>umfangreiches Garten-Set Respana aus Kunststoff in Schwarz</li><li>umfasst die wichtigsten Werkzeuge rund um die Gartenarbeit</li><li>Blumenkelle, Doppelhacke und Handrechen zum Umgraben der Erde</li><li>Pflanzhilfe zum Ausstechen von Löchern für Setzlinge</li><li>inklusive Unkrautstecher und Handeimer<br/></li></ul>"
+}

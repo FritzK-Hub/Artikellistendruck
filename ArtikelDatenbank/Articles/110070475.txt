@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>praktischer Kaminkratzer</li><li>widerstandsfähiger Stahl mit Holzgriff</li><li>Aufhängeöse zur sicheren Aufbewahrung</li><li>leichte Handhabung durch massiven Holzgriff</li><li>ideal als hilfreiches Zubehör für deinen Holzkamin</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>zum Schutz von Fahrzeug-Unterböden und Karosserien vor Korrosion, Streusalz, Steinschlag und Wasser</li><li>Wachs Korrosionschutz besonders einfach und sauber zu verarbeiten</li><li>in jeder Lage nebelfrei sprühbar</li><li>ideal zu Erneuerung der werksseitigen Wachsschutzschicht bei Neuwagen</li><li>schwärzt nicht, schützt und erhält die Metall- oder Lackoptik im Bodenbereich</li></ul>"
+}

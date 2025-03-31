@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>Ersatzdach für Pavillon Venezia</li><li>wasserdichte Dachbespannung</li><li>aus robustem Polyester</li><li>mit PVC-Beschichtung</li><li>wetterbeständig</li></ul>"
+}

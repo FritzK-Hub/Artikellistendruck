@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Feinmechaniker Schraubendrehersatz 6-teilig</li><li>mit rotierendem Kopf für sicheres, kontrolliertes Arbeiten</li><li>im praktischer Aufbewahrungskassette</li><li>für Arbeiten in der Computertechnik, Elektronik, Feinmechanik und Datenkommunikation</li><li>für Reparaturen an Schmuck, Brillen, Uhren oder Modellbau</li></ul>"
+}

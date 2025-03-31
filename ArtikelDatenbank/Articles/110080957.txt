@@ -1,0 +1,4 @@
+{
+    "uvp": 4.2,
+    "attributes": "<ul><li>runde Filzgleiter mit Schraube im Set 4 Stück</li><li>schützen die Böden vor Kratzern</li><li>einfache Montage und fester Halt</li><li>erleichtert das Verrücken von Stühlen oder Möbelstücken</li><li>geeignet für glatte Böden wie Stein, Marmor, Fliesen oder Parkett<br/></li></ul>"
+}

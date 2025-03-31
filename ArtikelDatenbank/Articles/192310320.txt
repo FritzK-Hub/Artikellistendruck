@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>vielseitig einsetzbar - im Sommer wie Winter</li><li>Solar-Aufladung bei Sonnenschein</li><li>USB-Aufladung als Alternative</li><li>Fernbedienung für individuelle Lichteffekte</li><li>nachhaltig durch Solarbetrieb unter Timer</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<p>- matt verchromt<br/>- DIN-Modell<br/>- 6 kt.</p>"
+}

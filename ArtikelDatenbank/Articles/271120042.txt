@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Holz Spiralbohrer aus hochwertigem CV-Stahl</li><li>Bohrer geeignet für Weich- und Hartholz</li><li>hohe Qualität von GERMANIA® Qualitätswerkzeuge</li><li>große Stabilität und Festigkeit</li><li>für professionelle und Hobbyheimwerker</li></ul>"
+}

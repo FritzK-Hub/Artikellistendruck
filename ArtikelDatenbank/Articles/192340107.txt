@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Teelichthalterung aus natürlichen Salzkristallen</li><li>schafft eine entspannte Wohlfühlatmosphäre</li><li>bei schöner Gestaltung ein echter Blickfang</li><li>vielseitig einsetzbare Dekoration</li><li>für Kerzen, LED- wie normale Teelichter geeignet<br/></li></ul>"
+}

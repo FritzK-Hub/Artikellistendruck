@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Spanngurt für Gepäckträger</li><li>extrem strapazierfähig</li><li>mit formstabilen Sicherheitshaken aus Metall</li><li>inklusive Gummischutz am Haken</li><li>Spanngummi universell einsetzbar</li></ul>"
+}

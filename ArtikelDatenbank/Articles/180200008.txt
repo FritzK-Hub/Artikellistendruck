@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>beseitigt Quietschen, für optimalen Lauf beweglicher Teile</li><li>ohne Silikon, daher kein Verkleben</li><li>verdrängt Feuchtigkeit, verhindert Kriechströme</li><li>reinigt und schützt, löst hartnäckigen Schmutz</li><li>lockert verrostete Teile und festsitzende Mechanik<br/></li></ul>"
+}

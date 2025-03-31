@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>vielseitige Anwendung</li><li>farbliche Vielfalt</li><li>schnelle Reparatur</li><li>zuverlässiger Schutz</li><li>umfassende Größenauswahl</li></ul>"
+}

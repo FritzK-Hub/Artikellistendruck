@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Speisemöhre „Nantasie 2“ dunkelrot mit süßem Fleisch</li><li>ideal für den Frischverbrauch und zum Tiefgefrieren</li><li>reift früh bis mittelfrüh</li><li>mit Kalk ausreichend versorgen</li><li>robust gegen Krankheiten und Schädlinge</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Witterungsbeständigkeit durch Kesseldruckimprägnierung</li><li>vielseitige Einsatzmöglichkeiten im Außenbereich</li><li>dient zur Montage von Balkonverkleidungen oder Carports</li><li>zum Bauen von Zäunen oder als Pfosten für Pergola geeignet</li><li>hochwertige Verarbeitung durch 4-seitig gehobelte und gefaste Kanten</li></ul>"
+}

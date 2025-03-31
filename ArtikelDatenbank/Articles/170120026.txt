@@ -1,0 +1,4 @@
+{
+    "uvp": 4.59,
+    "attributes": "<ul><li>Drahtbürstensatz 3-teilig für verschiedene Oberflächen</li><li>vielseitig einsetzbar für Reinigungs- und Vorbereitungsarbeiten<br/></li><li>mit robustem, unempfindlichem Kunststoffgriff</li><li>einfache Handhabung auch an schwierigen Stellen</li><li>universell nutzbar in Werkstatt, Garage, Haushalt &amp; Garten</li></ul>"
+}

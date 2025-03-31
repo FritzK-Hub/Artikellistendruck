@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Raufaser Spachtel für innen</li><li>lösungsmittelfrei</li><li>gebrauchsfertig</li><li>schnelltrocknend und überstreichbar</li><li>in einer praktischen, wiederverschließbaren Standtube</li></ul>"
+}

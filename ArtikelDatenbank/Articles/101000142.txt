@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>volles Geschmackserlebnis für Zitronenliebhaber</li><li>ideale Erfrischung, nicht nur an heißen Sommertagen</li><li>abgefüllt in handlicher Blechdose mit 250 ml Inhalt</li><li>geeignet für alle Altersgruppen ob Jung oder Alt</li><li>lässt sich einfach transportieren und lagern</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Hammerbohrer mit SDS plus Aufnahme</li><li>für schlagende und drehende Elektrowerkzeuge, wie leichte bis mittelschwere Bohrmaschinen oder Bohrhämmer</li><li>zum Bohren von Beton, Mauerwerk, Stein usw.</li><li>ermöglicht einen werkzeuglosen und schnellen Wechsel von Bohrern und Meißeln</li><li>hochwertige Qualität</li></ul>"
+}

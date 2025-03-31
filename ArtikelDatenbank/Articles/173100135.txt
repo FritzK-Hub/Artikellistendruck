@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>LED-Lampe birnenförmig mit 11,8 W, E27</li><li>hohe Farbwiedergabe, RA-Wert gleich 90</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
+}

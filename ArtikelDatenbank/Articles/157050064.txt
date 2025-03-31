@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Sprühlack mit tollen Gold Effekten</li><li>ideal zum Ausbessern von Schadstellen</li><li>schnell-trocknender, gold glänzender Sprühlack</li><li>für Auto-, Motorrad- und Fahrradfelgen</li><li>einfache und praktische Anwendung</li></ul>"
+}

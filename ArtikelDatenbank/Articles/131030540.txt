@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>hygienische Reinigung und Pflege deiner Waschmaschine</li><li>entfernt zuverlässig Gerüche, Kalk und Beläge</li><li>einfache Handhabung und leicht zu benutzen</li><li>reinigt Heizstäbe, Trommel, Türdichtungen und Waschmitteleinspülkasten</li><li>verlängert die Lebensdauer und beugt Funktionsstörungen vor<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.9,
+    "attributes": "<ul><li>Federklappdübel für Hohlräume mit Rändelmutter</li><li>2 Stück Spezial-Spreizdübel im Set</li><li>mit Federmechanismus für eine große Auflagefläche</li><li>für einen festen Halt</li><li>ideal für hohle Decken</li></ul>"
+}

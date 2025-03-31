@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>robuster Flugdrache 120 x 60 cm mit 2 x 50 m Doppelleine</li><li>für junge Piloten bestens geeignet</li><li>ruhiges Flugverhalten auch bei leichtem Wind</li><li>in verschiedenen Farben erhältlich (Farbauswahl nicht möglich)</li><li>bei Nichtgebrauch in der Tasche verstaubar<br/></li></ul>"
+}

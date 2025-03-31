@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>hochwertiger Fittingslot 3</li><li>für Warm, Kalt und Trinkwasserinstallation</li><li>für Tiffany Arbeiten</li><li>verwendbar mit Fittingslötpaste 3</li><li>Lötzubehör<br/></li></ul>"
+}

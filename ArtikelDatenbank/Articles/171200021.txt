@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>für die transparent-weiße Einfärbung</li><li>speziell für den Innenbereich</li><li>strapazierfähiger Schutz</li><li>einfache Anwendung</li><li>natürliche Ästhetik<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>für besonders schonende Reinigung von Auto, Wohnwagen, Wohnmobil</li><li>kann nass oder trocken verwendet werden</li><li>abnehmbar, waschbar, wiederverwendbar</li><li>mit Teleskopstange, ausziehbar bis 170 cm</li><li>Anschluss an jede Schlauchkupplung möglich<br/></li></ul>"
+}

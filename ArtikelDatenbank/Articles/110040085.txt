@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Backpapier doppelseitig spezialbeschichtet</li><li>für Backofen und Mikrowelle geeignet</li><li>hitzebeständig bis 220°C</li><li>geeignet als Zwischenablage für Gefriergut</li><li>beidseitig verwendbar</li></ul>"
+}

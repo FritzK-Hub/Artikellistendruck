@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Kugelkopf-Staubbiene mit Teleskopstiel</li><li>mit stabilem Kunststoff-Borsten versehen</li><li>teleskopierbar von 129 bis 240 cm</li><li>entfernt problemlos Staub, Schmutz und Tierhaare </li><li>erreicht auch mühelos schwer zugängliche Stellen<br/></li></ul>"
+}

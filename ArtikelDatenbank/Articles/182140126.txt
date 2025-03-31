@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>komfortable, sichere Handynutzung beim Fahrradfahren</li><li>schnelle, einfache werkzeuglose Montage<br/></li><li>Feststellhaken sichert Smartphone zuverlässig</li><li>volle 360-Grad-Drehung bietet maximale Flexibilität</li><li>universelle Passform für verschiedene Smartphones</li></ul>"
+}

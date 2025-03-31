@@ -1,0 +1,4 @@
+{
+    "uvp": 79.99,
+    "attributes": "<ul><li>hohe Vielseitigkeit</li><li>präzise Steuerung</li><li>inklusiver Rührstab</li><li>robuste Konstruktion</li><li>großes Mischgutvolumen<br/></li></ul>"
+}

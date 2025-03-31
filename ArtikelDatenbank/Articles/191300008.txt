@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>Bartisch Ø 66 x 111 cm aus Metall mit Glashalterungen</li><li>ideal für die nächste Party im Garten, Balkon oder Terrasse</li><li>dank Kühleimer hast du gekühlte Getränke griffbereit</li><li>Wasser lässt sich durch Wasserhahn einfacher entleeren</li><li>bei Nichtgebrauch platzsparend auseinander steckbar</li></ul>"
+}

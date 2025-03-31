@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Streuschaufel für Streusalz, Samen, Sand oder Dünger</li><li>aus schlagfestem Kunststoff</li><li>mit automatischer Klappe zum Befüllen/dosiert Streuen</li><li>universal einsetzbar, im Sommer und Winter</li><li>einfache Handhabung</li></ul>"
+}

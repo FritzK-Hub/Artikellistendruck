@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>praktischer Hundekotbeutel-Spender</li><li>mit Zugband zum Verschliepen</li><li>inkl. Klipp zum Befestigen an der Leine</li><li>aus Polyester / Mesh</li><li>in 4 Farben erhältlich</li></ul>"
+}

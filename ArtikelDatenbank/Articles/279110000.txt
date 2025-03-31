@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>hochwertige Locheisen im 3er-Set</li><li>zum Ausstanzen von Pappe, Papier, Leder, Gummi, Vinyl</li><li>gehärtete und geschliffene Schneiden</li><li>geriffelte Griffläche</li><li>gängige Größen im Set: 3-8mm</li></ul>"
+}

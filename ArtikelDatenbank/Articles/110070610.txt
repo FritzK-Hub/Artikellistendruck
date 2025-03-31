@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Braunkohle 10 kg der Marke REKORD®</li><li>Briketts wurden ohne Bindemittel gepresst</li><li>sorgt für leichtes Anbrennen, erzeugt wenig Asche</li><li>hat eine 6-mal längere Brenndauer als Brennholz</li><li>benötigen bloß 1/3 des Platzbedarfes von Holz</li></ul>"
+}

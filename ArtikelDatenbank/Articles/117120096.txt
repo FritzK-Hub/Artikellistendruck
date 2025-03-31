@@ -1,0 +1,4 @@
+{
+    "uvp": 35.99,
+    "attributes": "<ul><li>Zierstreifen für Standardgittermatte</li><li>aus rohem Stahl</li><li>Oberfläche verzinkt und kunststoffbeschichtet</li><li>schnelle und einfache Montage</li><li>15 Jahre Hersteller-Garantie gegen Durchrosten</li></ul>"
+}

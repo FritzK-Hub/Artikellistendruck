@@ -1,0 +1,4 @@
+{
+    "uvp": 549.0,
+    "attributes": "<ul><li>mobile Klimaanlage Blaupunkt Moby Blue S 09</li><li>für eine angenehme Kühle bis 30 m²</li><li> 3-in-1 Kühlen, Entfeuchten und Belüften</li><li>mit integriertem Timer</li><li>mobil, überall einsetzbar<br/></li></ul>"
+}

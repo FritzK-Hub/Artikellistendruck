@@ -1,0 +1,4 @@
+{
+    "uvp": 14.39,
+    "attributes": "<ul><li>präzise Zündkerzenmontage</li><li>großzügigen Länge</li><li>hochwertige Verarbeitung</li><li>Ringspitze für sicheren Halt</li><li>einfache Handhabung<br/>  </li></ul>"
+}

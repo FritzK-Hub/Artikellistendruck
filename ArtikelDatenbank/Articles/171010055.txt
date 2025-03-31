@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>hohe Vielseitigkeit</li><li>1/4\" Sechskant-Aufnahme</li><li>organisierte Aufbewahrung</li><li>lange Lebensdauer</li><li>hochwertiges Material</li></ul>"
+}

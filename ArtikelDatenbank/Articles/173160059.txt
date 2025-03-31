@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Halogen Stiftsockellampen Set 20 Watt</li><li>Set besteht aus zwei Lampen</li><li>verfügt über einen G4 Sockel </li><li>Lampenwechsel durch einfaches Austauschen</li><li>sind zudem stromsparend Sockellampen</li></ul>"
+}

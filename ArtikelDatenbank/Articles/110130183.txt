@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Faltenleghaken aus transparentem Kunststoff</li><li>passend für Ringe von 16 mm Stilgarniture</li><li><span class=\"a-list-item\">Praktische Faltenlegehaken zum Aufhängen verschiedener Gardinen und Vorhänge</span></li><li><span class=\"a-list-item\">einfache Befestigung</span></li><li><span class=\"a-list-item\">stabil und leichtläufig </span></li></ul><p><br/></p>"
+}

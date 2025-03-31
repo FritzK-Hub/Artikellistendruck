@@ -1,0 +1,4 @@
+{
+    "uvp": 42.95,
+    "attributes": "<ul><li>höchste Sicherheit</li><li>beidseitig abschließbar</li><li>präzise gefertigte Schlüssel</li><li>effektives Kopierschloss</li><li>Hochwertige Materialien<br/></li></ul>"
+}

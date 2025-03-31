@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>imitiert echtes Kerzen-Flackern<br/></li><li>tropffrei und sicher</li><li>energiesparende LED-Technik<br/></li><li>besticht durch hochwertiges Echtwachs</li><li>flexibel einsetzbar durch Batteriebetrieb<br/></li></ul>"
+}

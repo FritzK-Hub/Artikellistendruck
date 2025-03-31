@@ -1,0 +1,4 @@
+{
+    "uvp": 191.95,
+    "attributes": "<ul><li>Klapptisch aus hochwertigen Materialien</li><li>attraktives Design, mit stabiler Belattung aus Robinie</li><li>praktische Klappfunktion, platzsparend zu verstauen</li><li>wetterfest dank der dunkelgrünen Pulverbeschichtung</li><li>vielseitig einsetzbar, ob im Garten, auf der Terrasse oder bei einem Picknick im Park</li></ul>"
+}

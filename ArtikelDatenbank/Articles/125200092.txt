@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>zum Einfangen von Mardern, Waschbären, Hasen oder Ratten</li><li>gewährleistet eine sichere und hygienische Fangmethode</li><li>Kontaktstange in der Mitte löst die Falle aus</li><li>robuste Konstruktion mit Tragegriff</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.19,
+    "attributes": "<ul><li>präzises Löten perfekt für feine Elektronik- und Modellbauarbeiten</li><li>vielseitige Klemmen: Flexibel in alle Richtungen verstellbar</li><li>sicheres Halten von Bauteilen während des Lötens</li><li>vereinfacht komplizierte Lötaufgaben effizient</li><li>ideale Hilfe bei filigranen Lötarbeiten<br/></li></ul>"
+}

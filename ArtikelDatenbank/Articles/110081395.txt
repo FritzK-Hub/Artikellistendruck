@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>Obstpresse mit mechanischem Antrieb</li><li>sehr robuste Stahlspindel</li><li>geeignet zum Verarbeiten von Äpfel, Birnen usw.</li><li>Becken mit lebensmittelechter Farbe lackiert</li><li>Presstuch aus strapazierfähigem Polyester<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Klarsichthüllen transparent</li><li>dokumentenecht</li><li>mit verstärkten Lochstreifen</li><li>geeignet für 2er und 4er Ringmechanik</li><li>genarbte Prospekthüllen<br/></li></ul>"
+}

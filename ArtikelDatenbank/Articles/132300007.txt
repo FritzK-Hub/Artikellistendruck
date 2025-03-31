@@ -1,0 +1,4 @@
+{
+    "uvp": 74.99,
+    "attributes": "<ul><li>Winkelschleifer GA5030R 125 mm mit 720 Watt</li><li>Labyrinth-Abdichtung hält Getriebe und Lager sauber</li><li>kleineres Getriebegehäuse für bessere Handhabung wie Manövrieren</li><li>Wiedereinschaltsperre schützt vor unbeabsichtigten Start nach Stromunterbrechung</li><li>Zusatzgriff links oder rechts am Gerät anbringbar</li></ul>"
+}

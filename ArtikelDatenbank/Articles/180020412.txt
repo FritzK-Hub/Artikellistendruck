@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>Fördervolumen 7000 l/h</li><li>Absaugung bis zu Wasserhöhe 1 mm</li><li>geeignet für klares und leicht verschmutztes Wasser </li><li>für verschmutztes Wasser mit einer Partikelgröße von max. 1 mm<br/></li><li>automatische Abschaltung über integrierte Elektroniksteuerung<br/></li></ul>"
+}

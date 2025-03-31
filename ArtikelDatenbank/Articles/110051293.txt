@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>perfekt zum Einkochen, Erwärmen, Warmhalten</li><li>bestens geeignet für Kochen, Desinfektion, Auftauen und Erhitzen</li><li>einstellbarer Thermostat, mit Kontrolllampe, und Kabelfach</li><li>emaillierter Wasserbehälter, einfache Reinigung</li><li>Einkochtopf mit praktischem Zapfhahn</li></ul>"
+}

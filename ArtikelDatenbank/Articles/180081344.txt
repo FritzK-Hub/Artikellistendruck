@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>750 ml Profilreiniger</li><li>reinigt sauber und gründlich</li><li>biologisch abbaubar und umweltfreundlich</li><li>einfache Anwendung</li><li>ideal für Aluminium</li></ul>"
+}

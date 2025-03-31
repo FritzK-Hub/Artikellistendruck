@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Iglu-Zelt für 2 Personen, 300 mm Wassersäule<br/></li><li>mit stabilen Fiberglasstangen</li><li>Zelthaut aus 170T Polyester, wasserabweisend</li><li>lässt sich mit wenigen Handgriffen auf- und abbauen</li><li>inklusive Heringe, Schnüre und Transporttasche<br/></li></ul>"
+}

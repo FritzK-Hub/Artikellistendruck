@@ -1,0 +1,4 @@
+{
+    "uvp": 36.99,
+    "attributes": "<ul><li>faszinierendes Farbspiel</li><li>nachhaltige Energiequelle</li><li>einfache Installation</li><li>integrierte Antikalk-Noppen</li><li>inkludierte Wasserspardichtung<br/></li></ul>"
+}

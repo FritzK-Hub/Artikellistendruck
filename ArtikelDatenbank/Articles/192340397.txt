@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>Bestecktasche aus Filz mit Hirschmotiv</li><li>erhältlich in zwei Ausführungen und drei verschiedenen Farben</li><li>überrasche deine Gäste mit dekorativen Besteckhaltern</li><li>die Maßen 10 x 25 cm bietet ausreichend Platz</li><li>schütz den Tisch vor Schmutz und Flecken<br/></li></ul>"
+}

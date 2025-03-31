@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>für angenehmen Fahrkomfort</li><li>Anschluss über 12-V-Zigarettenanzünder</li><li>einfache Montage per Hosenträgersystem mit Haken</li><li>zwei Heizstufen möglich </li><li>auch für Sitze mit Seitenairbags geeignet</li></ul>"
+}

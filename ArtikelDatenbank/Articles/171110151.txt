@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>transparente Lack auf Wasserbasis</li><li>für Holzoberflächen im Innenbereich </li><li>besonders schnelle Trocknung</li><li>erstklassiger Grund- und Decklack</li><li>lichtecht und spannungsarm<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Hochleistungs-Entrußer tafelförmig 2 Stück</li><li>zur Entfernung von Ruß und Rückständen</li><li>für Kachel- und Kaminöfen geeignet</li><li>wirkt schnell und zuverlässig gegen Verschmutzungen</li><li>einfache Handhabung, passendes Hilfsmittel für die Ofenreinigung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>vielseitige Lichtmodi für jede Situation</li><li>praktischer Karabiner zur einfachen Befestigung</li><li>starker Magnet erlaubt flexible Nutzung</li><li>kompakt Ausführung ideal für unterwegs</li><li>integrierter Flaschenöffner</li></ul>"
+}

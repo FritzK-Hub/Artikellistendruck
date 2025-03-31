@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>runder Türstopper Edelstahl</li><li>reinigungsfreundlich und pflegeleicht</li><li>schwere Qualität für festen Stand</li><li>mit drei Gummiringe zum Schutz für Tür und Wand</li><li>mit rutschfesten Gummischutz an der Unterseite</li></ul>"
+}

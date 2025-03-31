@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Heizkörper mit 3 Heizstufen von 750 W bis 2000 W</li><li>stufenlos einstellbares Thermostat für exakte Raumtemperatur</li><li>keine störende Lüftergeräusche, ideal für Ruheräume</li><li>integrierter Tragegriff erleichtert den Transport</li><li>massive Standfüße sorgen für sicheren Stand</li></ul>"
+}

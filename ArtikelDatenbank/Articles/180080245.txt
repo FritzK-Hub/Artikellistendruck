@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>passend für nach innen gerichtete Dachecken</li><li>für zuverlässige Dachentwässerung</li><li>aus stabilem PVC</li><li>mit Gummidichtungen</li><li>abgewinkelte Ausführung</li></ul>"
+}

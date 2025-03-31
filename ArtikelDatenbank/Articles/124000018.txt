@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li><div>Schlauchkupplung mit Wasserstopp</div></li><li><div>für 3/4\" Gartenschläuche</div></li><li><div>wird am Schlauchende montiert</div></li><li><div>Montage ohne den Wasserhahn abdrehen zu müssen</div></li><li><div>Umstecken des Wasserschlauches ohne Wasserverlust</div></li></ul>"
+}

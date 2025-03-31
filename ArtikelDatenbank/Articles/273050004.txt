@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>10-teiliges Bit-Set von GERMANIA®</li><li>mit Sechskant-Aufnahme</li><li>aus hochwertigem S2 Stahl</li><li>mit Schnellwechsel - Bithalter</li><li>zur Verwendung mit Ratschenschraubendreher und Akkuschrauber</li></ul>"
+}

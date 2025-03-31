@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>hochwertiger HDMI-Adapter</li><li>gerade Form</li><li>vergoldeter Anschluss</li><li>1 x HDMI-Kupplung/ 1 x DVI-Stecker</li><li>optimale Signalübertragung, ohne Qualitätsverluste<br/></li></ul>"
+}

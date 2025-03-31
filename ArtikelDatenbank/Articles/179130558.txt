@@ -1,0 +1,4 @@
+{
+    "uvp": 6.29,
+    "attributes": "<ul><li>Schweißer-Schutzgläser Set SG538</li><li>zwei Scheiben je 90 x 110 mm</li><li>passend zu den CFH Schweißer-Schutzschildern und -schirmen, EN 166/169</li><li>DIN 11 Schutzstufe ab ca. 60 A - 300 A</li><li>MIG, MAG, WIG Schweißen <br/></li></ul>"
+}

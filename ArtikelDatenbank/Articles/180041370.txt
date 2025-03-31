@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>effizienter Federmechanismus</li><li>präzise Pflanztiefe</li><li>hochwertige Materialien</li><li>vielseitige Anwendung</li><li>einfache Handhabung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>hochwertiger F-Stecker</li><li>8 Stück Packung</li><li>aus Metall, zum Aufschrauben</li><li>für die Herstellung von Antennenkabel</li><li>leichte Handhabung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>faltbare Sitzgruppe bietet Platz für bis zu 4 Personen</li><li>im modernen, zeitlosen Design in schlichtem Grau</li><li>ideal fürs Camping oder Outdoor-Aktivitäten</li><li>ist besonders robust und belastbar</li><li>klappbare Aufbewahrung und einfacher Transport</li></ul>"
+}

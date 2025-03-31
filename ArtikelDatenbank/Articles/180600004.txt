@@ -1,0 +1,4 @@
+{
+    "uvp": 144.95,
+    "attributes": "<ul><li>COB-LED-Motorhauben-Leuchte von BGS</li><li>ideal zum Ausleuchten des Motors während der Wartung von Kraftfahrzeugen</li><li>Teleskophalterung verfügt über eine Befestigungsbreite von 122 – 196 cm</li><li>die beiden separaten Arbeitslampen besitzen 2 Helligkeitsstufen und einen Haken</li><li>bei Nichtgebrauch platzsparend zusammenklappbar</li></ul>"
+}

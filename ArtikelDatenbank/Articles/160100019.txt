@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Warnschutz Parka-Jacke, Schutzklasse gemäß EN 471</li><li>mit in der Breite verstellbaren Ärmeln</li><li>Reflexstreifen an Rumpf und Ärmeln</li><li>wasserdicht, winddicht, atmungsaktiv</li><li>Waschmaschinen-Wäsche bei 40°C</li></ul><p></p>"
+}

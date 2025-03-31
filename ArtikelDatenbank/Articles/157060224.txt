@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>zur elastischen Abdichtung von Fugen</li><li>auch zur Abdichtung von Bewegungsfugen</li><li>hoch temperaturbeständig, bis 100°C</li><li>strapazierfähig, wetter- und frostbeständig</li><li>einfach mit Cuttermesser oder Schere bearbeitbar</li></ul>"
+}

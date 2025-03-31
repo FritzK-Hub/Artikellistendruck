@@ -1,0 +1,4 @@
+{
+    "uvp": 1.8,
+    "attributes": "<ul><li>starke, dauerhafte Haftkraft</li><li>einfache Bearbeitung und Klebefähigkeit</li><li>mit Sägeschnittmöglichkeit</li><li>aus hochwertigem Ferritmaterial </li><li>kompakte Abmessungen<br/></li></ul>"
+}

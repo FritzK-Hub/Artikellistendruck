@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Trichter-Set 4-teilig aus orangenem Kunststoff</li><li>Einfülltrichter universal einsetzbar</li><li>mit verschiedenen Durchmessern für verschiedene Anwendungen</li><li>Grifflaschen für eine einfachere Handhabung</li><li>bei Nichtgebrauch dank Aufhänghöse aufhängbar</li></ul>"
+}

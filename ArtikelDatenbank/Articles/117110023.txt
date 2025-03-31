@@ -1,0 +1,4 @@
+{
+    "uvp": 317.0,
+    "attributes": "<ul><li>massives einfaches Gartentor aus Metall</li><li>klassisches Wellengitter-Design, inklusive Pfosten</li><li>schließfertig mit Türdrücker, Profilzylinder und 2 Schlüssel </li><li>langlebig durch Zinkphosphatierung und Kunststoffbeschichtung</li><li>das perfekte Zauntor für Maschendrahtzaun und Fix-Clip Pro®-Zaun</li></ul><p></p>"
+}

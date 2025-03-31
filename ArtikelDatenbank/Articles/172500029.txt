@@ -1,0 +1,4 @@
+{
+    "uvp": 6.0,
+    "attributes": "<ul><li>1,5 m Antennenkabel</li><li>2-fach geschirmt</li><li>Ausführung Koax Stecker - Koax Kupplung</li><li>SAT-Receiver an Antennendosen mit Koax-Anschluss</li><li>Anschlusskabel mit Koaxial-Aufbau</li></ul>"
+}

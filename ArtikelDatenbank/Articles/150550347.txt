@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>sommerliche Stimmung für deinen Tisch</li><li>praktisch: abwaschbar und schnell sauber</li><li>schont die Tischplatte zuverlässig</li><li>Wunschlänge zuschneidbar</li><li>vielseitig einsetzbar – drinnen und draußen</li></ul>"
+}

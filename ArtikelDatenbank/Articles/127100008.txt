@@ -1,0 +1,4 @@
+{
+    "uvp": 18.98,
+    "attributes": "<ul><li>hochwertiges Eschenholz für maximale Langlebigkeit</li><li>ergonomische Form bietet sicheren Halt</li><li>perfekt für Axtköpfe mit 1,25 kg Gewicht</li><li>zwei Stück erlauben dauerhafte Einsatzbereitschaft</li><li>optimale Länge für kraftvolle Schläge</li></ul>"
+}

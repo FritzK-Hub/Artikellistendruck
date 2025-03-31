@@ -1,0 +1,4 @@
+{
+    "uvp": 149.0,
+    "attributes": "<ul><li>Soft-Griff mit Schutzfläche für bequeme Nutzung</li><li>Kettenschnellspanner für eine einfache Handhabung</li><li>inklusive 20V Lithium-Ionen-Akku 2,0Ah und Ladegerät</li><li>kleiner handlicher Problemlöser bei der Baumpflege</li><li>ideal auch zum Entasten und Stutzen von Büschen und Sträuchern<br/></li></ul>"
+}

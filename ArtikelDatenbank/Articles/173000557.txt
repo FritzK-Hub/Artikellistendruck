@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>praktisches Montageclip-Set </li><li>Set bestehend aus acht Schrauben und vier Clips</li><li>passend für die von LED-Panels</li><li>einfache Handhabung </li><li>hält nahezu an jedem Untergrund<br/></li></ul>"
+}

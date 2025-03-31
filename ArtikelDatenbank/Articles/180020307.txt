@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>    Schlauchkupplung Wasserstop    </li><li>für 3/4\" Gartenschläuch</li><li>wird am Schlauchende montiert    </li><li>Abkoppeln und Umstecken des Schlauches ohne den Wasserhahn abdrehen zu müssen    </li><li>Umstecken des Wasserschlauches ohne Wasserverlust</li></ul>"
+}

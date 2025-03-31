@@ -1,0 +1,4 @@
+{
+    "uvp": 24.72,
+    "attributes": "<ul><li>vielseitige Anwendbarkeit</li><li>breiter Spannungsbereich</li><li>zuverlässige Messergebnisse </li><li>einfache Handhabung <br/></li><li>5-stufige LED-Polaritätsanzeige</li></ul>"
+}

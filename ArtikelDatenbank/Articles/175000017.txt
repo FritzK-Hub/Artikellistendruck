@@ -1,0 +1,4 @@
+{
+    "uvp": 2499.0,
+    "attributes": "<ul><li>sparsames Heizen und Kochen mit dem Küchenherd Rosetta<br/></li><li>gusseiserne Feuerraumauskleidung und eine robuste Gusseisentür</li><li>ausziehbares Holzfach, Kochstellen, ausziehbarer Aschenbehälter</li><li>Sichtscheibe ist aus hitzebeständigem 750-Grad-Keramikglas</li><li>Verkleidung aus einer bordauxfarbenen Kachelverkleidung</li></ul><p></p>"
+}

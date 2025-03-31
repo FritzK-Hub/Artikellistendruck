@@ -1,0 +1,4 @@
+{
+    "uvp": 319.95,
+    "attributes": "<ul><li>Gartenbank für 3 - 4 Personen</li><li>schwere, schwarz beschichtete gusseiserne Füße</li><li>Belattung aus Eukalyptus-Hartholz</li><li>Stärke Holzlatten 25 mm, hellbraun geölt</li><li>braune Parkbank mit schräger Rückenlehne</li></ul>"
+}

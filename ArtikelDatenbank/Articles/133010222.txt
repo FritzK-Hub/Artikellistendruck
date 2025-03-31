@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>3 Meisenringe für freilebende Vögel</li><li>aus Sonnenblumenkernen und Rindertalg</li><li>Ergänzungsfuttermittel für das ganze Jahr</li><li>in kalten Jahreszeiten für zusätzliche Energie</li><li>hält Stoffwechsel und Körpertemperatur aufrecht<br/></li></ul>"
+}

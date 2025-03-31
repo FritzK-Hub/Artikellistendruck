@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Riesenkürbis Gele Reuzen für ca. 3 – 5 Pflanzen</li><li>erzielt besonders große und haltbare Früchte</li><li>besitzt viel Fruchtfleisch wegen geringen Kerngehäuses</li><li>schmackhaft, kalorienarm und hat viele Vitamine</li><li>verfügt über eine probefeldgetestete Qualität</li></ul><p><br/></p>"
+}

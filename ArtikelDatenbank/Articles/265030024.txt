@@ -1,0 +1,4 @@
+{
+    "uvp": 10.49,
+    "attributes": "<ul><li>stabil, robust und vielseitig einsetzbar</li><li>für Scheune, Garagentor, Gartentor</li><li>massiver Torgriff aus Edelstahl</li><li>Befestigungslöcher versenkt</li><li>für den Innen- und Außenbereich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>LED-Filamentlampe tropfenförmig mit 4,5 W, E14</li><li>hohe Farbwiedergabe, RA-Wert 80</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>hohe Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>einfacher Lampenwechsel durch Austauschen der Standardglühlampe</li></ul>"
+}

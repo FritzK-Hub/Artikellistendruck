@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul> <li>Bilderrahmen Design Frames</li> <li>mit Kunststoffrahmen und Normalglas</li> <li>kann horizontal und vertikal aufgehängt werden</li> <li>inklusive Aufhängungen</li></ul>"
+}

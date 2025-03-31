@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Gartenhandschuhe für Damen Größe 8</li><li>erhältlich in verschiedenen Blumenmotiven</li><li>ermöglicht eine reibungslose Gartenarbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>angenehmer Komfort bei der Arbeit<br/></li></ul>"
+}

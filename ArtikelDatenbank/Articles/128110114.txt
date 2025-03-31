@@ -1,0 +1,4 @@
+{
+    "uvp": 949.95,
+    "attributes": "<ul><li>Loungeset bestehend aus 1 x Lounge KD Sofa, 1 x 2-Sitzer Sofa</li><li>geeignet für Garten, Balkon oder Terrasse</li><li>wetterfestes und stabilem Aluminiumgestell</li><li>Bespannung aus Polyrattan-Doppelgeflecht, in grau 245 g/m²</li><li>mit Polstern und Rückenkissen<br/></li></ul>"
+}

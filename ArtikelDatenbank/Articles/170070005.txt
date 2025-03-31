@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>20-teiliger Gewindeschneidsatz</li><li>für metrische Innen- und Außengewinde</li><li>inklusive Windesien, Schneideisen und Gewindelehre</li></ul>"
+}

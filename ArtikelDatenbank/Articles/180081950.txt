@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>effizientes Setzen von Zaunpfählen</li><li>optimale Kraftübertragung durch breiten Metallgriff</li><li>vielseitig und robust für Gartenprojekte</li><li>Sicherheit und Komfort mittels rutschfester Griffe</li><li>technische Präzision für Profis und Hobbygärtner</li></ul>"
+}

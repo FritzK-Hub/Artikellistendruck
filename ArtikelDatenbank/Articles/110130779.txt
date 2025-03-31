@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Buchstütze aus pulverbeschichtetem Stahl in Weiß</li><li>bewahrt deine Bücher vor dem Umkippen</li><li>die Stütze wird einfach untergeschoben</li><li>ideal für Bücherregal, Tisch oder Tresen</li><li>passend für Taschenbücher, Kochrezepte oder auch DVDs<br/></li></ul>"
+}

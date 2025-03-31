@@ -1,0 +1,4 @@
+{
+    "uvp": 4.29,
+    "attributes": "<ul><li>Elektro Druckschalter Set</li><li>2 Stück im Set</li><li>ideal für Lampen</li><li>einfache Installation durch Schraubverbindung</li><li>für den Innenbereich</li></ul>"
+}

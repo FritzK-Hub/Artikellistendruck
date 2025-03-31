@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>ökologische Herstellung </li><li>kein Tropenholz</li><li>einfach und sauber zu handhaben</li><li>langhaltende Glut, gleichmäßige Hitze</li><li>leicht anbrennbar<br/></li></ul>"
+}

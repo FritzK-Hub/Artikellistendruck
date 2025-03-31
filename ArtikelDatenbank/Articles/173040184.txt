@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>Steckschlüssel-Einsatz-Set 3/8\"</li><li>mit Vierkant-Aufnahme</li><li>11-teilig mit Sechskant-Profil<br/></li><li>für Handbetätigung geeignet</li><li>lange Bauweise, vorne abgesetzt</li></ul>"
+}

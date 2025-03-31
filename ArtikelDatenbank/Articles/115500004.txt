@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>praktische Garderobenleiste mit 4 Haken</li><li>modernes und schlichtes Design</li><li>aus hochwertigem Aluminium</li><li>keine Kanten oder Spitzen</li><li>passt zu jedem Raum<br/></li></ul>"
+}

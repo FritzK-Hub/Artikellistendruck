@@ -1,0 +1,4 @@
+{
+    "uvp": 39.99,
+    "attributes": "<ul><li>dekorative, solarbetriebene LED-Gartenlaterne 180 cm</li><li>setzt deine Gartenwege oder Beete gekonnt in Szene</li><li>auch als dekorativer Orientierungspunkt nutzbar</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung</li><li>3 Metallheringe erleichtern die Installation<br/></li></ul>"
+}

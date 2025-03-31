@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>leistungsfähige Alkaline Batterien</li><li>Typ 6LR61 E-Block</li><li>nicht wiederaufladbar</li><li>hohe elektrische Spannung</li><li>ideal für kleinere tragbare Geräte geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Maße: 125x2,5x22,23</li><li>Höchstdrehzahl: max. 12.200 RPM</li><li>Geschwindigkeit: 80 m/sec</li><li>Form: bombiert (gewölbt)</li><li>Industriequalität</li></ul>"
+}

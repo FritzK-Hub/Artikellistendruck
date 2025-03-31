@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul> <li>Profilzylinder mit Bohrmulden (Kopierhemmung für Schlüssel-Nachfräsung)</li> <li>beidseitig abschließbar</li> <li>mit 5 Schlüsseln (Wendeschlüssel)</li></ul>"
+}

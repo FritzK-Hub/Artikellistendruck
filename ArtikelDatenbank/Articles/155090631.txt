@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>2-adriges Installationsdraht aus Kupfer mit 20 m Länge</li><li>PVC-Ummantelung in Rot und weißer Markierung</li><li>für die Verlegung in Rohren sowie auf und unter Putz</li><li>zur Verdrahtung in und an elektrischen Schwachstrom-Geräten</li><li>passend für Klingel, Türöffner-Anlagen oder elektrische Eisenbahnen<br/></li></ul>"
+}

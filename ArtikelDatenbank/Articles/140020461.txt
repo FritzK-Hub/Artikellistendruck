@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>hochwertiger Bambus </li><li>zum Stricken mit dicker Wolle</li><li>glatte Oberfläche</li><li>vielseitige Anwendung</li><li>robusten Konstruktion<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>LED-Filamentlampe kerzenförmig mit 4,5 W, E14</li><li>hohe Farbwiedergabe, RA-Wert 80</li><li>höhere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>hohe Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
+}

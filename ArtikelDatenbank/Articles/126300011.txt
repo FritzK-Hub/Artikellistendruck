@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>GERMANIA® Präzisionskettensäge mit 25,4 cm³ Motor<br/></li><li>Zusatzgriff und Kettenbremse für eine sichere Handhabung</li><li>Kettensäge geeignet für Baumschnitt oder Brennholz</li><li>zuverlässiger Helfer für reibungslose Sägearbeiten</li><li>Ultraleicht für lange Arbeitseinheiten</li></ul><p></p>"
+}

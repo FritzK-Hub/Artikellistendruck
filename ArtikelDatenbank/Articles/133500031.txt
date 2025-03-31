@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Makita Bit-Satz 32-teilig für Heimwerker und Profis</li><li>mit den gängigsten Größen versehen</li><li>für Schraub- und Montagearbeiten rund um deinen Haushalt</li><li>inklusive magnetischen Bithalter und 1/4\" Hex-Adapter</li><li>Aufbewahrungsbox mit transparentem Deckel für besseren Überblick</li></ul>"
+}

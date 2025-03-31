@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul class=\"product-detail-product-features__list list list--standard\"><li>trendiges Wohnaccessoire</li><li>aus Eisen<br/></li><li>mit Glaseinsatz</li><li>besonders für Stumpenkerzen geeignet</li><li>sorgt für stimmungsvolles Licht</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>Abdeckplane mit ca. 267 cm Durchmesser</li><li>aus hochwertigem PE-Material hergestellt</li><li>einschließlich Seilen zur Befestigung der Abdeckung</li><li>integrierte Abflussöffnungen gegen Wasseransammlungen</li><li>für sämtliche, runde Pools mit einem Durchmesser von ca. 244 cm</li></ul>"
+}

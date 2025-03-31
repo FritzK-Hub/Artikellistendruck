@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>effektiver Energieboost dank erhöhtem Koffeingehalt</li><li>die praktische Blechdose ermöglicht eine einfache Handhabung</li><li>lange Haltbarkeit durch Pasteurisation</li><li>günstige Alternative zu anderen Energy-Drinks</li><li>reich an Proteinen, Vitaminen und Mineralstoffen durch die enthaltene Molke<br/></li></ul><p></p>"
+}

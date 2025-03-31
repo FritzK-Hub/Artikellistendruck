@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>LED Solarbodenleuchte rund mit 8 LED’s</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung</li><li>stabiler Halt dank mitgeliefertem Erdspieß</li><li>inklusive benötigter AAA-Batterie<br/></li></ul>"
+}

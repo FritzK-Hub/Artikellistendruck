@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul> <li>Ammoniaklösung, ca. 9,5%</li> <li>zum Entfetten von Zink, Hart-PVC und NE-Metallen</li> <li>ideal geeignet zum Reinigen von Glas und Edelstahl</li> <li>zum Entfernen von hartnäckigen Flecken aus Textilien</li> <li>wird mit Wasser verdünnt und ist vielseitig einsetzbar</li></ul>"
+}

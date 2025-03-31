@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>bieten eine schnelle und feste Verbindung zwischen Holzwerkstoffen</li><li>gewindeähnliche Konstruktion für stabile Verbindung, widersteht Belastungen und Vibrationen</li><li>aus verzinktem Stahl gefertigt, beständig gegen Rost und Korrosion</li><li>für den Einsatz in der Möbel- und Holzverarbeitungsindustrie </li><li>drehen sich beim Einschlagen fest in das Material ein, erschwert das Herausziehen<br/></li></ul>"
+}

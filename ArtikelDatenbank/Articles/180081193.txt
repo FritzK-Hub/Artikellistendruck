@@ -1,0 +1,4 @@
+{
+    "uvp": 20.53,
+    "attributes": "<ul><li>für Regenrinnen DN 100 -125 </li><li>schützt Dachrinnen vor Laub und Schmutz</li><li>Länge 2 m - individuell zuschneidbar</li><li>sicherer Halt durch Eigenspannung</li><li>aus robustem Kunststoff (PE)</li></ul>"
+}

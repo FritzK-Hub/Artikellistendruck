@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>rutschhemmende Badewanneneinlage 79 x 37 cm<br/></li><li>aus transparentem Kunststoff gefertigt</li><li>für mehr Sicherheit ist die Unterseite mit Saugnäpfen versehen</li><li>besonders hautsympathisch und gegen Schimmel ausgestattet</li><li>passend für Standardduschwannen<br/></li></ul>"
+}

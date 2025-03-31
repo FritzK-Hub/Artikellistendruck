@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    Anschlüsse für Rundfunk und TV /nFrequensbereich: 5 - 1.000 MHz,                                                                    als Durchgangs- und Enddose verwendbar, /nVerwendung als Enddose mit Abschlußwiederstand 75?/n(im Lieferumfang enthalten, montiert)\"\"/n                "
+}

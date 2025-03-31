@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>umfangreiches Maulschlüssel-Set aus CrV-Stahl</li><li>beinhaltet acht verschiedene Ratschenring-Maulschlüssel von 6 – 22 mm</li><li>zur Anwendung von metrischen oder zölligen Schrauben</li><li>ideal für jeden Handwerker egal ob Anfänger oder Profi</li><li>lange Lebensdauer im täglichen Werkstatteinsatz<br/></li></ul>"
+}

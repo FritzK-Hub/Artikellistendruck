@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Bithalter mit Sechskant-Antrieb</li><li>mit einer 1/4\" Aufnahme und Schnelllösefunktion</li><li>extra niedrige Bauhöhe</li><li>ideal für enge Arbeitsbereiche</li><li>zur Verwendung von Sechskant-Bits in verschiedenen Ausführungen</li></ul>"
+}

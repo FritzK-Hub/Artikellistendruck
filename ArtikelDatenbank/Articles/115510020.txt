@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>mit Druckzylinder</li><li>als zusätzliche Kindersicherung(en) geeignet </li><li>passend für Standard-Fenster und Fenstertüren</li><li>perfekt zum Nach- oder Umrüsten von Fenstern</li><li>mit einer Hand verriegelbar</li></ul>"
+}

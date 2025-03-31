@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>3-teilige Werkzeugwand aus Stahlblech</li><li>die Wände können auch getrennt montiert werden</li><li>inklusive 16-teiligem Hakensortiment</li><li>bietet viel Platz für zusätzliche Halter und Haken</li><li>einfache Montage</li></ul>"
+}

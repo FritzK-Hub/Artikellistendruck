@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>sichere Befestigung von Bilderrahmen und Lampen</li><li>spezielles Design für mehr Stabilität</li><li>einfache Installation dank kragenlose Ausführung</li><li>leicht erkennbare rote Farbe für gute Sichtbarkeit</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

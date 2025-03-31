@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>intensive Blüten- und Blattfarbe</li><li>hochwertige Nährstoffe</li><li>zusätzlicher Eisengehalt</li><li>hohe Vielseitgkeit</li><li>einfache Anwendung<br/></li></ul>"
+}

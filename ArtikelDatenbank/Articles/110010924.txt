@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>aus verzinktem Stahlblech</li><li>für Anschlussstutzen und Dunstabzugshauben</li><li>geeignet für Kunststoff- und Alu-Flexschläuche</li><li>korrosionsbeständig und langlebig</li><li>sichere Befestigung</li></ul>"
+}

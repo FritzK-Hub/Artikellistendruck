@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>für Pools mit einem maximalen Durchmesser von 366 cm geeignet</li><li>Stiel mit zwei austauschbaren Aufsätzen</li><li>Dosierschwimmer zur dosierten Abgabe von Poolzusatztabletten</li><li>Poolthermometer und 10 extra starke, selbstklebende Reparaturflicken</li><li>50 Teststreifen zur Messung von Chlorgehalt, Alkalinität und pH-Wert<br/></li></ul>"
+}

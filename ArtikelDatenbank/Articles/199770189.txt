@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Set beinhaltet 6 verschieden Größen Schlüsselringe</li><li>aus massivem Stahl mit glatter Oberfläche gefertigt</li><li>besonders robust und widerstandsfähig</li><li>sorgt für mehr Ordnung und Organisation</li><li>einfach in der Handhabung, für einen schnelleren Überblick<br/></li></ul>"
+}

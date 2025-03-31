@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>für Lüftungsstrecken bis 1,5 m</li><li>Anschluss an Rohre Ø 100 mm</li><li>Förderleistung 100 m³/h</li><li>leicht zu montieren</li><li>einfach zu reinigen</li></ul>"
+}

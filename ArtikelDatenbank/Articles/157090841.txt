@@ -1,0 +1,4 @@
+{
+    "uvp": 7.85,
+    "attributes": "<ul><li>zur Fixierung von Dachrinnen NW 125</li><li>fixiert die Regenrinne sicher an der Dachumrandung </li><li>mit vorgebohrten Befestigungslöchern</li><li>aus verzinktem Metall</li><li>witterungs- und korrosionsbeständig</li></ul>"
+}

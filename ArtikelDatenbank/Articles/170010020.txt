@@ -1,0 +1,4 @@
+{
+    "uvp": 9.1,
+    "attributes": "<ul><li>eignet sich zum Schneiden von Holz oder Metall</li><li>vielseitig in der Industrie, Handwerk oder Gartenarbeit einsetzbar</li><li>Bügelstück aus massivem Stahl bietet zusätzliche Stabilität</li><li>Kunststoffgriff mit Schutzbügel für sicheren Halt</li><li>einfach in der Handhabung, besonders langlebig und stabil<br/></li></ul>"
+}

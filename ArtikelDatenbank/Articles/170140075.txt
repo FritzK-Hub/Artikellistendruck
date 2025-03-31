@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Ersatzblatt für Trockenbau-Schaber</li><li>leicht gewölbt für besseres Handling</li><li>zur Behandlung von weichen Werkstoffen geeigent</li><li>ideal für verschiedene Trockenbauarbeiten</li><li>aus Metall für eine lange Lebensdauer<br/></li></ul>"
+}

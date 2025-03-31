@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Ein-/ Aus-/ Wechselschalter Monaco aus Kunststoff</li><li>zum Bedienen von Lampen oder elektrischen 230-Volt-Geräten</li><li>passt sich jedem Wohnbereich an</li><li>waagerechte oder senkrechte Montagen möglich</li><li>integrierte Steckklemmen erleichtern den Anschluss<br/></li></ul>"
+}

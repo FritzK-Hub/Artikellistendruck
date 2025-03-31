@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>    Polsterreiniger zur Reinigung und Pflege    </li><li>für Polster und Autoteppiche    </li><li>beseitigt Schmutz und unangenehme Gerüche    </li><li>schützt vor erneuter Verschmutzung    </li><li>in praktischer Sprühflasche mit Pumpzerstäuber</li></ul>"
+}

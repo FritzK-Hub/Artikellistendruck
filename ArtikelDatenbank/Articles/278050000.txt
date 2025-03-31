@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Schmiege mit hochwertiger Edelstahlzunge</li><li>Befestigung mit Stellschraube</li><li>mit Kunststoffgriff</li><li>zum Abnehmen und Übertragen von beliebigen Winkeln auf Werkstücke</li><li>einfache Bestimmung von z.B. Gehrungswinkeln</li></ul>"
+}

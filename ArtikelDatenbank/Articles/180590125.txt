@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>Autositzschoner für frischen Look in deinem Auto</li><li>für die Werkstatt, Freizeit oder bei Hobbys einsetzbar</li><li>leichte Befestigung ganz ohne Montageaufwand</li><li>lässt sich leicht mit einem Schwamm reinigen</li><li>geeignet für Autositze mit integriertem Seitenairbag<br/></li></ul>"
+}

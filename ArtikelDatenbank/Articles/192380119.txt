@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Servietten mit weihnachtlichem Herzen und Sterne-Motiv</li><li>aus feinem Tissue-Papier hergestellt</li><li>praktisch und universell einsetzbar</li><li>3-lagige, saugfähige Qualität</li><li>hochwertige Qualität</li></ul><p></p>"
+}

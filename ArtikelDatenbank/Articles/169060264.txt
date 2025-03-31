@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Klebestift 8 g, lösungsmittelfrei</li><li>für Bastelarbeiten</li><li>geeignet für Papier, Pappe, Fotos,</li><li>Kleber trocknet transparent</li><li>Bastelkleber mit luftdichter Kappe<br/></li></ul>"
+}

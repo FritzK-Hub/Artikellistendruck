@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Folie ist selbstklebend</li><li>mit feuchtem Tuch abwischbar</li><li>rückstandsfrei entfernbar</li><li>mit dekorativem Mustern</li><li>hochwertiges Material<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.19,
+    "attributes": "<ul><li>besonders kriechfähiges Feinmechanik-Öl</li><li>reinigt, schmiert und schützt</li><li>für Feinmechanismen aller Art geeignet</li><li>es reinigt und pflegt Metall</li><li>mit Sprührohr für zielgenaue Anwendung</li></ul>"
+}

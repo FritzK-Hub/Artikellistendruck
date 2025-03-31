@@ -1,0 +1,4 @@
+{
+    "uvp": 32.95,
+    "attributes": "<ul><li>heller Lichtstrom von 4250 Lumen</li><li>robustes Aluminiumdruckguss-Gehäuse</li><li>IP65-Schutz für Außenbereich</li><li>tragbar mit stabilem Standfuß</li><li>vielseitig für Haus, Garten, Baustelle, Werkstatt</li></ul>"
+}

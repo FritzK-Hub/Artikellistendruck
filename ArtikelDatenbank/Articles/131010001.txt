@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>WC-Tabs zur gründlichen Reinigung</li><li>gegen Ablagerungen von Kalk, Urinstein und andere Verschmutzungen</li><li>reinigt Ablauf und Becken von WC und Urinalen</li><li>beugt der Entstehung von unangenehmen Gerüchen weitgehend vor</li><li>einzeln in Folie verpackt</li></ul>"
+}

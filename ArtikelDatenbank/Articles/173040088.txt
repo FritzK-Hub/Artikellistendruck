@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<h3><strong>Produktmerkmale:</strong></h3><ul><li><strong>Steckschlüsseleinsatz 1/4\"</strong> SW 5mm einzeln erhältlich</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>mit Innenvierkant-Antrieb und Super Lock (Wellenprofil)</li><li>verfügt über eine matt verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li></ul>"
+}

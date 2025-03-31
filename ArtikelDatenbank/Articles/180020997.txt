@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>Muffe aus Messing</li><li>mit 2 Innengewinden 1\"</li><li>für effektive, sichere und stabile Rohrverbindungen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>erhöht die Sicherheit im Straßenverkehr</li><li>dient als Angabe der zulässigen Höchstgeschwindigkeit<br/></li><li>besonders wichtig für Fahrzeugkombinationen und Anhänger</li><li>wichtige Kennzeichnung auf Autobahnen und Schnellstraßen</li><li>kann einfach am Anhänger aufgeklebt werden</li></ul><p></p>"
+}

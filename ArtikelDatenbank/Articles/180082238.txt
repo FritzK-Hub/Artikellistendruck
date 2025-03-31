@@ -1,0 +1,4 @@
+{
+    "uvp": 211.95,
+    "attributes": "<ul><li>Sichtschutz und Windschutz in Einem</li><li>passt optimal zu fast allen Stahlgitterzäunen</li><li>schnell und einfach zu reinigen</li><li>Befestigung mit Klemmschienen</li><li>Material ist witterungs-, UV-beständig und extrem reißfest</li></ul>"
+}

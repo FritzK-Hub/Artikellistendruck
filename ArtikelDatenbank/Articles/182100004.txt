@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Fahrradreifen 20 x 2,125 Zoll aus Nylon</li><li>für 20\" BMX-Räder</li><li>schneller und einfacher Wechsel</li><li>passend für Felgen 19-29 mm</li><li>auch für 47 bis 60-559</li></ul>"
+}

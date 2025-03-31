@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>praktische Geräteleiste 87 cm in silber-schwarz</li><li>aus robustem Aluminium und Kunststoff gefertigt</li><li>sorgt für mehr Ordnung in deiner Werkstatt oder Haushalt</li><li>zum Aufhängen von Werkzeug oder Haushaltsgeräten</li><li>mit 5 Haken und 5 Gerätehalterungen versehen</li></ul>"
+}

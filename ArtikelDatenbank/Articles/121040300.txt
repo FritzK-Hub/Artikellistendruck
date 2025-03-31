@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>hochwertiges Material aus 100% Baumwolle</li><li>vielseitig einsetzbar für professionelle Künstler und Hobbymaler</li><li>stabile Unterlage für sicheren Halt </li><li>ideale Größe für kleinere Gemälde oder Studien</li><li>weiße Vorgrundierung für optimale Farbaufnahme und Farbbrillanz<br/></li></ul>"
+}

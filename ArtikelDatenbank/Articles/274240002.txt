@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Abisolierzange von GERMANIA®</li><li>zum Abisolieren von Kabeln</li><li>einfache Anwendung</li><li>zwei Komponenten Griffhülle</li><li>für Profis und Heimwerker geeignet</li></ul>"
+}

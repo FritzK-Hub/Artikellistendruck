@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>isolierter Einkaufskorb mit robustem Reißverschluss</li><li>transportiere mühelos deine Lebensmittel</li><li>Tragetasche ist in verschiedenen Farben erhältlich</li><li>großes Fach bietet ausreichend Stauraum für Lebensmittel</li><li>in Verbindung mit Kühlakkus (nicht im Lieferumfang) kann der Korb als Kühltasche verwendet werden<br/></li></ul>"
+}

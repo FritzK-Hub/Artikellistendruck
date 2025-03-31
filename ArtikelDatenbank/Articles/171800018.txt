@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>5 extraweiche Wisch- und Pflegetücher</li><li>schonend zu kratzempfindlichen Oberflächen</li><li>aus 100% Natur-Viskose</li><li>für eine Vielzahl von Anwendungen</li><li>resistent gegen Lösungsmittel<br/></li></ul>"
+}

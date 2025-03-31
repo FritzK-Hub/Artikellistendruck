@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>LED-Flutlichtstrahler mit Teleskopstativ</li><li>extrem lange Lebensdauer<br/></li><li>für Außenbereich bei Temperaturen von –25 bis +40 °C geeignet</li><li>stoßfestes und wartungsfreies Aluminium-Druckgussgehäuse</li><li>geringer Stromverbrauch und minimale Wärmeentwicklung</li></ul>"
+}

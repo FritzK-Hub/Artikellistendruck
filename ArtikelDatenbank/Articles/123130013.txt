@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>Treppensteiger bis 70 kg belastbar</li><li>für kräftesparenden Transport von schweren Gegenständen</li><li>bewältigt mit 3+3-Radsystem Treppenstufen, Randsteine und Bordsteine</li><li>Griff in der Höhe verstellbar</li><li>nach Gebrauch klappbar und platzsparend verstaubar</li></ul>"
+}

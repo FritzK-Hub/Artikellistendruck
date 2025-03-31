@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Leitungsschutzschalter 1-polig mit Beschriftungsfeld</li><li>Überstromschutzeinrichtung für den Verteilungseinbau</li><li>B-Charakteristik für den Leitungsschutz in Licht- und Steckdosen-Stromkreisen </li><li>schützt Leitungen vor unzulässig hohen Strömen durch Überlastung oder Kurzschluss</li><li>kurz nach dem Auslösen wieder einschaltbar <br/></li></ul>"
+}

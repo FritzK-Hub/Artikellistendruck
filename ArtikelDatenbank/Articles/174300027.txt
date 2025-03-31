@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Spültisch Zweigriff-Armatur im modernen Look</li><li>perfektes Strahlbild durch Marken-Mischdüse</li><li>einfache Installation mit flexiblen Anschlussschläuchen</li><li>schwenkbarer Auslauf 360° schafft Flexibilität</li><li>zeitloses Design für jeden Geschmack</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Theraband-Set 3-teilig in verschiedenen Farben<ul></ul></li><li>eignen sich für ein Ganzkörpertraining<br/></li><li>zum einfachen Trainieren verschiedener Muskelpartien</li><li>in Physiotherapie und Rehabilitation oft verwendet</li><li>vielseitig einsetzbar ob Zuhause, im Freien, Studio oder Hotel<br/></li></ul>"
+}

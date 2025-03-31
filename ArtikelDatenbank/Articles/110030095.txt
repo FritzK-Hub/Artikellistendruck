@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>4 Schmutzradierer aus Schaumalin</li><li>dringt tief in unsichtbare Oberflächenrillen ein</li><li>löst Schmutz durch sanftes Reiben</li><li>reinigt nur mit Wasser - keine zusätzlichen Reinigungs- oder Hilfsmittel nötig</li><li>individuell zuschneidbar - verschmutze Ecken können, wenn notwendig, abgeschnitten werden<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.4,
+    "attributes": "<ul><li>Abbrech-Hakenklingen</li><li>5 Stück im Spender</li><li>4 Klingen je Blatt</li><li>im Kunststoffspender</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>leistungsstarker Laubsauger mit 35 Liter Laubfangsack</li><li>variabel einstellbare Geschwindigkeiten</li><li>mit Saug-, Blas- und Häckselfunktion</li><li>verstellbarer Schultergurt und Kabelzugentlastung</li><li>hervorragend für Arbeiten im Garten, auf Rasenflächen oder Gehwegen geeignet<br/></li></ul>"
+}

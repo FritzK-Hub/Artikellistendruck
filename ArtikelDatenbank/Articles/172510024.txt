@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>geschirmter CAT-5e-Stecker</li><li>zur Selbstmontage von CAT-5-Netzwerkkabeln</li><li>Ethernet-Datenübertragung von bis zu 1 Gbit/s</li><li>geschirmter Stecker zur Reduzierung von Störeinflüssen</li><li>Anfertigung von Kabeln in beliebiger Länge<br/></li></ul>"
+}

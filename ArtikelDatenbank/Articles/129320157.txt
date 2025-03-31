@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>früh erntefähige, robuste Zucchini-Sorte</li><li>hohe Widerstandskraft gegen Echten Mehltau</li><li>regelmäßiger Fruchtansatz für perfekte Ergebnisse</li><li>lange Haltbarkeit bei richtiger Lagerung</li><li>kompakt wachsend, ideal auch für kleine Gärten</li></ul>"
+}

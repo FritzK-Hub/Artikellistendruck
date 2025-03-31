@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Pattex® Montagekleber mit einer hohen Endfestigkeit für alle Anwendungen</li><li>ist für das Abdichten, Montieren, Kleben und Füllen geeignet</li><li>hohe Anfangshaftung, dennoch innerhalb von 15 Minuten korrigierbar</li><li>bietet einen dauerhaft flexiblen und kraftvollen Halt</li><li>ist im Innen- und Außenbereich einsetzbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>für leicht matte, strapazierte Lacke</li><li>2in1-Wirkweise reduziert den Pflegeaufwand</li><li>reinigt, glättet und konserviert wirksam matte Lacke in nur einem Arbeitsgang</li><li>poliert schonend, glättet leichte Kratzer, reinigt und konserviert gleichzeitig</li><li>sorgt für Farbfrische und Tiefenglanz</li></ul>"
+}

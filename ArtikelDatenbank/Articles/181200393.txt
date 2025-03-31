@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Brunnenkresse für ca. 300 Pflanzen</li><li>mit grünen und etwas fleischigen Laubblättern</li><li>besitzt einen rettichartigen, pikanten Geschmack</li><li>zur Verfeinerung von Salaten oder Quarkspeisen</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

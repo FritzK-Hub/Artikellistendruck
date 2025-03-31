@@ -1,0 +1,4 @@
+{
+    "uvp": 649.95,
+    "attributes": "<ul><li>2-teiliges Werkstattschrank-Set</li><li>Doppelriegel mit Zylinderschloss</li><li>2 Türen und 4 Fachböden pro Schrank</li><li>zweifarbige Pulverbeschichtung in blau und grau</li><li>mit abgerundeten Kanten an den Türaußenseiten</li></ul>"
+}

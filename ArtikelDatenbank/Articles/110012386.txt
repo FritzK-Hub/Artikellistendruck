@@ -1,0 +1,4 @@
+{
+    "uvp": 6.29,
+    "attributes": "<ul><li>Wandscheibe mit Klemmfitting, universell einsetzbar für die Sanitär-, Heizungs-, Gas-, Öl-und Druckluftinstallation</li><li>einfache und sichere Verbindung zwischen Kupferrohren und Rohren oder Armaturen mit Gewinde</li><li>korrosionsbeständiges Material für zuverlässige Leistung in verschiedenen Umgebungen</li><li>kann mit Kupferrohren verarbeitet werden</li><li>für die Wandmontage von Leitungen</li></ul>"
+}

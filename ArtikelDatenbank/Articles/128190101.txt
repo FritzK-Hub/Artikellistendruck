@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Aufbewahrungsbox aus grauem Kunststoff mit Holzoptik</li><li>ideal für Kissen, Polster, Sitzbezüge oder Kinderspielzeug</li><li>bietet deinem Gartenbedarf Schutz vor Wettereinflüssen</li><li>90 Liter Fassungsvermögen bieten genügend Stauraum</li><li>Vorrichtung für ein Vorhängeschloss<br/></li></ul>"
+}

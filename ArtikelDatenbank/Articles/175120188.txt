@@ -1,0 +1,4 @@
+{
+    "uvp": 6.19,
+    "attributes": "<ul><li>Stromdüse M6 für Schweißgeräte</li><li>Ersatzteil für defekte oder abgenutzte Düsen</li><li>durch die Stromdüsen läuft der Schweißdraht</li><li>wird vorne an den Brenner geschraubt</li><li>einfacher Austausch von defekten Düsen<br/></li></ul>"
+}

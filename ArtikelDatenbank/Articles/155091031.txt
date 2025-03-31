@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Bluetooth Lautsprecher 2 x 5 Watt</li><li>verfügt ein spritzgeschütztes Gehäuse</li><li>für den Einsatz im Freien geeignet</li><li>zwei integrierte Lautsprecher mit bis zu 10 m Reichweite</li><li>inklusive Micro USB Ladekabel und Input-Jack-Verbindungsstecker 3,5 mm<br/></li></ul>"
+}

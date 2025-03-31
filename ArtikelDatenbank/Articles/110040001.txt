@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Bio-Tonnensack aus Papier</li><li>kompostierbarer Abfallsack</li><li>umweltfreundliches Entsorgen</li><li>ideal für Bio-Müll wie Lebensmittel und Speisereste</li><li>für Gemüse-, Früchte- und Eierschalen</li></ul>"
+}

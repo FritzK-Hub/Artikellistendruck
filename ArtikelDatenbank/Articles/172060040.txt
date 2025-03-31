@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>Lüsterklemmen aus Polyethylen in weiß</li><li>zum einfachen Verbinden von Drähten und Leitungen</li><li>geeignet für Kabeldurchmesser von 1,0 – 4,0 mm²</li><li>2 Riegel mit je 12 Lüsterklemmen (insgesamt 24 Lüsterklemmen)</li><li>geöffnete und unverlierbare Schrauben<br/></li></ul>"
+}

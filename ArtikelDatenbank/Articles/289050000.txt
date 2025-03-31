@@ -1,0 +1,4 @@
+{
+    "uvp": 6.35,
+    "attributes": "<ul><li>T-Profil aus eloxiertem Aluminium </li><li>Länge: ca. 100 cm</li><li>Maße Profil (BxH): 20 x 20 mm</li><li>Materialstärke: 1,5 mm</li><li>Material: Aluminium</li></ul>"
+}

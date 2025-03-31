@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>Pattex® Kraftkleber \"Compact Gel\" auf Basis der FlexTex-Technologie</li><li>dank Gel-Struktur tropft der Klebstoff nicht und zieht keine Fäden</li><li>es ist möglich, präzise, vertikale oder horizontale Flächen zu verkleben</li><li>ein zuverlässiger Begeiter für jeden Handwerker</li><li>hohe Anfangshaftung, extreme Ergiebigkeit und besondere Klebkraft<br/></li></ul>"
+}

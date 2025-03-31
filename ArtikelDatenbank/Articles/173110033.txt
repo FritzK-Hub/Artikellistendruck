@@ -1,0 +1,4 @@
+{
+    "uvp": 4.09,
+    "attributes": "<ul><li>Größe: 18 x 19 mm</li><li>gehärtet und verchromt</li><li>mit polierten Köpfen</li></ul>"
+}

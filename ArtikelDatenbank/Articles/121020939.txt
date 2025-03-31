@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>weiße Reißnägel</li><li>kunststoffummantelt</li><li>in praktischer Aufbewahrungsbox</li><li>100 Heftzwecken</li><li>Reißbrettstifte aus Blech</li></ul><p><br/></p>"
+}

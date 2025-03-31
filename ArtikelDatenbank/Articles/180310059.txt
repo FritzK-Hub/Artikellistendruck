@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Scheiben-Reinigungstücher für eine klare Sicht</li><li>ideal für Innen- und Außenscheiben sowie Scheinwerfer</li><li>entfernt Verschmierungen, Insektenreste, Straßenschmutz</li><li>mehr Durchblick und Sicherheit im Straßenverkehr</li><li>im Spender mit Flip-Top Deckel schützt vorm Austrocknen<br/></li></ul>"
+}

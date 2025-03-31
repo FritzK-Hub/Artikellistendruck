@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>10 Federn, klein</li><li>schnelle und einfache Befestigung</li><li>für Glas oder Stegdoppelplatten</li><li>auch für lackierte Profile geeignet</li><li>für ältere Gewächshäuser</li></ul>"
+}

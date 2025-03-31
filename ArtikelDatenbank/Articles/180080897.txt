@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>Lava Mulch rot mit 8 bis 16 mm Körnung</li><li>eignet sich für viele Gartenarbeiten und Anwendungen</li><li>dient zum Abdecken, zur Bodenverbesserung oder als Substrat für Hydrokulturen</li><li>unterdrückt das Wachstum von Unkraut und speichert Wärme und Feuchtigkeit</li><li>reduziert zusätzlich das Keimen von anfliegenden Samen</li></ul>"
+}

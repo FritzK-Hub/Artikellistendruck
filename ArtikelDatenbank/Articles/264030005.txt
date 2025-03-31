@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Karabiner 60 mm in Birnenform</li><li>aus verzinktem Stahl gefertigt</li><li>Schraubenverschluss schützt vor ungewollten Öffnem</li><li>besitzt einen Belastbarkeit von 120 kg</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

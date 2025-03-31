@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>modernes und elegantes Design</li><li>energieeffizient dank Solarpanel</li><li>automatische Ausleuchtung bei Bewegung</li><li>lange Leuchtdauer bis zu 8 Stunden</li><li>flexible, netzunabhängige Platzierung</li></ul>"
+}

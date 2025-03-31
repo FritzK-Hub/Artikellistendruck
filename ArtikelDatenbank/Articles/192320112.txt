@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>LED-Crashglas Kugel Ø 18 cm batteriebetrieben</li><li>mit 20 warmweißen LEDs versehen </li><li>für schöne Lichtakzente im Garten oder Balkon</li><li>als dekorativer Orientierungspunkt im Garten einsetzbar</li><li>vielseitig einsetzbare Dekoration für innen und außen</li></ul>"
+}

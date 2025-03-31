@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>dekorative LED- Hängebeleuchtung aus Silberdraht</li><li>mit warmweißen LEDs versehen</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>Silberdrähte lassen sich nach Belieben für die Beleuchtung biegen</li><li>lässt sich einfach in deinen Wohnräumen aufhängen<br/></li></ul>"
+}

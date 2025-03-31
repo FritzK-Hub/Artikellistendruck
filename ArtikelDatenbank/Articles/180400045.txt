@@ -1,0 +1,4 @@
+{
+    "uvp": 154.95,
+    "attributes": "<ul><li>mechanischer Universalabzieher für Innen und Außen</li><li>mit 2 Montagearmen</li><li>stufenlos verstellbar</li><li>Arme individuell einstellbar</li><li>mit Standardhaken mit Gleitschiene<br/></li></ul>"
+}

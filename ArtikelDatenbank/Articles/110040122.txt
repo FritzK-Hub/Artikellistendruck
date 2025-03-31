@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>    6 runde Backpapier-Zuschnitte</li><li>für Springformen mit Ø 26 bis 28 cm</li><li>mit beidseitiger Antihaft-Beschichtung</li><li>kein Einfetten und kein Anbacken</li><li>einfaches Reinigen der Springform</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Lebendfalle aus robusten Metalldrähten</li><li>eine tierfreundliche Fangmethode für Ratten</li><li>robuste Konstruktion ist besonders stabil</li><li>Kontaktstange in der Mitte löst die Falle per Federmechanismus aus</li><li>ohne Gebrauch von Rattengift einsetzbar<br/></li></ul>"
+}

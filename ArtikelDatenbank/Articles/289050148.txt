@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Rundrohr aus Messing</li><li>weitgehend beständig gegen Chemikalien</li><li>bildet durch Lufteinwirkung eine Oxidschicht (Patina), die mit Poliermitteln entfernt werden kann</li></ul>"
+}

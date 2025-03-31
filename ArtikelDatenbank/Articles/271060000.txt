@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Spitzmeißel aus Stahl mit Handschutz </li><li>ergonomischer Griff aus Gummi</li><li>verhindert Schlagunfälle mit dem Hammer</li><li>massive Ausführung</li><li>Handschutz Durchmesser: ca. Ø 80 mm</li></ul>"
+}

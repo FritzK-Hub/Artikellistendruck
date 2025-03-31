@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>vielseitige Klebefolie 200 x 45 cm mit Altholzmotiv</li><li>verleiht Möbeln einen neuen, frischen Look</li><li>lässt sich einfach und mühelos aufkleben</li><li>kann ohne Kleberückstände entfernt werden</li><li>ist beständig gegen alltägliche Beanspruchung</li></ul>"
+}

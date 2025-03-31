@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Frontscheibenabdeckung für PKWs, universell passend</li><li>aus Schaumstoff Aluminium-beschichtet</li><li>der ideale Schutz gegen Frost, Eis und Hitze</li><li>im Winter wie im Sommer unverzichtbar</li><li>Einklemmlaschen für schnelle und sichere Befestigung</li></ul>"
+}

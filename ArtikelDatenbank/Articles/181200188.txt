@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Prunkwinde für ca. 30 Pflanzen</li><li>mit leuchten blauer Farbwirkung</li><li>ist eine frühblühende Schlingpflanze</li><li>ideal zum Beranken von Mauern oder Spalieren</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

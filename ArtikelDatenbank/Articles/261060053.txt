@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>Spezial-Hohlraumdübel aus Metall mit Bundmutter</li><li>mit praktischem Federmechanismus </li><li>lange Gewindestange für große Wandstärken</li><li>vielseitig einsetzbar</li><li>gute Haltekraft und einfache Montage<br/></li></ul>"
+}

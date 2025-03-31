@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>erleichtert das Anpflanzen deiner Tomatensorten</li><li>mitgelieferte Ringe dienen als Rankhilfe</li><li>unterstützt das Wachstum, sorgt für nötige Stabilität </li><li>vielseitig für Balkon oder im Garten einsetzbar</li><li>ernte Gemüse, welches frei von Chemikalien ist<br/></li></ul>"
+}

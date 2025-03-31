@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Telefon-Anschlussdose (TAE-Dose) für 3 Geräte</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>fügt sich in viele Einrichtungskonzepte ein</li><li>für die Unterputz-Montage</li><li>Nur in Kombination mit Rahmen aus der Serie \"Standard Quadro\" zu verwenden<br/></li></ul>"
+}

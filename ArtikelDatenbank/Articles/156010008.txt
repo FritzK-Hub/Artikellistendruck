@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>3-teiliges Lasurpinselset</li><li>Basis-Qualität für einfache Streicharbeiten</li><li>geeignet für Dünn- und Dickschichtlasuren</li><li>Flachpinsel, drei verschiedene Größen</li><li>Kunststoffgriffe und Blechzwinge</li></ul>"
+}

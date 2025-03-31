@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>präzise Schneidleistung</li><li>komfortabler Griff</li><li>kompakte Größe</li><li>mit Sicherungshebel</li><li>hochwertige Materialien</li></ul>"
+}

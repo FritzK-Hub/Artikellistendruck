@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hochwertige Blechmuttern im 2er Set</li><li>einfache Montage durch Aufschieben</li><li>schnelle Verbindung von Blechteilen</li><li>mit verzinkter Oberfläche</li><li>Blindverschraubung möglich<br/><br/></li></ul>"
+}

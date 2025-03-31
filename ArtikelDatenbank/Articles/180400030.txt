@@ -1,0 +1,4 @@
+{
+    "uvp": 89.0,
+    "attributes": "<ul><li>hochwertiges 3-teiliges Kugelgelenk-Ausdrückset von Normex</li><li>zum Ausdrücken von geschlossenen Gelenkzapfen bzw. Gelenkzapfen mit Zentrierbohrung am PKW</li><li>hergestellt aus robusten Chrom-Molybdän-Stahl</li><li>Spannschrauben mit Feingewinde</li><li>phosphatisierte Oberfläche<br/></li></ul>"
+}

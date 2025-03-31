@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Luftmatratze Lounge mit Netzeinsatz mit aufblasbarer Rückenlehne</li><li>mit Farbverlauf Dekor<br/></li><li>für den außergewöhnlichen Badespaß im Hauseigenen Pool oder Urlaub</li><li>Mesh-Liegefläche für eine erfrischende Abkühlung</li><li>inklusive selbstklebenden Reparaturflicken<br/></li></ul>"
+}

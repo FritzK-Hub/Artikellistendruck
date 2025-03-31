@@ -1,0 +1,4 @@
+{
+    "uvp": 529.0,
+    "attributes": "<ul><li>Scheppach Rüttelplatte HP1900S mit 4-Takt-Benzinmotor und Ölwächter</li><li>mit 17000 N Verdichtungsdruck und 30 cm Verdichtungstiefe</li><li>optimal zum Rütteln und Verdichten kleinen bis mitteleren Flächen</li><li>hervorragende Vortriebs- und Verdichtungsleistung, mit automatischem Vorschub</li><li>inklusive Gummimatte und Fahrvorrichtung<br/></li></ul>"
+}

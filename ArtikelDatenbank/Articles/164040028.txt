@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>zuverlässige und stabile Befestigungslösung</li><li>für Expanderseile mit Ø 8 mm</li><li>Kunststoffbeschichtung verhindert Rost und Korrosion</li><li>einfach zu verwenden und anzubringen</li><li>flexibel einsetzbar in verschiedenen Anwendungen wie Camping, Gartenarbeit</li></ul>"
+}

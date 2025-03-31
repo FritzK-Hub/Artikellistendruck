@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>Fahrrad-Faltschloss aus gehärtetem Stahl</li><li>hoher Schutz gegen Diebstahl</li><li>inkl. Rahmenhalter, Klettbänder und Sicherheitsschlüssel</li><li>sehr einfache Handhabung in der Dunkelheit</li><li>mit hoher Sicherheitsstufe</li></ul>"
+}

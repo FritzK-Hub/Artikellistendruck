@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>geschmiedet</li><li>matt verchromt</li><li>Größen: 6x7, 8x9, 10x11, 12x13, 14x15, 16x17, 18x19, 20x22 mm</li><li>in Rolltasche</li></ul>"
+}

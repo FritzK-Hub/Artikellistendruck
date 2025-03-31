@@ -1,0 +1,4 @@
+{
+    "uvp": 59.99,
+    "attributes": "<ul><li>seidenglänzende Eleganz</li><li>hochstrapazierfähiger Schutz</li><li>vielseitige Anwendung</li><li>einfache Verwendung</li><li>umweltfreundlich auf Wasserbasis<br/></li></ul>"
+}

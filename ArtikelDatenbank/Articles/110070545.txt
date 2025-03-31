@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>einseitig selbstklebendes Isolierglasband</li><li>hervorragende Hitzebeständigkeit</li><li>zur Isolierung von Rohren, Leitungen, Öfen uvm.</li><li>einfache Installation</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

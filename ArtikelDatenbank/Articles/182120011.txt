@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>Glühlampen-Set</li><li>für Scheinwerfer und Rücklicht</li><li>mit Gewindefassung</li><li>geeignet für Fahrradbeleuchtung mit 6 Volt</li><li>2 Ersatzbirnen</li></ul>"
+}

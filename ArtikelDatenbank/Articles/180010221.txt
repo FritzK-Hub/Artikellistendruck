@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Seramis Spezial-Substrat 2,5 Liter für Orchideen</li><li>aus Tongranulat und Pinienrinde gefertigt</li><li>eignet sich gegen Staunässe und Wurzelfäulnis</li><li>schnelles Umtopfen jederzeit möglich</li><li>sorgt für gute Belüftung der Wurzeln<br/></li></ul>"
+}

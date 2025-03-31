@@ -1,0 +1,4 @@
+{
+    "uvp": 7.69,
+    "attributes": "<ul><li>Anschlussschlauch 300 mm</li><li>sicher: stabile Verbindung &amp; Verlängerung bestehender Sanitärleitungen</li><li>widerstandsfähig: mit edelstahlumflochtener Ummantelung gegen Korrosion</li><li>hochflexibel und druckfest</li><li>mit 3/8\" Mutter und 10 mm Quetschverbindung</li></ul>"
+}

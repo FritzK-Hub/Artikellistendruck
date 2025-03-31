@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Pampasgras erreicht eine Größe von 275 cm und eine Graslänge von 150 cm</li><li>in den Farben rosa oder weiß erhältlich</li><li>silbrig, glänzende Blüten verziehen das Gras</li><li>lange haltbare Blütenwedel und winterhart</li><li>dank aufrechten Wuchs sind die Gräser gut mit anderen Pflanzen kombinierbar<br/></li></ul>"
+}

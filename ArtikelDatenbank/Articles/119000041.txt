@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>Mehrzweckleiter aus Aluminium mit 5+6 Sprossen</li><li>vielseitig als Anlege-, Bock-, und Schiebeleiter einsetzbar</li><li>variable Höhenverstellung mit Spreizsicherung, belastbar bis 150kg</li><li>mit einer Spreizsicherung und Fallhaken ausgestattet</li><li>zusammenklappbare, platzsparende Aluleiter<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Alzweck- / Obst- / Gemüsebürste</li><li>mit Schaber und Raspel</li><li>harte Borsten aus Kunststofffasern</li><li>Rücken aus Kunststoff</li></ul>"
+}

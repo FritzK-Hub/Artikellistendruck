@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>mildes Handspülmittel-Konzentrat Balsam </li><li>fürs schnelle und gründliches aufspülen mit der Hand</li><li>besonders hautfreundlich bei höchster Fettlösekraft</li><li>lässt sich sofort anwenden</li><li>handlich und anwenderfreundlich<br/></li></ul>"
+}

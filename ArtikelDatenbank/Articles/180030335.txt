@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>pflanzenschonend</li><li>hohe Reißfestigkeit</li><li>natürlicher und ansprechender Touch</li><li>vielseitige Verwendungsmöglichkeiten</li><li>großzügige Maße</li></ul>"
+}

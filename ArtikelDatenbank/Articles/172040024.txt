@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>speziell konzipiert für den Verteilerbau auf der Hutschiene</li><li>Leitungsanschluss für die Verbindung von Leitern bis zu 2,5 mm²</li><li>vielseitig einsetzbar für verschiedene Installationen</li><li>geringe Einbautiefe von 55 mm, besonders platzsparend</li><li>schafft einen Steckplatz in Reichweite deiner Unterverteilung<br/></li></ul>"
+}

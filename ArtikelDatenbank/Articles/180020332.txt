@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li><div>mechanische Bewässerungsuhr, Wasserzeitschaltuhr</div></li><li>einstellbar von 1 Minute - 120 Minuten oder Dauerdurchfluss</li><li>Wasserzeitschaltuhr bis maximal 6 Bar Wasserdruck</li><li>passt perfekt zu allen gängigen Schnellkupplungen</li><li>Innengewinde-Wasserhahn-Anschluss mit innenliegendem Sieb</li></ul>"
+}

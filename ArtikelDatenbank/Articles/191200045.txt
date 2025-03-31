@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Grillschürze in der Universalgröße 70 x 84 cm</li><li>aus schwarzem Textil gefertigt</li><li>schützt die Kleidung vor Fettspritzern oder Flecken</li><li>Stoffbändchen und Träger für leichteren festschnüren</li><li>bei Nichtgebrauch platzsparend aufhängbar<br/></li></ul>"
+}

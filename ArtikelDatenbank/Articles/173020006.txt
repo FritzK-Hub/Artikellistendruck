@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>hohe Vielseitigkeit</li><li>hochwertigees Material</li><li>bohrmaschinengeeignet</li><li>Akku-Schrauber geeignet</li><li>für Sicherheitsschrauben</li></ul>"
+}

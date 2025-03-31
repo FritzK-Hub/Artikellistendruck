@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Hundebett aus Filz für kleine Hunde </li><li>kuscheliger und ruhiger Platz</li><li>weich und komfortabel</li><li>Boden gegen Bodenkälte</li><li>Wohlfühlort für Hunde<br/></li></ul>"
+}

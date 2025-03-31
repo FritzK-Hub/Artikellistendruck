@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"><ul><li>Fahrradschlauch 16\" mit Dunlop-Ventil </li><li>ersetzt den beschädigten Schlauch am Fahrrad </li><li>sehr elastisches Material </li><li>deckt viele Größen ab </li><li>breiter Ersatzschlauch </li></ul></div>"
+}

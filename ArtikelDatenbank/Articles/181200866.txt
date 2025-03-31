@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatband Schnittlauch Polyvit ca. 2 laufende Meter</li><li>ist eine ertragreiche, raschwüchsige Gewürzsorte</li><li>frisch entfaltet er seine stärkste Geschmackswirkung</li><li>ergänzt sich ideal jeglicher Art von Salaten</li><li>für den späteren Verzehr einfach einfrieren oder trocknen<br/></li></ul>"
+}

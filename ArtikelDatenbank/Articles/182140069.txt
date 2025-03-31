@@ -1,0 +1,4 @@
+{
+    "uvp": 4.69,
+    "attributes": "<ul><li>Mini Fahrradglocke farblich sortiert</li><li>für ein frühzeitiges Erkennen im Straßenverkehr</li><li>Lenkerklingel drehbar um 360 °</li><li>optimale Griffposition durch individuell einstellbare Unterschale</li><li>Schlägel mit Feder</li></ul>"
+}

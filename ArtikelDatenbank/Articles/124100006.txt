@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>Kugel-Auslaufventil aus hochwertigem Messing, robust und langlebig</li><li>vielseitige Anwendungsmöglichkeiten für eine Vielzahl von Anwendungen</li><li>mit einem bequemen Flügelgriff ausgestattet und bietet eine einfache Bedienung</li><li>zwei voneinander getrennt steuerbare Abgänge</li><li>Schlauchanschluss mit Tülle und mit Steckkupplung im Lieferumfang enthalten</li></ul>"
+}

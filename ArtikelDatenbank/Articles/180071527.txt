@@ -1,0 +1,4 @@
+{
+    "uvp": 18.19,
+    "attributes": "<ul><li>Bewässerungskasten in anthrazit mit Wasserstandanzeige</li><li>ideal für Pflanzenliebhaber, die nicht jeden Tag zu Hause sind</li><li>mit großen Wasserspeicher, somit ist eine Überwässerung ausgeschlossen</li><li>einfache Demontage für eine leichtere Reinigung</li><li>einfacher Transport des Kastens möglich</li></ul>"
+}

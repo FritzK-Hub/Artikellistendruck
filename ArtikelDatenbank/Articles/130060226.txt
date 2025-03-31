@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Erste-Hilfe-Reise Setvon Wundmed</li><li>im praktischer Tasche mit Gürtelschlaufe</li><li>für kleinere oder größere Blessuren</li><li>Grundausstattung an Verbandsstoffen</li><li>ideal für Urlaub, Camping oder beim Sport<br/></li></ul>"
+}

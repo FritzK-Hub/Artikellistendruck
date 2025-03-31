@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Fußmatte aus Nadelfilz mit 2-fach Rippenstruktur</li><li>mit einer Precoat-Beschichtung auf der Rückseite versehen</li><li>für Innen- und überdachten Außenbereich geeignet</li><li>passend für Eingangsbereiche und Flure von Büros</li><li>in drei verschiedenen Farben erhältlich<br/></li></ul>"
+}

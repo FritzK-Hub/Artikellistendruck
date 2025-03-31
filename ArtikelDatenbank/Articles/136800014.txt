@@ -1,0 +1,4 @@
+{
+    "uvp": 199.0,
+    "attributes": "<ul><li>umfassendes 187-teiliges Werkzeug-Set</li><li>hochwertiger Chrom-Vanadium-Stahl</li><li>praktischer, abschließbarer Trolley mit Rollen</li><li>übersichtliche und sichere Werkzeughalterungen</li><li>vielseitig einsetzbar für verschiedene Anwendungen</li></ul>"
+}

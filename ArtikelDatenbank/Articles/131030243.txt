@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>15 feuchte Bodentücher</li><li>für die schnelle Reinigung zwischendurch</li><li>anwendbar mit handelsüblichen Wischern oder mit der Hand</li><li>für alle glatten Böden</li><li>auch für Laminatböden geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Art: Stockschraube</li><li>Gewinde: reduziert gewalztes Holzgewinde</li><li>Kopf: Innensechsrund / 6-kant Schlüsselfläche</li><li>Antrieb: TX - Antrieb T25</li><li>Material: Stahl, galvanisch verzinkt</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 179.9,
+    "attributes": "<ul><li>kabellose Freiheit dank starkem Akku</li><li>kompakte Bauweise für optimale Wendigkeit</li><li>Schnitthöhen variabel in drei Stufen</li><li>ergonomisch durch höhenverstellbaren Griff</li><li>schnelle Akku-Ladezeit für sofortige Einsatzbereitschaft</li></ul>"
+}

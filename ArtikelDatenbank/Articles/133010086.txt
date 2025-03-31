@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Ergänzungsfuttermittel für ausgewachsene Hunde</li><li>sorgfältig im Spezialofen ausgebacken</li><li>unterstützt die Pflege und Reinigung von Zähnen und Zahnfleisch</li><li>stärkt zusätzlich die Kaumuskulatur</li><li>als Leckerbissen zwischendurch oder als Belohnung</li></ul>"
+}

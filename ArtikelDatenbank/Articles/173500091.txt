@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>elegantes, modernes Design</li><li>umweltfreundlich durch Solarenergie</li><li>automatisches Einschalten bei Dunkelheit</li><li>lange Leuchtdauer von bis zu 8 Stunden</li><li>enfache, wartungsfreie Installation</li></ul>"
+}

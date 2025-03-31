@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>effektive Fettlösekraft für glänzendes Geschirr</li><li>hautschonend auch bei häufiger Anwendung</li><li>umweltfreundliche, sanfte Rezeptur</li><li>konzentrierte Formel für sparsamen Verbrauch</li><li>neutraler, angenehmer Duft</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>5 Funktionen in einem Multitool</li><li>individuell anpassbare Länge bietet Komfort</li><li>schneller Wechsel dank Klickverschluss</li><li>kompakt und leicht zu verstauen</li><li>effizient für Schnee, Eis und Nässe</li></ul>"
+}

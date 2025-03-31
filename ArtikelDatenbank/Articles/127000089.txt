@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Streuwagen mit 12 Liter Fassungsvermögen</li><li>aus stabilem, grauem Kunststoff gefertigt</li><li>zum Verstreuen von Dünger, Saatgut oder Salz</li><li>besitzt einen Hebel zur Streumengenregulierung</li><li>große Kunststoffräder für leichteren Transport</li></ul>"
+}

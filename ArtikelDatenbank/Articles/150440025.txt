@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>extra große Pfanne für Familienportionen</li><li>vielseitig: Kochen, Braten, Warmhalten in einem</li><li>Temperaturkontrolle bis 240°C schafft Flexibilität</li><li>kabelloses Servieren dank abnehmbarer Zuleitung</li><li>einfache Reinigung durch Antihaftbeschichtung</li></ul>"
+}

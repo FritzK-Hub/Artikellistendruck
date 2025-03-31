@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>7 beidseitig beleimte Gelbtafeln + Bindedrähte</li><li>der gelbe Farbton lockt fliegende Insekten an</li><li>einfache Anwendung, fix und fertig beleimt</li><li>dauerhafte Wirkung, lang anhaltende Klebefähigkeit</li><li>flexibel, ganzjährig einsetzbar</li></ul>"
+}

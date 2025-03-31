@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>30 feuchte Glasreinigungstücher</li><li>für schnellen und streifenfreien Glanz</li><li>für Glas und glatte Oberflächen</li><li>mit Nanoeffekt</li><li>unkomplizierte und mühelose Anwendung<br/><br/></li></ul>"
+}

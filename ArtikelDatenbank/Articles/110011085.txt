@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>zum Anschluss an Flexschläuche und Rohre Ø 100mm</li><li>für Flachkanal-Anschluss 100 x 54 mm</li><li>strömungsgünstiger Querschnitt</li><li>aus stabilem Kunststoff, weiß</li><li>einfache Montage<br/></li></ul>"
+}

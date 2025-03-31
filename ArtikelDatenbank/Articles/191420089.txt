@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>robuste Thermosflasche 750 ml aus Edelstahl</li><li>optimal für Autofahrten oder Outdoor-Aktivitäten</li><li>zum Warm- oder Kalthalten deiner Getränke</li><li>in handlicher Größe leicht zu verstauen</li><li>integrierter Silikonring verhindert Auslaufen<br/></li></ul>"
+}

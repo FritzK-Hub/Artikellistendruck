@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li><strong>Tomatenhaus </strong>mit hochrollbarer Türöffnung</li><li>bester Schutz für deine Tomaten</li><li>die wetterfeste PE-Folie sorgt für ausreichend Licht</li><li>witterungsbeständigem Metallrahmen</li><li>einfache und schnelle Montage</li></ul>"
+}

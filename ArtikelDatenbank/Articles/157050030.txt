@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>schnelltrocknend, hitzefest bis 600°C</li><li>sehr gute Deckkraft und einfache Verarbeitung</li><li>keine Risse, kein Abblättern</li><li>bleifreier Hochtemperaturlack<strong> </strong></li><li>für Ofenrohre, Auspuffanlagen, Bremssättel, Grills, Motoren usw.</li></ul>"
+}

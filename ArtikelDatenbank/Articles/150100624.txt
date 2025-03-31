@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>garantiert einen sicheren Transport, mit maximaler Belastbarkeit von 800 kg</li><li>erleichtert das Anbringen von Zurrgurten, für eine sichere Befestigung der Ladung </li><li>robuste und langlebige Konstruktion, aus verzinktem Stahl</li><li>zur Befestigung an den Seitenwänden konzipiert</li><li>schnelle und einfache Montage mittels M10 Schrauben<br/></li></ul>"
+}

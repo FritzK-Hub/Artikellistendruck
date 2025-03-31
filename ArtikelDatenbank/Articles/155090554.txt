@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>nahtlose Verbindung</li><li>praktische Winkelkonstruktion</li><li>sichere Verschraubung</li><li>robuste Konstruktion</li><li>einfache Selbstmontage<br/></li></ul>"
+}

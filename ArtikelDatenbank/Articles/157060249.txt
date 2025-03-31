@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>schnelltrocknendes Isolierspray 400 ml in weiß</li><li>isoliert Flecken von Teer, Nikotin, Ruß, Filzstift</li><li>sehr gute Deckkraft und überstreichbar</li><li>für den Innenbereich geeignet</li><li>einfache und praktische Anwendung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Türkischer Riesenmohn Brillant</li><li>große Blüten in glühendem Rot</li><li>sehr wirkungsvolle Schmuckstaude</li><li>Probefeldgetestete Qualität</li><li>Pflanzen ziehen nach der Blüte ein</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>runde Filzgleiter mit Einschlagspitzen</li><li>geeignet für glatte Böden</li><li>schützen die Böden vor Kratzern</li><li>einfache Montage und fester Halt</li><li>mit Nagelstift für ein leises Verrücken von Stühlen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>    7-teiliges Autolampen-Set    </li><li>5 Lampen und 2 Flachstecksicherungen    </li><li>12 Volt Betriebsspannung</li><li>mit E-Zulassung</li><li>in einer Kunststoffbox<br/></li></ul>"
+}

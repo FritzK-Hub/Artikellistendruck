@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Radblenden im 4er Set Flexo 13'' 33 cm</li><li>Hochglanzoptik mit Goodyear Schriftzug auf Radnabenabdeckung</li><li>Aussparung für den Ventilschaft</li><li>robust und flexibel</li><li>faltbare Befestigungsfüße</li></ul>"
+}

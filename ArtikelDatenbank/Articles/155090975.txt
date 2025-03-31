@@ -1,0 +1,4 @@
+{
+    "uvp": 7.85,
+    "attributes": "<ul><li>Wechselschalter inklusive Kunststoffwippe</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>fügt sich in viele Einrichtungskonzepte ein</li><li>für die Unterputzmontage in der Schalterdose (min. 45mm Tiefe)</li><li>nur in Kombination mit Rahmen der REV EverLuxe-Serie zu verwenden<br/></li></ul>"
+}

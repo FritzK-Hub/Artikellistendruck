@@ -1,0 +1,4 @@
+{
+    "uvp": 11.5,
+    "attributes": "<ul><li>handlicher Batterietester mit 12 V</li><li>passend für Autobatterien und Lichtmaschinen</li><li>überprüft und kontrolliert die Startfähigkeit und Ladezustand oder Ladefunktion</li><li>Anzeige erfolgt über das Aufleuchten der Felder</li><li>inklusive der benötigten Batterieklemmen</li></ul>"
+}

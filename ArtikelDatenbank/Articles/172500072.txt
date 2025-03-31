@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>Telefonkabel mit TAE-F Stecker</li><li>mit Innenleiter aus Kupfer</li><li>für beste Übertragungseigenschaften</li><li>zum Anschließen eines Telefons an eine TAE-F-Telefondose</li><li>universelle Belegung für alle gängigen Telefone<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>4-16mm</li><li>Klingen aus rostfreiem Stahl</li><li>Gehäuse aus Kunststoff</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Druckluftpistole für Haus und Werkstatt</li><li>mit Venturi-Düse aus Aluminium</li><li>der Luftdurchsatz steigt bei gleichem Lufteinsatz um ein Vielfaches</li><li>aus robustem, kratzfestem Werkstoff</li><li>ergonomische Form für ermüdungsfreies Arbeiten<br/></li></ul>"
+}

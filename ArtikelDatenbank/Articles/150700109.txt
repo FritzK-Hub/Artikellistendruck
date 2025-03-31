@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>praktisches Tablett rechteckig 33 x 30 cm</li><li>aus gebranntem Mangoholz gefertigt</li><li>große Ablagefläche bietet ausreichend Platz</li><li>als Dekorationsablage für z.B. Kerzen</li><li>als Serviertablett im Haushalt oder fürs Frühstück<br/></li></ul>"
+}

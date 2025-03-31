@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Sonnenschirmständer aus Kunststoff in grau</li><li>mit Betonfüllung für besten Halt</li><li>ideal für Sonnenschirme, Wäschespinnen oder Fahnen</li><li>schlichtes Design ist ein echter Blickfang</li><li>einfacher Transport dank zwei Griffen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>WECK® Einweck-Klammern für 6 Gläser</li><li>aus rostfreiem Edelstahl</li><li>gleichbleibend starke Federkraft</li><li>für den Einkochvorgang sehr wichtig</li><li>pro Glas werden 2 Klammern benötigt</li></ul>"
+}

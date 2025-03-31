@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>passende Ersatzbürste für die WC-Garnitur</li><li>besonders hygienisch und pflegeleicht</li><li>sorgt für mehr Sauberkeit auf dem WC</li><li>strapazierfähige Borsten entfernen selbst hartnäckigen Schmutz</li><li>stabiler Kunststoffgriff erleichtert die Reinigung<br/></li></ul>"
+}

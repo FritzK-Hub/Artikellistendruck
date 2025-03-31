@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>eleganter Möbelknopf für Schubladen und Schranktüren</li><li>aus massivem Zinkdruckguss</li><li>verschönert jeden Wohnbereich</li><li>verchromt</li><li>mit Befestigungsmaterial<br/></li></ul>"
+}

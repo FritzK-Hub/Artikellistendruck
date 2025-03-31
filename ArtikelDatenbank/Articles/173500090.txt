@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>effiziente Solar-LED-Technologie für den Außenbereich<br/></li><li>attraktives Set im modernen Design</li><li>einfache Installation dank integriertem Bodenspieß</li><li>automatische Dämmerungssensorfunktion zur bequemen Nutzung</li><li>flexibles, kabelloses Design für vielseitige Dekorationsmöglichkeiten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hoher Ertrag &amp; Geschmack</li><li>vielseitig und Gesund</li><li>einfache Pflege</li><li>lange Lagerdauer </li><li>flexible Anpassung<br/></li></ul>"
+}

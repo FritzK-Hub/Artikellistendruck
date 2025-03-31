@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Wirsingkohl Vorbote 3 für ca. 120 Pflanzen</li><li>einer der frühesten Sorten mit mildem Geschmack</li><li>bildet hochrunde Köpfe mit gekrausten Blättern</li><li>ist zudem besonders Kälteresistenz</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

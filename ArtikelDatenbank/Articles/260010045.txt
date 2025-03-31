@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Gartenhandschuhe Größe 10 aus Baumwolle in grün</li><li>Handinnenfläche mit Noppen versehen</li><li>ermöglicht eine reibungslose Arbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>angenehmer Komfort bei jeder Gartenarbeit</li></ul>"
+}

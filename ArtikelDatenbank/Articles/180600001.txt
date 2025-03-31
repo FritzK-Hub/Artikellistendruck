@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>Rückfahrhilfe mit 4 Sensoren für die meisten Fahrzeuge geeignet</li><li>digitale Anzeige für das Armaturenbrett</li><li>optisch und akustisch ansteigende Warnung</li><li>Stromversorgung über das Rückfahrlicht</li><li>inklusive komplettem Installationssatz</li></ul><p></p>"
+}

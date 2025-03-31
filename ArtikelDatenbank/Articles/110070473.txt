@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>effiziente Kaminreinigung</li><li>kompakte, praktische Größe</li><li>mühelose Handhabung</li><li>besonders langlebig und widerstandsfähig</li><li>aus besonders robustem Metall<br/></li></ul>"
+}

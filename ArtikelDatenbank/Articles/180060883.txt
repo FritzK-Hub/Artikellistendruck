@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>vielseitig einsetzbare Dekokugel mit 5 cm Durchmesser</li><li>aus glänzendem Edelstahl gefertigt</li><li>passend für Haus, Garten, Teich und Balkon</li><li>für die dekorative Gestaltung im Innen- und Aussenbereich</li><li>als eleganter Wegbegleiter einsetzbar<br/></li></ul>"
+}

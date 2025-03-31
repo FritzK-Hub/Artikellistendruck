@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Gefrierbeutel-Set 6 Stück mit Zip-Verschluss</li><li>aus geschmacksneutralem Polyethylen gefertigt</li><li>zur Aufbewahrung und das Einfrieren von Lebensmitteln</li><li>6 Liter Fassungsvermögen bietet ausreichend Stauraum</li><li>lassen sich einfach öffnen und sicher verschließen<br/></li></ul>"
+}

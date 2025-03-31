@@ -1,0 +1,4 @@
+{
+    "uvp": 17.19,
+    "attributes": "<ul><li>Schallschutz</li><li>Dichtungspflege</li><li>Ölsparen</li><li>Umweltschutz</li><li>Rauchvermeidung</li></ul>"
+}

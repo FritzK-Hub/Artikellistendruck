@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>zuverlässiger Schutz vor Funkenflug und Asche</li><li>elegantes und zeitloses Design</li><li>robuste und langlebige Materialien</li><li>große Abdeckfläche für Boden und Möbel</li><li>für alle Böden im Innenbereich geeignet<br/></li></ul>"
+}

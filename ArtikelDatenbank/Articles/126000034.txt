@@ -1,0 +1,4 @@
+{
+    "uvp": 399.95,
+    "attributes": "<ul><li>hohe Leistung für schnelle Mähergebnisse bis 1800 m²<br/></li><li>Flexibilität durch stufenlos einstellbare Schnitthöhe</li><li>großer Auffangbehälter für weniger Unterbrechungen</li><li>gute Manövrierbarkeit durch Hinterradantrieb bietet Komfort <br/></li><li>robuste Fertigung - langlebig und zuverlässig</li></ul>"
+}

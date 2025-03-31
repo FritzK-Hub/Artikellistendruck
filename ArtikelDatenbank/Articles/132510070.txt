@@ -1,0 +1,4 @@
+{
+    "uvp": 199.0,
+    "attributes": "<ul><li>inkl. Akkus &amp; Ladegerät</li><li>besonders leistungsstark</li><li>optimale Kontrolle und Vielseitigkeit</li><li>kompaktes und leichtes Design</li><li>für präzises Schrauben und Bohren</li><li>ergonomischer, rutschfester Handgriff<br/><br/></li></ul>"
+}

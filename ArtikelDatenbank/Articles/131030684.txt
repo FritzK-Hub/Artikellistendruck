@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>hochwirksam gegen alle Arten von Verschmutzungen</li><li>kraftvoller Sprühreiniger</li><li>schnell und wirkungsvoll für alle Kunststoffoberflächen </li><li>beugt neue Ablagerungen vor</li><li>gebrauchsfertig in der Pumpsprühflasche<br/></li></ul>"
+}

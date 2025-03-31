@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>farbloser Schutzlack zur Versiegelung der Farblackierung</li><li>schützt und konserviert die Lackierung</li><li>erzeugt dauerhaften, brillanten Hochglanz</li><li>hervorragende Hafteigenschaften auf durchgetrockneten Acryl-, Nitro- und Einbrennlackierungen</li><li>schützt Lackoberflächen vor mechanischer wie chemischer Beanspruchung, Witterung, Verschmutzung und vorzeitiger Alterung</li></ul>"
+}

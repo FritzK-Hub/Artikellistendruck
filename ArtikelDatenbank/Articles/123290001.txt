@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>bietet Pflanzen optimalen Frost- und Feuchtigkeitsschutz</li><li>aus Kokosfilz, besonders nachhaltig und umweltfreundlich</li><li>speichert Bodenfeuchtigkeit, für weniger Bewässerungsaufwand</li><li>auch als vielseitige Dekoration verwendbar</li><li>rustikaler Look, fügt sich in Gartenlandschaft ein<br/></li></ul>"
+}

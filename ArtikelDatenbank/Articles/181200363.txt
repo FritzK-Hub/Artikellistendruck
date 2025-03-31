@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Speisekohlrübe Wilhelmsburger</li><li>ist eine ertragreiche Rübensorte</li><li>gleichmäßige Köpfe mit gelbem Fruchtfleisch</li><li>zum Kochen oder als Püree verwendbar</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

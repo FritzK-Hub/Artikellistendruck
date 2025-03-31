@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Kunstharzlack für edle Holzoberflächen</li><li>wetter- und witterungsbeständig</li><li>abriebfest</li><li>für Innen- und Außenbereiche</li><li>stoß- und schlagfest</li></ul>"
+}

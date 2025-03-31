@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Pflanztisch aus Holz wetterfest für den Außenbereich</li><li>Regalboden bietet ausreichend Platz und schafft Ordnung</li><li>ergonomische Höhe erlaubt rückenschonendes Arbeiten</li><li>leicht zu reinigende Metall-Oberfläche des Blumentischs</li><li>vielseitig einsetzbar bei Pflanz- und Deko-Projekten</li></ul>"
+}

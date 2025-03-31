@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>Saatscheiben Tee-Kräuter-Mix in verschiedenen Sorten</li><li>enthält vielseitige Gewürze für heilsame Teeaufgüsse</li><li>ideal für den Anbau auf Fensterbank oder Balkon geeignet</li><li>wirkt belebend, nervenstärkend und krampflösend</li><li>schnelle und einfache Handhabung</li></ul>"
+}

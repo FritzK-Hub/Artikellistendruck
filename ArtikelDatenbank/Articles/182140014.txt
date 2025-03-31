@@ -1,0 +1,4 @@
+{
+    "uvp": 8.79,
+    "attributes": "<ul><li>klemmbare Bremsschuhe für Alu-Felgen</li><li>passend für V- / Cantilever-Bremsen</li><li>mit Stiftbefestigung</li></ul><ul><li>hohe Lebensdauer</li><li>Bremsschuhe ohne Gewinde</li></ul>"
+}

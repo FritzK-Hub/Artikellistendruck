@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>schnelle Wirkung zur Regulierung des Chlorgehalts</li><li>einfache Anwendung für jedermann</li><li>hoher Aktivchlor-Gehalt für zuverlässige Desinfektion</li><li>für Pools und Whirlpools geeignet</li><li>Dosierung über Skimmer möglich</li></ul>"
+}

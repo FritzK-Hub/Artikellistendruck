@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Schneideisen mit M3 Gewinde</li><li>aus HSS-Stahl gefertigt</li><li>für Außengewinde nach ISO-Norm</li><li>für metrische Gewinde</li><li>rechtsschneidend<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Spar-Spülbrausekopf für alle Küchenarmaturen</li><li>ersetzt die Standard-Mischdüse</li><li>besonders kalkabweisend</li><li>einfacher Austausch ohne Spezialwerkzeug</li><li>inklusive Kunststoffdichtung<br/></li></ul>"
+}

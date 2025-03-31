@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Material: Metall</li><li>flexibel</li><li>kein Bohren oder Schrauben</li><li>universell einsetzbar</li></ul>"
+}

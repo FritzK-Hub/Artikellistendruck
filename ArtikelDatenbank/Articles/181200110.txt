@@ -1,0 +1,4 @@
+{
+    "uvp": 0.59,
+    "attributes": "<ul><li>Saatgut Grünkohl Halbhoher grüner Krauser</li><li>bildet halbhohe, breit ausladende gekrauste Blätter</li><li>das Frischgemüse besitzt einen feinwürzigen Geschmack</li><li>ideal zum Einfrieren oder Einkochen geeignet</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

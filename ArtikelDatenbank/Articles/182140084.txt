@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Fahrradständer 24 - 28\"</li><li>höhenverstellbar</li><li>mit rutschfestem Gummifuß</li><li>komplett mit Befestigungsschrauben</li><li>Hinterbau-Ständer in schwarz</li></ul>"
+}

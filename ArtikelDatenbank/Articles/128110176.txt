@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>modernes Design durch edlen Samtbezug</li><li>platzsparend klappbar, einfach transportiert und verstaut</li><li>hoher Sitzkomfort dank Polsterung</li><li>stabil und belastbar bis 100 kg</li><li>vielseitig einsetzbar für jeden Anlass</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>Metall- und Leitungssuchgerät 2in, batteriebetrieben</li><li>zuverlässiges Auffinden von Stromkabeln oder Metallteilen <br/></li><li>kann zum Beispiel an Mauerputz oder Gipsplatten genutzt werden</li><li>ausgestattet mit einstellbarer Empfindlichkeit und optischer Anzeige</li><li>der ergonomische Griff erleichtert die Handhabung</li></ul>"
+}

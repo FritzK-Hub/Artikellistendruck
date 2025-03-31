@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>bequemer Hängesessel für eine Person<br/></li><li>komfortables Sitzen dank Armlehnen aus Holz<br/></li><li>nützliche Ergänzung für den Sommergarten<br/></li><li>ideal zur Entspannung nach einem anstrengenden Tag</li><li>stabiler Holzstab zur sicheren Befestigung<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 44.89,
+    "attributes": "<ul><li>Wäscheständer klappbar aus stabilem Kunststoff</li><li>bietet ausreichend Platz zum Aufhängen von nasser Kleidung</li><li>rutschfeste Füße und geschwungene Flügel für viel Bodenfreiheit</li><li>verfügt über eine Trockenlänge von bis zu ca. 19 Metern</li><li>platzsparend zusammenklappbar und einfach zu transportieren<br/></li></ul>"
+}

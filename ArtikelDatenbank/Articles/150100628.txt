@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>schützt die Kupplungskugel vor Feuchtigkeit und Schmutz</li></ul><ul><li>Gehäuse aus PVC gefertigt<br/></li><li>beständige Silbermetallic-Optik durch Verchromung<br/></li><li>für sämtliche Anhängerkupplungen geeignet<br/></li><li>besitzt einen Innendurchmesser von ca. 5,7 cm<br/></li></ul>"
+}

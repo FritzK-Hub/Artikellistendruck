@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>vielseitige Anwendung für Grill, Kamin und Lagerfeuer</li><li>schnelle und sichere Entzündung</li><li>saubere, geruchsarme Verbrennung</li><li>hochwertiges Paraffin für lange Brenndauer</li><li>zertifiziert nach DIN EN 1860-3<br/><br/></li></ul>"
+}

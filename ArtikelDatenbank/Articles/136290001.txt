@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Hakenschraubendreher mit Bitaufnahme</li><li>für Ring- und Hakenschrauben bis Ø 6 mm</li><li>mit abnehmbaren Griff</li><li>Hakendreher für Akkuschrauber</li><li>nutzbar bei einer Drehzahl von max. 20 RPM</li></ul>"
+}

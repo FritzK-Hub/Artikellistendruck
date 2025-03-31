@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Stangenlötzinn bleifrei  von CFH </li><li>jede Stange ist ca. 295 mm lang</li><li>zum Löten von Feinzink und legiertem Zink</li><li>ideal im Bedachungsbereich einsetzbar</li><li>nur in Verbindung mit Lötwasser Zinkblech verwenden<br/></li></ul>"
+}

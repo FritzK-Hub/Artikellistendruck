@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>solarbetriebenes Grablicht aus weißem Kunststoff </li><li>integriertes LED-Licht verfügt über einen Flackereffekt</li><li>bringt Grabschmuck oder Dekorationen zur Geltung</li><li>dank Solarpaneels unabhängig von Stromquellen</li><li>eine praktische und umweltfreundliche Grabdekoration<br/></li></ul>"
+}

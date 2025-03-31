@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>universell zum Nachfüllen von wiederbefüllbaren Feuerzeugen und Gasanzünder</li><li>mit Butangasfüllung für eine hervorragende Leistung bei Wind und Wetter</li><li>schnell und einfach in der Handhabung, mit 300 ml Inhalt</li><li>mitgelieferte Adapter erleichtern das Auffüllen unterschiedlicher Feuerzeugtypen</li><li>besonders platzsparend, Adapter im Deckel vollständig integriert<br/></li></ul>"
+}

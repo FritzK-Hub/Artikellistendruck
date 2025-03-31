@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Radies Mischung mit Dill</li><li>Packung reicht aus für ca. 6-8 laufende Meter</li><li>mit verschiedenen Knollensorten</li><li>Dill ist ideal für Fischgerichte oder Salate</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

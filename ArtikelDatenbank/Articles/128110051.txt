@@ -1,0 +1,4 @@
+{
+    "uvp": 154.95,
+    "attributes": "<ul><li>3-Sitzer Holzbank </li><li>Gartenbank aus geöltem Akazienholz</li><li>dekorative Schnitzerei in der Rückenlehne</li><li>nachhaltiger Anbau</li><li>sehr langlebig und widerstandsfähig</li></ul>"
+}

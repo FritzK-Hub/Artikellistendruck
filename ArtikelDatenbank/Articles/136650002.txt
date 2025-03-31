@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Handsäge aus Aluminium</li><li>10\" x 1/2\" x 24T</li><li>für kleine Sägearbeiten</li><li>ideal für Haushaltszwecke</li><li>Abstand Sägeblatt zu Metallbügel: 37 mm</li></ul>"
+}

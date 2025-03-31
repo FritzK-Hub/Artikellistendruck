@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Schutzkontakt-Stecker in schwarz</li><li>Schutzart IP 44, spritzwassergeschützt</li><li>aus Vollgummi</li><li>mit Knickschutz</li><li>Schutzkontaktstecker mit zentraler Kabeleinführung</li></ul>"
+}

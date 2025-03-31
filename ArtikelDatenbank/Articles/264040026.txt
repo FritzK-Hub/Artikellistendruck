@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>Art: Haken mit Magnet</li><li>Haftkraft: ca. 15 kg</li><li>Maße: (ØxT) ca. 62,5 x 50 mm</li><li>Magnet: (Ø) ca. 59 mm</li><li>Maße Haken: (TxH) ca. 30 x 22 mm</li><li>Material: Metall</li><li>flexibel</li><li>kein Bohren oder Schrauben</li><li>universell einsetzbar</li></ul>"
+}

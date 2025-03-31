@@ -1,0 +1,4 @@
+{
+    "uvp": 3.69,
+    "attributes": "<ul><li>Luftpumpen-Adapter-Set</li><li>2 Reduziernippel für Auto / Dunlop</li><li>eine universelle Ballnadel</li><li>Düse für Luftmatratzen</li><li>Adapter-Set 4-teilig</li></ul>"
+}

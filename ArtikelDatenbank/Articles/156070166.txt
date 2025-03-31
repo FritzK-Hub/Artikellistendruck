@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Farbroller für alle Wand-, Decken- und Fassadenfarben</li><li>für ein feines Oberflächenfinish</li><li>spritzarmer Roller für mittlere Flächen</li><li>gute Farbaufnahme und Abgabe</li><li>für alle Untergründe</li></ul>"
+}

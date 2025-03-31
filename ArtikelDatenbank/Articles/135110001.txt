@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>perfekt für Campinggeräte</li><li>80 cm Schlauch für flexible Platzierung</li><li>nur im Freien mit Belüftung verwenden</li><li>hohe Durchflussrate von 1,5 kg/h</li><li>zuverlässige Druckregulierung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.29,
+    "attributes": "<ul><li>Fugenkratzer zum Entfernen von Moos und Unkraut</li><li>passend für Pflastersteinen, Plattenfugen oder Mauerkanten</li><li>ergonomischer Griff mit Weichkomponenten für sicheren Halt</li><li>für rückenschonende Arbeit mit Stielen aus Gardena-Combisystem kompatibel</li><li>platzsparende Aufbewahrung dank Öse mit Messerschutz<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>mit 30 cm Länge gut geeignet für mittelgroße Flächen wie Dusche und Fenster<br/></li><li>flexible Weichgummilippe für schnelle und gründliche Reinigung<br/></li><li>Öse am Handgriff zur Aufbewahrung am Hacken</li><li>einfacher ergonomischer Kunsstoff-Handgriff</li><li>hochwertige Verarbeitung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>20 <em>Folienhalter </em>von der Marke GERMANIA®</li><li>mit einer Länge von jeweils ca. 11 cm</li><li>aus robustem, schwarzem Kunststoff gefertigt</li><li>zur leichten und sicheren Befestigung aller Pflanzenschutzfolien und Netze </li><li>auch für Pavillons geeignet</li></ul>"
+}

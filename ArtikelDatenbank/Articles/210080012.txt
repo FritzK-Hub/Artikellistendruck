@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>große Abfallsäcke</li><li>reißfest</li><li>Farbe blaugrau</li><li>120 Liter Fassungsvermögen</li><li>25 Stück auf der Rolle</li></ul>"
+}

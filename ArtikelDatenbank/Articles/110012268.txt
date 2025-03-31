@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>10-teiliges Waschtisch-Befestigungs-Set<br/></li><li>zur stabilen Befestigung deines Waschtisches</li><li>passend für verschiedene Waschtischmodelle und -typen</li><li>gestaltet die Installation einfach und sauber</li><li>enthaltene Schrauben bieten sicheren Halt<br/></li></ul>"
+}

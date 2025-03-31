@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Schlauchhalter mit 15 m + 1 m Schlauch und Zubehör</li><li>zur Wandbefestigung von Gartenschläuchen</li><li>mit Standard Schnellkupplung</li><li>stabile Ausführung aus Kunststoff gefertigt</li><li>sorgt schnell und einfach für Ordnung im Garten<br/></li></ul>"
+}

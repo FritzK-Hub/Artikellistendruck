@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>eisl Handbrause Set 4-teilig</li><li>ein ideales Zubehör für die Dusche</li><li>Handbrause mit Antikalk-Noppen und 3 Strahlarten</li><li>Duschradio sorgt unter der Dusche für gute Laune</li><li>Brauseschlauch ca. 150 cm und Wandhalterung sind inklusive<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>besonders langlebige Konstruktion</li><li>perfekte Anpassung an vorhandenen Kamin</li><li>einfache Installation</li><li>aus feueraluminierten Stahlblech</li><li>verbesserte Sicherheit und Effizienz<br/></li></ul>"
+}

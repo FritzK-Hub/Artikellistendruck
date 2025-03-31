@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Ball und Rolle mit Glöckchen</li><li>weckt dem Jagdtrieb Ihrer Katze</li><li>Spielzeug und Zeitvertreib für Katzen</li><li>steigert die Aktivität </li><li>aus Kunststoff</li></ul>"
+}

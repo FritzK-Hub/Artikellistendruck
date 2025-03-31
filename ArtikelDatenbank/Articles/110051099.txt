@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>10 WECK® Einkochringe aus Gummi mit Zuglasche</li><li>passend für Rundrandgläser 100 mm</li><li>unter Verwendung von Naturkautschuk hergestellt</li><li>frei von Weichmachern</li><li>wiederverwendbar</li></ul>"
+}

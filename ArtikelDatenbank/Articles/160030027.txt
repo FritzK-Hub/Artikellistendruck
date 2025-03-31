@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>Montagehandschuhe Micro Flex Größe 8 in schwarzgrau</li><li>ideal für Präzisions-, Montage- oder Reparaturarbeiten</li><li>Handinnenfläche und Fingerspitzen mit Nitril-Beschichtung und Nitril-Noppen</li><li>beständig gegen Öle und Fette mit sicherem Halt</li><li>atmungsaktives, nahtloses Strickmaterial für angenehmen Tragekomfort<br/></li></ul>"
+}

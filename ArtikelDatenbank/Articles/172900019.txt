@@ -1,0 +1,4 @@
+{
+    "uvp": 1299.0,
+    "attributes": "<ul><li>hocheffiziente 400W JA Solarmodule bieten auch Ertrag bei diffusen Lichtverhältnissen</li><li>leistungsstarker 800W APSystems Micro-Wechselrichter mit 10 Jahren Herstellergarantie</li><li>verringert unsere Abhängigkeit von fossilen Energiequellen und verkleinert deinen ökologischen Fußabdruck</li><li>zuverlässige Qualität - JA Solar und der APSystems Wechselrichter stehen für hohe Qualität und Langlebigkeit</li><li>langes Anschlusskabel für einfache Einspeisung direkt in deine Haushaltssteckdose</li></ul>"
+}

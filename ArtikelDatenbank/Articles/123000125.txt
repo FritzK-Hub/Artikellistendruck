@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>wetterbeständig und langlebig auch für Außenbereiche</li><li>einfach anzuwenden, direkt einsatzbereit</li><li>dezentes Braun für natürliche Optik</li><li>fördert gesundes Wachstum von Pflanzen</li><li>vielseitig einsetzbar in Haus und Garten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 17.89,
+    "attributes": "<ul><li>Hightech-Leichtlaufmotoröl für höchste Anforderungen</li><li>Turbo- und Kat-getestet</li><li>ideal auch bei Common-Rail-Technologie</li><li>minimiert Verschleiß, Ablagerungen und Kraftstoffverbrauch</li><li>maximiert Lebensdauer von Dieselpartikelfilter und Motor</li></ul>"
+}

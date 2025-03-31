@@ -1,0 +1,4 @@
+{
+    "uvp": 3.9,
+    "attributes": "<ul><li>Umschaltknarre 1/4\" aus hochwertigem Chrom-Vanadium-Stahl</li><li>mit Vierkant-Antrieb</li><li>mit robuster 40er Verzahnung (grob)</li><li>Rechts/Links-Umschaltung über Drehscheibe</li><li>ergonomisch geformter Griff<br/></li></ul>"
+}

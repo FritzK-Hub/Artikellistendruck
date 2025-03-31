@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>leicht und widerstandsfähig dank gehärtetem Stahl</li><li>ergonomischer Kunststoff-Handgriff bietet Komfort</li><li>optimierte Schaufelform für Gartenarbeiten</li><li>robuste Verbindungen durch feste Einpressung</li><li>ideales Werkzeug für alle Gartenliebhaber</li></ul><p> </p><p></p>"
+}

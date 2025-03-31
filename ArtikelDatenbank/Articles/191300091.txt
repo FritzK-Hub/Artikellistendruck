@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Camping-Bodenmatte 90 x 180 cm in Grau</li><li>aus stabilem Polypropylen gefertigt</li><li>für bequemen Schlaf beim Campen oder Zelten</li><li>auch für einen Strandbesuch geeignet</li><li>inklusive Tragegriff und Befestigungsbänder für eine einfache Aufbewahrung<br/></li></ul>"
+}

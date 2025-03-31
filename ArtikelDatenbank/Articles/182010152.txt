@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>gleichmäßige Sauerstoffzufuhr für Grill oder Kamin</li><li>schnelles Anglühen der Kohle möglich</li><li>besonders handlich und einfach zu bedienen</li><li>ohne Strom betrieben - keine Stromversorgung notwendig</li><li>Düse aus hitzeunempfindlichem, verchromtem Aluminium<br/><br/></li></ul>"
+}

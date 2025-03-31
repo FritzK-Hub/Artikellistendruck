@@ -1,0 +1,4 @@
+{
+    "uvp": 229.0,
+    "attributes": "<ul><li>Elektroheizer GH 9 E von Güde® mit 9 kW<br/></li><li>besitzt 2 Heizstufen und eine Ventilatorfunktion</li><li>eignet sich zum Heizen und Trocknen in der Bauindustrie </li><li>maximale Sicherheit dank integriertem Überhitzungschutz</li><li>inklusive Tragegriff und 1,6 m langes Netzkabel</li></ul>"
+}

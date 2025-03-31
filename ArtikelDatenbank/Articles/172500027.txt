@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>SAT-Adapter zum Aufstecken</li><li>mit F-Stecker und Koax-Stecker</li><li>Koaxkupplung wird zum F-Stecker</li><li>zur Montage an ein SAT-Kabel</li><li>leichte Handhabung</li></ul>"
+}

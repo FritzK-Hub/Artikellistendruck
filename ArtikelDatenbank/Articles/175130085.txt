@@ -1,0 +1,4 @@
+{
+    "uvp": 37.99,
+    "attributes": "<ul><li>Hochleistungsbrenner ø 17 mm zum Weich- und Hartlöten</li><li>leistungsstarker Brenner mit Feinregulierventil zum stufenlosen Einstellen der Flamme</li><li>flammgestützter Windschutzbrenner</li><li>schnelles und bequemes Zünden per Knopfdruck mit Piezozündung</li><li>stabiler, ergonomisch geformter Handgriff für komfortable Einhandbedienung</li></ul>"
+}

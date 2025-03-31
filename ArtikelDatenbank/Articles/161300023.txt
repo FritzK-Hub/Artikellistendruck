@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Kulturtasche mit Tragegriff<br/></li><li>flexibel einsetzbar im Alltag und auf Reisen<br/></li><li>zum Aufhängen</li><li>optimale Innenaufteilung<br/></li><li>platzsparend und praktisch</li></ul>"
+}

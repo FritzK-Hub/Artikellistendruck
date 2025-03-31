@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>zuverlässiger Helfer für die Fahrrad-Reparatur im Keller oder in der Garage</li><li>einstellbaren Arbeitshöhe von 95-105 cm, passend für alle Körpergrößen</li><li>dank Klick-Schnellverschluss ist das Fahrrad schnell und sicher befestigt</li><li>massive Stahlkonstruktion und Bauweise sorgen für hohe Standfestigkeit</li><li>mitgelieferte Ablagebox bietet Stauraum und sorgt für mehr Ordnung<br/></li></ul>"
+}

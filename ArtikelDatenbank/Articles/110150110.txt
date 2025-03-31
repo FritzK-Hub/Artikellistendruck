@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>entfernt hartnäckige Verschmutzungen im Flintenlauf</li><li>sichere Handhabung dank Messingverschraubung von 7 mm</li><li>auch als Kunststoff- oder Wollbürste verfügbar</li><li>einfache Anwendung auf Reinigungsstab</li><li>zur Waffenpflege für glatte und gezogene Flintenläufe<br/></li></ul>"
+}

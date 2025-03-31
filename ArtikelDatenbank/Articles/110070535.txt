@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>extrem hitzebeständig</li><li>einfach in der Anwendung</li><li>dauerhafte, hitzebeständige Abdichtung</li><li>vielseitig einsetzbar</li><li>schnelle Aushärtung<br/></li></ul>"
+}

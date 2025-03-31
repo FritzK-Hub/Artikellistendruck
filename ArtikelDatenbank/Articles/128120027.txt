@@ -1,0 +1,4 @@
+{
+    "uvp": 599.95,
+    "attributes": "<ul><li>4-teiliges Set bestehend aus 1 x Bank, 2 x Stuhl, 1 x Tisch</li><li>extra robust und witterungsbeständig</li><li>massives Kiefernholz, 35 mm stark</li><li>kammergetrocknet, hellbraun lasiert und imprägniert</li><li>einfache und schnelle Montage</li></ul>"
+}

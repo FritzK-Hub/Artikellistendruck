@@ -1,0 +1,4 @@
+{
+    "uvp": 219.95,
+    "attributes": "<ul><li>schöner und dekorativer Rosenbogen mit integrierter Gartenbank</li><li>ideale Rankhilfe für Rankpflanzen und Rosengewächse</li><li>aus pulverbeschichtetem Metall</li><li>sehr stabile Konstruktion</li><li>Sitzplatz für 2 Personen<br/></li></ul>"
+}

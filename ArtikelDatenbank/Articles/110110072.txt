@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>WC-Bürste aus Kunststoff</li><li>mit strapazhierfähigen Nylonborsten</li><li>mit Randreiniger</li><li>Toilettenbürste für mehr Sauberkeit in der Toilette</li><li>passende Ersatzbürste für den Toilettenbereich<br/><br/></li></ul>"
+}

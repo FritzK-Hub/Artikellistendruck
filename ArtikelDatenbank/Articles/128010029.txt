@@ -1,0 +1,4 @@
+{
+    "uvp": 849.9,
+    "attributes": "<ul><li>klassisches Gewächshaus mit hoher Lichtausbeute</li><li>Tür wahlweise als Schiebe- oder Schwingtür montierbar</li><li>komplett in leichter Hohlkammerverglasung</li><li>eloxierte Aluminiumprofile für dauerhaften Korrosionsschutz</li><li>inkl. Dachfenster, Regenrinnen, Öse für Vorhängeschloss+ Stahlfundamentrahmen</li></ul>"
+}

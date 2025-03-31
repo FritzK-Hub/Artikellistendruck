@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>entfernt stark haftende Fett- und Schmutzrückstände</li><li>Oberflächen werden nicht angegriffen</li><li>zur Reinigung von Maschinen und Geräten</li><li>ruß- und geruchsfrei</li><li>geeignet für alle Petroleumlampen<br/></li></ul>"
+}

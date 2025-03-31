@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Sicherungsmutter nach DIN 985</li><li>mit einseitig eingebördeltem Klemmring aus Kunststoff</li><li>mittlere Festigkeit, Klasse 70</li><li>gute Schweißbarkeit</li><li>hohe Beständigkeit gegen Rost, geringe gegen Säure<br/></li></ul>"
+}

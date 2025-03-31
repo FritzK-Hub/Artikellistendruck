@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "                    halbrunder Balkonhängetisch<ul><li>Polyrattanbespannung, schwarz</li><li>mit Metallgestell</li><li>für Balkone und Brüstungen bis ca. 15 cm</li><li>für 1 bis 2 Personen</li></ul>"
+}

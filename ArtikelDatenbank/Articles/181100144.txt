@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Magnolienbaum im Topf für den Hausgarten</li><li>in verschiedenen Sorten erhältlich</li><li>schwach bis stark duftend</li><li>ideal als Ziergehölze, mit auffäligen Blüten</li><li>gedeiht in allen normalen Gartenböden<br/></li></ul>"
+}

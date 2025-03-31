@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>batteriebetriebenes LED Rücklicht</li><li>mit Batterieindikator</li><li>geringer Batterieverbrauch</li><li><strong>StVZO zugelassen bei Akkubetrieb</strong></li><li>Fahrradschlussleuchte für den Gepäckträger</li></ul>"
+}

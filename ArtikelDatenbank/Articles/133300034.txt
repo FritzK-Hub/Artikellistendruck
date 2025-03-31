@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>hochwertige Schleifpapiere mit 8-Loch-Absaugung</li><li>passend für die verschiedensten Schwingschleifer</li><li>Set, bestehend aus Schleifblättern mit K40, K60, K80, K120 und K180</li><li>perfektes Schleifbild und hohe Schleifleistung</li><li>schnelles Wechseln der Schleifblätter<br/></li></ul>"
+}

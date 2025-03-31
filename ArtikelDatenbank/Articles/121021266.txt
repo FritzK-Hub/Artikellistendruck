@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Buntpapier 24 Blatt</li><li>in 12 Dekoren sortiert</li><li>Bastelpapier mit verschiedenen Motiven</li><li>im DIN A4 Format</li><li>ideal zum Basteln, DIY, Scrapbooking</li></ul>"
+}

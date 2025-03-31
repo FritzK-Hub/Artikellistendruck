@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>passt zu vielen Spültischen &amp; Waschtischen</li><li>70 mm Ventilstopfen für leichtes Ablassen und Stauen</li><li>einfache Montage dank Kunststoffverschraubung</li><li>sichere Verbindung dank 1½\" Anschlussgewinde</li><li>gewährleistet reibungslosen Wasserabfluss</li><li>ideal für Renovierungen und Upgrades<br/></li></ul>"
+}

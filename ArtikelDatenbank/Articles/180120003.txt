@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Schneckenkorn 4 x 250 g von Protect MaXX </li><li>zuverlässiger Schutz gegen Nackt- und Schnirkelschnecken</li><li>für Gemüse, Salat, Kräutern und Zierpflanzen geeignet</li><li>Bitterstoff Bitrex verhindert versehentliche Aufnahme durch Kinder oder Haustiere</li><li>eine Packung reicht für bis zu 500 m² aus<br/></li></ul>"
+}

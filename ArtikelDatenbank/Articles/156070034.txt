@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>erleichtert das Entfernen von schweren und wasserundurchlässigen Tapeten</li><li>schräg stehende Stacheln zum Einreissen von Tapeten</li><li>macht das Ablösen von Tapeten leichter un effektiver</li><li>Teleskopstiel für hohe Räume und schwer erreichbare Stellen</li><li>eignet sich auch als Entlüfterwalze für z.B. Estriche<br/></li></ul>"
+}

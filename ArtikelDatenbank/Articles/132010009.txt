@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Hundespielzeug aus Kunststoff</li><li>hochwertig und robust<br/></li><li>massiert das Zahnfleisch</li><li>quietscht beim Draufbeißen</li><li>in verschiedenen Farben erhältlich</li></ul>"
+}

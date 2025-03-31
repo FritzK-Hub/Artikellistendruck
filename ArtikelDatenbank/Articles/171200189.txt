@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>für die Pflege von Holzoberflächen</li><li>bewährte und hochwirksame Formel</li><li>zur Bekämpfung von Holzwürmern</li><li>nachhaltige Verfestigung des Holzes</li><li>Prävention gegen Pilzbefall und Insekten<br/></li></ul>"
+}

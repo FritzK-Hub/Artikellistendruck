@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>langlebiges, massives Messingmaterial</li><li>1/2“ Wandanschluss für einfache Montage</li><li>schneller Anschluss an Gartenschläuche</li><li>Wasserregulierung durch leichtgängigen Hebelmechanismus</li><li>ideal für Gartenbewässerung und andere Anwendungen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>praktische Abdeckkappen aus Kunststoff<br/></li><li>zum Abdecken unansehnlicher Schraubenköpfe</li><li>einfache Montage</li><li>halten selbständig</li><li>ideal für den Möbelbau<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>speziell entwickelt für das Löten von Eisen, Kupfer, Messing, Blei, Weißblech und Stahl</li><li>langlebig und chemisch beständig für den Einsatz in Werkstatt, Handwerk und Industrie</li><li>zuverlässige Verbindung bei Klemnerarbeiten und Blechverbindungen<br/></li><li>besonders geeignet zum Weichlöten mit CFH-Kupfer- und Messingloten</li><li>einfache Anwendung dank Dosierpinsel in handlicher Flasche</li></ul><p></p>"
+}

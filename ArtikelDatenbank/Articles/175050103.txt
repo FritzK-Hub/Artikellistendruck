@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Güde® Druckluft-Geradschleifer Set 15-teilig </li><li>für präzises Schleifen, Entgraten, Fräsen oder Gravieren</li><li>Set beinhaltet Schleifstifte, Werkzeugaufnahme, Gabelschlüssel </li><li>mit stufenloser Drehzahlregulierung</li><li>bei Nichtgebrauch platzsparend im Transportkoffer transportierbar</li></ul>"
+}

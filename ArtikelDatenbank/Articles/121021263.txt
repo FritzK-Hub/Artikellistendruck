@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Dekostoff zum Basteln und Gestalten</li><li>10 Bögen in verschieden Designs</li><li>selbstklebend</li><li>klebt auf fast allen Materialien</li><li>beliebig zuschneidbarer Bastelstoff<br/></li></ul>"
+}

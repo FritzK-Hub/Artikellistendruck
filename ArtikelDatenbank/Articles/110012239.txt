@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>universelle Kompatibilität</li><li>hochwertige Materialien</li><li>einfache Installation</li><li>sichere Verbindung</li><li>strapazierfähig und zuverlässig<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li><div>Schlauchkupplung Art: Durchlaufkupplung</div></li><li><div>für 3/4\" Gartenschläuche</div></li><li><div>wird am Schlauchende montiert</div></li><li><div>schnelles Abkoppeln und Umstecken des Schlauches</div></li><li><div>Umstecken des Wasserschlauches erst nach dem Abdrehen der Wasserzufuhr</div></li></ul>"
+}

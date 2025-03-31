@@ -1,0 +1,4 @@
+{
+    "uvp": 149.99,
+    "attributes": "<ul><li>leistungsstarke Filteranlage 28636 GS von Intex</li><li>für Pools bis 20.000 Liter Wasserinhalt</li><li>Schmutzt bleibt im Filter hängen, während sauberes Wasser zurückkommt</li><li>mit einer automatischer Zeitschaltuhr ausgestattet</li><li>Zwei Schwimmbadschläuche sind inklusive</li></ul>"
+}

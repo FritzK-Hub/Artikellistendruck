@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>zuverlässige Verbindung zwischen Ofen und Schornstein</li><li>Regulierung des Luftstroms für optimale Verbrennung</li><li>besonders langlebig und robust</li><li>stilvolles Design in gussgrauer Farbe</li><li>zusätzliche Stabilität und Sicherheit <br/></li></ul>"
+}

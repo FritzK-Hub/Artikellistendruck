@@ -1,0 +1,4 @@
+{
+    "uvp": 2.69,
+    "attributes": "<ul><li>Bogen 45° mit 1 Muffe geeignet für Hart- und Weichlöten</li><li>langlebig: korrosionssicher durch Kupfermaterial</li><li>zuverlässig: Handwerkerqualität schafft sichere Verbindungen</li><li>vielseitig: für Heizungs-, Gas- und Sanitärinstallationen konzipiert</li><li>passend: einsetzbar bei Rohren mit 18 mm Durchmesser</li></ul>"
+}

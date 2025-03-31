@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>bunte Pinnwandnadeln</li><li>kunststoffummantelt</li><li>in praktischer Aufbewahrungsbox</li><li>40 Pinnnadel zum Befestigen von Notizen</li><li>Reißbrettstifte aus Blech<br/></li></ul>"
+}

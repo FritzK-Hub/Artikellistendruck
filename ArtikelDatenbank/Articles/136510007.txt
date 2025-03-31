@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Vielseitigkeit durch acht Wechselaufsätze</li><li>schneller Aufsatzwechsel ohne Werkzeug</li><li>kompaktes Taschenformat für unterwegs</li><li>ergonomischer Griff zum komfortablen Arbeiten</li><li>praktische Aufbewahrungsbox inklusive</li></ul>"
+}

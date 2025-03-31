@@ -1,0 +1,4 @@
+{
+    "uvp": 16.42,
+    "attributes": "<ul><li>für zuverlässige Dachentwässerung</li><li>mit Nocke-Nut-System für sicheren Halt</li><li>aus stabilem Kunststoff</li><li>kein Verrutschen oder Verformen</li><li>Länge 200 cm</li></ul>"
+}

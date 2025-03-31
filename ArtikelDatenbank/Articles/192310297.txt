@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>LED-Lichtervorhang mit 20 Strängen</li><li>mit 100 warmweißen- und kaltweißen LEDs versehen</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>am Fenster oder Balkongeländer einsetzbar</li><li>inklusive eine 3 m lange Zuleitung<br/></li></ul>"
+}

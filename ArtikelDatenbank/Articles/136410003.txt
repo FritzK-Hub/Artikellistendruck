@@ -1,0 +1,4 @@
+{
+    "uvp": 19.9,
+    "attributes": "<ul><li>Komplettset für vielseitige Einsatzbereiche</li><li>kompakter Koffer zur geordneten Aufbewahrung</li><li>bewegliche Spitzen bieten optimalen Halt</li><li>stabiler Magnetfuß für zusätzliche Fixierung</li><li>idealer Helfer bei Reparaturen und DIY-Projekten</li></ul>"
+}

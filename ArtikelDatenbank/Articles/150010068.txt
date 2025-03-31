@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Straßenbesen 40 cm mit roten Elaston-Borsten</li><li>aus massivem Holz gefertigt mit 1-Loch Stielaufnahme versehen</li><li>Reinigung von Gehwegen, Straßen mit groben Oberflächen.</li><li>universell einsetzbar im Innen- und Außenbereich</li><li>resistent gegen Säure, Benzin und Ölen</li></ul><p></p>"
+}

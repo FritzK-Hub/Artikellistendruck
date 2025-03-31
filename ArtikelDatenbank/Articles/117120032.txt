@@ -1,0 +1,4 @@
+{
+    "uvp": 53.0,
+    "attributes": "<ul><li>Zaunpfosten für die Befestigung von Doppelstabmatten</li><li>mit Klemmlaschen für eine einfache Handhabung versehen</li><li>lässt sich für zuverlässigen Halt einbetonieren</li><li>passend für Mattenhöhe 140 cm mit Bohrabstand: 400 mm</li><li>aus feuerverzinktem Stahl für eine längere Lebensdauer gefertigt</li></ul>"
+}

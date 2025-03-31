@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Wasserwaage mit 3 Libellen</li><li>magnetischer Boden</li><li>UV-Beständig</li><li>mit Horizontal-, Vertikal- und Diagonallibelle</li><li>Enden mit Gummikappen</li></ul>"
+}

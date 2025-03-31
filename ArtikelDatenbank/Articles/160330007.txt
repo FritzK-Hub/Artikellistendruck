@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>bequeme Damen-Socken in der Größe 36/38</li><li>sorgt für angenehmen Tragekomfort</li><li>in verschiedenen Farben erhältlich</li><li>aus weichem Mischgewebe gefertigt</li><li>sorgt an kalten Tagen für warme Füße<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>LED Echtwachskerzen Set 3-teilig im Glas </li><li>schafft in Wohnräume eine Wohlfühlatmosphäre</li><li>Flackerfunktion imitiert das natürliche Verhalten einer Flamme </li><li>ideal für Tisch-, Weihnachtsdekoration</li><li>zur Bestückung von Weihnachtskränzen geeignet<br/></li></ul>"
+}

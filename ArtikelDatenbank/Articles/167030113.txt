@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Planenspanner Set von GERMANIA®</li><li>zur Befestigung von Netzen und Planen auf dem Anhänger</li><li>hochelastische Gummistränge mit Textilummantelung</li><li>auch zum Befestigen von Zaunfahnen, Gerüstvorhängen, Werbeplanen</li><li>extrem reißfest, einfache Handhabung</li></ul>"
+}

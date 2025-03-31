@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>einzigartige Form</li><li>exquisiter Geschmack</li><li>vielseitige Nutzung</li><li>frühe Ernte</li><li>robuste Pflege<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>passend für verschiedene Anschlüsse: M10 Aussengewinde x 3/8'' Innengewinde</li><li>benutzerfreundlich leicht und flexibel anzubringen</li><li>zuverlässig robust und langlebig</li><li>edelstahlumflochten beständig gegen Korrosion</li><li>hochflexibel und druckfest</li></ul>"
+}

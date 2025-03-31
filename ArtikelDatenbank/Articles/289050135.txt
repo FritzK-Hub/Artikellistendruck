@@ -1,0 +1,4 @@
+{
+    "uvp": 5.82,
+    "attributes": "<ul><li>U-Profil aus eloxiertem Aluminium</li><li>z. B. zur Anfertigung von Rahmen</li><li>als Abschlussleiste und Kantenschutz</li></ul>"
+}

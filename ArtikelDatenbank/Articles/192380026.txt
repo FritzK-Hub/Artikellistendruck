@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>selbstklebende Geschenkschleifen aus Polyester</li><li>Set besteht aus vier mini Schleifen</li><li>verschiedene Farben zur Auswahl</li><li>zur kreativen Gestaltung von Geschenkverpackungen</li><li>für DIY Handarbeiten geeignet<br/></li></ul>"
+}

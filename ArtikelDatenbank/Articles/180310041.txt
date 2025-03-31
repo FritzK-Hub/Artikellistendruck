@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>universelles Auto-Reinigungsset zur schnellen und einfachen Autopflege</li><li>Rahmenabzieher dient zur Reinigung der Fensterscheiben</li><li>Fensterleder entfernt effektiv Schmutz und Streifen auf der Oberfläche</li><li>Set garantiert streifenfreies und glänzendes Reinigungsergebnis</li><li>davor einfach gründlich mit dem Schwamm die Flächen reinigen</li></ul>"
+}

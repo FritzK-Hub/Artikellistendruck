@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Fahrradreifen 26 x 1,9 Zoll aus Nylon</li><li>für 26\" Mountainbikes</li><li>schneller und einfacher Wechsel</li><li>passend für Felgen 17-27 mm</li><li>auch für 47 bis 54-559</li></ul>"
+}

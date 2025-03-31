@@ -1,0 +1,4 @@
+{
+    "uvp": 4.29,
+    "attributes": "<ul><li>Tisch-Steckdosenleiste aus Kunststoff</li><li>maximale Belastbarkeit 3500 Watt</li><li>3 Steckplätze für Schutzkontakt- oder Eurostecker</li><li>zum Anschluss verschiedenster Geräte</li><li>mit beleuchtetem Schalter<br/></li></ul><p><br/></p>"
+}

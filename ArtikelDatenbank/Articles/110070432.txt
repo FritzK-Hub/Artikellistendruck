@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Ofenrohr gerade</li><li>aus feueraluminiertem Stahlblech</li><li>für den Innenbereich</li></ul>"
+}

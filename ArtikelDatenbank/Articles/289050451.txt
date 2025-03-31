@@ -1,0 +1,4 @@
+{
+    "uvp": 1.79,
+    "attributes": "<ul><li>Rundstange 4 mm aus gezogenem Stahl mit 1 m Länge</li><li>für hohe mechanische Belastungen geeignet</li><li>weitgehend beständig gegen Chemikalien</li><li>bildet durch Lufteinwirkung eine Oxidschicht (Patina), die mit Poliermitteln entfernt werden kann</li><li>mit handelsüblicher Metallsäge oder Trennschleifer abzulängen</li></ul>"
+}

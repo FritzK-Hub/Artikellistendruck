@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<p>- Carbon Stahl<br/>- für alle Arten von Kreuzschlitz-, T-Profil- und<br/>  Innensechskantschrauben<br/>- in 5 unterschiedlichen Größen<br/>- für Bohrmaschine geeignet (max. 250 U/min)</p>"
+}

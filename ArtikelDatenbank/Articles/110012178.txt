@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Dichtungssortiment Fiber und Gummi 50-teilig</li><li>inklusive Mischdüse, Dichtband, Dichthanf für kleine Reparaturen</li><li>verschiedenste Dichtungen für den Sanitärbereich</li><li>hochwertiges Material für eine lange Lebensdauer</li><li>Schutz vor Leckagen und Undichtigkeiten</li></ul><p></p>"
+}

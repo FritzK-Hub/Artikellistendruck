@@ -1,0 +1,4 @@
+{
+    "uvp": 11.19,
+    "attributes": "<ul><li>3-fach Rahmen aus Kunststoff</li><li>klassisches Design mit matter Oberfläche</li><li>für Unterputz-Steckdosen und -Schalter aus der Serie Arcada</li><li>für waagrechte oder senkrechte Montage</li><li>einfache Montage<br/></li></ul>"
+}

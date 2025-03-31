@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>Telefon-Anschlussdose (TAE-Dose) für 3 Geräte</li><li>für die Aufputz-Montage</li><li>mit Schraubklemmen</li><li>zum Anschluss eines Telefons und zweier Nebengeräte</li><li>klassisches Design mit glänzender Oberfläche</li></ul>"
+}

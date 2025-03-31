@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>ideal für festliche Tischdekoration</li><li>individuell auf Maß zuschneidbar</li><li>abwaschbar und pflegeleicht im Alltag</li><li>schützt die Tischplatte zuverlässig</li><li>langlebig durch robustes Material</li></ul>"
+}

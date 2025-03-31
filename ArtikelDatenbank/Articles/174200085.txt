@@ -1,0 +1,4 @@
+{
+    "uvp": 32.99,
+    "attributes": "<ul><li>vielseitige Strahlvarianten</li><li>bequeme Wasserstopp-Funktion</li><li>einfache Installation</li><li>integrierte Antikalk-Noppen</li><li>inklusive Wasserspardichtung <br/></li></ul>"
+}

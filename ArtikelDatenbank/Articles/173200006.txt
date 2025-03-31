@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>handlicher LED-Flutlichtstrahler mit 850 Lumen<br/></li><li>aus stoßfestem Aluminium-Druckgussgehäuse gefertigt</li><li>sorgt für klare Sicht im Garten oder Eingangsbereichen</li><li>verfügt über einen verstellbaren Haltebügel</li><li>inklusive Erdspieß für punktuelle Beleuchtungen<br/></li></ul>"
+}

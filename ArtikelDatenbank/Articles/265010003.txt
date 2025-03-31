@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>massive Rohrschelle mit Schallschutzeinlage</li><li>für mittlere bis hohe Lasten</li><li>zwei Schrauben für optimale Anpassung</li><li>mit fester Anschlussmutter</li><li>Schrauben mit Verlustsicherung</li></ul>"
+}

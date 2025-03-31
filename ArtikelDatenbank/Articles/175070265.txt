@@ -1,0 +1,4 @@
+{
+    "uvp": 129.0,
+    "attributes": "<ul><li>Tischbohrmaschine </li><li>Drehzahleinstellung durch Stufen-Riemenscheibe</li><li>Bohrtisch höhenverstellbar, +/- 45° neigbar und 360° schwenkbar</li><li>Standfuß mit Langlöchern für Schraubstockbefestigung</li><li>kugelgelagerte Bohrspindel</li></ul>"
+}

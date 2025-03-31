@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>zum Schutz von Fahrzeug-Unterböden und Karosserien vor Korrosion, Streusalz und Steinschlag</li><li>gute geräuschdämmende Anti-Dröhnwirkung</li><li>kann ergänzend auch bei Motor- und Kofferraumhauben, Türen und Kotflügeln eingesetzt werden</li><li>besonders haftfähig und gelangt auch in schwer zugängängliche Winkel und Kanten</li><li>Bitumen-Wachs-Kombination ist auch für PVC-beschichtete Unterböden geeignet.</li></ul>"
+}

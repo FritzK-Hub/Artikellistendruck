@@ -1,0 +1,4 @@
+{
+    "uvp": 25.95,
+    "attributes": "<ul><li>passend für sämtliche Trockenbauschrauber</li><li>50 Schrauben pro Band für kaum Unterbrechungen</li><li>selbst schneidende Grobgewindeschrauben</li><li>bereits fertig magazinierte Bänder</li><li>für schnelles und sicheres Einschrauben</li></ul>"
+}

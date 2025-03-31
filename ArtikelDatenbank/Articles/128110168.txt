@@ -1,0 +1,4 @@
+{
+    "uvp": 541.0,
+    "attributes": "<ul><li>Gartenstuhl-Set Montreux aus Kunststoff in Grau</li><li>modernes, stilvolles Design für den Außenbereich</li><li>robustes Stahlgestell sorgt für sicheren Halt</li><li>mit ergonomischer Form für angenehmen Sitzkomfort</li><li>fügt sich nahezu bei allen Gartenmöbeln ein<br/></li></ul>"
+}

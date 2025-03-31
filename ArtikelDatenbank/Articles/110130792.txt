@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>ästhetischer Landhausstil</li><li>robuster Schmiedestahl</li><li>große Tragfähigkeit</li><li>praktische Abmessungen</li><li>unkomplizierte Montage</li></ul>"
+}

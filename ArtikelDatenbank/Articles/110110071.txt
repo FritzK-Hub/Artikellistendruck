@@ -1,0 +1,4 @@
+{
+    "uvp": 1.79,
+    "attributes": "<ul><li>WC-Bürste für die WC-Reinigung</li><li>aus stabilem Kunststoff in Weiß</li><li>mit strapazierfähigen, weißen Nylonborsten</li><li>Toilettenbürste für mehr Sauberkeit in der Toilette</li><li>passende Ersatzbürste für den Toilettenbereich<br/></li></ul>"
+}

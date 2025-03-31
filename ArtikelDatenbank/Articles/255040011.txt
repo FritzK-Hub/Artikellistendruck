@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>extreme Langlebigkeit</li><li>zeitloses Design</li><li>platzsparend und vielseitig</li><li>batteriebetrieben</li><li>einfache Installation</li></ul>"
+}

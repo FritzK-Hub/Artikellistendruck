@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Schmutzfangmatte für intensiv genutzte Räume</li><li>für den Innen- und Außenbereich geeignet</li><li>die rutschfeste Rückseite ist aus strapazierfähigem Vinyl</li><li>die Fußmatte ist UV-beständig</li><li>einfach zu reinigende Fußmatte</li></ul>"
+}

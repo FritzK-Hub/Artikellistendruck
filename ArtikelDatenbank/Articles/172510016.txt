@@ -1,0 +1,4 @@
+{
+    "uvp": 21.99,
+    "attributes": "<ul><li>    zum Verbinden eines PC/Notebook/TV mit dem Internet über eine Wanddose    </li><li>vollgeschirmte RJ45-Buchsen </li><li>gute Reduzierung von elektromagnetischen Störeinflüssen    </li><li>empfehlenswert für Hochgeschwindigkeits-Internet</li><li>    farbcodierte LSA + Anschlussleisten,    Frontblende mit Beschriftungsfeld</li></ul>"
+}

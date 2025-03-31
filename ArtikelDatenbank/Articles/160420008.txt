@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>verstellbarer Kapselgehörschutz aus schwarzem Kunststoff</li><li>für effektiven Schutz gegen verschiedenen Lärm </li><li>angenehmer Tragekomfort dank weichen Ohrpolster</li><li>auf Baustellen, in Werkstätten oder Festivals einsetzbar</li><li>größenverstellbar mit sanftem Anpressdruck<br/></li></ul>"
+}

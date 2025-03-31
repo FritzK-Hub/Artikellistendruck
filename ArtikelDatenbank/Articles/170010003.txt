@@ -1,0 +1,4 @@
+{
+    "uvp": 16.4,
+    "attributes": "<ul><li>eignet sich zum Schneiden von verschiedenen Materialien</li><li>vielseitig in der Industrie oder im Handwerk einsetzbar</li><li>Bügelstück aus massivem Stahl bietet zusätzliche Stabilität</li><li>Gummihandgriff garantiert sicheren Halt und leichte Sägebewegung</li><li>einfach in der Handhabung, besonders langlebig und stabil</li><li>ideal für Metall-Sägearbeiten</li></ul>"
+}

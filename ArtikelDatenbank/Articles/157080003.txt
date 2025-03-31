@@ -1,0 +1,4 @@
+{
+    "uvp": 7.95,
+    "attributes": "<ul><li>    harzfreies Spezialöl zur Schmierung von Druckluftwerkzeugen</li><li>hohes Leistungsniveau, hoher Verschleißschutz</li><li>alterungsbeständig, neutral gegenüber Dichtungen<br/></li><li>geeignet für alle pneumatischen Druckluftgeräte    </li><li>Verwendung z. B. mit vorgeschaltetem Druckluft-Nebelöler</li></ul>"
+}

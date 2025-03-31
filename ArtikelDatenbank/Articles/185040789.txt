@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Geschenkpapier auf Rolle</li><li>verschiedene Disney-Dekore</li><li>eignet sich auch perfekt zum Basteln</li><li>hochwertiges Material mit kräftigen Farben</li><li>einseitig bedruckt</li></ul>"
+}

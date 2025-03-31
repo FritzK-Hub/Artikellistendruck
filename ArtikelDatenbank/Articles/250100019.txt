@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>ideal für kleine bis mittlere Fahrzeuge</li><li>starke Eisbrecherzähne</li><li>aus widerstandsfähigem Kunststoff</li><li>funktioneller Handgriff am Stiel</li><li>Eiskratzer abnehmbar</li></ul>"
+}

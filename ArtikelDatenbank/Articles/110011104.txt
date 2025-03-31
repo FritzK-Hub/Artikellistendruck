@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>zur Befestigung von Rundrohren</li><li>für Rohre mit Ø 100mm</li><li>aus stabilem Kunststoff</li><li>einfach zu montieren<br/></li><li>2 Stück im Set</li></ul>"
+}

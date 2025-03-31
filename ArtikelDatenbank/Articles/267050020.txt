@@ -1,0 +1,4 @@
+{
+    "uvp": 9.29,
+    "attributes": "<ul><li>Länge: (L) ca. 20m</li><li>Stärke: (Ø) ca. 6mm</li><li>Material: 100% PP Polypropylen</li><li>max. Zugkraft: ca. 65kg / 65N</li><li>universell einsetzbar</li></ul>"
+}

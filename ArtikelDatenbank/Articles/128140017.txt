@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>Ersatzdach für Pavillon Burma</li><li>wasserdichte Dachbespannung</li><li>aus robustem Polyester</li><li>mit PVC-Beschichtung</li><li>3 m Durchmesser</li></ul>"
+}

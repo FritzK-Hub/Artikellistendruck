@@ -1,0 +1,4 @@
+{
+    "uvp": 44.99,
+    "attributes": "<ul><li>kabellose Musik via Bluetooth® <br/></li><li>sicher telefonieren mit Freisprechfunktion</li><li>USB-Anschluss zum Laden und Abspielen</li><li>einfache Bedienung durch LCD-Display</li><li>Handy und MP3-Player Anschluss</li></ul>"
+}

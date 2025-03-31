@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>Sonnensegel dreieckig 3 x 3 x 3 m in grau</li><li>aus strapazierfähigem Polyester 145 g/m² gefertigt</li><li>bietet ausreichend Schatten zur Kühlung</li><li>inklusive Aluminiumösen und Abspannseile</li><li>bei Nichtgebrauch platzsparend in der Tasche aufbewahrbar<br/></li></ul>"
+}

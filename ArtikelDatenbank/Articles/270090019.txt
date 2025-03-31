@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Form: bombiert (gewölbt)</li><li>geignet für Metall, Holz und Kunststoff</li><li>Körnung: NK 80</li><li>Industriequalität</li></ul>"
+}

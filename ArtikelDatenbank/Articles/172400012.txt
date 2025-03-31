@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Alkaline Knopfzellen Batterien</li><li>Typ CR2032</li><li>nicht wiederaufladbar</li><li>für Geräte mit geringem Strombedarf</li><li>ideal für Taschenrechner, Armbanduhren, Hörgeräte, kleine Taschenlampen oder für Mainboards in Computern<br/></li></ul>"
+}

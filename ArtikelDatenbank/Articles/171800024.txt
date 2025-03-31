@@ -1,0 +1,4 @@
+{
+    "uvp": 10.49,
+    "attributes": "<ul><li>porentiefe Reinigung bietet maximale Sauberkeit</li><li>natürliche Holzpatina bleibt erhalten</li><li>ideal für Gartenmöbel und Terrassen</li><li>einfache Anwendung liefert schnelle Ergebnisse</li><li>optimale Vorbehandlung für langanhaltende Holzschutz-Öle</li></ul>"
+}

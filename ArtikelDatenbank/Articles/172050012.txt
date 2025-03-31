@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Steckdosenleiste 6-fach weiß mit Fußschalter</li><li>mit Ein-/Ausschalter über Fußschalter mit LED-Anzeige</li><li>zum Anschluss verschiedenster Geräte</li><li>die zwei Dauer-Steckdosen eignen sich für Receiver</li><li>jedes der Netzteile ist ca. 1,4 m lang</li></ul>"
+}

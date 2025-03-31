@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Malerspachtel mit einer Arbeitsbreite von 80 mm</li><li>mit 2-Komponentengriff (gummiert / Kunststoff)</li><li>profilierter Daumen- und Zeigefingermulde für besseren Griff</li><li>mit Aufhängeauge</li><li>einfache Reinigung des Spachtel-Blattes</li></ul>"
+}

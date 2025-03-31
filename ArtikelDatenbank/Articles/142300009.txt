@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>erleichtert das schnelle Entfachen deines Grillfeuers</li><li>vielseitig zum Anzünden vom Grill, Kamin oder Feuerstelle einsetzbar</li><li>aus natürlichen Rohstoffen mit pflanzlichem Wachs</li><li>sind nachhaltig, ohne schädliche Ruß-Entwicklung</li><li>einfach in der Handhabung, lassen sich leicht anzünden<br/></li></ul>"
+}

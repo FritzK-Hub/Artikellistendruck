@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Tech Spray glänzend in Weiß 400 ml</li><li>geeignet für Holz oder Dekorationsartikel</li><li>ideal für Neulackierungen und Reparaturen</li><li>gleicht kleine Kratzer, Rillen und Dellen aus</li><li>einfache und praktische Anwendung<br/></li></ul>"
+}

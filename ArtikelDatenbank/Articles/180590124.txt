@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>Autositzbezug Smart Protect für frischen Look in deinem Auto</li><li>für die Werkstatt, Freizeit oder bei Hobbys einsetzbar</li><li>besonders schmutz- wie wasserabweisenden und flammhemmenden</li><li>einfache Montage dank den Gummischlaufen mit Haken</li><li>eignet sich auch für Autositze mit integriertem Seitenairbag<br/></li></ul>"
+}

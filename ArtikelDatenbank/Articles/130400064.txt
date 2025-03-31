@@ -1,0 +1,4 @@
+{
+    "uvp": 349.95,
+    "attributes": "<ul><li>mobile Klimaanlage 9.000 BTU 4in1<br/></li><li>passend für Räume von 10 bis 30 m²</li><li>4in1 Funktion: Smart, Kühlen, Entfeuchten und Lüften</li><li>lenkbare Rollen erleichtern den Transport</li><li>inklusive 180 cm langem Netzkabel und 150 cm langem Ablasschlauch<br/></li></ul>"
+}

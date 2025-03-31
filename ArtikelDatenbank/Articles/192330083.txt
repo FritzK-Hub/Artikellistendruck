@@ -1,0 +1,4 @@
+{
+    "uvp": 22.99,
+    "attributes": "<ul><li>natürlicher Look ohne Brandrisiko</li><li>Fernbedienung zur einfachen Bedienung</li><li>anpassbare Farben für jede Stimmung</li><li>integrierter Timer als Abschaltautomatik</li><li>vielseitig einsetzbar das ganze Jahr</li></ul>"
+}

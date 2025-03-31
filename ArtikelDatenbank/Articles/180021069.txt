@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Kugel-Wasserhahn aus matt verchromtem Messing</li><li>mit beidseitigem Innengewinde 3/4\"</li><li>ermöglicht das schnelle Freigeben der vollen Wassermenge</li><li>für einen umfangreichen Einsatzbereich konzipiert</li><li>große Kugelöffnung, vermeidet Druckverluste, spart Energie</li></ul>"
+}

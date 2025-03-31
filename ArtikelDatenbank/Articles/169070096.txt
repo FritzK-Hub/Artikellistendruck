@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Einsteckschloss für Wohnungstüren mit Profil-Schließzylinder (nicht im Lieferumfang)</li><li>mit Aussparung für Profil-Schließzylinder</li><li><strong>für links-hängende Türen</strong></li><li>DIN 72 mm Wohnungstür</li></ul>"
+}

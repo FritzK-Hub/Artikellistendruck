@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>2-teilige Schlauchverschraubung aus Messing</li><li>mit 1/2\" Tülle und 3/4\" Flügelüberwurfmutter</li><li>zum Anschluss eines 1/2\" Schlauchs an einen Wasserhahn mit 3/4\" Außengewinde</li><li>Montage mittels Schlauchschellen</li></ul>"
+}

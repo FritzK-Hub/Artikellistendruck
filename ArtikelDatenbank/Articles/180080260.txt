@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Beet-Einfassung aus Kunststoff</li><li>dekorative Abgrenzung für Wege und Beete</li><li>einfache Montage</li><li>mehrere Beet-Umrandungen lassen sich miteinander verbinden</li><li>witterungsbeständige Rasenkante</li></ul>"
+}

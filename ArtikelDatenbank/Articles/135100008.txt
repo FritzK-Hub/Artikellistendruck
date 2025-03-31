@@ -1,0 +1,4 @@
+{
+    "uvp": 169.0,
+    "attributes": "<ul><li>ist leicht und einfach zu transportieren, ideal für den Einsatz an verschiedenen Orten</li><li>IGBT-Inverter-Technologie ermöglicht eine genaue Steuerung des Schweißstroms</li><li>ARC-FORCE, HOT START und ANTI STICK Funktionen erleichtern das Schweißen</li><li>Durch eine Umrüstung mit unserer passenden Ausrüstung kann das GIS 162 auch für WIG-Schweißarbeiten verwendet werden</li><li>kann Elektroden bis zu 4,0 mm Durchmesser bei einer Leistung von bis zu 160 A verarbeiten<br/></li></ul>"
+}

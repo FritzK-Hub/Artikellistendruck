@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>Bremszug innen Universal</li><li>für Vorder- oder Hinterrad</li><li>mit Doppelnippel</li><li>einfache Montage</li><li>aus robustem Stahlseil</li></ul>"
+}

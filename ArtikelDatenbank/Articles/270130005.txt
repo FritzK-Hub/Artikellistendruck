@@ -1,0 +1,4 @@
+{
+    "uvp": 19.1,
+    "attributes": "<ul><li>besonders für mittelharte Beanspruchung im Heimwerkerbereich</li><li>bietet erstklassige Schnittergebnisse und schneiden sauber und präzise</li><li>langlebig durch niedrige, thermische Belastung des zu schneidenden Materials</li><li>vielseitig für Zuschnitte von Holz, Sperrholz und Spanplatten geeignet</li><li>zuverlässiges Ersatz-Sägeglätter für die herkömmlichen Hand- und Tischkreissägen<br/></li></ul>"
+}

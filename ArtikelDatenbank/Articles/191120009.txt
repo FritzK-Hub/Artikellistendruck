@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>löst mühelos Öl-, Fett-, Ruß- und Schmutzränder</li><li>geeignet für die Verschmutzungen entlang der Wasserlinie</li><li>einfache Anwendung </li><li>reinigt zuverlässig Beckenränder und Wände</li><li>materialschonende Reinigung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>stabiler Pflanztopf für innen und außen</li><li>zum direkten Bepflanzen geeignet</li><li>runder Blumenkübel mit Wellenmuster</li><li>aus hochwertigem Kunststoff</li><li>UV- und frostbeständig</li></ul>"
+}

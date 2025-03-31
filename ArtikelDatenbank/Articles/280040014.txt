@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Mini Gartenschere mit spitzen Klingen</li><li>Klingen aus Edelstahl</li><li>ergonomischer und rutschfester Kunststoffgriff</li><li>mit Einhand-Sicherheitsverschluss</li><li>zum Schneiden von dünneren Zweigen und Blumen</li></ul>"
+}

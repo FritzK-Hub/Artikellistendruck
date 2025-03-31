@@ -1,0 +1,4 @@
+{
+    "uvp": 24.81,
+    "attributes": "<ul><li>Antennendose für Rundfunk, Fernsehen (kabelfernsehtauglich) und Satellitenanlagen<br/></li><li>in klassischem Design mit matter Oberfläche</li><li>nur als Enddose verwendbar </li><li>für die Unterputz-Montage </li><li>nur in Kombination mit Rahmen der Serie Trend zu verwenden</li></ul>"
+}

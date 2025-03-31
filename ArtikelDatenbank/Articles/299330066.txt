@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>H-Anker aus verzinktem Stahl</li><li>passend für Pfosten mit 100mm</li><li>zum Einbetonieren</li><li>gibt Stabilität und sicheren Halt</li><li>für einfache Zaun- und Holzkonstruktionen</li></ul>"
+}

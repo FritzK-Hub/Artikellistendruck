@@ -1,0 +1,4 @@
+{
+    "uvp": 1.79,
+    "attributes": "<ul><li>Briefumschläge C6</li><li>ohne Fenster</li><li>selbstklebend</li><li>25 Briefumschläge in weiß</li><li>umweltfreundlich<br/></li></ul>"
+}

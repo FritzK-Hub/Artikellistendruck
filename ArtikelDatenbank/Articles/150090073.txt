@@ -1,0 +1,4 @@
+{
+    "uvp": 4.59,
+    "attributes": "<ul><li>Halogen Scheinwerferlampe H1</li><li>mit P14,5s Sockel</li><li>entspricht E4</li><li>gemäß ECE R 37</li><li>Ersatzlampe für Hauptscheinwerfer</li></ul>"
+}

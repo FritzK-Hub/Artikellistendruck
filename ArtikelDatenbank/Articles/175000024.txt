@@ -1,0 +1,4 @@
+{
+    "uvp": 1999.0,
+    "attributes": "<ul><li>einstellbare Heizleistung von 2,5 - 6,5 kW</li><li>15 kg Pelletspeicher für lange automatische Heizperioden</li><li>Raumlüftung mit Frontauslass mit eigenem Lüfter und Comfort Funktion</li><li>Feuerraum, Feuertür und Brennschale aus Gusseisen</li><li>Steuerung über Display im oberen Frontbereich</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Vorhängeschloss 50 x 110 mm</li><li>Schlosskörper in der Farbe rot-schwarz</li><li>ideal zum Absperren von Türen oder Schuppen</li><li>automatische Verriegelung mittels Bügelautomatik</li><li>inklusive 3 Schlüssel<br/></li></ul>"
+}

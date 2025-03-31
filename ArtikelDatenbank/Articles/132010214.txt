@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>100% natürliches Ergänzungsfuttermittel für Hunde</li><li>getrocknete Filets aus Entenbrust &amp; Hähnchen</li><li>als Belohnung oder zum Verfeinern des Futters</li><li>im wiederverschließbaren Beutel</li><li>besonders fettarm - nur 2% Fettanteil</li></ul>"
+}

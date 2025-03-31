@@ -1,0 +1,4 @@
+{
+    "uvp": 399.95,
+    "attributes": "<ul><li>Hüpfburg „Party“ aufblasbar mit Basketballkorb und Rutsche</li><li>für bis zu zwei Kinder von 3 – 10 Jahren mit einem Gesamtgewicht von 90 kg</li><li>lässt sich innerhalb von ca. fünf Minuten aufblasen</li><li>Sicherheitsnetz auf allen Seiten sorgt für mehr Sicherheit</li><li>inklusive Luftpumpe, Reparatur-Kit, Heringe und Tragetasche<br/></li></ul>"
+}

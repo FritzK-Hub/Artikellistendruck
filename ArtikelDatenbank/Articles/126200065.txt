@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>zur Wasserversorgung und Bewässerung mit Regen- oder Brauchwasser</li><li>besonders langlebig, aus Kunststoff mit mechanischer Dichtung</li><li>zur Förderung von Wasser aus Brunnen oder Zisternen</li><li>vielseitige Einsatzmöglichkeiten rund um das Haus und Garten</li><li>einfache Wartung dank Entlüftungs- und Wasserablassschraube<br/></li></ul>"
+}

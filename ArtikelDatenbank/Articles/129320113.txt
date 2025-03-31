@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>leicht zu Zubereiten</li><li>vielseitige Verwendung</li><li>einfache Pflege</li><li>gute Lagerfähigkeit</li><li>delikater Geschmack<br/></li></ul>"
+}

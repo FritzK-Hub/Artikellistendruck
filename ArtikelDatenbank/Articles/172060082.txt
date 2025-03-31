@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Kabelschuhe teilisoliert mit Abzweig</li><li>20 Stück im Set</li><li>Flachstecker für Steckverbindungen</li><li>zur stabilen Isolierung von Leiterenden</li><li>schnelle und einfache Verwendung</li></ul>"
+}

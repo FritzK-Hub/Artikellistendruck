@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>hochwertiges Nylon</li><li>vielseitige Kompatibilität</li><li>großzügige Länge</li><li>präzise Schnitte</li><li>für einen gepflegten Rasen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.95,
+    "attributes": "<ul><li>langlebiges und robustes Material aus Kiefernholz</li><li>dient, nach dem Verlegen des Bodens, als Abschluss an der Wand</li><li>unbehandeltes Holz für eine authentische Optik</li><li>bietet ausreichend Fläche, um größere Wandbereiche abzuschließen</li><li>lässt sich je nach Bedarf mit einer Gehrungssäge zuschneiden<br/></li></ul>"
+}

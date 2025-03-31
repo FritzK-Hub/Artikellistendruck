@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Kippverlängerungen Set 3-teilig<br/></li><li>aus Chrom-Vanadium-Stahl</li><li>matt verchromte Oberfläche<br/></li><li>Montagewinkel ca. 15 Grad ohne Gelenk</li><li>Vierkantantrieb, 1/4\"</li></ul>"
+}

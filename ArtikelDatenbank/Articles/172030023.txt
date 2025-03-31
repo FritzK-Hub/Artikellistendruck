@@ -1,0 +1,4 @@
+{
+    "uvp": 1.39,
+    "attributes": "<ul><li>Abzweigkasten aus Kunststoff für die Feuchtraum-Montage</li><li>mit vorgeprägten Leitungseinführungen und Stufennippel</li><li>mit selbst dichtenden Kabeldurchführungen versehen</li><li>staub- und spritzwassergeschützt sowie flammwidrig</li><li>außen liegende Befestigungslaschen für leichtere Montage</li></ul>"
+}

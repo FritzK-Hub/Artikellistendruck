@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>sichere Rohrverbindungen von 110 und 75 mm</li><li>langlebiges Polypropylen-Material</li><li>hitzebeständig bis 90 °C</li><li>verstopfungsarme glatte Innenfläche</li><li>schalldämmend und geräuscharm</li></ul>"
+}

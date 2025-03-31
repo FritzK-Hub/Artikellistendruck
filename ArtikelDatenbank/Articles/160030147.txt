@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Winterhandschuhe-Set 3 Paar je in Größe 8</li><li>auch unter kalten Bedingungen einsetzbar</li><li>Handinnenfläche und Fingerspitzen mit Beschichtung</li><li>besonders widerstandsfähig mit sicherem Halt</li><li>elastisches Strickbündchen für angenehmen Tragekomfort<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>leuchtende Zeltleine</li><li>aus Polypropylen</li><li>multifile Leine</li><li>Belastbarkeit bis ca. 10 kg</li><li>gut sichtbar, lang nachleuchtend</li></ul>"
+}

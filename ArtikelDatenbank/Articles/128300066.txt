@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Sonnenschirm aus strapazierfähigem Polyester</li><li>mit Sonnenschutzfaktor 30+ versehen</li><li>robustes Aluminiumgestell für einen sicheren Stand</li><li>dank Kurbelmechanismus öffnen und schließen möglich</li><li>ideal für Balkon, Garten oder Terrasse<br/></li></ul>"
+}

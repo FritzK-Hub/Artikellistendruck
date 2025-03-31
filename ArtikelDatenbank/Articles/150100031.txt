@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Duftbaum Everfresh zum Aufhängen</li><li>sorgt für angenehmen, erfrischenden Duft</li><li>wochenlang wirksamer Duftbaum</li><li>Duftbaum im Blister aromadicht verpackt</li><li>verschiedene Anwendungsmöglichkeiten<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>hochwertige Schleifpapiere mit 6-Loch-Absaugung</li><li>passend für die verschiedensten Deltaschleifer</li><li>Set, bestehend aus Schleifblättern mit K40, K60, K80, K120 und K180</li><li>perfektes Schleifbild und hohe Schleifleistung</li><li>schnelles Wechseln der Schleifblätter dank Klettverschluss<br/></li></ul>"
+}

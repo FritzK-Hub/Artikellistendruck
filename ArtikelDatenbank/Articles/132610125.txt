@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>Kabelloses &amp; kompaktes Design – ideal für unterwegs</li><li>Leistungsstarker 4000 mAh Akku – wiederaufladbar via USB-C</li><li>Präzise &amp; sicher – automatische Abschaltung bei gewünschtem Druck</li><li>Schnelles Aufpumpen – 12 L/min Luftdurchsatz, bis zu 10,3 bar</li><li>Vielseitig &amp; inkl. Zubehör – für Auto, Fahrrad, Ball &amp; mehr</li></ul>"
+}

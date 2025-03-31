@@ -1,0 +1,4 @@
+{
+    "uvp": 23.99,
+    "attributes": "<ul><li>Kosmetikspiegel mit 100% Spiegelfläche</li><li>mit 3-facher Vergrößerung</li><li>für den kosmetischen Einsatz geeignet</li><li>stufenlos ausziehbar, schwenkbar, klappbar und höhenverstellbar</li><li>Lieferung inklusive Montagematerial<br/><br/></li></ul>"
+}

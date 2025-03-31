@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Spezialreiniger</li><li>entfernt Öl, Fett und Verschmutzung von Metalloberflächen</li><li>für den Innen- und Außenbereich geeignet</li><li>sorgt für eine gute Anhaftung nachfolgender Anstriche</li><li>für Eisen und Stahl<br/><br/></li></ul>"
+}

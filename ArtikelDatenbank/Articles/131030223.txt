@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul> <li>reinigt selbsttätig jeden Abfluss</li> <li>macht Spül- , Waschbecken- und Wannenabflüsse im Nu frei</li> <li>eingefrorene Abflüsse werden gefahrlos aufgetaut</li></ul>"
+}

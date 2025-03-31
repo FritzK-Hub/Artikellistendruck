@@ -1,0 +1,4 @@
+{
+    "uvp": 409.95,
+    "attributes": "<ul><li>Innenauskleidung in Kieselmosaik-Optik</li><li>mühelose Montage ohne Werkzeug</li><li>extrem stabile Rahmenkonstruktion mit Korrosionsschutz</li><li>FrameLink System mit Kunststoff-T-Verbindern verhindert Rostschäden</li><li>PVC-Band sorgt für zusätzliche Stabilität</li></ul>"
+}

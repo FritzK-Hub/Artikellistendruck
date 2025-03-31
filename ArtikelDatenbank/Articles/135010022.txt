@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>praktischer Bajonettverschluss für sicheren Einsatz</li><li>leistungsstarke Energiequelle mit reinem Butan</li><li>kompatibel mit vielseitigen Kartuschengeräten</li><li>kompakt und ideal für unterwegs</li><li>zuverlässige Leistung bei unterschiedlichen Anwendungen</li></ul>"
+}

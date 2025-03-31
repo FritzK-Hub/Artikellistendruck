@@ -1,0 +1,4 @@
+{
+    "uvp": 21.99,
+    "attributes": "<ul><li>idealer Outdoor-Begleiter</li><li>starke Leistung</li><li>flexible Flammenkontrolle</li><li>Stabilität und Sparsamkeit</li><li>inklusive zwei 190 g Gaskartuschen</li></ul>"
+}

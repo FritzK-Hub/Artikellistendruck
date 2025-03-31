@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>leichtes Handling von Gasdruckreglern ohne Kraftaufwand</li><li>ideal für Camping und Gasgrills</li><li>mit integriertem Flaschenöffner</li><li>sicher, anpassbar und robust</li><li>praktischer Aufhänger</li></ul>"
+}

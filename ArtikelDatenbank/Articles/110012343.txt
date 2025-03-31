@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>metallfreies Vlies für schonende Reinigung von Kupferrohren</li><li>riefenfreie Reinigung ohne jeglichen metallischen Abrieb</li><li>lösungsmittelbeständig für vielseitigen Einsatz</li><li>entfernt effektiv ölhaltige und fettige Rückstände</li><li>sorgt für eine schonende und gründliche Reinigung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Dichtungssortiment für Waschtisch-Siphon</li><li>hochwertiges Material für eine lange Lebensdauer</li><li>Schutz vor Leckagen und Undichtigkeiten</li><li>Keildichtungen und Flachdichtung</li><li>für 1¼\" Siphon-Verschraubungen<br/></li></ul>"
+}

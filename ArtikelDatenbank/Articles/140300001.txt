@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Stapelhilfe ideale für die Brennholzlagerung</li><li>aus robustem und stabilem Stahl</li><li>schnell und einfach Kaminholz aufstapeln</li><li>mit vorgebohrten Löchern für die Befestigung</li><li>in der Breite variabel, je nach Länge der Kanthölzer</li></ul>"
+}

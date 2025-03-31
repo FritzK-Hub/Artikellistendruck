@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>10 Liter Eimer mit Metallbügel</li><li>für verschiedene Einsatzgebiete geeignet</li><li>aus Kunststoff</li><li>kältebeständig</li><li>integrierter Henkel</li></ul>"
+}

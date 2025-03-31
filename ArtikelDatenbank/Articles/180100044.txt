@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Hightech-Leichtlaufmotoröl für höchste Anforderungen</li><li>Turbo- und Kat-getestet</li><li>ideal bei langen Ölwechselintervallen</li><li>minimiert Verschleiß und Ablagerungen</li><li>spart Kraftstoff, reduziert Schadstoffausstoß</li></ul>"
+}

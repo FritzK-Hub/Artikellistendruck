@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>Drucksprüher mit Messing-Sprühkopf</li><li>Edelstahl-Lanze (ca. 36 cm)</li><li>Behälter aus hochwertigem PP-Material</li><li>Überdruck Sicherheitsventil</li><li>mit Dauersprüh-Funktion</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Fruchtfliegenfalle zum Selbstbefüllen</li><li>umweltfreundlich gegen Frucht-, Obst- und Essigfliegen</li><li>kann flexibel überall eingesetzt werden</li><li>im robusten Kunststoffgefäß</li><li>giftfrei und zuverlässig<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li><strong>Hand-Schlagschrauber Bitsatz</strong> 4-teilig</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>mit Außensechskant-Antrieb</li><li>Set besteht aus Kreuz- und Schlitzeinsätzen</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li></ul>"
+}

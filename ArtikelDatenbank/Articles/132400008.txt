@@ -1,0 +1,4 @@
+{
+    "uvp": 34.9,
+    "attributes": "<ul><li>3-in-1 Funktion: Schleifen, Kleben, Schrauben</li><li>schnelles USB-C-Laden in 3,5 Stunden</li><li>variable Geschwindigkeiten schaffen präzise Ergebnisse</li><li>integrierte LED für dunkle Arbeitsbereiche</li><li>ergonomisch und kabellos zur flexiblen Nutzung</li></ul>"
+}

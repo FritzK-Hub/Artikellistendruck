@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>zuverlässiger Helfer für Gärtner</li><li>inklusive Nägel zur Befestigung</li><li>zur Fixierung von Ranken am Mauerwerk</li><li>einfache Handhabung</li><li>schonend für Pflanzen</li></ul>"
+}

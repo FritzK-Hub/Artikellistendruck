@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Geschenkband aus Kunstfaser</li><li>zur kreativen Gestaltung von Geschenkverpackungen</li><li>in verschiedenen Farben</li><li>mit verschiedenen weihnachtlichen Dekoren</li><li>Borten in gleicher Farbe</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Reduzierstück aus Messing</li><li>3/4\" Außengewinde und 1/2\" Innengewinde</li><li>für einen effektiven, sicheren und stabilen Durchmesserwechsel von Rohrverbindungen</li></ul>"
+}

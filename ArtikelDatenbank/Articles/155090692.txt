@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>lebensrettender Fehlerstromschutzschalter</li><li>schützt vor lebensgefährlichen Stromschläge</li><li>Abschaltung der Steckdose bei Fehlerströmen</li><li>funktioniert auch als Nullspannungsauslöser</li><li>auch im Aussenbereich verwendbar<br/></li></ul>"
+}

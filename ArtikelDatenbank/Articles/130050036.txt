@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>3-lagiges Toilettenpapier aus Zellstoff</li><li>mit Kamillenduft</li><li>leicht reißbar</li><li>für empfindliche Haut geeignet</li><li>lässt sich zuverlässig herunterspülen</li></ul>"
+}

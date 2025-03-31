@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Permanentmarker Set wasserfest 3-teilig </li><li>Set besteht aus einem roten, blauen und schwarzen Stift</li><li>mit einer Strichstärke von ca. 4 mm</li><li>ideal zum Beschriften von fast jedem Material</li><li>praktischer Clip für einfacheres verstauen</li></ul>"
+}

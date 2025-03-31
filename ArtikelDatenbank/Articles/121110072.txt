@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>UV-beständiger Pflanztopf Ø 200 mm</li><li>mit Einsatz zum einfacheren Bepflanzen</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>zum direkten Bepflanzen geeignet</li><li>runder Blumenkübel in Rattan-Optik<br/></li></ul>"
+}

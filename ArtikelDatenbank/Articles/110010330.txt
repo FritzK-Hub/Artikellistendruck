@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Spültisch-Armatur mit schwenkbarem Auslauf</li><li>mit geräuscharmer, europäische Markenkartusche</li><li>hochwertiger Strahlregler</li><li>DVGW-KTWA geprüfte flexible Anschlussschläuche aus Edelstahl</li><li>inklusive Befestigungsset für leichte Installation<br/></li></ul>"
+}

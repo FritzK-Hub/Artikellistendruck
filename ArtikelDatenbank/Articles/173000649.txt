@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>Deckenstrahler 3-flammig, Durchmesser ca. 22 cm</li><li>inklusive Leuchtmittel mit GU10-Sockel<br/></li><li>alle Strahler drehbar und neigbar</li><li>aus robustem Metall gefertigt<br/></li><li>mit verchromten Scharnieren</li></ul>"
+}

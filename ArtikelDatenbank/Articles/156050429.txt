@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Tapezierschere aus rostfreiem Edelstahl</li><li>2-Komponenten Kunststoffgriff Soft-Grip</li><li>ergonomischer Griff</li><li>lange Schneiden, ideal zum Tapetenschneiden</li><li>leicht und handlich</li></ul>"
+}

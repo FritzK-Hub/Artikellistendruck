@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>einfach anwendbarer Holzreparaturspachtel in 60g-Tube</li><li>geeignet für DIY-Projekte und Reparaturarbeiten an Echtholz-Möbeln und anderen Holzoberflächen</li><li>Reparaturstellen können geschliffen, gehobelt und gesägt werden</li><li>Farben können untereinander gemischt werden</li><li>überlackierbar und trittfest</li></ul>"
+}

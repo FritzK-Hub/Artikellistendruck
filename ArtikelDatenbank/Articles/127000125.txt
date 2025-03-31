@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Grubber aus verzinktem Stahl mit 3 Zinken</li><li>zur wurzelschonende Auflockerung des Bodens </li><li>fördert durch Bodenauflockerung das Pflanzenwachstum</li><li>unverzichtbares Werkzeug bei Bodenarbeiten im Garten</li><li>rückenschonende Arbeit dank 140 cm Holzstiel<br/></li></ul>"
+}

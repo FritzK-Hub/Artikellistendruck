@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>liebevoll gestaltete Grußkarte zur Geburt</li><li>als Glückwunschkarte oder Dankeskarte verwendbar</li><li>niedliches Design und hochwertige Ausführung</li><li>inklusive passenden Briefumschlag</li><li>aufklappbar und geprägt</li></ul>"
+}

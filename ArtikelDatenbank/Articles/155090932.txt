@@ -1,0 +1,4 @@
+{
+    "uvp": 9.64,
+    "attributes": "<ul><li>Serienschalter für Unterputz-Montage</li><li>klassisches Design mit moderner Oberfläche</li><li>ermöglicht z. B. das unabhängige ein- und Ausschalten von zwei Stromverbrauchern</li><li>nur in Kombination mit Rahmen der Serie Trend zu verwenden</li><li>für die Unterputz-Montage<br/></li></ul>"
+}

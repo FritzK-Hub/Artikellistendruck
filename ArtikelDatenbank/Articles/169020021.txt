@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>vielseitig einsetzbar zum Isolieren, Bündeln oder Befestigen von Kabeln</li><li>erhöht die Haltbarkeit der Kabel und reduziert Reparaturkosten</li><li>einfach zu verwenden und ermöglicht das einfache Umwickeln selbst auf unebenen Flächen</li><li>schwer entflammbar für Anwendungen, bei denen Brandschutz eine Priorität ist</li><li>zuverlässige Isolierung und Schutz des Kabel vor Beschädigungen, ideal für elektrischer Systeme</li></ul>"
+}

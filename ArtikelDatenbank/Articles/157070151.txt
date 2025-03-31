@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>dauerelastisch, pilzhemmend</li><li>witterungs-, alterungs- und UV-beständig</li><li>gute Haftung auf Glas Emaille, Keramik u. Aluminium</li><li>für den Sanitärbereich: Fliesen, Badewanne Duschkabine, Wachbecken</li><li>für Spülen und Küchenmöbel</li></ul>"
+}

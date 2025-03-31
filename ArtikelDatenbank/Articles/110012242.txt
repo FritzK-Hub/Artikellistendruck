@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>hochwertiges Messing, verchromte Oberfläche</li><li>vielseitige Nutzung für Bewässerung oder Wasserquellen</li><li>passend für ¾''  Aussengewinde Wasserhahn/Rohr</li><li>zwei ¾'' Außengewinde für doppelten Anschluss</li><li>robustes, langlebiges Design<br/></li></ul>"
+}

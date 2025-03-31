@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul> <li>Maße: 115 x 1,0 x 22,23</li> <li>Höchstdrehzahl: max. 13.200 RPM</li> <li>Geschwindigkeit: 80 m/sec</li> <li>Form: flach</li> <li>Industriequalität</li> <li>Typenbezeichnung nach EN 12 413: AS46 - 4BF</li> <li>geprüft nach BGV D 12</li> </ul>"
+}

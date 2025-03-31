@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>zur Befestigung von Zierstoffen und leichten Belägen </li><li>besonders stabil, aus vernickeltem Metall</li><li>erleichtert die Fixieren von Zierleisten an Möbeln</li><li>lassen sich leicht in Holzleisten einschlagen</li><li>schnell und einfach in der Handhabung <br/></li></ul>"
+}

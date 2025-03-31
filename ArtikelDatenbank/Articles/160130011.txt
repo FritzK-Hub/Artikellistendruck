@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Blaumann Herren-Größe 46 aus strapazierfähiger Baumwolle</li><li>dient als effektiver Ganzkörperschutz vor Dreck, Öl oder Farbe</li><li>in Werkstatt oder bei Renovierungs- und Gartenarbeiten einsetzbar</li><li>angenehmer Tragekomfort und Bewegungsfreiheit bei der Arbeit</li><li>besonders langlebig, auf eine lange Nutzungsdauer ausgelegt<br/></li></ul>"
+}

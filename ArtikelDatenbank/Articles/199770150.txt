@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>praktische FISHBULL Bilderhaken im 4er-Set</li><li>mit stark haftender Klebefläche</li><li>vermessingte Dreikant-Ösen</li><li>klebt auf Oberflächen wie Papier, Pappe und Karton</li><li>zum Aufhängen von Dekorationen aus Papier<br/><br/></li></ul>"
+}

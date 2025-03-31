@@ -1,0 +1,4 @@
+{
+    "uvp": 7.09,
+    "attributes": "<ul><li>Drehgriff mit Aufhängeloch<br/></li><li>mit 2-Komponenten-Griff</li><li>rutschfest und ergonomisch geformt</li><li>für 1/4\" Bits</li><li>Gesamtlänge 200 mm</li></ul>"
+}

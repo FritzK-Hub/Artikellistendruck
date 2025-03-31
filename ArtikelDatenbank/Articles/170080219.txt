@@ -1,0 +1,4 @@
+{
+    "uvp": 2.75,
+    "attributes": "<ul><li>Schleifvlies mit K600 Körnung</li><li>für Arbeiten an Kfz, Motorrad, Boot usw.</li><li>zur Bearbeitung von Holz und Metall</li><li>praktische Abmessung und flexibel</li><li>ideal für den Feinschliff</li></ul>"
+}

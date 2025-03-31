@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>elegantes Design, das zu jeder Einrichtung passt</li><li>Schutz von wertvollen Fotos und Erinnerungen</li><li>leicht und stabil, einfach zu handhaben </li><li>einfache Installation mit beiliegenden Aufhängern</li><li>robust und langlebig für langanhaltende Freude<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>müheloses Graben in harten Böden</li><li>ergonomisches Design für rückenschonendes Arbeiten</li><li>universell passender D-Griff bietet Komfort</li><li>langlebige Qualität durch hochwertigen Stahl</li><li>vielseitig einsetzbar: Graben, Wurzelstechen, Rasenpflege</li></ul>"
+}

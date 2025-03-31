@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>nicht klebend, einfach in der Anwendung</li><li>hochwertiges Material für zuverlässige Isolierung</li><li>effiziente Wärmedämmung reduziert Heizkosten</li><li>schützt vor Wärmeverlusten und Kondensation</li><li>für Heizungs- und Wasserleitungsrohre geeignet</li></ul>"
+}

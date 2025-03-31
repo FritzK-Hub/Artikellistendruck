@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Herrenschuhe in der Größe 42 - 46</li><li>aus widerstandsfähigem Kunststoff gefertigt</li><li>gute Passform sorgt für angenehmen Tragekomfort</li><li>ideal als Garten-, Haus- oder Freizeitschuhe</li><li>sind besonders strapazierfähig und pflegeleicht<br/></li></ul>"
+}

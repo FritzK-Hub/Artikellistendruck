@@ -1,0 +1,4 @@
+{
+    "uvp": 3.59,
+    "attributes": "<ul><li>Thermometer für Innen und Außen</li><li>aus robustem Kunststoff gefertigt</li><li>im geschmackvoll, klassischen Design</li><li>Temperaturanzeige von - 30 bis + 50 °C</li><li>zum Aufhängen geeignet</li></ul><p><br/></p>"
+}

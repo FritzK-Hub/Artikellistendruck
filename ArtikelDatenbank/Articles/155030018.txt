@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>eine Knopfzellenbatterie Typ CR2032</li><li>auf einer stabilen Blisterkarte</li><li>langlebige Batterie, nicht wiederaufladbar</li><li>geeignet für Armbanduhren und vieles mehr</li><li>ideal für Geräte mit hohem Energiebedarf<br/></li></ul>"
+}

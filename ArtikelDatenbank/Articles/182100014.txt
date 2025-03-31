@@ -1,0 +1,4 @@
+{
+    "uvp": 24.49,
+    "attributes": "<ul><li>Fahrradreifen 27,5 x 2,20 Zoll aus Nylon</li><li>für 27,5\" Mountainbikes</li><li>schneller und einfacher Wechsel</li><li>passend für Felgen 19-29 mm</li><li>auch für 52 bis 56-584</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.1,
+    "attributes": "<ul><li>robuste Haken aus Metall</li><li>schützende Kunststoffbeschichtung</li><li>hält Wäscheleinen stabil und zuverlässig</li><li>mit integriertem Holzgewinde</li><li>spielend leicht anzubringen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>leistungsfähige Alkaline Batterien im Spar-Multipack<br/></li><li>24 x Typ LR 6 AA 2100mAh Kapazität<br/></li><li>12 x Typ LR 3 AAA 950mAh Kapazität</li><li>nicht wiederaufladbar</li><li>ideal zur Bevorratung</li></ul><p><br/></p>"
+}

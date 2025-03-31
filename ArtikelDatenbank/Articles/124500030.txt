@@ -1,0 +1,4 @@
+{
+    "uvp": 79.0,
+    "attributes": "<ul><li>Wassersteckdose zum Verbinden mit KG Rohr DN 110</li><li>für die sichere Verwahrung von Gartenanschlüssen</li><li>Wasseranschluss-Box mit Deckel</li><li>Verteiler mit Absperrhahn und Schlauchübergang 1/2\" und 3/4\"</li></ul><ul><li>inkl. Schlauchtülle und Spannbackenschelle</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>langlebiges Kiefern-/Fichtenholz</li><li>perfekter Wandabschluss nach Bodenverlegung</li><li>authentische Optik durch unbehandeltes Holz</li><li>großzügige Länge für Wandbereiche</li><li>einfache Anpassung möglich</li></ul>"
+}

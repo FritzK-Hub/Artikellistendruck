@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>runder Säulengrill in Edelstahlausführung mit massiver Bodenplatte</li><li>ideal für Veranstaltungen, Gartenpartys oder Geburtstagsfeiern</li><li>Grillrost kann in 3 Höhenstufen verstellt werden</li><li>Kaminzugeffekt ermöglicht eine manuelle Steuerung der Glutwärme</li><li>Ascheauffangkasten erleichtert die Reinigung des Holzkohlegrills<br/></li></ul>"
+}

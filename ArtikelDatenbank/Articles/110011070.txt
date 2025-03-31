@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>zur Befestigung von Flachkanälen</li><li>für Flachkanäle mit Breite 150 mm</li><li>aus stabilem Kunststoff</li><li>einfach zu montieren<br/></li><li>schwer entflammbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>Qualitätselektroden für den Heimwerker</li><li>geeignet für alle Schweißpositionen</li><li>insbesondere für Dünnblech- und Heftarbeiten im Bereich Stahl</li><li>ausgezeichnetes Nahtaussehen und guter Schlackenabgang</li><li>hochwertigen Markenelektroden von Güde<br/><br/></li></ul>"
+}

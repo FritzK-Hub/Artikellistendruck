@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>besonders langlebig, aus strapazierfähigem PVC gefertigt</li><li>willkommene Abkühlung an heißen Sommertagen</li><li>gepolsterte Sitzflächen und Kopfstützen für mehr Sitzkomfort</li><li>die Mitte des Beckens bietet ausreichend Platz für den Badespaß</li><li>kühle Erfrischungen stets griffbereit, dank zwei Getränkehalter<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>Retro Globus 21 x 38 cm in grün</li><li>elegantes Accessoire für Büro, Wohn- oder Geschäftsräume</li><li>stabiler Holzfuß sorgt für sicheren Stand</li><li>Englische Länderbezeichnung für internationales Flair</li></ul>"
+}

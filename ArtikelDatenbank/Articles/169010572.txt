@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Klebeband mit hoher Anfangshaftung</li><li>lassen sich mühelos abrollen</li><li>passen auf alle handelsübliche Handabroller</li><li>problemlose, manuelle Verarbeitung möglich</li><li>für das Verschließen von leichten bis mittelschweren Schachteln<br/></li></ul>"
+}

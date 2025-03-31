@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>Hand-Doppelhacke mit 3 Zinken</li><li>aus hochwertigem, verzinktem Stahl</li><li>mit rutschfestem 2-Komponenten Kunstoffhandgriff</li><li>für alle Bodenarten</li><li>ideal zum Hacken, Jäten, Belüften und für sonstige Gartenarbeiten</li></ul>"
+}

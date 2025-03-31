@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>ideal für Abwasserleitungen</li><li>für HT - Rohre</li><li>einfache Handhabung</li><li>schützt vor aggressiven Stoffen im Mauerwerk</li><li>dämmt Fließgeräusche</li></ul>"
+}

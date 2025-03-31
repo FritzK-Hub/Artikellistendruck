@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Felgenreiniger mit Wirkindikator</li><li>umweltgerechte Rezeptur, PH-hautneutral</li><li>wirkt selbstaktiv und entfernt hartnäckige Verschmutzungen aller Art</li><li>reinigt materialschonendund greift die Oberfläche nicht an</li><li>säurefrei, geprüfte Materialverträglichkeit</li></ul>"
+}

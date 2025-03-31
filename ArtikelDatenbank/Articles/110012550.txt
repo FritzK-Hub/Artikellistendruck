@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>T-Reduzierstück mit 3 Muffen geeignet für Hart- und Weichlöten</li><li>langlebig: korrosionssicher durch Kupfermaterial</li><li>zuverlässig: Handwerkerqualität schafft sichere Verbindungen</li><li>vielseitig: für Heizungs-, Gas- und Sanitärinstallationen konzipiert</li><li>passend: reduziert Rohre mit 18 x 15 x 18 mm</li></ul>"
+}

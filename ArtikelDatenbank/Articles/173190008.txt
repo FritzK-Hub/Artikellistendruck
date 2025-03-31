@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Wandfassung E27 in weiß</li><li>schräge Ausführung</li><li>für Leuchtmittel bis 60W</li><li>für den Innenbereich</li><li>Lampenfassung aus Thermoplast</li></ul>"
+}

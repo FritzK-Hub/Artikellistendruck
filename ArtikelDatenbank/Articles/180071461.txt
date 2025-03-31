@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>UV-beständiges Pflanzgefäß für innen und außen</li><li>besteht aus hochwertigem Kunststoff</li><li>zum direkten Bepflanzen geeignet</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>runder Blumentopf in matter Optik</li></ul>"
+}

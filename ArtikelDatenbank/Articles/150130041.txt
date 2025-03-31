@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>gebrauchsfertiges Alkylatbenzin</li><li>mit 2% vollsynthetischem Zweitaktöl</li><li>biologisch abbaubar, aschefreies Gemisch</li><li>eignet sich für ein breites Spektrum an Motoren</li><li>nahezu frei von Schwefel, Benzol und Aromaten</li></ul>"
+}

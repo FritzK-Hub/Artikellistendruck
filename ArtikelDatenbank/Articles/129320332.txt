@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>Saatscheiben Babyleaf-Spinat „Soyuz“ 5 Stück</li><li>eignet sich für den Anbau im Frühjahr oder Herbst</li><li>zählt mit zu den gesündesten Gemüsesorten</li><li>lässt sich roh, gedünstet oder blanchiert verzehren</li><li>kann ab einer Blattlänge von 4 - 5 cm geerntet werden</li></ul>"
+}

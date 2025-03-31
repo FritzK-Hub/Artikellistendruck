@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>selbstklebendes Hakenband aus Polyamid</li><li>für Klett-Befestigungen</li><li>Gegenstück zu Flauschband</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1 m bis 25 m</li></ul>"
+}

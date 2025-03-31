@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>mühelose Grundreinigung</li><li>schnelle Entkalkung</li><li>keine Gefahr für Kunststoffe</li><li>einfache Anwendung</li><li>ideal gegen Kalk und Verkrustungen<br/></li></ul>"
+}

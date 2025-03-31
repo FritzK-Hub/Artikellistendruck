@@ -1,0 +1,4 @@
+{
+    "uvp": 423.0,
+    "attributes": "<ul><li>Maschendrahtzaun-Set zum Einbetonieren</li><li>klassischer Gartenzaun aus massivem Metall gefertigt</li><li>Komplettpaket zur Errichtung des Zauns ohne Tor</li><li>zinkphosphatiert und kunststoffbeschichtet</li><li>lange Lebensdauer und universell einsetzbar</li></ul>"
+}

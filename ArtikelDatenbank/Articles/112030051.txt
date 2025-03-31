@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>geschirmte Netzwerkdose CAT 5e</li><li>mit zwei RJ45 Buchsen</li><li>mit vertikaler Kabeleinführung</li><li>Anschluss ohne Löten und Schrauben</li><li>inklusive Rahmen und Abdeckung für Aufputzmontage<br/></li></ul>"
+}

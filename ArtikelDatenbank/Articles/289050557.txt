@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>U-Profil mit quadratischem Querschnitt</li><li>aus stabilem, weißem Hart-PVC gefertigt</li><li>zum Abdecken von Holz- oder Kunststoffplatten</li><li>auch als Abschlussleiste vielseitig einsetzbar</li><li>einzigartiger Bohr-Kennrille zum genauen Zentrieren von Bohrungen</li></ul>"
+}

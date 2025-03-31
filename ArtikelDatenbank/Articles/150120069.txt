@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>schneller klare Sicht, weniger Verbrauch</li><li>verstärkte Reinigungswirkung, reduzierte Blendeffekte</li><li>schonend für Lack, Kunststoff und Gummi</li><li>verhindert das Einfrieren der Scheiben- und Scheinwerfer-Waschanlage</li><li>keine Eisbildung beim Scheibenwischen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>HT Innenrekution für HT-Rohre DN 75</li><li>für alle Abwasseranschlüsse im Haus</li><li>durch Steckmontage einfach zu verlegen</li><li>Flachreduktion für beschädigte oder abgesägte Muffen</li><li>hochtemperaturbeständige Abflussleitung</li></ul>"
+}

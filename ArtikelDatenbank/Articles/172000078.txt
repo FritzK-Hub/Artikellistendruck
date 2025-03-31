@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Taster Monaco weiß</li><li>gefertigt aus robustem Kunststoff</li><li>vielfältig einsetzbar als Klingel, Lichtschalter oder Türöffner</li><li>Nennspannung maximal 250 V mit 10 A</li><li>inklusive Steckklemmen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>aus pflegeleichtem Polyester, waschbar bei 30°C</li><li>Schutz gegen Insekten <br/></li><li>individuell zuschneidbar</li><li>inklusive Befestigungsband</li><li>UV beständig</li></ul>"
+}

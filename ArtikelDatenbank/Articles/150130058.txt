@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>5 Liter Alkylatbenzin für Viertaktmotoren</li><li>eine Ölbeimischung ist möglich</li><li>eignet sich für ein breites Spektrum an Motoren</li><li>nahezu frei von Schwefel, Benzol und Aromaten</li><li>bis zu 99% weniger schädliche Kohlenwasserstoffe</li></ul>"
+}

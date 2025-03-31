@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>zum Vorschalten z.B. direkt an das Druckluftgerät</li><li>für Kurzzeiteinsätze geeignet</li><li>Arbeitsdruck max. 10 bar</li></ul>"
+}

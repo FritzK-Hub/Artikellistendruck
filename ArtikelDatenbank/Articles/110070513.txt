@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>Rohrhalter für 2 mm Rauchrohre</li><li>Set mit Befestigungsmaterial</li><li>für den Innenbereich</li></ul>"
+}

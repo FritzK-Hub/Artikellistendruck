@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>5 Bauschuttsäcke auf Rolle </li><li>aus einer hochwertigen reißfesten Folie</li><li>extra starke Ausführung</li><li>dehn- und widerstandsfähig gegen Risse</li><li>für höhere Belastungen ausgelegt</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>die perfekte Ergänzung zur Reinigung von Schutzgasdüsen</li><li>mit drei wirkungsvollen Reinigungsmesser</li><li>Schweißperlen und Ablagerungen werden einfach entfernt</li><li>für alle Schutzgasschweißdüsen geeignet</li><li>handlicher Helfer für die Düsenreinigung<br/></li></ul>"
+}

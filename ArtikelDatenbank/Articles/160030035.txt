@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Montagehandschuhe Micro Flex Größe 8 in grau</li><li>ideal für Präzisions-, Montage- oder Reparaturarbeiten</li><li>Handinnenfläche und Fingerspitzen mit PU-Beschichtung </li><li>besonders widerstandsfähig mit sicherem Halt</li><li>atmungsaktives Strickmaterial für angenehmen Tragekomfort<br/></li></ul>"
+}

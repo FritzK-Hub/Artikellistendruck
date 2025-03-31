@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>leistungsstarke Akku Handkreissäge von Batavia</li><li>mit 18 Volt Li-Ion-Akku</li><li>ideal für das Ablängen von Fußbodenleisten, Laminat und Kanthölzern</li><li>präzise Arbeitsergebnisse dank Parallelanschlag</li><li>Grundplatte verstellbar</li></ul>"
+}

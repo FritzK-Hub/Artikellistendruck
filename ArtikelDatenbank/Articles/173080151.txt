@@ -1,0 +1,4 @@
+{
+    "uvp": 13.8,
+    "attributes": "<ul><li>22-teiliges Set</li><li>Ratschen-Schraubendreher mit Kunststoffgriff</li><li>T-Griff für optimale Kraftübertragung</li><li>Sechskantaufnahme für handelsübliche Bits</li><li>inklusive verschiedener Bit- und Stecknuss-Einsätze</li></ul>"
+}

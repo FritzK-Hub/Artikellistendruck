@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>spezieller Lockstoff mit hoher Lockwirkung</li><li>naturidentischen Lockstoffkombination</li><li>fängt Kirschfruchtfliegen und reduziert den Befall</li><li>doppelt effektiv: Gelbtafel und Pheromongel</li><li>für ca. 4 Wochen Lockwirkung<br/></li></ul>"
+}

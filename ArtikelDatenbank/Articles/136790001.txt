@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Tieflochmarker schwarz von GERMANIA®</li><li>dient zum Anzeichen auf fast allen Materialoberflächen</li><li>20 mm lange Mine erreicht auch schwer zugängliche Stellen</li><li>mit einem Clip und Skalierung von 0 bis 3 cm versehen</li><li>vielseitig einsetzbares Werkzeug für verschiedenste Handwerker</li></ul>"
+}

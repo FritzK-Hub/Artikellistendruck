@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Wickelstreifen 3,6 m auf Rolle für Umbauten oder Renovierungen</li><li>passend für Rohrverbindungen in schwierigen Bereichen</li><li>zur Dämmung und Verklebung von Stoß- und Schnittstellen</li><li>schützt die Rohre von aggressiven Inhalten im Putz</li><li>ohne Dampfsperre und besonders verrottungsfest<br/></li></ul>"
+}

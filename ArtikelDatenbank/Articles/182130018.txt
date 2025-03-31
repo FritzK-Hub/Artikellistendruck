@@ -1,0 +1,4 @@
+{
+    "uvp": 27.99,
+    "attributes": "<ul><li>FISCHER Faltschloss 110 cm aus gehärtetem Stahl</li><li>hoher Schutz gegen Diebstahl</li><li>sehr einfache Handhabung in der Dunkelheit</li><li>kann zwei Fahrräder gleichzeitig abschließen</li><li>inklusive Rahmenhalter, Klettbänder und Sicherheitsschlüssel</li></ul>"
+}

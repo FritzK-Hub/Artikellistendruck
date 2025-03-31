@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Wasserkastenautomat</li><li>sorgt selbsttätig wochenlang für aktive Reinigung und Frische im WC</li><li>verhindert Urinsteinbildung</li><li>in wasserlöslicher Folie verpackt</li><li>wird direkt in den Wasserkasten gelegt</li></ul>"
+}

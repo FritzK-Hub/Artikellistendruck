@@ -1,0 +1,4 @@
+{
+    "uvp": 2.45,
+    "attributes": "<ul><li>Einfülltrichter ermöglicht ein präzises Einfüllen, Dosieren und Umfüllen von Flüssigkeiten</li><li>vielseitige Einsatzmöglichkeiten im Haushalt, in der Werkstatt oder im Garten</li><li>besonders beständig gegen Waschmittel, Säuren und Mineralöl</li><li>selbstdichtender Trichter verhindert versehentliches Verschütten</li><li>ausziehbare Verlängerung ist passend von der kleine Flaschen bis zu Kanister</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>besonders milder und fein würziger Geschmack</li><li>für Herbst- und Frühjahrsanbau geeignet</li><li>pflegeleicht und dennoch ertagreich</li><li>sehr gut lagerfähig über lange Zeit</li><li>Ernte als Zwiebel oder Lauchzwiebel möglich</li></ul>"
+}

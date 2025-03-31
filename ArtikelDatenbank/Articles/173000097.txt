@@ -1,0 +1,4 @@
+{
+    "uvp": 21.49,
+    "attributes": "<ul><li>LED-Rundleuchte 14 W mit Schutzgitter</li><li>aus spritzwassergeschütztem Kunststoff</li><li>für den Einsatz in Räumen mit hoher Feuchtigkeit</li><li>für den Innen- und Außenbereich einsetzbar</li><li>Leuchtmittelwechsel ohne Werkzeug möglich</li></ul>"
+}

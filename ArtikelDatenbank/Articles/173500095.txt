@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>solarbetrieben - keine Stromkosten, umweltfreundlich</li><li>warmweißes, gemütliches Licht für Outdoor-Bereiche</li><li>lange Leuchtdauer bis zu 8 Stunden</li><li>vielseitige Einsatzmöglichkeiten dank 15m Länge</li><li>8 Lichtmodi für individuelle Stimmungen</li></ul>"
+}

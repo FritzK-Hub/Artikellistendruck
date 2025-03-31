@@ -1,0 +1,4 @@
+{
+    "uvp": 5.82,
+    "attributes": "<ul><li>Betonrippenstahl-Rundstange 6 mm x 2 m</li><li>aus warmgewalztem Stahl gefertigt</li><li>zur Bewehrung von aus Beton gegossenen Teilen</li><li>Oberfläche durch Spezialbehandlung vom Zunder befreit</li><li>ablängbar mit Metallsäge oder Bolzenschneider</li></ul>"
+}

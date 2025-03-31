@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Gipserbeil 600 g mit Rohrstiel von GERMANIA®</li><li>Kopf und Stiel wurden aus einem Stück geschmiedet</li><li>zum Formen von Gips oder andere weiche Materialien</li><li>2-Komponenten-Handgriff sorgt für rutschfester, sicherer Halt</li><li>verfügt darüber hinaus über einen Nagelzieher<br/></li></ul>"
+}

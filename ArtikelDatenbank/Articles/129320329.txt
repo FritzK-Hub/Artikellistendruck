@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>Rucola „Salatrauke\" mit kurzer Kulturzeit und viel Vitamin C</li><li>besitzt einen würzig-scharf-nussigen Geschmack und Senföle</li><li>zum Verfeinern von Salaten, Pizzen oder Nudelgerichten</li><li>kann auch in Smoothies weiterverarbeitet werden</li><li>länge Erntezeit dank geringer Frostbeständigkeit</li></ul>"
+}

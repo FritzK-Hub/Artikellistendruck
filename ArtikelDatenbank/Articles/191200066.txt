@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>fahrbarer Kugelgrill Margherita aus Metall</li><li>inklusive Pizzaring aus Edelstahl und Pizzastein</li><li>mit ansprechendem Design durch kupferfarbige Haube</li><li>Räder und Griff für einen einfachen Transport</li><li>Holzkohlegrill mit einstellbaren Lüftungen<br/></li></ul>"
+}

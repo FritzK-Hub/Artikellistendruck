@@ -1,0 +1,4 @@
+{
+    "uvp": 69.99,
+    "attributes": "<ul><li>automatisches Aufrollen für einfachen Gebrauch</li><li>robuste Materialien bieten lange Haltbarkeit</li><li>einfache Wandmontage zur stabilen Befestigung</li><li>kompakte Lösung fördert Ordnung im Garten</li><li>vielseitig einsetzbar mit Gartenspritze</li></ul>"
+}

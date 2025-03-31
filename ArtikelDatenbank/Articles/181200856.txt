@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatband Cocktailtomate Ildi ca. 2 Meter Saatband</li><li>mit kleinen, birnenförmigen, zuckersüßen Früchten</li><li>ist eine ertragreiche Tomatensorte mit gelben Früchten</li><li>bis zu 150 Früchten pro Pflanze ist keine Seltenheit</li><li>ideal für den Frischverzehr oder zur Garnierung geeignet<br/></li></ul>"
+}

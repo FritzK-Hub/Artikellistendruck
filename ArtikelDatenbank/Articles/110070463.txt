@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Streichhölzerin extralanger Ausführung, 20 cm lang</li><li>50 Stück für Grill, Kamin und Ofen</li><li>brennstarke Grillanzünder mit Zündkopf</li><li>Reibefläche am Boden für leichteres anzünden</li><li>verschafft dir mehr Zeit die Holzkohle zu entzünden</li></ul>"
+}

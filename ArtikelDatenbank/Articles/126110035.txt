@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Rasentrimmer-Ersatzspule</li><li>aus Kunststoff gefertigt</li><li>für das Trimmen von Rasenkanten und an schwer zugänglichen Stellen</li><li>einfache Montage am Schneidkopf</li><li>Spule mit rundem Profil<br/></li></ul>"
+}

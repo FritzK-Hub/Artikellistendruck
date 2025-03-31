@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>stabiles Schubkarrenrad auf Metallfelge</li><li>luftbereift, inklusive Schlauch</li><li> mit Profil für besseres Fahrverhalten</li><li>bis zu 150 kg max. belastbar</li><li>sofort einsatzbereit<br/></li></ul>"
+}

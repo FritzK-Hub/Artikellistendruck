@@ -1,0 +1,4 @@
+{
+    "uvp": 129.0,
+    "attributes": "<ul><li>Alarmfunktion (automatische E-Mail und Push-Nachricht)</li><li>Konfiguration per Access Point oder WiFi-Verbindung / einfache \"do-it-yourself\" Installation</li><li>geschützt vor Strahlwasser - Staub und Berührung (IP65)<br/></li><li>Videoauflösung 1280x720 HD mit 5-25fps (720p)</li><li>EIN-/AUS Schalten des Lichtes via APP möglich</li><li>unterstützt MicroSD-Karten bis zu 64GB</li></ul>"
+}

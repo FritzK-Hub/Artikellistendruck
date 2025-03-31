@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Abflussreiniger in flüssiger Form</li><li>reinigt selbsttätig jeden Abfluss</li><li>beseitigt zuverlässig Verstopfungen</li><li>kurze Einwirkzeit von ca. 30 Minuten</li><li>für normale bis hartnäckige Verstopfungen<br/></li></ul>"
+}

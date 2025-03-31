@@ -1,0 +1,4 @@
+{
+    "uvp": 16.49,
+    "attributes": "<ul><li>langanhaltender Schutz vor Wasser und Schmutz</li><li>atmungsaktive Oberfläche für gesundes Raumklima</li><li>vielseitig einsetzbar auf stark beanspruchten Flächen</li><li>schnelle Trocknung ermöglicht zügige Weiterbearbeitung</li><li>robuster Holzschutz für dauerhafte Belastbarkeit</li></ul><p></p>"
+}

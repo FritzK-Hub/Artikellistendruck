@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Holzleim, Kaltleim für innen</li><li>zur Montageverleimung von Holz</li><li>gebrauchsfertig in der Farbe weiß</li><li>schnelltrocknender Leim</li><li>zum Verkleben von Pappe, Bildern, Leder und Textilien</li></ul>"
+}

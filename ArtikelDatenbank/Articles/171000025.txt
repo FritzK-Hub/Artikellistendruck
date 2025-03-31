@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>Alpinaweiß Wandfarbe im 10 Liter Eimer</li><li>perfekt für eine angenehme Raumluft</li><li>zur dekorativen Gestaltung auf stumpfmatten Oberflächen</li><li>strapazierfähig, geruchsneutral und atmungsaktiv</li><li>ist eine scheuerbeständige und hochdeckende Farbe<br/></li></ul>"
+}

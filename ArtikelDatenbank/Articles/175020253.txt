@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>Winkelschleifer 125 mm mit 800 Watt Aufnahmeleistung</li><li>mit Metallgetriebekopf</li><li>Trennschneider mit Spindelarretierung</li><li>Zusatzhandgriff in 3 Positionen montierbar</li><li>für Scheiben mit einem Durchmesser von 125 mm geeignet</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>zuverlässiges Werkzeug für jeden Profi- oder Hobbyhandwerker</li><li>bietet erstklassige Schnittergebnisse und schneidet sauber und präzise</li><li>besonders langlebig durch niedrige, thermische Belastung des zu schneidenden Materials</li><li>vielseitig für verschiedene Natursteine, Beton, Fliesen oder Ziegel einsetzbar</li><li>lässt sich schnell und einfach an die T-Raxx Tauchsäge montieren<br/></li></ul>"
+}

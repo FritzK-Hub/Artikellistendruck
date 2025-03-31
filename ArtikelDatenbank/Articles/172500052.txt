@@ -1,0 +1,4 @@
+{
+    "uvp": 3.39,
+    "attributes": "<ul><li>abgewinkelter SAT-Adapter zum Aufschrauben</li><li>Anschlüsse F-Stecker und F-Kupplung</li><li>für die Verbindung von zwei SAT-Antennenkabeln</li><li>platzsparender 90°-Stecker</li><li>zum Anschluss auf engstem Raum</li></ul>"
+}

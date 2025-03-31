@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Paneelwagen in Weiß</li><li>aus Kunststoff gefertigt</li><li>für Flächenvorhang-Systeme</li><li>passt z. B. auch in Gardinenstangen mit Innenlaufprofil 13 oder 16 mm</li><li>inklusive Klettband, Gleiter und Beschwerungsprofil<br/></li></ul>"
+}

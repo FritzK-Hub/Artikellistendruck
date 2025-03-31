@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>2in1 Weißlack auf Wasserbasis in Reinweiß, glänzend</li><li>für den klassischen Look auf allen Oberflächen</li><li>ist PU-Verstärkt, schnelltrocknend und deck- wie haftstark</li><li>ideal für den Innen- und Außenbereich</li><li>geruchsarm und sorgt für ein gutes Oberflächenfinish</li></ul>"
+}

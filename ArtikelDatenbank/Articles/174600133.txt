@@ -1,0 +1,4 @@
+{
+    "uvp": 35.99,
+    "attributes": "<ul><li>flexible Montagemöglichkeiten</li><li>einfache Installation</li><li>großzügiger Stauraum</li><li>hochwertige Materialien</li><li>hohe Belastbarkeit<br/></li></ul>"
+}

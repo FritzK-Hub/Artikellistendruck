@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Gartenhandschuhe für Herren Größe 11</li><li>erhältlich in verschiedenen Farben</li><li>ermöglicht eine reibungslose Gartenarbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>angenehmer Komfort bei der Arbeit<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.79,
+    "attributes": "<ul><li>Kabeleinziehhilfe aus Kunststoff</li><li>Einziehspirale mit Suchfeder und Öse</li><li>zum Einziehen von Leitungen in Leerrohre</li><li>Einziehband mit massiven Metallendstücken</li><li>einfache Verwendung</li></ul><p><br/></p>"
+}

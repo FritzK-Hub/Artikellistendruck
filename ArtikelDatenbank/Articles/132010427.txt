@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li> LED-Leuchtschlauch für Hunde </li><li> einstellbare Blink- und Dauerbeleuchtung </li><li> wiederaufladbarer Akku über USB </li><li> für Halsweiten von 20 - 70 cm </li><li> kürzbares Hundehalsband </li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>hohe Qualtität von Alpina</li><li>deckkräftig und farbintensiv</li><li>besonders atmungsaktiv, tropfbeständig und umweltfreundlich</li><li>wasserverdünnbar und äußerst strapazierfähig</li><li>für trockenen, festen und tragfähigen Untergrund geeigne<br/></li></ul>"
+}

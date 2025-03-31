@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>universell verwendbarer Faltenbalg für Auflaufvorrichtungen</li><li>schützt vor Staub, Schmutz und Feuchtigkeit</li><li>einfach zu befestigen, mit Kabelbinder oder Schlauchschellen</li><li>langlebig, aus robustem Gummi hergestellt</li><li>passen für Auflaufvorrichtungen mit 53 bzw. 55 mm Rohren<br/></li></ul>"
+}

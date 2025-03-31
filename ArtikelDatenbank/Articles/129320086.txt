@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>exquisite Geschmackssorte</li><li>frischgrüne Köpfe</li><li>leichte Pflege</li><li>langlebig &amp; robust</li><li>ertragreiche Ernte<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>runder Nippelspanner aus Metall</li><li>zum Nachziehen von Speichen</li><li>für alle Nippelmaße mit Maulweite 8G, 10G, 11G, 12G, 13G, 14G</li><li>Spezialwerkzeug zum Spannen von Radnippel</li><li>Speichenschlüssel mit 6 Einschnitten</li></ul>"
+}

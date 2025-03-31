@@ -1,0 +1,4 @@
+{
+    "uvp": 593.95,
+    "attributes": "<ul><li>    Mülltonnenbox sehr robust und langlebig    </li><li>aus wetterfestem Polyrattan mit enger und hochwertiger Flechtung    </li><li>Deckel und Front lassen sich öffnen    </li><li>mit stabiler Rückwand</li><li>    klappbarer Deckel mit Kette zum Öffnen der Mülltonne</li></ul>"
+}

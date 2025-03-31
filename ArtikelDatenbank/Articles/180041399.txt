@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>entfernt Unkraut mitsamt der Wurzel</li><li>aus Stahl mit verzinkter Oberfläche</li><li>besonders langlebig, unempfindlich gegen Schmutz</li><li>halte nachhaltig den Rasen oder Wiese frei von Unkraut</li><li>rutschfester 2K-Griff für optimale Handhabung<br/></li></ul>"
+}

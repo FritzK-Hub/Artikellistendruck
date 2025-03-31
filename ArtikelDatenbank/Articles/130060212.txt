@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Kompressen von Wundmed</li><li>schützen ohne an der Wundstelle zu haften</li><li>Abdeckung von Wunden</li><li>Erstversorgung bei stark blutenden Verletzungen</li><li>aus 100% Baumwolle</li></ul>"
+}

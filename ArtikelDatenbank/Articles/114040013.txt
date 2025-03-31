@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Papiertischdecke auf Rolle in Bayrisch Blau</li><li>mit Damast-Prägemuster</li><li>beliebig zuschneidbar</li><li>hochwertiges Papier</li><li>ideal für ein bayrisches Fest</li></ul>"
+}

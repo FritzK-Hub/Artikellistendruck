@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Gartenrechen mit 30 Zinken</li><li>mit einer Arbeitsbreite von ca. 76cm</li><li>in der Farbe rot, aus Kunststoff</li><li>mit einem robustem Holzstiel</li><li>Stieldülle mit einem Durchmesser von ca. 2,1cm</li></ul>"
+}

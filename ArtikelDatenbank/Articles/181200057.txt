@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatgut Feldsalat Verte à coeur plein, 2 Meter Saatband</li><li>starkwüchsig, vitaminreich, sehr winterfest</li><li>wichtiger Vitaminspender in der kalten Jahreszeit</li><li>bildet ein dunkelgrünes, volles Herz</li><li>für herzhafte Salate oder Beilagen<br/></li></ul>"
+}

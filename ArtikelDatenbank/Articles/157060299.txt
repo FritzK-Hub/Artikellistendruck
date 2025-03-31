@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Terpentin-Ersatz zum Säubern und Verdünnen</li><li>für Farben und Lacke auf Kunstharz- und Ölbasis</li><li>zur Behandlung von Parkett- und Linoleumfußböden geeignet</li><li>verdunstet rückstandslos</li><li>sehr guter Verlauf durch langsame Verdunstungszeit</li></ul>"
+}

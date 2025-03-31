@@ -1,0 +1,4 @@
+{
+    "uvp": 11.49,
+    "attributes": "<ul><li>Schaufelstiel mit 110 cm Länge</li><li>aus massivem Eschenholz gefertigt</li><li>passender Ersatzstiel für Schaufel oder Spaten</li><li>gebogene Form mit T-Griff</li><li>elastisch, abriebfest und zäh<br/></li></ul>"
+}

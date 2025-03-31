@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>einkomponentiger Montageschaum für handelsübliche PU Schaumpistole</li><li>Dämmschaum mit hoher Ausbeute für innen und außen</li><li>zum Befestigen von Wasser- und Heizungsrohren geeignet</li><li>haftet auf vielen Baumaterialien</li><li>feuchtigkeitshärtend und gut dosierbar</li></ul>"
+}

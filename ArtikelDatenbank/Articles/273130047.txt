@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Gabel-Ring-Schlüssel Set 6-teilig</li><li>praktische Halterung aus Kunststoff<br/></li><li>aus Chrom-Vanadium-Stahl hergestellt</li><li>lange Lebensdauer im täglichen Werkstatteinsatz</li></ul>"
+}

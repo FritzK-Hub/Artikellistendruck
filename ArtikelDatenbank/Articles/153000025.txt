@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>Fußmatte Kombi Monsun 2in1 für intensiv genutzte Räume</li><li>Matte ist in zwei Hälften eingeteilt</li><li>besteht aus einem Schuhabstreifer und einer Schuhablage</li><li>für den Innen- als auch Außenbereich geeignet</li><li>lässt sich leicht reinigen und ist abwaschbar</li></ul>"
+}

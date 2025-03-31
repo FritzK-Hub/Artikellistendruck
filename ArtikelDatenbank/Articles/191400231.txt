@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>individuell kombinierbare Leuchtaccessoires für Partys</li><li>lang anhaltende Leuchtkraft in intensiven Farben</li><li>flexibel und bequem für jedes Alter</li><li>einfach zu aktivieren, sofort einsatzbereit</li><li>ideal für fröhliche, farbenfrohe Events</li></ul>"
+}

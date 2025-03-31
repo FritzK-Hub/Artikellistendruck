@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>hochwertiges Klemmschloss aus Metall</li><li>ideal für Camping, Freizeit, Haus und Garten</li><li>robustes Gurtmaterial, vielseitig einsetzbar</li><li>Spanngurt in Profiqualität von GERMANIA®</li></ul>"
+}

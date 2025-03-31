@@ -1,0 +1,4 @@
+{
+    "uvp": 36.95,
+    "attributes": "<ul><li>9-teiliges Set im PVC-Koffer</li><li>bestehend aus Meisselhammer und verschiedenen Sechskantmeisseln</li><li>leistungsstarkes Gerät mit zwangsgeführtem Meissel durch Sechskantschaft</li><li>geeignet z. B. für Steinbearbeitung, z. B. zum Aufstemmen von Schlitzen zur Elektroinstallation</li><li>zum Entfernen von Nietköpfen, Trennen von Blechen und Punktschweißungen</li></ul>"
+}

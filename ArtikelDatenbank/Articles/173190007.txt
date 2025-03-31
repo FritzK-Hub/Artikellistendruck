@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Lampenfassung E27 bis maximal 100 W belastbar</li><li>aus Metall mit Schraubring</li><li>Befestigung mit Metallgewindebuchse M10 x 1 mm</li><li>Kunststoffstein mit zusätzlicher Erdungsschraube</li><li>max. Temperatur der Fassung T 240° C</li></ul>"
+}

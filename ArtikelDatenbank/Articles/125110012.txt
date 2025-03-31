@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>kraftvolles Zweifach-Wirksystem</li><li>breites Anwendungsspektrum</li><li>Glyphosatfrei und bienenfreundlich</li><li>effektiv gegen Hartnäckiges</li><li>unkomplizierte Anwendung<br/></li></ul>"
+}

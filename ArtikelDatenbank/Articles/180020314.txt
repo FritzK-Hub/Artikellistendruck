@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>dient zur Verbindung zwischen Gartenschlauch und Wasserhahn</li><li>unterstützt die flexible Wasserversorgung im Haus, Hof oder Garten</li><li>auch mit anderen Wassersystemen kompatibel </li><li>besitzt ein kompaktes Design und ein 1“ Innengewinde</li><li>erleichtert das schnelles Abkoppeln und Umstecken des Schlauches<br/></li></ul>"
+}

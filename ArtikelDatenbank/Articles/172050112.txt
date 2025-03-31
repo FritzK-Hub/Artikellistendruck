@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>zum Betreiben vom Haushaltsgeräten oder Lampen</li><li>mit zwei USB-A- und einem USB-C-Anschluss versehen</li><li>dient auch zum Aufladen von Smartphones oder Tablets</li><li>besonders langlebig dank robustem Kunststoffgehäuse</li><li>fügt sich dank modernes Design in dein Wohnbereich ein</li></ul>"
+}

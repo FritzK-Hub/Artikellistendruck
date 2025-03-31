@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Fahrrad Luftpumpenhalterung in Einheitsgröße</li><li>passend für alle gängigen Handpumpen</li><li>geeignet für verschiedene Rahmenpositionen</li><li>mit 2 Gummihaltebändern</li><li>universelle Fahrradpumpen-Halterung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Glasreiniger 1 Liter in der handlichen Sprühflasche</li><li>zur Reinigung von Glasscheiben oder glatten, abwaschbaren Oberflächen </li><li>reinigt gründlich, schlierenfrei und schonend</li><li>entfernt mühelos hartnäckige Rückstände</li><li>ideal für Spiegel, Kacheln oder Fensterscheiben<br/></li></ul>"
+}

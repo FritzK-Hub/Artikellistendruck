@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>CEE-Verlängerungskabel mit 1,5 m Länge</li><li>mit einem geraden 230 V Stecker versehen</li><li>für typische Anschlüsse auf Campingplätzen in Südeuropa </li><li>widerstandsfähiges H07RN-F Kabel mit 3 x 2,5 mm²</li><li>ist dank Schutzart IP44 spritzwassergeschützt<br/></li></ul>"
+}

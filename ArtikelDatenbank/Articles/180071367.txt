@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>spezieller Blumentopf für Orchideen</li><li>in transparenter Farbe für genügend Lichtzufuhr</li><li>mit Topfabstandshalter innen</li><li>genügend Platz für die Luftwurzeln</li><li>keine Öffnungen im Topfboden</li></ul>"
+}

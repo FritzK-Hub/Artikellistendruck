@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Art: Fensterschraube (auch Fensterrahmenschraube oder Rahmenschraube genannt)</li><li>Antrieb: Innenvielzahn (IVZ) / T-Profil (TX)</li></ul>"
+}

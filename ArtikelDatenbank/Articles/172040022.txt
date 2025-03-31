@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Schutzschalter reagiert blitzschnell auf Fehlerströme</li><li>mit Überwachung aller Phasen und des Neutralleiters</li><li>Auslösezeit im Millisekundenbereich bietet Schutz vor Stromunfällen</li><li>für mittlere bis größere Verbraucher in Wohnhäusern oder Unternehmen</li><li>unkomplizierte Installation für vielseitige Elektroinstallationen<br/></li></ul>"
+}

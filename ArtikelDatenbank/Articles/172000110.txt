@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    für SAT-Antennensteckdose Art.-Nummer 43771 oder/nAntennendose Art.-Nummer 43767,/nmit Befestigungsschraube\"\"/n                "
+}

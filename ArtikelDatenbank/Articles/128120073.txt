@@ -1,0 +1,4 @@
+{
+    "uvp": 599.0,
+    "attributes": "<ul><li>exclusive Loungebett Ibiza aus wetterfestem Polyrattan in Anthrazit</li><li>überspannt von einem flexibel anpassbaren Sonnendach</li><li>für erholsame Stunden im Garten, Veranda oder Balkon</li><li>bietet ausreichend Platz für zwei Personen</li><li>inklusive vier Kissen, zwei Hockern und vier Sitzauflagen<br/></li></ul>"
+}

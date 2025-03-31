@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>hochwertiger HDMI-Adapter</li><li>HDMI A Buchse und HDMI C (mini) Stecker</li><li>vergoldete Kontakte</li><li>optimale Signalübertragung, ohne Qualitätsverluste</li><li>einfaches und schnelles Verbinden möglich</li></ul>"
+}

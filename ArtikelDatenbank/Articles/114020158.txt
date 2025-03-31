@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>praktisches, wasserfestes Vorhängeschloss </li><li>besonders hochwertig verarbeitet</li><li>hervorragend zum Sichern von Taschen, Gepäck oder Schränken</li><li>einfache Bedienung</li><li>automatische Verriegelung durch Herunterdrücken des Bügels<br/></li></ul>"
+}

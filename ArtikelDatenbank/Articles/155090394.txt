@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>hohe Signalqualität</li><li>einfache Montage</li><li>vielseitige Einsatzmöglichkeiten</li><li>platzsparende Installation</li><li>langlebige und stabile Konstruktion<br/></li></ul>"
+}

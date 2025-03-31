@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Oregon Ersatzschwert für Hochentaster</li><li>passend für Güde® Astkettensägen GAK 600, GAK 650, GAK 1000</li><li>besitzt eine Schwertlänge von 24 cm</li><li>liefert eine besonders gute Schnittleistung</li><li>schneller Ersatz für die stumpfe Kette<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Kugellampe R5W</li><li>2 Stück im Set</li><li>für die KFZ-Rückleuchte</li><li>12 Volt Betriebsspannung</li><li>entspricht E4</li></ul>"
+}

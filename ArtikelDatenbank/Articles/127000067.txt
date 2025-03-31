@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Obstpflücker Ø 13 cm mit Teleskopstiel</li><li>passendes Werkzeug für die nächste Obsternte</li><li>erleichtert die Ernte von Obst, ohne das diese vom Baum fallen</li><li>eingekerbter Rand und Baumwollbeutel</li><li>verstellbarer Stiel erreicht eine Länge von 1,65 m bis 3 m<br/></li></ul>"
+}

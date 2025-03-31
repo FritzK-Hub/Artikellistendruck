@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>für Abwasserrohre DN 110</li><li>sicherer Halt an Wänden und Decken </li><li>einfache Montage per Dübel</li><li>aus Eisen, verzinkt</li><li>mit Schalldämmung</li></ul>"
+}

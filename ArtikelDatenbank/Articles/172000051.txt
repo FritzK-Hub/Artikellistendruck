@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Steckdose von LE MANS</li><li>mit Kindersicherung</li><li>für den Einbau als Unterputzdose</li><li>Einbausteckdose in alpinweiß</li><li>einfacher Anschluss dank Steckklemmen</li></ul>"
+}

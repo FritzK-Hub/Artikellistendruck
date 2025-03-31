@@ -1,0 +1,4 @@
+{
+    "uvp": 209.0,
+    "attributes": "<ul><li>leistungsstarke Motorhacke mit 1500 W Elektro-Motor und 24 Messern</li><li>zuverlässiges Werkzeug für Bodenarbeiten in kleinen bis mittleren Gärten oder Blumenbeeten</li><li>vielseitig für Neuanlagen, Bodenlockerungen oder zur Vorbereitungen von Aussaaten</li><li>benutzerfreundlicher dank integriertem Sofort-Start, der ein ungewolltes Starten verhindert</li><li>bei Nichtgebrauch platzsparend zusammenklappbar und leichter beim Transport<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Pfostenkappe flach 71 x 71 mm für Kantholz-Zaunpfosten</li><li>aus massivem, rostfreiem Stahl gefertigt</li><li>einfache Befestigung (seitliche Verschraubung)</li><li>ideal zur Verschönerung von Zaunpfosten</li><li>schützt die Oberseite von Kantholzpfosten vor Witterungseinflüssen</li></ul>"
+}

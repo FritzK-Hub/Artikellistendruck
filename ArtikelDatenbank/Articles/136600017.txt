@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>hochwertiges 11-teiliges Messer-Set</li><li>für Schneidegut aller Art (Fleisch, Käse, Gemüse)</li><li>scharfes Messerset mit Edelstahlklingen</li><li>ergonomisch geformte Griffe</li><li>inklusive Schneidbrett und Messerschärfer<br/></li></ul>"
+}

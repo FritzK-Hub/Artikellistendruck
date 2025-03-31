@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>für Räume mit einer Fläche bis 20 m²</li><li>kein Stromanschluss erforderlich</li><li>Wirkungsdauer pro Tab bis zu 3 Monaten</li><li>Tab inklusive</li><li>einfache und sichere Bedienung und Reinigung</li></ul>"
+}

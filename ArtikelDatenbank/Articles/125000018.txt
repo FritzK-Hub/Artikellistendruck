@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>vitalisierender Rasendünger für 80 m²</li><li>für einen gesunden und dichten Rasen</li><li>stärkt die Rasenwurzeln</li><li>ideal für Mähroboter</li><li>schneller Grüneffekt</li></ul>"
+}

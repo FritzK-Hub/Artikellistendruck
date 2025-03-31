@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>effiziente Reinigung</li><li>hohe Langlebigkeit</li><li>ergonomischer Griff</li><li>kompakte Größe</li><li>vielseitig einsetzbar</li></ul>"
+}

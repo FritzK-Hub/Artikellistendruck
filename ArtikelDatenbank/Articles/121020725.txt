@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>selbstklebendes Türschild</li><li>mit silbernen Hintergrund</li><li>schwarzer Schriftzug und rotes Symbol</li><li>mit Schriftzug \"kein Eingang\" und Symbol \"Durchgang verboten\"</li></ul>"
+}

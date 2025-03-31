@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>geeignet für Hand- und Ständerbohrmaschinen</li><li>mit Zentrierdorn für ein punktgenaues Ansetzen und splitterfreie Bohrungen</li></ul>"
+}

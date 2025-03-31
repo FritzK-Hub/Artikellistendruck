@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Strohblumenmischung für ca. 80 Pflanzen</li><li>für die Trockenbinderei bestens geeignet</li><li>in Kränzen oder Tischdekorationen einsetzbar</li><li>ist in verschiedenen Farbnuancen</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

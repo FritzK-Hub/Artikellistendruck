@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>geeignet für Wand- und Dispersionsfarben</li><li>Basis-Qualität für einfache Streicharbeiten</li></ul>"
+}

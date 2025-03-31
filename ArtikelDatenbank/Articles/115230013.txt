@@ -1,0 +1,4 @@
+{
+    "uvp": 16.09,
+    "attributes": "<ul><li>Knauf Uniflott zum Verspachteln von Gipsplatten</li><li>für die Anwendung in Feuchträumen</li><li>wasserabweisend und farblich grün angepasst</li><li>dank geschmeidiger Konsistenz gut zu verarbeiten</li><li>trocknet schnell und haftet sehr gut </li></ul>"
+}

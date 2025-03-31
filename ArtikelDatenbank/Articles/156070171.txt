@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Farbrolle für alle Wandfarben</li><li>gute Farbaufnahme und Abgabe</li><li>beste Materialabdeckung</li><li>gleichmäßiges Streichergebnis</li></ul>"
+}

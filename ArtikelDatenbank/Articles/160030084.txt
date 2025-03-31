@@ -1,0 +1,4 @@
+{
+    "uvp": 4.39,
+    "attributes": "<ul><li>nahtloser Montagehandschuh mit PPU-Nitrilbeschichtung</li><li>besonders robust und atmungsaktiv</li><li>hoher Tragekomfort und optimale Fingerfertigkeit</li><li>gute Beständigkeit gegen Öle und Fette</li><li>schützt angenehm und leicht<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>selbsttätiger Rostlöser</li><li>beste Kriecheigenschaften</li><li>gute Schmierwirkung</li><li>pflegt und konserviert</li><li>einfache und praktische Anwendung</li></ul>"
+}

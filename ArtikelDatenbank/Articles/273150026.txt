@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Bezeichnung: T15 x 100mm</li><li>Kopf: T- Profil (IVZ)</li><li>magnetische Spitze</li><li>Griff: Kunststoff - rutschfest gummiert</li><li>Qualität von GERMANIA® Qualitätswerkzeuge</li></ul>"
+}

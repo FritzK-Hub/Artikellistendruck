@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Straßenmalkreiden für kreativen Spielspaß</li><li>im Set sind 6 Stifte in verschiedenen Farben</li><li>ideal für buntes und kreatives Spielen</li><li>das perfekte Geschenk für kreative Kinder</li><li>für Straßen und Plätze geeignet<br/></li></ul>"
+}

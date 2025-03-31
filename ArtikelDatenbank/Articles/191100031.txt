@@ -1,0 +1,4 @@
+{
+    "uvp": 369.95,
+    "attributes": "<ul><li>Auskleidung aus robustem DuraPlus-Material</li><li>einfache Montage ohne Werkzeug</li><li>extrem stabile Rahmenkonstruktion mit Korrosionsschutz</li><li>inkludierte Filterpumpe sorgt für Sauberkeit<br/></li><li>integriertes Ablassventil mit Gartenschlauchadapter</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.39,
+    "attributes": "<ul><li>abgewinkelter Koaxial-Stecker</li><li>schraubbarer Innenleiter</li><li>stabile Konstruktion</li><li>verhindert Knicke im Antennenkabel</li><li>offener Koax-Stecker für Digital-TV</li></ul>"
+}

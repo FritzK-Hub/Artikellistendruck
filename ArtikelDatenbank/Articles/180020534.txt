@@ -1,0 +1,4 @@
+{
+    "uvp": 6.79,
+    "attributes": "<ul><li>praktisches Shampoo-Ringe-Set 9 Stück</li><li>speziell für das Beimischgerät des Gardena Cleansystem </li><li>zur effektiven Reinigung von Lack- und Kunststoffoberflächen</li><li>ein Ring reicht für ca. 40 Liter Wasser aus. </li><li>extra Anmischen von Putzwasser entfällt</li></ul>"
+}

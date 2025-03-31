@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>sparsame Beleuchtung von Wohnräumen, reduziert Stromkosten</li><li>hohe Farbwiedergabe, angenehme Wohlfühlatmosphäre</li><li>längere Lebensdauer im Vergleich zu herkömmlichen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>garantiert gleichmäßige Lastverteilung und sorgt für stabilere Konstruktionen</li><li>besonders langlebig und stabil, aus rostfreiem Edelstahl gefertigt</li><li>erleichtert die Montage, reduziert die Reibung zwischen der Schraube und der Oberfläche</li><li>verhindern ein ungewolltes Lösen der Verbindung durch Vibration oder Reibung</li><li>schützt vor Beschädigungen und Verformungen, vermindert den Druck auf der Schraube</li></ul>"
+}

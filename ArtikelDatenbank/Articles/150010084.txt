@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Putzpapier-Rolle aus Viskose und Polyester</li><li>Universell in der Werkstatt, Küche oder Haushalt einsetzbar</li><li>passend für Werkzeuge oder Öle und Fette</li><li>50 Blatt mit je 40 x 20 cm</li><li>besonders reißfest und saugstark<br/></li></ul>"
+}

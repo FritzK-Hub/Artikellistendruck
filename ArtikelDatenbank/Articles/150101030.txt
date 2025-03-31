@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>Scheibenwischer Aerotwin KSN AR18U 45 cm</li><li>aus flexiblem Kunststoff mit Graphitüberzug</li><li>zur Nachrüstung für Fahrzeuge ohne Flachbalkenwischer</li><li>optimale Anpassung an die Fahrzeugscheibe durch gebogene Form</li><li>inklusive Multiadapter<br/></li></ul>"
+}

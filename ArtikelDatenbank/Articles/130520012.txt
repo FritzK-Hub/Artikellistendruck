@@ -1,0 +1,4 @@
+{
+    "uvp": 34.99,
+    "attributes": "<ul><li>Auto-Handstaubsauger beutellos mit 12 W </li><li>zur einfachen Reinigung des komletten Autos</li><li>auswaschbarer Filter, keine Staubsaugerbeutel mehr notwendig</li><li>einfache Handhabung, geringes Eigengewicht</li><li>inklusive Fugen-wie Polsteraufsatz und 4 m Netzkabel mit KfZ-Anstecker<br/></li></ul>"
+}

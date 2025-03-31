@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Dekofigur Hase stehend aus Dolomit</li><li>schafft eine osterliche Atmosphäre</li><li>eine vielseitig einsetzbare Osterdekoration</li><li>bei schöner Gestaltung ein echter Blickfang</li><li>sage deinen Gästen dekorativ Frohe Ostern<br/></li></ul>"
+}

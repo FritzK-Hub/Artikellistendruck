@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>robuste Materialqualität</li><li>elegantes Design</li><li>universelle Kompatibilität</li><li>einfache Montage</li><li>zuverlässige Funktionalität<br/></li></ul>"
+}

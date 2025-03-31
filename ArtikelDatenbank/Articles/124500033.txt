@@ -1,0 +1,4 @@
+{
+    "uvp": 799.0,
+    "attributes": "<ul><li>Abwassertank aus einem Stück</li><li>mit DIBT-Zulassung Z-40.24-140</li><li>inkl.begehbarer Abdeckung und angeformtem Dom</li><li>Anschluss nach DN 100 per Gummilippendichtung</li><li>formstabil und materialbeständig</li></ul>"
+}

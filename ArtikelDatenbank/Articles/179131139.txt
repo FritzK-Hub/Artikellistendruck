@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>effektiver Schutz für Kopf, Gesicht und Ohren</li><li>hoher Tragekomfort durch 4-Punkt-Aufhängung</li><li>Kapselgehörschutz mit hohem Isolationswert</li><li>mit Größeneinstellung für optimalen Sitz</li><li>Drahtvisier mit Gelenk zum Hoch- und Herunterklappen</li></ul><p><br/></p>"
+}

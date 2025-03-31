@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>aus hochwertigem HSS-Stahl gefertigt</li><li>hohe Verschleißfestigkeit und Langlebigkeit</li><li>entspricht der DIN 335 Norm und ist für den professionellen Einsatz geeignet</li><li>hat einen Winkel von 90° und eignet sich daher ideal zum Senken und Entgraten von Bohrlöchern</li><li>hochpräzise Fertigung garantiert gleichmäßige Schneidleistung für sauberen und präzise Ergebnisse</li></ul><p></p>"
+}

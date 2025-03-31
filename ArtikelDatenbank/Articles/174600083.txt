@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>funktionelles Drahtregal mit 2 Etagen aus Chrom</li><li>zwei halbrunde Ablagekörbe für alle Duschutensilien</li><li>mit zwei Haken für Waschhandschuhe oder Tücher</li><li>mit beweglicher Aufhängung</li><li>passend zu jeder Badeinrichtung, dank schlichtem Design<br/></li></ul>"
+}

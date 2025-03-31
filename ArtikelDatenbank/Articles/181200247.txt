@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> Packung Saatgut für ca. 8 - 10 lfd. Meter </li><li> für die Kultivierung im Freiland oder Gewächshaus geeignet </li><li> zum Frischverzehr geeignet, oder für Salate </li><li> leuchtend dunkelrosa Farbe </li><li> festes und zartes Fleisch </li></ul> </div>"
+}

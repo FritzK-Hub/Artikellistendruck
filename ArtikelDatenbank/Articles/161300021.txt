@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>praktischer Wanderrucksack in Schwarzgrün</li><li>besitzt 45 Liter Fassungsvermögen</li><li>perfekter Begleiter für längere Rad- oder Wandertouren</li><li>hält alles Wesentliche an einem Ort</li><li>für Outdoor-Abenteuer unverzichtbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>10 Reinigungstabs Tabs</li><li>schnelle Reinigung deiner Kaffeemaschine</li><li>für Kaffemaschinen und Kaffeevollautomaten</li><li>sorgen für einwandfreie Funktion deiner Kaffeemaschine</li><li>regelmäßig angewandt verbessern sie den Geschmack von Espresso und Kaffee<br/></li></ul><p></p>"
+}

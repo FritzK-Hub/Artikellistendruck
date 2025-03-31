@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Geschirrspüler Deo mit der 2-fach Wirkung</li><li>beseitigt Spülgeruch</li><li>erfrischt die Luft mit angenehmen Duft</li><li>2 Gerüche: lemon oder orange</li><li>extra stark<br/></li></ul>"
+}

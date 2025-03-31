@@ -1,0 +1,4 @@
+{
+    "uvp": 9.76,
+    "attributes": "<ul><li>Abdeckung für TAE-Dosen (Telefondosen)</li><li>aus hochwertigem Kunststoff in chrom</li><li>klassisches Design mit matter Oberfläche</li><li>nur in Verbindung mit TAE-Dose der Serie Arcada</li><li>nur in Kombination mit Rahmen der Serie Arcada<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>ermöglicht einen festen Einbau von Zurrmulden in dein Fahrzeug </li><li>besonders langlebig und korrosionsbeständig, aus verzinktem Stahlblech gefertigt</li><li>vier Bohrlöcher ermöglichen eine einfache und schnelle Montage</li><li>vielseitig einsetzbar für LKW, Transporter oder Anhänger</li><li>garantiert eine sichere Befestigung und Transport deiner Ladung<br/></li></ul>"
+}

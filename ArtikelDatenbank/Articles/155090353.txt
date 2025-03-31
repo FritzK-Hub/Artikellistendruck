@@ -1,0 +1,4 @@
+{
+    "uvp": 0.49,
+    "attributes": "<ul><li>EN25 Muffe aus PVC mit einem 25mm Innendurchmesser</li><li>in zum Isolierrohr passender hellgrauer Farbe</li><li>zum Verbinden von starren Isolierrohren</li><li>die Muffe ist temperaturbeständig von -5° C bis +60° C</li><li>für Aufputzmontage<br/></li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Kugelgrill Atlanta fahrbar aus emailliertem Metall</li><li>verchromte Grillfläche von 41,5 cm</li><li>Luftzugregulierung ermöglicht manuelle Steuerung der Glutwärme</li><li>Ascheauffangbehälter erleichtert die Reinigung</li><li>Räder und Griffe für einen einfachen Transport<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>GERMANIA® Winter-Montagehandschuhe Größe 7 aus Acryl und Elasthan mit Nitrilbeschichtung</li><li>besitzt einen angenehmen Komfort und sicheren Griff auch bei glatten Gegenständen</li><li>ideal für Reparatur- und Montagearbeiten bis hin zu Lagertätigkeiten</li><li>doppeltes Trägermaterial hält die Hände bis 0 Grad schön warm</li><li>stets optimale Fingerfertigkeit mit sicherem Halt</li></ul>"
+}

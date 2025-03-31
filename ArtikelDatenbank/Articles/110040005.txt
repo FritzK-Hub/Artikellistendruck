@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>10 x Abfallsäcke auf Rolle</li><li>extra starke Ausführung</li><li>aus umweltfreundlichem Polyethylen hergestellt</li><li>dehn- und widerstandsfähig gegen Risse</li><li>verhält sich grundwasserneutral</li></ul>"
+}

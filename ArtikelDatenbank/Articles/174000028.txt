@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>vielseitige Duschkontrolle</li><li>hochwertiges Chromdesign</li><li>einfache Installation</li><li>robuste Bauweise</li><li>erhöhter Duschkomfort<br/></li></ul>"
+}

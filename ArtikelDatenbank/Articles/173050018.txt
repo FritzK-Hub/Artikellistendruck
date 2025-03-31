@@ -1,0 +1,4 @@
+{
+    "uvp": 13.8,
+    "attributes": "<ul><li>hochwertiger, 37-teiliger Bitsatz</li><li>Bits und Stecknüsse in 25mm und 50mm Länge</li><li>ideal für Industrie und Haushalt</li><li>in praktischer Kunststoffbox</li><li>inklusive einer Magnet-Verlängerung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li>leistungsstarker Benzin-Stromerzeuger CPG 2200</li><li>ideal für einfache Stromversorgung auf Baustellen</li><li>auch als Notstromaggregat für die wichtigsten Heimgeräte verwendbar<br/></li><li>mit maximal 2200 W Dauerleistung für die meisten Verbraucher geeignet</li><li>auch für dreiphasige Kraftstromverbraucher und 12 Volt Geräte geeignet<br/></li></ul>"
+}

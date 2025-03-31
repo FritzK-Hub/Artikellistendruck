@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Größe des Sägeblatts: 180 mm</li><li>Zahnung dreiseitig geschliffen</li><li>gehärtete Klappsäge</li><li>schneidet auf Zug und Stoß</li><li>Anti Rutsch Griff mit Handschutz</li><li>Klappsäge für extrem feine Schnitte</li><li>Farbe kann abweichen</li></ul>"
+}

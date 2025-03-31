@@ -1,0 +1,4 @@
+{
+    "uvp": 18.6,
+    "attributes": "<ul><li>Zündkerzenschlüssel mit T-Griff</li><li>durch Kardangelenk einschwenkbar</li><li>mit kunststoff-isoliertem Griff</li><li>für schwer zugängliche Bereiche</li><li>gute Kraftübertragung durch T-Griff<br/></li></ul>"
+}

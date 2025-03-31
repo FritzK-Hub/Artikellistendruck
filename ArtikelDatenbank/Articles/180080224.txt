@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Dachrinne 2 m in Braun</li><li>aus stabilem PVC gefertigt</li><li>hochwertige Verarbeitung</li><li>effizienter Abfluss von Regenwasser</li><li>gerade Ausführung mit einfacher Installation <br/></li></ul>"
+}

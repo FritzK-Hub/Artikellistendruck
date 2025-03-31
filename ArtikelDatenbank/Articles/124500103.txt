@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>Komplettset für sofortige Einsatzbereitschaft</li><li>flexibel durch individuell bohrbare Löcher</li><li>sicherer Schutz durch verschließbaren Deckel</li><li>effektive Regenwasserfilterung mit Rinnensieb</li><li>stabiler Sockel zur komfortablen Wasserentnahme</li></ul>"
+}

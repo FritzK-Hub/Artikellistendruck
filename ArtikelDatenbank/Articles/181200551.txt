@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Saatgut Serradella, einjährig</li><li>Stickstoffsammler und Bodenverbesserer</li><li>tief in den Boden reichendes Wurzelsystem</li><li>Probefeldgetestete Qualität</li><li>rein biologische Bodenverbesserung und Bodenanreicherung<br/></li></ul>"
+}

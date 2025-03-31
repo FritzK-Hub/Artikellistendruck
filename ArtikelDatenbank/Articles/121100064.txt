@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Pflanzenroller aus hochwertigem Kunststoff</li><li>zum einfachen Verschieben von großen Zimmerpflanzen<br/></li><li>auch als Rollbrett oder Möbelroller für leichtere Möbel geeignet</li><li>solide Ausführung und hohe Belastbarkeit</li><li>für viele Bodenoberflächen geeignet</li></ul>"
+}

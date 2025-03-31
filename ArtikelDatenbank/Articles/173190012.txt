@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>modernste SMD-Technologie für effiziente Beleuchtung</li><li>praktisches 5er Set zur vielseitigen Nutzung</li><li>warmes Licht schafft gemütliche Stimmung</li><li>E27-Sockel für einfache Installation</li><li>nachhaltig und kostensparend im Verbrauch</li></ul>"
+}

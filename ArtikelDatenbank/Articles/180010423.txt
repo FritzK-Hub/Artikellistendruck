@@ -1,0 +1,4 @@
+{
+    "uvp": 131.95,
+    "attributes": "<ul><li>kompakte Starthilfe und Energiestation in einer Einheit</li><li>das Gerät versorgt bei Bedarf dein Handy, Smartphone, Tablet, Navigationsgerät, Digitalkamera etc. mit Energie</li><li>mit einer Starthilfeleistung von 200A (max.380A kurzzeitig) ist sie auch für leistungsstarke Motoren nutzbar<br/></li><li>eine eingebaute LED-Arbeitsleuchte mit drei Leuchtvarianten dient dir auch als Notfall-Beleuchtung</li><li>die Powerbank ist klein, leicht und handlich, ideal zum Mitnehmen bei Reisen, Camping usw</li></ul>"
+}

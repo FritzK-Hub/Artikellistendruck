@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Vorhängeschloss \"Keller\" 60 mm</li><li>Schlosskörper aus Messing mit Bügel aus Stahl</li><li>zum Absperren von Türen, Schuppen, Gartentoren oder Kisten</li><li>automatische Verriegelung ohne Schlüssel</li><li>inklusive 3 Schlüssel</li></ul>"
+}

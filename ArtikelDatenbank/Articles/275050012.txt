@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Druckluftschlauch 3/8\" gebrauchsfertig armiert</li><li>20 m lang</li><li>blautransparent mit Gewebeeinlage</li><li>komplett mit Schnellverschlusskupplung und Stecktülle</li><li>Betriebsdruck maximal 17 Bar.</li></ul>"
+}

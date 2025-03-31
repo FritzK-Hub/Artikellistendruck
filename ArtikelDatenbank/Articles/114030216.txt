@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Schaschlikspieße aus Bambus</li><li>geschmacksneutral</li><li>einseitig angespitzt</li><li>umweltfreundlich und aus schnell nachwachsendem Rohstoff</li><li>auch zum Basteln geeignet</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>ideal für Modellbau und DIY-Projekte</li><li>aus leichtem Kiefern- und Fichtenholz</li><li>einfach zu bearbeiten</li><li>perfekt für Rahmenkonstruktionen und Zierleisten</li><li>für Holzarbeiten von Heimwerkern und Profis</li></ul>"
+}

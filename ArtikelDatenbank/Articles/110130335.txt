@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>2-reihige Regalsystem-Wandschiene 1495 mm</li><li>aus pulverbeschichtetem Stahl gefertigt</li><li>für alle Regalsystemträger geeignet</li><li>bis zu 55 kg / 20 cm belastbar, wenn alle Befestigungspunkte der Schiene fixiert werden</li><li>bis zu 27 kg / 20 cm belastbar, wenn jeder zweite Befestigungspunkt verschraubt wird</li></ul>"
+}

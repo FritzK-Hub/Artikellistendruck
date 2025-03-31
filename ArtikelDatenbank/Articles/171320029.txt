@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>universiell einsetzbarer Montagekleber für viele Materialien</li><li>einfach anzuwendender für Montage- und Reparaturverklebungen</li><li>für vibrations- und trittschalldämmende Verklebungen von Bauteilen</li><li>haftet auf feuchten, unebenen oder rauen Untergründen</li><li>säure-, laugen-, silikon-, isocyanat- und lösemittelfrei</li></ul>"
+}

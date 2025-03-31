@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Plattpinsel mit geradem Pinselkopf</li><li>bestens geeignet für kleinere Abschlüsse, Kanten</li><li>gute Farbaufnahme und Abgabe<br/></li><li>langer und stabiler Holzstiel</li><li>bestens geeignet für alle Lacke</li></ul>"
+}

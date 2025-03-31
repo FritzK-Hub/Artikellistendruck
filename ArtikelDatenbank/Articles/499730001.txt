@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Art: Kettenverschluss (auch Schraubglied oder Kettenglied genannt)</li><li>Verschluss: Schraubverschluss</li><li>Material: Stahl, verzinkt</li><li>Anwendung: Zum einfachen Verbinden und Verlängern von Ketten</li></ul>"
+}

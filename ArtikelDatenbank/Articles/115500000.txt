@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Garderobenleiste</li><li>modernes und schlichtes Design</li><li>aus hochwertigem Edelstahl</li><li>keine Kanten oder Spitzen</li><li>passt zu jedem Raum</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Durchmesser Kopf (dk): ca. 11,5mm</li><li>Höhe Kopf (k): ca. 3,0mm</li><li>Schlüsselweite (s): ca. 4,0mm</li><li>Durchmesser Schraube (ds): ca. 6,0mm (M6)</li><li>Länge (l): ca. 40mm</li><li>Schaft: ca. 20 mm</li></ul>"
+}

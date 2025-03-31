@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>praktisches Badminton-Bälle-Set</li><li>aus stabilem PVC gefertigt</li><li>Set besteht aus 5 Bällen</li><li>passendes Zubehör für jedes Badminton-Set</li><li>in verschiedenen Farben erhältlich (Farbauswahl nicht möglich)<br/></li></ul>"
+}

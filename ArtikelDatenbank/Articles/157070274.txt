@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Styroporkleber für Hartschäume (XPS/EPS) und Depron</li><li>Schaumstoffkleber mit elastischen Klebefilm</li><li>wasser- und temperaturbeständiger Kleber</li><li>bereits nach ca. 10 Minuten berührtrocken</li><li>hervorragend alterungsbeständig</li></ul>"
+}

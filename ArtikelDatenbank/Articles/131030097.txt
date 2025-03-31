@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>400 ml Universal-Imprägnierspray, farblos</li><li>spezielle Wirkstoffkombination</li><li>schützt vor Feuchtigkeit und wirkt schmutzabweisend</li><li>für Leder, Textilien und Schuhe</li><li>nicht für Lack- und Kunstleder geeignet<br/></li></ul>"
+}

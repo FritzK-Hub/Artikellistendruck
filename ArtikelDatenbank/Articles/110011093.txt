@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>sorgt für besseren Luftaustausch</li><li>lässt die Raumluft zirkulieren</li><li>entlastet die Raumluft von Schadstoffen</li><li>für eine intakte Bausubstanz und mehr Lebensqualität</li><li>für ein milderes Raumklima<br/></li></ul>"
+}

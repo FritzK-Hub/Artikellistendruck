@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Duftkerze im Glas mit grünem Ingwertee-Duft</li><li>schafft ein gemütliches Wohlfühlambiente</li><li>vielseitig als Tischdekoration oder zur festlichen Beleuchtung</li><li>bietet ein gleichmäßiges, ruhiges Brennverhalten</li><li>auch zur Bestückung von Weihnachtskränzen geeignet<br/></li></ul>"
+}

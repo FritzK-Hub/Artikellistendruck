@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Halogen Stiftsockellampe 35 Watt, G9 Sockel</li><li>angenehmes Licht, tageslichtähnlich mit hoher Farbwiedergabe</li><li>längere Lebensdauer im Vergleich zu normalen Lampen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen</li></ul>"
+}

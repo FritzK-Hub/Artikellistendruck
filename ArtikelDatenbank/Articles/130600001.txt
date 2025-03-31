@@ -1,0 +1,4 @@
+{
+    "uvp": 439.95,
+    "attributes": "<ul><li>Betonmischer mit leistungsstarkem Motor</li><li>stabile und verwindungssteifer Konstruktion</li><li>konische Trommelform für optimale Mischergebnisse</li><li>sicherer Stand durch eine stabile Grundplatte</li><li>mobil durch integrierte 250 mm Räder<br/></li></ul>"
+}

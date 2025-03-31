@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul type=\"square\"><li>Flaschenöffner mit Sechskantmutter</li><li>außergewöhnliche Geschenkidee für Handwerker</li><li>echter Hingucker für die Werkstatt</li><li>Flasche ohne Kraftaufwand zu öffnen</li><li>mit Sonderpreis-Baumarkt-Gravur</li></ul>"
+}

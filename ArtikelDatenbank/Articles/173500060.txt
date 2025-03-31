@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>modernes Windlicht mit Flammeneffekt für Außen<br/></li><li>dekorativer Orientierungspunkt</li><li>klappbarer Henkel zum Aufhängen</li><li>praktische und umweltfreundliche Gartenbeleuchtung</li><li>batteriebetrieben, unabhängig von Stromquellen<br/><br/></li></ul>"
+}

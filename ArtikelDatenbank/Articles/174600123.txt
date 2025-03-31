@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>praktische und dekorative Badewannenablage </li><li>aus nachhaltigem Bambus gefertigt</li><li>problemlos platzierbar</li><li>ausreichend Platz für Bad- und Duschutensilien</li><li>für ein entspanntes Badeerlebnis<br/><br/></li></ul>"
+}

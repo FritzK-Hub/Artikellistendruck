@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>glatte Vlies-Tapete mit einzigartiger Wandstruktur</li><li>besonders strapazierfähig, für die verschiedensten Ansprüche</li><li>für wohnfreundliche Atmosphäre mit atmungsaktiver Oberfläche</li><li>lässt sich für Neugestaltungen mehrmals überstreichen</li><li>einfach in der Handhabung, lässt sich leicht verarbeiten<br/></li></ul>"
+}

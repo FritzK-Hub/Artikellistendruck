@@ -1,0 +1,4 @@
+{
+    "uvp": 8.79,
+    "attributes": "<ul><li>runde Kellerleuchte mit Kunststoffkorb</li><li>zur Beleuchtung in Räumen mit hoher Feuchtigkeit</li><li>für Leuchtmittel bis zu 60 Watt mit E27 Sockel geeignet</li><li>vielseitig einsetzbare Innen- und Außenbeleuchtung</li><li>Leuchtmittelwechsel ohne Werkzeug möglich</li></ul>"
+}

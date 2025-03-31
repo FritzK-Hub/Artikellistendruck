@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Bock-Sackkarrenrad mit Metallfelge für verschiedene Beanspruchungen</li><li>besonders widerstandfähig und belastbar, aus stabilem Polyurethan gefertigt</li><li>besitzt eine Größe von 260 mm, passend für handelsüblichen Sackkarren</li><li>auch geeignet als Anbaurad für schwere Kisten oder Transportboxen</li><li>einfach in der Handhabung, lässt sich schnell und unkompliziert montieren</li></ul>"
+}

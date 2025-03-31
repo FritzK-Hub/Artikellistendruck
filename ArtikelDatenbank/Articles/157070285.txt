@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Universal Kleb- und Dichtstoff</li><li>für Innen, Außen und Sanitärbereich</li><li>geruchlos und überstreichbar</li><li>wasserfest, auch auf feuchtem Untergrund anwendbar</li><li>korrigierbar und dauerhaft elastisch</li></ul><p></p>"
+}

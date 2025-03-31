@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>100 Papierservietten in weiß</li><li>mit Prägerand in hochwertiger Qualität</li><li>praktisch und universell einsetzbar</li><li>1-lagige, saugfähige Qualität</li><li>aus feinem Tissue hergestellt</li></ul>"
+}

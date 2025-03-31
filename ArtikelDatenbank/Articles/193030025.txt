@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Vogelhaus Birdyfeed Round aus Kunststoffin anthrazit</li><li>Futterort für die kleineren Wildvogelarten</li><li>großes Futtersilo schützt die Nahrung vor Nässe</li><li>abnehmbares Dach erleichtert das Befüllen</li><li>kann aufgehangen oder auf einen Stab befestigt werden</li></ul>"
+}

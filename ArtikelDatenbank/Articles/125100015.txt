@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>2in1 Grundstoff Grundstoff Utrica-Spray von Solabiol</li><li>unterstützt das Wachstum von Nutz- und Zierpflanzen</li><li>stärkt die Abwehr vor Schadinsekten wie Blattläuse oder Spinnmilben</li><li>auch als Fungizid gegen Mehltaupilz und Schorf einsetzbar</li><li>schonend für Haustiere, Kinder oder Bienen<br/></li></ul>"
+}

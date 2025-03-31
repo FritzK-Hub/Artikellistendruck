@@ -1,0 +1,4 @@
+{
+    "uvp": 12.61,
+    "attributes": "<ul><li>Kontroll-Wechsel-Schalter inkl. Kunststoffwippe<br/></li><li>klassisches Design mit hochglänzender Oberfläche</li><li>fügt sich in viele Einrichtungskonzepte ein</li><li>für die Unterputzmontage in der Schalterdose (min. 45mm Tiefe)</li><li>nur in Kombination mit Rahmen der REV Serie EverLuxe zu verwenden</li></ul><ul><li>unterschiedliche Nutzungen der Kontrollleuchte möglich:<ul><li>die Glimmlampe leuchtet beim eingeschalteten Verbraucher (3-Draht-Technik)</li><li>die Glimmlampe leuchtet als Orientierungslicht, wenn der Verbraucher ausgeschaltet ist (2-Draht-Technik)</li></ul></li></ul><p></p>"
+}

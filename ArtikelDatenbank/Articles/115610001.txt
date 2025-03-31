@@ -1,0 +1,4 @@
+{
+    "uvp": 39.99,
+    "attributes": "<ul><li>Eck-Regal gleichschenklig aus galvanisiertem Stahl</li><li>ideal für Werkstatt, Keller oder Garage</li><li>verfügt über eine Gesamttraglast von 875 kg</li><li>5 MDF Böden mit je 175 kg Traglast höhenverstellbar</li><li>simples Stecksystem für einfaches auf- oder abbauen</li></ul>"
+}

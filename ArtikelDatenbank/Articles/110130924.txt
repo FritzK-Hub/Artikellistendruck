@@ -1,0 +1,4 @@
+{
+    "uvp": 5.19,
+    "attributes": "<ul><li>für die moderne Möbelgestaltung</li><li>optimale Stabilität</li><li>im zeitlosen Design</li><li>hochwertige Verarbeitung</li><li>universal einsetzbar<br/></li></ul>"
+}

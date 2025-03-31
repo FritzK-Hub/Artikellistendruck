@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>bequeme Herren-Arbeitshose in Grau oder Anthrazit</li><li>ist in den gängigen Größen 48 – 52 erhältlich</li><li>aus strapazierfähigem Mischgewebe gefertigt</li><li>passend für Arbeiten im Wald, auf Baustellen oder Renovierungen</li><li>mit sieben normalen und einer kleinen Hosentasche<br/></li></ul>"
+}

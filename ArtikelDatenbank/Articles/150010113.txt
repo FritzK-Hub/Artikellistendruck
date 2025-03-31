@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>5-teiliges Putz-Set als Komplettlösung zur Bodenreinigung</li><li>weicher und harter Besen inklusive</li><li>schonender Bodenreiniger mit saugstarkem Mikrofasertuch</li><li>müheloser Gerätewechsel dank universellem Stiel</li><li>robuster Kunststoff sorgt für Langlebigkeit</li></ul>"
+}

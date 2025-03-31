@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>solarbetriebene Stab-Lampe mit Schirm</li><li>stabiler Halt dank Erdspieß aus massivem Edelstahl</li><li>als dekorativer Orientierungspunkt nutzbar</li><li>vielseitig einsetzbare für Außenbeleuchtung</li><li>die dafür benötigte AA-Batterie ist im Lieferumfang<br/></li></ul>"
+}

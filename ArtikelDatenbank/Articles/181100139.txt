@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Fruchtpflanze Heidelbeere für den Hausgarten</li><li>anspruchslose Pflanze, als Strauch gezüchtet</li><li>die Heidelbeeren sind für den sofortigen Verzehr geeignet</li><li>robust und besitzt eine mehltauresistent</li><li>eignen sich auch hervorragend für Gartenkübel, Balkon oder Terrasse<br/></li></ul>"
+}

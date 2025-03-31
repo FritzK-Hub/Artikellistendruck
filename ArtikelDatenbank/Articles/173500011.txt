@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Solar Gartenkugel 8 cm mit stabilem Erdspieß</li><li>für schöne Lichtakzente im Garten oder Balkon</li><li>Stromversorgung durch leistungsfähiges Solarstrom</li><li>Glaskugel mit Crackle-Effekt (Bruchglas)</li><li>dafür benötigter AA-Akku ist mit inklusive</li></ul>"
+}

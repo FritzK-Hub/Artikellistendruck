@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Aufhängeöse zum Anschrauben</li><li>mit 4 Bohrungen</li><li>einfache Montage</li><li>inklusive 4 Schrauben</li><li>Aufhängewinkel verzinkt<br/></li></ul>"
+}

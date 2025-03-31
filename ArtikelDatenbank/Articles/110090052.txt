@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Deko- und Trinkglas in verschiedenen Farben</li><li>mit 480 ml Fassungsvermögen</li><li>aus Weißglas, leicht zu reinigen</li><li>Schraubdeckel aus Metall mit Durchführung für Trinkhalm</li><li>inklusive Trinkhalm<br/></li></ul>"
+}

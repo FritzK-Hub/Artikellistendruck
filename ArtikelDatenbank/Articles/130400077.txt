@@ -1,0 +1,4 @@
+{
+    "uvp": 449.0,
+    "attributes": "<ul><li>leistungsstarkes 15 kW Elektroheizgebläse für schnelle Raumtemperatur-Regulierung</li><li>vielseitig einsetzbar und einfach zu handhaben</li><li>individuell anpassbare Wärme- bzw. Luftverteilung durch variablen Neigungs- bzw. Ausblaswinkel</li><li>hoher Luftdurchsatz und eingebaute Sicherheitsvorkehrungen für große Innenräume</li><li>integrierte Thermostatsteuerung für präzise und bequeme Temperaturregelung</li></ul>"
+}

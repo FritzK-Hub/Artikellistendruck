@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>mineralischer Volldünger für alle Gartenkulturen</li><li>Phosphat fördert Blüten und kräftigen Fruchtansatz</li><li>Stickstoff dient dem geziehlten Aufbau der Pflanzen</li><li>Kali verbessert die Erntequalität</li><li>ausgewogene Wirkstoffkombination<br/></li></ul>"
+}

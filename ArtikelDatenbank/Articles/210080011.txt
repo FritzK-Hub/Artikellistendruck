@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Haushaltsschere mit Kunstsoffgriff</li><li>im Griff integrierter Schraubverschluss-Öffner / Nussknacker</li><li>Klinge aus Stahl</li></ul>"
+}

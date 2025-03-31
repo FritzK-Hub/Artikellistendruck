@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Pizzastein Ø 33 cm aus Stein mit Metallgestell</li><li>Steinplatte sorgt für eine gleichmäßige Wärmeverteilung</li><li>garantiert den typischen Steinofengeschmack</li><li>für die Zubereitung von Brot, Pizza, Calzone oder Keksen geeignet</li><li>zur Anwendung im Ofen oder Grill geeignet<br/></li></ul>"
+}

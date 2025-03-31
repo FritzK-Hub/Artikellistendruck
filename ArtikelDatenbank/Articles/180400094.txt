@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>mobiler Mini-Luftkompressor mit 12 V und Aufsätzen</li><li>ideal zum Aufblasen und Ablassen geeignet</li><li>für Gästebetten, Wasserbällen oder verschiedensten Reifen</li><li>integrierter Manometer zeigt den aktuellen Druck an</li><li>wird über PKW-Zigarettenanzünder betrieben<br/></li></ul>"
+}

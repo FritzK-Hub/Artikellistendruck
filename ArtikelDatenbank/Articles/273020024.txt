@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>8-teiliges Bitset von GERMANIA®</li><li>mit Schraubenassistent</li><li>mit magnetischem Schraubenhalter</li><li>inkl. Bithalter mit Ringmagnet</li><li>Material: S2 Stahl (für  hohe Standzeit)<br/></li></ul>"
+}

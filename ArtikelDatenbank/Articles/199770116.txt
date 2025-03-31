@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>24 Duplo Bodenträger für Einlegeböden</li><li>aus massivem Metall, galvanisch verzinkt</li><li>eignet sich für Einlege- und Regalböden</li><li>mit zwei Zapfen versehen</li><li>Bodenträger zum Stecken<br/></li></ul>"
+}

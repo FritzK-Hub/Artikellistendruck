@@ -1,0 +1,4 @@
+{
+    "uvp": 189.95,
+    "attributes": "<ul><li>pneumatischer Bohr- und Meißelhammer 1600 W GPT-PD002</li><li>hochwertiges SDS plus Metallbohrfutter</li><li>pneumatisches Schlagwerk (Schlagzahl: 0-6600 / min)</li><li>Getriebegehäuse aus hochwertigem Aluminiumdruckguss</li><li>Zweihand-Bedienung durch den zweiten Griff</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul> <li>Sockel: H7 PX26d</li> <li>Inhalt: 2 Stück</li> <li>Spannung: 12 V</li> <li>Leistung: 55 W</li> <li>entspricht E4</li> <li>Ausführung: Halogen</li> <li>laut Auto Bild 2013 Prädikat sehr gut</li></ul>"
+}

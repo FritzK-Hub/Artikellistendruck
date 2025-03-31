@@ -1,0 +1,4 @@
+{
+    "uvp": 3.1,
+    "attributes": "<ul><li>vielseitige Anwendungsmöglichkeiten für unterschiedliche Bedürfnisse</li><li>stabile Konstruktion für zuverlässige Befestigung</li><li>einfache Handhabung</li><li>robustes Eisenmaterial für einen sicheren Halt</li><li>auch für den Einsatz in der Elektroinstallation geeignet</li></ul>"
+}

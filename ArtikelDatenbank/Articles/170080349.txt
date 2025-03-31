@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Stahlwolle aus bestem Qualitätsstahl</li><li>sehr reißfest und elastisch</li><li>ideal zum Reinigen, Schleifen und Polieren</li><li>sehr sanfte Oberflächenwirkung durch \"Ziehklingeneffekt\"</li><li>bei trockener Verwendung nahezu unbegrenzt haltbar</li></ul>"
+}

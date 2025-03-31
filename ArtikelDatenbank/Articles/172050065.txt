@@ -1,0 +1,4 @@
+{
+    "uvp": 22.49,
+    "attributes": "<ul><li>Verlängerungskabel mit Schutzkontakt Stecker</li><li>Schutzart IP 44, spritzwassergeschützt</li><li>Verlängerungskabel zur kurzfristigen Verwendung im Freien</li><li>Stromkabel mit leichter Gummi-Leitung</li><li>Kupplung mit Deckel und Kindersicherung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>GERMANIA® Plattform Li-Ion Akku 1,5 Ah mit 20 V</li><li>hochwertiger und leistungsstarker Akku</li><li>ein Akku ob zum Bohren, Sägen oder Schleifen</li><li>ist ideal als Ersatz- oder Zweit-Akku einsetzbar</li><li>für die gesamte Plattform Collection geeignet<br/></li></ul>"
+}

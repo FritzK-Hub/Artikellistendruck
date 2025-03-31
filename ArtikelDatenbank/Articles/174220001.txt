@@ -1,0 +1,4 @@
+{
+    "uvp": 6.47,
+    "attributes": "<ul><li>kompakte Effizienz</li><li>schnelles Lösen</li><li>beeindruckende Traglast</li><li>vielseitige Anwendung</li><li>Präzision und Zuverlässigkeit</li></ul>"
+}

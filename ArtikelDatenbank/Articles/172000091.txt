@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Taster Monaco aus robustem Kunststoff in Platin</li><li>ist aus robustem Kunststoff gefertigt</li><li>ideal als Klingel, Türöffner oder Lichttaster</li><li>in den Mehrfachrahmen der Monaco Serie einsetzbar</li><li>integrierte Steckklemmen erleichtern den Anschluss<br/></li></ul>"
+}

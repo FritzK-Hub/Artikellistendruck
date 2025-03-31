@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>kompakte Vielseitigkeit</li><li>langlebige Qualität</li><li>in verschiedenen Farben</li><li>praktischer Schlüsselring</li><li>sofort einsatzbereit</li></ul>"
+}

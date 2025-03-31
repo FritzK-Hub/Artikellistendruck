@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Messgenauigkeit = 0.5mm/m</li><li>Materialstärke = 1.2mm</li><li>UV-Beständigkeit</li><li>mit Horizontal-, Vertikal- und Diagonallibelle</li><li>Enden mit Gummikappen</li></ul>"
+}

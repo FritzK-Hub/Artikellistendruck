@@ -1,0 +1,4 @@
+{
+    "uvp": 4.59,
+    "attributes": "<ul><li>geschirmtes USB 2.0 Anschlusskabel</li><li>für Hi-Speed Datenübertragungen </li><li>zum Anschluss von Druckern, Scannern oder externen Speichermedien</li><li>maximale Übertragungsrate bis 0,48 Gbit/s</li><li>Rundkabel aus grauen PVC<br/><br/></li></ul>"
+}

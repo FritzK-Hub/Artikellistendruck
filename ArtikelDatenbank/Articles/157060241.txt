@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Schimmelentferner, hochwirksam gegen Schimmel</li><li>gebrauchsfertig in der Pumpsprühflasche</li><li>auf Fliesen, normalen und dauerelastischen Fugen, Wänden, Decken, Mauerwerk im Innenbereich</li><li>für den Innenbereich geeignet</li><li>wirkt vorbeugend und desinfizierend</li></ul>"
+}

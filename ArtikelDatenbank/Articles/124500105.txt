@@ -1,0 +1,4 @@
+{
+    "uvp": 299.0,
+    "attributes": "<ul><li>modernes Design für stilvolle Gärten</li><li>hohe Kapazität zur effizienten Wassernutzung</li><li>robuster, wetterfester Kunststoff bietet Langlebigkeit</li><li>platzsparend durch eckige Form</li><li>einfacher Anschluss zur unkomplizierten Nutzung</li></ul>"
+}

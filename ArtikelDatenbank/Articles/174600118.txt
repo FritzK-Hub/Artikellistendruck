@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>praktisches 2-teiliges Handtuchhaken-Set</li><li>vielseitig einsetzbar</li><li>aus hochwertigem Edelstahl gefertigt</li><li>schlichtes Design</li><li>inklusive Befestigungsmaterial und Montageplatte<br/></li></ul>"
+}

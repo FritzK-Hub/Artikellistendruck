@@ -1,0 +1,4 @@
+{
+    "uvp": 529.95,
+    "attributes": "<ul><li>3-teilige Sitzgruppe bestehend aus 2 x Bank und 1 x Tisch</li><li>extra robust und witterungsbeständig</li><li>massives Kiefernholz, 30-34 mm stark</li><li>kammergetrocknet, hellbraun lasiert und imprägniert</li><li>einfache und schnelle Montage</li></ul>"
+}

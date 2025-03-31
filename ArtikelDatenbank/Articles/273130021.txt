@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Größen: 14 mm (auch komplettes Set erhältlich)</li><li>Stärke Gabelschlüssel: ca. 7 mm</li><li>Ausführung Ringschlüssel: 12 kant</li><li>Gewicht: ca. 98 g<br/></li></ul>"
+}

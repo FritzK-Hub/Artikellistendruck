@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Koaxial-Antennenkabel für SAT Empfang</li><li>mit hochdichter doppelter Abschirmung</li><li>vernickelte, passgenaue Kontakte</li><li>voll abgeschirmter, beidseitig vergossener Stecker</li><li>für die digitale und analoge Übertragung geeignet<br/></li></ul>"
+}

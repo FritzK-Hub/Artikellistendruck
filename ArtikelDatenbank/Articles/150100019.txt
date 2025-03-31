@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Papierlufterfrischer Black Ice von Wunderbaum</li><li>langanhaltender, intensiver Duft</li><li>verschiedene Anwendungsmöglichkeiten</li><li>im Blister aromadicht verpackt</li><li>mit einer Aufhängung versehen<br/></li></ul>"
+}

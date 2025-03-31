@@ -1,0 +1,4 @@
+{
+    "uvp": 59.99,
+    "attributes": "<ul><li>Stehtisch mit stabilen Metallgestell</li><li>80 cm Tischplatte bietet ausreichend Platz</li><li>lässt sich schnell und einfach ab- und aufbauen</li><li>ideal als Ablagefläche bei Veranstaltungen mit Freunden</li><li>bei Nichtgebrauch platzsparend zusammenklappbar</li></ul>"
+}

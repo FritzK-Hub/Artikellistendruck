@@ -1,0 +1,4 @@
+{
+    "uvp": 230.95,
+    "attributes": "<ul><li>Gartenbank aus Akazienholz</li><li>Platz für bis zu 3 Personen</li><li>Rücken- sowie Sitzfläche ergonomisch geformt</li><li>angenehmer Sitzkomfort</li><li>dekorativ geschwungene Armlehnen</li></ul>"
+}

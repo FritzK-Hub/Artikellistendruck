@@ -1,0 +1,4 @@
+{
+    "uvp": 2.11,
+    "attributes": "<ul><li>Rundrohr Aluminium</li><li>mit einzigartiger Bohr-Kennrille zum perfekten Zentrieren von Bohrungen</li></ul>"
+}

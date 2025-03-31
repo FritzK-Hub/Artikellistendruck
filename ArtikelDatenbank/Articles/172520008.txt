@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>universelles Audio Kabel Cinch Stecker auf Cinch<br/></li><li>für brilliante Stereo Audio-Übertragungen</li><li>zur Übertragung des  Audiosignals zwischen Geräten</li><li> hochwertige Materialien für störungsfreie Qualität</li><li>Farbcodierung außen am Stecker zum einfachen Anschließen</li></ul>"
+}

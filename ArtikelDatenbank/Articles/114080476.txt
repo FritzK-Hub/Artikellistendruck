@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>hochwertiges Tafelkerzen-Set 15 Stück </li><li>aus echtem Wachs in Rot</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>ideal für Tisch- und Weihnachtsbaumdekorationen</li><li>auch für die Gestaltung von Weihnachtskränzen</li></ul>"
+}

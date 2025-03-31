@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Balkenschuh aus verzinktem Stahl</li><li>Marke: FISHBULL</li><li>Typ B</li><li>Einsatzbereich außen und innen</li><li>CE-Kennzeichnung</li></ul>"
+}

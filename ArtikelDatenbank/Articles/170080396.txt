@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Schleifpapier Set 6 Stück mit K80</li><li>per Klettsystem anbringbar</li><li>überzeugt mit seiner Langlebigkeit und gleichmäßigem Schleifbild</li><li>ermöglicht dir eine mühelose Arbeit</li><li>für das Abschleifen von Flächen und Ecken bei Holz, Metall als auch Farbe<br/></li></ul>"
+}

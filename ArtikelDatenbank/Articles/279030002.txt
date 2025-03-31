@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>geschmiedet</li><li>Länge 900mm</li><li>Dicke: 30 x 15mm</li><li>nach DIN gehärtet</li><li>ovale ergonomische Ausführung</li><li>massiv</li></ul>"
+}

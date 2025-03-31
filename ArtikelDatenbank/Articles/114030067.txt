@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Fingerfood Spieße 100 Stück aus Plastik</li><li>in verschiedenen Farben (gemischt)</li><li>geschmacksneutral</li><li>mit Rundkopf und an einer Seite angespitzt</li><li>Spender zum Aufbewahren der Spieße</li></ul>"
+}

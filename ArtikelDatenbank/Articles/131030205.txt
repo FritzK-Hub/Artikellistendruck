@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>flüssige Schmierseife von Reinex</li><li>reingt mühelos und schonend</li><li>reinigt Fliesen, Kunststoff- und Steinböden</li><li>mit angenehmem Duft</li><li>einfache Anwendung<br/><br/><br/></li></ul>"
+}

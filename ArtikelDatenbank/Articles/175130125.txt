@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>Kaminholzkorb aus pulverbeschichtetem Metall</li><li>sorgt für mehr Ordnung bei der Brennholzlagerung</li><li>luftdurchlässige Lagerung verhindert eine Schimmelbildung</li><li>elegantes Design fügt sich in Wohnräume gut ein </li><li>inklusive einer Aufbauanleitung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"><ul><li>Fahrrad Dynamo Halterung</li><li>universell einsetzbar</li><li>mit Befestigungsschrauben</li><li>leichte Montage</li><li>für die Nachrüstung eines Fahrraddynamos</li></ul></div>"
+}

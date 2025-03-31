@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Saatgut Freilandgurke Obelix für ca. 20 Pflanzen</li><li>mit langen Früchten und wenig weißen Stacheln</li><li>eine widerstandsfähige, ertragreiche Gurkensorte</li><li>verfügt darüber hinaus über eine lange Lebensdauer</li><li>die Sorte benötigt zur Bestäubung keine Insekten</li></ul>"
+}

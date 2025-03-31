@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Wasserrutschbahn mit Anschluss für den Gartenschlauch</li><li>mit Sprenklerleiste für gleichmäßige Wasserverteilung</li><li>aus robustem, widerstandsfähigem Vinyl hergestellt</li><li>mehr Sicherheit durch integriertes Auffangbecken am Ende der Bahn</li><li>inklusive Reparaturflicken<br/></li></ul>"
+}

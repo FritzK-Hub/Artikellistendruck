@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Rosenhandschuhe Größe 8 mit Stulpen in grau-rot</li><li>Handinnenfläche mit zusätzlichem Schutz versehen</li><li>ermöglicht eine reibungslose Gartenarbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>bietet mehr Schutz bei der Entsorgung von Rosen oder Schnittgut</li></ul>"
+}

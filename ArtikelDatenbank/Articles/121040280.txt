@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Künstlerleinwand aus 100 % Baumwolle</li><li>weiß vorgrundiert</li><li>auf Karton aufgezogen</li><li>geeignet für Acrylfarben, Ölfarben, Gouache, Tempera</li><li>für Profis und Hobbymaler<br/></li></ul>"
+}

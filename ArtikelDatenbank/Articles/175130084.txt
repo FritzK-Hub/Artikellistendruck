@@ -1,0 +1,4 @@
+{
+    "uvp": 69.99,
+    "attributes": "<ul><li>für Hobby- und Profielektroniker im Bereich Elektronik, Feinstelektronik, Modellbau u.v.m.</li><li>regelgenaue elektronische Temperaturwahl in 1°C Schritten</li><li>Temperaturbereich stufenlos regelbar von 150 °C - 420 °C</li><li>komplett mit Kolbenhalterung und Reinigungsschwamm</li></ul>"
+}

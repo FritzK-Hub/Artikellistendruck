@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>witterungsbeständige Profi Spaltaxt 1100 g von GERMANIA®</li><li>Stiel ist aus glasfaserverstärktem Kunststoff gefertigt</li><li>rutschfester Griff und gute Gewichtbalance</li><li>innen hohl konstruierter Stiel absorbiert Vibrationen</li><li>bei Nichtgebraucht platzsparend mittels Öse aufhängbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>pflegeleichte, abwaschbare Tischdecke transparent</li><li>modernes Tischtuch mit silbernen Schneeflocken-Motiv</li><li>schafft eine weihnachtliche Atmosphäre</li><li>schonend für die Tischplatte dank Vlies-Beschichtung auf der Rückseite</li><li>Länge wählbar - bis zu ganzen Rollen (30 m)<br/></li></ul>"
+}

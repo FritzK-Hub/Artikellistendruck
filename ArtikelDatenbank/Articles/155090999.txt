@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>2-adrige Lautsprecherleitung mit 10 m Länge</li><li>Ummantelung aus flexiblem, transparentem PVC</li><li>sorgt für originalgetreue, verfärbungsfreie Klangqualität</li><li>die Plus-Ader mit roten Streifen markiert</li><li>zum Verlegen im Audiobereich wie HiFi-, Stereo- und Heimkinoanlagen <br/></li></ul>"
+}

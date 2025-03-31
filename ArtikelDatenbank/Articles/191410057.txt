@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Wasserschlange Snakie aufblasbar in Grün</li><li>aus phtalatfreier Folie gefertigt</li><li>besitzt eine Länge von ca. 570 cm</li><li>zwei getrennte Luftkammer mit Rückschlagventilen</li><li>für richtigen Badespaß im Pool, Baggersee oder am Strand <br/></li></ul>"
+}

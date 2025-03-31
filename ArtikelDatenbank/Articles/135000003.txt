@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>kompatibel mit Bajonette-Ventil</li><li>ideal für Handwerker und Bastler</li><li>sichere Schraubventilverbindung</li><li>präzise Flammenkontrolle</li><li>einfache Piezo-Zündung</li></ul>"
+}

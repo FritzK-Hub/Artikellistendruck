@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>100 kleine Trinkbecher im Set</li><li>weiße Partybecher</li><li>eignen sich hervorragend als Ausschankbecher</li><li>ersparen lästiges Abwaschen</li><li>schnell und einfach entsorgt</li></ul>"
+}

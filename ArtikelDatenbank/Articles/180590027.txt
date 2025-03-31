@@ -1,0 +1,4 @@
+{
+    "uvp": 179.95,
+    "attributes": "<ul><li>Güde® Rangierwagenheber GRH 3/470</li><li>für den Einsatz in Werkstätten oder Garagen</li><li>verfügt über eine Tragfähigkeit von 3 Tonnen</li><li>leichte Handhabung dank 2 Lenk und 2 Laufrollen</li><li>Ventilsteuerung sichert einen präzisen Arbeitsablauf<br/></li></ul>"
+}

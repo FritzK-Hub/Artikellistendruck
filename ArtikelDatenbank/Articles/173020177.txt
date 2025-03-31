@@ -1,0 +1,4 @@
+{
+    "uvp": 13.5,
+    "attributes": "<ul><li>umfangreiches Steckschlüsselsatz mit verschiedenen Größen</li><li>für alle Schraubarbeiten rund um das Auto, Motorrad oder Haushalt</li><li>besonders langlebig, aus massivem Chrom-Vanadium Stahl</li><li>es lässt sich schnell und einfach zwischen den Aufsätzen wechseln</li><li>Aufbewahrungskoffer für sicheren Transport und geordnete Aufbewahrung</li></ul>"
+}

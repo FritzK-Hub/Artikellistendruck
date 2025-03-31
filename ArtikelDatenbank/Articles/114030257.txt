@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>10 Schalen aus Biokunststoff</li><li>aus dem nachwachsenden Rohstoff Zuckerrohr</li><li>leicht und trotzdem sehr stabil</li><li>bis 100°C wasserfest und bis 120°C fettresistent</li><li>mikrowellengeeignet</li></ul>"
+}

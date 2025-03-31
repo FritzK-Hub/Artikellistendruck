@@ -1,0 +1,4 @@
+{
+    "uvp": 0.89,
+    "attributes": "<ul><li>sicherer Verschluss für Rohrenden</li><li>passend für 50 mm Rohre</li><li>für dauerhafte oder vorübergehende Abdichtung</li><li>hitzebeständig bis 90°C</li><li>widerstandsfähig gegen Chemikalien</li></ul>"
+}

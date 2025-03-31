@@ -1,0 +1,4 @@
+{
+    "uvp": 2.75,
+    "attributes": "<ul><li>Schleifvlies für grobe Schleifarbeiten</li><li>mit K100 Körnung</li><li>für Arbeiten an KFZ, Motorrad, Boot usw.</li><li>ideal für Holz und Metall geeignet</li><li>beliebig zuschneidbar</li></ul>"
+}

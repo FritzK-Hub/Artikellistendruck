@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Nachfüllpack für Mini-Duftspray</li><li>verbreitet einen angenehmen Duft</li><li>bis zu 100 Anwendugen pro Kartusche</li><li>entfernt schnell und wirkungsvoll Gerüche</li><li>8 Nachfüllkartuschen in vier verschiedenen Düften<br/></li></ul>"
+}

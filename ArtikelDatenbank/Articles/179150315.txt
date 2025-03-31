@@ -1,0 +1,4 @@
+{
+    "uvp": 6.9,
+    "attributes": "<ul><li>integrierte Handkurbel für einfache Anwendung</li><li>5 Meter Länge für tiefer liegende Verstopfungen</li><li>effektive Reinigung von haushaltsüblichen Abflüssen</li><li>Durchmesser von 6 mm für Arbeiten in engen Rohren</li><li>spart Zeit und Geld bei der Beseitigung von Verstopfungen</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hochwertige FISHBULL Schraubhaken mit Schlitz</li><li>in gerader Form, mit 90°-Winkel</li><li>aus stabilem verzinktem Stahl</li><li>zum Aufhängen von Gegenständen</li><li>zur Montage an der Wand<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>FISHBULL Vorreiber 4,4 x 40 mm mit Ansatz</li><li>aus verzinktem Stahl gefertigt</li><li>zum Verriegeln von Türen und Fenster</li><li>schwenkbarer Hebel zum Öffnen und Schließen</li><li>mit Holzgewinde versehen<br/></li></ul>"
+}

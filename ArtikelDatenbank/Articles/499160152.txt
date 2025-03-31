@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Kopf: Sechskant / 6-kant</li><li>Schraubengewinde: Vollgewinde</li><li>Material Sechskantschraube: Stahl</li><li>Oberfläche: galvanisch verzinkt</li><li>Zugfestigkeit der Schraube: 8.8</li></ul>"
+}

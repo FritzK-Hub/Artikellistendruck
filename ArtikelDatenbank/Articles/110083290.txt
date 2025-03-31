@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Thermometer 27,5 cm für Innen und Außen</li><li>aus robustem, schwarzem Kunststoff gefertigt</li><li>im geschmackvollen, klassischen Design</li><li>Temperaturanzeige von - 35 bis + 50 °C</li><li>für die Wandmontage geeignet<br/></li></ul>"
+}

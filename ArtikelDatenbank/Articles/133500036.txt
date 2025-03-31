@@ -1,0 +1,4 @@
+{
+    "uvp": 19.5,
+    "attributes": "<ul><li>verschiedene Bitgrößen für alle Schraub- und Montagearbeiten</li><li>vielseitig im Haushalt oder in der Werkstatt einsetzbar</li><li>mit den gängigsten Größen für jede Situation versehen</li><li>zuverlässiges Werkzeug für Profi- als auch Hobbyhandwerker</li><li>Aufbewahrungsbox mit Sichtfester für einen besseren Überblick</li></ul>"
+}

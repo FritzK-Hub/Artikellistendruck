@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>Universaldübel Set 12 Stück je 8 x 38 mm</li><li>aus massivem Metall gefertigt</li><li>zum Befestigen von Bilderrahmen oder Lampen</li><li>für Beton, Vollstein oder Porenbeton geeignet</li><li>ideal für jeden Heim- oder Handwerker<br/></li></ul>"
+}

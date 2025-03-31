@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>handliche Wühlmaus-Lebendfalle aus Kunststoff</li><li>eine tierfreundliche Fangmethode für Wühlmäuse</li><li>ohne Gebrauch von Gift einsetzbar</li><li>einfachere Fankontrolle durch Sichtöffnung</li><li>schnelles und effektives Fangen von Wühlmäusen<br/></li></ul>"
+}

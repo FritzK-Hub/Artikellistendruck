@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Drei selbstlernende Funksteckdosen mit einer Fernbedienung<br/></li><li>für die Steuerung von Elektrogeräten und Beleuchtungen </li><li>bis maximal 2300 Watt Leistung</li><li>Reichweite ca. 25 Meter bei freier Sicht</li><li>keine Programmierung notwendig</li></ul><p><br/></p>"
+}

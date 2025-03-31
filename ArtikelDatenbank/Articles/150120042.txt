@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Akkusäureprüfer mit großer, genau ablesbarer Skala</li><li>Ansaugball aus Elastomer</li><li>hydrostatische Sperre</li><li>Alltemperatur- Zwillingsmesswerk 360° drehbar</li><li>Ansaugsystem zur Verhinderung von Blasenbildung</li></ul>"
+}

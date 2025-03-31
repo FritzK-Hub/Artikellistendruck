@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>handliche Kartuschenpresse mit Aluminiumgriff</li><li>aus rotem Eisen gefertigt</li><li>großer Zugbügel mit Schubstange</li><li>einfache Klickbewegung wird Druck ausgeübt</li><li>ideal für Baukleber, Komponentenkleber und Silikonkartuschen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>gerader Türknopf</li><li>verchromte Ausführung</li><li>M4 Schraube für die Befestigung</li><li>für eine Türstärke von max. 20 mm</li><li>Gesamtlänge 7,3 cm<br/></li></ul>"
+}

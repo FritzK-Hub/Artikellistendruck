@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>seitlicher Schutz vor Wind, Regen und Sonneneinstrahlung</li><li>Seitenteile lassen sich an den Stangen fixieren</li><li>perfekter Sichtschutz gegen neugierige Blicke</li><li>erhöht den Komfort bei Festlichkeiten</li><li>passend für die meisten Pavillons 3 x 3 m</li></ul>"
+}

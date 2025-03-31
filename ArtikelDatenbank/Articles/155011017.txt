@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Folienmarker 4 Stück im Set</li><li>schnelltrocknend und wischfest</li><li>variable Strichstärke</li><li>für saubere Beschriftung von Folien</li><li>Lieferung in 4 Farben</li></ul>"
+}

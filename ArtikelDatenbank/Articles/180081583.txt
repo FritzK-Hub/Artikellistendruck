@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>vielfältig einsetzbarer Pop-up Gartensack</li><li>selbststehend, mit Trageschlaufen</li><li>mit zusätzlichem Entleerungsgriff an der Unterseite</li><li>zum Transportieren von Laub, Gartenabfällen, usw.</li><li>120 Liter Fassungsvermögen</li></ul>"
+}

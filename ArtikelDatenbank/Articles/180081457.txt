@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>Schutzvliesmantel</li><li>atmungsaktiv</li><li>licht- und wasserdurchlässig</li><li>UV - stabil mit Befestigungsschnüren</li><li>schützt vor Austrocknung und Wildfraß</li></ul>"
+}

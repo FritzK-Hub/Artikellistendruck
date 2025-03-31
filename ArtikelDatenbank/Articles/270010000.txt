@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Holz Bügelsäge</li><li>Sägeblatt für Holzschnitte</li><li>Schnellwechseleinrichtung</li><li>Schnitte bis 160 mm Tiefe möglich</li><li>robuste Qualität</li></ul>"
+}

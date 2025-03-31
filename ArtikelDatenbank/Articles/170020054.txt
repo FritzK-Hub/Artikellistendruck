@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>Fotocollage 6-teilig 44 x 30 cm mit Holzrahmen in braun </li><li>passend für Fotogrößen von maximal 10 x 15 cm (A6)</li><li>habe stets die schönsten Momente an einem Ort</li><li>für die Präsentation von Urlaubs-, Hochzeits-, oder Familienfestfotos</li><li>zur dekorativen Gestaltung von Wohnräumen oder der Kommode<br/></li></ul>"
+}

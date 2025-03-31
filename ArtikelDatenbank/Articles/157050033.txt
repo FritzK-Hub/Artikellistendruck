@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>schnelltrocknender Felgenlack</li><li>ideal auch zum Ausbessern von Schadstellen</li><li>Felgensilber Spray glänzend</li><li>für Stahl- und Aluminiumfelgen, Radkappen</li><li>einfache und praktische Anwendung</li></ul>"
+}

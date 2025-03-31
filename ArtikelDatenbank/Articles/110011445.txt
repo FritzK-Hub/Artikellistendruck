@@ -1,0 +1,4 @@
+{
+    "uvp": 47.95,
+    "attributes": "<ul><li>Familien Toilettendeckel aus Duroplast</li><li>mit integriertem, separat klappbarem Kinder-WC-Sitz</li><li>mit 3-fach Absenkautomatik</li><li>inklusive Montagematerial</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
+}

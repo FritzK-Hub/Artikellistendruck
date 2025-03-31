@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Kühltasche aus Kunststoff mit Reißverschluss</li><li>18 Liter Fassungsvermögen bietet ausreichend Stauraum</li><li>Tragegriffe sorgen für einen angenehmen Tragekomfort</li><li>bewahrt mühelos deine Lebensmittel gekühlt auf</li><li>bestens für Ausflüge oder Sport geeignet</li></ul>"
+}

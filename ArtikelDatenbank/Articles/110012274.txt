@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>vielseitig für Trink- und Heizwasseranwendungen</li><li>hohe Belastbarkeit: besteht Drücke bis 16 bar</li><li>anpassungsfähig: ideal für verschiedene Temperaturen</li><li>sicher: geeignet für alle Gasarten</li><li>effektive Verbindung: perfekt in Kombination mit Hanf</li></ul>"
+}

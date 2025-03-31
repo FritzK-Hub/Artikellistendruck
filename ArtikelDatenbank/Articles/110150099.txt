@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Gewehrtasche \"Profi\" von Oakwood</li><li>aus hochwertigem, reissfestem 600D Polyestergarn</li><li>Doppelreißverschluss mit Zahlenschloss für den gesetzeskonformen Transport der Waffe</li><li>Mit Aussentasche zur Unterbringung von Zubehör</li><li>Innenfutter aus weichem Fellimitat zum sicheren Transport von Waffen mit Zielfernrohr</li></ul>"
+}

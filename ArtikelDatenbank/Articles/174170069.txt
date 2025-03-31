@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>Profi-Klappmesser mit ergonomischem Griff</li><li>ideal zum Schneiden von Teppichen, Leder oder Stoffen </li><li>zuverlässiger Helfer bei sämtlichen Renovierungsarbeiten</li><li>bei Nichtgebrauch ist die Klinger sicher im Griff verstaubar</li><li>inklusive 5 Klingen<br/></li></ul>"
+}

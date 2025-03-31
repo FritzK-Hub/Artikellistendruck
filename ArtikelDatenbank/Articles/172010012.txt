@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Kabelentmantler aus Kunststoff in rot-schwarz</li><li>Zum Abisolieren von Abzweigdosen oder Verteilerdosen</li><li>für herkömmliche Rundkabel Ø 8-13mm oder Koaxialkabel RG59, RG6 geeignet</li><li>Carbonstahl-Klinge erleichtert den Längsschnitt</li><li>rutschfester Griff für einen sichereren Halt<br/></li></ul>"
+}

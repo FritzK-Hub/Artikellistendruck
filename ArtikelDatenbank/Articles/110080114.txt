@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>praktischer Deckel für Aufbewahrungsboxen</li><li>aus stabilem Kunststoff</li><li>passende Ergänzung zu den Unibox Aufbewahrungsboxen</li><li>transparent</li><li>zum Schutz vor äußeren Einflüssen<br/><br/></li></ul>"
+}

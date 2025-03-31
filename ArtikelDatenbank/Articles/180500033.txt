@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>verhindert Rostbefall und Frostschäden am Motor</li><li>garantiert eine längere Lebensdauer des Kühlsystems</li><li>neutral gegenüber Schläuchen, Dichtungen, Metall- und Kunststoffteilen</li><li>gewährleisteter Schmelzpunkt bis max. - 54°C</li><li>mischbar mit demineralisiertem oder destilliertem Wasser</li></ul>"
+}

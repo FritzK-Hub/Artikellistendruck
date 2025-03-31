@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>Zwischenventil 1 1/4 Zoll Innengewinde<br/></li><li>aus stabilem Messing gefertigt<br/></li><li>integrierte Schließfeder für jede Einbaustellung (vertikal / horizontal)</li><li>gibt den Durchfluss in einer Richtung frei und sperrt in Gegenrichtung</li><li>verhindert den Wasser-Rücklauf beim Ausschalten der Pumpe</li></ul>"
+}

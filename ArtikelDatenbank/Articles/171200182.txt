@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>für Außenanwendungen auf Booten und Yachten</li><li>hohe Schmutzabweisung</li><li>ausgezeichnete Abriebfestigkeit</li><li>extrem seewasserbeständig</li><li>dauerhafte Elastizität<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Kunststoff-Pflegetücher fürs Fahrzeug-Innenraum</li><li>reinigen, pflegen und schützen aller Kunststoff- und Vinyloberflächen</li><li>wirken besonders farb- und glanzauffrischend</li><li>tragen zum Werterhalt des Fahrzeuges bei</li><li>im Spender mit Flip-Top Deckel schützt vorm Austrocknen<br/></li></ul>"
+}

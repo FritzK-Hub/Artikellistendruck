@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>Fahrradnippel von Güde</li><li>aus Metall gefertigt</li><li>langlebig und robust</li><li>mit Befestigungskette</li><li>verfügt über 8 mm Feingewinde<br/></li></ul>"
+}

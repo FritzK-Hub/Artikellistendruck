@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>2 Heizstufen und eine Ventilatorstufe</li><li>1000 - 2000 Watt möglich, thermostatgeregelt</li><li>inklusive Überhitzungsschutz</li><li>Standgerät mit Abschaltautomatik beim Umkippen</li><li>elektrisch, versorgt über Netzkabel </li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>robustes Torband mit Eisenstift aus Stahl, verzinkt</li><li>für Gartenzäune oder Gartenhaustüren</li><li>zwei bewegliche Teile fest verbunden</li><li>minimiert die Reibung beim Öffnen und Schließen</li><li>sieben Bohrlöcher sorgen für zusätzliche Stabilität</li></ul>"
+}

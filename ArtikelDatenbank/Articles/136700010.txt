@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>präzises Senklot mit 6 m Schnur</li><li>weiße Lotschnur mit großer Länge</li><li>attraktives gut sichtbares Blau</li><li>ideal ausbalanciert mit 200 g</li><li>perfekt für Lotarbeiten<br/></li></ul>"
+}

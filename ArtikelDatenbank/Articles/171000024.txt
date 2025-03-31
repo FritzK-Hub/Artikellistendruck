@@ -1,0 +1,4 @@
+{
+    "uvp": 62.99,
+    "attributes": "<ul><li>Sofort-Deckkraft bietet perfekte Ergebnisse</li><li>hohe Ergiebigkeit für große Flächen</li><li>umweltfreundlich ohne schädliche Zusatzstoffe</li><li>Nassabriebklasse 3 - waschbeständig</li><li>moderne matte Optik für Innenräume</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>Schnur aus Polyester</li><li>in der Farbe Weiß</li><li>gedrehte Kunststoffschnur</li><li>Belastbarkeit bis ca. 17 kg</li><li>universell einsetzbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Profi Schlosserhammer Hickory</li><li>mit Stielschutz</li><li>maßgenau geschliffen</li><li>sorgfältig gehärtet</li></ul>"
+}

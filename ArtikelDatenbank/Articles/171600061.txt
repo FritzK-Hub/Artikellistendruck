@@ -1,0 +1,4 @@
+{
+    "uvp": 32.95,
+    "attributes": "<ul><li>gebrauchsfertiger Reparatur Asphalt</li><li>zum Verfüllen von Schlaglöchern</li><li>frost- und witterungsbeständig</li><li>härtet schnell aus und überasphaltierbar</li><li>sofort standfest und befahrbar nach dem Verdichten</li></ul>"
+}

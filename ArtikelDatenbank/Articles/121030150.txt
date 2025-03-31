@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Notizblock kariert</li><li>4 Stück im Set</li><li>Format DIN A7</li><li>umweltfreundlich</li><li>Notizblock mit Perforation<br/></li></ul>"
+}

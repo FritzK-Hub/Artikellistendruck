@@ -1,0 +1,4 @@
+{
+    "uvp": 9.45,
+    "attributes": "<ul><li>Boden-Beschichtungs-Roller mit 18 cm Breite</li><li>ergonomischer Griff für ermüdungsfreies Arbeiten</li><li>stabiler und strapazierfähiger Walzenbezug</li><li>für ein feines Oberflächenfinish</li><li>insbesondere für zähflüssige Anstriche geeignet</li></ul>"
+}

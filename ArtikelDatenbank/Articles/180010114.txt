@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>20 Liter Blumenerde</li><li>universell und gebrauchsfertig einsetzbar</li><li>für alle Anwendungsbereiche in Haus und Garten</li><li>mit Guano für alle Anwendungsbereiche</li><li>mit Nährstoffen angereichert<br/></li></ul>"
+}

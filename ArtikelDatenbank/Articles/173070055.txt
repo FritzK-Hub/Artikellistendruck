@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li><strong>Adapterset</strong> 4-teilig mit Schnelllöser</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>kann die 3 Knarre in Verbindung mit Ratschen-Ringschlüsseln ersetzen</li><li>verfügt über eine hochglänzende, verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li></ul>"
+}

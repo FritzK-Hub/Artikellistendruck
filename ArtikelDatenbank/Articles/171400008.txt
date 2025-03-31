@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>für individuelle Gestaltung</li><li>100 mm breit</li><li>weiche Borsten</li><li>geeignet für den Innenbereich</li><li>ergonomisch und geringes Gewicht</li></ul>"
+}

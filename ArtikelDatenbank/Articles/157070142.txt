@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>für das Abdichten von Anschlussfugen</li><li>leicht zu verarbeiten und überstreichbar</li><li>für innen und außen geeignet</li><li>überstreichbar und gebrauchsfertig</li><li>plastoelastisch und pilzhemmend</li></ul>"
+}

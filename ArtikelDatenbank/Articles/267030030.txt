@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Profi Spanngurt 2 teilig 5 m</li><li>für die Ladungssicherung</li><li>mit extra großer Ratsche</li><li>inklusive zwei Spitzhaken</li><li>25 mm Gurtbreite</li></ul>"
+}

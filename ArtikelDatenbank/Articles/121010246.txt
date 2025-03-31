@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>stabiler Blumentopf für innen und außen</li><li>mit Einsatz zum einfacheren Bepflanzen</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>UV-beständig, witterungsbeständig und stoßfest</li><li>kugelförmiger Pflanztopf in Beton-Optik</li></ul>"
+}

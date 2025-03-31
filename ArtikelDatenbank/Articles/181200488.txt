@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Stabtomate Goldene Königin  für ca. 80 Pflanzen</li><li>mittelfrühe Sorte für den Freilandanbau</li><li>goldgelbe, kugelglatte Frucht mit mildem Geschmack</li><li>zählt zu den Liebhabertomatensorten</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

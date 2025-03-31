@@ -1,0 +1,4 @@
+{
+    "uvp": 47.0,
+    "attributes": "<ul><li>Zaunpfosten mit Klemmlasche für Doppelstab-Gittermatten</li><li>zum Einbetonieren</li><li>passend für Mattenhöhe 120 cm</li><li>aus sendzimirverzinktem und kunststoffbeschichtetem Stahl</li><li>Bohrabstand: 400 mm<br/></li></ul>"
+}

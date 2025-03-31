@@ -1,0 +1,4 @@
+{
+    "uvp": 107.99,
+    "attributes": "<ul><li>komfortables, leichtes Kettensägen-Schutzausrüstungs-Set</li><li>sorgenfreies Arbeiten, umfassender Schutz</li><li>Schnittschutz-Handschuhe inklusive</li><li>universelle Passform</li><li>robuste Materialien<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>temperaturbeständig bis 90°C</li><li>leicht zu biegen</li><li>strömungsgünstige Form</li><li>für zuverlässige Ableitung von Abluft</li><li>einfache Installation<br/></li></ul>"
+}

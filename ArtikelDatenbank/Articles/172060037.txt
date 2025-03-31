@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Wago Klemmen zur einfachen Verwendung</li><li>zum schnellen und praktischen Verbinden</li><li>Steckklemmen für eindratige Leiter</li><li>aus hochwertigem Kunststoff</li><li>zuverlässige und vielseitige Anwendung<br/></li></ul>"
+}

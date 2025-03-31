@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Teleskop-Stange bietet variable Reichweite</li><li>Mikrofaser-Wedel für gründliche Reinigung</li><li>flexibel anpassbare Spitze zum Erreichen verwinkelter Stellen</li><li>Farbwahl für jeden Stil und Geschmack</li><li>robust und langlebig zum regelmäßigen Gebrauch</li></ul>"
+}

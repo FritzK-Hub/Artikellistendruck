@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>FISHBULL Motorenöl für Otto- und Dieselmotoren</li><li>für Otto- und Dieselmotoren mit und ohne Turboaufladung geeignet</li><li>Mehrbereichs-Motorenöl der SAE-Klasse 15W-40</li><li>ausgesuchte Grundöle für beste Schmiereigenschaften</li><li>Erstraffinat, Universal-Motorenöl</li></ul>"
+}

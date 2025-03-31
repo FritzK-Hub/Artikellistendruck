@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>eine lösemittelfreie, faserverstärkte Fugenmasse aus Bitumenbasis</li><li>hochwertiger, schwarzer Bitumenanstrich</li><li>wasserabweisend und nicht versprödend<br/></li><li>erzielt eine gute Haftung auf unterschiedlichsten Untergründen</li><li>beständig gegen natürlich vorkommende betonaggressive Stoffe<br/></li></ul>"
+}

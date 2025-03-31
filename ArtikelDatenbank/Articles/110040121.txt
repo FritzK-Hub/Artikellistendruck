@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>maximale Sicherheit</li><li>großzügiger Stauraum</li><li>robuste Konstruktion</li><li>einfacher Transport</li><li>vielseitige Anwendung</li></ul>"
+}

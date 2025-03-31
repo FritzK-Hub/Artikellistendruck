@@ -1,0 +1,4 @@
+{
+    "uvp": 6.79,
+    "attributes": "<ul><li>1/4\"</li><li>300mm lang</li><li>matt verchromt</li></ul>"
+}

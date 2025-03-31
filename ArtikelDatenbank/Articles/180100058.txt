@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>LIQUI MOLY 2-Takt-Motoröl 100 ml selbstmischend </li><li>basierend auf mineralischen und synthetischen Grundölen mit spezieller Additivtechnologie</li><li>für alle in luft- und wassergekühlten 2-Takt-Motoren wie Motorräder, Mopeds, Rasenmäher oder Motorsägen</li><li>sichert die Funktionsfähigkeit der Motoren</li><li>schützt vor Verschleiß und sichert die maximale Lebensdauer<br/></li></ul>"
+}

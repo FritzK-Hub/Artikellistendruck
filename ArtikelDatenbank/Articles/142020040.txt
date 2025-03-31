@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Malschürze in Universalgröße</li><li>mit 6 aufgesetzten Fronttaschen</li><li>aus 100 % Baumwolle</li><li>waschbar bei 30°</li><li>Kinderschürze zum Malen, Basteln und Werken<br/></li></ul>"
+}

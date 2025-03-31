@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Nachtlicht mit warmweißem Licht</li><li>eine praktische Einschlafhilfe für kleine Kinder</li><li>schützt die Zehen und Knie vor nächtlichen Stößen</li><li>verfügt über einen Dämmerungs- und Bewegungssensor</li><li>kann einfach in eine Steckdose gesteckt werden<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 389.0,
+    "attributes": "<ul><li>Elektroheizer GH 15 E von Güde® mit 15 kW<br/></li><li>besitzt 3 Heizstufen und eine Ventilatorfunktion</li><li>eignet sich zum Heizen und Trocknen in der Bauindustrie </li><li>maximale Sicherheit dank integriertem Überhitzungschutz</li><li>Tragegriff und Räder erleichtern den Transport</li></ul>"
+}

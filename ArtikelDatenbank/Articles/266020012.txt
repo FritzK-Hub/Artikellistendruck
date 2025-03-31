@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Tragkraft pro Rad ca. 40 kg</li><li>Rad mit Profil</li><li>rollengelagert</li><li>Vollgummi</li><li>Rad inklusive Fadenschutz</li></ul>"
+}

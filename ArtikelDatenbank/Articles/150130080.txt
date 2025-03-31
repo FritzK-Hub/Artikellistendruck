@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>selbstmischend für bequeme Anwendung</li><li>optimale Leistung bei 2-Takt-Motoren</li><li>schützt vor Korrosion und Verschleiß</li><li>längere Zündkerzen-Lebensdauer durch saubere Verbrennung</li><li>verbessert Abgaswerte</li></ul>"
+}

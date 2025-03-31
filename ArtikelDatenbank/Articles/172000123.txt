@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    mit Schraubklemmen,                                                                     /n2 x 8 (4) parallel geschaltet Cat.3,                                                /nfür 2 Endgeräte/n\"\"/n                "
+}

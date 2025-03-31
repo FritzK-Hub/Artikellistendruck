@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>universell einsetzbarer HEPA–Feinfilter</li><li>passender Ersatzfilter für GERMANIA® Aschesauger 20 Liter (130510003)</li><li>ist auswaschbar und wiederverwendbar</li><li>Schutz für Grobschmutz und Asche</li><li>allergikerfreundlich dank den feinen Poren<br/><br/></li></ul>"
+}

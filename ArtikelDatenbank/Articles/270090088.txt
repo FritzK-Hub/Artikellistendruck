@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Größe: (Ø) ca. 115 mm</li><li>Stärke: (t) ca. 1 mm</li><li>Bohrung: (Ø) ca. 22,23 mm</li><li>Form: flach</li><li>Inhalt: 5 + 1 gratis Vorteilspack</li><li>Material: für Edelstahl und Metalle</li><li>entspricht DIN EN 12413</li><li>passend für Winkelschleifer/Fliesenschneider mit einer 22,2 mm Aufnahme</li></ul>"
+}

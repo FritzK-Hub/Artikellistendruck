@@ -1,0 +1,4 @@
+{
+    "uvp": 45.95,
+    "attributes": "<ul><li>äußerst robust und langlebig</li><li>mit Dichtung und Tropfkante</li><li>abnehmbare Türscheibe mit Vierkantverschluss </li><li>für den Innen- und Außenbereich geeignet</li><li>Lieferung inklusive Schlüssel<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>sicher isoliert</li><li>zur Prüfung von Phasen-, Neutral- und Schutzleitern</li><li>Anzeige über Glimmlampe</li><li>Phasenprüfer in praktischer Stiftform</li><li>transparentes Design<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>besonders hoher Tragekomfort</li><li>für Wohlfühl-Wärme an kalten Tagen</li><li>Reflektionsstreifen zur besseren Erkennbarkeit</li><li>mit original 3M Thinsulate-Futter</li><li>ideal für die Waldarbeit, reduziert das Erkältungsrisiko<br/></li></ul>"
+}

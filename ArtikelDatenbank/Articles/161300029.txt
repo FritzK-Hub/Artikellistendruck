@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>vielseitig: das Set enthält Koffer in drei verschiedenen Größen</li><li>sicher: das integrierte Zahlenschloss schützt die Sachen vor Diebstahl</li><li>sehr beweglich dank 360° Leichtlauf-Doppelrollen</li><li>ineinander stapelbar und nehmen somit minimalen Stauraum ein</li><li>strapazierfähig: ABS-Kunststoff Hartschale und Aluminium sorgen für lange Haltbarkeit</li></ul>"
+}

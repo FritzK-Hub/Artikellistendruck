@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Handabroller für Packband</li><li>mit Handgriff aus Kunststoff</li><li>Andruckrolle aus Kunststoff</li><li>verstellbare Rollenbremse</li><li>inklusive 20 m Packband</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Zangenfalle für Wühlmäuse 19 x 8 cm</li><li>aus stabilem Metall gefertigt</li><li>es wird kein Köder benötigt</li><li>ist einfach in der Handhabung</li><li>löst sich beim Berühren der Metallplättchen aus<br/></li></ul>"
+}

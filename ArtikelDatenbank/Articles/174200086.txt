@@ -1,0 +1,4 @@
+{
+    "uvp": 32.99,
+    "attributes": "<ul><li>vielseitige Strahlarten</li><li>modernes Design</li><li>praktischer Druckknopf</li><li>mit Antikalk-Noppen</li><li>inklusive Wasserspardichtung<br/></li></ul>"
+}

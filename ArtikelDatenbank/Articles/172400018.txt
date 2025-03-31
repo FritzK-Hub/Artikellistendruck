@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>ECO Hörgerätebatterie-Set 6 Stück Typ13 </li><li>hohe Sicherheit durch elektrochemisches System</li><li>sind leistungsstarke Knopfzellen</li><li>leicht und einzeln zu entnehmen</li><li>ideal für den Einsatz in Hörgeräten<br/></li></ul>"
+}

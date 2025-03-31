@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatgut Schnittsalat Red Bowl, 2 Meter Saatband</li><li>eine sehr ertragreiche, spätschossende Salatsorte</li><li>mit zarten, eichenlaubförmigen und roten Blättern</li><li>lässt sich als Pflück- oder Kopfsalat verwenden</li><li>ideal für den Frischverzehr oder für Salate<br/></li></ul>"
+}

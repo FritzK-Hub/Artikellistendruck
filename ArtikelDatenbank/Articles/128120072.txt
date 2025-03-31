@@ -1,0 +1,4 @@
+{
+    "uvp": 105.95,
+    "attributes": "<ul><li>3-teiliges, klappbares Bistroset aus Metall</li><li>zwei Stühle und ein quadratischer Tisch</li><li>für den Innen- als auch Außenbereich geeignet</li><li>für mehr Gemütlichkeit im Garten</li><li>mit Polyrattanbespannung<br/></li></ul>"
+}

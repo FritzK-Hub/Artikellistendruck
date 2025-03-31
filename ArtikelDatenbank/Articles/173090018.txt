@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>6-kant</li><li>Größe: 13x230mm</li><li>extra schwerer Kunststoff-Quergriff mit Aufhängebohrungen</li><li>Aussensechskant für schwer lösbare Verschraubung</li></ul>"
+}

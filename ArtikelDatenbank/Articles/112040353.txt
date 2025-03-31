@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>für digital und analog geeignet</li><li>ohne Stecker und Kupplung</li><li>für die Verlegung in Räumen und im Aussenbereich</li><li>doppelt geschirmt</li><li>zum Anschluss der Antennenanlage sowie für Kabelfernsehen und Satellitenempfang<br/></li></ul>"
+}

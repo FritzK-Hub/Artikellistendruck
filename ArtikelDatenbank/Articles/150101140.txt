@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Besen mit gemischten Strohborsten und Stiel</li><li>einfache Handhabung, sorgt für mehr Sauberkeit und Ordnung</li><li>universell einsetzbar im Garten, Terrasse oder auf Wegen</li><li>zum Entfernen von Schmutz auf glatten oder rauen Oberflächen</li><li>rückenschonende Arbeit dank 143 cm Holzstiel<br/></li></ul>"
+}

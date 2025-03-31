@@ -1,0 +1,4 @@
+{
+    "uvp": 6.19,
+    "attributes": "<ul><li>qualitativ hochwertiges Hartlot von CFH</li><li>im praktischen 5er Pack, 33cm lang mit 2mm Ø</li><li>zur Verarbeitung von Stahl, Gusseisen Temperguss</li><li>auch zur Verwendung mit Nickel, Kupfer, Messing und Bronze</li><li>verbindet durch Spalt- und Fugenlöten bei 900°C Arbeitstemperatur</li></ul><p></p>"
+}

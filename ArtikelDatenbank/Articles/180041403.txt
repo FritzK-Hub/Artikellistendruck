@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Kleingrubber 41 cm mit 3 Zinken von GERMANIA®<br/></li><li>aus stabilem, verzinktem Stahl gefertigt</li><li>für anspruchsvollen Bodenarbeiten im Garten</li><li>angenehme Gartenarbeit dank 2-Komponenten Kunststoffgriff</li><li>bei Nichtgebrauch dank Aufhängöse aufhängbar</li></ul>"
+}

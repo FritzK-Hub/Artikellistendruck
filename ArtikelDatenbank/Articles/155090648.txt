@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>hochwertige Materialien</li><li>vielseitige Anwendung</li><li>hohe Sicherheit</li><li>feuchtraumgeeignet</li><li>Nennspannung von bis zu 500 V<br/><br/></li></ul>"
+}

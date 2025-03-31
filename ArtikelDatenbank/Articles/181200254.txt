@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Kerbel einjährig für ca. 3-5 laufende Meter</li><li>mit feinen, zierlichen und gekrausten Blättern</li><li>zur Verfeinerung von Suppen oder Quarkspeisen</li><li>Blätter haben eine stoffwechselanregende Wirkung</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

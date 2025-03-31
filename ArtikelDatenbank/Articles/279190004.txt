@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Schlüsselanhänger Maßband</li><li>Maßband 1m x 4mm</li><li>mit Metallring</li><li>robustes Kunststoffgehäuse, schlagfest, gummiert</li><li>höchster Bedienungskomfort und maximale Haltbarkeit</li></ul>"
+}

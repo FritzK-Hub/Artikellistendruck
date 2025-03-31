@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Durchmesser Kopf: ca. 15,45 mm</li><li>Höhe Kopf: ca. 3,12 mm</li><li>Durchmesser Vierkantansatz: ca. 5,52 mm</li><li>Höhe Vierkantansatz: ca. 3,4 mm</li><li>Durchmesser Schraube: ca. 6,0 mm (M6)</li><li>Länge: ca. 40 mm</li></ul>"
+}

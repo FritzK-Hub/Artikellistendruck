@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>praktische Badewannenablage aus stabilem Bambus</li><li>sorgt für ein entspanntes Badeerlebnis </li><li>bietet ausreichend Platz für Bad- und Duschutensilien</li><li>Seitengriffe sind von 70 bis 104 cm ausziehbar</li><li>mit Halterung für Handy, Bücher und Weinglashalterung versehen<br/></li></ul>"
+}

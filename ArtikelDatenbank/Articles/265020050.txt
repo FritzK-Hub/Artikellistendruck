@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>Scharnier asymmetrisch mit Stift</li><li>aus robustem A4 Edelstahl</li><li>für Schränke, Türbeschläge </li><li>mit fünf versenkten Schraublöchern</li><li>für den Innen- oder Außenbereich</li></ul>"
+}

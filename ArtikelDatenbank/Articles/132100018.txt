@@ -1,0 +1,4 @@
+{
+    "uvp": 119.95,
+    "attributes": "<ul><li>Laserführung für maximale Schnittpräzision</li><li>Schnitttiefe flexibel bis 65 mm</li><li>leistungsstarke 1600 Watt für Holzarbeiten</li><li>komfortabler Anti-Rutsch-Griff bietet Sicherheit</li><li>müheloser Sägeblattwechsel mit Spindelarretierung</li></ul>"
+}

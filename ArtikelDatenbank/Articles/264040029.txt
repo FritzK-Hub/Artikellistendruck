@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Art: Ösenhaken</li><li>Maße: (LxBxH) ca. 80x55x10mm, ca. 26mm (außen)</li><li>Haken Öffnung / Weite: ca. 17mm</li><li>Materialstärke Haken: (t) ca. 10mm</li><li>Tragkraft: max. ca. 1200kg</li></ul>"
+}

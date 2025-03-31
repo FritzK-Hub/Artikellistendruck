@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>5 Zangen in einem kompakten Set</li><li>schnell wechselbare Köpfe schaffen Flexibilität</li><li>ergonomischer Griff für komfortables Arbeiten</li><li>robuste Materialien bieten lange Haltbarkeit</li><li>praktische Aufbewahrungsbox zum einfachen Transport</li></ul>"
+}

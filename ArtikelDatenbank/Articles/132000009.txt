@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>20 V Plattform Akkuschrauber Generation 2.0 mit 1-Gang Getriebe</li><li>einfache Handhabung dank ergonomischem Gehäuse</li><li>ein zuverlässiges Werkzeug für jeden Handwerker</li><li>Spindelsperre und der Links-/Rechtslauf machen den Akkuschrauber flexibel</li><li>mit schlüssellosem Bohrfutter und variabler Drehzahl versehen</li></ul>"
+}

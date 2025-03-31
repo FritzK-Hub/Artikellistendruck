@@ -1,0 +1,4 @@
+{
+    "uvp": 6.29,
+    "attributes": "<ul><li>3/4\" Schlauchverbinder zur Gartenschlauch-Verbindung</li><li>schnell und einfach ohne Werkzeug Schläuche reparieren / verbinden</li><li>speziell geformte Überwurfmutter für hohe Schlauchhaltekraft</li><li>Reparator zur schnellen Schlauchreparatur</li><li>Verbindungsstück geeignet für 3/4\" Gartenschläuche<br/></li></ul>"
+}

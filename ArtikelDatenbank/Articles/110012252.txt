@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Exzentergarnitur aus verchromtem Messing</li><li>für Waschtische mit Überlauf</li><li>inklusive Ablaufventil, Exzenterstange und Exzentergelenk</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>ergonomischer Kindersitz Rafi für optimalen Sitzkomfort </li><li>für Kinder mit einer Körpergröße von 125-150 cm </li><li>seitliche Gurtführung verhindert Einschneiden des Gurtes am Hals</li><li>bei Bedarf ist der Bezug mühelos abnehmbar und waschbar</li><li>erhöhte Sitzposition ermöglicht bessere Sicht auf die Umgebung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>hochwertiger Carbonstahl</li><li>ergonomischer Griff</li><li>mit Einhandverschluss</li><li>leicht und handlich</li><li>präzise Schnitte</li></ul>"
+}

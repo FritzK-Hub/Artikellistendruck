@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>Rundstahlkette Form C</li><li>langgliedrig, wulstlos geschweißt und entgratet</li><li>aus verzinktem Stahl</li><li>Meterware auf Spule</li><li>Länge individuell von 1m bis 25m</li></ul>"
+}

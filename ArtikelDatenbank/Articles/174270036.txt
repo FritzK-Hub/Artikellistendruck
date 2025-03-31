@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>gerade VDE Radiozange für Elektroinstallationen</li><li>besonders schmale Bauart für schwer zugängliche Stellen</li><li>mit einer zwei Komponenten Griffhülle ausgestattet</li><li>aus hochwertigem Stahl hergestellt</li><li>ist formstabil bei Verwindung</li></ul>"
+}

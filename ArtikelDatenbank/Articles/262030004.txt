@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>robuster Korrosionsschutz</li><li>präzise 90° Winkel</li><li>einfache Montage</li><li>vielseitige Anwendung</li><li>robust und zuverlässig</li></ul>"
+}

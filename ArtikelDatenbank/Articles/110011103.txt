@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>für Lüftungsrohre Ø 100 mm</li><li>schafft luftdichte Verbindung </li><li>gewährleistet effektiven Ablufttransport</li><li>vereinfacht das Verlängern von Abluftsystemen</li><li>schnelle und sichere Montage</li></ul>"
+}

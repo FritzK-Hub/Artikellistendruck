@@ -1,0 +1,4 @@
+{
+    "uvp": 129.95,
+    "attributes": "<ul><li>umfangreiches Makita Werkzeugsortiment</li><li>ideal für Werkstatt oder Heimwerker</li><li>gut aufgeräumt im stabilen Koffer</li><li>auch für härtere Einsatzbedingungen geeignet (Baustelle)</li><li>alle Werkzeuge aus robustem Chrom-Vanadium-Stahl hergestellt</li></ul>"
+}

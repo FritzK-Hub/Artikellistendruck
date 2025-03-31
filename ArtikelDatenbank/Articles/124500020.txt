@@ -1,0 +1,4 @@
+{
+    "uvp": 1299.0,
+    "attributes": "<ul><li>2.000 Liter Regenwasser-Flachtank für Regenwassernutzung</li><li>inklusive Biovitor, dem biologischen Regenwasserfilter</li><li>ausziehbarer Ausgleichsdom von 380 - 580 mm</li><li>mit begehbarer Abdeckung, belastbar bis 200 kg</li><li>3 Anschlüsse nach DN 100 mit Gummilippendichtung</li></ul>"
+}

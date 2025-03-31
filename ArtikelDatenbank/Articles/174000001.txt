@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>aus strapazierfähigem Silikon</li><li>ideal für Waschbecken</li><li>in konischer Form</li><li>eine saubere und moderne Optik</li><li>zuverlässiger Schutz<br/></li></ul>"
+}

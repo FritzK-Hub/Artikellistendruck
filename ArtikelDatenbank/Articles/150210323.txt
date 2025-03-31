@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Wäschekorb aus stabilem Kunststoff gefertigt</li><li>sorgt für mehr Ordnung im Schlaf- oder Badezimmer</li><li>45 Liter Fassungsvermögen bietet ausreichend Stauraum</li><li>geringes Eigengewicht für den einfachen Transport der Wäsche</li><li>feine Belüftungslöcher sorgen für eine gute Luftzirkulation <br/></li></ul>"
+}

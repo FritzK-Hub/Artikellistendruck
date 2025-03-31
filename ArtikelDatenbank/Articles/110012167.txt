@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>passend für Schwenkausläufe in den Größen ½\" und ¾\"</li><li>geeignet für den Einsatz in Haushalt und Industrie</li><li>hochwertiger Gummi für zuverlässige Abdichtung</li><li>einfache Installation dank präziser Passform</li><li>enthält je zwei O-Ringe für beide Größen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Fahrrad-Naben Putzringe</li><li>in zwei verschiedenen Größen</li><li>starke Reinigungswirkung</li><li>passend für alle Naben</li><li>für Vorder- und Hinterradnabe</li></ul>"
+}

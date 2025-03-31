@@ -1,0 +1,4 @@
+{
+    "uvp": 5.89,
+    "attributes": "<ul><li>Pflanztopfuntersetzer für Balkonkasten </li><li>optimal abgestimmt auf den Balkonkasten mit Bewässerungseinsatz 59 x 21 x 17 cm</li><li>in der Farbe anthrazit</li><li>aus hochwertigem Kunststoff</li><li>robust und bruchsicher</li></ul>"
+}

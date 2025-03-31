@@ -1,0 +1,4 @@
+{
+    "uvp": 16.29,
+    "attributes": "<ul><li>10 m SAT-Anschlusskabel</li><li>2-fach geschirmtes SAT-Kabel</li><li>Ausführung SAT an Receiver</li><li>für SAT-Empfang</li><li>mit Koaxial-Aufbau</li></ul>"
+}

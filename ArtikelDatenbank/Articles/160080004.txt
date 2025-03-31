@@ -1,0 +1,4 @@
+{
+    "uvp": 3.1,
+    "attributes": "<ul><li>Drahtstifte 1,8 x 35 mm aus blankem Eisen </li><li>zum einfachen Verbinden von Hölzern</li><li>universell einsetzbar bei Renovierungs- und Bauarbeiten</li><li>auch zum Aufhängen von Bilderrahmen geeignet</li><li>bei Nichtgebrauch in der Sichtbox verstaubar<br/></li></ul>"
+}

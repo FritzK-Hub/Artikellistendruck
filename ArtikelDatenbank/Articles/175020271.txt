@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Schwingschleifer mit 250 W Leistung</li><li>187x90 mm Schleiffläche</li><li>ideal zum Schleifen von großen Flächen</li><li>Schnellspann-Klemmbefestigung</li><li>mit Staubfangbox</li></ul>"
+}

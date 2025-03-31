@@ -1,0 +1,4 @@
+{
+    "uvp": 699.95,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> 3-teilige Garten Sitzgruppe bestehend aus 2 x Bank und 1 x Tisch </li><li> extra robust und witterungsbeständig </li><li> massives Kiefernholz, 35 mm stark </li><li> kammergetrocknet, hellbraun lasiert und imprägniert </li><li> einfache und schnelle Montage </li></ul> </div>"
+}

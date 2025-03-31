@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Unterstellbock von Unitec</li><li>Stützbock mit 2 Tonnen Tragkraft</li><li>in der Höhe verstellbar</li><li>platzsparend zusammenklappbar</li><li>mit Splint und Sicherung</li></ul>"
+}

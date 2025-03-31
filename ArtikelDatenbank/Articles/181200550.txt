@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Saatgut Luzerne für ca. 20 m²</li><li>ist ein nährstoffreiches Grün- und Trockenfutter</li><li>lässt sich als Gründüngung verwenden</li><li>ab Beginn der Blütenbildung schneiden</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.69,
+    "attributes": "<ul><li>Scharnier quadratisch mit Stift</li><li>aus robustem A4 Edelstahl</li><li>für Schränke, Türbeschläge </li><li>mit vier versenkten Schraublöchern</li><li>für den Innen- oder Außenbereich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.9,
+    "attributes": "<ul><li>Rollo mit Klemmträger für eine Montage ohne Bohren</li><li>mit Verdunkelungsfunktion</li><li>leicht zu reinigen und feuchtraumgeeignet</li><li>Bedienung per Kettenzug</li><li>für die Montage an der Wand, Decke oder direkt am Fensterrahmen <br/><br/></li></ul>"
+}

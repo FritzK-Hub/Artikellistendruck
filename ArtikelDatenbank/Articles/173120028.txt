@@ -1,0 +1,4 @@
+{
+    "uvp": 8.59,
+    "attributes": "<ul><li>Größe: 24x27mm</li><li>gehärtet und verchromt</li><li>mit polierten Köpfen</li><li>doppelt gekröpft</li></ul>"
+}

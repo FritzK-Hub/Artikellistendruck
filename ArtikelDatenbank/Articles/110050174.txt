@@ -1,0 +1,4 @@
+{
+    "uvp": 1.5,
+    "attributes": "<ul><li>praktisches Set, enthält 8 Kunststoff-Schlüsselanhänger</li><li> je 2 Anhänger in Blau, Rot, Gelb und Weiß</li><li>austauschbare Papiereinlagen</li><li>jeder Anhänger verfügt über einen stabilen Metallring</li><li> ideal, um deine Schlüssel zu organisieren<br/></li></ul>"
+}

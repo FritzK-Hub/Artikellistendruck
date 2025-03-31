@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>gebrauchsfertige Paste in 50 g-Tube</li><li>für eine schnelle Holzreparatur</li><li>individuelle Farbgestaltung durch Mischen</li><li>vielseitige Bearbeitungsmöglichkeiten</li><li>für makellose Ergebnisse</li></ul>"
+}

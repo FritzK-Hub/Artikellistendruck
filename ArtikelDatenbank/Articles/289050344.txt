@@ -1,0 +1,4 @@
+{
+    "uvp": 3.69,
+    "attributes": "<ul><li>Winkel-Abschluss-Profil 100 x 2,5 x 2,1 cm in braun</li><li>aus stabilem Hart-PVC gefertigt</li><li>sauberer, dauerhafter und trittfester Abschluss</li><li>unsaubere Schnittkanten werden verdeckt</li><li>Stolperfallen werden vermieden</li></ul>"
+}

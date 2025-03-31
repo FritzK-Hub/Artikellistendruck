@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>wasserbasierte lichtechte Beize</li><li>umweltfreundlich und lösungsmittelfrei</li><li>zum Beizen von Hart- und Weichhölzern</li><li>für dekorative Oberflächen</li><li>Endbearbeitung erforderlich<br/></li></ul>"
+}

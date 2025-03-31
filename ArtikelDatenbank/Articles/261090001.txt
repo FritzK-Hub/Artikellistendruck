@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Menge: 50 Stück</li><li>Durchmesser: Ø ca. 6mm</li><li>Länge: ca. 17mm</li><li>Farbe: grau</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>verstellbarer Pfostenträger</li><li>höhenverstellbar von 150 bis 190 mm</li><li>zum Aufdübeln</li><li>kaum sichtbare Verbindungen</li><li>ideal für Pergolen und Sichtschutzzäunen</li></ul>"
+}

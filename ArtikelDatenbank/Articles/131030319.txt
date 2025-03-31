@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>400 ml Möbelspray in Spraydose</li><li>die optimale Möbelfplege</li><li>mit umweltgerechtem Treibmittel</li><li>für alle Hölzer geeignet</li><li>pflegt auch Kunststoffe und Marmor<br/></li></ul>"
+}

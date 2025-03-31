@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>zuverlässige Abdichtung bei Gas, Wasser und Heizungsanlagen</li><li>PTFE-Band für zusätzlichen Schutz vor Undichtigkeiten</li><li>starke Dichtungtkraft mittels Tube Neo-Fermit</li><li>perfekt für viele Installationsarten und -bereiche</li><li>Dichthanf Strang für bewährte Gewindeabdichtung</li></ul>"
+}

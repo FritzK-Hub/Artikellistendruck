@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Kratzbaum für kleine Kätzchen</li><li>perfekt für die Krallenpflege geeignet</li><li>Bodenplatte mit weichem Plüsch überzogen</li><li>Kartonrohr umwickelt mit Sisalfaser</li><li>inklusive Spielball, einfach zu montieren<br/></li></ul>"
+}

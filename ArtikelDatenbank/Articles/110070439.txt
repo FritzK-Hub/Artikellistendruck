@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Ofenrohr mit Regendach</li><li>aus feueraluminiertem Stahlblech</li><li>für den Außenbereich</li></ul>"
+}

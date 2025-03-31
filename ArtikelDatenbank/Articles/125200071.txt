@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>REINEX Schneckenstopp</li><li>bietet zuverlässigen Schutz Schnecken im Garten</li><li>streubares Granulat</li><li>wirkt natürlich und ist regenfest</li><li>stellt keine Gefahr für Haustiere, Igel oder spielende Kinder dar<br/><br/></li></ul>"
+}

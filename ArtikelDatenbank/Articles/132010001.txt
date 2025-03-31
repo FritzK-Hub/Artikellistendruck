@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Einzelfuttermittel für Hunde</li><li>ermöglicht die gezielte Zahnpflege</li><li>wirkt wie eine Zahnbürste</li><li>reines Naturprodukt</li><li>stärkt die Kaumuskulatur</li></ul>"
+}

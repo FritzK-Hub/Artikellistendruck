@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>klassische Wühlmausfalle</li><li>aus verzinktem Draht gefertigt</li><li>funktioniert ohne Chemie</li><li>robust und zuverlässig</li><li>kann dank Ringöffnung am Stab fixierbar<br/></li></ul>"
+}

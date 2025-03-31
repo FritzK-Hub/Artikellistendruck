@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Badematte auf Rolle bis maximal 15 m<br/></li><li>weiche warme Matte für dein Badezimmer </li><li>antibakteriell, rutschfest und luftdurchlässig</li><li>bei bis zu 40° C einfach waschbar</li><li>modernes Marmor-Design</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Malerpinsel für alle Wand - Decken &amp; Fassadenfarben</li><li>sehr guter Material-Auftrag und lange Lebensdauer</li><li>gebogener Pinselkopf</li><li>bestens geeignet für schwer zugängliche Stellen</li><li>langer und extra starker Holzstiel</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>2-teilige faltbare Grillplatte</li><li>aus hochwertigem Edelstahl</li><li>für besonders zarte und feine Zutaten</li><li>eine Seite zum Grillen, die andere zum Anbraten</li><li>Stärke von ca. 3 mm<br/></li></ul>"
+}

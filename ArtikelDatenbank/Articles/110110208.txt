@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>vielseitig einsetzbarer Stahldrahtbesen 6-reihig</li><li>stabiler Rücken aus Buchenholz</li><li>besonders langlebig und robust</li><li>für eine professionelle Reinigung</li><li>in Industrie, Haus und Garten verwendbar<br/></li></ul>"
+}

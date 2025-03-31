@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>WiFi-Wandleuchte quadratisch in weiß von Hama</li><li>sorgt in Wohnräumgen, Küchen oder im Außenbereich für eine klare Sicht</li><li>Farbtemperatur nach Belieben von warmweiß bis tageslichtähnlich einstellbar</li><li>auch über „Amazon Alexa“ oder „Google Assistant“ sprachsteuerbar</li><li>inklusive einer Schnellstartanleitung</li></ul>"
+}

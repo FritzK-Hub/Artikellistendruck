@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>Kreuzhackenstiel ca. 95 cm lang</li><li>aus robustem Eschenholz gefertigt</li><li>ideal für den Gebrauch von 1,5 - 2 kg Köpfen</li><li>besitzt eine ovale Formung</li><li>geprüfte GERMANIA®-Qualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>Kehrgarnitur YOYO aus Kunststoff</li><li>Kehrschaufel mit Lippe</li><li>Handfeger mit 2-Komponen-Griff</li><li>Borsten aus weichem Elaston</li><li>mit Öse zum Aufhängen<br/></li></ul>"
+}

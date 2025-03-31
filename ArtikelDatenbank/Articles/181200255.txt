@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>würziges Kraut</li><li>ist länger frisch als andere Sorten</li><li>raschwüchsige Pflanze</li><li>regelmäßig feucht halten</li><li>vitaminreiche Kresse<br/></li></ul>"
+}

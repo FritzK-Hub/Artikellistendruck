@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>torfreduzierte Balkonerde</li><li>für Grün- und Blühpflanzen auf Balkon und Terrasse geeignet</li><li>besonders hohe Wasser- und Nährstoffspeicherkapazität</li><li>perfekt für kräftige Blütenbildung</li><li>aus nachwachsenden Rohstoffen</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>für einen unkrautfreien Garten</li><li>schnelle und starke Wirkung</li><li>umweltfreundlich und biologisch </li><li>optimale Anwendungszeit</li><li>große Reichweite<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Klemmring-Übergangsstück universell einsetzbar für die Sanitär-, Heizungs-, Gas-, Öl-und Druckluftinstallation</li><li>korrosionsbeständiges Material für zuverlässige Leistung in verschiedenen Umgebungen</li><li>einfache Installation keine Spezialwerkzeuge erforderlich</li><li>einfache und sichere Verbindung zwischen Kupferrohren</li><li>rein metallisch dichtend</li></ul><p></p>"
+}

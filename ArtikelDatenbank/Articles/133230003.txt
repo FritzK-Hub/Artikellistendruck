@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>robuste Trennscheibe für präzise und schmale Schnitte</li><li>wenig Materialabtrag</li><li>hohe Standzeit</li><li>zum Trennen von Metall, Edelstahl und Stahl</li><li>ideal für Profis und Heimwerker<br/></li></ul>"
+}

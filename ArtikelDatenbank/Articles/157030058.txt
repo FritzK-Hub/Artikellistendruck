@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><ul><li></li><li>Verarbeitung: kann gestrichen oder gerollt werden, zum Spritzen mit Wasser auf Spritzviskosität einstellen</li><li>Eigenschaften: dringt tief ins Holz ein, offenporig, kein Abblättern, schützt Holz weitgehend vor Witterungseinflüssen</li><li>Untergründe: alle nicht maßhaltigen Holzbauteile außen, wie Gartenbauhölzer, Jägerzäune, Palisaden und Pergolen</li></ul></ul>"
+}

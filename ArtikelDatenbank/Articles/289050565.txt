@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Griff-Profil aus eloxiertem Aluminium</li><li>Griffleiste für Schubladen, Auszüge oder Türen </li><li>Maße Profil (a,b,c): 40, 13, 18 mm</li><li>Materialstärke 2 mm</li><li>Griffleiste in silber</li></ul>"
+}

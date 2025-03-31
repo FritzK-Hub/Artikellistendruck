@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>eignet sich zum Schneiden von Aluminium oder Metall</li><li>vielseitig in der Industrie oder im Handwerk einsetzbar</li><li>Bügelstück aus Alu-Druckguss bietet zusätzliche Stabilität</li><li>Gummihandgriff garantiert sicheren Halt und leichte Sägebewegung</li><li>einfach in der Handhabung, besonders langlebig und stabil<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Schraubendreher Set 7-teilig</li><li>ideal für jeden Elektriker und Heimwerker</li><li>schnellere Orientierung dank Werkzeugbeschriftung</li><li>Schrauben können sehr leicht aufgesetzt/eingeschraubt werden</li><li>bgeflachten Kanten verhindert das Wegrollen<br/></li></ul>"
+}

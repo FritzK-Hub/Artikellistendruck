@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>sportliche Schutzbrille mit mechanischer Festigkeit F</li><li>offene Ausführung mit hohem Tragekomfort</li><li>Bügel in Neigung und Länge verstellbar <br/></li><li>optische Klasse 1, mit UV-Filter</li><li>weicher, flexibler Nasenbügel und integrierter seitlicher Schutz</li></ul>"
+}

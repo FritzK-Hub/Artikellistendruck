@@ -1,0 +1,4 @@
+{
+    "uvp": 25.99,
+    "attributes": "<ul><li>vielseitige Möglichkeiten für Beleuchtungswünsche</li><li>zur Beleuchtung von Gegenständen oder Bildern</li><li>schwenkbarer Rahmen für individuelle Ausleuchtung</li><li>stilvolle Einbaustrahler mit langlebiger Konstruktion</li><li>schnell und einfach in der Bedienung, leicht montierbar</li></ul>"
+}

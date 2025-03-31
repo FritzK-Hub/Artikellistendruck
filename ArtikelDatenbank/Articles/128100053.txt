@@ -1,0 +1,4 @@
+{
+    "uvp": 141.95,
+    "attributes": "<ul><li>robuster Gartentisch im Landhausstil</li><li>klappbar und platzsparend verstaubar</li><li>Akazienholz geölt und wetterfest</li><li>mit Schirmloch in der Mitte</li><li>Gartentisch mit ovaler Form</li></ul>"
+}

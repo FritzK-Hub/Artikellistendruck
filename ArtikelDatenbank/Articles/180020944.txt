@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Standrohrverschraubung aus Messin</li><li>mit 3/4\" Tülle und 3/4\" Außengewinde</li><li>zum Anschluss eines 3/4\" Schlauchs an einem Standrohr mit 3/4\" Innengewinde</li><li>Montage mittels Schlauchschellen</li></ul>"
+}

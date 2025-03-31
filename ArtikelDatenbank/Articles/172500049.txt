@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>3-teiliges SAT-Adapter Set</li><li>2 x F-Stecker 7 mm und 1 x F-Kupplung</li><li>zur Befestigung an ein SAT-Kabel</li><li>für max. Kabeldurchmesser 7,0 mm</li><li>schraubbarer F-Stecker, voll geschirmte F-Kupplung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Kugelleuchte batteriebetrieben aus Crashglas</li><li>schafft eine entspannte Wohlfühlatmosphäre</li><li>ist mit 14 warmweißen LEDs versehen</li><li>nur für den Innenbereich geeignet</li><li>vielseitig einsetzbare Dekoration<br/></li></ul>"
+}

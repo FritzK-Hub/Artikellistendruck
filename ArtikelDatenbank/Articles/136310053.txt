@@ -1,0 +1,4 @@
+{
+    "uvp": 43.99,
+    "attributes": "<ul><li>Profi Steckschlüsseleinsätze in Zollmaßen</li><li>Industrie-Qualität, aus hochwertigem Chrom-Vanadium Stahl gefertigt</li><li>hält selbst stärksten Belastungen stand</li><li>matt verchromte Oberfläche</li><li>mit Rändelung für Handbetätigung<br/></li></ul>"
+}

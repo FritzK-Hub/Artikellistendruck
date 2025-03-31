@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>vielseitige Schönheit</li><li>anspruchslose Eleganz</li><li>Bienen- und Insektenmagnet</li><li>ideale Standortflexibilität</li><li>lange Blütezeit und Trockenresistenz<br/></li></ul>"
+}

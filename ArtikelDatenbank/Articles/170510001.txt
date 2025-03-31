@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>3 Nachfüller aus Granulat je 400 g</li><li>passend für den Luftentfeuchter</li><li>verhindert Schimmel- und Kondenswasserbildung</li><li>für weniger gelüftete Räume wie Keller geeignet</li><li>Granulat-Kissen sind ganzjährig einsetzbar</li></ul>"
+}

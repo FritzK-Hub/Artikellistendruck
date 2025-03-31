@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Jagd-Diabolos 4,5mm Cal.177</li><li>leichte und präzise Luftgewehrkugeln mit großer Schockwirkung</li><li>geeignet mittlere Distanzen bis 30 m</li><li>Gewicht pro Diabolo ca. 0,48 g</li><li>Diabolos glatt mit Hohlspitze</li></ul>"
+}

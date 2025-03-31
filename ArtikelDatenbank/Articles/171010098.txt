@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>für hochwertige Fassadenanstriche </li><li>wetterbeständig, wasserabweisend, atmungsaktiv</li><li>ca. 15 Jahre Wetterschutz</li><li>Schutzwirkung gegen Algen-,Pilz- und Moosbefall</li><li>mit Aqua-Protect-Formel<br/></li></ul>"
+}

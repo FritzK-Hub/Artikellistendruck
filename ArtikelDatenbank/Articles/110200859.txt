@@ -1,0 +1,4 @@
+{
+    "uvp": 2.95,
+    "attributes": "<ul><li>unbehandeltes Kiefern-/Fichtenholz</li><li>leicht zuzuschneiden und anzupassen</li><li>perfekt für saubere Tapetenabschlüsse</li><li>glatte Oberfläche zum Lackieren</li><li>ideal für kreative DIY-Projekte</li></ul>"
+}

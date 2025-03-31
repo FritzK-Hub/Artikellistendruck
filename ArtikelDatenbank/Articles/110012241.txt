@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Auslaufventil aus hochwertigem, langlebigen Messingmaterial</li><li>stufenlose Wassermengenregulierung mit Gummidichtung</li><li>sichert zuverlässig die Wasserversorgung</li><li>abnehmbare Kunststoff-Tülle für 3/4\" Schlauch</li><li>einfache Handhabung dank Knebelgriff</li></ul>"
+}

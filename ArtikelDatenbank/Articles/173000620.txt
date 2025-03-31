@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>vielseitige Anwendungsmöglichkeiten für viele Beleuchtungswünsche</li><li>schwenkbarer Rahmen für optimale individuelle Ausleuchtung</li><li>stilvoller Einbaustrahler aus stabilem Metall in Weiß</li><li>kompatibel mit GU10 und MR16 Leuchtmitteln</li><li>inklusive Anschlussleitung von 15 cm Länge</li><li>hochwertige und langlebige Konstruktion<br/></li></ul>"
+}

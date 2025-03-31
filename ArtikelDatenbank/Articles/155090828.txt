@@ -1,0 +1,4 @@
+{
+    "uvp": 18.27,
+    "attributes": "<ul><li>Antennendose für Rundfunk und Fernsehen (kabelfernsehtauglich)</li><li>in klassischem Design mit hochglänzender Oberfläche</li><li>komplett mit Abschlusswiderstand 75 Ohm</li><li>als Durchgangs- und Enddose verwendbar</li><li>für die Unterputz-Montage </li><li>nur in Kombination mit Rahmen der Standard Quadro Serie zu verwenden</li></ul><p></p>"
+}

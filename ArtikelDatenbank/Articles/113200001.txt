@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>vielseitig für gerissenen und ungerissenen Beton</li><li>schnelle Aushärtung zur zügigen Weiterverarbeitung</li><li>umweltfreundlich durch styrolfreie Rezeptur</li><li>flexibel einsetzbar dank Rebar-Zulassung</li><li>einfach anzuwenden mit Standard-Auspressgeräten</li></ul>"
+}

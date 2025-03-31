@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Gymnastikball Ø 65 cm in blau</li><li>aus strapazierfähigem PVC gefertigt</li><li>gezieltes Muskeltraining für Bauch, Beine oder Arme</li><li>verbessert die Sitzposition und stärkt die Rückenmuskulatur</li><li>auch alternativ als Sitzball im Büro geeignet<br/></li></ul>"
+}

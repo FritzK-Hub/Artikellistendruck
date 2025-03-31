@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>gelber Husarenknopf im Topf mit Blumenmotiv</li><li>dekorativer Blickfang</li><li>hervorragend als Bodendecker oder Unterpflanzung</li><li>für Blumen- oder Ziergärten sowie auf Friedhöfen </li><li>Nahrungslieferant für Bienen und Schmetterlinge<br/></li></ul>"
+}

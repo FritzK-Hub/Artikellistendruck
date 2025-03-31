@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>20 große Rundknöpfe zur Ladungssicherung</li><li>müheloses befestigen von Netzen oder Planen</li><li>geeignet für Seilstärken von 6 bis 8 mm</li><li>hergestellt aus robustem, schwarzem Kunststoff</li><li>dafür benötigte Schrauben sind inklusive</li></ul>"
+}

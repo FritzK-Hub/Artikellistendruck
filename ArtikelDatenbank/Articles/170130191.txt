@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Sägeband für Holz</li><li>14 Zähne je Zoll</li><li>aus hochwertigem Schwedenstahl</li><li>perfekt passend für deine Güde® GBS 200 Bandsäge</li><li>für Längsschnitte und perfekte Kurvenschnitte<br/></li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Pool mit ausreichend Platz für die ganze Familie<br/></li><li>aus hochwertigem TriTech™-Material</li><li>Wasseraufnahmevolumen bei 80 % Füllung von ca. 2.074 Litern</li><li>inklusive Ablassventil und Reparaturflicken</li><li>Selbstaufbau-Funktion bei aufgepumptem Luftring<br/></li></ul>"
+}

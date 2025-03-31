@@ -1,0 +1,4 @@
+{
+    "uvp": 10.79,
+    "attributes": "<ul><li>PU-Entferner 100 ml von Soudal</li><li>Spezialentferner für ausgehärteten Polyurethanschaum</li><li>aus geruchsarmen und biologisch abbaubaren Stoffen</li><li>auf nicht porösen Oberflächen wie Kunststoff geeignet</li><li>inklusive Pinsel uns Schaber<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>T-Profil 6 x 25 mm in Chromoptik</li><li>aus stabilem, blankem Aluminium gefertigt</li><li>deckt unschöne Zwischenräume problemlos ab</li><li>liegt dank geringem Eigengewicht leicht auf dem Untergrund auf</li><li>mit handelsüblicher Stichsäge abzulängen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 22.09,
+    "attributes": "<ul><li>Balkonkastenhalter-Paar für breite Balkonkästen</li><li>aus lackiertem Metall in anthrazit gefertigt</li><li>besitzt eine Belastbarkeit von ca. 35 kg</li><li>ohne Bohren zu befestigen, stufenlos verstellbar</li><li>die Breite kann von 3,5 bis 15 cm angepasst werden<br/></li></ul>"
+}

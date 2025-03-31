@@ -1,0 +1,4 @@
+{
+    "uvp": 1699.0,
+    "attributes": "<ul><li>einstellbare Heizleistung von 2,5 - 9,5 kW</li><li>17 kg Pelletspeicher für lange auomatische Heizperioden</li><li>geschlossene Brennkammer für Betrieb ohne Raumluft</li><li>gusseiserne Feuerschale mit \"Easy-Start-System\"</li><li>Steuerung über Display im oberen Frontbereich<p></p></li></ul>"
+}

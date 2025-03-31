@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>sicherer und hygienischer Spielsand </li><li>gewaschen und staubfrei</li><li>abweisende Wirkung auf Hunde und Katzen</li><li>angenehme Haptik dank feiner Körnung</li><li>einfache Handhabung und Aufbewahrung<br/></li></ul>"
+}

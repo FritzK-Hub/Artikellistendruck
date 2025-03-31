@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Starthilfekabel 16 mm² mit einer Nennspannung von 12/24 V</li><li>für Benzinmotoren bis 2500 ccm Hubraum</li><li>vollisolierte Polzangen aus schlagfestem Kunststoff</li><li>Leitermaterial: kupferbeschichteter Aluminium-Kern</li><li>in praktischer, wiederverschließbarer Nylontasche</li></ul>"
+}

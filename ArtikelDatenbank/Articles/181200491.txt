@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Monatserdbeere Rügen für ca. 150 Pflanzen</li><li>ist eine rankenlose, immertragende Erdbeersorte</li><li>Widerstandsfähigkeit gegenüber Witterungseinflüssen</li><li>kann selbst im Balkonkasten angebaut werden</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

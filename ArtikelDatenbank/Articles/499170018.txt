@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Durchmesser Kopf (dk): ca. 20,65mm</li><li>Höhe Kopf (k): ca. 4,88mm</li><li>Vierkanthöhe (f): ca. 5,6mm</li><li>Vierkantbreite (v): ca. 8,58mm</li><li>Gewindelänge bis 125mm (b): 22mm</li><li>Gewindelänge bis 200mm (b): 28mm</li><li>Gewindelänge über 200 mm (b): 41mm</li><li>Durchmesser Schraube (d): ca. 8,0mm (M8)</li><li>Länge (l): ca. 80mm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>bis zu 1 Monat UV-beständiges Lackierband</li><li>für innen und außen geeignet</li><li>für superflache Farbkanten ohne Farbunterläufer</li><li>extra nassfest, auch für wasserlössliche Lacke</li><li>auch für Glas, Zink und Aluminium geeignet</li></ul>"
+}

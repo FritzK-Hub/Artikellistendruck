@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Profiqualität von GERMANIA® Qualitätswerkzeuge</li><li>Hickory-Holzstiel mit Stielschutz besonders belastbar</li><li>der Holzstiel ist äußerst rückschlagsarm</li><li>der Spaltkopf ist geschmiedet</li><li>Axt und Keil in einem (integrierte Spreizkeile)</li></ul>"
+}

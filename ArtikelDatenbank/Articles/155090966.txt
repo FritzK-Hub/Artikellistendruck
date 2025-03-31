@@ -1,0 +1,4 @@
+{
+    "uvp": 42.36,
+    "attributes": "<ul><li>mit Druck-Wechselschaltfunktion</li><li>elektronischer Helligkeitsregler (Dimmer) für Unterputz-Montage</li><li>klassisches Design mit hochmoderner Oberfläche</li><li>geeignet für Niedervolt-Halogenlampen mit elektronischem Trafo und Glühlampen</li><li>kann anstelle jedes Aus- / Wechselschalters eingesetzt werden</li><li>nur in Kombination mit Rahmen der Serie  EverLuxe zu verwenden<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>hochwertige F-Verbinder, U-Form</li><li>passend für Koaxialkabel mit F-Stecker</li><li>aus Metall, mit Schraubgewinde</li><li>für die Verbindung/Verlängerung von Antennenkabel</li><li>leichte Handhabung<br/></li></ul>"
+}

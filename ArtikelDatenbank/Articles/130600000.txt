@@ -1,0 +1,4 @@
+{
+    "uvp": 579.95,
+    "attributes": "<ul><li>optimal zum Rütteln und Verdichten kleinerer Flächen</li><li>dank des geringen Gewichts und der kompakten Bauweise sehr handlich in der Anwendung</li><li>stabiler Stahlrahmen für einfachen Transport, klappbarer Griff, gegen Vibrationen gedämpft</li><li>hervorragende Vortriebs- und Verdichtungsleistung, mit automatischem Vorschub</li><li>Ölmangelsicherung, verwindungssteife und verschleißfreie Grundplatte</li></ul>"
+}

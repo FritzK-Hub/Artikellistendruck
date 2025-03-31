@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    Passiv-Infrarot-Bewegungsmelder/nNennspannung: 220-240V~/nFrequenz: 50Hz/nLichtempfindlichkeit (einstellbar): 3-2000Lux/nSchaltdauer (einstellbar): 10sec - 7min/nNennleistung: 500W (Glühlampen)/n                     300W (Energiesparlampen)/n                     100W (LED Leuchten)/nErfassungsreichweite (bei &lt;24°C): max. 9m/nErfassungswinkel: 160°/nArbeitstemperatur: -20°C bis +40°C/nInstallationshöhe: 1m - 1,8m/nLeistungsaufnahme: Standby 0,1W/n                              Betrieb 0,45W\"\"/n                "
+}

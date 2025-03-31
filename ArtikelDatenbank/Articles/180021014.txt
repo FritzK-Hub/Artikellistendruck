@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Geräteanschlussstück aus Messing</li><li>zum Anschluss von Schläuchen mit Stecksystem an Gartenpumpen oder Rohrleitungen</li><li>passend für handelsübliche Bewässerungs-Stecksysteme</li><li>1/2\" Außengewinde und 1/2\" Steckverbindung für Stecksysteme</li></ul>"
+}

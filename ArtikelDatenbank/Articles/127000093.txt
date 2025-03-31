@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>mit Schneidenschutz</li><li>Arbeitsbreite ca. 27 cm</li><li>rote Grifffarbe</li><li>handlicher Griff</li><li>zum einfachen Entfernen von Unkraut<br/></li></ul>"
+}

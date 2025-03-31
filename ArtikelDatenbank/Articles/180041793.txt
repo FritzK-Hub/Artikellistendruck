@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Teleskopstiel mit Rädern </li><li>Zubehör für die Grizzly Tools Akku Rasenschere AGS 3680</li><li>angenehmes Arbeiten ohne Bücken auf Bodenhöhe</li><li>integrierte Bedienungselemente im Handgriff</li><li>werkzeuglose Montage, mit 180° Drehfunktion</li></ul>"
+}

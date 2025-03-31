@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>kippbare Sonnenliege</li><li>Gestell aus Stahl, pulverbeschichtet</li><li>wetterfester Textilenebezug</li><li>Fusskappen und Kippschutz</li><li>Gartenliege mit Armlehnen</li></ul>"
+}

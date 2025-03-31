@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>unwiderstehlicher Geschmack</li><li>gesunder Snack für zwischendurch</li><li>leicht verdaulich</li><li>hergestellt aus hochwertigen Zutaten</li><li>Ergänzungsfuttermittel für Katzen</li></ul>"
+}

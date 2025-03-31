@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Fahrrad-Kabelschloss</li><li>Abdeckung am Schließkörper</li><li>nicht spiralisiertes Stahlseil</li><li>inkl. 2 Schlüssel</li><li>mit Sicherheitsstufe</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.95,
+    "attributes": "<ul><li>Zierrasensamen-Mischung \"Berliner Tiergarten\"</li><li>reicht für eine Fläche von etwa 40 m²</li><li>widerstands- und regenerationsfähiger Rasen</li><li>eignet sich auch zur Nachbesserung bzw. Übersaat für ausbesserungsbedürftigen Rasenflächen</li><li>Inhalt: 1,0 kg Rasensamen Art Berliner Tiergarten<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 35.99,
+    "attributes": "<ul><li>Wetterstation kabellos aus silber/schwarzen Kunststoff für Innen und Außen</li><li>auf einen Blick Datum, Uhrzeit, Temperatur und Luftfeuchtigkeit</li><li>Temperaturalarm mit Schlummerfunktion sorgt für Temperaturüberwachung</li><li>Wettersymbol basiert auf der Veränderung der Temperatur- und Luftfeuchtigkeitswerte</li><li>durch DCF77 Funksignal stehts eine präzise Zeit- und Außentemperatur Anzeige</li></ul><p><br/></p>"
+}

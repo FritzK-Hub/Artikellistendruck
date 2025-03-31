@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Spanplattenschraube mit Teilgewinde</li><li>hohe Beständigkeit gegen Rost</li><li>geringe Beständigkeit gegen Säure</li><li>Festigkeitsklasse 70, mittel</li><li>passend für Bohrergröße 3 mm und T30 Bit</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>vielfältige Anwendungsmöglichkeiten wie Tauchschnitte, bündiges Sägen und Schleifen, Fließenfugen &amp; Bodenbeläge lösen</li><li>werkzeugloser Aufsatzwechsel durch Spannhebel</li><li>durch den Akkubetrieb ist ein stolperfreies kabelloses Arbeiten möglich<br/></li><li>einstellbare Drehzahlregulierung</li><li>hohe Einsparung an Arbeitswegen, Handgriffen und Zeit</li><li>Staubabsaugadapter für staubfreies Arbeiten</li></ul>"
+}

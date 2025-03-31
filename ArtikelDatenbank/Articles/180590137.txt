@@ -1,0 +1,4 @@
+{
+    "uvp": 23.95,
+    "attributes": "<ul><li>rechtskräftige Zulassung für rechtliche Sicherheit</li><li>vollautomatische Parkzeitaktivierung bietet Komfort</li><li>einfacher Einbau zur sofortigen Anwendung</li><li>flexible Zeitanpassungen für individuelle Bedürfnisse</li><li>leichte Ablesbarkeit von innen und außen</li></ul>"
+}

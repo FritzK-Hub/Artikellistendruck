@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>für innen und außen</li><li>mit Fliegengaze</li><li>schützt zuverlässig vor Schmutz und Insekten</li><li>aus Kunststoff für lange Haltbarkeit</li><li>einfache Montage an verschiedenen Rohrsystemen</li></ul>"
+}

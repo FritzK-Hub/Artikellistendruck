@@ -1,0 +1,4 @@
+{
+    "uvp": 669.0,
+    "attributes": "<ul><li>Ausbaupaket für Regenwassertanks</li><li>automatische Klarwasserdruckpumpe liefert Regenwasser</li><li>mehrstufige Unterwasserdruckpumpe mit Trockenlaufschutz</li><li>inkl.Wassersteckdose und 5 m Regenwasser-Druckschlauch 1''</li><li>für eine komfortable Gartenbewässerung</li></ul>"
+}

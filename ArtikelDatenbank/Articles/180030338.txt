@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>aus hochwertigem Material</li><li>effektiver Schutz</li><li>witterungsbeständiges Design</li><li>optimale Belüftung</li><li>vielseitige Anwendung</li></ul>"
+}

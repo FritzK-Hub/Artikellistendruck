@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Ableitung von Abluft nach außen</li><li>Schutz vor Regen, Schmutz und Tieren</li><li>verhindert Luft- und Geruchsrückstrom</li><li>integrierte Klappe </li><li>reduziert Energieverluste</li></ul>"
+}

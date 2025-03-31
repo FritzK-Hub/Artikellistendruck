@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Gewebeband zum Reparieren, Befestigen, Bündeln, Verstärken und Kennzeichnen</li><li>für dauerhafte haltbare, hoch belastbare und stabile Ergebnisse</li><li>hoch wetterfest, für Innen- und Außenanwendungen</li><li>reißfest, aber von Hand einreißbar</li><li>dauerhaftes, stabiles und belastbares Ergebnis<br/></li></ul>"
+}

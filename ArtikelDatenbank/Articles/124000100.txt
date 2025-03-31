@@ -1,0 +1,4 @@
+{
+    "uvp": 229.99,
+    "attributes": "<ul><li>individuelle Bewässerung für komplexe Gartenkonturen</li><li>zwei programmierbare Flächen bietet maximale Flexibilität</li><li>präzise Wurfweitenregulierung zur optimalen Abdeckung</li><li>einfache Bedienung dank robuster Folientastatur</li><li>gleichmäßige Wasserverteilung durch hochwertige Düse</li></ul>"
+}

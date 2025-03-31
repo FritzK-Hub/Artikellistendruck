@@ -1,0 +1,4 @@
+{
+    "uvp": 179.95,
+    "attributes": "<ul><li>leistungsstarke GERMANIA® Tischbohrmaschine mit 710 Watt</li><li>für präzise Serienbohrungen in Metall und Holz</li><li>Laserführung erleichtert präzise Bohrungen</li><li>Drehzahleinstellung über Digitaldisplay</li><li>mit einer Schnellspannklemme zur Fixierung der Werkstücke versehen<br/></li></ul>"
+}

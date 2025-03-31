@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>universell einsetzbares Kabelbinder-Set 250-teilig</li><li>zur Fixierung von Kabeln oder Leitungen</li><li>auch als Verpackungshilfsmittel im Haushalt nutzbar</li><li>lässt sich in der elektrischen Installation verwenden</li><li>in verschiedenen Farben erhältlich</li></ul>"
+}

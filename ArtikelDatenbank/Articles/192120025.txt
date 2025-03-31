@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Schlitten SEA LION rot</li><li>kleiner leichter Kinderschlitten<br/></li><li>Winterspaß für deine Kleinen<br/></li><li>Lenkung durch Gewichtverlagerung</li><li>Zugleine zur einfachen Handhabung</li></ul><p></p>"
+}

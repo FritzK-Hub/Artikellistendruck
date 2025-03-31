@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    für TAE-Anschlussdose Art.-Nummer 43773,/nmit Befestigungsschraube\"\"/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n/n                "
+}

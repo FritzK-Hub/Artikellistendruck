@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>Satteltasche Trekking aus wasserfestem Tarpaulin 500D</li><li>idealer Begleiter für Abenteuer auf dem Rad</li><li>zum Verstauen von Werkzeug oder Reparaturflicken </li><li>1 Liter Fassungsvermögen bietet ausreichend Stauraum </li><li>Klickverschluss erleichtert die Montage am Fahrrad<br/></li></ul>"
+}

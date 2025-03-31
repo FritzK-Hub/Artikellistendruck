@@ -1,0 +1,4 @@
+{
+    "uvp": 349.9,
+    "attributes": "<ul><li>kompaktes Design für schmale Flächen</li><li>hochwertige Aluminiumprofile bieten lange Haltbarkeit</li><li>effektive Belüftung durch Dachfenster</li><li>robuste Hohlkammerplatten als Wetterschutz</li><li>nachhaltige Bewässerung möglich dank Regenrinne</li></ul>"
+}

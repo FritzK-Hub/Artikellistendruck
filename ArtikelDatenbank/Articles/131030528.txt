@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Reinex Zitronensäure 500 ml flüssig</li><li>zur Reinigung von Küchen, Bädern und Haushaltsgeräten</li><li>vielseitiges Hausmittel gegen Kalk, zu 100% biologisch abbaubar</li><li>erhöht die Lebensdauer von Elektrogeräten </li><li>entfernt Kalk, Schmutz und Keime<br/></li></ul>"
+}

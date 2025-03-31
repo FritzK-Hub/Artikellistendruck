@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Kühlbox aus Kunststoff 24 Liter, für  Lebensmittel oder Getränke<br/></li><li>hält bis zu acht Stunden Lebensmittel kühl<br/></li><li>ideales Zubehör für Picknick, Camping oder im Urlaub</li><li>dank Tragegriff überall mitnehmbar</li><li>einfach zu Reinigen mit nur einem nassen Tuch</li></ul>"
+}

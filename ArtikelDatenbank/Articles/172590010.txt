@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Kabelführung mit Platz für bis zu vier Kabel</li><li>für Kabel-Ordnung im Büro oder Zuhause</li><li>fixiert Kabel in Griffweite</li><li>langlebige und starke 3M Klebefäche</li><li>für Kabel mit einem Durchmesser von bis zu 6,2 mm<br/></li></ul>"
+}

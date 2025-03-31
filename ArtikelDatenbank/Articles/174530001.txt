@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>zur Verklebung von Fugen der PE-Rohrisolierung</li><li>bietet eine zuverlässige, starke Verbindung</li><li>nach Austrocknen besonders hitze- wie wasserbeständig</li><li>auch auf Holzwerkstoffe, Gummi, Metall oder Filz anwendbar</li><li>zum Furnieren von Flächen, Kanten und Rundungen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Geschenkband Eiknäuel</li><li>3 Rollen mit je 20 Metern farblich sortiert</li><li>zur kreativen Gestaltung von Geschenkverpackungen</li><li>universell einsetzbar</li><li>zum Ringeln geeignet</li></ul>"
+}

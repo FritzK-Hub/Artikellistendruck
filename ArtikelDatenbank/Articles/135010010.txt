@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>flexibel einsetzbar für Bajonett-Butangas-Kartuschen</li><li>robuste Konstruktion für langanhaltende Nutzung</li><li>kompakt und leicht für einfaches Mitnehmen</li><li>für Bajonett-Butangas-Kartusche 227g</li><li>erweitert deine Outdoor-Gasoptionen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Rettich runder weißer für ca. 8 - 10 laufende Meter</li><li>festfleischiges und schnellwüchsiges Frühsommerrettich</li><li>frühe Rettichsorte mit kugelförmiger, glattschaliger Knolle</li><li>besitzt eine besonders schmackhafte Würze</li><li>verfügt über eine Probefeldgetestete Qualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>vielseitig zum Absperren von Türen, Schuppen, Gartentoren oder Kisten einsetzbar</li><li>besonders langlebig und robust, aus massivem Messing gefertigt</li><li>automatische Verriegelung durch Herunterdrücken des Bügels in das Schloss</li><li>gehärteter Stahlbügel und Block schützen für herkömmlichen Metallsägen oder Bohrer</li><li>Mehrlagen-Mechanismus schützt effektiv vor universelle Nachschlüssel<br/></li></ul>"
+}

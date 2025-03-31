@@ -1,0 +1,4 @@
+{
+    "uvp": 28.59,
+    "attributes": "<ul><li>LIQUI MOLY Motorenöl Formula Super 15W-40 für Benzin- und Dieselmotoren</li><li>für den rationellen Einsatz im gemischten Fuhrpark</li><li>hoher Verschleißschutz und gute Reinigungswirkung</li><li>geeignet für ältere Fahrzeuge und viele Oldtimer</li><li>hervorragende Schmierfilmstabilität</li></ul>"
+}

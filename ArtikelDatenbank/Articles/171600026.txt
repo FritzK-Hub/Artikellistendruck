@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>farbloses Hartöl von Clou </li><li>schützt normal bis stark beanspruchte Holzböden, Parkett und Treppen</li><li>für Innen- und Außenbereich geeignet</li><li>besonders strapazierfähig, wasserabweisend und pflegeleicht</li><li>resistent gegen Haushaltschemikalien und Alkohol<br/></li></ul>"
+}

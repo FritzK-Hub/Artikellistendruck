@@ -1,0 +1,4 @@
+{
+    "uvp": 66.95,
+    "attributes": "<ul> <li><em>Gasheizstrahler</em> zum Aufsetzen auf Gasflaschen</li> <li>aus hochwertigen Materialien hergestellt</li> <li>Heizleistung stufenlos regulierbar</li> <li>Piezozündung und Thermosicherheitselement</li> <li>für 5 oder 11 kg Propan oder Propan/Butan Gasflaschen</li></ul>"
+}

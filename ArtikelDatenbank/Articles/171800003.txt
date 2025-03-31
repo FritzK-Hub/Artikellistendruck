@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>tiefes Eindringen in die Holzoberfläche für effektiven Schutz</li><li>für den Innen- und witterungsgeschützten Außenbereich geeignet</li><li>wasserabweisend, ideal für stark strapaziertes Holz</li><li>atmungsaktiver und pflegeleichter Holzschutz</li><li>aus nachwachsenden Pflanzenölen</li></ul>"
+}

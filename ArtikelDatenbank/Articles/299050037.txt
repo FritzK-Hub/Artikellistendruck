@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Länge: ca. 50 mm</li><li>Gewinde Durchmesser Ø: ca. 5,5 mm</li><li>Kopf Durchmesser Ø: ca. 8,0 mm</li></ul>"
+}

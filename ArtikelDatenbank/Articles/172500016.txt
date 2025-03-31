@@ -1,0 +1,4 @@
+{
+    "uvp": 14.29,
+    "attributes": "<ul><li>geschirmte Fensterdurchführung</li><li>Flachbandkabel mit 2 F-Kupplungen</li><li>zur Durchführung eines Koaxialkabels durch Fenster</li><li>werkzeuglose Verlegung ohne Bohren</li><li>sehr belastbares, flaches Kabel</li></ul>"
+}

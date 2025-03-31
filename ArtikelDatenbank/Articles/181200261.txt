@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>kann bis in den Winter hinein geerntet werden</li><li>zur Winterversorgung ist der Anbau in Balkonkästen oder Töpfen möglich</li><li>eignet sich besonders zum Frischverzehr und zur Garnierung von Speisen</li><li>ertragreich, gesund und glattblättrig</li><li>kein großer Pflegeaufwand notwendig</li></ul>"
+}

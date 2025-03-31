@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Gartenhandschuhe Kids Größe 5 in blau</li><li>für Kinder von 5 bis 8 Jahren geeignet</li><li>Handinnenfläche und Fingerspitzen mit Nitril-Beschichtung</li><li>schützen die Hände beim Helfen im Garten</li><li>beständig gegen Feuchtigkeit und atmungsaktiv<br/></li></ul>"
+}

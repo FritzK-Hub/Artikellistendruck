@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Maße: (LxBxH) ca. 13 x 6,5 x 6,0 cm</li><li>Rohr: (Ø) ca. 48 mm</li><li>Feststellung: Knebelfeststeller</li><li>Material: Stahl verzinkt</li><li>stabile Ausführung</li></ul>"
+}

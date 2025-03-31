@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Bügelverschlussflasche in runder Form 500 ml<br/></li><li>zur Aufbewahrung von Säften, Dressings oder selbst gemachten Likören</li><li>Bügelverschluss mit Kunststoffdeckel und Dichtung verschließt sicher</li><li>geeignet für Spülmaschinen</li><li>schönes DIY-Geschenk</li></ul>"
+}

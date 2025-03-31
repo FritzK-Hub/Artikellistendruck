@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>robuster Anhängersteckdose 13-polig in Schwarz</li><li>aus schlagfestem Kunststoff gefertigt</li><li>für die Stromversorgung deines Anhängers</li><li>mit Abschaltautomatik für Nebelschlussleuchte</li><li>Deckel schützt vor eindringendem Wasser<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>4er Set</li><li><strong>Stufenbohrer: </strong></li><li>4-12mm, 5 Stufen</li><li>2-fache Spiralausführung</li><li>schnelles und leichtes Bohren</li><li><strong>Schälbohrer:</strong></li><li>8-20mm</li><li>stufenloses Bohren von Löchern</li><li>2-fache Spiralausführung</li><li>schnelles und leichtes Bohren</li><li><strong>Kegelsenker:</strong></li><li>12,4mm</li><li>entgraten und versenken von Bohrungen</li><li>dreischneidig im 90° Winkel</li><li><strong>Fräsbohrer:</strong></li><li>6,0mm</li><li>zum Bohren und Fräsen von Nuten und Langlöchern</li><li>aus HSS Industriestahl</li><li>Sechskant Aufnahme bei allen Bohrern</li><li>in Box</li></ul>"
+}

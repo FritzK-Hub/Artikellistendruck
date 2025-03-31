@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>liebevoll gestaltete Glückwunschkarte</li><li>perfekt als Ergänzung zu einem Geschenk</li><li>lustiges Design und hochwertige Ausführung</li><li>inklusive passenden Briefumschlag</li><li>Innen viel Platz für persönliche Glückwünsche</li></ul>"
+}

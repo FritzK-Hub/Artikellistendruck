@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Schlepperkette aus Stahl mit Länge 3,56 m</li><li>zum Heben, Ziehen oder Befestigen schwerer Lasten</li><li>für bis zu 2500 kg Zuglast geeignet</li><li>mit 2 Haken für sichere Befestigung und Handhabung</li><li>inklusive Kunststoffkoffer zur Aufbewahrung</li></ul>"
+}

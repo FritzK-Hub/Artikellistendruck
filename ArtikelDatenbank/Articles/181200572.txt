@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Portion Saatgut für ca. 10 Pflanzen inklusive Stecketikett</li><li>mittelfrühe, bitterstofffreie Sorte mit sehr großen Früchten</li><li>zu etwa 70% weiblich</li><li>ausschließlich für die Kultur im Gewächshaus geeignet</li><li>ertragreich und resistent gegen Gurkenkrätze und Blattbrand</li></ul>"
+}

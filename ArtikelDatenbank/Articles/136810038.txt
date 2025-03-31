@@ -1,0 +1,4 @@
+{
+    "uvp": 25.99,
+    "attributes": "<ul><li>Werkzeugtasche vereint Design und Funktionalität</li><li>effiziente Werkzeugorganisation ermöglicht mehr Produktivität</li><li>strapazierfähiges Material gewährleistet langjährige Nutzung</li><li>vielseitiger Transport mit Schultergurt und Tragegriff</li><li>platzsparendes Zusammenfalten für flexible Aufbewahrungsmöglichkeiten</li></ul>"
+}

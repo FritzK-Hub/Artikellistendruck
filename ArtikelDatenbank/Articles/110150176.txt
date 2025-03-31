@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Putzstock aus stabilem Messing und schont den Lauf</li><li>mit einem stabilen, drehbaren Kunststoffgriff</li><li>schonende Reinigung des Laufes beim Herausziehen</li><li>keine Beschädigung der Züge und Felder</li><li>zur Reinigung der Kaliber-Gruppe ab 4,5 mm geeignet</li></ul>"
+}

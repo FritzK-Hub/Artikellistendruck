@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Wasserpistole aus Kunststoff</li><li>Schussreichweite von ca. 5 m</li><li>mit abschraubbarem Wassertank</li><li>kleine handliche Wasserkanone</li><li>verschiedene Farben<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Bezeichnung: PZ0 x 75mm</li><li>Kopf: Kreuzschlitz Pozidrive</li><li>magnetische Spitze</li><li>Griff: Kunststoff - rutschfest gummiert</li><li>Qualität von GERMANIA® Qualitätswerkzeuge</li></ul>"
+}

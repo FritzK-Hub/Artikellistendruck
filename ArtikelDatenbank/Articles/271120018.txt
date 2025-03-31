@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>GERMANIA® Schlangenbohrer 460 x 18 mm</li><li>aus legiertem Werkzeugstahl gefertigt</li><li>für alle handelsüblichen Handbohrmaschinen</li><li>mit einer Spiralnut und Gewindespitze versehen</li><li>für Tieflochbohrungen in Weich- und Hartolz<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 139.0,
+    "attributes": "<ul><li>leistungsstarke Multifunktions-Handsäge mit 800 Watt</li><li>verstellbare Schnitttiefe von 0 - 42 mm</li><li>schneller und einfacher Blattwechsel</li><li>verwendbar für Sägeblätter mit 100 mm/ 110 und 125 mm Durchmesser</li><li>durch Multi Material Sägeblätter kann die Säge mehrere Metalle durchtrennen<br/></li></ul>"
+}

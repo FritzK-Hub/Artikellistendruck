@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Zurrgurt zum Befestigen, Sichern, Niederzurren und Zusammenspannen</li><li>sichert Teile aller Art in der Werkstatt oder beim Transport</li><li>leichte &amp; komfortable Bedienung</li><li>Klemmschloss aus stabilem Metall</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>CFH Druckregler DRF 428 1/4\" aus Zink</li><li>für alle Schlauchlötgeräte, Anwärmbrenner und Abflammgeräte</li><li>Durchfluss ca. 1,5 kg/h manuell einstellbar</li><li>mit Füllstandanzeige für mehr Überwachung</li><li>Schlauchbruchsicherung nach EN 16129</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Rundstab 35 mm aus strapazierfähigem Buchennholz</li><li>vielseitig bei Bastelprojekte und für den Modellbau einsetzbar</li><li>verleiht deinen Projekten Stabilität und Zuverlässigkeit</li><li>auch als Pflanzstab oder Kletterhilfe nutzbar</li><li>auch als Konstruktionshilfe einsetzbar</li></ul>"
+}

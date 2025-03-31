@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Sonnenblume Abendsonne für ca. 30 Pflanzen</li><li>schnellwachsende Pflanze mit dunkelroten Blüten</li><li>als Schnittblume oder Gruppenpflanze nutzbar</li><li>ist zudem ein idealer Sichtschutz an Zäunen</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

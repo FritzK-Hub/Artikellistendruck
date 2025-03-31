@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>hochwertiger Fotorahmen mit elegantem Design</li><li>stilvolle Präsentation von Erinnerungen</li><li>flexible Aufhängung in horizontaler und vertikaler Ausrichtung</li><li>Schutz des Fotos vor Staub und Kratzern durch Normalglas</li><li>langlebiges und robustes Material für langjährige Nutzung<br/><br/></li></ul>"
+}

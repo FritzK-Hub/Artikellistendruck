@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>hochwertige Armatur mit Warmwasserbereiter</li><li>sofort Wasser mit der benötigten Temperatur ohne Wartezeit</li><li>modernes Digitaldisplay zur Temperaturanzeige</li><li>großer Schwenkbereich von ca. 18 cm</li><li>gewohnt einfache Bedienung<br/></li></ul>"
+}

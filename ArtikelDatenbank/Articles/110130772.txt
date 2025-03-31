@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>pulverbeschichteter Stahl für optimale Haltbarkeit</li><li>passend für 1- und 2-reihige Wandschienen mit 50 mm Schlitzabstand</li><li>einfaches Einrichten von Regalen und Lagerräumen</li><li>hohe Belastbarkeit von bis zu 110 kg (pro Regal)<br/></li><li>sichere Auflage und Fixierung von Regalböden</li></ul><p></p>"
+}

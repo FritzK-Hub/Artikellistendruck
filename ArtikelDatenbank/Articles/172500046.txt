@@ -1,0 +1,4 @@
+{
+    "uvp": 3.39,
+    "attributes": "<ul><li>2 F-Stecker im Set</li><li>passend für 8 mm Kabeldurchmesser</li><li>aus Metall, zum Aufschrauben</li><li>zur Montage an ein SAT-Kabel</li><li>leichte Handhabung</li></ul>"
+}

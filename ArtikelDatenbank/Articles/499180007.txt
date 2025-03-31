@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Sechskantmutter M14 nach DIN 934</li><li>aus galvanisch verzinktem Stahl gefertigt</li><li>Belastbarkeitsklasse 8</li><li>gute Schweißbarkeit</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

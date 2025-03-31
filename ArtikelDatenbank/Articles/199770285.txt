@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Kennzeichen Schrauben mit verzinkter Oberfläche</li><li>besonders langlebig und widerstandsfähig</li><li>mit Kreuzschlitz Antrieb erleichtert die Befestigung</li><li>für die Montage von Nummernschildern und Blechteilen</li><li>inklusive weißen und blauen Abdeckkappen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.45,
+    "attributes": "<ul><li>praktischer Ronden-Rührer mit Ring</li><li>passend für Rührgut bis 15 kg</li><li>zum Mischen von zähen Materialien wie Farben, Kleber oder Fugenmasse</li><li>stabiler Farbmischer mit Bohrmaschinenaufnahme</li><li>vielseitiger Helfer bei Renovierungs- und Maurerarbeiten</li></ul>"
+}

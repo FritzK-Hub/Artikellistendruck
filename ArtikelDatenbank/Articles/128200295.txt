@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>vielseitige Dekoration für eine gemütliche Atmosphäre in Wohnräumen</li><li>besonders langlebig und stabil, aus naturbelassenem Binse gefertigt</li><li>bieten ausreichend Stauraum für die verschiedensten Deko-Variationen</li><li>heiße deine Freunde und Gäste auf dekorative Art und Weise herzlich Willkommen</li><li>individuelle Geschenkidee für die unterschiedlichsten Anlässe</li></ul>"
+}

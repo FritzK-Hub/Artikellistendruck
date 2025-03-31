@@ -1,0 +1,4 @@
+{
+    "uvp": 19.49,
+    "attributes": "<ul><li>für alle Schlauchlötgeräte, Anwärmbrenner und Abflammgeräte</li><li>Ausgang R 3/8\" lks</li><li>mit Kombianschluss für 5-, 11- und 33 kg Propangasflaschen</li><li>Arbeitsdruck: 2,5 bar</li><li>Ausführung: einstufiger Gasregler</li></ul>"
+}

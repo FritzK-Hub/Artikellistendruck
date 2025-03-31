@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>Klebeband für schnelle Reparaturen</li><li>extra starkes, 2-mal dickeres Power Tape</li><li>für raue und unebene Oberflächen</li><li>extrem widerstandsfähig und wasserfest</li><li>dichtet, befestigt, repariert und einfach von Hand abreißbar</li></ul>"
+}

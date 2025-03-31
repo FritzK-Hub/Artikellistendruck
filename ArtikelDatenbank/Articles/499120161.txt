@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Spanplattenschrauben mit Senkkopf</li><li>mit T-Profil IVZ TX Antrieb</li><li>passend für Bohrergröße 3 mm und T20 Bit</li><li>gelb verzinkte Oberfläche</li><li>Schraube mit Vollgewinde</li></ul>"
+}

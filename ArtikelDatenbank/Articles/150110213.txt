@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>kunststoffverträgliches Spezialfett für Batteriepole</li><li>Kontaktfett auch für Aluminium geeignet</li><li>schützt Batteriepole und elektrische Kontakte vor Korrosion und Oxydation</li><li>Batterie-Polfett verhindert Säureschäden</li><li>verhindert Kriechströme und vermindert Kontaktwiderstände</li></ul>"
+}

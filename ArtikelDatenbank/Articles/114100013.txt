@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Lampenöl für Fackeln oder Öllampen</li><li>sorgt für noch längere Brenndauer</li><li>brennt ohne zu rußen</li><li>ohne Farbstoff</li><li>mit kindersicherem Verschluss</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li><div>4-Wege Verteilerstück aus Kunststoff</div></li><li><div>mit 4 Absperrhähnen und Gummidichtung</div></li><li><div>zur Installation an Wasserhahn oder Rohrleitung</div></li><li>für Wasserhähne mit 3/4\" und 1\" Gewinde</li><li><div>Ausgänge unabhängig voneinander stufenlos regulierbar</div></li></ul>"
+}

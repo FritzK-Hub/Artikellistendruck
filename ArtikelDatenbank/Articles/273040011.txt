@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Winkelschlüssel-Satz 8-teilig</li><li>Innensechskant-Profil</li><li>an einem Metallring, immer aufgeräumt</li><li>aus hochwertigem Stahl</li></ul>"
+}

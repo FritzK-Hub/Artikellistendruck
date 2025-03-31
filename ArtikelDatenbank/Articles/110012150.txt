@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>150 cm Verlängerung ist ideal für deine Waschmaschinen und Spülmaschinen</li><li>leichte Installation dank einfacher Anschluss-Steckverbindung</li><li>der strapazierfähige Kunststoff ist langlebig und zuverlässig <br/></li><li>passende 3/4 Zoll Schlauchtülle für gängige Anschlüsse</li><li>beseitigt Einschränkungen bei der Platzierung</li></ul>"
+}

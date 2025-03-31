@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>hohe Haltbarkeit</li><li>vielseitige Anwendung</li><li>zuverlässiger Schutz</li><li>leichtes Handling</li><li>robustes Material</li></ul>"
+}

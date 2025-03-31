@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>6-teiliges Badminton Set</li><li>Set besteht aus zwei Schläger und fünf Federbällen</li><li>für den Spielspaß im Garten, am Strand oder beim Campen</li><li>Schläger haben typisch harte Bespannung</li><li>trainiert die Hand-Augen-Koordination und Gleichgewicht der Kinder<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 46.95,
+    "attributes": "<ul><li>Isolierfarbe für den Innenbereich</li><li>hochdeckende Nikotinsperre</li><li>sehr gut zu verarbeiten</li><li>kann mit Vollton- und Abtönfarben eingefärbt werden</li><li>lösemittelfrei und geruchsarm</li></ul>"
+}

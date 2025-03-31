@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Prunkbohne Preisgewinner für ca. 5–6 Stangen</li><li>eine spätreifende aber sehr ertragreiche Bohnensorte</li><li>mit grünen langen, flachen und fleischigen Hülsen</li><li>als Laubenabgrenzung für Gartenzäune verwendbar</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

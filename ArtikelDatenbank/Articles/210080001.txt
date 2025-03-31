@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Flaschenöffner für für Verschlüsse (Ø) ca. 2 - 8 cm</li><li>Multifunktionsöffner aus rutschfesten, flexiblen Kunststoff</li><li>fest verschlossene Gläser oder Flaschen sind kein Problem mehr</li><li>für Kunststoff- und Metallverschlüsse geeignet</li><li>öffnen von unterschiedlichen Behältern durch 3 Öffnungen</li></ul>"
+}

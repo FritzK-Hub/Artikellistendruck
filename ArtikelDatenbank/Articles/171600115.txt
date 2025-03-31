@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>lösemittelfreier Voranstrich für saugende und nichtsaugende Untergründe</li><li>schafft eine Haftung zwischen altem und neuem Material</li><li>bindet Staub und bildet einen haftvermittelnden Film, der für Haftung sorgt</li><li>sorgt für einen gleichmäßig saugenden Untergrund</li><li>passend für Baustoffe wie Beton, Mörtel, Estrich, Putz und Holzfaserplatten<br/></li></ul>"
+}

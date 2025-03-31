@@ -1,0 +1,4 @@
+{
+    "uvp": 2.09,
+    "attributes": "<ul><li>HT-Gummimanschette für Siphonbogen</li><li>zuverlässige Leckageverhinderung </li><li>ideal für Sanitärprojekte</li><li>sorgt für dauerhafte Abdichtung</li><li>passt sich optimal an </li></ul>"
+}

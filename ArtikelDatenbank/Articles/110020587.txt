@@ -1,0 +1,4 @@
+{
+    "uvp": 13.49,
+    "attributes": "<ul><li>wirksamer, natürlicher Schutz</li><li>besonders umweltfreundlich</li><li>Förderung des Pflanzenwachstums</li><li>einfache Anwendung</li><li>für den ökologischen Landbau<br/></li></ul>"
+}

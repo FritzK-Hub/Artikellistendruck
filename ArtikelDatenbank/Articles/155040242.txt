@@ -1,0 +1,4 @@
+{
+    "uvp": 4.9,
+    "attributes": "<ul><li>dient als nützliches Orientierungslicht, speziell für kleinere Kinder</li><li>besonders langlebig und stabil, aus robustem Kunststoff</li><li>verhindert ungewollte Verletzungen von Zehen oder Knien in der Nacht</li><li>schaltet sich dank Dämmerungssensor automatisch bei Dunkelheut ein</li><li>einfach in der Handhabung, lässt sich leicht in eine Steckdose einstecken<br/></li></ul>"
+}

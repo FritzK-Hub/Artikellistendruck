@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Garten-Holzlasur für den Außenbereich</li><li>für dekorative, wetterbeständige Pflege- und Schutzanstriche</li><li>dringt tief ins Holz ein und blättert nicht ab</li><li>wasserabweisend und umweltfreundlich</li><li>tropft und spritzt nicht</li></ul>"
+}

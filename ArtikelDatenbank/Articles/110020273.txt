@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>10 dekorativ gestaltete Gelbsticker + 10 Bindedrähte</li><li>der gelbe Farbton lockt fliegende Insekten an</li><li>einfache Anwendung, fix und fertig beleimt</li><li>dauerhafte Wirkung, lang anhaltende Klebefähigkeit</li><li>flexibel, ganzjährig einsetzbar</li></ul>"
+}

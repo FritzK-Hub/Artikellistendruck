@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>5-fach Steckdosenleiste mit Kinderschutz und Abdeckungen</li><li>komfortabler Einsatz von Winkelsteckern möglich</li><li>schlagzähes Gehäusematerial, spritzwassergeschützt</li><li>ergonomisch gestalteter Schutzkontaktstecker</li><li>spritzwassergeschützt, IP 44</li></ul>"
+}

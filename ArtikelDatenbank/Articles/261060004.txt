@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Grösse: ca. Ø 10 x 55 mm</li><li>Menge: 50 Stück</li><li>ohne Kragen</li><li>Farbe: rot</li></ul>"
+}

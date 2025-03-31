@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>hochwertiger Möbelknopf für lange Lebensdauer</li><li>modernes Design mit satin matter Optik</li><li>passend für die meisten Schränke und Schubladen</li><li>einfache Montage dank mitgeliefertem Befestigungsmaterial</li><li>für eine Türstärke von max. 20 mm<br/></li></ul>"
+}

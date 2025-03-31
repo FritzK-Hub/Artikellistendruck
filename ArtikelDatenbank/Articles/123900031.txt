@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<p><br/></p><ul><li>viele verschiedene Insekten unter einem Dach</li><li>unterschiedlich eingerichtete Räume</li><li>für verschiedenste Arten etwas passendes dabei</li><li>Schutz vor Wind und Regen</li><li>Holzspäne bieten Schutz für Ameisen- und Käferarten</li></ul><p><br/></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>dekorativer Metallic- Effekt</li><li>auf vielen Oberflächen anwendbar</li><li>in verschiedenen Farben erhältlich</li><li>für Innen geeignet</li><li>einfache und praktische Anwendung</li></ul>"
+}

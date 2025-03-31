@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>HSS Bi-Metall Lochsäge von Drillcraft</li><li>für Elektro-, Trockenbau oder Sanitärarbeiten</li><li>aus hochwertiger M42 Stahllegierung mit 8% Kobalt-Anteil</li><li>geeignet für Hand- und Standbohrmaschinen</li><li>für Materialien wie: Riffelbleche, Leicht- und Buntmetalle, PVC und bedingt (70 U/min.) für Edelstahl<br/></li></ul>"
+}

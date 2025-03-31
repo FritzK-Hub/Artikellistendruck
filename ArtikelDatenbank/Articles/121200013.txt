@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Bewässerungskasten für einen universellen, hydroponischen Anbau</li><li>ideal für Pflanzenliebhaber, die nicht jeden Tag zu Hause sind</li><li>mit großen Wasserspeicher, eine Überwässerung ist ausgeschlossen</li><li>einfache Demontage erleichtert die Reinigung</li><li>widerstandsfähig gegen Beschädigungen und UV-Strahlen<br/></li></ul>"
+}

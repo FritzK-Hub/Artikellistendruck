@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>Wandschiene für Sichtlagerkästen</li><li>sorgt für Ordnung in der Werkstatt oder Garage</li><li>einfache Montage, aus stabilem Kunststoff</li><li>für fast alle handelsüblichen Sichtlagerkästen</li><li>geeignet für 20 x NP6 und 9 x NP8</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>Kettenverschlussglied in schwarz</li><li>wiederverwendbar</li><li>Passend für Ketten 12,7 x 3,2 mm (1/2 x 1/8˝)</li><li>für alle Radketten mit Nabenschaltung</li><li>auf für Fahrradketten ohne Schaltung</li></ul>"
+}

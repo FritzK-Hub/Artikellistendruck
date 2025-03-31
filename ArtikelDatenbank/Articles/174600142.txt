@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>pflegeleichte Chromoberfläche</li><li>flexible Montagemöglichkeiten</li><li>einfache Installation</li><li>rost- und korrosionsbeständig</li><li>moderne Ästhetik<br/><br/></li></ul>"
+}

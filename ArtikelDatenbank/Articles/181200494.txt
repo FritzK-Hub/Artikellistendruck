@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Buschbohnen Valja, ohne Fäden</li><li>eine mittelfrühe, anpassungsfähige Bohnensorte</li><li>widerstandsfähig gegen Brenn- als auch Fettflecken</li><li>ideal zum Einfrieren geeignet</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

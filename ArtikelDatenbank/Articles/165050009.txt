@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>Drahstseil-Spannschraube 8 x 110 mm</li><li>ideal zum Abspannen z. B. von Sonnensegeln</li><li>leichtgängig und präzise</li><li>Spannschloss mit Haken und Öse</li><li>max. belastbar bis ca. 150 kg</li></ul>"
+}

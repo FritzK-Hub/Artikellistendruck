@@ -1,0 +1,4 @@
+{
+    "uvp": 6.59,
+    "attributes": "<ul><li>CEE Stecker 5 polig 32 A mit 400 V</li><li>aus schlagfestem Polyamid gefertigt</li><li>werkzeugloses Öffnen und Schließen des Gehäuses</li><li>ein praktischer Kraftstromstecker für Wohnwägen</li><li>besitzt eine zentrale Leitungseinführung<br/></li></ul>"
+}

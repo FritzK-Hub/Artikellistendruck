@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Blumendünger Universal in der 1 Liter Flasche</li><li>für Blumen und blühende Sträucher</li><li>für gesundes und üppiges Wachstum</li><li>auch für Pflanzgranulat und Hydrosteine geeignet</li><li>für intensives Blattgrün und prächtigen Blüten<br/></li></ul>"
+}

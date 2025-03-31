@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Fitness-Reifen Macacor in Lilapink</li><li>effektiv für hohen Kalorienverbrauch und hoher Fettverbrennung</li><li>verhilft zu einer schlanken Taille, einen straffen Bauch &amp; Po</li><li>lässt sich leicht in drei Größen zusammenstecken, überall einsetzbar</li><li>inklusive Turnbeutel, Maßband und Aufbau- wie Übungsanleitung</li></ul>"
+}

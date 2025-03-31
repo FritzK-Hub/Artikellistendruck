@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Soffittenlampen C5W</li><li>2-teiliges Set</li><li>für die KFZ-Innenbeleuchtung</li><li>12 Volt Betriebsspannung</li><li>entspricht E4</li></ul>"
+}

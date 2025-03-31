@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>vielseitig für verschiedene Batterietypen geeignet</li><li>automatisierte 7-Stufen-Ladetechnologie bietet Effizienz</li><li>inklusive praktischem Reparaturprogramm für alte Batterien</li><li>klares LCD-Display mit Ladestatus-Anzeige</li><li>Sicherheitsfunktionen für sorgenfreies Laden integriert</li></ul>"
+}

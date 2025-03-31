@@ -1,0 +1,4 @@
+{
+    "uvp": 13.49,
+    "attributes": "<ul><li>Universal Hochleistungs-Klebstoff</li><li>Anfangsklebekraft von 400 kg/m²</li><li>für Innen, Außen und Sanitärbereich</li><li>geruchlos und überstreichbar und lösemittelfrei</li><li>UV beständig, wasserfest, auch auf feuchtem Untergrund anwendbar</li></ul>"
+}

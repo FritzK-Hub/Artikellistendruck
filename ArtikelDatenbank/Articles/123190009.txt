@@ -1,0 +1,4 @@
+{
+    "uvp": 89.0,
+    "attributes": "<ul><li>leichtes Manövrieren auf unebenem Gelände</li><li>stabiler Stahlrahmen für lange Lebensdauer</li><li>geräumiger Stauraum bis 120 kg belastbar, kippbar<br/></li><li>einfach zu reinigen und pflegen</li><li>ideal für effiziente Gartenarbeit</li></ul>"
+}

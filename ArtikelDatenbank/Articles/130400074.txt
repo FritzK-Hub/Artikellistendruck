@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Infrarot-Heizstrahler mit zwei Stufen für individuelle Wärmeeinstellung</li><li>Carbon-Heizelemente verbreiten effizient Wohlfühlwärme</li><li>optimale Wärmeverteilung dank zuschaltbarer Oszillation</li><li>Sicherheit durch Überhitzungs- und Kippschutzmechanismen </li><li>in Büros, Wohnräumen oder Werkstätten einsetzbar<br/></li></ul>"
+}

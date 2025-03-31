@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>präzise Temperatur-Justierung mit Thermostat</li><li>energiesparend dank Temperatur-Sicherheitssperre</li><li>einfache Installation inkl. Anschlüssen und Abdeckklappen</li><li>pflegeleicht und beständig</li><li>zeitloses Design für jedes Badezimmer</li></ul>"
+}

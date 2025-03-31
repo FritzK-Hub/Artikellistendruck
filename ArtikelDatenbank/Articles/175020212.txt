@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Winkelschleifer W 125-900 von Güde</li><li>flaches, robustes Metallgetriebegehäuse für sicheres Arbeiten</li><li>Sicherheitsschalter mit Wiederanlaufschutz</li><li>Spindelarretierung für schnellen Scheibenwechsel</li><li>wekzeuglose Schutzhaube</li></ul>"
+}

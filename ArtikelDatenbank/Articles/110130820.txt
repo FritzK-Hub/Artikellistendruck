@@ -1,0 +1,4 @@
+{
+    "uvp": 5.19,
+    "attributes": "<ul><li>Bodenausgleichsschraube in runder Form</li><li>korrosionsgeschützt mit verzinkter Oberfläche</li><li>zum Ausgleich von Bodenunebenheiten</li><li>für alle Möbelfüße der Modellreihe POP</li><li>Stellfuß zum leichten einschrauben<br/></li></ul>"
+}

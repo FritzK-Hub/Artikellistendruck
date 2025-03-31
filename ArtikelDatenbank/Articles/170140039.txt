@@ -1,0 +1,4 @@
+{
+    "uvp": 9.79,
+    "attributes": "<ul><li>für den Modellbau oder unterschiedlichsten Holz- und DIY-Projekten</li><li>ermöglicht effektives Entfernen vom Material, dient zur Oberflächenbehandlung</li><li>garantiert eine gleichmäßige und präzise Arbeiten</li><li>ergonomischer Griff für einfachere Handhabung und leichtes Raspeln</li><li>bei Nichtgebrauch platzsparend an einer Werkstattwand aufhängbar<br/></li></ul>"
+}

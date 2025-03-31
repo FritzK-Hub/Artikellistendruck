@@ -1,0 +1,4 @@
+{
+    "uvp": 7.95,
+    "attributes": "<ul><li>Sortimentskasten NOR08 290 x 195 x 35 mm schwarz</li><li>eignet sich zur Aufbewahrung von Schrauben, Knöpfen usw.</li><li>9 rote Einsteckwände zur flexiblen Einteilung</li><li>alles auf einem Blick dank transparentem Deckel</li><li>integrierter Tragegriff für einfachen Transport</li></ul>"
+}

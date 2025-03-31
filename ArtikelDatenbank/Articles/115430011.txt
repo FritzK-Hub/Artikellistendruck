@@ -1,0 +1,4 @@
+{
+    "uvp": 899.95,
+    "attributes": "<ul> <li>qualitativ hochwertige Ausführung für den Werkstatteinsatz</li> <li>7 kugelgelagerte Schubladen mit Auszugsperre, 100% ausziehbar, leer</li> <li>geeignet für den harten Werkstatt-Einsatz im Dauerbetrieb</li> <li>unbestückt, zum selbst Bestücken </li> <li>abschließbar mit Zentralschloss</li></ul>"
+}

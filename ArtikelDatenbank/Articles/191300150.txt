@@ -1,0 +1,4 @@
+{
+    "uvp": 125.0,
+    "attributes": "<ul><li>kompakter, leistungsstarker 2-flammiger Gaskocher</li><li>separat regelbare Brenner für flexibles Kochen</li><li>stabiler Stahl-Deckel mit Schnappverschluss</li><li>abklappbarer Windschutz ermöglicht Outdoor-Kochen</li><li>einfach zu transportieren und reinigen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Küchenmesser mit Wellenschliff</li><li>aus rostfreiem Edelstahl</li><li>mit schwarzem Kunststoffgriff</li><li>der ideale Küchenhelfer</li><li>spülmaschinengeeignet</li></ul>"
+}

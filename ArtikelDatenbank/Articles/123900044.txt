@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Bodenfliese 30 x 30 cm zum Zusammenstecken in Schwarz</li><li>aus recyceltem, wetterbeständigem Kunststoff gefertigt</li><li>lässt sich nach Belieben miteinander verbinden </li><li>es werden keine Schrauben oder Kleber benötigt</li><li>vielseitig für den Innen- oder Außenbereich einsetzbar<br/></li></ul>"
+}

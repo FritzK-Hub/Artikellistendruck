@@ -1,0 +1,4 @@
+{
+    "uvp": 59.99,
+    "attributes": "<ul><li>edles Design für moderne Wohnräume</li><li>vielseitig In- und Outdoor geeignet</li><li>bequemer Sitzkomfort durch abgerundete Form</li><li>platzsparend stapelbar bei Nichtgebrauch</li><li>robust und pflegeleicht für langlebige Nutzung</li></ul>"
+}

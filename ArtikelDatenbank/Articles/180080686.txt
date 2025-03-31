@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>rechteckiger Swimming Pool mit 2 gleichgroßen Ringen</li><li>aus robustem Vinyl hergestellt</li><li>Wasseraufnahmevolumen von 815 Liter</li><li>extrabreite Seitenwände ideal zum Relaxen</li><li>langlebige Reparaturflicken inklusive</li></ul>"
+}

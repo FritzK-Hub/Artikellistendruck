@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>Baustoff Energy Drink</li><li>koffeinhaltiges Erfrischungsgetränk</li><li>pasteurisiert</li><li>erhöhter Koffeingehalt</li><li>für Kinder und schwangere oder stillende Frauen nicht empfohlen<br/></li></ul>"
+}

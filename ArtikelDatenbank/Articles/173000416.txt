@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>RGB-LED-Band 5 m mit 150 LED‘s</li><li>schafft eine entspannte Atmosphäre</li><li>vielseitig einsetzbare LED-Beleuchtung</li><li>ideal als indirekte Möbelbeleuchtung geeignet</li><li>inklusive Fernbedienung und Netzkabel<br/></li></ul>"
+}

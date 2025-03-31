@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>3-teiliges Minikreissägeblatt-Set</li><li>ideal für Kleinbohrmaschinen</li><li>geeignet für Holz und Kunststoff</li><li>universell einsetzbar</li><li>Profiqualität mit hoher Lebensdauer<br/></li></ul>"
+}

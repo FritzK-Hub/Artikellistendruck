@@ -1,0 +1,4 @@
+{
+    "uvp": 17.09,
+    "attributes": "<ul><li>gutes Viskositäts-Temperaturverhalten</li><li>optimale Alterungsstabilität</li><li>höchste thermische Stabilität</li><li>ausgezeichnetes Tieftemperaturverhalten</li><li>hervorragender Korrosionsschutz</li></ul>"
+}

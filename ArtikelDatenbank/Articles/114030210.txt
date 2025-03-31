@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Wimpelkette mit verschiedenfarbigen Elementen</li><li>die ideale Dekoration für eine Gartenparty</li><li>mit Befestigungsschnur</li><li>einfache Montage</li><li>mehrfach verwendbar</li></ul>"
+}

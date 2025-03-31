@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>universell einsetzbares Vorhängeschloss </li><li>Schaft aus nitrocarburiertem Stahl gefertigt</li><li>mit den Zylindern der Serie CSR oder CSF kompatibel</li><li>automatische Verriegelung mittels Bügelautomatik</li><li>zum Einsetzen eines Monoprofil-Schließzylinders<br/></li></ul>"
+}

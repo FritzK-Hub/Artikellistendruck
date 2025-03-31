@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>eine lösemittelfreie, kalt zu verarbeitende Klebemasse aus Bitumenbasis</li><li>zur Verklebung und Reparatur von Bitumendachpappen untereinander oder auf Beton</li><li>passend für Dächer mit einer Neigung von bis max. 5°</li><li>einfach in der Verarbeitung, benötigt keine Vorbehandlung</li><li>besitzt eine schnelle Anfangshaftung <br/></li></ul>"
+}

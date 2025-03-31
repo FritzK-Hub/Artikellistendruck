@@ -1,0 +1,4 @@
+{
+    "uvp": 23.99,
+    "attributes": "<ul><li>Segmentsägeblatt 2 in 1 Multi Tool 65 mm</li><li>zum entfernen von Fliesenkleber und Mörtel</li><li>zum Ausfräsen alter Fliesenfugen</li><li>langlebiges Werkzeug dank Hartmetallbeschichtung</li><li>es ist ein vielfach einsetzbares Allround Werkzeug<br/></li></ul>"
+}

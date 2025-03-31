@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>batteriebetriebene LED-Taschenlampe in verschiedenen Farben</li><li>besonders langlebig und stabil, mit gummiertem Aluminiumgehäuse</li><li>für eine klare Sicht mit einer Leuchtweite von bis zu 6 m</li><li>Handschlaufe erleichtert das Tragen, überall mitnehmbar</li><li>einfach in der Handhabung, leicht zu bedienen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.29,
+    "attributes": "<ul><li>Gartenspritze aus Messing</li><li>mit Stecknippel-Anschluss 1/2\"</li><li>kompatibel mit allen gängigen 1/2\" Stecksystemen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Krepppapier zum Basteln</li><li>in 10 verschiedenen Farben</li><li>ideal zum Dekorieren</li><li>Größe 50 x 250 cm</li><li>Krepppapier für DIY-Arbeiten</li></ul>"
+}

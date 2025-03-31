@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>    10 x Abfallsäcke mit Tragegriff extra stark</li><li>ideal für Mülltonnen und schwerere Abfälle</li><li>    recyclebar und universell einsetzbar</li><li>aus umweltfreundlichem Polyethylen hergestellt</li><li>    verhält sich grundwasserneutral</li></ul>"
+}

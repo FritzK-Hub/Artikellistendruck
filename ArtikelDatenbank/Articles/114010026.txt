@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Länge: ca. 2 m</li><li>Breite: ca. 45 cm</li><li>Stärke Folie: ca. 0,1 mm</li><li>Folie ist selbstklebend</li><li>mit feuchtem Tuch abwischbar</li><li>rückstandsfrei entfernbar</li></ul>"
+}

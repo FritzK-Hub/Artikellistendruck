@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>faltbare Sitzbank in Weiß</li><li>optimal für Picknicks, Partys und Campingausflüge geeignet</li><li>sehr robust, widerstandsfähig und leicht zu transportieren</li><li>verfügt über integrierten Tragegriff </li><li>problemlose Reinigung möglich<br/></li></ul>"
+}

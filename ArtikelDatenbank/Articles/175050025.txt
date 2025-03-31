@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Ausblaspistole aus Alu-Druckguss</li><li>mit 3 Düsen 25-100-200 mm</li><li>zum Reinigen, Ausblasen von Hohlräumen</li><li>stabile Ausführung</li><li>universal einsetzbar</li></ul><ul><p><br/></p></ul>"
+}

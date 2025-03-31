@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>für Flexschläuche aus Kunststoff und Aluminium</li><li>luftdichte Verbindung für Lüftungsrohre</li><li>vereinfacht das Verlängern von Abluftsystemen<br/></li><li>schnelle und sichere Montage</li><li>aus hochwertigem Edelstahl</li></ul>"
+}

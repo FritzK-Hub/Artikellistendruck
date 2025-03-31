@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul> <li>Klarlack hochglänzend auf Kunstharzbasis</li> <li>für Innen- und geschützte Außenbereiche</li> <li>für transparente Lackierungen hochwertiger Möbel, Stühle und anderer Einrichtungsgegenstände aus Holz</li> <li>abriebfest, stoß- und schlagfest</li> <li>gut verlaufend und strapazierfähig</li></ul>"
+}

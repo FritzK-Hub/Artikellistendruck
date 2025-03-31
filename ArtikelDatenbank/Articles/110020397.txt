@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>handliches Nachtlicht mit integrierter Insektenabwehr</li><li>ideal für Kinderzimmer, Schlafzimmer oder Wohnwagen</li><li>Abwehr von Insekten ganz ohne Chemie</li><li>umweltfreundlich mit Ultraschall, Frequenzbereich 6-10 KHz</li><li>Stufe 1 Nachtlicht und Insektenabwehr zusammen; Stufe 2 nur Nachtlicht<br/></li></ul>"
+}

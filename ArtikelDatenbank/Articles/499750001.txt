@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>mit Dichtscheibe aus robustem EPDM-Material für zuverlässige Abdichtung</li><li>in verschiedenen Größen erhältlich für eine Vielzahl von Anwendungen</li><li>hohe Qualität und zuverlässige Leistung für den professionellen Einsatz</li><li>Kreuzschlitz PZ Antrieb für schnelles und einfaches Eindrehen</li><li>aus rostfreiem Edelstahl der Sorte A2 gefertigt</li></ul>"
+}

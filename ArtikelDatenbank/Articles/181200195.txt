@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Nigella „Jungfer im Grünen“, reicht für ca. 120 Pflanzen</li><li>schöne Mischung für Pflanzungen zwischen Stauden oder Sommerblumen</li><li>diese Pflanze eignet sich auch als Schnitt- oder Trockenblume</li><li>wächst zudem auf jeden Gartenboden und hat keine Ansprüche</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

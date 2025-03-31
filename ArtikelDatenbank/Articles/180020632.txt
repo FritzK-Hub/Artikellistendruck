@@ -1,0 +1,4 @@
+{
+    "uvp": 36.3,
+    "attributes": "<ul><li>einfacher und schneller Einbau</li><li>keine Demontage des Fallrohres notwendig</li><li>UV- beständig und frostsicher</li><li>Umstellung Sommer- auf Winterbetrieb durch einen Dreh</li><li>hoher Wirkungsgrad &gt; 95 %</li></ul>"
+}

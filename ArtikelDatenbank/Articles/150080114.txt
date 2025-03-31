@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Standhahn-Mutternschlüssel für Rechts- und Linksgewinde</li><li>zum Lösen von z.B. Einhebelmischbatterien</li><li>für schwerzugängliche Verschraubungen</li><li>flexibel durch 180° schwenkbares Gelenk</li><li>mit verstellbarem T-Griff<br/></li></ul>"
+}

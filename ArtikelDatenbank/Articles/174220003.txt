@@ -1,0 +1,4 @@
+{
+    "uvp": 10.55,
+    "attributes": "<ul><li>mit Schnell-Lösehebel</li><li>ideal für Frontscheiben oder Karrosserie Reparatur</li><li>maximale Hebekraft ca. 40kg</li><li>Arbeitslast ca. 25kg</li><li>Durchmesser: 115mm</li></ul>"
+}

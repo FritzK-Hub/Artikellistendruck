@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>hoher Siede- und Nasssiedepunkt für zuverlässiges Bremsen</li><li>erfüllt die Anforderungen der Spezifikation DOT 4</li><li>langlebige Leistung und Schutz vor Korrosion</li><li>kompatibel mit gängigen Bremssystemen</li><li>reibungslose Funktion der Bremsen</li></ul>"
+}

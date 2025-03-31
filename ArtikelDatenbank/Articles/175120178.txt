@@ -1,0 +1,4 @@
+{
+    "uvp": 14.49,
+    "attributes": "<ul><li> Propan Ersatz- und Verlängerungsschlauch </li><li>Gas-Anschluss oder Verlängerungs Schlauch für deine Gas-Verbraucher<br/></li><li> 3/8\" Schraubanschluss beidseitig </li><li> inklusive Schlauchverbinder </li><li> für alle Abflammgeräte </li></ul><p></p>"
+}

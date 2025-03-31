@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>Makita Akkuschrauber 12V mit 2 Funktionen: Bohren oder Schrauben</li><li>Spindelarretierung zur Einhandbedienung des Bohrfutters</li><li>staubgeschütztes 2-Gang-Planetengetriebe mit Metallzahnrädern, Drehmoment in 20+1 Stufen einstellbar</li><li>Kapazitätsanzeige und LED-Beleuchtung für mehr Sicherheit und Kontrolle</li><li>rutschfester Handgriff mit eingelegtem Gummipolster, im Koffer mit zweitem Akku und Ladegerät<br/></li></ul>"
+}

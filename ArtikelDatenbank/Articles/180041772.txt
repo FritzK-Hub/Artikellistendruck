@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>hervorragende Haltbarkeit</li><li>cadmium- und bleifrei</li><li>sichere Handhabung</li><li>lebendige Farbauswahl</li><li>robust und langlebig</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>lösemittelfreies, flüssiges Bienenwachs von Clou</li><li>aus reinem Bienenwachs in Wasser gelöst</li><li>dient zur Veredelung von unbehandeltem Holz</li><li>zur Pflege und Renovierung gewachster Oberflächen im Innenbereich</li><li>erzeugt seidenglänzende Oberflächen und erhöht natürlichen Holzcharakter<br/></li></ul>"
+}

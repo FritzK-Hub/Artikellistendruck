@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>sofortige Batteriezustandsbewertung ohne Wartezeit</li><li>flexibel, da unabhängig von externer Stromversorgung</li><li>vielseitig für verschiedene Batterietypen einsetzbar</li><li>kompakt und tragbar für unterwegs geeignet</li><li>klare Farbgebung für einfache Ablesbarkeit</li></ul><p></p>"
+}

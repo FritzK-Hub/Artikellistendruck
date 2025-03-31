@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>vielseitige Farbpalette</li><li>hochwertiges Material</li><li>leicht zu verarbeiten</li><li>ideal für Accessoires</li><li>einzigartige Kreationen<br/></li></ul>"
+}

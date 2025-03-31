@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>batteriebetriebene Teelichter-Set mit 24 Kerzen</li><li>die Flackerfunktion imitiert das natürliche Verhalten einer Flamme</li><li>sichere Nutzung da keine offene Flamme</li><li>perfekt zum Dekorieren zu Weihnachten oder an Geburtstagen</li><li>inklusive CR2032 Knopfzellbatterien und Tragebox</li></ul>"
+}

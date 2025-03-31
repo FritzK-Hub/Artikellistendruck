@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>höhenverstellbare Teleskopstange</li><li>großer Stauraum</li><li>einfache Montage</li><li>hochwertige Materialien</li><li>inklusive Befestigungsmaterial<br/></li></ul>"
+}

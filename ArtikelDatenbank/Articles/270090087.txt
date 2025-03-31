@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Reinigungsscheibe für die Bohrmaschine oder den Winkelschleifer</li><li>entfernt mühelos Farbe, Lack, Rost und Beschichtungen</li><li>geeignet für Holz, Stahl und Edelstahl</li><li>reinigt und poliert in einem Arbeitsgang</li><li>für die Freihandarbeit geeignet</li></ul>"
+}

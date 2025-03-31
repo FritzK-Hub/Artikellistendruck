@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Heizkörperlack ‚Tech Spray 400 ml satin weiß </li><li>für Schadstellen am Heizkörper, Konvektoren oder Wasserboiler</li><li>hitzebeständig bis 80 °C </li><li>für den Innenbereich geeignet </li><li>einfache und praktische Anwendung <br/></li></ul>"
+}

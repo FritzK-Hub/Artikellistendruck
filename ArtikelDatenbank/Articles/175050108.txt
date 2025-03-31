@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Druckluftschlauch aus PVC</li><li>mit Gewebeeinlage</li><li>komplett mit Schnellkupplung und Stecknippel</li></ul>"
+}

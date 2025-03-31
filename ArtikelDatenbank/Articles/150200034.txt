@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Aufbewahrungsbox aus Kunststoff</li><li>stapelbar für eine platzsparende Lagerung</li><li>mit abnehmbarem Deckel</li><li>Vertiefungen im Deckel bieten opitmalen Halt beim Stapeln</li><li>Deckel mit schwarzem Klipverschluss</li></ul>"
+}

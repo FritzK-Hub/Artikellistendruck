@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Fahrradspiegel zur Montage am Lenkerende </li><li>mit 3D Weitwinkel</li><li>Anti-Kratz-Beschichtung</li><li>3-dimensional verstellbarer Parabolspiegel</li><li>für Lenkerinnendurchmesser von 19,0 - 22,2 mm</li></ul>"
+}

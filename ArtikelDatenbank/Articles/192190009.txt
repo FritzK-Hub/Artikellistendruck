@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>dekorative Vogelfigur sitzend aus Keramik</li><li>ist mit einem Schal und Bommelmütze versehen</li><li>schafft eine weihnachtliche Atmosphäre</li><li>passend für Fensterbrett oder Wohnzimmertisch</li><li>vielseitig einsetzbare Innen- und Außendekoration<br/></li></ul>"
+}

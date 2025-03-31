@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>ultraleicht für mühelosen Transport</li><li>riesiger Stauraum in der Seitentasche</li><li>mit Klapptisch ideal für Getränke und Snacks</li><li>schnelles Aufstellen um mehr Zeit im Freien zu genießen<br/></li><li>langlebige Materialien bieten jahrelangen Outdoor-Spaß</li></ul><p></p>"
+}

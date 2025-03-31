@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>geeignet für Kunststoffe, Textilien, Poly Rattan und pulverbeschichtete Metalle</li><li>praktische Sprühflasche, gebrauchsbereit - kann direkt aufgetragen werden</li><li>Polyrattan Gartenmöbelreiniger in hochwertiger Qualität</li><li>Gartenmöbelreiniger zur einfachen Handhabung</li><li>Gebrauchsanweisung auf der Flasche</li></ul>"
+}

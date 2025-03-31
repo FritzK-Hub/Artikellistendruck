@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>klappbarer Sägebock für sicheres Zuschneiden von Holz</li><li>eignet sich für bis zu 30 cm dicke Äste oder Baumstämme</li><li>dreifache Höhenverstellung für rückenschonendes Arbeiten</li><li>gezahnte Haltstützen verhindern das Abrutschen des Holzes</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
+}

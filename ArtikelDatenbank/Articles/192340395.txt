@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>Platzset aus Filz mit Hirschmotiv</li><li>überrasche deine Gäste mit dekorativen Schutzmatten</li><li>die Maßen 45 x 35 cm bietet ausreichend Platz</li><li>schütz den Tisch vor Schmutz und Flecken</li><li>für Esstische oder Veranstaltungen geeignet<br/></li></ul>"
+}

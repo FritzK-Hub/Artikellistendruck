@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Ratschengurt</li><li>Spanngurt nach EN 12195-2 PES</li><li>der Ratschengurt ist UV-Beständig</li><li>Gurtenden mit Spitzhaken</li><li>Ratschengurte nicht zum Heben geeignet</li></ul>"
+}

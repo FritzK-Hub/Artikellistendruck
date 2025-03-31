@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>Aqua Laser Toilettenbürste </li><li>bietet sehr hygienische, umweltschonende und gründliche Reinigung</li><li>aus haltbarem, elastischem Gummi</li><li>ist problemlos sauber zu halten und hält bis zu fünfmal länger</li><li> verfügt über ein elegantes, stilvolles Design<br/></li></ul>"
+}

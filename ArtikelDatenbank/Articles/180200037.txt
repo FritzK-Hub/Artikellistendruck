@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>behebt kleine Lecks und Risse im Kühlkreislauf</li><li>vielseitig anwendbar für Fahrzeuge, Motorräder, Boote</li><li>steigert Betriebssicherheit, Aggregat-Lebensdauer</li><li>einfache Nutzung mit Frostschutzmitteln mischbar</li><li>präventiver Schutz verhindert mögliche Schäden<br/></li></ul>"
+}

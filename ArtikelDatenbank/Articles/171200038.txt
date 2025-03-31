@@ -1,0 +1,4 @@
+{
+    "uvp": 42.95,
+    "attributes": "<ul><li>hochdeckender Acryllack für den Innen- und Außenbereich</li><li>bis zu 10 Jahre Langzeitschutz</li><li>Umweltzeichen der Blaue Engel</li><li>nach DIN EN 71.3 für Kinderspielzeug geeignet</li><li>hoch wetterbeständig mit hohen UV-Schutz</li></ul>"
+}

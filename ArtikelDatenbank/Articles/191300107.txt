@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>handlicher Campinghocker mit 52 cm hohem Gestell</li><li>für bequemen Komfort beim Camping oder im Garten</li><li>Textilbespannung in Grüngrau</li><li>zusammenklappbar zum platzsparenden Verstauen</li><li>mit integrierter Aufbewahrungs- und Kühltasche<br/></li></ul>"
+}

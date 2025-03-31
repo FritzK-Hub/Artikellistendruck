@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Geräteanschlussstück aus Messing</li><li>zum Anschluss von Schläuchen mit Stecksystem an Gartenpumpen oder Rohrleitungen</li><li>passend für handelsübliche Bewässerungs-Stecksysteme</li><li>3/4\" Außengewinde und 3/4\" Steckverbindung für Stecksysteme</li></ul>"
+}

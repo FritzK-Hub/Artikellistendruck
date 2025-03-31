@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>vielfältig einsetzbare Mini Big Bag Gartentasche</li><li>mit 2 Hebeschlaufen, einer Hilfsschlaufe und 2 Entleerungsschlaufen </li><li>qualitativ hochwertiges Gewebe aus Polypropylen</li><li>ideal für den Garten als z.B. Abfallsack</li><li>mit zweifarbigem Aufdruck \"Sonderpreis Baumarkt\"</li></ul><p><br/></p>"
+}

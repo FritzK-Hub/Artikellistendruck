@@ -1,0 +1,4 @@
+{
+    "uvp": 17.09,
+    "attributes": "<ul><li>Premium-Leichtlaufmotoröl für höchste Ansprüche</li><li>ideal bei Start-Stopp-Systemen</li><li>hervorragende Temperaturbeständigkeit</li><li>minimiert Verschleiß und Ablagerungen</li><li>spart Kraftstoff, reduziert Schadstoffausstoß</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 23.5,
+    "attributes": "<ul><li>schnelle, unkomplizierte Überprüfung der Elektrik</li><li>kompatibel mit 7-poligen Anschlüssen</li><li>präzise Anzeige nach ISO-Farbcode</li><li>effizientes Testen von Blinker, Bremslicht &amp; Co.</li><li>vereinfachte Lokalisierung von Elektroproblemen</li></ul>"
+}

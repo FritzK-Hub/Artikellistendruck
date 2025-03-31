@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>SAT Koaxialkabel mit Meterskalierung</li><li>zum Empfangen von FULL HD 1080p und ULTRA HD 4K/8K</li><li>4-facher Signalschirm für hervorragenden Schutz</li><li>hervorragender und störungfreier Empfang</li><li>digitaltauglich für HDTV per DVB-S/S2, DVB-T/T2, DVB-C/C2</li></ul>"
+}

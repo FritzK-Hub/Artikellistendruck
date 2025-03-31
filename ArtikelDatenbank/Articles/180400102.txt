@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>kompakte und handliche Bauweise</li><li>ergonomischer, rutschfester Handgriff</li><li>vielseitige Fettbefüllungsmöglichkeiten</li><li>inklusive Düsenrohr<br/></li><li>hoher Arbeitsdruck von 400 bar</li></ul>"
+}

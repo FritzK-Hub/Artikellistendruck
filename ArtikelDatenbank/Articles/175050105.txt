@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>innen-Durchmesser 5 mm, außen-Durchmesser 8 mm für effiziente Luftzufuhr</li><li>inklusive Schnellkupplung und Stecknippel für einfache Verbindung</li><li>hochwertiger PU-Kunststoff für Flexibilität und Haltbarkeit</li><li>ideal für verschiedene Druckluftgeräte und -werkzeuge</li><li>integrierter Knickschutz für lange Lebensdauer</li></ul>"
+}

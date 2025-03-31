@@ -1,0 +1,4 @@
+{
+    "uvp": 11.66,
+    "attributes": "<ul><li>effiziente Wasserführung zum Regenwasserkanal oder Sickerschacht</li><li>einfache Montage durch ineinandergesteckte Teile</li><li>hochwertige Optik dank sauberer Übergänge</li><li>hochwertige Materialien für Langlebigkeit</li><li>für den Einsatz im Freien geeignet</li></ul>"
+}

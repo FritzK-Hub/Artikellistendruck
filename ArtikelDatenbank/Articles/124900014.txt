@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>rostbeständiger Gitterrost zur langlebigen Nutzung</li><li>flexible Abflussanschlüsse für vielseitige Installation</li><li>Anpassung auf Maß durch Kürzungsmöglichkeit</li><li>endlos verlängerbar für große Flächen</li><li>platzsparendes Design zur unauffälligen Installation</li></ul>"
+}

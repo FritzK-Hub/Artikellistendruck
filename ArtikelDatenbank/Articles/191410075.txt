@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>mit großer Sitz- und Liegefläche für zwei Personen</li><li>zwei Luftkammern sorgen für erhöhte Sicherheit</li><li>intergriefte Haltegriffe</li><li>inklusive Reparaturflicken</li><li>platzsparend zusammenfaltbar<br/></li></ul>"
+}

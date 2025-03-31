@@ -1,0 +1,4 @@
+{
+    "uvp": 4.07,
+    "attributes": "<ul><li>Vorhängeschloss aus Messing</li><li>universell einsetzbar<br/></li><li>mit 3 Schlüsseln</li><li>gehärteter Bügel</li><li>gute Verarbeitung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 299.0,
+    "attributes": "<ul><li>2000W Leistung für kraftvolles Schneiden</li><li>inklusive 2 Sägeblätter mit 24 und 48 Zähnen</li><ul><li>große Schnittbreite (bis zu 340 mm) und Schnitthöhe von 65 mm</li><li>integrierter Laser für exakte Schnittführung</li><li>geeignet für Hart- und Weichholz</li></ul></ul>"
+}

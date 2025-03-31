@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>eignet sich zum längeren Frischhalten von Lebensmitteln</li><li>vielseitig für selbstgemachte Marmelade oder Konfitüre verwendbar</li><li>auch für kleine Portionen von selbstgemachter Wurst, Obst, Dips und Desserts</li><li>Deckel aus Weißblech lässt sich leicht auf- und zuschrauben</li><li>überrasche deine Familie und Freunde mit selbstgemachten Leckereien<br/></li></ul>"
+}

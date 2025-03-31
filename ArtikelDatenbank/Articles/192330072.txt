@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>drei batteriebetriebene LED-Echtwachskerzen</li><li>schaffen ein stimmungsvolles Wohlfühlambiente</li><li>mit Flackereffekt und Timerfunktion versehen</li><li>zur Gestaltung auf dem Fensterbrett oder als Tischdekoration</li><li>zur Bestückung von Weihnachtsdekorationen geeignet</li></ul>"
+}

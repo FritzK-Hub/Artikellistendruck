@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Klebehakenset mit selbstklebender Rückseite</li><li>aus massivem Edelstahl gefertigt</li><li>Set besteht aus zwei ovalen Haken</li><li>einfache Befestigung ohne Bohren</li><li>zur Befestigung von kleineren Gegenständen oder Handtücher<br/></li></ul>"
+}

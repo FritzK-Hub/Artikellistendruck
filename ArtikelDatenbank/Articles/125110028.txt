@@ -1,0 +1,4 @@
+{
+    "uvp": 23.99,
+    "attributes": "<ul><li>Loredo® Quattro Universal-Rasenunkrautfrei 250 ml</li><li>sehr breites Wirkspektrum</li><li>wirkt bis tief in die Wurzeln </li><li>sehr gute Rasenverträglichkeit</li><li>nach dem Abtrocknen wieder für Haustiere begehbar</li></ul>"
+}

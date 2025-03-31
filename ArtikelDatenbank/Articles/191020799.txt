@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Angelset mit Kescher und Angelkasten<br/></li><li>Teleskopstange auszieh- und zusammenklappbar</li><li>universell einsetzbar für fast alle Angelarten</li><li>ideale Grundausstattung für jeden Angler</li><li>praktische Tragetasche im Lieferumfang enthalten<br/></li></ul>"
+}

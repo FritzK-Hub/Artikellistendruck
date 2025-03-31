@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>handliches WC-Garnitur Arese 2-teilig in Schwarz</li><li>sorgt für strahlende Sauberkeit in deiner Toilette</li><li>bestehend aus einem Bürsten-Topf und Silikon-WC-Bürste</li><li>schnell und einfach neben das WC stellen</li><li>der Bürsten-Kopf kann je nach Bedarf ausgewechselt werden</li></ul>"
+}

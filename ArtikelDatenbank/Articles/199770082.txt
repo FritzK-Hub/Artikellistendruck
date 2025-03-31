@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>FISHBULL Sperrzahnmuttern mit Flansch</li><li>aus robustem Stahl gefertigt</li><li>mit verzinkter Oberfläche</li><li>für eine gute Sicherung</li><li>guter Korrosionsschutz<br/></li></ul>"
+}

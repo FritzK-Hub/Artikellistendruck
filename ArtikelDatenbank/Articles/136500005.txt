@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>zuverlässiges Utensil für Schleifarbeiten und Nachbesserungen</li><li>angenehme Handhabung, aus flexiblem Kork gefertigt</li><li>für Arbeiten auf kleinen bis mittelgroßen Flächen</li><li>verhindert das Verrutschen des Schleifpapiers</li><li>sorgt für gleichmäßigen Druck und saubere Schleifergebnisse</li></ul>"
+}

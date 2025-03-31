@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>geringes Eigengewicht</li><li>fester Stand durch Standfuß</li><li>Hauptfach mit Klappdeckel und Zugband </li><li>einfach zu reinigendes Material</li><li>belastbar bis max. 15 kg</li></ul>"
+}

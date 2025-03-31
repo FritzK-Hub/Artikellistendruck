@@ -1,0 +1,4 @@
+{
+    "uvp": 1.59,
+    "attributes": "<ul><li>stilvolles Euro-Banknoten-Design für einen einzigartigen Look</li><li>piezoelektrisches Zündsystem für eine schnelle und zuverlässige Zündung</li><li>perfekte Flammenkontrolle dank präzise regulierbare Flamme</li><li>nachfüllbar und wiederverwendbar</li><li>aus hochwertigem Kunststoff für eine lange Lebensdauer<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Möbelwachs 150 ml von Clou</li><li>aus natürlichem Bienen- und Carnaubawachs</li><li>für schonende Pflege mit Reinigungseffekt</li><li>bildet natürliche Schutzschicht und verhindert das Austrocknen </li><li>ist lösemittelfrei, auch für Kindermöbel und Spielzeug geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>kleiner Steckbügel ohne Farbwalze</li><li>passend für Farbwalzen von 5-7 cm Breite</li><li>6 mm Drahtstärke<br/></li><li>Ersatzbügel in Schwarz</li><li>mit einer Gesamtlänge von 22 cm</li></ul>"
+}

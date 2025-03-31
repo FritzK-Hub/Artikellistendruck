@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>vielseitig für stabile Verbindungen im Holzbau</li><li>aus massivem, verzinktem Stahl gefertigt</li><li>zur Befestigung von Winkeln und Lochblechen</li><li>profilierte Schaft erzeugt hohen Widerstand, erschwert das Herausziehen</li><li>man benötigt dadurch weniger herkömmliche Nägel, spart kosten</li></ul>"
+}

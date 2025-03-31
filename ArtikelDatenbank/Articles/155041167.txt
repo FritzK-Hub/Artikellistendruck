@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Doppel Spitzer aus Metall</li><li>für dicke und dünne Stifte</li><li>geeignet für Blei- und Farbstifte</li><li>Metallspitzer in Keilform mit Auffangbehälter</li><li>Spitzer mit austauschbaren Messern<br/></li></ul>"
+}

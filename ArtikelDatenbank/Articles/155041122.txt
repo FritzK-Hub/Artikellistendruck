@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>LED Wandleuchte solarbetrieben mit 1,5 W</li><li>sorgt für klare Sicht in Eingangsbereichen</li><li>aus robustem ABS-Kunststoff IP 65</li><li>Solarzellen versorgen selbständig mit Strom</li><li>Infrarot-Sensor erfasst ca. 6 Meter</li></ul>"
+}

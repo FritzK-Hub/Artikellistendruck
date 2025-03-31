@@ -1,0 +1,4 @@
+{
+    "uvp": 2.69,
+    "attributes": "<ul><li>Flechtzaunbeschlag in L-Form mit Holzschraube</li><li>Außenbereich geeigent dank Wetterbeständigkeit</li><li>aus robustem A2 Edelstahl gefertigt</li><li>universal passend für alle Pfosten und Zaunelemente</li><li>schnelle und einfache Montage möglich</li></ul>"
+}

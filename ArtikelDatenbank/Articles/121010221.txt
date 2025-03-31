@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Kreidemarker 4 Stück im Set</li><li>zum Beschriften von Tafeln, Glas, Fenstern und Spiegeln</li><li>feucht und trocken abwischbar</li><li>geruchsneutral</li><li>Flüssigkreide auf Wasserbasis<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Blechschere mit schlanken Scherenkopf</li><li>linksschneidend</li><li>aus hochwertigem Qualitätsstahl</li><li>ideal für kurze Schnitte</li></ul>"
+}

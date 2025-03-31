@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>Premium 2in1 Fliesenlack auf Wasserbasis in Weiß, glänzend</li><li>zur optischen Erneuerung von gefliesten Oberflächen</li><li>lässt sich direkt auf die alten Fliesen aufstreichen</li><li>passend für Bäder und Küchen im Innenbereich</li><li>besitzt eine hohe Deckkraft, ist schnelltrocknend und wasserfest</li></ul>"
+}

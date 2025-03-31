@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>zum Verbinden, Befestigen oder Zusammenhalten von Pflanzen</li><li>aus dunkelgrünem, stabilem Kunststoff gefertigt</li><li>sicherer Halt, ohne in den Vordergrund zu rücken</li><li>schnell und einfach in der Handhabung</li><li>sind bei Bedarf mehrfach wiederverwendbar</li></ul>"
+}

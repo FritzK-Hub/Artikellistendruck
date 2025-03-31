@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Grablicht-Ersatzkerzen-Set je Ø 4,5 x 5,8 cm</li><li>Set bestehend aus vier Grablichter</li><li>passendes Zubehör für deine Grabkerzen </li><li>das Gehäuse der Grabkerze ist aus Kunststoff</li><li>besitzen eine Brenndauer von ca. 10 Stunden</li></ul>"
+}

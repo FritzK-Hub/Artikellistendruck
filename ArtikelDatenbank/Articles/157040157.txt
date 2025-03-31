@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul> <li>Spezial-Kunstharzlack für die hochwertige Lackierung von Heizkörpern und Rohrleitungen an Heizungsanlagen</li> <li>ausreichend für ca. 8 m² (bei einmaligem Anstrich)</li> <li>hitzebeständig bis 90°C</li> <li>vergilbungsbeständig</li> <li>brillante Oberfläche und sehr gute Kantenabdeckung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>Werk- und Spanntisch als vielseitiger Alleskönner für diverse Aufgaben</li><li>robuste Stabilität durch Stahlrohrkonstruktion und Kunststofffüße</li><li>schnelle Werkstückfixierung mit Handkurbeln und Spannbacken</li><li>präzises Arbeiten dank stabiler MDF-Platte mit Skalen</li><li>maximale Flexibilität durch geringes Gewicht und Klappmechanismus</li></ul>"
+}

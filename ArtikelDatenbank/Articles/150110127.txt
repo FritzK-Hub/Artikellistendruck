@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>Intensiv-Reiniger für Motoren, Getriebe- und Maschinenteile</li><li>entfernt einfach, schnell und kraftvoll Schmutz und selbst hartnäckige Öl- und Fettrückstände</li><li>greift Lack, Gummi und Kunststoff nicht an</li><li>pflegt und hinterlässt einen transparenten Schutzfilm, der die Neuverschmutzung verzögert</li><li>ist kälte- und hitzebeständig, einfach und sicher in der Anwendung</li></ul>"
+}

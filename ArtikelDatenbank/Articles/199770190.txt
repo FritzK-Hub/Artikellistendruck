@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>optimale Raumausnutzung in deinem Kleiderschrank</li><li>aus stabilem Metall gefertigt, vernickelt</li><li>einfache Montage an den Schrankinnenseiten</li><li>beste Organisation deiner Garderobe</li><li>schlichtes und ansprechendes Design</li></ul>"
+}

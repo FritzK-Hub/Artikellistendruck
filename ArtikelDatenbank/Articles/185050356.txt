@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>effektive Lösung für lästiges Kabelchaos</li><li>robuster Kunststoff bietet Langlebigkeit</li><li>schnelles Aufwickeln ohne mühsames Entwirren</li><li>platzsparendes Design für maximale Ordnung</li><li>verlängert die Lebensdauer von Lichterketten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>süß-pfeffriges Würzkraut</li><li>ideal zum Würzen von Salaten</li><li>Triebspitzen enthalten die größte Würzkraft</li><li>kann frisch oder getrocknet gegessen werden</li><li>bevorzugt sonnigen Standort</li></ul><p><br/></p>"
+}

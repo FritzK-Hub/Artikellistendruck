@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>praktische Fugenbürste von AquaLaser aus Kunststoff</li><li>geeignet für Fugen, gefliesten Wänden und vieles mehr</li><li>zum Entfernen von Schmutz in Wohn- und Sanitärbereichen</li><li>spezielle Anordnung der Borsten sorgen für effektivere Reinigung</li><li>ergonomischer Griff erleichtert die Reinigungsarbeit<br/></li></ul>"
+}

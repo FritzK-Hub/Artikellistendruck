@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>nachhaltig aus natürlichen Materialien gefertigt</li><li>mit lange Brenndauer besonders effizient</li><li>einfaches und schnelles Anzünden</li><li>umweltfreundlich und biologisch abbaubar</li><li>vielseitig einsetzbar für Grill und Kamin</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Ausführung: flexibel</li><li>Material: Metall</li><li>Aufnahme: SK 7</li><li>Kante: angeschliffen</li><li>entfernt mühelos Klebereste, Lackreste, Silikonfugen u.v.m.<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 25.95,
+    "attributes": "<ul><li>Schraubendreher-Satz 11-teilig<br/></li><li>mit T-Profil ohne Stirnbohrung<br/></li><li>in den gängigsten Größen<br/></li><li>mit stabilem Kunststoffgriff<br/></li><li>in Kunststoffbox mit Klarsichtdeckel</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.5,
+    "attributes": "<ul><li>Spitze heizt sich rasch auf, für präzise Lötarbeiten</li><li>für den Akku-Lötkolben mit 3,7 V (Artikelnummer: 135000006)</li><li>erzielt saubere, dauerhafte Verbindungen ohne Kompromisse</li><li>einfacher und schneller Wechsel, Arbeitsfluss wird nicht unterbrochen</li><li>perfekt für Elektronikbastler und Hobbyhandwerker<br/></li></ul>"
+}

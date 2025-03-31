@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>qualitativ hochwertige Rauhfaser Tapete</li><li>mit atmungsaktiver Oberfläche</li><li>Umweltzeichen der Blaue Engel</li><li>zur Erzeugung besonderer Wandoberflächen</li><li>schafft eine wohnfreundliche Umgebung</li></ul>"
+}

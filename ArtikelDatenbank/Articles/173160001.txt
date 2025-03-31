@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>extra kurze Baulänge</li><li>für enge Platzverhältnisse</li><li>Länge: 140mm</li><li>feinverzahnt 72 Zähne</li></ul>"
+}

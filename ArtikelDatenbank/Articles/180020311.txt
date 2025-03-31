@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>3-Wege Kupplung Anschluss-Stück</li><li>aus stabilem Kunststoff gefertigt</li><li>zur schnellen Verbindung von bis zu 3 Schläuchen</li><li>für die alle gängigen Schlauchverbindungen</li><li>einfache und schnelle Montage<br/></li></ul>"
+}

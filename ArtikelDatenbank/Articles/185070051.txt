@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Schneeschieber Arctic Eco 80x44 cm aus stabilem Kunststoff</li><li>idealer Helfer zum Räumen von Schnee im Winter</li><li>scharfe Kante zerbricht mühelos Eisschollen oder festen Schnee</li><li>rückenschonende Arbeit dank Höhenverstellung<br/></li><li>leichtes Räumen und bequemes Arbeiten dank Rollen</li></ul>"
+}

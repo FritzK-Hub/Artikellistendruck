@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Art: Karabiner (auch Feuerwehr Karabinerhaken genannt) DIN5299</li><li>Form: birnenförmig (C-Form)</li><li>Belastbarkeit: maximal 450kg</li><li>Material: Stahl, verzinkt</li></ul>"
+}

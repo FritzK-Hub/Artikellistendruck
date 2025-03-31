@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>unverzichtbares Werkzeug für alle Arbeiten in Haus, Werkstatt oder Garten</li><li>besonders leistungsstark und vielseitig</li><li>16 Drehmomenteinstellungen sowie Bohr- und Schlagfunktionen</li><li>ergonomischer Softgriff für komfortables Arbeiten</li><li>inklusive Zubehör und Kunststoffkoffer für mehr Ordnung<br/></li></ul>"
+}

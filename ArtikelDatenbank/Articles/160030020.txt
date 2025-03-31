@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Gartenhandschuhe Uni Fit Comfort Größe 9 Ziegenleder</li><li>Handrücken aus dunkelgrauen, strechtbaren Material</li><li>ermöglicht eine reibungslose Arbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>besonders angenehmen Komfort bei der Gartenarbeit<br/></li></ul>"
+}

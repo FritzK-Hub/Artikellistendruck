@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>edles Design mit sanft glänzender Oberfläche</li><li>widerstandsfähig gegen Witterungseinflüsse</li><li>Einsatz verhindert Wurzelfäule</li><li>vielseitig für drinnen und draußen geeignet</li><li>langlebig durch hochwertigen Kunststoff</li></ul>"
+}

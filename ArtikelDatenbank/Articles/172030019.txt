@@ -1,0 +1,4 @@
+{
+    "uvp": 0.29,
+    "attributes": "<ul><li>Federdeckel in weiß</li><li>Federsteckdeckel für Schalterdosen Ø 60 mm</li><li>zum Verschließen von Schalterdosen</li><li>Elektro Dosendeckel aus Kunststoff</li><li>zur sicheren und schnellen Abdeckung</li></ul>"
+}

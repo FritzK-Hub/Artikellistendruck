@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li><b>inklusive 4,0 Ah, 2 Ah Akku und Ladegerät</b></li><li><b>inlusive 50-tlg. Bit- &amp; Bohrerset</b></li><li>18V Akku Schlagbohrschrauber mit Schnellspannfutter</li><li>starkes 50 NM Drehmoment erlaubt kraftvolle Bohranwendungen</li><li>24-Stufen-Drehmomenteinstellung und zuschaltbare Schlagfunktion</li></ul><p></p>"
+}

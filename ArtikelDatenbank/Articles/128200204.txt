@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Rasensprenger aus Aluminium</li><li>bewässert zuverlässig deinen Garten</li><li>ein schöner Hingucker</li><li>auch für Kinder zum Spielen</li><li>wird mit normaler Kupplung an Gartenschlauch angeschlossen<br/></li></ul>"
+}

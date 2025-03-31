@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>wärmende Thermo-Unterwäsche für Herren</li><li>Unterhemd oder lange Unterhose erhältlich<br/></li><li>aus 50% Baumwolle wie 50 % Polyester gefertigt</li><li>in verschiedenen Farben und Größen erhältlich</li><li>atmungsaktiv und feuchtigkeitsregulierend<br/></li></ul>"
+}

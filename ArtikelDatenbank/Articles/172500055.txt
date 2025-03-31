@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Kabelentmantler aus Kunststoff in Rot, einfach in der Handhabung<br/></li><li>zum Abisolieren von Abzweigdosen oder Verteilerdosen</li><li>für herkömmliche Antennenkabel bis max. Ø 8 mm Außendurchmesser geeignet</li><li>auch für Innenleiter bis max. 1,13 mm geeignet</li><li>rutschfester Griff für einen sichereren Halt<br/></li></ul>"
+}

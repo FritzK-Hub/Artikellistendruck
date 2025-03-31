@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>Verbinder CAT 6 (bis 250 MBit-Netzwerke)</li><li>zum Verbinden von zwei Netzwerkkabeln</li><li>mit Platinenkontaktierung</li><li>2 geschirmte RJ45 Buchsen</li><li>echte Metallabschirmung - kein bedampfter Kunststoff<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>breites Anwendungsspektrum</li><li>für Holz, Kunststoff und Gipskarton</li><li>zum Sägen in Holz: z.B. Austrennen von Lüftungsgittern oder Fensterrahmen</li><li>zum Abtrennen von vorstehenden Holzdübeln in Verbindungselementen</li><li>zum Einschlitzen von PVC-Rohren<br/></li></ul>"
+}

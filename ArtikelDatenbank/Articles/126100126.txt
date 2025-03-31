@@ -1,0 +1,4 @@
+{
+    "uvp": 389.0,
+    "attributes": "<ul><li>luftgekühlter 4-Takt-Benzinmotor 1000 W mit Inverter-Technologie </li><li>mobile Energiequelle auf Baustellen oder beim Camping</li><li>als Notstromaggregat für die wichtigsten Heimgeräte verwendbar</li><li>bequemer Transport dank kompakter, leichter Bauweise</li><li>lässt sich sowohl mit bleifreiem Normal- oder Superbenzin befüllen<br/></li></ul>"
+}

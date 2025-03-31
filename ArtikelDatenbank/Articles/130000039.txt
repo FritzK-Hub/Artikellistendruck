@@ -1,0 +1,4 @@
+{
+    "uvp": 999.0,
+    "attributes": "<ul><li>Hergestellt in Deutschland</li><li>hohe Schnittleistung bei maximaler Sicherheit</li><li>patentierte Schutzklappe bietet zusätzlichen Schutz</li><li>Betrieb erfolgt über eine herkömmliche 230 Volt Steckdose</li><li>transportabel dank robuster Laufräder</li></ul><p></p>"
+}

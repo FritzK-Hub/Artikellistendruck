@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>praktische Aufbewahrungsbox<br/></li><li>aus stabilem Kunststoff gefertigt</li><li>stapelbar und nestbar</li><li>abnehmbarer Deckel als Zubehör erhältlich<br/></li><li>abwaschbar und leicht zu reinigen</li></ul>"
+}

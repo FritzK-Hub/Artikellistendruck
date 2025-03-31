@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>12 Spiral-Laubsägeblätter</li><li>allseitig schneidend</li><li>gehärtet</li><li>geeignet für Holz, Kunststoff und weiche Metalle</li><li>für gängige Laubsägebügel geeignet</li></ul>"
+}

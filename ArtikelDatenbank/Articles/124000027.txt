@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>zur bequemen und effektiven Bewässerung deines Garten</li><li>Wasserdruck lässt sich stufenlos regulieren und der Handhebel feststellen</li><li>über 1/2“ Anschluss mit den gängigsten Schnellkupplungen kompatibel</li><li>ergonomischer Handgriff verhindert selbst bei größeren Flächen das Ermüden</li><li>besonders langlebig und robust, aus stabilem Kunststoff gefertigt<br/></li></ul>"
+}

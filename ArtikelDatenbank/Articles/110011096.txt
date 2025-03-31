@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>verbindet zuverlässig Rohre verschiedener Größen</li><li>zum Verschließen von Abluftöffnungen am Mauerwerk<br/></li><li>für Lüftungs- und Abgasanlagen<br/></li><li>für sichere und dichte Verbindungen</li><li>aus robustem Kunststoff </li></ul>"
+}

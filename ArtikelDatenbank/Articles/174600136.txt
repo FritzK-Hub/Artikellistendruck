@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>zur universelle Nutzung</li><li>einfache Installation</li><li>aus hochwertigem Material</li><li>besonders platzsparend</li><li>vielseitiges Montageset<br/></li></ul>"
+}

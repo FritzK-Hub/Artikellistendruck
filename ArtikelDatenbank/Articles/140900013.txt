@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Holzfliese 30 x 30 cm aus Akazienholz bereits geölt zum Zusammenstecken</li><li>lässt sich nach Belieben mit anderen Fliesen verbinden</li><li>sehr standfest und präzise dank Kunststoffplatte</li><li>es werden keinen Schrauben oder Kleber benötigt</li><li>die Bodenhalterung schützt die Holzfliese vor Nässe</li></ul>"
+}

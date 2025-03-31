@@ -1,0 +1,4 @@
+{
+    "uvp": 3.0,
+    "attributes": "<ul><li>gelbe Kindersicherheitsweste in Größe L</li><li>für bessere Sichtbarkeit besonders bei Dunkelheit</li><li>ideal für den Schulweg, lässt sich problemlos über Jacken anziehen</li><li>an den Seiten geschlossen mit zwei Reflektorstreifen</li><li>ist bei 40° C waschbar<br/></li></ul>"
+}

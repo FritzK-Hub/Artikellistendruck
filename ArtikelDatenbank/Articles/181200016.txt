@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Saatgut für den Schattenrasen</li><li>sorgt für schattenverträgliche Grünflächen</li><li>benötigt weniger Wasser als ein herkömmlicher Rasen</li><li>auch zur Nachbesserung bzw. Übersaat schadhafter Rasenflächen</li><li>in hochwertiger Gärtnerqualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>3/8\" außen</li><li>1/2\" innen<strong><br/></strong></li><li>matt verchromt</li></ul>"
+}

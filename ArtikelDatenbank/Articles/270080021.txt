@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Größe: 90mm</li><li>5er Set</li><li>Korn: 40</li></ul>"
+}

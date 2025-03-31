@@ -1,0 +1,4 @@
+{
+    "uvp": 479.95,
+    "attributes": "<ul><li>    Tisch bis ca. 300 cm ausziehbar    </li><li>bietet viel Platz für Gäste</li><li>    aus robusten Aluminiumgestell    </li><li>Glasplatte aus Sicherheitsglas    </li><li>Verlängerung lässt sich einfach herausschieben</li></ul>"
+}

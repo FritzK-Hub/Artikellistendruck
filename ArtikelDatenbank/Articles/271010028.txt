@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>umfangreiches HM-Steinbohrer-Set in den gängigsten Größen</li><li>besonders langlebig und widerstandfähig, aus verzinktem Stahl<br/></li><li>für effektive Bohrarbeiten in Gestein, Beton, Putz und andere mineralische Werkstoffe</li><li>schnelle und effiziente Bohrleistung dank HM-Schneiden </li><li>einfache Aufbewahrung und sicherer Transport dank stabiler Kunststoffbox<br/></li></ul>"
+}

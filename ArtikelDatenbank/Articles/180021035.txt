@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>dekoratives Auslaufventil aus poliertem Messing</li><li>mit Motiv \"Hahn\"</li><li>mit abnehmbarer Schlauchanschluss-Tülle aus Kunststoff für 1/2\" Schlauch</li><li>Spindelventil mit Gummidichtung zur stufenlosen Regulierung der Wassermenge</li></ul>"
+}

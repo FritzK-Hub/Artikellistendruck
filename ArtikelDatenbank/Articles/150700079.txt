@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>praktischer Tischmülleimer mit Push-Deckel</li><li>aus massivem 18/0 Edelstahl gefertigt</li><li>sorgt für mehr Ordnung am Essens- oder Arbeitsplatz</li><li>1,87 Liter Fassungsvermögen bietet ausreichend Stauraum für Essensreste</li><li>nach dem Leeren ist der Mülleimer auch Spülmaschinen geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 79.9,
+    "attributes": "<ul><li>Gartensessel mit leichtem Aluminiumgestell </li><li>witterungsbeständiger Bezug </li><li>Sitzfläche und Lehne aus Textil 2x1 gepolstert, gesteppt</li><li>mehrfach verstellbare Rückenlehne für mehr Komfort</li><li>bei Nichtgebrauch platzsparend zusammenklappbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.29,
+    "attributes": "<ul><li>Kreuz-Wasserwaage aus Kunststoff</li><li>mit Horizontal- und Vertikal-Libelle</li><li>rechtwinklig angeordnet</li><li>Richtwaage zum Prüfen der Ausrichtung eines Objektes</li><li>handliche Größe<br/></li></ul>"
+}

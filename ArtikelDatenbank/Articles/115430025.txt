@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li>qualitativ hochwertige Ausführung für den Werkstatteinsatz mit offener Bauweise</li><li>eine ausziehbare Schublade, leer</li><li>geeignet für den harten Werkstatt-Einsatz im Dauerbetrieb</li><li>unbestückt, zum selbst Bestücken </li><li>ideal zur Ablage von Kleinbauteilen und Werkzeugen<br/></li></ul>"
+}

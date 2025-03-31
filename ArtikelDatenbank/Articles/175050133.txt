@@ -1,0 +1,4 @@
+{
+    "uvp": 35.95,
+    "attributes": "<ul><li>120 cm³ Behälter mit integriertem Filter für feine Farbausgabe</li><li>Luftverbrauch von 113 l/min für vielseitige Lackierarbeiten</li><li>robustes Aluminium-Gehäuse für Qualität und Langlebigkeit</li><li>rostfreier 0,8 mm Sprühkopf für präzise Zerstäubung</li><li>verchromte Oberfläche schützt vor Korrosion</li></ul>"
+}

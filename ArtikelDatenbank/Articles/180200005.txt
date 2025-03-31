@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>speziell für Dieselpartikelfilter entwickelt</li><li>reduziert Rußbildung</li><li>verlängert Filterlebensdauer</li><li>schützt vor Verstopfung</li><li>Emissionsreduzierung</li></ul>"
+}

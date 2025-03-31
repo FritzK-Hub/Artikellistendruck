@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Taschenmesser in stabiler, feststehender Ausführung</li><li>Handgriff mit Fingergelenkschutz</li><li>zweiteilige Klinge mit Glatt- und Sägeschnitt</li><li>Klinge aus hochwertigem Edelstahl</li><li>ideal für Jagd, Fischen, Camping u.v.m.</li></ul>"
+}

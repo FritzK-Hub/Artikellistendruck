@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Steinbohrer zum Bohren in Mauerwerk, Beton, Dachziegeln, Klinker u.ä. Materialien</li><li>mit Zentrierspitze (für leichteres Ansetzen des Bohrers)</li><li>hohe Kraftübertragung, für SDS Plus Aufnahmen geeignet</li><li>schneller Abtransport des Bohrmehls, höhere Bohrgeschwindigkeit</li><li>saubere, präzise Bohrlöcher und hohe Standzeit durch Vierschneiden-Bohrkopf<br/></li></ul>"
+}

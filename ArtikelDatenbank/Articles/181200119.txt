@@ -1,0 +1,4 @@
+{
+    "uvp": 0.59,
+    "attributes": "<ul><li>Saatgut Margerite Frühling für ca. 80 Pflanzen</li><li>mehrjährige reichblühende Blumensorte</li><li>wird gerne vor Gehölze gepflanzt</li><li>beliebte Schnittblume und Schmuckstaude</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

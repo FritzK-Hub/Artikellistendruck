@@ -1,0 +1,4 @@
+{
+    "uvp": 699.9,
+    "attributes": "<ul><li>stilvolles, modernes Design mit Lichtband<br/></li><li>robust gegen Wettereinflüsse und Rost</li><li>sicher durch verstärkte Seitenwände und Schiebetüren</li><li>praktisches Pultdach für effizienten Wasserablauf</li><li>einfacher Aufbau mit Montagematerial und Anleitung</li></ul><p></p>"
+}

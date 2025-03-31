@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>geeignet um einen Meißel oder andere Schlagwerkzeuge anzutreiben</li><li>liegt gut in der Hand</li><li>massiver Holzstiel mit Stielschutz</li><li>hochwertige stabile Qualität</li></ul>"
+}

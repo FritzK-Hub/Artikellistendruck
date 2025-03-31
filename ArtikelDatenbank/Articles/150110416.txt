@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>komfortabler Griff für müheloses Spülen</li><li>praktische Aufhängelasche zur einfachen Lagerung</li><li>sanfte Borsten schützen Oberflächen vor Kratzern</li><li>stilvolles Design für jede Küche</li><li>vielseitig einsetzbar für alle Geschirrarten</li></ul>"
+}

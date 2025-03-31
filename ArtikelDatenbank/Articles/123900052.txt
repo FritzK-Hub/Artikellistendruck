@@ -1,0 +1,4 @@
+{
+    "uvp": 30.69,
+    "attributes": "<ul><li>schnelle und einfache Verlegung</li><li>nachhaltig durch recycelten Kunststoff</li><li>robuste und befahrbare Oberfläche</li><li>flexibel erweiterbar ohne Werkzeug</li><li>ideal für Außen- und Innenbereiche</li></ul>"
+}

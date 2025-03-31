@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Power-Pack-Batterie zum unterwegs Aufladen, wiederaufladbar</li><li>USB-Buchse für alle handelsüblichen Handys, Tablets und Smartphones</li><li>gut geeignet auf Reisen und für Outdooraktivitäten</li><li>mit 5 Adapterkabel zum Aufladen</li><li>hohe Akkuleistung, langanhaltend</li></ul>"
+}

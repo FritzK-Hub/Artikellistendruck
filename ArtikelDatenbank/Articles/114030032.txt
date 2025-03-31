@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>4 Sektgläser 100 cl im Set</li><li>klar, transparent</li><li>aus Kunststoff</li><li>hochwertige Einweggläser</li><li><span class=\"a-list-item\">für Partys, Outdoor und Camping</span></li></ul>"
+}

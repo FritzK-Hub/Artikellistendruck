@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Gartennelken im Topf</li><li>Beet- und Balkonpflanze</li><li>auch als Schnittblume geeignet</li><li>verträgt kurzzeitig sogar Frost</li><li>blüht von Mai bis Oktober</li></ul>"
+}

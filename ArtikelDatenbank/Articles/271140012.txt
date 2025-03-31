@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul> <li>Hartmetall Falzfräser 31 mm</li> <li>Frästiefe von ca. 9,5 mm</li> <li>Werkzeugaufnahme rund von 8 mm</li> <li>maximal bis 30.000 Umdrehungen/Min. zugelassen</li> <li>Gesamtlänge Falzfräser: ca. 54 mm</li> <li>Präzisionswerkzeug von Drillcraft Werkzeuge</li> <li>für den privaten oder professionellen Einsatz</li> </ul>"
+}

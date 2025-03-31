@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Maße: (Øxt) ca. 40x9mm</li><li>Außenmaße: (Ø) ca. 58mm</li><li>Modell: Stahlring</li><li>Material: Stahl verzinkt</li><li>geschweißt</li></ul>"
+}

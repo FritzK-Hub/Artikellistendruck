@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>WLAN-Steckdosenleiste 4-fach mit Schutzkontakt-Kupplung von Hama</li><li>angesteckte Geräte können überall einzeln mit Strom versorgt werden </li><li>Überlastschutz schaltet Geräte über 10 A automatisch aus</li><li>verfügt über 4 USB-Steckplätze für Handys oder Tablets</li><li>lässt sich auch über „Amazon Alexa“ oder „Google Assistant“ sprachsteuern</li></ul>"
+}

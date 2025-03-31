@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>ergonomischer Griff für angenehmes Reinigen</li><li>kompakt und leicht zu manövrieren</li><li>schonende Borsten für kratzfreie Reinigung</li><li>langlebig und robust - ideal im Dauereinsatz</li><li>frisches Design für moderne Küchen</li></ul>"
+}

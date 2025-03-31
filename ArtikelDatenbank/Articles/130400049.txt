@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Wand-Heizstrahler mit drei Heizstufen 2 kW für außen</li><li>besitzt ein robustes Metall-Gehäuse mit Gitter</li><li>schafft eine warme und gemütliche Atmosphäre</li><li>an der Wand zwischen 0 bis 45 Grad einstellbar</li><li>inklusive Montageplatte und 1,4 m langes Stromkabel<br/></li></ul>"
+}

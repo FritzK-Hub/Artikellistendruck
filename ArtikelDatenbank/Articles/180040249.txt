@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>zum Zusammenfegen von Laub oder Grasschnitt</li><li>besonders stabil und widerstandfähig, aus Kunststoff</li><li>mit 30 langen, bodenschonenden Zinken versehen</li><li>Arbeitsbreite von 76 cm für effektive und schnelle Gartenarbeit</li><li>inklusive 180 cm Holzstiel für rückenschonende Arbeit<br/></li></ul>"
+}

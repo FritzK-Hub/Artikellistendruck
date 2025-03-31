@@ -1,0 +1,4 @@
+{
+    "uvp": 42.0,
+    "attributes": "<ul> <li>9 x 11 mm / 10 x 12 mm / 13 x 14 mm</li> <li>15 x 17 mm / 16 x 18 mm / 19 x 21 mm</li> <li>hergestellt aus Chrom-Vanadium-Stahl</li> <li>gefertigt nach DIN 3118</li> <li>in Tetron-Tasche</li></ul>"
+}

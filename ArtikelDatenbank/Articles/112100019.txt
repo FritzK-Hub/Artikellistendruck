@@ -1,0 +1,4 @@
+{
+    "uvp": 1.5,
+    "attributes": "<ul><li>Eckwinkelbeschlag für Stabilisierung und Verbindung<br/></li><li>für die Stabilisierung von Balken-Konstruktionen<br/></li><li>robust, langlebig, korrosionsbeständig durch Verzinkung</li><li>optimierte Materialstärke von 2 mm für hohe Stabilität</li><li>auch für den Einsatz mit Schrauben bestens geeignet</li></ul><p></p>"
+}

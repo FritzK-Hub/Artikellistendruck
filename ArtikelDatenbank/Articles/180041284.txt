@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Pflanzkelle mit einer Gesamtlänge von ca. 31 cm</li><li>aus Metall mit ergonomischem Handgriff aus rutschfestem Kunststoff</li><li>zum Pflanzen, Umtopfen oder ähnliche Gartenarbeiten</li><li>ideal geeignet für eine Pflanztiefe bis zu ca. 14 cm</li><li>bei Nichtgebrauch dank Aufhängöse platzsparend aufhängbar</li></ul>"
+}

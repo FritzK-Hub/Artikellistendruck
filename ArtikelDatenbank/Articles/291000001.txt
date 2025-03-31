@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Laufreinigungsschnur aus Baumwolle </li><li>für Waffen und Rohre im identischen Durchmesser</li><li>Beschwichtigungsstück am Ende der Schnur</li><li>kleine Drahtbürsten am Anfang der Schnur</li><li>schnelle und effektive Waffenreinigung</li></ul>"
+}

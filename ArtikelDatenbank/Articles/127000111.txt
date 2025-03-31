@@ -1,0 +1,4 @@
+{
+    "uvp": 7.79,
+    "attributes": "<ul><li>Gartenkrail aus Stahl mit 4 Zinken </li><li>eignet sich besonders für eine effiziente Bodenlockerung</li><li>zum Hacken, Auflockern und Einebnen des Bodens </li><li>sichere Stielverbindung durch eine 28 mm Stieldülle </li><li>unverzichtbares Werkzeug bei der Bodenbearbeitung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>großzügiger Holzkopf</li><li>vielseitige Anwendung</li><li>mit Myhalon-Borsten</li><li>hohe Stabilität und Langlebigkeit</li><li>komfortable Handhabung</li></ul>"
+}

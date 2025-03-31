@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>Design-Ablaufventil</li><li>aus hochglanzverchromtem Messing</li><li>öffnen und schließen durch Drücken des Stopfens</li><li>großer Druckknopfstopfen, herausnehmbar</li><li>passend zu allen Waschtisch-Siphons mit 1 1/4\" Anschluss</li></ul>"
+}

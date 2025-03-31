@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Andrückroller wird zum Fixieren von Tapeten</li><li>zum Ausbessern von kleineren Tapezierfehler</li><li>verfügt über weiche PU-Schaumstoffwalze</li><li>hat eine Walzenbreite von ca. 4,5 cm</li><li>besitzt Kunststoffgriff für einen hohen Arbeitskomfort<br/></li></ul>"
+}

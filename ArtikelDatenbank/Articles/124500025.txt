@@ -1,0 +1,4 @@
+{
+    "uvp": 99.0,
+    "attributes": "<ul><li>Domverlängerung nach DN 600</li><li>passend für Regenwasser-Flachtank</li><li>Verlängerung für Ausgleichsdom</li><li>auch für PKW-Befahrbarkeits-Set</li><li>Domschacht durch einfaches Aufstecken verlängern</li></ul>"
+}

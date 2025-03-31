@@ -1,0 +1,4 @@
+{
+    "uvp": 139.0,
+    "attributes": "<ul><li>kraftvoller Gartenhäcksler GH 2501 mit Messertechnik</li><li>wartungsarm und hoher Bedienkomfort</li><li>mit Selbsteinzug und Zuführhilfe</li><li>inklusive Nullspannungsauslöser und Überlastsicherung</li><li>große Transporträder für leichten Transport<br/></li></ul>"
+}

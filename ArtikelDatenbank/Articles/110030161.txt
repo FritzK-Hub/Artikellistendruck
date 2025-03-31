@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>50 feuchte Reinigungstücher</li><li>für die schnelle Reinigung zwischendurch</li><li>für alle abwaschbaren Flächen geeignet</li><li>ideal auch für unterwegs</li><li>mit frischem Duft</li></ul>"
+}

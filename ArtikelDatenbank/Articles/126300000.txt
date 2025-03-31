@@ -1,0 +1,4 @@
+{
+    "uvp": 179.95,
+    "attributes": "<ul><li>Benzin-Kettensäge KS 400-53 V mit 2,0 kW und 40 cm Schnittlänge</li><li>Kettensäge geeignet für Baumschnitt oder Brennholz</li><li>Zusatzgriff und Kettenbremse für eine sichere Handhabung</li><li>zuverlässiger Helfer für reibungslose Sägearbeiten</li><li>das benötigte Montagewerkzeug ist mit inklusive<br/></li></ul>"
+}

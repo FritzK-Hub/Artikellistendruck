@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>Kugelgrill Montenegro fahrbar aus emailliertem Metall</li><li>mit verchromter Grillfläche von 44 cm</li><li>Luftzugregulierung ermöglicht manuelle Steuerung der Glutwärme</li><li>Ascheauffangbehälter erleichtert die Reinigung</li><li>integrierter Kohleteiler ermöglicht ein indirektes Grillen<br/></li></ul>"
+}

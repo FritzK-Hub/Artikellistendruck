@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Warnschutz Regenjacke, Schutzklasse gemäß EN 471</li><li>Reflexstreifen an Rumpf und Ärmeln</li><li>wasserdicht, winddicht, atmungsaktiv</li><li>Waschmaschinen-Wäsche bei 40°C</li><li>100% wasserdicht</li></ul><p></p>"
+}

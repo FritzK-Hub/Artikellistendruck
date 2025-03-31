@@ -1,0 +1,4 @@
+{
+    "uvp": 19.5,
+    "attributes": "<ul><li>Abzieh- u. Richtlatte aus Aluminium</li><li>zur Ausrichtung beim Mauern und Putzen</li><li>strapazierfähige Form mit Zwischenstegen für hohe Qualität<br/></li><li>beim Fußbodenaufbau mit Trocken-Schüttungen bestens geeignet</li><li>ein unverzichtbares Werkzeug zur Erkennung von Unebenheiten im Trockenbau</li></ul><p></p>"
+}

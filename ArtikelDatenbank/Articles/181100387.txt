@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>dekorative Hochstammrosen mit bis zu 140 cm Höhe</li><li>ist in fünf verschiedenen Sorten erhältlich</li><li>bevorzugt einen sonnigen Standort und organischen Dünger</li><li>aufrecht wachsender Stamm verleiht Elegant</li><li>gedeiht in allen normalen Gartenböden<br/></li></ul>"
+}

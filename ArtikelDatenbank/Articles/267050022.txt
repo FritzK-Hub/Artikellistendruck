@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>hochwertige Ratsche aus Buntmetall</li><li>ideal für Camping, Freizeit, Haus und Garten</li><li>robustes Gurtmaterial</li><li>vielseitig einsetzbar</li><li>Profiqualität von GERMANIA®</li></ul>"
+}

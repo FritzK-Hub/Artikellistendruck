@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Sägeblatt für Holzschnitte</li><li>super scharf und gehärtet<br/></li><li>robuste Qualität</li><li>2-Fach-Schliff</li><li>Länge Sägeblatt: ca. 300 mm</li></ul><ul><p><br/></p></ul>"
+}

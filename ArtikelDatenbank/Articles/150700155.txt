@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>aus massivem Kiefernholz gefertigt</li><li>ideal für die Aufbewahrung von Obst, Gemüse, Kartoffeln etc. </li><li>4 leichtlaufende Doppellenkrollen</li><li>Lattung sorgt für ausreichende Belüftung </li><li>drei Kisten bieten genügend Stauraum<br/></li></ul>"
+}

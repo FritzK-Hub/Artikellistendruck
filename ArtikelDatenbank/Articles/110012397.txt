@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>korrosionsbeständiges Material für vielseitige Anwendungen</li><li>einfache Installation für schnellen Einsatz</li><li>stabile Kupferrohrverbindung ohne Aufwand</li><li>konisch sicher dichtend</li><li>Qualität für Profis und Heimwerker geeignet</li></ul>"
+}

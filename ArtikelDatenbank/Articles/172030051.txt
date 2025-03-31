@@ -1,0 +1,4 @@
+{
+    "uvp": 7.79,
+    "attributes": "<ul><li>flexibles Installationsrohr aus PVC</li><li>flammwidrig, selbstverlöschend, korrosionsfest</li><li>temperaturbeständig bis +60° C</li><li>Flexrohr für Installationen im und unter Putz</li><li>für leichte mechanische Beanspruchung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 129.99,
+    "attributes": "<ul><li>freie iOS &amp; Android APP für Live-Wiedergabe</li><li>ideal zum Überwachen von Innen- &amp; Außenbereichen, wie Räume, Garten oder schwer einsehbare Bereiche</li><li>Videoauflösung HD 1280 x 720 (720P) @ 30fps max.</li><li>Einfaches Befestigen über Magnet, 3M Klebefolie oder Schrauben</li><li>IPX4 Schutzklasse (Spritzwasserschutz) und einer Standby-Zeit von 3 - 5 Monaten<br/></li></ul>"
+}

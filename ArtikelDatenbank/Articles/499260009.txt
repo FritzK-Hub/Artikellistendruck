@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Durchmesser Kopf (dk): ca. 16,0mm</li><li>Höhe Kopf (k): ca. 4,4mm</li><li>Schlüsselweite (s): ca. 5,0mm</li><li>Durchmesser Schraube (ds): ca. 8,0mm (M8)</li><li>Länge (l): ca. 70mm</li></ul>"
+}

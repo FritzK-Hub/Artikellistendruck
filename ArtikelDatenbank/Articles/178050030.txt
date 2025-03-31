@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>hochwertiger Edelstahl</li><li>präzise Messungen</li><li>leicht und flexibel</li><li>mit Anreißlöcher</li><li>vielseitig einsetzbar</li></ul>"
+}

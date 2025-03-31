@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>intensiver Geschmack</li><li>mediterrane Vielseitigkeit</li><li>optimales Wachstum</li><li>leichte Pflege</li><li>ökologische Bereicherung<br/></li></ul>"
+}

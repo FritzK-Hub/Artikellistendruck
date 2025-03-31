@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>waschbar und wiederverwendbar, spart Kosten</li><li>ideal für Tierhaare und Fusseln</li><li>handliche Form erlaubt komfortable Anwendung</li><li>schonend zu allen Stoffarten</li><li>stabiles, langlebiges Kunststoff</li></ul>"
+}

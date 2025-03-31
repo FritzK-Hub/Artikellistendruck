@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Christrose mit robustem Blumentopf Ø 11 cm</li><li>ideal als Weihnachtsdeko oder im Garten</li><li>beginnen zu blühen, wenn der Rest verblühte</li><li>sind besonders winterhart und langlebig</li><li>besonders farbkräftig, weiße Blüten<br/></li></ul>"
+}

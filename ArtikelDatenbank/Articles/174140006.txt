@@ -1,0 +1,4 @@
+{
+    "uvp": 7.09,
+    "attributes": "<ul><li>flexibles V-Profil ermöglich Fixierung verschieden geformter Werkstücke</li><li>gleichmäßiger Druck vermeidet Werkstückbeschädigungen</li><li>hochwertiges Material ermöglicht lange Lebensdauer</li><li>schonendes Einspannen für empfindliche Werkstücke </li><li>sichere Befestigung durch Magnetstreifen</li></ul>"
+}

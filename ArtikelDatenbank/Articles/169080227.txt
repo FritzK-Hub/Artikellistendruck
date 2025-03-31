@@ -1,0 +1,4 @@
+{
+    "uvp": 19.68,
+    "attributes": "<ul><li>Schmiernippel Sortiment, verschiedene Größen</li><li>zum Abschmieren von z.B. Lagereinheiten</li><li>verchromte Ausführung</li><li>hochwertige Qualität</li><li>in praktischer Aufbewahrungsbox<br/></li></ul>"
+}

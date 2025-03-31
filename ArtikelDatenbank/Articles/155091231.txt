@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>3-fach Vergrößerung</li><li>Helligkeit 150 Lumen</li><li>Ein-/Ausschalter am Griff</li><li>praktische Einhand-Bedienung</li><li>für Haushalt, Hobby und Senioren</li></ul>"
+}

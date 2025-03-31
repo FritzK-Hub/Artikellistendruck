@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Radmutternschlüssel mit zwei umsteckbaren Einsätzen</li><li>aus Chrom-Vanadium-Stahl für lange Lebenserwartung</li><li>effektivere Hebelwirkung durch teleskopierbarem Griff</li><li>gummiert Griff sorgt für sichere Handhabung</li><li>lässt sich platzsparend im Kofferraum verstauen<br/></li></ul>"
+}

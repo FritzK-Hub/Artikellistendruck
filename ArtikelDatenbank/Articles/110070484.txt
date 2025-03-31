@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>hochwertiges Formteil zum Verschließen von Öffnungen</li><li>besonders robust und langlebig </li><li>hohe Feuer- und Korrosionsbeständigkeit</li><li>edles Aussehen durch silberne Farbe</li><li>sichere und stabile Installation <br/></li></ul>"
+}

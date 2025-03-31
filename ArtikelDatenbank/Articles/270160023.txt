@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Stichsägeblätter 100 mm HCS Grobschnitt 2 Stück mit U-Schaft</li><li>passend für Black&amp;Decker, Einhell, Ryobi, Skil u.v.m</li><li>geeignet für Weichholz, Spanplatten, MDF Platten, Tischlerplatten</li><li>ideal für Grobschnitte geeignet</li><li>sorgt für gute Verarbeitung und präzise Schnitte<br/></li></ul>"
+}

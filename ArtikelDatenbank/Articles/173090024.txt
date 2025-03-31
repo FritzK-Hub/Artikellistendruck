@@ -1,0 +1,4 @@
+{
+    "uvp": 6.19,
+    "attributes": "<ul><li>Kippverlängerung von BGS® mit Rändelung</li><li>aus hochwertigem Chrom-Vanadium-Stahl</li><li>mit leicht abgeschrägter Vierkant-Werkzeugaufnahme</li><li>das Arbeiten an schwer zugänglichen Stellen wird erleichtert</li><li>lange Lebensdauer im täglichen Werkstatteinsatz</li></ul>"
+}

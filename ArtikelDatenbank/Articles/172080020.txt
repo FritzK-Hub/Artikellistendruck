@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "                    fotoelektronisch,/nRauchentwicklung löst Alarm aus,/neinfache drahtlose Aufputz-Montage,/nLED-Funktionsanzeige,/nakustische Meldung bei nötigem Batteriewechsel,/nTestknopf zur Funktionsprüfung,/nAlarmsignal:  85 dB,/nSpannungsversorgung: 1 x Batterie 9 V - Block (im Lieferumfang enthalten)/nDIN EN 14604\"\"/n                "
+}

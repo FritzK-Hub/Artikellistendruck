@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Fahrradreifen 28 x 1,75 Zoll aus Nylon</li><li>für 18\" Citybikes</li><li>schneller und einfacher Wechsel</li><li>passend für Felgen 17-27 mm</li><li>auch für 37 bis 47-622</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>rückenschonendes Unkrautentfernen ohne Bücken</li><li>leichte Handhabung dank ergonomischem Griff</li><li>stabiler Aluminiumstiel für müheloses Arbeiten</li><li>Unkrautentfernung ohne Chemie und Kraftaufwand</li><li>Federmechanismus für einfaches Auswerfen</li></ul>"
+}

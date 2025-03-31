@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li> zum Schneiden von Durchgangslöchern in Werkstoffen bis 900N/mm² </li><li> bestehend aus Vorschneider, Mittelschneider und Fertigschneider </li><li>der Vorschneider kann auch zum entgraten von Bohrlöchern verwendet werden.<br/></li><li>Hand-Gewindebohrer-Satz aus HSS-Schnellarbeitsstahl für präzise Gewinde<br/></li><li> für metrische ISO-Gewinde, rechtsschneidend </li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 26.2,
+    "attributes": "<ul><li>Größen: 13 / 14 / 16 / 17 / 19 / 21 / 22 / 24 mm</li><li>8-teilig</li><li>Hergestellt aus Chrom-Vanadium-Stahl</li><li>1/2“ Antrieb</li><li>auf Klemmschiene</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.9,
+    "attributes": "<ul><li>Feuchtigkeitsmessgerät zur Bestimmung des Feuchtigkeitsgehalts</li><li>Messung auf der Grundlage der Leitfähigkeit des Materials</li><li>schnelle und einfache Messung möglich</li><li>für Holz und andere Baustoffe geeignet</li><li>mit automatischer Abschaltung bei Nichtbenutzung<br/></li></ul><p></p>"
+}

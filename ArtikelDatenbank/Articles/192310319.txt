@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>flexibel für Innen- und Außenbereich</li><li>automatischer Timer zur energiesparenden Nutzung</li><li>hohe Lichtausbeute durch 300 LEDs</li><li>steckdosenungebunden - freie Platzierung möglich</li><li>dezentes Design mit schwarzem Kabel</li></ul>"
+}

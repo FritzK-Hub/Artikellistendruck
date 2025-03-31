@@ -1,0 +1,4 @@
+{
+    "uvp": 1.19,
+    "attributes": "<ul><li>Saatscheiben „Schnittlauch Middleman“ 5 Stück</li><li>eines der beliebtesten Gewürzkräuter, auch zum Treiben geeignet</li><li>Blätter zum Verfeinern von Quark, Eierspeisen oder Soßen</li><li>ist reich an Vitaminen und Mineralien</li><li>eine natürliche Nahrungsquelle für Bienen und Hummeln</li></ul>"
+}

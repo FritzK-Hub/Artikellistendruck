@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>dekorative LED-Lichterkette mit 192 LEDs</li><li>8 verschiedene Funktionen</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>vielseitig einsetzbar im Innen- und Außenbereich</li><li>sparsame LED-Technik<br/></li></ul>"
+}

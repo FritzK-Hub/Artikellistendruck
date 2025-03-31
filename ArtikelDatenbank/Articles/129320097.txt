@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>mediterranes Gemüse</li><li>beeindruckender Ertrag</li><li>gute Anpassungsfähigkeit</li><li>lange Lagerfähigkeit</li><li>einfache Pflege<br/></li></ul>"
+}

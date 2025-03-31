@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Gehörschutzstopfen von Oakwood</li><li>Ohrenstöpsel mit Schnur</li><li>im Behälter zur sauberen Aufbewahrung</li><li>aus weichem Gummi, Farbe gelb</li><li>Farbe der Schnur: orange<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Gipskartondübel aus Metall</li><li>scharfes, selbstschneidendes Gewinde</li><li>hohe Tragfähigkeit</li><li>geringer Platzbedarf</li><li>Kreuzschlitz Antrieb</li></ul>"
+}

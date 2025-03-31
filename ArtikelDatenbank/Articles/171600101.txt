@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>hochwertiger Spezialmörtel</li><li>Zwei-komponentig und faserverstärkt</li><li>lösemittelfrei und kautschukvergütet</li><li>für kritische Untergründe geeignet</li><li>hochflexibel und frostbeständig nach dem Aushärten</li></ul>"
+}

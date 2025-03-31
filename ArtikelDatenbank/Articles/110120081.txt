@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>nachfüllbares Stabfeuerzeug mit langem Hals</li><li>bietet sicheren Abstand zur Flamme</li><li>mit Piezo-Zündung ausgestattet</li><li>besitzt eine regulierbare Turbo-Flamme</li><li>Sicherung gegen unbeabsichtigtes Betätigen des Zündschalters<br/></li></ul>"
+}

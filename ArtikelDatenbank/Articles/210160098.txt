@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>klassischer Möbelgriff im schlichten Design</li><li>aus stabilem Metall</li><li>mit zwei Befestigungen</li><li>inklusive Befestigungsmaterial</li><li>matte Ausführung</li></ul>"
+}

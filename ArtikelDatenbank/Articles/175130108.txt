@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>    Pattex® Heißklebe Starterset mit Heißklebepistole und Klebesticks    </li><li>geeignetes Starterpaket für Werkstatt- und Bastelarbeiten    </li><li>schon nach 8 - 10 Minuten betriebsbereit    </li><li>ergonomischer Griff für präzise Verklebungen    </li><li>1,8 m langes Kabel</li></ul>"
+}

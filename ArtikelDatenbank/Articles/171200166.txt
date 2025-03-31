@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>effektiver Schutz</li><li>natürliche Maserung</li><li>beeindruckender Glanz</li><li>äußerst ergiebig</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

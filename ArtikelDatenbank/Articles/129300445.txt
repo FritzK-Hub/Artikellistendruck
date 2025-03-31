@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>besonders langlebig und standfest</li><li>beliebte Schnittblume</li><li>wunderschöne leuchtende Blüten in gelb</li><li>Überwinterung im Haus</li><li>geringer Anspruch an den Boden</li></ul>"
+}

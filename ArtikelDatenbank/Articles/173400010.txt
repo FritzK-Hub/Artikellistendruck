@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Werkstattleuchte mit Chip On Board Technologie</li><li>extrem helle Ausleuchtung</li><li>schwenkbarer Fuß mit integrierten Magneten</li><li>verschiedene Befestigungsmöglichkeiten (Haken, Magnet)</li><li>integrierte Taschenlampe (LED) an der Stirnseite<br/></li></ul>"
+}

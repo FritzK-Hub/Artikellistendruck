@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>GERMANIA® HM Multifunktionssägeblatt Ø 160 mm mit 40 Zähnen </li><li>zur Bearbeitung von Massivholz, Spanplatte, Laminat, Eisen, Buntmetall, Kunststoffe geeignet</li><li>gehärtete und geschliffene Zähne, extrem scharf</li><li>feine und saubere Schnitte, geeignet zum Nachschärfen</li><li>für Makita, Bosch, Dewalt, AEG, Elu, Festo oder Metabo<br/></li></ul>"
+}

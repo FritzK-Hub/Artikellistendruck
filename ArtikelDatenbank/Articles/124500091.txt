@@ -1,0 +1,4 @@
+{
+    "uvp": 350.0,
+    "attributes": "<ul><li>natürliches Design in Baumstammoptik</li><li>kindersicherer und abnehmbarer Deckel</li><li>robustes, UV-beständiges Material</li><li>erweiterbar durch Verkettung mehrerer Tanks</li><li>Höhe Auslauföffnung ideal für Standard-Gießkannen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>mit Doppelzahnung</li><li>gehärtete Zähne</li><li>stabiler Kunststoffgriff</li><li>beeindruckende Schnittlänge</li><li>leicht und handlich</li></ul>"
+}

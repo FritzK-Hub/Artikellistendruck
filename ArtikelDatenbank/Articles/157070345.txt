@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>2 in 1 universell einsetzbar als Füll- und Feinspachtel</li><li>füllt Beulen und Vertiefungen, gleicht Deformationen aus, egalisiert Kratzer und glättet die Oberfläche</li><li>kann beliebig dick aufgetragen werden</li><li>härtet ohne Rissbildung, styrolreduziert</li><li>ist leicht zu verarbeiten und zu schleifen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>reinigt mühelos und ohne Scheuern Armaturen, Badewannen, Kacheln, Duschkabinen und WC-Becken</li><li>ideal für die Reinigung von Kunststoff und Emaille</li><li>nicht für Marmor und Kalkstein geeignet<br/></li><li>in praktischer Sprühflasche</li><li>mit Citruskraft</li></ul>"
+}

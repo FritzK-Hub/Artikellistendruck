@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>robuster Stahlguss</li><li>sichere Verbindung</li><li>vielseitige Anwendung</li><li>gute Handhabung</li><li>präzise Konstruktion<br/></li></ul>"
+}

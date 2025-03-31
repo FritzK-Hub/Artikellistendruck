@@ -1,0 +1,4 @@
+{
+    "uvp": 8.59,
+    "attributes": "<p>mit Skala in kg und lbs</p>"
+}

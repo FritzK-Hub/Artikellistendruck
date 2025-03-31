@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Bindedraht 25 m x 2 mm aus verzinktem Stahldraht </li><li>zur Montage und Befestigung vom Maschendrahtzaun</li><li>zum Anbinden vom Spanndraht am Drahtzaun</li><li>auch als Basteldraht oder Blumendraht verwendbar</li><li>mit grüner Kunststoffummantelung versehen<br/></li></ul>"
+}

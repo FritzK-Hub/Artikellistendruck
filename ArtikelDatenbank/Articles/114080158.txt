@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Grablicht Ø 7 x 24 cm mit goldenem Deckel</li><li>das Gehäuse der Grabkerze ist aus Kunststoff</li><li>bringt Grabschmuck oder Dekorationen zur Geltung</li><li>Deckel schützt die Kerze bei Regen vorm Ausgehen <br/></li><li>besitzt eine Brenndauer von bis zu 24 Stunden<br/></li></ul>"
+}

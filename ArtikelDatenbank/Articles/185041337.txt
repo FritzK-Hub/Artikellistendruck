@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>dekorative Girlande mit 30 warmweißen LEDs</li><li>erschafft eine weihnachtliche Atmosphäre</li><li>vielfältig einsetzbarer Lichterdekoration</li><li>mit integrierter Timerfunktion von 6 Stunden</li><li>besitzt die sparsame LED-Technologie<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>Spieltau aus Baumwollfasern</li><li>robustes Material<br/></li><li>Zahnpflege auf spielerische Weise</li><li>reinigt Zähne und Zahnzwischenräume des Hundes</li><li>beugt Zahnstein und Zahnbelag vor</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Feinmechanik-Öl in der Kunststoffflasche mit Spritztülle</li><li>für Werkstatt, Haushalt und Hobby</li><li>ideal für metallische Feinmechaniken</li><li>schmiert und reinigt</li><li>schützendes und pflegendes Spezialöl</li></ul>"
+}

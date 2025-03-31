@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Diagnosewaage mit beleuchteter LCD-Anzeige</li><li>Elektroden aus gebürstetem Edelstahl</li><li>Messwertinterpretation von Knochengewicht, Körpergewicht, Körperfett, Körperwasser- und Muskelanteil</li><li>Umstellung kg/lb/st und Überlastungsanzeige</li><li>Quick-Start-Technologie mit Abschaltautomatik<br/></li></ul>"
+}

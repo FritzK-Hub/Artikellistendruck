@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>effektive Reinigung von Schmutz und Verkrustungen</li><li>aus robustem und langlebigem rostfreiem Edelstahl</li><li>für Pfannen, Töpfe und Grillrost geeignet<br/></li><li>einfache Reinigung durch Auswaschen mit Wasser</li><li>vorsichtiger Einsatz bei empfindlichen Oberflächen empfohlen<br/></li></ul>"
+}

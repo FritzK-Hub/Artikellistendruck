@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li> Gasdruckregler 50 mbar </li><li> geeignet für Campingkocher, Campinglampen, Campingheizgeräte und Heizstrahler</li><li>für 5 kg oder 11 kg Gasflaschen geeignet </li><li>Ausführung: einstufiger Gasregler </li><li> Arbeitsdruck: 50 mbar </li><li>Anschluss: 1/4\"</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>robustes Gestell</li><li>schlichtes Design</li><li>einfach zu verstauen</li><li>platzsparend stapelbar</li><li>galvanisiertes Eisen</li></ul>"
+}

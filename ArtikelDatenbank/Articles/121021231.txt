@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Notizzettel 75 x 75 mm</li><li>1 Block Haftnotizen mit 100 Blatt</li><li>gelber Zettel</li><li>haftet auf vielen Untergründen</li><li>lässt sich leicht und rückstandsfrei entfernen<br/></li></ul>"
+}

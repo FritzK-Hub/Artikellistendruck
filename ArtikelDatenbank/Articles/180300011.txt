@@ -1,0 +1,4 @@
+{
+    "uvp": 2.09,
+    "attributes": "<ul><li>Papierlufterfrischer zum Aufhängen</li><li>verschiedene Anwendungsmöglichkeiten</li><li>langanhaltender, intensiver Vanilla Duft</li><li>im Blister aromadicht verpackt</li><li>sommerliches Design<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>robuste Haltbarkeit</li><li>einfache Montage</li><li>vielseitige Anwendung</li><li>stabile H-Form</li><li>langlebiges Material<br/><br/></li></ul>"
+}

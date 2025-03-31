@@ -1,0 +1,4 @@
+{
+    "uvp": 189.95,
+    "attributes": "<ul><li>GERMANIA® Bohrhammer mit leistungsstarken 1500 W</li><li>hochwertiges SDS plus Bohrfutter mit Sicherheitsrutschkupplung</li><li>ermöglicht das Schrauben, Bohren oder Meißeln mit einem Gerät</li><li>bietet vielseitigen Einsatz im kompletten Heimwerker-Bereich</li><li>Zweihand-Bedienung durch den zweiten, 360 ° drehbaren Griff<br/></li></ul>"
+}

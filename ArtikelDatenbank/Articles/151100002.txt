@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Kinderpflaster in 2 verschiedenen Größen</li><li>zur Abdeckung kleiner Wunden</li><li>gute Luftdurchlässigkeit</li><li>mit verschiedenen Tiermotiven</li><li>wasserabweisende und hautfreundliche Wundpflaster</li></ul>"
+}

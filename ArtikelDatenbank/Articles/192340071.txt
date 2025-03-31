@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Laterne klein 14 x 14 x 25 cm mit Flammeneffekt</li><li>aus stabilem Kunststoff in schwarz gefertigt</li><li>für die dekorative Gestaltung im Innenbereich </li><li>mit einer Timerfunktion ausgestattet</li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar<br/></li></ul>"
+}

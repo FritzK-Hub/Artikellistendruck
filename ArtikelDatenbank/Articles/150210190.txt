@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Universalbox für Besteck</li><li>für einfaches Wohnen</li><li>aus Kunststoff</li><li>leicht zu pflegen</li><li>passend zum Montreal Abtropfbrett</li></ul>"
+}

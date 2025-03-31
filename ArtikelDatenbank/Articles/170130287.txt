@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>präzises Holzsägen</li><li>lange Lebensdauer</li><li>universelle Passform</li><li>reibungslose Schnittleistung</li><li>einfache Montage</li></ul>"
+}

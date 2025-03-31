@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>Halogenstab J118 mit klarem Glaskörper</li><li>lineare Lampe für geschlossene Leuchten</li><li>dimmbar</li><li>lange Lebensdauer</li><li>Lampenwechsel durch einfaches Austauschen<br/></li></ul>"
+}

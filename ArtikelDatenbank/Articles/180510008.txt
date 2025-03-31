@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Starthilfekabel 25 mm² aus Leichtmetalltechnologie<br/></li><li>für Benzinmotoren bis 5,5 Liter Hubraum oder Dieselmotoren bis zu 3,0 Liter Hubreaum</li><li>Überbrückungskabel mit voll isolierten Polklemmen</li><li>mit einem Überspannungsschutz ausgestattet</li><li>in praktischer Transporttasche mit Reißverschluss<br/></li></ul>"
+}

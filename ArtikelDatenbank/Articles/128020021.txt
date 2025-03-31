@@ -1,0 +1,4 @@
+{
+    "uvp": 52.9,
+    "attributes": "<ul><li>LED-Lichtleiste speziell für Vitavia Gewächshäuser</li><li>einfacher Einbau im Dachprofil der Gewächshäuser</li><li>warmweißes Licht (3000K) mit einer Farbwiedergabe CR80</li><li>abgedichtetes Gehäuse für lange Lebensdauer bei Temperaturen bis 86°C<br/></li><li>ausgestattet mit USB-Anschlusskabeln für einfache Verwendung mit Solar-Akkus oder Powerbanks<br/></li></ul>"
+}

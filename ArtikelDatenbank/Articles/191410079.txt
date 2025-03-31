@@ -1,0 +1,4 @@
+{
+    "uvp": 379.95,
+    "attributes": "<ul><li>Stand-up-Paddleboard-Set Pathfinder für Einsteiger</li><li>eignet sich zum Lernen auf Seen oder seichte Flüsse</li><li>verfügt über eine Belastbarkeit von bis zu 105 kg</li><li>elastische Gummibänder zum Befestigen deiner Gegenstände</li><li>inklusive Hochdruckpumpe, Rucksack und verstellbarem Paddel<br/></li></ul>"
+}

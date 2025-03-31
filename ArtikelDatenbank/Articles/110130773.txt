@@ -1,0 +1,4 @@
+{
+    "uvp": 24.64,
+    "attributes": "<ul><li>pulverbeschichteter Stahl für ansprechende Optik und einfache Reinigung</li><li>hochwertige Lagermöglichkeiten für eine optimale Nutzung des vorhandenen Raums</li><li>ideal für Keller, Garage, Werkstatt oder Vorratsraum zur effizienten Organisation</li><li>strapazierfähig und leicht zu reinigen für langanhaltende Nutzung</li><li>sehr robust und stabil, um schweren Belastungen standzuhalten</li></ul>"
+}

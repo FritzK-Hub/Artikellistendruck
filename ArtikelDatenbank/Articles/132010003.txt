@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>hochwertiges Einzelfuttermittel</li><li>stärkt Kaumuskulatur und Zähne</li><li>hart gepresste Rinderhaut</li><li>natürliche Zahnreinigung</li><li>reines Naturprodukt</li></ul>"
+}

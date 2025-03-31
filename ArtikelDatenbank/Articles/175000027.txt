@@ -1,0 +1,4 @@
+{
+    "uvp": 299.0,
+    "attributes": "<ul><li>WiFi-Steuerung ExtraFlame</li><li>Fernsteuerung für Pelletöfen</li><li>WLAN-Modul für App-Steuerung</li><li>Modul mit Netzgerät und Kabel in Weiß</li><li>Pelletofenüberwachung und Steuerung von unterwegs<br/></li></ul>"
+}

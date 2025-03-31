@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>feiner Geschmack</li><li>robuste Anpassung</li><li>Bodenverbesserung</li><li>Schutz vor Vogelfraß</li><li>vielseitige Verwendung<br/><br/></li></ul>"
+}

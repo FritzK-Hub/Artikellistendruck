@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Glitzerpapier zum Basteln und Gestalten</li><li>10 Bögen in 10 verschiedenen Glitzer-Farben</li><li>selbstklebend</li><li>klebt auf fast allen Materialien</li><li>beliebig zuschneidbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>max Belastbarkeit 3500 kg</li><li>Material: Stahl gelb verzinkt</li><li>hält einen Kugeldruck bis 100 kg stand</li><li>Kupplungskugel zum Anschrauben</li><li>stabil</li></ul><p><br/></p>"
+}

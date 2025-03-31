@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Kinderpflaster mit schönen Prinzessinnen Motiven</li><li>zum Abdecken kleiner Wunden</li><li>gute Luftdurchlässigkeit</li><li>klinisch getestet und dermatologisch bestätigt</li><li>Schmutz- und Wasserabweisend<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>Zusatz Aufschraubschloss <br/></li><li>Zweitschloss für Eingangstüren</li><li>für höhere Sicherheit</li><li>mit 6 Schlüsseln</li></ul>"
+}

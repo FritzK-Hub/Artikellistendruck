@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>runde Wand- und Deckenleuchte mit IP 54 Klassifizierung für außen und innen<br/></li><li>mitgeliefertes Montagematerial erleichtert die Installation<br/></li><li>wechselbare Rahmen in Schwarz &amp; Weiß für individuelle Gestaltungsmöglichkeiten<br/></li><li>mit sparsamer und fest integrierter LED-Technik</li><li>hochwertiges, langlebiges Polycarbonat-Gehäuse</li></ul><p></p>"
+}

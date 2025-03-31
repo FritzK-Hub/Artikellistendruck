@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>3-schäftig gedrehtes Seil aus Polypropylen-Stapelfaser</li><li>nach DIN 83329</li><li>zum Befestigen und Verzurren</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1 m bis 80 m<br/></li></ul>"
+}

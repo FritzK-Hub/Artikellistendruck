@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Gummimatten-Set Evo 4-teilig</li><li>für alle gängigen Fahrzeuge geeignet</li><li>rutschhemmende Rückseite</li><li>schützt vor Schmutz, Wasser und Abnutzung</li><li>leicht zu reinigen</li></ul>"
+}

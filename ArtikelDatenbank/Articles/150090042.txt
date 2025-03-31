@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>VDE Isolierband farbig sortiert</li><li>zum Isolieren, Bündeln oder Befestigen</li><li>ideal zur Reparatur elektrischer Leitungen</li><li>schwer entflammbar</li><li>Set aus 6 Rollen Isolierband</li></ul>"
+}

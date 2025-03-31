@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Fahrrad LED Beleuchtungs-Set</li><li>3-fach verstellbare Leuchtkraft der Frontleuchte</li><li>Frontleuchte mit eingebautem Lithium-Ionen-Akku</li><li>inkl. Schnellbefestigungen und Batterien</li><li>mit USB Ladebuchse und -kabel</li></ul>"
+}

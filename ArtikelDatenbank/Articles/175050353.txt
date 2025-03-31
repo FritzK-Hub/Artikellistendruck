@@ -1,0 +1,4 @@
+{
+    "uvp": 229.0,
+    "attributes": "<ul><li>Hochdruckreiniger mit 2100 W Induktionsmotor</li><li>integriertes Auto-Stopp System und Reinigungsmittelbehälter</li><li>mit Spritzlanze und Variodüse</li><li>inklusive Dreckfräser, Dreiecksbürste und rotierende Bürste</li><li>Heißwasser Hochdruckreiniger mit Aluminiumpumpe</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Scheinbeere mit robustem Blumentopf Ø 11 cm</li><li>ideal als Weihnachtsdeko oder im Garten</li><li>ist eine Nahrungsquelle für Hummeln</li><li>unterdrückt zuverlässig im Garten das Unkraut</li><li>besonders farbkräftig, hellrosane Blüten<br/></li></ul>"
+}

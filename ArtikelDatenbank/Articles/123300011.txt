@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Anzuchttopf Set 10-teilig</li><li>Aussaatschalen mit je 10 quatdratischen Fächern<br/></li><li>für bis zu 100 Setzlinge geeignet</li><li>aus recyceltem Kartonpapier gefertigt</li><li>ideal zum Vortreiben von Sämereien</li></ul>"
+}

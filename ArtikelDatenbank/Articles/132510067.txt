@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Akku-Schlagbohrmaschine mit 20 V und 2-Gang Getriebe</li><li>mit Zusatzgriff für Zweihand-Bedienung</li><li>zuverlässiges Werkzeug für Handwerker und Heimwerker</li><li>mit LED-Arbeitslicht für Beleuchtung des Arbeitsbereiches</li><li>Lieferung ohne Akku</li></ul>"
+}

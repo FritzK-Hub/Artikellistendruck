@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Maximale Belastbarkeit von 800 kg</li><li>einfache Handhabung dank Zurröse</li><li>robuste und langlebige Konstruktion aus verzinktem Stahl</li><li>zum versenkten Einbau in Bodenplatte konzipiert</li><li>schnelle und einfache Montage mittels M8 Schrauben<br/></li></ul>"
+}

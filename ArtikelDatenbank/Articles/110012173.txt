@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>passend für den Aschluss von Armaturen in der Größe ¾\"</li><li>hochwertiges Fibermaterial für zuverlässige Abdichtung</li><li>geeignet für den Einsatz in Haushalt und Industrie</li><li>einfache Installation dank präziser Passform</li><li>enthält vier Dichtringe</li></ul><p></p>"
+}

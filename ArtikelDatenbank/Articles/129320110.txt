@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>hervorragender Geschmack</li><li>glockenförmige, orange Schale</li><li>einfacher Anbau</li><li>lange Lagerfähigkeit</li><li>vielseitige Verwendung<br/></li></ul>"
+}

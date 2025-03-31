@@ -1,0 +1,4 @@
+{
+    "uvp": 37.99,
+    "attributes": "<ul><li>hochwertige Wasserwaage aus Aluminium</li><li>pulverbeschichtet zur besseren Reinigung <br/></li><li>stoßdämpfende Endkappen</li><li>UV-beständig und stoßfest <br/></li><li>Überkopfmessung möglich<br/></li></ul>"
+}

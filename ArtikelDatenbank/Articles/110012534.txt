@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Konusgleiter für Braue-Wandstange</li><li>Einhandbedienung mit Druckknopf</li><li>inklusive Befestigungsmaterial</li><li>für Brausestangen Ø 25 mm</li></ul>"
+}

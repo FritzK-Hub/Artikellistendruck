@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Gewürzpaprika De Cayenne für ca. 60 Pflanzen</li><li>mit spitzkegelförmigen, langen, intensiv roten Früchten</li><li>ist eine ertragreiche, scharfschmeckende Paprikasorten</li><li>ideal zum Würzen von Fleisch, Soßen oder Salaten</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

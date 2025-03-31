@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>sofort ein angenehmes Geruchsklima in deinen Wohnräumen</li><li>Lufterfrischer zur Neutralisierung von schlechten Gerüchen</li><li>dieses Raumspray ist immer schnell einsatzbereit</li><li>z.B. nach dem Kochen</li><li>kann auch als Duftspender in Bad &amp; WC verwendet werden<br/></li></ul>"
+}

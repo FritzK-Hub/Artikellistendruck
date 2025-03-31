@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Bügelsäge aus Metall</li><li>klassische Bauform</li><li>einfaches Wechseln des Sägeblattes</li><li>für Sägeblätter mit einer Länge von 300 mm geeignet</li><li>inklusive einem Metall-Sägeblatt</li></ul>"
+}

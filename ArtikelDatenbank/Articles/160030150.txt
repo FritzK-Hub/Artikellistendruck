@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>silikonfrei gegen Hautreizungen</li><li>texturierte Fingerkuppen ermöglichen sicheren Griff</li><li>hohe Reißfestigkeit bietet zuverlässigen Schutz</li><li>vielseitig einsetzbar in vielen Arbeitsbereichen</li><li>optimales Feingefühl für präzise Arbeit</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Abbrechklingen aus robustem Material</li><li>für handelsübliche Teppichmesser geeignet</li><li>verpackt zu 6 Stück, in der praktischen Spenderbox</li><li>verfügen über 12 vordefinierte Abbruchstellen</li><li>ultrascharf für ein präzises und müheloses Schneiden</li></ul>"
+}

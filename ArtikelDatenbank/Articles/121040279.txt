@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Gelenkpuppe aus Holz</li><li>hochwertige Verarbeitung</li><li>sicherer Stand durch stabilen Fuß</li><li>mit beweglichen Gelenken</li><li>dient zur präzisen Darstellung des menschlichen Körpers</li></ul>"
+}

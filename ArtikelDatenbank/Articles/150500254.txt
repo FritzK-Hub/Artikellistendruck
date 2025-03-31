@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>vielseitige Trinkbecher, hervorragend für Veranstaltungen, beim Camping und im Wohnmobil</li><li>besonders langlebig und robust, aus stabilem Kunststoff gefertigt</li><li>sie eignen sich für verschiedene Heiß- oder Kaltgetränke</li><li>lassen sich schnell und einfach reinigen, sind auch Spülmaschinen geeignet</li><li>ideal für Unterwegs, können je nach Bedarf wiederverwendet werden</li></ul>"
+}

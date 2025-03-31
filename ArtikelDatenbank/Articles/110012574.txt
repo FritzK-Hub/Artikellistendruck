@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>vielseitige Strahlvarianten</li><li>einfache Strahlumstellung</li><li>robustes Design</li><li>universelle Kompatibilität</li><li>anpassbar für jeden Wasserdruck<br/><br/></li></ul>"
+}

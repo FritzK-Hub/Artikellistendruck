@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>dauerplastische Dichtungspaste</li><li>perfekt für die Abdichtung von Abwasserrohren</li><li>lang anhaltende Abdichtungseffizienz</li><li>Dichtungs- und Muffenkitt <br/></li><li>perfekt für sanitäre Anlagen</li></ul><p></p>"
+}

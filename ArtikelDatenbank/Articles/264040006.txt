@@ -1,0 +1,4 @@
+{
+    "uvp": 1.79,
+    "attributes": "<ul><li>hochwertige Stahlverchromung</li><li>praktische S-Form</li><li>vielseitige Anwendungsmöglichkeiten</li><li>langlebige Konstruktion</li><li>äußerst stabil und robust</li></ul>"
+}

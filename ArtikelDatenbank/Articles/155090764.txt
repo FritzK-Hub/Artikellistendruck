@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>3-aderige PVC-Mantelleitung NYM-J</li><li>für Verlegung auf, im, unter Putz, in Mauerwerk oder Beton geeignet</li><li>Verwendung in trockenen und feuchten Räumen oder im Freien</li><li>nicht für Verlegung in Schüttel-, Rüttel- oder Stampfbeton geeignet</li><li>mit grün/gelb gekennzeichneter Schutzleiter-Ader<br/></li></ul>"
+}

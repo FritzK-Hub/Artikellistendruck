@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>ideal für alle Gartenpflanzen</li><li>für kräftigen Wachstum und reiche Ernte</li><li>100% natürliche Inhaltsstoffe</li><li>ökologischer Landbau</li><li>optimale Versorgung<br/></li></ul>"
+}

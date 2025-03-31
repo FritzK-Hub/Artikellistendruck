@@ -1,0 +1,4 @@
+{
+    "uvp": 5.89,
+    "attributes": "<ul><li>2-teilige Winkelverschraubung aus Messing</li><li>mit 3/4\" Tülle und 1\" Flügelüberwurfmutter</li><li>zum Anschluss eines 3/3\" Schlauchs an einen Wasserhahn mit 1\" Außengewinde</li><li>Montage mittels Schlauchschellen</li></ul>"
+}

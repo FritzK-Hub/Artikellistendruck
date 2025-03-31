@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>universal Batterie-Polklemmen im Set</li><li>zum Anschluss an gebräuchliche Autobatterien</li><li>aus Buntmetall, Plus- und Minus-Pol</li><li>abgewinkelte Bauform</li><li>mit Schraubanschlüssen und (Ø) 16 mm Aufnahme</li></ul>"
+}

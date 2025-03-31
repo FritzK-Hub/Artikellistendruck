@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Frühlingszwiebel Feast, für ca. 3 lfd. Meter</li><li>liefern bereits im zeitigen Frühjahr ihre Schalotten</li><li>bevorzuget nicht zu schweren, humosen und nicht frisch gedüngten Boden</li><li>mit geringer Zwiebelbildung und porreeartigem Schaft</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>nachhaltige Entwässerung durch recycelten Kunststoff</li><li>wetterfeste Langlebigkeit für dauerhaften Einsatz</li><li>schnelle, unkomplizierte Verlegung bietet Zeitersparnis</li><li>umweltfreundliche Lösung der Außenflächengestaltung</li><li>optisch harmonische Integration durch grüne Farbgebung</li></ul><p> </p>"
+}

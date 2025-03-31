@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>handlicher Minigrill aus Zink</li><li>mit einer Grillfläche von 31 x 19 cm</li><li>einfacher und praktischer Weg im Freien zu Grillen</li><li>für den Garten, beim Picknick oder Campingurlaub geeignet</li><li>Tragegriffe erleichtern den Transport<br/></li></ul>"
+}

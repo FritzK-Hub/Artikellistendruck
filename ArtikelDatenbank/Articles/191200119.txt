@@ -1,0 +1,4 @@
+{
+    "uvp": 312.9,
+    "attributes": "<ul><li>großes Grillrostsystem aus Gusseisen</li><li>verstellbarer Luftschieber und Thermometer im Deckel zur einfachen Temperaturregelung im Feuerraum</li><li>Ablagetisch und Bodenfläche bieten Stauraum für z.B. Grillzubehör</li><li>dank vier Laufrollen leichtgängig und flexibel einsetzbar</li><li>digitales Fleischthermometer für die Bestimmung des optimalen Garpunktes<br/></li></ul>"
+}

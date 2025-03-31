@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>witterungsbeständig</li><li>einfache Montage</li><li>für handelsübliche Pflanzstäbe</li><li>in weiteren Größen erhältlich</li><li>ohne Pflanzstab</li></ul>"
+}

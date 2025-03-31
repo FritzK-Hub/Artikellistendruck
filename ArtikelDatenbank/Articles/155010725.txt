@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Permanentmarker 2 Stück im Set</li><li>wasserfest auf fast jedem Material</li><li>variable Strichstärke</li><li>für dauerhafte Beschriftungen</li><li>Lieferung farblich sortiert</li></ul>"
+}

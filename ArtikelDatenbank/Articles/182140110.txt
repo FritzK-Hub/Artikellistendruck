@@ -1,0 +1,4 @@
+{
+    "uvp": 229.95,
+    "attributes": "<ul><li>passend für nahezu alle Anhängerkupplungstypen</li><li>für den Transport von 2 Fahrrädern, auch E-Bikes</li><li>einfache Befestigung durch Rahmenhalter und Textilspanngurte</li><li>auch für Fahrräder mit Oversize und Y-Rahmen bis ø 8,5 cm geeignet</li><li>weniger Kraftstoffverbrauch als bei Dachträgern<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Solabiol® Grundstoff Lecithin Spray für Pilzabwehr an Gemüse </li><li>Fungizid gegen Blattflecken, Mehltaupilze sowie Kraut- und Braunfäule</li><li>praktisch in der anwendungsfertigen Sprühflasche</li><li>kann bis zu 12 x pro Jahr angewendet werden</li><li>100 % natürlicher Inhaltsstoff</li></ul>"
+}

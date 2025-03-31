@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>2in1 Fußbodenfarbe auf Wasserbasis 750 ml in Silbergrau</li><li>zum Beschichten von saugfähigen, mineralischen Untergründen</li><li>ist schnelltrocknend und geruchsarm</li><li>lässt sich leicht verarbeiten und ist abriebfest</li><li>für den Innen- und Außen geeignet</li></ul>"
+}

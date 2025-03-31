@@ -1,0 +1,4 @@
+{
+    "uvp": 3.39,
+    "attributes": "<ul><li>Fahrradschloss Halter in schwarz</li><li>zur Befestigung des Schlosses am Rahmenrohr</li><li>passend für alle Fischer-Schlösser</li><li>für alle gängigen Fahrradrahmen</li><li>einfache Montage</li></ul>"
+}

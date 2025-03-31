@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>schnelle Ordnung im Getränkevorrat</li><li>verbesserter Überblick </li><li>ausreichend Stauraum</li><li>besonders platzsparend</li><li>vielseitige Einsatzmöglichkeiten<br/></li></ul>"
+}

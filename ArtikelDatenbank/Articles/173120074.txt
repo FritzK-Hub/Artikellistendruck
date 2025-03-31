@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>LED Lampe E14 in Tropfenform im Retro-Look</li><li>warmweißes, angenehmes Licht</li><li>lange Lebensdauer</li><li>LED Filament Birne mit guter Farbwiedergabe</li><li>sehr sparsam, da Energieeffizeinzklasse A++</li></ul>"
+}

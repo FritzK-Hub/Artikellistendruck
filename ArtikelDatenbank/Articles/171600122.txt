@@ -1,0 +1,4 @@
+{
+    "uvp": 7.55,
+    "attributes": "<ul><li>für die Pflege und Reinigung von Hölzern</li><li>beeindruckenden Reinigungskraft</li><li>wasserabweisende Schutzschicht</li><li>beseitigt feine Kratzer</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

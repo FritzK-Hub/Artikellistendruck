@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>für kleinere Reparaturen im Dachbereich oder zur Abdichtung von Anschlüssen</li><li>bildet nach dem Durchtrocknen eine elastische und haftsichere Beschichtung</li><li>einfach in der Handhabung, mit punktgenaues sprühen</li><li>besonders salz- und wasserbeständig, tropft nicht</li><li>passend für verschiedene Baustoffe wie Metall, Dachpappen oder Holz<br/></li></ul>"
+}

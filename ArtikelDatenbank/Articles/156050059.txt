@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Roll- und Streichset 7-teilig</li><li>Farbrollen mit 24 cm langem Bügel</li><li>Abstreifgitter mit Griff und Einhängemöglichkeit</li><li>zur Verarbeitung von Wand- und Deckenfarben</li><li>Flachpinsel mit Chinaborsten</li></ul>"
+}

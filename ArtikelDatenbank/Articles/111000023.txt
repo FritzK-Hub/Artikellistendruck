@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>24 rutschfeste Montagekeile im Set</li><li>ideal zum Ausrichten von Möbel</li><li>sorgen für einen Ausgleich von Unebenheiten</li><li>mit Feinverzahnung zum millimetergenauen Ausrichten</li><li>rutschfeste Justierkeile aus Kunststoff</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 25.99,
+    "attributes": "<ul><li>schlagfestes Fahrrad-Bügelschloss</li><li>Stahlschließzylinder mit Abdeckung</li><li>inkl. Rahmenhalter mit Schnellverschluss</li><li>Schlosskörper mit schlagfestem Kunststoffüberzug</li><li>mit hoher Sicherheitsstufe</li></ul>"
+}

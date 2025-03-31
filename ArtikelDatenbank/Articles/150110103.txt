@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Reifenglanz-Spray, pflegt, schützt und verleiht eine glänzende Optik</li><li>ist dank Präzisions-Sprühkopf gezielt aufzubringen und vereinfacht so die Anwendung</li><li>mit UV-Schutz, ohne Nacharbeiten wirksam</li><li>beugt vorzeitiger Alterung und Versprödung der Reifen vor</li><li>bildet lang anhaltenden Schutz, wirkt farbauffrischend und erzeugt tiefschwarzen Hochglanz</li></ul>"
+}

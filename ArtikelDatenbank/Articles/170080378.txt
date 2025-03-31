@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>hochwertige Schleifpapiere mit 6-Loch-Absaugung</li><li>passend für den Güde® Flächenschleifer FS 90 E</li><li>Set, bestehend aus Schleifblättern mit K100, K120 und K180</li><li>perfektes Schleifbild und hohe Schleifleistung</li><li>schnelles Wechseln der Schleifblätter dank Klettverschluss<br/></li></ul>"
+}

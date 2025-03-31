@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Fahrrad-Kettenöl für alle Witterungslagen</li><li>schmiert und schützt</li><li>hervorragender Verschleiß- und Korrosionsschutz</li><li>Säure- und Harzfrei</li><li>Kettenöl für Fahrräder in der Kunststoffflasche mit Spritztülle</li></ul>"
+}

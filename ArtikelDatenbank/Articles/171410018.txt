@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>unverzichtbares Hilfsmittel für verschiedene Anwendungen</li><li>einsetzbar im Haushalt, beim Camping oder Bastelprojekten</li><li>zum Verstärken, Reparieren, Bündeln oder Befestigen</li><li>UV-stabil und temperaturbeständig bis zu 60 °C</li><li>zum Reparieren und Verstärken in Zelten oder Scheiben<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 22.99,
+    "attributes": "<ul><li>für Pflege und Schutz des Rasens</li><li>vierfache Wirkung</li><li>universelle Anwendbarkeit</li><li>effektive Unkrautbekämpfung</li><li>langanhaltender Schutz<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>    Zeit- und Kraftersparnis beim Entkernen von Kirschen    </li><li>mit solidem Edelstahlmesser im Schlagstempel    </li><li>ideal für Einkochen, Marmeladen- und Kuchenzubereitung</li><li>stabiler Stand durch Saugnäpfe an der Unterseite    </li><li>einfache Reinigung nach der Verwendung</li></ul>"
+}

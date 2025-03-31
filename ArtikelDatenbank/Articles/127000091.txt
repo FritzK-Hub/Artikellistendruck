@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>praktisches 3in1 Fugenreiniger-Combisystem</li><li>mit dünnem Edelstahlmesser für schmale Fugen</li><li>dreieckiger Edelstahl-Bügel für breitere Fugen</li><li>Metallborsten zum Entfernen und Zusammenkehren </li><li>Messer und Bügel sind austauschbar</li></ul>"
+}

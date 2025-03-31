@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Buschbohnen Sotexa, ohne Fäden</li><li>eine mittelfrühe, ertragreiche Bohnensorte</li><li>dickfleischige Hülsen mit weißem Korn</li><li>ideal zum Frischverzehr oder zum Einfrieren</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
+}

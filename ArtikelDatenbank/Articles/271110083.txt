@@ -1,0 +1,4 @@
+{
+    "uvp": 74.99,
+    "attributes": "<ul><li>Größe: 600 mm x 30 mm</li><li>zum Bohren in Mauerwerk, Beton, Dachziegeln und Klinker</li><li>Doppelspirale (zum besseren Abtransport des Bohrmehls)</li><li>mit Zentrierspitze (für leichteres Ansetzen des Bohrers)</li><li>für SDSmax Aufnahme mit 4-fach Schneide</li></ul><p></p>"
+}

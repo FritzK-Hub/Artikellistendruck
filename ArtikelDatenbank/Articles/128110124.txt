@@ -1,0 +1,4 @@
+{
+    "uvp": 429.95,
+    "attributes": "<ul><li>wetterfestes, langlebiges Wicker-Material</li><li>robustes Stahlgestell bietet Sicherheit</li><li>großzügige Sitzfläche</li><li>gemütliche Polster und Kissen</li><li>idealer Rückzugsort zur Outdoor-Entspannung</li></ul>"
+}

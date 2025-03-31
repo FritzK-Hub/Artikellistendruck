@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>    Ersatzlampe für Brems- oder Schlusslicht    </li><li>für Fahrzeuge mit BAY15D Sockel    </li><li>preisgünstige Ersatzlampe</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>schmale Haftbandage zum Fixieren von Verbänden</li><li>selbsthaftende Bandage mit rutschfester Oberfläche</li><li>atmungsaktiv und hautfreundlich</li><li>dauerhaft elastisch und waschbar</li><li>lässt sich rückstandslos entfernen</li></ul>"
+}

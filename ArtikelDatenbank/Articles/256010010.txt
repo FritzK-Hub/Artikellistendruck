@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Set mit 5 Flachpinsel in verschiedenen Breiten</li><li>formstabile, flexible Naturhaar Borsten</li><li>spezielle Splittborsten für streifenfreies Streichen</li><li>geeignet für alle Malerarbeiten</li><li>lassen sich einfach reinigen<br/></li></ul>"
+}

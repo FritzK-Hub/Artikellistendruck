@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>zum Öffnen und Schließen von technischen Schließungen bei Klima + Lüftung und Revisionsklappen</li><li>im Aussenbereich für Verriegelung von Klappen bei Straßenlampen, Abfallbehältern, Müllcontainern, usw.</li><li>mit Kette, Bit und Adapter, 5mm Vierkant für Heizungsentlüftung</li><li>unerlässlich für Industrie, Handwerk, Kommunen, Energieversorger, Stadtwerke,Elektro-allgemein, Heimwerker, Sanitär, Bau- Handwerke, Hausmeister etc.</li><li>Maße: 90x62mm</li><li>Gewicht 80g</li></ul>"
+}

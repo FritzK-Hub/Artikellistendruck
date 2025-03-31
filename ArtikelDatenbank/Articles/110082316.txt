@@ -1,0 +1,4 @@
+{
+    "uvp": 2.8,
+    "attributes": "<ul><li>extra starker Klebefilm für lange Haltbarkeit</li><li>schützt Möbel vor Kratzern und Schäden auf glatten Böden</li><li>einfache Anbringung dank selbstklebender Funktion</li><li>hochwertiges Filzmaterial für Strapazierfähigkeit und Langlebigkeit</li><li>enthält eine große Auswahl an Größen<br/></li></ul>"
+}

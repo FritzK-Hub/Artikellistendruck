@@ -1,0 +1,4 @@
+{
+    "uvp": 0.59,
+    "attributes": "<ul><li>Packung Saatgut Eissalat für ca. 200 Pflanzen</li><li>bildet riesige und schwere Köpfe</li><li>für den Freiland- und Gewächshausanbau geeignet</li><li>Probefeldgetestete Qualität</li><li>eine absolut schossfeste Sorte<br/></li></ul>"
+}

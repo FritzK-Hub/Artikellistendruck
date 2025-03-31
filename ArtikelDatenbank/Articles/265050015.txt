@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Art: Drahtspanner / Zaunspanner / Seilspanner</li><li>Zaunspanner Ausführung: verzinkt</li><li>Seilspanner Material: Metall</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>maximale Belastbarkeit von 22 bar bietet Vielseitigkeit</li><li>UV- und Frostschutz für sorgenfreie Lagerung im Garten</li><li>schnelle Einsatzbereitschaft dank inkludierter GARDENA Systemteile</li><li>mühelose Handhabung und Transport durch leichtgewichtiges Design</li></ul>"
+}

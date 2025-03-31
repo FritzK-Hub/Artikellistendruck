@@ -1,0 +1,4 @@
+{
+    "uvp": 4.25,
+    "attributes": "<ul><li>hochwertiges Messingmaterial für hervorragende Korrosions- und Verschleißbeständigkeit</li><li>1/4 Zoll Außengewinde, kompatibel mit den meisten Druckluftgeräten</li><li>Schnellverschluss-Funktion für einfache Verbindung und Trennung von Druckluftleitungen</li><li>ideal für den Einsatz im privaten wie im professionellen Bereich</li><li>einfach zu installieren und zu bedienen für zuverlässige und sichere Verbindungen</li></ul>"
+}

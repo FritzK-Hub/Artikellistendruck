@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>zusammenklappbares 2 in 1 Gartengerät </li><li>Schaufel oder Harke mit Schraubmechanismus anbringbar</li><li>mit weichen Kunststoffgriff</li><li>inklusive praktischen Aufbewahrungsbeutel</li><li>mit Öse am Griff zum Aufhängen<br/></li></ul>"
+}

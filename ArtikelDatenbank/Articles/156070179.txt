@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li><strong>Malerrolle </strong>für alle Wand- und Deckenfarben</li><li>bestens geeignet für glatte Untergründe</li><li>sehr hohe Farbaufnahme und gleichmäßige Farbabgabe</li><li>spritzarmer Roller</li><li>für mittlere Flächen</li></ul>"
+}

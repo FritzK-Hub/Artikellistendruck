@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>5 m Verlängerungskabel</li><li>mit abgewinkeltem Schutzkontaktstecker</li><li>geeignet für trockene Innenräume (IP 20)</li><li>belastbar bis max. 3680 W</li><li>ideal als Verlängerung für Haushaltsgeräte</li></ul>"
+}

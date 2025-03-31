@@ -1,0 +1,4 @@
+{
+    "uvp": 59.99,
+    "attributes": "<ul><li>Alpina Fassadenfarbe 10 Liter in Weiß, matt</li><li>für wetterbeständige Anstriche auf allen Fassadenflächen</li><li>besonders atmungsaktiv, leicht füllend und gut deckend</li><li>ist wasserabweisend, Wasserdampfdurchlässig und schützt für Luftschadstoffen</li><li>bietet einen Wetterschutz von bis zu sechs Jahren</li></ul>"
+}

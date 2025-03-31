@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Zuckererbse Schweizer Riese</li><li>eine violettblühende, mittelspäte Erbsensorte</li><li>zum kompletten Frischverzehr geeignet</li><li>gute Resistenz gegenüber Krankheiten</li><li>verfügt über eine Probefeldgetestete Qualität</li></ul>"
+}

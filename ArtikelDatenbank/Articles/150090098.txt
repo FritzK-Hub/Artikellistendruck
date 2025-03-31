@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>zum Laden von Batterien mit max.120 Ah Kapazität</li><li>speziell für Dieselfahrzeuge</li><li>vollisolierte Krokodilklemmen</li><li>inklusive 20A Ersatzsicherung</li><li>Aufladezeit: &lt; 10 Stunden</li></ul>"
+}

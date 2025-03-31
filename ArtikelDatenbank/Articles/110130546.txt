@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>solides Kiefern-/Fichtenholz</li><li>leicht zuzuschneiden und anzupassen</li><li>perfekt für Eckverkleidungen</li><li>glatte Oberfläche zum Lackieren</li><li>ideal für kreative DIY-Projekte</li></ul>"
+}

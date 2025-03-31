@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>leichtgängig</li><li>aus verzinktem Stahl</li><li>robust und haltbar</li><li>flexible Einsatzmöglichkeiten</li><li>schnell und mühelos montierbar</li></ul>"
+}

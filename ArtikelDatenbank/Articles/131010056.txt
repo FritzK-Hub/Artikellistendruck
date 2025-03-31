@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>flüssiger WC-Reiniger mit Zitronensäure</li><li>reinigt gründlich und hygienisch</li><li>löst Kalk, Schmutz und Urinstein</li><li>bringt Citrusduft und Frische in Bad und WC</li><li>phosphatfrei</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Solar Tischleuchte in XXL-Version aus Keramik</li><li>in verschiedenen Farben erhältlich</li><li>schafft eine entspannte Atmosphäre</li><li>eine umweltfreundliche Tischbeleuchtung</li><li>inklusive des benötigten 1,2 V Akkus</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>geeignet für alle handelsüblichen Kunststoff- und Keramikspülkästen</li><li>hohe Füllleistung</li><li>3/8'' Metallanschluss</li><li>verstellbare Füllmenge durch Verdrehen der Gewindestange</li><li>einfacher Wechsel</li></ul>"
+}

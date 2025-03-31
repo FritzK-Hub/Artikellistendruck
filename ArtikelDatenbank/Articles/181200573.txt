@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Saatgut Kastengurke Qualitas, für ca. 8 – 9 Pflanzen</li><li>mit walzenförmigen und festfleischigen Früchten</li><li>ist eine starkwüchsige Gurkensorte mit reicher Seitentriebbildung</li><li>besonders Widerstandfähig gegenüber Gurkenkrätze</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

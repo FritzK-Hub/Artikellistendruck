@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>5 Verbindungsschrauben zur Korpus-Verbindung</li><li>vielseitig für die Montage von Möbeln einsetzbar</li><li>besonders widerstandsfähig, aus verzinktem Stahl</li><li>mit Senkkopf und Innensechskant Antrieb versehen</li><li>ermöglicht eine flächenbündige Montage auf der Oberfläche<br/></li></ul>"
+}

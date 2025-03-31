@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>gebrauchsfertige, lösemittelfreie Spachtelmasse</li><li>für innen und außen</li><li>zum Ausfüllen und Glätten auf Putz, Beton und Mauerwerk</li><li>Weiß auftrocknend</li><li>überstreichbar</li></ul>"
+}

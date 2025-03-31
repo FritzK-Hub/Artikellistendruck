@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Glättkelle aus Edelstahl</li><li>mit 2-Komponenten Kunststoffgriff</li><li>zum Auftragen und Glätten von z.B. Putz</li><li>leicht und griffig</li><li>sorgt für glatte Oberflächen</li></ul>"
+}

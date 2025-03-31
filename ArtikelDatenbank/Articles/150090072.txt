@@ -1,0 +1,4 @@
+{
+    "uvp": 2.89,
+    "attributes": "<ul><li>Kugellampe R2 12 V</li><li>für Fahrzeuge mit P45t Sockel</li><li>Leistung 45/40 W</li><li>1 Stück im Blister</li><li>entspricht E4</li></ul>"
+}

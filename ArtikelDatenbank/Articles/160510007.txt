@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>luxuriöser Schmuckkoffer aus Kunstleder</li><li>verschiedene Fächer für die Aufbewahrung</li><li>perfekt zur Aufbewahrung von Uhren, Halsketten, Ohrringe usw.</li><li>in der Farbe gold, \"London Shopping Design\"</li><li>innen mit Samt ausstaffiert</li></ul>"
+}

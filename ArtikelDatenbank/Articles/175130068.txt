@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>ideal u.a. zum Einpassen von Kunststoffteilen</li><li>für diverse Einsatzbereiche geeignet</li><li>starke 2000 Watt Leistung</li><li>3 Heizstufen und 2 Gebläsestufen</li><li>inklusive Sicherheits-D-Griff</li></ul>"
+}

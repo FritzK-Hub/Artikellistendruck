@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Balkonkasten im modernen Design</li><li>aus UV-beständigem Kunststoff</li><li>leichte Montage ohne Werkzeug</li><li>für Geländer bis max. 6cm Breite</li><li>2 getrennte Kammern zum Bepflanzen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Fugenkratzer mit dreieckiger Fugenklinge<br/></li><li>mit stabilen, 3-reihigen Metall-Borsten versehen</li><li>entfernt problemlos Moos, Gras und den Wildbewuchs in Fugen</li><li>zum Reinigen der Fugen von Hofeinfahrten oder Gehwegen</li><li>rückendschonende Arbeit dank ca. 140 cm langem Stiel<br/></li></ul>"
+}

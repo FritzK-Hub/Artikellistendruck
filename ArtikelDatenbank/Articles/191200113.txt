@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>kratzfeste, keramikbeschichtete Grillfläche</li><li>Fettablaufrinne und Auffangschale ermöglichen fettfreies Grillen</li><li>stufenlos regelbarer Thermostat für präzise Temperaturkontrolle</li><li>optionale 180° Öffnung erlaubt Umbau zum großflächigen Tischgrill</li><li>ideal für kalorienbewusste Ernährung<br/></li></ul>"
+}

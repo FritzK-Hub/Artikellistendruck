@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Wischer 28,5 cm aus massivem Holz</li><li>mit Kunststoffborsten, 4-reihig versehen</li><li>universell einsetzbar in der Industrie, Garten oder Gewerbe</li><li>zum Entfernen von Schmutz auf glatten oder rauen Oberflächen</li><li>Gewindeaufnahme erleichtert das Verbinden mit dem Stiel<br/></li></ul>"
+}

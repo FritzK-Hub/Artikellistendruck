@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Versiegelung von Oberflächen gegen Schmutz</li><li>zur Versiegelung aller vorkommenden Tapeten im Innenbereich</li><li>macht die Tapeten und Anstriche haltbarer und leicht zu reinigen</li><li>farblos mit seidenmatter/seidenglänzender Optik</li><li>mit Wasser verdünnbar</li></ul>"
+}

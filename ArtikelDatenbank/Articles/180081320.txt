@@ -1,0 +1,4 @@
+{
+    "uvp": 99.0,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> praktisches Regalbrett für Ihr Gewächshaus </li><li> abnehmbar und leicht zu transportieren </li><li> schwarz pulverbeschichtet </li><li> auch zum Tauchen von Pflanzen geeignet </li><li> einfache Montage mit Lederaufhängung Technische Daten: </li><li> Material: extrudiertes Aluminium, pulverbeschichtet </li><li> Maße: (L x B x H) 15 x 36 x 5 cm </li><li> Farbe: schwarz </li><li> Hersteller: Juliana Lieferumfang: </li><li> Aluregal </li><li> Lederaufhängung </li></ul> </div>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>hervorragende Untergrundhaftung</li><li>wasserdampfdiffusionsoffen und wasserabweisend</li><li>vielseitig einsetzbar für innen und außen</li><li>elastisch und faserarmiert</li><li>für die Überarbeitung und das Ausgleichen</li></ul>"
+}

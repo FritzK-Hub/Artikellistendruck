@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Wäschekorb aus stabilem, weißem Kunststoff</li><li>sorgt für mehr Ordnung im Schlaf- oder Badezimmer</li><li>23 Liter Fassungsvermögen bietet ausreichend Stauraum</li><li>geringes Eigengewicht für den einfachen Transport der Wäsche</li><li>eignet sich auch zum Einweichen stark verschmutzter Kleidungsstücke<br/></li></ul>"
+}

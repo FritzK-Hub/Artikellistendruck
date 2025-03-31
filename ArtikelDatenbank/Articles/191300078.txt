@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Strandmatte 180 x 60 cm faltbar aus Stroh</li><li>in verschiedenen Farben erhältlich</li><li>inklusive Befestigungsbänder</li><li>leicht abwaschbar</li><li>einfaches Verstauen und Transportieren<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>GERMANIA® LED-Stabtaschenlampe mit 1500 Lumen</li><li>besitzt ein robustes, wasserabweisendes Aluminium-Gehäuse</li><li>Zoomfunktion durch dreh- und ausziehbaren Kopf</li><li>kann zwischen drei Leuchtstufen eingestellt werden</li><li>dank Handschlaufe ideal für den Außenbereich geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>quadratischer Gartentisch</li><li>aus geöltem Eukalyptusholz </li><li>Holztisch für Garten, Balkon oder Terrasse</li><li>bei Nichtgebrauch platzsparend zusammenklappbar</li><li>auch ideal als Beistelltisch</li></ul>"
+}

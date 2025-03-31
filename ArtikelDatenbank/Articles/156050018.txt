@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>für alle gängigen Lackroller bis 13 cm Breite</li><li>mit strukturierter Abrollfläche</li></ul>"
+}

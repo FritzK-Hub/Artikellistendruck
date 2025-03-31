@@ -1,0 +1,4 @@
+{
+    "uvp": 13.5,
+    "attributes": "<ul><li>extrem lange Reichweite</li><li>schmal, aber robust</li><li>handliche einklappbare Handkurbel</li><li>stabiler Kunststoff-Kreuzrahmen</li><li>schmutz- und wetterbeständig<br/><br/></li></ul>"
+}

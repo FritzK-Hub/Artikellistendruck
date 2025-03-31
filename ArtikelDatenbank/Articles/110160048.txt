@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>klein und unaufällig</li><li>leichte Montage </li><li>Schutz von Türen und Wände</li><li>wiederstandsfähiges Material</li><li>rückstandsloses Entfernen</li></ul>"
+}

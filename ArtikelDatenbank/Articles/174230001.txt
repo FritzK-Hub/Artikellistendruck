@@ -1,0 +1,4 @@
+{
+    "uvp": 5.1,
+    "attributes": "<ul><li>Länge: (L) ca. 160 mm</li><li>2x gerade Aufsätze 180° mit unterschiedlicher Zapfenstärke</li><li>1x gekröpfter Aufsatz 45°</li><li>1x gekröpfter Aufsatz 90°</li><li>für Innen- und Außensicherungsringe</li><li>Sicherungsringe: Ø ca. 10 - 50 mm</li><li>Führung: gefedert</li><li>einfacher und schneller Wechsel der Aufsätze</li></ul>"
+}

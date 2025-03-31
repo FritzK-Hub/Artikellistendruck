@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Dauerdesinfektion, Algenschutz und Flockung in einem Tab</li><li>sehr langsam löslich mit hohem Aktiv-Chlorgehalt</li><li>pH stabile Langzeitdesinfektion</li><li>für Pools mit Sandfilter ab 20.000 Liter</li><li>einfache Dosierung über Skimmer<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 379.95,
+    "attributes": "<ul><li>Werkbank 3in1 Tisch, Schublade und Schrank</li><li>zuverlässiger Helfer in Werkstatt, Garage oder Keller</li><li>Tischplatte aus massiven Gummibaumholz stäbchenverleim</li><li>rückenschönend dank höhenverstellbaren Füßen</li><li>Türen lassen sich abschließen (Ersatzschlüssel inklusive)</li></ul>"
+}

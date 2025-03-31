@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>    einfache und schnelle Montage am Anhänger </li><li>keine komplizierten Zusatz-Installationen erforderlich</li><li>kann sowohl rechts als auch auf der linken Seite motiert werden</li><li>drei Funktionen in einem: Bremslicht, Rücklicht und Blinker</li><li>die Anhängerbeleuchtung ist robust und langlebig<br/></li></ul>"
+}

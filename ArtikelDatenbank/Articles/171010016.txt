@@ -1,0 +1,4 @@
+{
+    "uvp": 8.4,
+    "attributes": "<ul><li>SDS Hammerbohrersatz mit je 260 mm Länge</li><li>Set besteht aus 3 verschiedenen Größen</li><li>für Steine, Mauerwerk, Putze</li><li>geeignet für Geräte mit einer SDS Aufnahme</li><li>für Profis und Hobbyheimwerker<br/></li></ul>"
+}

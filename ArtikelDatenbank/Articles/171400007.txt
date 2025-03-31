@@ -1,0 +1,4 @@
+{
+    "uvp": 9.45,
+    "attributes": "<ul><li>Spezialwalze für Rollputz</li><li>ergibt eine feine Oberflächenstruktur</li><li>sorgt für gleichmäßige Verteilung der Körnung <br/></li><li>bewirkt eine ebenmäßige Optik </li><li>geeignet für Wände und Decken im Innenbereich</li></ul>"
+}

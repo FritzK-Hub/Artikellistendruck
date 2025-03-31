@@ -1,0 +1,4 @@
+{
+    "uvp": 10.41,
+    "attributes": "<ul><li>3-fach Rahmen aus Kunststoff</li><li>mit Dichtung aus Moosgummi - Schutzklasse IP 44 für Feuchträume geeignet </li><li>klassisches Design mit hochglänzender Oberfläche</li><li>für Unterputz-Steckdosen und -Schalter aus der Serie AquaKombi</li><li>für waagrechte oder senkrechte Montage</li><li>einfache Montage<br/></li></ul>"
+}

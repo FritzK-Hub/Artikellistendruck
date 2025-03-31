@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>randlose Spreizdübel für maximale Tragfähigkeit in Vollbaustoffen</li><li>dreifache Spreizung</li><li>schnelle und einfache Montage durch schlanke Bauform</li><li>Verdrehsicherung gegen das Mitdrehen des Dübels im Bohrloch</li><li>ideal für die Befestigung von leichten bis mittelschweren Gegenständen</li></ul>"
+}

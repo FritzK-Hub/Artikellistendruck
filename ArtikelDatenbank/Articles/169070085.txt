@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Schließzylinder GERA F-5 5600, 30-30 mm</li><li>von außen schließbar auch wenn innen Schlüssel steckt</li><li>Not- und Gefahrenfunktion</li><li>Schlüssel-Prägenummer für Anfertigung Gleichschließungen</li><li>inklusive 6 Schlüssen und Befestigungsschraube<br/></li></ul>"
+}

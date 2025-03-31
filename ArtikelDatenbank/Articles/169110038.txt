@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Seilklampe aus Metall</li><li>zum leichten Verzurren von Seilen z. B. an Booten oder Fahnenmasten</li></ul>"
+}

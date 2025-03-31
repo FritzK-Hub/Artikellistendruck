@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Gießkanne silber mit 10 Liter Fassungsvermögen</li><li>aus stabilem, verzinktem Metall gefertigt</li><li>ideal für den Heimgebrauch oder Garten geeignet</li><li>breite Öffnung für leichtes Befüllen</li><li>inklusive abnehmbarer Brausekopf<br/></li></ul>"
+}

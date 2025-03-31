@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Antirutsch Punkte \"Glow in the Dark\"</li><li>sorgen für mehr Sicherheit an rutschgefährdeten Zonen</li><li>für den Innenbereich</li><li>für mittlere bis hohe Beanspruchung</li><li>geeignet für Treppen, Fliesenböden, Leitern und Rampen<br/></li></ul>"
+}

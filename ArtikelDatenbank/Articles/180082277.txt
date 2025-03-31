@@ -1,0 +1,4 @@
+{
+    "uvp": 78.0,
+    "attributes": "<ul><li>Zaun-Sichtschutz zum Einflechten</li><li>zum Nachrüsten für alle Doppelstabgittermatten</li><li>leichte Reinigung</li><li>robust und formstabil</li><li>100 % blickdicht<br/></li></ul>"
+}

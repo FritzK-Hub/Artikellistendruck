@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>vielseitig einsetzbar</li><li>reißfest</li><li>tragfähig</li><li>belastbar</li><li>aus Recycling Material</li></ul>"
+}

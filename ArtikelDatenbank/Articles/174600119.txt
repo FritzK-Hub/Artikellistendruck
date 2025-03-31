@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>praktische und pflegeleichte WC-Bürste</li><li>mit Glaseinsatz zur besseren Reinigung</li><li>zeitloses Design und schlichte Kugelform</li><li>mit Ersatzbürstenkopf</li><li>aus hochwertigem Edelstahl<br/></li></ul>"
+}

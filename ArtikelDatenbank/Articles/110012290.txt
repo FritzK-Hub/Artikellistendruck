@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Rändelmutter für die Waschtisch-Siphon-Verbindung</li><li>aus massivem, verchromtem Metall gefertigt</li><li>besonders langlebig und widerstandsfähig</li><li>1-1/4“ Innengewinde erleichtert die Installation</li><li>inklusive Dichtung, verhindert ungewolltes Auslaufen<br/></li></ul>"
+}

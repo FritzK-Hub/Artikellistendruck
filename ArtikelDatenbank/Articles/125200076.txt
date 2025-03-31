@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Protect Home Lebendfalle aus Kunststoff</li><li>eine tierfreundliche Fangmethode für Mäuse</li><li>transparenter Deckel erleichtert das Erkennen gefangengenommener Tiere</li><li>kann bis zu vier Mäuse gleichzeitig gefangen halten</li><li>ohne Gebrauch von Rattengift einsetzbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Wendel-Rührer mit Ring</li><li>für Rührgut bis 20 kg</li><li>zum Mischen von zähen Materialien</li><li>stabiler Farb-Mörtel-Rührer mit Bohrmaschinenaufnahme</li><li>guter Helfer bei Renovierungsarbeiten</li></ul>"
+}

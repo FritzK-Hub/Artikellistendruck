@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Spinnerset 4-teilig, Köderset</li><li>der perfekte Köder zum Fang von Raubfischen</li><li>gute Laufeigenschaften</li><li>scharfe Drillinge mit Federn</li><li>2 verschiedene Blinker-Farben<br/></li></ul>"
+}

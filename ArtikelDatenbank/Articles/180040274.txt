@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Vorschlaghammerstiel von GERMANIA®</li><li>für 5 - 6 kg Hammerköpfe</li><li>Ersatz-Stiel aus massivem Eschenholz</li><li>ovale Form</li><li>mit einem Gewicht von ca. 560 g</li></ul>"
+}

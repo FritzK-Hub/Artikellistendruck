@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Nigrin Bremsflüssigkeit DOT 4</li><li>sichert die optimale Funktion der Bremsanlage</li><li>verringert den Leistungsverlust bei Maximalbelastung</li><li>optimiert die Bremsdruckkontrolle</li><li>mischbar mit Bremsflüssigkeiten gleicher Spezifikation</li></ul>"
+}

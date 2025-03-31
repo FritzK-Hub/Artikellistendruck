@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Kinzo Gasbrenner mit 80 cm langem Aluminiumrohr</li><li>einstellbare Flammentemperatur von 800 bis 1200 °C</li><li>zuverlässiges, bequemes Zünden auf Knopfdruck mit professioneller Piezozündung</li><li>tötet das Unkraut, indem die Zellwände gesprengt werden</li><li>auch als Grill- oder Kaminanzünder einsetzbar<br/></li></ul>"
+}

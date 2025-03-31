@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>wetterfestes Gummi erlaubt langlebige Nutzung</li><li>effektive Spikes halten Schmutz draußen</li><li>mühelos Reinigung schafft Pflegeleichtigkeit</li><li>sichere Auslage ohne Verrutschen</li><li>schwarzes Design zum universellen Einsatz</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Gewebe Bauschuttsäcke 3 Stück je 55 x 66 cm</li><li>aus strapazierfähigem, robustem Bändchengewebe gefertigt</li><li>bietet ausreichend Stauraum für Schutt oder Müll</li><li>besitzt eine Tragkraft von bis zu 40 kg</li><li>lässt sich mehrmals und vielseitig verwenden<br/></li></ul>"
+}

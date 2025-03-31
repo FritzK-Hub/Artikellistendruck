@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>vielseitig in weniger belüfteten Räumen wie Autos, Keller oder Schränken einsetzbar</li><li>verhindert das Wachstum von Schimmelbildung und anderen gesundheitsschädlichen Bakterien</li><li>mitgelieferte Granulat-Kissen absorbieren Feuchtigkeit und schlechte Gerüche</li><li>gebildete Flüssigkeit lässt sich schnell und einfach entsorgen</li><li>Granulatkissen bindet die Feuchtigekti und tropft langsam in die Schale</li></ul>"
+}

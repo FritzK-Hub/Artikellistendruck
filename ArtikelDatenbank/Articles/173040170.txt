@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>11 Steckschlüsseleinsätze auf Klemmleiste</li><li>hochwertiger Chrom-Vanadium Stahl</li><li>perfekt für Profis und Heimwerker</li><li>extra lange Ausführung 4-13mm</li><li>spiegelpolierte Oberfläche</li><li>stark und belastbar</li></ul><p></p>"
+}

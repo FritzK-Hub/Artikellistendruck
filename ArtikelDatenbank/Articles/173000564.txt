@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>DecoPro LED-Deckenleuchte eckig mit neutralweißem Licht</li><li>ist mit einem Bewegungs- und Dämmerungssensor versehen</li><li>flache Bauform eignet sich gut als Decken- oder Wandleuchte</li><li>individuell für Wohnzimmer, Schlafzimmer, Flur oder Küche</li><li>mit sparsamer und fest integrierter LED-Technik<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Mückenfalle USB-betrieben 3 W aus Kunststoff in weiß</li><li>umweltfreundlich, ohne Einsatz von Chemie</li><li>zur Bekämpfung von Mücken oder Stechfliegen</li><li>UV-Licht lockt geräuschlos die Insekten in einen Ventilator</li><li>verfügt über drei Helligkeitsstufen (100 %, 50 % und Blinklicht)<br/></li></ul>"
+}

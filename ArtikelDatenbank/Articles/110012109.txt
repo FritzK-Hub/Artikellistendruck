@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>perfektes Strahlbild durch Marken-Mischdüse</li><li>einfache Installation mit flexiblen Anschlussschläuchen</li><li>schwenkbarer Auslauf 150° &amp; Auszieh-Brause bietet Vielseitigkeit</li><li>mühelose Temperatur-Justierung schafft Komfort</li></ul>"
+}

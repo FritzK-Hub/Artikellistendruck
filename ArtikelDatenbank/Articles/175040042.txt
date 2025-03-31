@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Güde® Ersatz-Sägekette für Hochentaster</li><li>passend für Güde® Astkettensägen GAK 600, GAK 650, GAK 1000</li><li>liefert eine besonders gute Schnittleistung</li><li>preiswerter Ersatz für die stumpfe Kette</li><li>lässt sich einfach und schnell austauschen<br/></li></ul>"
+}

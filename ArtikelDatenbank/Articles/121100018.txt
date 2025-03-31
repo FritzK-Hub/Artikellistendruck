@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>stabiles Pflanzgefäß für innen und außen</li><li>eckiger Blumenkasten mit Rattan-Muster</li><li>zum direkten Bepflanzen geeignet<br/></li><li>aus hochwertigem Kunststoff</li><li>UV- und frostbeständig</li></ul><p></p>"
+}

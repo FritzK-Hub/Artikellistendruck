@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Fußmatte aus Gummi in Gitterform</li><li>für den Innen- und Außenbereich geeignet</li><li>sehr gute Reinigungswirkung</li><li>die Fußmatte ist wetterbeständig</li><li>die Fußmatte lässt sich leicht reinigen</li></ul>"
+}

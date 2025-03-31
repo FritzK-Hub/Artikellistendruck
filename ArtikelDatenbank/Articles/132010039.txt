@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Katzenhalsband aus Nylon</li><li>mit Sicherheitsschnellverschluss und Schelle</li><li>stufenlos verstellbar</li><li>Einheitsgröße für alle Katzen</li><li>farblich sortiert</li></ul>"
+}

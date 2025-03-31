@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>zuverlässige und starke magnetische Haftung</li><li>besonders einfache Montage</li><li>vielseitige Anwendungsmöglichkeiten</li><li>Schließkraft von ca. 3 kg</li><li>äußerst robust und langlebig<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Pattex® Sekundenkleber</li><li>klebt schnell und kraftvoll verschiedene Materialien</li><li>3 Mini-Tuben mit je 1g Inhalt im Set</li><li>für schnelle Reparaturen</li><li>lösemittelfrei</li></ul>"
+}

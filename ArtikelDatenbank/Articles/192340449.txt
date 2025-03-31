@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Teelichthalter für Zuhause, Garten oder Terrasse</li><li>in verschiedenen Farben erhältlich</li><li>vielseitig einsetzbare Weihnachtsdekoration</li><li>für Fensterbretter, Sideboards oder Tische anwendbar</li><li>geeignet für LED und normale Teelichter <br/></li></ul>"
+}

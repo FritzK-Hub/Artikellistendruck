@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatgut Möhren Rotin ca. 2 Meter Saatband</li><li>frühreife Möhrensorte mit süß-saftigem Fleisch</li><li>mit glatten intensiv, orange-roten Möhren</li><li>verfügt über einen hohen Carotingehalt</li><li>ideal für den Rohverzehr oder für Salate geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>Doppel-Kochplatte mit insgesamt 2000 Watt </li><li>für Freizeit, Camping oder im Haushalt als zusätzliche Kochmöglichkeit</li><li>Kochfelder lassen sich separat und stufenlos regulieren</li><li>beide Platten sind mit einem Überhitzungsschutz ausgestattet</li><li>mit je einer Kontrollleuchte pro Kochplatte<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul> <li>Qualität von GERMANIA® Qualitätswerkzeuge</li> <li>starke Feder</li> <li>geringes Gewicht</li> <li>Nylonverstärkt</li> <li>bewegliche Spannbacken</li></ul>"
+}

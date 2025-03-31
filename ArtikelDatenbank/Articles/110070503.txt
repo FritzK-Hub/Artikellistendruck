@@ -1,0 +1,4 @@
+{
+    "uvp": 44.99,
+    "attributes": "<ul><li>Ofenrohr gerade Ausführung in schwarz-metallic</li><li>aus senotherm-lackiertem Stahlblech gefertigt</li><li>für den Anschluss von Kaminöfen</li><li>für den Innenbereich</li><li>Ø 150 x750 mm mit 2 mm Materialstärke<br/></li></ul>"
+}

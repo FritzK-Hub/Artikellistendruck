@@ -1,0 +1,4 @@
+{
+    "uvp": 99.99,
+    "attributes": "<ul><li>Handkreissäge für gerade Schnitte in Holz und Holzwerkstoffen</li><li>Schnittwinkel für Gehrungs- und Schrägschnitte, manuell einstellbar (0°-45°)</li><li>Parallelanschlag für gerade Schnitte entlang Kanten</li><li>Schnitttiefe individuell einstellbar</li><li>Zusatzhandgriff für die sichere Handhabung und Führung</li></ul><p><br/></p>"
+}

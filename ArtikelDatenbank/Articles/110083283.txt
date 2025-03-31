@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Thermometer für Innenbereich</li><li>aus Buche gefertigt</li><li>im klassischen Design</li><li>Temperaturanzeige von - 35 bis + 50 °C</li><li>zum Aufhängen geeignet<br/></li></ul>"
+}

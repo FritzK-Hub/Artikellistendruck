@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>3-teiliges Set: 2 x gepolsterte Bankauflagen und 1 x Tischdecke</li><li>passend für Garnituren mit einer Länge von 220 cm</li><li>weiche 1,4 cm Schaumstofffüllung für bequemen Sitzkomfort</li><li>elastische Halteschlaufe erleichtert das Befestigen</li><li>bei Nichtgebrauch platzsparend im Beutel verstaubar<br/></li></ul>"
+}

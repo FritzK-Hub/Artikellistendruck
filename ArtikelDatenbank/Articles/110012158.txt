@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Dichtungssortiment für Spültisch-Siphon</li><li>hochwertiges Material für eine lange Lebensdauer</li><li>Schutz vor Leckagen und Undichtigkeiten</li><li>Keildichtungen und Flachdichtung</li><li>für 1½\" Siphon-Verschraubungen</li></ul><p></p>"
+}

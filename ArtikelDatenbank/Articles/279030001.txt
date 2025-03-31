@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>für Renovierung</li><li>Bau</li><li>geschmiedet</li><li>nach DIN gehärtet</li><li>ovale ergonomische Ausführung</li></ul>"
+}

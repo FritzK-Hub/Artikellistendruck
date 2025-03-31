@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>Regentonne Raincan in schwarz mit Deckel</li><li>aus schlagfestem Kunststoff gefertigt</li><li>zum Sammeln von Regenwasser geeignet</li><li>spart Kosten und kostbares Trinkwasser</li><li>für günstige und effiziente Gartenbewässerung</li></ul>"
+}

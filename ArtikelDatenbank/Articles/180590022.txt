@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Fußmatten Set Florida 3 universal, 4-teilig</li><li>hochwertige und strapazierfähige Ausführung</li><li>für fast alle gängigen Fahrzeuge geeignet</li><li>mit einer Gummigranulat-Rückenbeschichtung versehen</li><li>mit integrierter Klett-Befestigung ausgestattet<br/></li></ul>"
+}

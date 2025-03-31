@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>warmweiße LED-Beleuchtung</li><li>stimmungsvolle Atmosphäre</li><li>vielseitige Lichtdekoration</li><li>einfache Bedienung</li><li>batteriebetrieben und flexibel<br/></li></ul>"
+}

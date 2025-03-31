@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>robuste Konstruktion</li><li>effizientes Design</li><li>vielseitige Anwendung</li><li>hohe Kompatibilität</li><li>zuverlässige Leistung</li></ul>"
+}

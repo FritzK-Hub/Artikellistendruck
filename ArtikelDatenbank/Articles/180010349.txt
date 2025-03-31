@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>fördert gesundes und kräftiges Wachstum</li><li>spezielle Nährstoffversorgung von Bäumen, Sträuchern und Hecken</li><li>aus pflanzlichen und mineralischen Rohstoffen hergestellt</li><li>schafft günstige Wachstumsbedingungen</li><li>einmal jährlich düngen</li></ul>"
+}

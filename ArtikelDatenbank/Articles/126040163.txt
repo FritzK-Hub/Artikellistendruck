@@ -1,0 +1,4 @@
+{
+    "uvp": 74.9,
+    "attributes": "<ul><li>Universeller 20 V / 4,0 Ah Li-Ion-Akku</li><li>passend für alle Yard Force 20 V Elektrogeräte</li><li>schnellere Akkulaufzeit dank Schnellladetechnologie</li><li>Überprüfung des Ladestands anhand LED-Digitalanzeige</li><li>platzsparendes, kompaktes Design<br/></li></ul>"
+}

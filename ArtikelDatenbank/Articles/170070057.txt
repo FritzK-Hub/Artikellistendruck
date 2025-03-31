@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Windeisen</li><li>aus verzinktem Stahl</li><li>für Handgewindebohrer</li><li>geeignet für Gewindebohrer M1 bis M12</li><li>verstellbare Festklemmbacken</li></ul>"
+}

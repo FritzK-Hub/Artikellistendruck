@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>60 cm langer Saalbesen </li><li>mit robusten Elaston - Borsten</li><li>1-Loch Stielaufnahme</li><li>stabiler Besen aus massivem Holz</li><li>einsetzbar im Innen- und Aussenbereich</li></ul>"
+}

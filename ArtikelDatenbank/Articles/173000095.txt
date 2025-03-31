@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>LED-Ovalleuchte 10 W mit LED</li><li>mit spritzwassergeschütztem, weißem Kunststoff</li><li>für den Einsatz in Räumen mit hoher Feuchtigkeit</li><li>für den Innen- und Außenbereich einsetzbar</li><li>Leuchtmittelwechsel ohne Werkzeug möglich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>doppelter Badetuchhalter </li><li>vielseitige Befestigung</li><li>einfache Montage</li><li>praktisch und stilvoll</li><li>einfache Reinigung</li></ul>"
+}

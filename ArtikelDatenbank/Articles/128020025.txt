@@ -1,0 +1,4 @@
+{
+    "uvp": 129.9,
+    "attributes": "<ul><li>hochwertiger Aluminiumtisch in idealer Arbeitshöhe</li><li>perfekt für kleine und große Gewächshäuser</li><li>mit praktischer verstrebter Oberfläche</li><li>problemloses Entfernen der Aluminiumstreben </li><li>wichtigster Einrichtungsgegenstand im Gewächshaus<br/></li></ul>"
+}

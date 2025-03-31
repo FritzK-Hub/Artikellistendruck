@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Luftpumpe zum Aufblasen von Pools, Luftbetten oder Schlauchbooten<br/></li><li>aus robustem Kunststoff gefertigt</li><li>verfügt über ein 2 Kammer-System </li><li>kann Luft in die Luftkammern hinein als auch heraus pumpen</li><li>inklusive flexiblem Schlauch und 3 verschiedenen Düsenaufsätzen<br/></li></ul>"
+}

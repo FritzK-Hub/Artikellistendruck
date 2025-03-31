@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>flexibel und ausziehbar, mit Knickschutz</li><li>robust und langlebig, aus abriebfestem PU-Material</li><li>einfache Handhabung durch Schnellkupplung und Stecknippel</li><li>max. Arbeitsdruck von 11 bar für anspruchsvolle Anwendungen</li><li>vielseitig einsetzbar in Werkstätten, Industrie und Heimgebrauch<br/></li></ul>"
+}

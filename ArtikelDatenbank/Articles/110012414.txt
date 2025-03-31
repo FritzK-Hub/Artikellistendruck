@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>    aus verzinktem Temperguss für eine hohe Korrosionsbeständigkeit</li><li>breite Anwendbarkeit für verschiedene Verlegesituationen</li><li>sowohl für die Verlegung unter Putz als auch auf Putz geeignet</li><li>druckfest bis 25 bar bei unter 120°C für eine sichere Verwendung</li><li>nicht für den Einsatz bei Warmwasser geeignet</li></ul>"
+}

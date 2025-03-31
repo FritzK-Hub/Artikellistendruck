@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Kümmel Rekord ca. 6 – 8 lfd. Meter</li><li>mit einem herben, kräftigen Geschmack</li><li>ist ein vielseitig einsetzbares Speisegewürz</li><li>wirkt gegen Blähungen und ist appetitsanregend</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

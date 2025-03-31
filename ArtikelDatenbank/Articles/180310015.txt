@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>Sommer-Scheibenreiniger gebrauchsfertigt im 5 Liter Kanister</li><li>löst wirksam Insektenreste und beseitigt Fettrückstände</li><li>Lacke und Kunststoff werden nicht angegriffen</li><li>Ploycarbonat-verträglich und für Fächerdüsen geeignet</li><li>mit erfrischendem Citrusduft versehen<br/></li></ul>"
+}

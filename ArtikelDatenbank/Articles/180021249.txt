@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Sockel für Regentonnen in Grün</li><li>passend für Regentonne 210 Liter rund</li><li>auch passend für Regentonne 203 Liter eckig</li><li>aus 100 % recyclebarem Kunststoff</li><li>Untersetzer für Regenwasserbehälter zur leichteren Wasserentnahme</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.24,
+    "attributes": "<ul><li>passend für Dachrinnensysteme mit Nennweite 53mm</li><li>für zuverlässige Dachentwässerung</li><li>aus stabilem Kunststoff</li><li>witterungsbeständig, UV-beständig</li><li>korrosionsfrei</li></ul>"
+}

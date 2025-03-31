@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>DecoPro LED-Deckenleuchte eckig mit Sterneneffekt</li><li>Lichtfarbe und Farbtemperatur in 3 Stufen verstellbar</li><li>flache Bauform eignet sich gut als Decken- oder Wandleuchte</li><li>individuell für Wohnzimmer, Schlafzimmer, Flur oder Küche</li><li>mit sparsamer und fest integrierter LED-Technik<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>vielseitige Anwendung im Innen- und Außenbereich möglich.</li><li>hochwertige Verarbeitung aus gebürstetem Edelstahl</li><li>präzise Temperaturanzeige von -35 bis +50 °C</li><li>leicht ablesbare Skala in Blauton</li><li>einfache Installation dank Aufhängemöglichkeit<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Thermostat solarbetrieben 2in1</li><li>mit einem kaltweißen LED ausgestattet</li><li>auch als Gartenbeleuchtung einsetzbar</li><li>Messskala in Grad Celsius als auch Grad Fahrenheit ablesbar</li><li>inklusive benötigter AAA-Batterie, wiederaufladbar<br/></li></ul>"
+}

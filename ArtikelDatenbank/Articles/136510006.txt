@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>vielseitiges Werkzeug für professionelle und private Projekte</li><li>angenehme Haptik durch Holzgriff<br/></li><li>hochwertiger Kohlenstoffstahl bietet Langlebigkeit</li><li>kompakte Größe für flexible Anwendungen</li><li>universell einsetzbar bei verschiedenen Werkstoffen</li></ul>"
+}

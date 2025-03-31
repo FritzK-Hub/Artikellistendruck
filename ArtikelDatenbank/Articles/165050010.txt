@@ -1,0 +1,4 @@
+{
+    "uvp": 10.49,
+    "attributes": "<ul><li>Gabel-Gabel-Spannschraube aus V4A (CrNiMo) Edelstahl</li><li>bis 180 kg belastbar</li><li>mit geschlossener Hülse</li><li>Bolzen mit Sicherungsring</li><li>zum Verspannen, Verzurren und Takeln von Seilen</li></ul>"
+}

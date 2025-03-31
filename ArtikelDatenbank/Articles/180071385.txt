@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Wandblumentopf Terra Ø 27 cm für innen und außen</li><li>besteht aus hochwertigem Kunststoff</li><li>zum direkten Bepflanzen geeignet</li><li>UV-beständig und stabil</li><li>runder Blumentopf in matter Optik<br/></li></ul>"
+}

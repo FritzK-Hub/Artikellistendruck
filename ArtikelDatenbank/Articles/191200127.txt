@@ -1,0 +1,4 @@
+{
+    "uvp": 784.75,
+    "attributes": "<ul><li>komplett ausgestattete Campingküche für Outdoor-Abenteuer</li><li>robuster Edelstahl schafft lange Haltbarkeit</li><li>flexible Höhenverstellung bietet Komfort</li><li>Doppelgrill mit individuell einstellbaren Grillflächen</li><li>platzsparend abbaubar und schnell verstaut</li></ul>"
+}

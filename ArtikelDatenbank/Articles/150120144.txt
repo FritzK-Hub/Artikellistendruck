@@ -1,0 +1,4 @@
+{
+    "uvp": 41.29,
+    "attributes": "<ul><li>Ganzgarage für Pkws in der Größe L</li><li>aus blau-grauem, UV-beständigem Vlies gefertigt</li><li>schützt vor Schneefall, Vereisung oder Verschmutzung</li><li>einfache und schnelle Befestigung dank Kordelzug</li><li>bei Nichtgebrauch platzsparend im Aufbewahrungsbeutel verstaubar<br/></li></ul>"
+}

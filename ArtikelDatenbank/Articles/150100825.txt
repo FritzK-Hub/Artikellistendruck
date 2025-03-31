@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>2-teiliges Schalenmatten-Set, zuschneidbar</li><li>mit abnehmbarem Tropfgitter, ideal im Winter</li><li>aus strapazierfähigem Material, Hochdruckreinigung möglich</li><li>für fast alle gängigen Fahrzeuge geeignet</li><li>rutschsichere Rückseite und universale Passform</li></ul>"
+}

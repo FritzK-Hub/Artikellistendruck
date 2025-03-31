@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>charmantes Design für Garten und Balkon</li><li>Auswahl an drei attraktiven Farben</li><li>robustes Material für ganzjährigen Einsatz</li><li>einfache Montage durch praktische Aufhängeschnur</li><li>vogelgerechter Zugang mit Sitzstange</li></ul>"
+}

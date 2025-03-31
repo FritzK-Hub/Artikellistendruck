@@ -1,0 +1,4 @@
+{
+    "uvp": 0.89,
+    "attributes": "<ul><li>handliche Größe, findet in jedem Fahrzeug Platz</li><li>Eisbrecherkante mit Zähnen für feste Eisflächen </li><li>glatte Schabkante für normale Eisflächen</li><li>Gummilippe für leichte Eis- oder Wasserflächen</li><li>besitzt eine Aufhängeöse<br/></li></ul>"
+}

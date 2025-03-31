@@ -1,0 +1,4 @@
+{
+    "uvp": 2798.0,
+    "attributes": "<ul><li>leistungsstarker Motor für große Flächen</li><li>hydrostatisches Getriebe zum geschmeidigen Fahren</li><li>extra großer Fangsack für längere Mähintervalle</li><li>LED-Beleuchtung erlaubt sicheres Arbeiten</li><li>Reinigungsanschluss zur einfachen Wartung</li></ul>"
+}

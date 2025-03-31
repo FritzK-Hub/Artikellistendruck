@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>vielseitig einsetzbar in allen Bereichen</li><li>schonend zu Oberflächen, effektiv bei Reinigungen</li><li>kompaktes Design zum einfachen Handling</li><li>robuste Qualität für lange Haltbarkeit</li><li>entfernt selbst hartnäckigste Verschmutzungen mühelos</li></ul>"
+}

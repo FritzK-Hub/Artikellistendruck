@@ -1,0 +1,4 @@
+{
+    "uvp": 7.69,
+    "attributes": "<ul><li>zum Aufstecken auf den Schutzgasbrenner</li><li>ideal als Ersatz für defekte / abgenutzte Gasdüsen</li><li>Gasdüse für Schutzgasbrenner mit Steckanschluss </li><li>Set bestehend aus: 1 x zylindrische und 1 x konische Gasdüse</li><li><span class=\"g3_hx\">für den professionellen Schweisserbedarf</span></li></ul>"
+}

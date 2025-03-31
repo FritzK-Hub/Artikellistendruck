@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>handliches Unterstellbock-Set 2 Stück mit je 2 Tonnen</li><li>zum sicheren Aufbocken von Fahrzeugen </li><li>lässt sich 3-fach in der Höhe verstellen</li><li>massives Dreibein-Gestell sorgt für sicheren Stand</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
+}

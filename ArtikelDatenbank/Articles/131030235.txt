@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Bodenglanzpflege mit Orangenöl</li><li>bringt Sauberkeit und Glanz beim Wischen</li><li>ohne Schichtenbildung</li><li>einfache Anwendung</li><li>für eine Vielzahl an Böden einsetzbar<br/></li></ul>"
+}

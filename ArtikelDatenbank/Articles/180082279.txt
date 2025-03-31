@@ -1,0 +1,4 @@
+{
+    "uvp": 69.99,
+    "attributes": "<ul><li>Doppelstab-Gittermatte aus Stahl verzinkt</li><li>anthrazit kunststoffbeschichtet RAL 7016</li><li>einfache Montage, witterungsbeständig</li><li>kein Überstand, geringe Verletzungsgefahr</li><li>preiswert, zuverlässig und langlebig<br/></li></ul>"
+}

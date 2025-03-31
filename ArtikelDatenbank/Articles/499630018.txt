@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Spanplattenschrauben mit Senkkopf</li><li>Schraube mit Pozidriv Antrieb und Teilgewinde</li><li>passend für Bohrergröße 4 mm und PZ2 Bit</li><li>mittlere Festigkeit, Klasse 70</li><li>hohe Beständigkeit gegen Rost, geringe gegen Säure</li></ul>"
+}

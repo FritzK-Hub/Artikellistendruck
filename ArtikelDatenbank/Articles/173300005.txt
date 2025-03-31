@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>große LED-Sonnenschirmbeleuchtung</li><li>modernes Design in Triangelform</li><li>leichtes und schnelles Anbringen</li><li>schafft eine entspannte Atmosphäre</li><li>15 LEDs sorgen für ausreichende Beleuchtung<br/></li></ul>"
+}

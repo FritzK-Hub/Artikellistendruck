@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>umfassende Bitgrößenauswahl bietet Flexibilität</li><li>magnetischer Bithalter zum sicheren Halt</li><li>praktische Kunststoffbox schafft Ordnung</li><li>ideal für Heimwerker und Profis</li><li>hochwertige, langlebige Bitprofile</li></ul>"
+}

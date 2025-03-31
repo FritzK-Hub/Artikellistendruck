@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>batteriebetriebene LED-Stabbleuchtung mit 60 cm</li><li>mit 6 Sternen mit je 1 warmweißen LEDs versehen</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>stabiler Halt dank mitgeliefertem Erdspieß</li><li>verfügt über eine Timerfunktion von sechs Stunden<br/></li></ul>"
+}

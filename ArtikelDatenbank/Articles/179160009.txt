@@ -1,0 +1,4 @@
+{
+    "uvp": 27.72,
+    "attributes": "<ul><li>vielseitige Anwendbarkeit</li><li>hochwertige Verarbeitung</li><li>präzise Abzieharbeiten</li><li>drei verschiedene Größen</li><li>hohe Langlebigkeit und Rostbeständigkeit</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>extrem hohe Standzeit</li><li>OSA Zertifizierung</li><li>Made in Europa</li><li>geeignet für Metall, Edelstahl und Stahl</li><li>Form: flach</li></ul>"
+}

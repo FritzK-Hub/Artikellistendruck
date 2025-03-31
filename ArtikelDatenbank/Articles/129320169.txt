@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>kugelige Buschform</li><li>vielseitige Verwendung</li><li>optimale Standortanpassung</li><li>leichte Pflege</li><li>besonders bienenfreundlich<br/></li></ul>"
+}

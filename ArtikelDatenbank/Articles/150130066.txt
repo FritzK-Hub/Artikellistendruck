@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li><em>Kettensägenöl</em> biologisch - umweltfreundlich</li><li>ganzjährig einsetzbar </li><li>hohe Alterungsstabilität, Verschleißschutz</li><li>exzellenter Korrosionsschutz</li><li>gutes Fließverhalten bei niedrigen Temperaturen</li></ul>"
+}

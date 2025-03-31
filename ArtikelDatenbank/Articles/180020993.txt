@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>hochwertiges Messingmaterial für zuverlässige Stabilität</li><li>zwei Außengewinde in der Größe 1½\" für einfache Verbindung von Rohren oder Schlauch-Anschlusstüllen</li><li>präzise gefertigte Gewinde für sichere und dichte Verbindungen, die Leckagen verhindern</li><li>hohe Korrosionsbeständigkeit für den Einsatz in verschiedenen Umgebungen</li><li>einfache Handhabung und Montage für eine schnelle Installation<br/></li></ul><p></p>"
+}

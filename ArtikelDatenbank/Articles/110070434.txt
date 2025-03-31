@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Senotherm Spray in dezentem schwarz metallic</li><li>für deine Grillgeräte, Kaminöfen, Kachelöfen oder Kamineinsätze</li><li>dekoratives hochhitzebeständiges Ofen-Spray</li><li>korrisionsschützender Schutzlack</li><li>hitzebeständig bis 450°C<br/></li></ul>"
+}

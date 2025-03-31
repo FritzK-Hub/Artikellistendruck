@@ -1,0 +1,4 @@
+{
+    "uvp": 2.09,
+    "attributes": "<ul><li>vielseitig einsetzbar, nicht nur im Auto</li><li>natürlicher Frische-Kick</li><li>intensiver Duft für langanhaltende Frische</li><li>aromadichte Verpackung im praktischen Blister</li><li>sommerliches Design für gute Laune unterwegs</li></ul>"
+}

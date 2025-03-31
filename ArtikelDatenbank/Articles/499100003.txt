@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Art: Spanplattenschraube  \t</li><li>Gewinde: Teilgewinde  \t</li><li>Kopf: Senkkopf  \t</li><li>Antrieb: PZ Pozidrive / Kreuzschlitz  \t</li><li>Material: Stahl gelb verzinkt  \t</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>hochwertige Piezo-Zündung für einfaches Anzünden</li><li>leicht regulierbare Flamme für eine optimale Brenndauer</li><li>robuste Kunststoffkonstruktion für eine lange Lebensdauer</li><li>zuverlässige und sichere Anwendung durch piezo-elektrische Zündung</li><li>auffälliges Design mit dem Motiv \"Sonderpreis Baumarkt\"<br/></li></ul>"
+}

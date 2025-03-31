@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>auch für den professionellen Einsatz</li><li>HSS Stufenbohrer titanbeschichtet für bis zu 6-fach höhere Standzeit</li><li>15 Stufen</li><li>Steigung in 2 mm Schritten</li><li>ideal für gratfreies Bohrer</li></ul>"
+}

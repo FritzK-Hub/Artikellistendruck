@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Material: Stahl</li><li>geeignet für: Fliesen, Kacheln, Eternit, Granit, Keramik und Schiefer</li><li>passend für Winkelschleifer/Fliesenschneider mit einer 22,2mm Aufnahme</li></ul>"
+}

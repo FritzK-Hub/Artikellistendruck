@@ -1,0 +1,4 @@
+{
+    "uvp": 47.99,
+    "attributes": "<ul><li>universell einsetzbare Teleskop-Duschecke</li><li>die ideale Ablagemöglichkeit für Duschzubehör</li><li>beliebig höhenverstellbar bis maximal 260 cm</li><li>hochwertige Edelstahlblenden</li><li>stabile 25 mm Rohre aus Aluminium<br/></li></ul>"
+}

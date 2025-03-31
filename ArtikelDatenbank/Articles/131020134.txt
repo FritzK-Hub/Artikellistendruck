@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Gallseife in flüssiger Form </li><li>zur intensiven und schonenden Fleckenbehandlung</li><li>geeignet für alle waschbaren und farbechten Textilien außer Seide</li><li>entfernt u. a. Flecken von Fett, Öl, Ketchup, Obst, Blut, Milch bereits vor der Wäsche</li><li>sehr ergiebig, mit intergrierter Softbürste</li></ul>"
+}

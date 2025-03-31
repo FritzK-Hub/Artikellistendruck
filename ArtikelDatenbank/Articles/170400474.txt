@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Teelichter-Set 30 Stück mit Glühwein-Duft</li><li>schafft ein gemütliches Wohlfühlambiente</li><li>lassen sich für dekorative Zwecke beliebig platzieren</li><li>bieten ein gleichmäßiges, ruhiges Brennverhalten</li><li>auch in Teelichthalterungen platzierbar<br/></li></ul>"
+}

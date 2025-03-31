@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Blumentopf Set 2-teilig aus grauem Eisen</li><li>zur dekorativen Gestaltung in Wohnräumen, Balkon oder Garten</li><li>ideal für die Innen- oder Außendekoration</li><li>Pflanzkübel lassen sich direkt bepflanzen</li><li>robustes Dreibein-Gestell sorgt für den nötigen Halt</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Wasserhahnanschluss mit Außengewinde (3/4“)</li><li>für Wasserhähne mit Innengewinde</li><li>passt zu allen gängigen Steckverbindungen</li><li>zum Verbinden von einem Gartenschlauch mit einem Wasserhahn</li><li>schnelles Abkoppeln und Umstecken des Schlauches</li></ul>"
+}

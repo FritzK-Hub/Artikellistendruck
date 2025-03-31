@@ -1,0 +1,4 @@
+{
+    "uvp": 8.29,
+    "attributes": "<ul><li>Schlauchanschlussstück aus Messing</li><li>passend für 3/4\" Gartenschläuche</li><li>mit Kupplung für handelsübliche Bewässerungs-Stecksysteme</li><li>zum Anschluss von Gartenspritzen oder Rasensprengern mit 1/2\" Stecknippel</li></ul>"
+}

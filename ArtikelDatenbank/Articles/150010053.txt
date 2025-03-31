@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>    Bodenwischbezug \"Chenille\"im Sparset<br/></li><li>für handelsübliche Klapphalter geeignet </li><li>saugfähiges Material Microfaser<br/></li><li>für schonende Naß- und Trockenreinigung</li><li>nehmen Schmutz und Feuchtigkeit einfach auf</li></ul>"
+}

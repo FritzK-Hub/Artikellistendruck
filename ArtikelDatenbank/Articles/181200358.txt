@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Kohlrabi Giant weiß für ca. 60 Pflanzen</li><li>eine späte Sorte, mit Durchmesser bis zu 30 cm Knolle</li><li>der Riesenkohlrabi ist besonders Platz- und Schossfest</li><li>ein wahrer Genuss egal ob roh, gekocht oder gedünstet</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
+}

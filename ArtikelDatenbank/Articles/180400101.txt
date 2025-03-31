@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>einfache Handhabung für schnelle Messung</li><li>robustes Kunststoffgehäuse ermöglicht lange Haltbarkeit</li><li>ideal für PKW, LKW, Motorräder</li><li>beidseitige Skala erlaubt klare Ablesbarkeit</li><li>kompakte Größe mit Schlüsselring bietet Komfort</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Führungsschienen-Profil unten aus Hart-PVC</li><li>z. B. um ein Möbelstück mit Glas- oder Plexiglas-Schiebetüren auszustatten</li></ul>"
+}

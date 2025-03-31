@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>elegante und schöne Bank aus beschichteten Metall </li><li>maximale Traglast von 250 kg</li><li>Platz für bis zu 2 Personen</li><li>besonders robust und standfest</li><li>für den Einsatz im überdachten Außenbereich geeignet<br/><br/></li></ul>"
+}

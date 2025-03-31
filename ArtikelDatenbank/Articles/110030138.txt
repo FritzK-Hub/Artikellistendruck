@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>hochwertige Bodentücher für effektive Reinigung</li><li>ausgezeichnete Saugfähigkeit und Reinigungskraft</li><li>strapazierfähiges und langlebiges Material</li><li>für Böden, Fliesen, Parkett oder Laminat</li><li>wiederverwendbar und waschbar bis 60°C<br/></li></ul>"
+}

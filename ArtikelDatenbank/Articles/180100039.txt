@@ -1,0 +1,4 @@
+{
+    "uvp": 15.09,
+    "attributes": "<ul><li>LIQUI MOLY 2-Takt-Motoröl</li><li>sehr hoher Korrosionsschutz</li><li>perfekt für stets saubere Zündkerzen</li><li>selbstmischend und rückstandsfreie Verbrennung</li><li>hohe Motorlebensdauer durch optimierten Verschleißschutz</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Höhe: ca. 40 mm</li><li>Breite: ca. 500 mm</li><li>Materialstärke: ca. 4 mm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li><strong>Malerrolle </strong>für alle Wand- und Deckenfarben</li><li>bestens geeignet für leicht strukturierte Untergründe</li><li>sehr hohe Farbaufnahme und gleichmäßige Farbabgabe</li><li>für hohe m²-Leistung</li><li>ergonomischer 2 Komponenten-Griff für ermüdungsfreieres Arbeiten</li></ul>"
+}

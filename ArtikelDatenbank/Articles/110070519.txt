@@ -1,0 +1,4 @@
+{
+    "uvp": 34.99,
+    "attributes": "<ul><li>hohe Stabilität und Langlebigkeit</li><li>attraktive Optik und Korrosionsschutz</li><li>einfache und flexible Installation</li><li>praktische Putztür für einfache Reinigung</li><li>besonders gute Hitzebeständigkeit<br/></li></ul>"
+}

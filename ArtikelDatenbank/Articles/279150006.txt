@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>das Eindringen von Laub, Nagern und Ungeziefer wird durch die engen Maschen verhindert</li><li>schnelle Befestigung / kein Bohren, Schrauben oder Kleben</li><li>Kellerschacht Gitter mit hoher Licht- und Luftdurchlässigkeit</li><li>Lichtschachtnetz ist witterungsbeständig und lange haltbar</li><li>Lichtschacht Gitter Set inklusive Netz und 16 Klemmen</li></ul>"
+}

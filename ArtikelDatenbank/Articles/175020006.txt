@@ -1,0 +1,4 @@
+{
+    "uvp": 41.95,
+    "attributes": "<ul><li>Sägeketten-Schärfgerät für Bohrmaschinenantrieb</li><li>für Kettenglieder in 6,3 (1/4), 0,325\" und 10 (3/8) geeignet</li><li>passend für alle Bohrmaschinen mit Spannhals von 43 mm Ø (Euronorm)</li><li>komplett mit Schleifscheibe (ohne Bohrmaschine)</li><li>Kettenschärfer für einfache Bedienung</li></ul>"
+}

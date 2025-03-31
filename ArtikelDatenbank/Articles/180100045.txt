@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>Hightech-Leichtlaufmotoröl für höchste Anforderungen</li><li>Turbo- und Kat-getestet</li><li>ideal auch bei gasbetriebenen Fahrzeugen</li><li>minimiert Verschleiß, Ablagerungen und Kraftstoffverbrauch</li><li>maximiert Lebensdauer des Motors, schont die Umwelt</li></ul>"
+}

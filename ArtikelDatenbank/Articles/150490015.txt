@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>einzigartiges Design für stilvolle Küchenorganisation</li><li>langlebiger Bambus bietet Nachhaltigkeit und Ästhetik</li><li>effiziente Aufbewahrung mit praktischen Haltern</li><li>einfache Platzierung für maximale Benutzerfreundlichkeit</li><li>beständige Zuverlässigkeit durch stabile Edelstahlkonstruktion</li></ul>"
+}

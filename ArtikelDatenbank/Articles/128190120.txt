@@ -1,0 +1,4 @@
+{
+    "uvp": 1199.0,
+    "attributes": "<ul><li>hochwertiger verzinkter Stahl für maximale Haltbarkeit</li><li>witterungsbeständig dank Pulverbeschichtung</li><li>elegantes Anthrazit für eine moderne Optik</li><li>Deckel mit zwei Gasdruckfedern für müheloses Öffnen und Schließen</li><li>großzügige Abmessungen für vielseitige Mülltonnenlagerung<br/></li></ul>"
+}

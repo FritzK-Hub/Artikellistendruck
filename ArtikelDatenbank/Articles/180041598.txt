@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Mit einem Handgriff sind die Pflanzenstengel am Stiel fixiert</li><li>Einfach zu bedienen</li><li>Praktisch und stabil</li><li>Hochwertig verarbeitet</li></ul>"
+}

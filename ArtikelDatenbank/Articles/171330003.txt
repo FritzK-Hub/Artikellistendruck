@@ -1,0 +1,4 @@
+{
+    "uvp": 13.79,
+    "attributes": "<ul><li>Tür- und Zargenschaum 400 ml grün von Soudal</li><li>ist ein gebrauchsfertiger, zweikomponentiger Polyurethan-Schhnellschaum</li><li>ideal zur Montage und Dämmen von Türzargen</li><li>auch zum Setzen von Badewannen- und Duschlassenträgern einsetzbar </li><li>verfügt über eine besondere Formstabilität<br/></li></ul>"
+}

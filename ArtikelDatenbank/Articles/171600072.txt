@@ -1,0 +1,4 @@
+{
+    "uvp": 89.5,
+    "attributes": "<ul><li>MEM Fix-Fertig-Fugenmörtel</li><li>gebrauchsfertiger Pflaster-Fugenmörtel</li><li>zur wasserdurchlässigen Verfugung von Pflasterflächen</li><li>verhindert Auswaschen der Fugen</li><li>wirkt Unkrautbewuchs entgegen<br/></li></ul>"
+}

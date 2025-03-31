@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>zum Aufpumpen von Bällen oder Auto- und Fahrradreifen</li><li>voreinstellbarem Luftdruck und Autostoppfunktion, beim Erreichen des Luftdrucks</li><li>integrierte LED-Taschenlampe für eine klare Sicht im Dunkeln</li><li>als Powerbank mit 2.200 mAh und USB-Ausgang einsetzbar</li><li>inklusive Fahrradtasche, drei Ventile, Akku und Ladekabel</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>praktisches Werkzeug für Handwerker und Heimwerker</li><li>vielseitig einsetzbar für Nägel, schwere Gegenstände und zum Aufstemmen<br/></li><li>handliche Maße für unkomplizierten Gebrauch<br/></li><li>optimale Hebelwirkung minimiert Kraftaufwand</li><li>robuste Materialien für mehr Langlebigkeit</li></ul><p></p>"
+}

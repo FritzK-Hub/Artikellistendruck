@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>3-facher Abdeckrahmen der Serie LeMans aus Kunststoff</li><li>klassisches Design mit weißer Oberfläche</li><li>passt sich jedem Wohnbereich an</li><li>ideal für Unterputz-Steckdosen, -Schalter und -Dimmer</li><li>waagerechte oder senkrechte Montagen möglich</li></ul>"
+}

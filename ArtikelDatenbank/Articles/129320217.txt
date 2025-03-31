@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>selbststützendes Wachstum</li><li>vielseitige Verwendung</li><li>hohe Resistenz</li><li>anpassungsfähiger Standort</li><li>Bodenverbesserung<br/></li></ul>"
+}

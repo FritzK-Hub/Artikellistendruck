@@ -1,0 +1,4 @@
+{
+    "uvp": 4.9,
+    "attributes": "<ul><li>zuverlässiger Halt in schwierigen Untergründen</li><li>einfache Anwendung und schnelle Montage</li><li>Haken zum einfachen Aufhängen von Leuchten und anderen Gegenständen</li><li>für eine Vielzahl von Hohlräumen geeignet</li><li>robuste Konstruktion für eine lange Lebensdauer<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>lautstarker Panikalarm für den Schlüsselbund</li><li>zum Schutz vor Angreifern oder Einbrecher</li><li>einfache Handhabung, mit Schlüsselring<br/></li><li>ideal als Schutz für Jogger, Ältere oder Frauen alleine auf dem Heimweg</li><li>inklusive 3 x AG 13 Knopfzellenbatterien<br/></li></ul>"
+}

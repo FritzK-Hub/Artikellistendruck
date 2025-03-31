@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>ideal für alle Schraubarbeiten rund um das Auto, Motorrad, Fahrrad und im Haushalt</li><li>Steckschlüsselsatz 46-teilig langlebig und robust</li><li>aus stabilem Chrom-Vanadium Stahl gefertigt</li><li>mit verschiedenen Größen und Steckkombinationen</li><li>inklusive robustem Aufbewahrungskoffer<br/></li></ul>"
+}

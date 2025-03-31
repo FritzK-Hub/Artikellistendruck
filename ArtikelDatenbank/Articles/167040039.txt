@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Abdeckpapier auf Rolle</li><li>saugfähig, rutschfest und individuell zuschneidbar</li><li>aus 100% Altpapier hergestellt</li><li>wirksamer Schutz gegen Farbe, Staub, Schmutz</li><li>für glatte und leicht raue Flächen im Innenbereich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>Abdichtung für verschiedenste Wasser-Verschraubungen</li><li>Dichtungssortiment mit vielen verschiedenen Größen</li><li>hochwertiges Material für eine lange Lebensdauer</li><li>auch geeignet für viele Sanitär-Verschraubungen</li><li>aus Faser und Gummi-Material</li></ul><p></p>"
+}

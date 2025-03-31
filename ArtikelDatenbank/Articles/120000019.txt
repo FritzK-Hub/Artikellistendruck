@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>20 Liter Bio-Tomaten- und Gemüseerde</li><li>für Gemüsepflanzen in Kübeln oder in Beeten</li><li>torfreduziert, nährstoffreich und vegan</li><li>Pflanzenerde aus einem hohen Anteil nachwachsender Rohstoffe</li><li>für ein verantwortungsvolles Gärtnern</li></ul>"
+}

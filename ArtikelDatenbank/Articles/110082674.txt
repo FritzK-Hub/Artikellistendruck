@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>kreativer Malplatz für die Kinder</li><li>ermöglicht den Jugendlichen kurze immer schnell sichtbare Infos</li><li>Folie ist selbstklebend und mit feuchtem Tuch abwischbar</li><li>Schonend für Möbel im Kinderzimmer, rückstandsfrei entfernbar</li><li>inklusive 5x Kreide (2x weiß und je 1x gelb, rot und blau)</li></ul>"
+}

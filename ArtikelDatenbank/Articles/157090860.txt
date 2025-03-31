@@ -1,0 +1,4 @@
+{
+    "uvp": 6.43,
+    "attributes": "<ul><li>Spezialkleber für Kunststoff-Dachrinnen</li><li>mit Lösungsmitteln</li><li>optimal für Kaltverschweißung geeignet</li><li>verklebt Rinnen, Schalen und Stutzen</li><li>sorgt für eine starke Kunststoffverbindung</li></ul>"
+}

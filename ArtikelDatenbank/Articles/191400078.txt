@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>praktisches Megafon, batteriebetrieben mit Sirenenfunktion</li><li>aus stabilem, rotem Kunststoff gefertigt</li><li>verschafft dir auch in großen Massen schnell Gehör</li><li>ideal für Veranstaltungen, Fußballspiele oder andere Events</li><li>mit praktischem Tragegurt versehen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Fliesenmeißel aus Stahl</li><li>zur Verwendung mit dem Hammer</li><li>Handmeißel schwarz lackiert</li><li>zum Bearbeiten von empfindlichen Stellen</li><li>Handwerkzeug zum Entfernen von Bodenfliesen</li></ul>"
+}

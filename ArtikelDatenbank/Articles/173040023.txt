@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>verschiedene Größen für vielfältige Anwendungen</li><li>extra lange Stirnlochform für schwer zugängliche Schrauben</li><li>hochwertiger Chrom-Vanadium-Stahl für lange Lebensdauer und Zuverlässigkeit</li><li>verchromte Oberfläche zum Schutz vor Korrosion und Verschleiß</li><li>patentierter Griff für höhere Drehmomentübertragung<br/></li></ul>"
+}

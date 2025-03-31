@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>mit auswaschbarer Filterpatrone</li><li>für die effektive Reinigung von Wasser</li><li>einfache Installation</li><li>vielseitige Anwendung</li><li>für eine lange Lebensdauer<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>60 Liter Pinienrinde im Sack</li><li>Pinienstücke von 20 bis 40 mm</li><li>Piniendekor schützt vor Kälte und Frost</li><li>für Gärten, Gehwegen und Teichanlagen</li><li>dekoratives Abdeckmaterial für Pflanzen</li></ul>"
+}

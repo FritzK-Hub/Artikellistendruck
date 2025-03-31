@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>perfekte Pflege deiner Orchideen</li><li>führen fehlende Feuchtigkeit zu</li><li>hinterlässt keine Kalkflecken</li><li>die Blätter erhalten einen seidigen Glanz</li><li>Staubablagerungen werden verhindert<br/></li></ul>"
+}

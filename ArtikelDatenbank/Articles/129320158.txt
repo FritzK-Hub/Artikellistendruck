@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>einzigartiger Geschmack</li><li>reichhaltige Ernte</li><li>pflegeleichter Anbau</li><li>lange Frische</li><li>vielseitige Verwendung<br/></li></ul>"
+}

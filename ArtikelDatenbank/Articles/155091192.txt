@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Glasbruchmelder zur Absicherung von Fenstern</li><li>extrem lautes Alarmsignal von ca. 90 dB</li><li>mit Ein- und Ausschalter, inklusive Knopfzellen</li><li>reagiert auf Glasbruch und Erschütterungen</li><li>einfache Montage mit Selbstklebefolie</li></ul>"
+}

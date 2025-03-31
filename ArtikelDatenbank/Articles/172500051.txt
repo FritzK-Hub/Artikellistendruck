@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Auflegewerkzeug für die Kabelinstallation</li><li>zum Abschneiden von Kabelenden</li><li>für Anschluss von Twisted-Pair-Kabel an Klemmleisten</li><li>ideal für Kabelanschluss in CAT 5-Modular-Anschlussdosen</li><li>mit praktischem Transportköcher</li></ul>"
+}

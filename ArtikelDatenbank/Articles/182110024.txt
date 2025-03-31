@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Fahrradlift für sämtliche Fahrräder</li><li>Tragkraft von ca. 20 kg</li><li>Befestigung an der Decke in max. ca. 4 m Höhe</li><li>aus pulverbeschichtetem Stahl gefertigt</li><li>besonders langlebig<br/></li></ul>"
+}

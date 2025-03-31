@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Treppen-Abschluss-Profil aus eloxiertem Aluminium</li><li>sauberer, dauerhafter und trittfester Abschluss</li><li>edle Optik durch Zierrillen</li><li>geben sicheren Halt auf der Treppe</li><li>Abschluss-Profil mit Lochungen</li></ul>"
+}

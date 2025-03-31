@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>sichere und stabile Verbindung</li><li>speziell für Armaturen</li><li>einfache Installation</li><li>präzise Konstruktion</li><li>im praktischen 2er-Set in Weiß<br/></li></ul>"
+}

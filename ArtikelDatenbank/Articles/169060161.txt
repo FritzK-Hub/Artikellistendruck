@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Pattex® \"Kleben statt Bohren\" Klebestreifen 10 Strips</li><li>2 kg sofortige Klebekraft zeichnen die Strips aus</li><li>für innen und außen dank UV- und Witterungsbestädigkeit</li><li>geeignet für Metall, Kunststoff oder Badutensilien</li><li>ablösbar durch kurze und schwungvolle Bewegung<br/></li></ul>"
+}

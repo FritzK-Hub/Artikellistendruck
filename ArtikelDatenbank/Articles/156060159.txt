@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>handliches Werkzeug für Renovierungsarbeiten</li><li>ideal für Trockenbauarbeiten geeignet</li><li>leicht gewölbtes Blatt</li><li>schneller und einfacher Blattwechsel</li><li>Ersatzblatt auch in unserem Shop erhältlich<br/></li></ul>"
+}

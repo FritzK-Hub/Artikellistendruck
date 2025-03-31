@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>robustes Stahlblech</li><li>cadmium- und bleifrei</li><li>lebendige Farbgebung</li><li>komfortabler Holzstiel</li><li>einfache Handhabung</li></ul>"
+}

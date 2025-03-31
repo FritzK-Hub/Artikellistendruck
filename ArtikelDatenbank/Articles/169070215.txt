@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>2 Stück Sicherheitstürzylinder im Set</li><li>beidseitig abschließbar</li><li>mit 5 Schlüsseln je Zylinder</li><li>Schließzylinder sind gleichschließend</li><li>ideal für Eingangstüren oder Wohnungstüren geeignet</li></ul>"
+}

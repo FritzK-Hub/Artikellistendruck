@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Vielfalt ohne Kopfbildung</li><li>ganzjähriger Anbau</li><li>mit hohen Vitamingehalt</li><li>anbausichere Pflegeanleitung</li><li>lange Kultivierbarkeit<br/><br/></li></ul>"
+}

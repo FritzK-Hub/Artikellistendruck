@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>APA-Batterie-Trainer mit 12 V und Abschaltautomatik</li><li>ideal für Fahrzeuge, die längere Zeit nicht bewegt werden</li><li>geeignet für AGM-, Gel-, Nass- und wartungsfreie Blei-Säure-Batterien</li><li>zum Erhalt der Batteriespannung während der Überwinterung<br/></li><li>wird mit vollisolierten Polzangen geliefert</li></ul>"
+}

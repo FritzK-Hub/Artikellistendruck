@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>universal Bolzenanker</li><li>für die Verankerung von Zaun-Fußplatten</li><li>aus galvanisch verzinktem Metall</li><li>zum Verankern auf Betonfundament</li><li>4 Bolzenanker sind notwendig pro Zaun-Fußplatte</li></ul>"
+}

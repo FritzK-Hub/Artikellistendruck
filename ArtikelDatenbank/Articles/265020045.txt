@@ -1,0 +1,4 @@
+{
+    "uvp": 22.99,
+    "attributes": "<ul><li>hochwertige Sicherheit</li><li>vielseitige Anwendung</li><li>wetterbeständige Langlebigkeit</li><li>stabile Konstruktion</li><li>einfache Installation<br/></li></ul>"
+}

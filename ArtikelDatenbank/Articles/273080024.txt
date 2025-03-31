@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>drei hochwertige Schraubendreher im Set</li><li> aus Chrom-Vanadium-Stahl gefertigt </li><li>Schrauben lassen sich schnell und einfach lösen/eindrehen</li><li>Schraubkopf magnetisch, erleichtert das Einsetzen von Schrauben</li><li>Griff rutschfest gummiert, sorgt für eine gute Handhabung</li></ul>"
+}

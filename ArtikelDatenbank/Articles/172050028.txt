@@ -1,0 +1,4 @@
+{
+    "uvp": 8.39,
+    "attributes": "<ul><li>Steckdosenleiste mit 3 Meter Kabellänge</li><li>Steckdose für den Innenbereich</li><li>Mehrfachsteckdose mit integrierter Kindersicherung</li><li>Stecker im 45° Winkel angeordnet</li><li>3-fach Steckdosenleiste mit beleuchtetem Ein- / Ausschalter</li></ul>"
+}

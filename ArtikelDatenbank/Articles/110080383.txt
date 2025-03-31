@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Kleiderbügel mit Steg</li><li>robuste Qualität</li><li>ideal zum Aufhängen von Hosen und Jacken</li><li>aus Holz gefertigt</li><li>praktische Konstruktion</li></ul><p><br/></p>"
+}

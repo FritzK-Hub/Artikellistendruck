@@ -1,0 +1,4 @@
+{
+    "uvp": 89.9,
+    "attributes": "<ul><li>Schiebeschild läßt sich seitlich verstellen</li><li>langlebiges, verzinktes Metall-Schild mit verstärkter Kante </li><li>stabiler Metall-Handgriff zur einfachen Führung des Schneeschiebers<br/></li><li>große Räumbreite für eine schnelle Schnee-Räumung</li><li>luftgefüllte Reifen für eine kraftarme Führung des Schiebers</li></ul>"
+}

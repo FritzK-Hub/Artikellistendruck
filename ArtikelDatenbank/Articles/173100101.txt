@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>LED Stab mit R7s Fassung</li><li>mit guter Rundum-Lichtausstrahlung</li><li>warmweißes und angenehmes Licht</li><li>geringer Energieverbrauch und Wärmeentwicklung</li><li>für nicht-mittige Sockel</li></ul>"
+}

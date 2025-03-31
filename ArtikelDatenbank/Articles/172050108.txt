@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>Steckdosenverteiler mit 4 Schutzkontaktsteckdosen</li><li>besitzt eine unauffälligen Steinoptik</li><li>besonders einfache und kundenfreundliche Installation</li><li>verfügt über ein witterungsbeständiges Gehäuse aus Kunstharz</li><li>ist besonders robust und witterungsbeständig<br/></li></ul>"
+}

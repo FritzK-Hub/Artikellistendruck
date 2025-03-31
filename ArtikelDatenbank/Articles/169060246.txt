@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Schraubensicherung flüssig 5 g/ml mittelfest</li><li>verhindert selbstständiges Lösen durch Vibrations- oder Stoßbelastungen</li><li>zusätzliche Funktion als Korrosionsschutz</li><li>schützt vor festrosten von Schrauben und erleichtert die Demontage</li><li>Schraubleistung wird verstärkt, sicherer und fester Halt trotz geringerem Anzug<br/></li></ul>"
+}

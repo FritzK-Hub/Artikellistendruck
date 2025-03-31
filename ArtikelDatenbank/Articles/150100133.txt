@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Ersatz-Wischerblatt für Fahrzeugfront</li><li>einfache Montage Click &amp; Go</li><li>passgenaue Kunststoff-Adapter</li><li>aerodynamisch konstruiert</li><li>aus korrosionsgeschützem Metall</li></ul>"
+}

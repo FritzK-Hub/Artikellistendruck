@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>zeitloses Design mit gerippter Oberfläche</li><li>widerstandsfähig gegen Witterungseinflüsse</li><li>herausnehmbarer Einsatz für einfaches Umtopfen</li><li>vielseitig für drinnen und draußen geeignet</li><li>langlebig durch hochwertigen Kunststoff</li></ul>"
+}

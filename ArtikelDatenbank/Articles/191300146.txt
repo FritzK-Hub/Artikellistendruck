@@ -1,0 +1,4 @@
+{
+    "uvp": 39.99,
+    "attributes": "<ul><li>leicht und robust dank Aluminium</li><li>schmutz- und wasserabweisend beschichteter Bezug</li><li>hohe Belastbarkeit bis 120 kg</li><li>praktisch klappbar für einfachen Transport</li><li>elegantes Design in Silber und Anthrazit</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> ertragreiche Möhre </li><li> lange, rote Karotten mit gleichfarbige </li><li> bis März eine Winterlagerung möglich </li><li> mit Kalk außreichend versorgen </li><li> für Herbst und Winterbedarf </li></ul> </div>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>organisch-mineralischer Volldünger</li><li>zur Stärkung der Gräser im Spätsommer und Herbst</li><li>spezielle Nährstoffformulierung mit Langzeitwirkung</li><li>anhaltende Versorgung der Gräser</li><li>stärkt die Widerstandskraft des Rasens<br/></li></ul>"
+}

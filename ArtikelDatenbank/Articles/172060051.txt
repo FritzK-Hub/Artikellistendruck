@@ -1,0 +1,4 @@
+{
+    "uvp": 4.19,
+    "attributes": "<ul><li>Aderendhülsen Sortiment isoliert 100 Stück</li><li>aus verzinntem Metall mit Kunststoffkragen gefertigt</li><li>geeignet für Kabelquerschnitte von 2,5 mm²</li><li>einfache Befestigung durch Crimpzange</li><li>schützt zuverlässig die Enden von Litzenleitungen<br/></li></ul>"
+}

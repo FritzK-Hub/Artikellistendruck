@@ -1,0 +1,4 @@
+{
+    "uvp": 140.95,
+    "attributes": "<ul><li>rechteckiger Gartentisch</li><li>einfach zusammenklappbar</li><li>Akazienholz, geölt</li><li>geschwungenes Gestell</li><li>witterungsbeständig und robust</li></ul>"
+}

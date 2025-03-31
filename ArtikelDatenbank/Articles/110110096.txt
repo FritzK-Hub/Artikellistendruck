@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Heizkörperbürste mit Kunststoffborsten</li><li>zur lackschonenden Reinigung von Heizkörpern</li><li>auch an schwer zugänglichen Stellen einsetzbar</li><li>Materiel Stab: Draht</li><li>mit Kunststoffgriff</li></ul>"
+}

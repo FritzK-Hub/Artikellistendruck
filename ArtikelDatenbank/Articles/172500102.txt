@@ -1,0 +1,4 @@
+{
+    "uvp": 26.99,
+    "attributes": "<ul><li>extrem flaches Profil für eine moderne und platzsparende Wohnraumgestaltung</li><li>geprüfte Sicherheit durch anspruchsvolle Belastungs-, Stabilitäts- und Funktionstests</li><li>dezente Aufhängung lässt die Halterung unauffällig hinter dem Fernseher verschwinden</li><li>unterstützt alle VESA 200-Standards für eine optimale Platzierung des Flachbildschirms</li><li>Diebstahlschutz-Vorrichtung für die sichere Aufbewahrung deines Fernsehers<br/></li></ul>"
+}

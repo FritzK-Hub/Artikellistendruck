@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>perfektes Strahlbild dank Marken-Mischdüse</li><li>einfache Installation mit flexiblen Anschlussschläuchen</li><li>mühelose Temperatur-Justierung bietet Komfort</li><li>zeitlos-elegantes Design für jedes Badezimmer</li></ul>"
+}

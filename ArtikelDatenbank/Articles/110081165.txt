@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Autoschwamm rechteckig in gelb</li><li>aus feinporigem Schaumstoff</li><li>Universal-Schwamm für den Haushalt, Auto oder Campingbereich</li><li>ist besonders saugfähig und handlich</li><li>sorgt für optimale Reinigungsergebnisse<br/></li></ul>"
+}

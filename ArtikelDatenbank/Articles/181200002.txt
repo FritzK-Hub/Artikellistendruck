@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Saatgut für den Sport- und Spielrasen</li><li>reicht für ca. 40m²</li><li>sorgt für anpassungsfähigen Allroundrasen</li><li>Mischung für robusten, widerstandsfähigen und regenerationsfähigen Rasen zusammengesetzt</li><li>eignet sich auch zur Nachbesserung bzw. Übersaat für ausbesserungsbedürftigen Rasenflächen</li></ul>"
+}

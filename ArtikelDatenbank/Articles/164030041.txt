@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>Verschlusskarabiner 10 x 50 mm</li><li>aus hochwertigem Aluminium</li><li>rostfrei</li><li>für Seile bis 10 mm Durchmesser</li><li>birnenförmig (C-Form)</li></ul>"
+}

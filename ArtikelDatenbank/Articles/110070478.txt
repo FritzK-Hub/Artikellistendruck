@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>praktische Brikettzange mit Gelenk</li><li>besonders langlebig</li><li>zum Bewegen von Brennholz</li><li>besonders leichte Handhabung</li><li>für mehr Sicherheit beim Anzünden<br/></li></ul>"
+}

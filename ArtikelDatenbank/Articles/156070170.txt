@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Farbroller mit Grundierungs-Walze</li><li>geeignet für alle Grundierungen</li><li>sehr hohe Materialaufnahme</li><li>speziell konzipierte Farbwalze</li><li>für große Flächen</li></ul>"
+}

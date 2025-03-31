@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>für die Stromversorgung von Anhängern</li><li>7 Adern</li><li>gummierte Kabel</li><li>ohne Stecker und Buchse</li><li>einfache Installation<br/></li></ul>"
+}

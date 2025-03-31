@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>vielseitiger Bohrersatz mit den gängigsten Größen</li><li>langlebig aus stabilen C45-Stahl gefertigt</li><li>für Holzbohrungen im Haushalt oder Werkstatt</li><li>integrierter Senker für Ebene Verschraubungen</li><li>einfache Aufbewahrung in Kunststoffkassette<br/></li></ul>"
+}

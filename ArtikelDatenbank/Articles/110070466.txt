@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>langanhaltende Brenndauer für längere Nutzung von Fondues und Warmhaltegeräten</li><li>auch im Innenbereich einsetzbar, da es vollständig rußfrei verbrennt</li><li>zähflüssige Konsistenz verhindert Verschütten beim Umkippen des Brenners</li><li>vielseitig auf Veranstaltung oder einfach für eine gemütliche Mahlzeit zu Hause</li><li>einfach in der Handhabung, zum leichten Befüllen von den unterschiedlichsten Brennern</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>flexibel für vielseitige Installationen</li><li>Brandschutzklasse B2 bietet Sicherheit</li><li>einfache Steckverbindung spart Zeit bei Montage<br/></li><li>hitzebeständig bis 90 °C für heiße Abwässer geeignet</li><li>langlebig und korrosionsbeständig dank hochwertigem PP-Material </li></ul><p></p>"
+}

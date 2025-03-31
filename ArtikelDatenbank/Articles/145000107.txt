@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>extrem widerstandsfähig und langlebig</li><li>hält extremen Temperaturen stand</li><li>einfache und sichere Montage</li><li>schützt vor UV-Strahlen</li><li>hohe Lichtdurchlässigkeit</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>komfortable Scheuerbürste in S-Form</li><li>stabile Borsten aus Polypropylen</li><li>Rücken aus hochwertigem Holz</li><li>beständig gegenüber Alkohol, Säuren, Lösungsmitteln und Fetten</li><li>vielseitig einsetzbar in Küchen, Werkstätten, Büros<br/></li></ul>"
+}

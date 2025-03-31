@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Messer zur Gartenarbeit oder Fischen</li><li>Klinge aus Edelstahl</li><li>gummierter Griff</li><li>geringes Gewicht</li><li>Plastikscheide mit Gürtelclip</li></ul>"
+}

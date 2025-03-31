@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>besonders strapazierfähig</li><li>ergonomischer Handgriff</li><li>liegt optimal in der Hand</li><li>aus qualitativ hochwertigem Stahl</li><li>besonders lange Lebensdauer</li></ul>"
+}

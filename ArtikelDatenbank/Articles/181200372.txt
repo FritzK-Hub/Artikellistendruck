@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Spinat Industra</li><li>ist gesund und schmeckt gut</li><li>große, langgestielte Blätter</li><li>Probefeldgetestete Qualität</li><li>für Herbstanbau besonders zu empfehlen<br/></li></ul>"
+}

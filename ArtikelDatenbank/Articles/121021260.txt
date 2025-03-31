@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Washi Tape in verschiedenen Ausführungen</li><li>Set mit 3 Dekorationsbändern</li><li>Dekoband für DIY-Arbeiten und Scrapbooking</li><li>klebt auf fast allen Materialien</li><li>beliebig zuschneidbar</li></ul>"
+}

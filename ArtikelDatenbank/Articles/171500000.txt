@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>deckt dauerhaft Flecken ab</li><li>beugt Neuverschmutzung vor</li><li>sprühbar - leicht aufzutragen, weiß matt schnelltrocknend</li><li>für Holz, Hartfaserplatten und mineralische Untergründe</li><li>für Trockenbauplatten und Dispersionsbeschichtete Untergründe<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>zuverlässiges Werkzeug für jeden Profi- oder Hobbyhandwerker</li><li>bieten eine erstklassige Schnittergebnisse und schneiden sauber und präzise</li><li>besonders langlebig durch niedrige, thermische Belastung des zu schneidenden Materials</li><li>vielseitig für verschiedene Natursteine, Beton, Fliesen oder Ziegel einsetzbar</li><li>lassen sich schnell und problemlos an Maxx-Saw-Sägen montieren<br/></li></ul>"
+}

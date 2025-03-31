@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Universalgröße passt in die meisten Fahrzeuge</li><li>individuell zuschneidbar für perfekte Passform</li><li>robustes, langlebiges Material bietet dauerhaften Schutz</li><li>wasserabweisend zum optimalen Feuchtigkeitsschutz</li><li>rutschfeste Oberfläche für mehr Sicherheit</li></ul>"
+}

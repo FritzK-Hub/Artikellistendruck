@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Tischdeckenklammern mit dekorativen Obstdesign</li><li>Im Set befinden sich vier Tischbeschwerer</li><li>unerlässlich an windigen Tagen</li><li>lassen sich leicht am Tischtuch befestigen</li><li>die Tischdecke liegt stets sauber und ordentlich<br/></li></ul>"
+}

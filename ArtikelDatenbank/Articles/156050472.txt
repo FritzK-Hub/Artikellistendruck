@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>dekorativer 3D Schmetterling für Wand und Decke<br/></li><li>ermöglicht Dreidimensionalität in Wohnräumen</li><li>hergestellt aus hochwertigem Polystyrol</li><li>besonders einfache Montage</li><li>überstreichbar, dank hochqualitativer Grundierung<br/><br/></li></ul>"
+}

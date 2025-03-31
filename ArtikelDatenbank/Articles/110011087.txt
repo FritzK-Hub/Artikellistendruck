@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>verbindet problemlos Schläuche und Rohre mit Flachkanalstücken</li><li>nützlich bei Lüftungs- und Abgasanlagen</li><li>aus robustem Kunststoff</li><li>einfache Montage</li><li>für Rohranschluss Ø 99,5 mm </li></ul>"
+}

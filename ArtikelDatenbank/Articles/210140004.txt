@@ -1,0 +1,4 @@
+{
+    "uvp": 5.0,
+    "attributes": "<ul><li>Oakwood Zielscheiben mit 5er Ringmotiv</li><li>50 Stück im Set</li><li>je 5 Zielscheiben mit mit 5er Ringmotiv</li><li>aus Spezialscheiben-Karton für Training und Wettkampf</li><li>geeignet für Luftgewehre</li></ul>"
+}

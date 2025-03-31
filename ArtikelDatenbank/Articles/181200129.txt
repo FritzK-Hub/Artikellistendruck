@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Chinakohl Granaat für ca. 8-10 laufende Meter</li><li>mit festem Kopf und kurzer Entwicklungszeit</li><li>als Zweit- oder Nachfrucht sehr gut geeignet</li><li>mit antibakterieller und gesundheitsfördernder Wirkung</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

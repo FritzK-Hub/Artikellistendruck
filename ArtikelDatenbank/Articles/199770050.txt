@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>dienen zur Befestigung von Einlege- und Regalböden</li><li>besonders belastbar, aus Metall vernickelt </li><li>für Bücherregalen, Schränken oder anderen Möbelstücken einsetzbar</li><li>garantieren eine dauerhafte und zuverlässige Unterstützung</li><li>zum Einstecken in Bohrungen mit einem Durchmesser von 5 mm<br/></li></ul>"
+}

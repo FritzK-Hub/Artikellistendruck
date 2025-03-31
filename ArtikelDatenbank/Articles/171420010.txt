@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>Zahnkelle 28 x 13 cm von Normex</li><li>Putz lässt sich glatt oder mit Zahnung abziehen</li><li>ist je nach Bedarf vielseitig einsetzbar</li><li>dank gezahnter Seite sind Muster an der Wand möglich</li><li>stabiler Holzheft sorgt für sicheren Halt<br/></li></ul>"
+}

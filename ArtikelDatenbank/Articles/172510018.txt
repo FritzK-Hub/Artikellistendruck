@@ -1,0 +1,4 @@
+{
+    "uvp": 14.29,
+    "attributes": "<ul><li>CAT5e Netzwerkadapter Cross-Over</li><li>zum Verbinden von zwei 1:1 belegten Netzwerkkabel zum Cross-Over-Kabel</li><li>zusätzlich abgeschirmt für weniger Störeinflüsse</li><li>geeignet für Gigabit-Ethernet (10/100/1000 Mbit/s)</li><li>hochwertige Materialien für eine exzellente Übertragungsqualität</li></ul>"
+}

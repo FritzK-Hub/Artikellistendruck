@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>zum Aufhängen von Scheibengardinen oder Kurzgardinen</li><li>besonders langlebig und stabil, aus Edelstahl gefertigt</li><li>individuell einstellbar von 100-130 cm, an die Fenstergröße anpassbar</li><li>einfache Montage durch Festklemmen im Fensterrahmen</li><li>modernes und zeitloses Design, vielseitig in jeder Raumgestaltung</li></ul>"
+}

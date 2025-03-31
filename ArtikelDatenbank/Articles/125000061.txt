@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>fein-gekörnter Rasen- und Gartenkalk im 20 kg Beutel</li><li>für eine nachhaltige Krümelstruktur des Bodens</li><li>im ökologischen Landbau, für Ziergärten oder Rasen einsetzbar</li><li>schnelle Wirkung und optimiert den pH-Wert des Bodens</li><li>lässt sich per Streuwagen auf bis zu ca. 400 m² ausbringen<br/></li></ul>"
+}

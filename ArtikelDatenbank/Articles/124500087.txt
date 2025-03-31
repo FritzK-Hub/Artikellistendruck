@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>modernes Design für jeden Garten</li><li>robuster, UV- und witterungsbeständiger Kunststoff</li><li>frostsicher für ganzjährige Nutzung</li><li>einfache Installation durch Anschluss-Set</li><li>praktischer, abnehmbarer und windfester Deckel</li></ul>"
+}

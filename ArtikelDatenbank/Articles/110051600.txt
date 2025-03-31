@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Sparsame Einmachgläser 7 Stück</li><li>schönes Geschenk für Freunde und Verwandte</li><li>eignet sich gut für Marmeladen, Kompost oder Konfitüre</li><li>leichte Reinigung auch durch die Spülmaschine</li><li>Deckel im Obstmotiv ist mit in der Lieferung</li></ul>"
+}

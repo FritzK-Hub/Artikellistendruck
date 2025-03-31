@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>praktisches Kombigerät für die Grabpflege</li><li>aus hochwertigem, langlebigem und rostgeschütztem Stahl</li><li>für alle Bodenarten geeignet</li><li>für schnelles und effizientes Arbeiten </li><li>besonders handlich und leicht <br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 43.0,
+    "attributes": "<ul><li>Zaun-Sichtschutz zum Einflechten</li><li>mit 80 % Schattierung</li><li>zum Nachrüsten für alle Doppelstabgittermatten</li><li>aus reißfestem und umweltfreundlichem Kunststoff</li><li>schimmelresistent und formstabil</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Türdrücker für Eleganz an jeder Zimmertür</li><li>modernes Design mit Charakter, bereichert jeden Raum </li><li>aus gebürstetem Edelstahl</li><li>inklusive Befestigungsmaterial</li></ul>"
+}

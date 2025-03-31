@@ -1,0 +1,4 @@
+{
+    "uvp": 29.09,
+    "attributes": "<ul><li>Wischerblatt Unitec Multi 550/550 mm</li><li>passend für fast alle gängigen Fahrzeugmodelle</li><li>optimale Wischqualität für die Fahrzeugfront</li><li>bessere Aerodynamik mit 4in1 Multiadapter</li><li>kein zusätzlicher Adapterwechsel mehr nötig<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 235.95,
+    "attributes": "<ul><li>eleganter Pavillon 3 x 2,5 m</li><li>ideal als Terrassenanbau</li><li>Dachbespannung in der Farbe ecru</li><li>witterungsbeständige Konstruktion</li><li>stabiles pulverbeschichtetes Stahlgestell <br/></li></ul>"
+}

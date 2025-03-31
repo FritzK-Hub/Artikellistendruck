@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>Wechselschaltung in weiß</li><li>aus robustem Kunststoff hergestellt</li><li>für die Aufputz Montage</li><li>zum Unterbrechen von Stromkreisen</li><li>Schraubklemmen sind mit inklusive</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>für alle Oberflächen in Bad und Küche</li><li>reinigt mühelos und hinterlässt keine Kratzer</li><li>entfernt angebrannte Essensreste und Kalkrückstände</li><li>für Emaille, Keramik, Edelstahl, etc.</li><li>mit frischem Zitrusduft<br/></li></ul><p></p>"
+}

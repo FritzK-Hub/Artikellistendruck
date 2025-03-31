@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Bastelmesser mit Schutzkappe</li><li>austauschbare, scharfe Klinge</li><li>inkl. 3 Ersatzklingen in der Kunststoffbox</li><li>farblich sortiert, rot oder schwarz</li><li>Skalpell für filigrane Schneide- und Bastelarbeiten<br/></li></ul>"
+}

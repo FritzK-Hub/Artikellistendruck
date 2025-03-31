@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Schlafsack im frischen Blau - unisex tauglich</li><li>Komforttemperatur 5-10 °C für optimale Nachtruhe</li><li>leichtes 190T Polyester schafft Atmungsaktivität</li><li>effiziente Polyesterfüllung zur Wärmeisolierung</li><li>praktischer 2-Wege-Zipper bietet bequeme Nutzung</li></ul>"
+}

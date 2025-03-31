@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Flaschensiphon aus Metall verchromt</li><li>mit starrem Abgangsrohr</li><li>geeignet für Waschtisch</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0.59,
+    "attributes": "<ul><li>Saatgut Koriander Thüringer für ca. 80 Pflanzen</li><li>Gewürz mit süßlichem, anisähnlichem Aroma</li><li>wesentlicher Bestandteil des Currys</li><li>wirkt gegen Blähungen oder Appetitlosigkeit</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

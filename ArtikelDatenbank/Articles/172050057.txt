@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "                    EIN- / AUS-Schalten von Endgeräten direkt an der Steckdose/nBesonders geeignet für Endgeräte ohne eigenen Schalter/nbeleuchteter EIN- / AUS-Schalter/n/nMax. Anschlussleistung: 3500 W/nNennspannung: 230 V~, 50 Hz/nSchutzart: IP44 (spritzwassergeschützt)\"\"/n                "
+}

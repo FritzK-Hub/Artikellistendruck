@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatgut Cocktailtomate Balkonzauber. 2 Meter Saatband</li><li>pflegeleicht, mit kleinen, runden Früchten</li><li>ertragreiche Tomatensorte mit roten Früchten</li><li>robuste Buschtomate, sehr platzfest</li><li>ideal für den Frischverzehr oder zur Garnierung geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 129.0,
+    "attributes": "<ul><li>automatische Schlauchbox im Set</li><li>mit 20 m Gartenschlauch</li><li>inklusive zahlreichem Zubehör</li><li>robuste Wandhalterung ist um 180° drehbar</li><li>beständig gegen UV-Strahlung</li></ul>"
+}

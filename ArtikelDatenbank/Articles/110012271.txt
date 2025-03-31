@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>hochwertiger Kugelhahn aus Pressmessing</li><li>vielseitig einsetzbar in Industrie, Haushalt und Landwirtschaft</li><li>robuster Metall-Absperrhebel mit Kunststoffbeschichtung</li><li>ergonomisches Design für komfortable Handhabung</li><li>1'' Innengewinde für einfache Installation</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Laubrechen mit 21 Zinken</li><li>mit einer Arbeitsbreite von ca. 37 cm</li><li>in der Farbe rot </li><li>aus Kunststoff</li><li>ohne Stiel<br/></li></ul>"
+}

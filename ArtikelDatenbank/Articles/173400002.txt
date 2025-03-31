@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>GERMANIA® LED Taschenlampe batteriebetrieben</li><li>kleine und handliche Lampe mit einem LED (120 bis 180 Lumen)</li><li>mit Zoomfunktion und drei verschiedenen Leuchtstufen</li><li>mit einem robusten und soliden Gehäuse versehen</li><li>dank Handschlaufe ideal für den Außenbereich geeignet</li></ul>"
+}

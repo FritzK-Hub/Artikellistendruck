@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Schnellspannbohrfutter 1,5 - 13 mm aus Kunststoff</li><li>dient zur Kraftübertragung von der Bohrmaschine</li><li>Bits und Bohrer können schnell und sicher eingespannt werden</li><li>passend für Rechts- und Linkslauf</li><li>geeignet für Bohrmaschinen oder Akkuschrauber<br/></li></ul>"
+}

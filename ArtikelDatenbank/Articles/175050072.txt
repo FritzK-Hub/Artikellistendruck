@@ -1,0 +1,4 @@
+{
+    "uvp": 6.95,
+    "attributes": "<ul><li>handliche Druckluft-Schlauchkupplung von Güde</li><li>Einhand-Schnellkupplung mit Schlauchtülle</li><li>aus massivem Messing gefertigt</li><li>verfügt über einen Tüllendurchmesser von 6 mm</li><li>besitzt eine Kupplung von 3/8“<br/></li></ul>"
+}

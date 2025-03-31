@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Planenösen aus hochwertigem Kunststoffmaterial</li><li>ideal zum Anfertigen und Reparieren von Abdeckplanen</li><li>2-teilige Planenösen mit Gummiring</li><li>Ersatzösen zur einfachen Verwendung</li><li>Planenösen in Profiqualität von FISHBULL</li></ul>"
+}

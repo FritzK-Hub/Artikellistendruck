@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>Vertikutierer und Rasenlüfter in einem Gerät</li><li>mit einer 4-fachen, zentralen Höhenverstellung</li><li>Lüfterwalze dient zum Lüften und Rechen des Rasens</li><li>Vertikutierwalze mit Klingen entfernt Moos mitsamt den Wurzeln</li><li>für eine stets grüne Rasenfläche<br/></li></ul>"
+}

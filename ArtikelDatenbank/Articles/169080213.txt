@@ -1,0 +1,4 @@
+{
+    "uvp": 11.15,
+    "attributes": "<ul><li>sichere Befestigung von Schläuchen</li><li>mit vielseitigen Größen</li><li>zur zuverlässigen Abdichtung</li><li>besonders rostfrei und langlebig</li><li>in praktischer Universalbox<br/><br/></li></ul>"
+}

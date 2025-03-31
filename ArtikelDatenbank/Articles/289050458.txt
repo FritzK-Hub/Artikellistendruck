@@ -1,0 +1,4 @@
+{
+    "uvp": 15.85,
+    "attributes": "<ul><li>Flachstange aus warmgewalztem Stahl</li><li>Oberfläche durch Spezialbehandlung vom Zunder befreit</li><li>mit handelsüblicher Metallsäge abzulängen</li><li>Materialstärke 4 mm</li><li>Flach-Profil 30 x 4 mm in eisengrau</li></ul>"
+}

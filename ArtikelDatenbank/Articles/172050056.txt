@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Schutzkontakt-Stecker in schwarz</li><li>aus Vollgummi mit PVC-Einsatz</li><li>Schutzart IP 20, nicht wassergeschützt</li><li>zusätzlich mit Knickschutz versehen</li><li>Schutzkontaktstecker mit zentraler Kabeleinführung<br/></li></ul>"
+}

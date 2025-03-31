@@ -1,0 +1,4 @@
+{
+    "uvp": 6.03,
+    "attributes": "<ul><li>flaches Übergangsprofil aus eloxiertem Aluminium</li><li>zum Verbinden zweier gleich- oder verschiedenartiger Bodenbeläge</li><li>unsaubere Schnittkanten der Bodenbeläge werden unauffällig verdeckt</li><li>Breite (a): 3,7 cm, Höhe (b): 0,25 cm</li><li>einfache Montage durch superhaftendes, selbstklebendes Doppelklebeband</li></ul>"
+}

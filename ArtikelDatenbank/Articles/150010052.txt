@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Mikrofasertücher Set 8-teilig</li><li>in der Küche, Bad oder Auto einsetzbar</li><li>für die Trocken- und Nassreinigung geeignet</li><li>gründliche Reinigung bei starker Verschmutzung</li><li>angenehm flauschig und oberflächenschonend<br/></li></ul>"
+}

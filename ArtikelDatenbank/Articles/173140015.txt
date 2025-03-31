@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>WLAN-LED-Birne E14 in Kerzenform</li><li>mit App- und Sprachsteuerung</li><li>Nutzung ganz ohne Gateway (Hub)</li><li>Farbtemperatur und Lichteffekte wählbar</li><li>kompatibel mit Smart-Home-Produkten anderer Hersteller</li></ul>"
+}

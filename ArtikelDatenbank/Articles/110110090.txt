@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Universalbürste mit stabilem Holzstiel</li><li>Borsten aus Kunstfibre (Kunstborsten)</li><li>hitzebeständig, säure- und laugenfest</li><li>Rücken und Griff aus Hartholz, unlackiert</li><li>für härtere Beanspruchung</li></ul>"
+}

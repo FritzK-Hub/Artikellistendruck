@@ -1,0 +1,4 @@
+{
+    "uvp": 65.99,
+    "attributes": "<ul><li>seidenglänzender Speziallack für Sichtfußböden, Regale, Gestelle, Wand- oder Deckenverkleidungen</li><li>zur transparenten Versiegelung von normal bis stark strapazierten OSB-Platten</li><li>vielseitig im Innen- und Außenbereich einsetzbar, ist nach 12 Stunden überstreichbar</li><li>besonders füllkräftig als auch beständig gegen Wasser, Öl, Fett, Haushaltsreiniger und Trinkalkohol</li><li>lässt sich auch für Kinderspielzeug universell verwenden</li></ul>"
+}

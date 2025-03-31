@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Reduzier-Doppelnippel aus Messing</li><li>mit 2 Außengewinden 3/4\" und 1/2\"</li><li>für einen effektiven, sicheren und stabilen Durchmesserwechsel von Rohrverbindungen</li></ul>"
+}

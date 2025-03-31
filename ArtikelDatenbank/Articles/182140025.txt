@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>LED-Scheinwerfer mit Überspannungsschutz</li><li>StVZO zugelassen</li><li>inkl. integriertem Frontreflektor</li><li>Ein-/Ausschalter für Nabendynamo</li><li>mit Standlicht und Scheinwerferhalter</li></ul>"
+}

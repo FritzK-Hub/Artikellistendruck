@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>selbsthaftendes Pflaster von Wundmed</li><li>zur Abdeckung von Hautverletzungen</li><li>auch für Pflasterallergiker geeignet</li><li>rutschfest und atmungsaktiv</li><li>hinterlässt keine Rückstände nach dem Entfernen<br/></li></ul>"
+}

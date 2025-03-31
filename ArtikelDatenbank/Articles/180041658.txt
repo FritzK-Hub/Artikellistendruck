@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Heurechen aus Buchenholz mit 16 Zinken</li><li>Werkzeug zum Einebnen und Glätten von Blumen- oder Gemüsebeeten</li><li>hohe Stabilität sowie leichtes Gewicht zeichnet den Rechen aus</li><li>verfügt über eine Arbeitsbreite von ca. 53 cm</li><li>zweigeteilter Stiel für präzise Justierung des Kopfes bei der Gartenarbeit</li></ul>"
+}

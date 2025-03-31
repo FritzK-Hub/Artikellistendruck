@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Farbroller für alle Wand-und Deckenfarben</li><li>sehr hohe Farbaufnahme und gleichmäßige Farbabgabe</li><li>für hohe m²-Leistung</li><li>ergonomischer 2 Komponenten-Griff für  ermüdungsfreies Arbeiten</li></ul>"
+}

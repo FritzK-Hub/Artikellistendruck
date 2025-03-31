@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Flauschiges, rundes Kunstfell Ø 38 cm</li><li>in vier verschiedenen Farben erhältlich</li><li>gut mit anderen Einrichtungsstilen kombinierbar</li><li>auch als Deko-Kissen verwendbar</li><li>vielseitig einsetzbare Innendekoration</li></ul>"
+}

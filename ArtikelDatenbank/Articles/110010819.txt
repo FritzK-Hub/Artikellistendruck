@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>HTB-Abwasserbogen für Verlegung in Gebäuden</li><li>für heiße, kalte und aggressive Abwässer geeignet</li><li>mit Steckmuffe für einfache Verlegung </li><li>integrierte Dichtung</li><li>geprüft nach DIN EN 1451-1 </li></ul>"
+}

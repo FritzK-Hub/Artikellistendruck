@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>100% biologisch abbaubar und umweltfreundlich</li><li>hervorragende Saugkraft und leichte Auswringbarkeit</li><li>vielseitig einsetzbar dank Farbcodierung</li><li>wiederverwendbar und langlebig</li><li>fest im Griff, schonend zu Oberflächen</li></ul>"
+}

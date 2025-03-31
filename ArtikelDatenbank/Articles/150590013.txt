@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>geschmacksneutrales Eiswürfel-Set 7-teilig aus Edelstahl</li><li>verhindert das Verwässern deiner Getränke und hält sie kühl</li><li>eignet sich besonders für Whisky oder Mixgetränke</li><li>sind wiederverwendbar, vorm Einsatz ins Gefrierfach legen</li><li>mitgelieferter Beutel erleichtert die Aufbewahrung<br/></li></ul>"
+}

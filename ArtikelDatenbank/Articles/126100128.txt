@@ -1,0 +1,4 @@
+{
+    "uvp": 119.0,
+    "attributes": "<ul><li>Kraftvoller 1.400 W Motor </li><li>2in1 Messer- und Lüfterwalze </li><li>4-fache Höhenverstellung </li><li>Leichtgängige Räder </li><li>Zusammenklappbarer Führungsholm<br/></li></ul>"
+}

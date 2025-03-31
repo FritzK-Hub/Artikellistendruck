@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Scheibenklar Konzentrat reinigt streifen- und schlierenfrei</li><li>verstärkt aktiv die Wirkung der Scheibenwaschanlage</li><li>löst wirksam Insektenreste und beseitigt Öl- und Fettrückstände</li><li>Reiniger Konzentrat ist für Temperaturen über 5°C geeignet</li><li>sparsamer Verbrauch da Konzentrat, ergibt 11 Liter bei 1:10 Mischungsverhältnis</li></ul>"
+}

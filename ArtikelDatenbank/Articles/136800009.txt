@@ -1,0 +1,4 @@
+{
+    "uvp": 499.0,
+    "attributes": "<ul><li>BOSCH 18V Akku-Werkzeugset mit Tasche für den einfachen Transport</li><li>die kleine Holzbearbeitungs-Set-Lösung für Bastler und Heimwerker</li><li>das BOSCH Einsteigerset mit Exzenterschleifer, Akkuschrauber und Stichsäge</li><li>enthält zwei 2,5-Ah-Akkus und ein Ladegerät, damit du sofort loslegen kannst</li><li>einfaches, problemloses, komfortables und kabelloses Arbeiten dank Akkubetrieb</li></ul>"
+}

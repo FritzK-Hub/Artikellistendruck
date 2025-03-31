@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>beliebteste Kürbissorte</li><li>vielseitige Verwendung</li><li>leichte Pflege</li><li>lange Haltbarkeit</li><li>dekorative Elemente<br/></li></ul>"
+}

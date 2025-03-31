@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>robustes Design</li><li>präzise Bohrungen</li><li>vielseitige Anwendung</li><li>kompakte Abmessungen</li><li>zuverlässige Sicherung</li></ul>"
+}

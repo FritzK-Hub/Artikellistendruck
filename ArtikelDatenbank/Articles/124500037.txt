@@ -1,0 +1,4 @@
+{
+    "uvp": 199.0,
+    "attributes": "<ul><li>Überfüllmelder als Zubehör für Abwassertank</li><li>warnt bei voller Sammelgrube</li><li>Warnsignale optisch und akustisch</li><li>mit EIN / AUS und Test Funktion</li><li>inkl. Befestigungsmaterial für Wandbefestigung</li></ul>"
+}

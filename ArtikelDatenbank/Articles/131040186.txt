@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>anwendungsfertige Lösung zur Beseitigung von Grünbelägen, Algen und Schimmelpilzen</li><li>ideal zum Reinigen aller Außenbereiche wie Treppen, Wege und Terrassen aus Beton oder Naturstein</li><li>entfernt Grünbelag von Fliesen, Stein, Mauerwerk, Putz, Waschbeton, etc.</li><li>nach 24 stündiger Einwirkzeit einfach mit der Bürste entfernen<br/></li><li>auch zur vorbeugenden Behandlung geeignet<br/><br/></li></ul>"
+}

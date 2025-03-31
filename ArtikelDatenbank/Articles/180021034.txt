@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>Auslaufventil aus matt verchromtem Messing</li><li>mit abnehmbarer Schlauchanschluss-Tülle aus Kunststoff für 3/4\" Schlauch</li><li>Spindelventil mit Gummidichtung zur stufenlosen Regulierung der Wassermenge</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>T-Shirt Doppelpack aus 100%iger Baumwolle in Schwarz</li><li>mit einem V-Ausschnitt versehen</li><li>in verschiedenen Größen erhältlich</li><li>sind besonders atmungsaktiv und weich</li><li>besitzen eine angenehme Passform und Tragekomfort<br/></li></ul>"
+}

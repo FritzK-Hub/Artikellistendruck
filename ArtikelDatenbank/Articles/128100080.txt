@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>halbrundes Design für platzsparende und elegante Optik</li><li>vielseitig einsetzbar als dekoratives Möbelstück oder als praktische Ablagefläche</li><li>Tischplatte in Mosaik terracotta für ein stilvolles Design</li><li>Eisengestell für Stabilität und Robustheit</li><li>zeitloses klassisches Design</li></ul><p></p>"
+}

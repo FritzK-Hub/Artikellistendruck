@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Anschluss für Übergang von KG-Rohr auf Steinzeugrohr-Ende</li><li>passgenaue und problemlose Anschlussmöglichkeiten</li><li>vormontierte Lippendichtringe</li><li>zum Verbinden von KG-Kanalrohren und HT-Rohren</li><li>Sicherheit durch Rückstauverschlüsse</li></ul>"
+}

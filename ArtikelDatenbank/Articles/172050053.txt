@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>langlebiges Design bietet zuverlässige Leistung</li><li>belastbar bis 550W schafft Flexibilität</li><li>universelle Anwendung für verschiedene Geräte</li><li>genormte, passgenaue Anschlüsse erlaubt einfache Handhabung</li></ul><p></p>"
+}

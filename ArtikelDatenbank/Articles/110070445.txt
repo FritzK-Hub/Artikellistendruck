@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>schnelle Zündung</li><li>großzügige Menge</li><li>einfache Anwendung</li><li>rückstandslose Verbrennung</li><li>zuverlässige Qualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>50 Abdeckkappen aus Kunststoff in Schwarz</li><li>passend für Kreuzschlitz-Schraubköpfe PZ 2</li><li>einfache Montage, dekorativ</li><li>halten selbstständig</li><li>ideal für den Möbel- und Ladenbau<br/></li></ul>"
+}

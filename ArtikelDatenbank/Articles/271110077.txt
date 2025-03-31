@@ -1,0 +1,4 @@
+{
+    "uvp": 94.99,
+    "attributes": "<ul><li>SDS-Bohrer 1000 mm x 18 mm um Bohren für Rohre und Elektroleitungen in Wände &amp; Decken<br/></li><li>zum Bohren in Mauerwerk, Beton, Dachziegeln und Klinker</li><li>Doppelspirale (zum besseren Abtransport des Bohrmehls)</li><li>mit Zentrierspitze (für leichteres Ansetzen des Bohrers)</li><li>für SDSplus Aufnahme mit 4-fach Schneide</li></ul><p></p>"
+}

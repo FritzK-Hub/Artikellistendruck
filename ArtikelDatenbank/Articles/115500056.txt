@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>zum Befestigen von kleineren Gegenständen oder als Handtuchhalterung</li><li>selbstklebende Rückseite des Hakens mit einer Tragfähigkeit von maximal 5 kg<br/></li><li>besonders robust mit langer Lebendsauer</li><li>kann an Oberflächen wie Fliesen oder Wände ohne Beschädigung angebracht werden</li><li>unauffälliges Design, passt sich nahtlos der Umgebung an<br/></li></ul>"
+}

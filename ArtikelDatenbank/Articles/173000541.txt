@@ -1,0 +1,4 @@
+{
+    "uvp": 59.99,
+    "attributes": "<ul><li>LED-Solarleuchte 80 cm aus Aluminium</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>verfügt über 3 verschiedene Einstellungen und Modi</li><li>mit integriertem Bewegungsmelder<br/></li><li>spritzwassergeschütztes Gehäuse IP44<br/></li></ul>"
+}

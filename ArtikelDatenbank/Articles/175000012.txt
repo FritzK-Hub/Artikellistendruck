@@ -1,0 +1,4 @@
+{
+    "uvp": 1499.0,
+    "attributes": "<ul><li> moderner und sparsamer Kaminofen Candy 4.0</li><li>gusseiserne Struktur komplett aus emailliertem Gusseisen</li><li>ausziehbarer Aschenbehälter, verstellbare Primär- und Sekundärluft</li><li>große Sichtscheibe ist aus hitzebeständigem 750-Grad-Keramikglas</li><li>Scheibenreinigungs und Nachverbrennungssystem</li></ul><p></p>"
+}

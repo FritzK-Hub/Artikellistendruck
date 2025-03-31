@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Wasserball mit 50 cm Durchmesser</li><li>für Kinder ab 2 Jahren geeignet</li><li>aus strapazierfähigem PVC gefertigt</li><li>sorgt für riesigen Badespaß am Meer oder im Schwimmbad</li><li>durch Werfen und Fangen wird Koordination und Gleichgewicht trainiert<br/></li></ul>"
+}

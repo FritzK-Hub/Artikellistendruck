@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>hochwertiges Kiefernholz für langlebige Nutzung</li><li>sofort einsatzbereit, komplett vormontiert für einen schnellen Start</li><li>feste Höhe von 30 cm, stabil und sicher gebaut</li><li>kompaktes, klappbares Design für einfache Aufbewahrung und Transport</li><li>vielseitig einsetzbar zum Malen, Präsentieren oder als Tablet-Halterung</li></ul><p></p>"
+}

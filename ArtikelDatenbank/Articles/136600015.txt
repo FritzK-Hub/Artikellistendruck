@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Steakmesser-Set 4-teilig in schöner Holzbox</li><li>aus Edelstahl, rostfrei, spülmaschinengeeignet</li><li>besonders scharfe Klinge </li><li>aus einem Stück geschmiedet</li><li>ideal als Geschenk geeignet<br/></li></ul>"
+}

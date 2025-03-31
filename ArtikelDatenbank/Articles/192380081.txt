@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Geschenktasche mit Kordel</li><li>mit Glitter-Veredelung</li><li>außen glanz-plastifiziert</li><li>mit Beschriftungskärtchen</li><li>3 weihnachtliche Motive zur Auswahl</li></ul>"
+}

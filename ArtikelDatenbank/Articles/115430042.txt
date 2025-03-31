@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>Lochwand mit unterschiedlichen Werkzeughalterungen</li><li>einfaches Verbinden der Tafeln dank Stecksystem</li><li>sorgt für mehr Ordnung und Übersicht</li><li>vielseitig in der Garage, Werkstatt und im Keller einsetzbar</li><li>habe stets einen schnellen Zugriff auf das Werkzeug</li></ul>"
+}

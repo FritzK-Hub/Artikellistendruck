@@ -1,0 +1,4 @@
+{
+    "uvp": 25.95,
+    "attributes": "<ul><li>Gartenrechen mit Komfort-Holzstiel aus Kiefernholz<br/></li><li>robustes Metall ermöglicht dauerhafte Nutzung</li><li>gehärtete Zinken für maximale Effizienz</li><li>Fanggitter zur mühelosen Reinigung</li><li>vielseitige Anwendungsmöglichkeiten im Garten</li></ul>"
+}

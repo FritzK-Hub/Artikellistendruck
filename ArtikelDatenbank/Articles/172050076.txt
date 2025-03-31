@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>CEE Stecker 3 polig mit 250 V</li><li>aus schlagfestem Polyamid gefertigt</li><li>werkzeugloses Öffnen und Schließen des Gehäuses</li><li>ist ein praktischer Kraftstromstecker für Wohnwägen</li><li>besitzt eine zentrale Leitungseinführung</li></ul>"
+}

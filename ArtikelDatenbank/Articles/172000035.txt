@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    /nmit Befestigungsmutter\"\"/n                "
+}

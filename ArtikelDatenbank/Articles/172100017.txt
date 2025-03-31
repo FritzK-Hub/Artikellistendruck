@@ -1,0 +1,4 @@
+{
+    "uvp": 49.99,
+    "attributes": "<ul><li>individuelle Farbgestaltung für stimmungsvolle Beleuchtung</li><li>wetterfest und langlebig bei jedem Wetter</li><li>einfache App-Steuerung von überall</li><li>ohne Hub direkt einsatzbereit</li><li>kompatibel mit führenden Sprachassistenten</li></ul>"
+}

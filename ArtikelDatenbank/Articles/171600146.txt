@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>transparentes, satiniertes Öl</li><li>für die Pflege und Verschönerung</li><li>aus reinen Pflanzenölen</li><li>langanhaltender Schutz</li><li>leichte Verwendung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Schnittsalat Grünetta für ca. 8-10 laufende Meter</li><li>mit sehr weichen und zarten Blättern versehen</li><li>eignet sich für Rohkosten oder kalten Platten</li><li>ist besonders nachtreibend und ertragsreich</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

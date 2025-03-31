@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Garderobenständer mit zwei stabilen Stahlrohren</li><li>sorgt für mehr Ordnung in deinen Wohnräumen</li><li>ideal zum Aufbewahren oder Transportieren von Kleidung</li><li>vierfache Höhenverstellung der Kleiderstange</li><li>dank den Rollen einfach beim transportieren<br/></li></ul>"
+}

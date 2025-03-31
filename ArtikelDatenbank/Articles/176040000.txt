@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>T-Profil Schraubendreher in verschiedenen Größen</li><li>ohne Stirnlochbohrung</li><li>matt verchromte Klingen</li><li>schwarze, magnetische Sechsrund-Spitzen</li><li>ergonomische 2-Komponenten-Griffe</li></ul>"
+}

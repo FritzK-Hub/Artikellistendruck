@@ -1,0 +1,4 @@
+{
+    "uvp": 27.99,
+    "attributes": "<ul><li>praktisches Lötgerät – ideal für den Einsteiger</li><li>zum Weichlöten und für einfachere Hartlötarbeiten</li><li>leistungsstarker Brenner mit Feinregulierventil zum stufenlosen Einstellen der Flamme</li><li>zum Reparieren, Installieren, Basteln, Abbrennen von Farbe, Unkrautvertilgen, Holzabflammen, Verzinnen und zur Kunststoffbearbeitung</li></ul>"
+}

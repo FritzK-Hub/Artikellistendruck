@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>dickes Vliestuch</li><li>zur streifenfreien Reinigung von Böden</li><li>weich und strapazierfähig</li><li>waschbar bis zu 60°C</li><li>hohe Saugkraft<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.11,
+    "attributes": "<ul><li>Senkkopfschrauben und Dübel im Set</li><li>aus Stahl, bronze brüniert, mit Kunststoffdübeln</li><li>zur Befestigung der Träger-Profile</li></ul>"
+}

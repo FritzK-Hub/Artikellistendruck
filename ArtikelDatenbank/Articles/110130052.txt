@@ -1,0 +1,4 @@
+{
+    "uvp": 5.0,
+    "attributes": "<ul><li>hochwertige Verarbeitung</li><li>zeitloses und elegantes Design</li><li>fügt sich nahtlos in jede Einrichtung ein</li><li>robust und strapazierfähig, aus Zinkdruckguss</li><li>schnelle und problemlose Montage</li></ul>"
+}

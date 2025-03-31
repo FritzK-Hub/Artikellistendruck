@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Saatgut Perserklee für ca. 20 m²</li><li>eine einjährige, eiweißreiche Futterpflanze</li><li>raschwüchsiges Klee bedeckt den Boden schnell</li><li>ideal als halb- und ganzjährige Gründüngung</li><li>liefert der Folgefrucht Stickstoff und Humos<br/></li></ul>"
+}

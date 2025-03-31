@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>vielseitige Anwendung</li><li>starke entfettende Wirkung</li><li>mühelose Reinigung</li><li>effizientes Lösungsmittel</li><li>entaromatisiertes Löse- und Verdünnungsmittel<br/></li></ul>"
+}

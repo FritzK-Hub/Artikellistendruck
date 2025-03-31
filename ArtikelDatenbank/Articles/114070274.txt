@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>elegante Eichenholz-Optik für eine stilvolle Präsentation</li><li>Normalglas für klare und unverfälschte Bildansicht</li><li>kann horizontal und vertikal aufgehängt werden</li><li>inklusive Aufhängungen für eine einfache und schnelle Montage</li><li>ideal für Familienfotos, Urlaubserinnerungen und kunstvolle Fotografien</li></ul>"
+}

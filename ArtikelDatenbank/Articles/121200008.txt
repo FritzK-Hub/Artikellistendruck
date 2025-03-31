@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Balkontopf Boardee Hook aus robustem Kunststoff </li><li>lässt sich schnell und einfach direkt bepflanzen</li><li>Form ähnelt einem Gefäß, dass aus Brettern gefertigt ist</li><li>einfaches, modernes Design verleiht einen besonderen Flair</li><li>vielseitig auf Balkone oder in Wohnräumen einsetzbar<br/></li></ul>"
+}

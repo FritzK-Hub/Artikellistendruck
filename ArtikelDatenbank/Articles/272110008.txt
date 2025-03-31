@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Spaltkeil aus Kunststoff</li><li>zum Spalten von kleineren Holzstücken</li><li>ideal für kaltes und gefrorenes Holz</li><li>leichter und schlagfester Nachsetzkeil</li><li>mit einer Schlagfläche von ca. (BxH) 7 x 3 cm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>Steckschlüssel Einsätze, tief 1/4\" 11-teilig</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>in den Größen 4-13 mm mit Innenvierkant Antrieb</li><li>verfügt über eine matt verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes<br/></li></ul>"
+}

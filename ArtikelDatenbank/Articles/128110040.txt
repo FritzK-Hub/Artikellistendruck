@@ -1,0 +1,4 @@
+{
+    "uvp": 249.95,
+    "attributes": "<ul><li>    4-Sitzer Gartenbank    </li><li>extra robust und witterungsbeständig</li><li>    massives Kiefernholz, 35 mm stark</li><li>    kammergetrocknet, hellbraun lasiert und imprägniert    </li><li>einfache und schnelle Montage</li></ul>"
+}

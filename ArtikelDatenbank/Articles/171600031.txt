@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>effektive Pflege- und Reinigungslösung für lackiertes, helles Holz</li><li>zur Entfernung von Flecken und kleinen Kratzern, während sie gleichzeitig neuen Glanz verleiht</li><li>beseitigt Wasserränder, Alkoholflecken, Schmutz und Fingerabdrücke</li><li>verleiht dem Möbelstück einen zusätzlich, wasserabweisenden Schutz</li><li>Tiefenwirkung zur Auffrischung und schützen beanspruchter Möbel<br/></li></ul>"
+}

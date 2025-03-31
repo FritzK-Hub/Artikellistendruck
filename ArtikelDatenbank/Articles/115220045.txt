@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>präzise 90°-Abwinkelung für fehlerfreie Verbindungen in L-Form-Konstruktionen</li><li>natürliches Aluminium für modernes Aussehen in verschiedenen Designs</li><li>einfache Verkleidung für Holzprojekte und Fensterbänke</li><li>robustes Aluminiumblech für Stabilität und Langlebigkeit</li><li>zuverlässige Passform für problemloses Arbeiten</li></ul>"
+}

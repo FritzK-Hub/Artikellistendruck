@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>Karabinerhaken aus hochwertigem Edelstahl</li><li>rostfrei</li><li>bis 120 kg belastbar</li><li>für Seile bis 8 mm Durchmesser</li><li>Verschlusskarabiner birnenförmig (C-Form)</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Briefumschläge DIN lang</li><li>mit Fenster</li><li>selbstklebend</li><li>25 Briefumschläge in weiß</li><li>umweltfreundlich<br/></li></ul>"
+}

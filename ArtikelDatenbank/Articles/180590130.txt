@@ -1,0 +1,4 @@
+{
+    "uvp": 16.75,
+    "attributes": "<ul><li>einstellbarer Farbwechsel nach Musikrhythmus</li><li>anpassbare Farben für individuelle Stimmung</li><li>einfache Installation ohne Fachkenntnisse</li><li>diskrete Platzierung unter Armaturenbrett und Sitzen</li><li>komfortable Steuerung via Fernbedienung</li></ul>"
+}

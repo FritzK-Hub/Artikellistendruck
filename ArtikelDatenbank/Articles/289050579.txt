@@ -1,0 +1,4 @@
+{
+    "uvp": 2.39,
+    "attributes": "<ul><li>Kantenprofil für Gipskartonplatten</li><li>um eine saubere Ecke bei Gipskartonplatten auszubilden</li><li>einfache Anwendung</li><li>aus stabilem, blankem Aluminium-Material</li><li>Länge: ca. 2,50 Meter, Höhe: ca. 25 mm, Breite: ca. 4 mm</li></ul>"
+}

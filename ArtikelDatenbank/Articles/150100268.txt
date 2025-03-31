@@ -1,0 +1,4 @@
+{
+    "uvp": 10.49,
+    "attributes": "<ul><li>misst zuverlässig bis 4,5 bar</li><li>analoge, präzise Anzeige</li><li>einfache Anwendung ohne Fachkenntnisse</li><li>erhöht Fahrsicherheit</li><li>verlängert Reifenlebensdauer</li></ul>"
+}

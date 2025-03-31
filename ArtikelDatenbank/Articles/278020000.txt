@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>digitaler Winkelmesser von GERMANIA®</li><li>mit gut lesbarer LCD-Anzeige</li><li>zum Abnehmen und Übertragen von Winkeln, Maßen und Schrägen</li><li>ideal für z.B. Arbeiten an Dachschrägen</li><li>für Profis und Heimwerker geeignet <br/></li></ul>"
+}

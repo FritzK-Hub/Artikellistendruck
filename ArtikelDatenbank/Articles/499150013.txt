@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Durchmesser Kopf (S): ca. 13,0mm</li><li>Höhe Kopf (k): ca. 5,5mm</li><li>Durchmesser Schraube (d): ca. 8,0mm</li><li>Länge (l): ca. 50mm</li></ul>"
+}

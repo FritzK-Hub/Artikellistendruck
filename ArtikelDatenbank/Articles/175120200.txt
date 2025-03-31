@@ -1,0 +1,4 @@
+{
+    "uvp": 8.79,
+    "attributes": "<ul><li>präzise Zusammensetzung</li><li>zuverlässige und konsistente Leistung</li><li>vielseitig einsetzbar</li><li>beeindruckendes Volumen</li><li>herausragende Qualität und Stabilität</li></ul>"
+}

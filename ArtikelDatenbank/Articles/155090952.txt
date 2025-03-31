@@ -1,0 +1,4 @@
+{
+    "uvp": 25.7,
+    "attributes": "<ul><li>Jalousie-Schalter für Unterputz-Montage</li><li>klassisches Design mit moderner glänzender Oberfläche</li><li>Die mechanische Verriegelung verhindert das versehentliche gleichzeite Betätigen beider Wippen</li><li>Pfeilrichtungsaufdruck für eine einfache Bedienung</li><li>nur in Kombination mit Rahmen der Serie EverLuxe zu verwenden<br/></li></ul>"
+}

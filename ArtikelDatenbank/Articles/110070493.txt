@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>hervorragende Hitzebeständigkeit</li><li>für effektive Ableitung von Rauchgasen</li><li>schnelle und einfache Montage</li><li>besonders langlebig und widerstandsfähig</li><li>für perfekte Anwendung in Kaminöfen<br/></li></ul>"
+}

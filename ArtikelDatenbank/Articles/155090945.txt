@@ -1,0 +1,4 @@
+{
+    "uvp": 8.45,
+    "attributes": "<ul><li>Taster für Unterputz-Montage</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>mit beiliegenden Symbolen: Licht, Klingel und Tür</li><li>z. B. zum Betätigen von Klingeln, Türöffnern, etc.</li><li>nur in Kombination mit Rahmen der Serie EverLuxe zu verwenden<br/></li></ul><p></p>"
+}

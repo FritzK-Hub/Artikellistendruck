@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>solarbetriebene LED-Wandlaterne aus robustem Kunststoff</li><li>sorgt für klare Sicht in Eingangsbereichen oder im Außenbereich</li><li>schlankes, zeitloses Design verleiht einen besonderen Flair</li><li>lässt sich schnell und einfach an der gewünschten Stelle befestigen </li><li>mitgeliefertes Montagematerial erleichtert die Installation<br/></li></ul>"
+}

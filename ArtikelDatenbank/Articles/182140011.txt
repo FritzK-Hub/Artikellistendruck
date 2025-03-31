@@ -1,0 +1,4 @@
+{
+    "uvp": 21.49,
+    "attributes": "<ul><li>Fahrradkorb aus robustem Metallgitter</li><li>Schraubmontage ohne Werkzeug</li><li>auch für viele E-Bikes geeignet</li><li>für tiefsitzende Sättel vorne abgeschrägt</li><li>großvolumiger Taschenkorb inkl. Befestigungsmaterial</li></ul>"
+}

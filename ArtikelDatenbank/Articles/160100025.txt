@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Jacke mit hochstehendem Kragen</li><li>2 aufgesetzte Falten-Taschen, 1 Napoleontasche</li><li>abnehmbare Kapuze mit Kinnschutz und Schirm</li><li>wasserdicht, winddicht, atmungsaktiv</li><li>Reißverschluss unter doppeltem Besatz mit Klettverschluss</li></ul><p></p>"
+}

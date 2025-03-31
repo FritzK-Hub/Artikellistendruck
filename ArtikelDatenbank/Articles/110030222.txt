@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>saugstark für hohe Schmutzaufnahme<br/></li><li>angenehm griffig, kochfest<br/></li><li>trocken und feucht anwendbar</li><li>ideal für Küche, Bad und WC</li><li>für alle glatten Oberflächen</li></ul>"
+}

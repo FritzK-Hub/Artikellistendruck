@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>Pizzabrett aus Bambusholz</li><li>schnittfest, geruchs- und geschmacksneutral</li><li>zum Transportieren und Servieren von Pizza</li><li>mit stabilem Griff für den sicheren Transport</li><li>wasserabweisend, lässt sich mit Wasser reinigen<br/></li></ul>"
+}

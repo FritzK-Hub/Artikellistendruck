@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>aufblasbare Drakulafigur für Innen und Außen</li><li>passende Halloweendekoration</li><li>LED-Leuchten im Inneren<br/></li><li>schafft im Dunkeln gruselige Atmosphäre</li><li>steht selbstständig<br/></li></ul>"
+}

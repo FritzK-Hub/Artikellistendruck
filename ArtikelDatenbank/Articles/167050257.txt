@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Jute-Schnur 50 m</li><li>reiß-fest</li><li>universell einsetzbar</li><li>Materialstärke 3 mm</li><li>schonend für Pflanzen</li></ul>"
+}

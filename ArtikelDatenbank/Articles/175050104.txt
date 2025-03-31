@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Betriebsdruck: max. 10 bar</li><li>Manometer: (Ø) ca. 60 mm</li><li>Anzeige Manometer: max. 10 bar</li><li>Anschlussgewinde: 1/4''</li><li>Länge Schlauch: (L) ca. 35 cm</li><li>Material Pistole: Aluminium Druckguss</li><li>mit Druckablassventil</li><li>montierter Stecknippel</li><li>Michelin Ventil aus Metall</li><li>Manometer mit Gummischutz</li></ul>"
+}

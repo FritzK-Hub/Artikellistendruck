@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>super grobe Stahlwolle aus bestem Qualitätsstahl</li><li>besonders reißfest und elastisch</li><li>ideal für Holz, Metall und Lack</li><li>sehr schonende Oberflächenwirkung durch \"Ziehklingeneffekt\"</li><li>bei trockener Verwendung nahezu unbegrenzt haltbar<br/></li></ul>"
+}

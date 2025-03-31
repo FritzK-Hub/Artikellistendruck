@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>ENplus A1 zertifizierte Spitzenqualität</li><li>100 % nachhaltiges, deutsches Nadelholz</li><li>reine Pellets, ohne Zusatzstoffe</li><li>abriebfest und staubarm für Sauberkeit</li><li>geringer Aschegehalt, optimaler Schutz</li></ul><p></p>"
+}

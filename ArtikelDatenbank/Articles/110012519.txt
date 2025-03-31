@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Spülbeckenfilter aus Kunststoff, verchromt</li><li>passend für 60 mm Spül- und Waschbecken</li><li>sammelt Küchenabfälle und erleichtert deren Entsorgung</li><li>verhindert Abflussverstopfungen oder Geruchsbildung</li><li>problemlos zu entfernen und zu reinigen<br/></li></ul>"
+}

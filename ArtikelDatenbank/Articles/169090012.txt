@@ -1,0 +1,4 @@
+{
+    "uvp": 3.9,
+    "attributes": "<ul><li>Haken-Satz aus rostfreiem Stahl</li><li>mit gerader Spitze, 90° Spitze für O-Ringe</li><li>Hakenspitze und Kombispitze</li><li>ideal für Werkstatt und Haushalt</li><li>mit Kunststoffgriff<br/></li></ul>"
+}

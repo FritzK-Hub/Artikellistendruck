@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>verwandelt Gartenschläuche mit 3/4\" Anschluss in einen effektiven Hochdruckreiniger </li><li>Sprühdüse zur Reinigung von große Flächen wie Hofeinfahrten, Gehwege oder auch für Autos</li><li>entfernt selbst hartnäckige Ablagerungen oder Unkraut dank Strahldüse</li><li>geringes Eigengewicht und rutschfester Gummigriff für einfache und bequeme Handhabung</li><li>Ventil ermöglicht eine einfache Kontrolle des Wasserflusses, spart Wasserkosten<br/></li></ul>"
+}

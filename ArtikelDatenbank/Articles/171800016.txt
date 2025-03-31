@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>hochwertiger Schellack Verdünner</li><li>100%ige Vergällung</li><li>hochreine Spezialformel</li><li>gründliche Oberflächenreinigung</li><li>effiziente Anwendung<br/></li></ul>"
+}

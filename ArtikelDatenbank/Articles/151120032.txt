@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>praktische Einzelverpackung verhindert Austrocknung</li><li>alkoholfrei – sanft zur Oberfläche</li><li>kratzfreie Reinigung durch weiches Tuch</li><li>vielseitig einsetzbar daheim und unterwegs</li><li>Anti-Beschlag für jederzeit klare Sicht</li></ul>"
+}

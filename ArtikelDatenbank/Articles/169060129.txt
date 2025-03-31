@@ -1,0 +1,4 @@
+{
+    "uvp": 9.79,
+    "attributes": "<ul><li>Pattex® Zweikomponenten Knete 48 g Power Repair Express</li><li>lässt sich dank Werkzeug im Deckel mühelos portionieren und verformen</li><li>3 Minuten Verarbeitungszeit und bereits nach 15 Minuten äußerst fest</li><li>zum einfachen Füllen, Kleben, Reparieren an Metallen oder Holz geeignet</li><li>nach dem Aushärten lässt sich die Masse überstreifen und schleifen<br/></li></ul>"
+}

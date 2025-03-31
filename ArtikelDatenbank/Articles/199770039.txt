@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>30 Möbelschrauben 3,5 x 19 mm nach DIN 7983</li><li>mit Kreuzschlitz-Antrieb versehen</li><li>aus verzinktem Stahl gefertigt</li><li>für die Montage von Blech- und Kunststoffteilen</li><li>Blechschrauben mit Senkkopf<br/></li></ul>"
+}

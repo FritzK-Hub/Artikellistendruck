@@ -1,0 +1,4 @@
+{
+    "uvp": 34.99,
+    "attributes": "<ul><li>Ofenrohr Reduzierung senotherm lackiert schwarz metallic</li><li>aus Stahl</li><li>für den Innenbereich</li></ul>"
+}

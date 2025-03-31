@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>aus verzinktem Stahl gefertigt</li><li>im Holzbau vielseitig einsetzbar</li><li>für die einfache Verbindung hölzerner Bauelemente</li><li>auch zum Versteifen von Ecken geeignet</li><li>besonders belastbar und wetterfest</li></ul>"
+}

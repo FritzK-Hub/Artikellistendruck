@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>Farbsprühpistole zum runden, breiten und flachen Auftragen</li><li>garantiert geringer Luftverbrauch</li><li>breiter Sprühstrahl und Feinverdüsung für Füller und Grundiermittel</li><li>auch für hohe Materialviskositäten geeignet</li><li>mit universalem Spritzkopf </li></ul>"
+}

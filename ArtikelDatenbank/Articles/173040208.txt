@@ -1,0 +1,4 @@
+{
+    "uvp": 6.59,
+    "attributes": "<ul><li>Steckschlüssel-Einsatz 1/2\"</li><li>mit Super-Lock Aufnahme</li><li>mit Absatz, matt verchromt<br/></li><li>für Handbetätigung geeignet</li><li>lange Bauweise</li></ul>"
+}

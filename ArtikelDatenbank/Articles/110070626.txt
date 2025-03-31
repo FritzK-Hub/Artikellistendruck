@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Grill- oder Kaminanzünder auf Paraffinbasis</li><li>Feueranzünder, vollkommen geruchlos</li><li>einzeln entnehmbar</li><li>in der praktischen Aufbewahrungsdose</li><li>hohe Zündkraft, saubere Flamme</li></ul>"
+}

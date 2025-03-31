@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul> <li>Schließzylinder gleichschließend</li> <li>6 Schlüssel</li> <li>3 Größen</li></ul>"
+}

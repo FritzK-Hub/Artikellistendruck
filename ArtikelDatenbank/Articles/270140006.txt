@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>für den Modellbau oder unterschiedlichsten Holz- und DIY-Projekten</li><li>flache Feilenstärke ermöglicht ein effektives Entfernen vom Material</li><li>garantiert eine gleichmäßige und präzise Schleifarbeit</li><li>ergonomischer Holzgriff für einfachere Handhabung und leichtes Schleifen</li><li>bei Nichtgebrauch platzsparend an einer Werkstattwand aufhängbar<br/></li></ul>"
+}

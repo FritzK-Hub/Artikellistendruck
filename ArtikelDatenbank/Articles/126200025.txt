@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>elektrische Luftpumpe aus Kunststoff mit 230 V</li><li>ideal zum Aufblasen und Ablassen geeignet</li><li>für Gästebetten, Wasserbällen und vieles mehr</li><li>vielseitig einsetzbares Outdoor-Zubehör</li><li>drei verschieden große Adapter sind mit inklusive<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Bezeichnung: 6 x 125mm</li><li>magnetische Spitze</li><li>Griff: Kunststoff - rutschfest gummiert</li><li>Qualität von GERMANIA® Qualitätswerkzeuge</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 34.99,
+    "attributes": "<ul><li>Gewächshaus mit hochrollbarem Klarsichfenster</li><li>die wetterfeste PE-Folie sorgt für ausreichend Licht</li><li>witterungsbeständigem Stahlrohrrahmen</li><li>einfache und schnelle Montage</li><li>auch als Frühbeet-Abdeckung geeignet</li></ul>"
+}

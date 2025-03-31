@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Sonnenblenden Window Socks für alle gängigen PKW´s</li><li>spendet angenehmen Schatten an heißen Sommertagen</li><li>schützen Kinder auf der Rückbank vor Sonneneinstrahlung und Hitze</li><li>ermöglicht eine effektive Durchlüftung des Fahrzeuges</li><li>einfach in der Handhabung, lässt sich leicht montieren <br/></li></ul>"
+}

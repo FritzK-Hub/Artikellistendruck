@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Rührschüssel-Set 3-teilig mit dazugehörigen Deckeln</li><li>für mehr Ordnung und als universelle Küchenausstattung</li><li>aus robustem, mattem Kunststoff, besonders langlebig</li><li>integrierte Ausgießer erleichtert dosiertes Eingießen von Zutaten</li><li>bei Nichtgebrauch platzsparend ineinander stapelbar</li></ul>"
+}

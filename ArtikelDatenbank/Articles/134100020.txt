@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>umfangreiches, 13-teiliges Druckluft-Zubehör-Set</li><li>zum Befüllen von Fahrradreifen, Bällen oder Luftmatratzen</li><li>Reifenfüller erleichtert das Überprüfen des Luftdruckes</li><li>Druckluft-Ausblaspistole reinigt Hohlräume oder schwer zugängliche Stellen</li><li>inklusive Druckschlauch mit Schnellsteckventil und verschiedenen Adaptern<br/></li></ul>"
+}

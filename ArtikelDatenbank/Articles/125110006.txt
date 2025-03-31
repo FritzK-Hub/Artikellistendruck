@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>gegen Pilzkrankheiten</li><li>universelle Anwendung</li><li>für kräftiges Wachstum</li><li>langfristiger Schutz</li><li>nicht bienengefährlich<br/></li></ul>"
+}

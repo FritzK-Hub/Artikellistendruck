@@ -1,0 +1,4 @@
+{
+    "uvp": 7.95,
+    "attributes": "<ul><li>praktisches Druckluft-Ausblaspistolen-Set von Güde<br/></li><li>mit 1/4\" Anschlussgewinde und max. 8 bar Betriebsdruck</li><li>zum Befüllen von Fahrradreifen, Bällen oder Luftmatratzen</li><li>Druckluft-Ausblaspistole reinigt Hohlräume oder schwer zugängliche Stellen</li><li>inklusive Verlängerungsrohr, verschiedene Adapter und Ballfüllnadel<br/></li></ul>"
+}

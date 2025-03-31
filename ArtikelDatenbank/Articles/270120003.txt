@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Stahldraht</li><li>gezopft</li><li>Größe: 115mm</li><li>22,2mm Bohrung</li><li>max. R.P.M. 10.000 u/min</li><li>weiteres GERMANIA® Werkzeug finden Sie in unserem Shop!</li></ul>"
+}

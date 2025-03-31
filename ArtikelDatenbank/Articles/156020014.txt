@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Flachpinsel mit PET-Borsten<br/></li><li>Basis-Qualität für einfache Streicharbeiten</li><li>geeignet für Farben, Lacke und Lasuren</li><li>ideal für Renovierarbeiten</li><li>Holzgriff und Metallzwinge</li></ul>"
+}

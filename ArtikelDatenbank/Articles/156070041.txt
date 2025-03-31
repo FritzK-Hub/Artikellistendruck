@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>komplettes Set</li><li>zuverlässige Leistung</li><li>gleichmäßige Farbverteilung</li><li>vielseitig einsetzbar</li><li>für mühelose und effiziente Malerprojekte</li></ul>"
+}

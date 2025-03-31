@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>schnelle Wirkung</li><li>kraftvolles Duo</li><li>vielseitige Anwendung</li><li>allumfassende Wirksamkeit</li><li>einfache Handhabung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>hochwertiger Gerätestiel mit Konus</li><li>für verschiedene Gartengeräte geeignet</li><li>leicht zu montieren</li><li>vielseitig einsetzbar</li><li>hohe Robustheit und optimale Handhabung<br/></li></ul>"
+}

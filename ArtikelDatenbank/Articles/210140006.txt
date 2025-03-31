@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Oakwood Kugelfangkasten Duo Target aus Metall</li><li>mit Hammerschlag Lackierung </li><li>Geeignet für alle Luftdruckwaffen bis 7,5 Joule; sowohl Luftgewehr als auch Luftpistole</li><li>Vorrichtung für Zielscheiben 14 x 14 cm</li><li>zwei hängende Ziele zum Beschießen ohne Zielscheibe (Kreis und Ente, rot)</li></ul>"
+}

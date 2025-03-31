@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Entlüftungsschlüssel mit Innen-Vierkant</li><li>aus stabilem Aluminium-Druckguss gefertigt</li><li>zum Öffnen und Entlüften deiner Heizkörper</li><li>verhindert die Geräuschentwicklung und erhöht die Heizleistung</li><li>für alle gängigen Heizungen geeignet</li></ul>"
+}

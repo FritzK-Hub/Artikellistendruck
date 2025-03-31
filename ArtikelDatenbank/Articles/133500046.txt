@@ -1,0 +1,4 @@
+{
+    "uvp": 34.99,
+    "attributes": "<ul><li>robustes Set für höchste Beanspruchung</li><li>magnetischer Halter bietet Sicherheit</li><li>vielseitige Bitgrößen schaffen Flexibilität</li><li>praktische Aufbewahrung in Sichtbox</li><li>perfekt für Heimwerker und Profis</li></ul>"
+}

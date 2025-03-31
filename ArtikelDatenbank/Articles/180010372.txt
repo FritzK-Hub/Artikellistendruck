@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>pflanzengerechte und ausgewogene Nährstoffrezeptur</li><li>fördert ein gesundes Pflanzenwachstum</li><li>Mischung ist besonders Kaliumbetont</li><li>eignet sich für alle Rosenarten, wie Beet-, Strauch-, Kletter- und Hochstammrosen</li><li>Rosen werden gegen Krankheiten und negative Umwelteinflüsse gestärkt<br/></li></ul>"
+}

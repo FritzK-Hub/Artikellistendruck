@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>    Glasfaser-Dichtschnur inklusive 1 Tube Kleber    </li><li>als Ersatz für defekte Türdichtungen an Öfen und Kaminen    </li><li>bis 650°C hitzebeständig</li></ul>"
+}

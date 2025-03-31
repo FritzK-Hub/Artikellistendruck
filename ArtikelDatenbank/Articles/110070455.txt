@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>für die sichere und effektive Ableitung von Rauchgasen</li><li>optimal für Standardkamine geeignet</li><li>hohe Stabilität und Langlebigkeit</li><li>aus hochwertigem feueraluminiertem Stahlblech</li><li>schnelle und effiziente Verbindung zwischen Ofen und Schornstein<br/></li></ul>"
+}

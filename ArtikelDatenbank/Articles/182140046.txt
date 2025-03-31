@@ -1,0 +1,4 @@
+{
+    "uvp": 11.79,
+    "attributes": "<ul><li>Vierkant Kurbelarm-Abzieher aus Stahl</li><li>Innenabzieher geeignet für Vierkant-Tretlager</li><li>für die Montage und Demontage von Kurbelarmen</li><li>stabiles und handliches Werkzeug</li><li>Kurbelabzieher für die Fahrradreparatur</li></ul>"
+}

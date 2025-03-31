@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>Kreuzhackenstiel ca. 95 cm lang</li><li>aus robustem Eschenholz gefertigt</li><li>für 2,5 - 3 kg Hackenköpfe</li><li>besitzt eine ovale Formung</li><li>mit einem Gewicht von ca. 780 g</li></ul>"
+}

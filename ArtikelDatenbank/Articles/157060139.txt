@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>Nitro-Universal-Verdünnung</li><li>löst, säubert und verdünnt sicher die meisten Lackfarben</li><li>universell einsetzbar</li><li>zum Verdünnen von Nitrolacken, Kunstharzlacken und Chlorkautschuklacken</li><li>verdunstet rückstandslos, eine Beeinflussung der Lackierung nach der Trocknung ist daher ausgeschlossen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Schutzkontakt-Stecker in weiß</li><li>aus robustem Kunststoff gefertigt</li><li>Schutzart IP 20, nicht wassergeschützt</li><li>für den Einsatz im Innenbereich geeignet</li><li>Schutzkontaktstecker mit seitlicher Kabeleinführung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Hundedecke Jimmy in Schwarz</li><li>kuschelig und weich</li><li>aus Polyester gefertigt</li><li>für Wohnbereich und Auto geeignet</li><li>bis zu 30°C waschbar<br/></li></ul>"
+}

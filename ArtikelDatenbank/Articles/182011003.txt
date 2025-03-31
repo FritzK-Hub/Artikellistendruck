@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>3kg Holzkohle</li><li>zu Briketts gepresst</li><li>sorgt für leichtes Anbrennen, erzeugt weniger Asche</li><li>lang anhaltende Glut mit hohen Temperaturen</li><li>beste Qualität für den anspruchsvollen Hobbygriller<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>UV-beständiger Pflanztopf</li><li>mit Einsatz zum einfacheren Bepflanzen</li><li>aus hochwertigem Kunststoff</li><li>zum direkten Bepflanzen geeignet</li><li>eckiger Blumenkübel in Rattan-Optik<br/></li></ul>"
+}

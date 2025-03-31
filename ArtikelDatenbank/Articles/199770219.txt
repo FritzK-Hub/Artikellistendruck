@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>zum Aufhängen von kleinen Spiegeln und Dekorationen</li><li>aus stabilem, verzinktem Metall gefertigt</li><li>besonders langlebig und widerstandsfähig</li><li>breites Spiegelblech erleichtert das Aufhängen </li><li>vielseitig einsetzbare Befestigungsmöglichen<br/></li></ul>"
+}

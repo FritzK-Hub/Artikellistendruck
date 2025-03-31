@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Schraubendreher mit Schlitz-Profil</li><li>lange Ausführung</li><li>aus Chrom Vanadium Stahl</li><li>magnetischer Schraubkopf</li><li>Griff aus Kunststoff, rutschfest gummiert</li></ul>"
+}

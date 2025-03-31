@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Montageklebeband beidseitig stark klebend</li><li>beständig gegen Feuchtigkeit</li><li>zur dauerhaften Befestigung von flachen Gegenständen</li><li>für glatte und leicht raue Untergründe</li><li>1 Rolle Spiegelband für den Innenbereich</li></ul>"
+}

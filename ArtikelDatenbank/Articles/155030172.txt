@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>eine Knopfzellen Batterie Typ V13GA</li><li>auf einer stabilen Blisterkarte</li><li>langlebige Batterie, nicht wiederaufladbar</li><li>geeignet für Armbanduhren und vieles mehr</li><li>ideal für Geräte mit hohem Energiebedarf<br/></li></ul>"
+}

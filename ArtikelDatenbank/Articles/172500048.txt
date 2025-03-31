@@ -1,0 +1,4 @@
+{
+    "uvp": 8.89,
+    "attributes": "<ul><li>UKW Wurfantenne (Dipolantenne)</li><li>Antennenkupplung für Radio mit Koaxial-Anschlusskupplung</li><li>optimiert den Empfang bei Radiogeräten</li><li>bei fehlenden Anschlussmöglichkeiten in freier Natur oder zu Hause</li><li>inklusive Adapter Koax-Stecker – Koax-Stecker (für TV)</li></ul>"
+}

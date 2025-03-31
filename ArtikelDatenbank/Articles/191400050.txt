@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>tolles Federballspielset in Lila</li><li>dient für Sport und Spiel</li><li>für den Sommer auf dem Campingplatz oder am Strand</li><li>verfügt über Schlägerlänge von 62 cm</li><li>für Kinder ab 4 jahren geeignet<br/></li></ul>"
+}

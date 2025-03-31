@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>für Holzoberflächen in Innenräumen</li><li>gleichzeitig Ölen und Wachsen</li><li>transparente Formel</li><li>Schutz vor Schmutz und Abnutzung</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>dekorativer Baumwollteppich 70x140 cm in Türkis</li><li>für Wohnräume, Firmeneingänge oder Hotels</li><li>ist besonders strapazierfähig und leicht zu reinigen</li><li>auch für die Fußbodenbeheizung geeignet</li><li>besitzt eine Antirutschbeschichtung auf der Unterseite<br/></li></ul>"
+}

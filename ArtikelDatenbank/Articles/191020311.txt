@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Angelhaken und Kunstköder im Set</li><li>mit zwei scharfen Drillinge (Haken)</li><li>Köder aus hartem Material</li><li>gute Schwimmeigenschaften</li><li>naturgetreues Dekor<br/></li></ul>"
+}

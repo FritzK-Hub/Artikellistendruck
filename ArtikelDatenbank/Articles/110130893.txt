@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>einfache Deckenmontage für mühelose Installation</li><li>stabiler Kunststoff bietet langanhaltende Zuverlässigkeit</li><li>doppelläufiges Design für vielseitige Gestaltungsmöglichkeiten</li><li>zeitloses Weiß unterstreicht klassisch-eleganten Wohnstil</li><li>feuchtraumgeeignet schafft flexible Einsatzmöglichkeiten</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>passende, handliche Gartenschere für die Gartenpflege</li><li>zum Schneiden von Ästen, Zweigen mit größerem Durchmesser</li><li>eingearbeiteten Weichkomponenten sorgen für Komfort und Rutschfestigkeit</li><li>Einhand-Sicherheitsverschluss erleichtert die Aufbewahrung</li><li>massive Carbon-Klinge mit Antihaftbeschichtung für präzise Schnittergebnisse<br/></li></ul>"
+}

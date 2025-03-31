@@ -1,0 +1,4 @@
+{
+    "uvp": 1.0,
+    "attributes": "<ul><li>Sichtlagerkasten für die Aufbewahrung von Kleinteilen<br/></li><li>aus stabilem Polypropylen hergestellt, schlag und stoßfest</li><li>ideal zum Stapeln und zum Einhängen in speziellen Leisten<br/></li><li>sorgt für mehr Ordnung in der Werkstatt</li><li>universell einsetzbar, auch ideal für den Haushalt geeignet</li></ul>"
+}

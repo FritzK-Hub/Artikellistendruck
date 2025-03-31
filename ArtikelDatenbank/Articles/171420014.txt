@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Spraymaster aus schwarzem Kunststoff von GERMANIA®</li><li>für alle gängigen Spraydosen geeignet</li><li>erleichtert das Auftragen von Sprühprodukten</li><li>verwandelt Sprühdosen in Sprühpistolen</li><li>ermöglicht reibungsloses Lackieren auf bei größeren Flächen<br/></li></ul>"
+}

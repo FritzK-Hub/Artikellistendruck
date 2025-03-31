@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Fischwaage bis 30 kg / 70 lbs (Pfund)</li><li>inklusive einem verzinkten Stahlhaken, lebensmittelecht</li><li>inklusive 1 Meter-Maßband mit cm und inch Skala</li><li>zur schnellen Gewichtsbestimmung von Fisch</li><li>Front aus robustem Plexiglas, Gehäuse aus Metall<br/><br/></li></ul>"
+}

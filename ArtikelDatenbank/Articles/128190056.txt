@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Universal Auflage für 3-Sitzer Bänke</li><li>Bänder zum Befestigen</li><li>bei 40°C waschbar</li><li>leicht zu reinigen</li><li>glatte Polsterung</li></ul>"
+}

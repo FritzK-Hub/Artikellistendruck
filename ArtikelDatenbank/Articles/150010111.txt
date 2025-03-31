@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>robustes Putz-Set für langanhaltende Nutzung</li><li>rückenschonendes Arbeiten mit langem Stahlbesenstiel</li><li>komfortabler Softgrip bietet sicheren Griff</li><li>vielseitig einsetzbar im gesamten Haushalt</li><li>effektive Reinigung von Verschmutzungen</li></ul><p></p>"
+}

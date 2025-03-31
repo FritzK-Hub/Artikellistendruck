@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>leichter, automatischer Schweißhelm von Güde</li><li>mit einstellbarer, stufenloser Abdunkelung von DIN 9 bis 13</li><li>stufenlos einstellbares Kopfband mit gepolstertem Stirnband</li><li>Stromversorgung über Solar</li><li>für alle Schweißverfahren mit unterschiedlicher Helligkeit</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 689.95,
+    "attributes": "<ul><li>hervorragend geeignet für Pflaster- und Ausbesserungsarbeiten im Garten- und Landschaftsbau</li><li>stabiler Stahlrahmen für einfachen Transport</li><li>klappbarer Griff, gegen Vibrationen gedämpft</li><li>hervorragende Vortriebs- und Verdichtungsleistung, mit automatischem Vorschub</li><li>Ölmangelsicherung, verwindungssteife und verschleißfreie Grundplatte<br/><br/></li></ul>"
+}

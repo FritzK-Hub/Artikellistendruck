@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>wasserbasierter Spezialreiniger</li><li>entfernt Öl, Fett und Verschmutzung von Metalloberflächen</li><li>geeignet für Kupfer-, Aluminium- und Messingoberflächen</li><li>für den Innen- und Außenbereich geeignet</li><li>sorgt für eine gute Anhaftung nachfolgender Anstriche<br/></li></ul>"
+}

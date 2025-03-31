@@ -1,0 +1,4 @@
+{
+    "uvp": 3.59,
+    "attributes": "<ul><li>Führungsschienen-Profil oben aus Hart-PVC</li><li>UU-Profil zum Einbau von Schiebetüren</li><li>Materialstärke (c) 1 mm</li><li>Montage: oben</li><li>Maße Profil (a,b): 10 x 6 mm</li></ul>"
+}

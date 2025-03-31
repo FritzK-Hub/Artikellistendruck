@@ -1,0 +1,4 @@
+{
+    "uvp": 184.0,
+    "attributes": "<ul><li>hochwertiges Messer-Set aus dem Hause ZWILLING</li><li>hervorragend ausbalancierte Messer der Twin Pollux Serie</li><li>aus rostfreiem Spezialstahl mit scharfem Klingenschliff</li><li>ergonomischer Griff im klassischen Drei-Nieten-Design</li><li>inklusive Messerblock und Wetzstahl zum Schärfen der Klingen</li></ul>"
+}

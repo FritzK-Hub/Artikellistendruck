@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>universell einsetzbar</li><li>zu allen Flüssig- und Pulverwaschmitteln geeignet</li><li>Gerüche von Flecken werden beseitigt</li><li>geeignet für weiße und farbechte Buntwäsche</li><li>entfernt eine Vielzahl von Verschmutzungen<br/></li></ul>"
+}

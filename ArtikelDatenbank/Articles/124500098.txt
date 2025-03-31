@@ -1,0 +1,4 @@
+{
+    "uvp": 299.0,
+    "attributes": "<ul><li>elegantes Design für moderne Gärten</li><li>robustes, UV-beständiges Material</li><li>kindersicherer und praktischer Deckel</li><li>einfach erweiterbar für mehr Speichervolumen</li><li>inklusive Anschluss-Set zur schnellen Inbetriebnahme</li></ul>"
+}

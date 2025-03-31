@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>für alle im Innenbereich vorkommenden Untergründe</li><li>auf Putz, Beton, Mauerwerk oder Raufasertapeten auftragbar</li><li>sehr hoher Weißgrad, um Altanstriche zu erneuern</li><li>gutes Deckvermögen und waschbeständig</li><li>mit Vollton- und Abtönfarbe abtönbar</li></ul>"
+}

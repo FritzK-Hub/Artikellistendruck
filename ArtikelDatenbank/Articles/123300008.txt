@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Anzuchttopf Set 8 x 8 cm rund</li><li>das Set besteht aus 16 Töpfen</li><li>aus recyceltem Kartonpapier gefertigt</li><li>ideal zum Vortreiben von Sämereien</li><li>zum Pikieren geeignet</li></ul>"
+}

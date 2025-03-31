@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>einfache Installation ohne Werkzeug</li><li>inklusive Tülle und Überwurfmutter</li><li>zuverlässige Flachdichtung</li><li>vielseitige Kompatibilität</li><li>hochwertiges Material<br/></li></ul>"
+}

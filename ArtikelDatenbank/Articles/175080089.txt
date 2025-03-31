@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>vielseitig für verschiedene Sägen wie Maxx-Saw, Mad-Saw oder XXL-Speed-Säge</li><li>ermöglicht ein schnelles und einfaches Verlegen von Fußböden oder Fußleisten</li><li>universelle Schnittlängen auch beim Winkel von 45° oder 90° möglich</li><li>Parallelanschlag garantiert selbst bei größeren Breiten präzise Schnittergebnisse</li><li>Kunststoffadapter erleichtert die Anpassung der Säge an die Gehrungsbasis<br/></li></ul>"
+}

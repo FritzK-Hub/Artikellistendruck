@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>Teleskopleiter klappbar aus Aluminium bis 150 kg</li><li>vielseitig im Innen- und Außenbereich einsetzbar</li><li>rutschfeste Standbeine für sicheren Halt</li><li>mit 2,6 m Länge und 8 Streben versehen</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
+}

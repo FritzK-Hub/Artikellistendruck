@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatband Balkonkräuter Mischung ca. 2 laufende Meter</li><li>würzige Küchenkräuter für jede Küche</li><li>ideal für Anbau auf dem Balkon oder auf der Fensterbank</li><li>Pflanzen wachsen nach der Ernte weiter</li><li>Bohnenkraut, Oregano, Rukola, Petersilie, Schnittlauch, Thymian<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 349.95,
+    "attributes": "<ul><li>3-teiliges Bistroset aus Eisen mit stillvollem Mosaikdesign</li><li>2 Klappstühle und 1 rechteckiger Wand-Tisch mit 90 x 45 cm<br/></li><li>Pulverbeschichtung für Langlebigkeit und einfache Pflege</li><li>bequeme Sitzfläche mit attraktivem Kreuzmuster-Design</li><li>Tischplatte mit attraktivem Mosaikdesign</li><li>platzsparendes Design durch Klappstühle</li></ul><p></p>"
+}

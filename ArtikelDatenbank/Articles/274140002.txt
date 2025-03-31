@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>mit Amboss 45 x 65 mm</li><li>gehärtete Spannbacken</li><li>verchromter Spindelkopf und Drehstange</li></ul>"
+}

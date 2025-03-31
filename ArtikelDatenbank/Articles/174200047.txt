@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>360° schwenkbaren Brausearm</li><li>ausklinkbare Geschirrbrause</li><li>mit 2 Strahlvarianten</li><li>leise und zuverlässige Bedienung</li><li>flexible Anschlussschläuche<br/></li></ul>"
+}

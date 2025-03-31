@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Brauseschlauch aus Kunststoff von eisl</li><li>mit einer Metallummantelung versehen<br/></li><li>für den Ausstauch porösen oder unansehnlichen Schläuchen</li><li>passend zu allen Brausearmaturen</li><li>besitzt eine Länge von 150 cm<br/></li></ul>"
+}

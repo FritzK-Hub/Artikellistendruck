@@ -1,0 +1,4 @@
+{
+    "uvp": 1853.0,
+    "attributes": "<ul><li>Flachtank mit wenig Platz- und Installationsaufwand</li><li>Biovitor Filter für dauerhaft reines Regenwasser</li><li>automatische Pumpe mit integriertem Trockenlaufschutz</li><li>hochwertige Zapfsäule in eleganter Optik</li><li>nachhaltige Bewässerung spart Trinkwasser und Kosten</li></ul>"
+}

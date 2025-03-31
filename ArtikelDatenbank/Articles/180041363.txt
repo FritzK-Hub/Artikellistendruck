@@ -1,0 +1,4 @@
+{
+    "uvp": 32.95,
+    "attributes": "<p>Heilbronner Hacke mit Holzstiel</p>"
+}

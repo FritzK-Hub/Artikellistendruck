@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Pflanzensprüher zum Versprühen von Schädlingsbekämpfungsmitteln, Düngemitteln, Reinigungsmitteln usw.</li><li>der Druck wird mittels Hebel aufgebaut (durch Pumpen)</li><li>Behälterinhalt ca. 500 ml</li><li>die Sprühflasche ist aus Kunststoff</li><li>Sprühdüse abschraubbar</li></ul>"
+}

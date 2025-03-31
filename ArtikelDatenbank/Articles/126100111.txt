@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>leistungsstarker GERMANIA® Rasentrimmer für präzise Rasenpflege</li><li>Arbeitskomfort durch individuelle Höhen-Anpassung und Softgriff</li><li>akkurate Ergebnisse mit 4-fach verstellbaren Trimmerkopf</li><li>Pflanzenschutzbügel für sicheres Arbeiten</li><li>leiser Betrieb ermöglicht angenehme Rasenpflege</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Reduziermuffe in Handwerkerqualität für Profis und Heimwerker</li><li>minimiert Druckverluste zum effizienten Durchfluss</li><li>einfache, sichere Montage mit präzisem Gewinde</li><li>robust gegen hohe mechanische Belastung</li><li>mit ¾\" Innengewinde und ½\" Innengewinde</li></ul>"
+}

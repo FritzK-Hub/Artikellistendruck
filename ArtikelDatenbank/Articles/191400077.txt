@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>Kinderzelt in Bunt</li><li>für Kinder ab 2 Jahren</li><li>bereitet riesigen Spielspaß</li><li>leichter Auf- und Abbau</li><li>aus Polyester gefertigt<br/></li></ul>"
+}

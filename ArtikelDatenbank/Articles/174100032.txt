@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>bruchsicherer und kratzfester WC-Sitz aus Duroplast</li><li>Komfort &amp; Funktion dank Absenkautomatik und Schnellverschluss</li><li>hygienisch glatte Oberfläche zur einfachen Reinigung</li><li>inklusive Befestigungsmaterial zur mühelosen Installation</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
+}

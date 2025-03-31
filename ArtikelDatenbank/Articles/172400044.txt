@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>leistungsfähige Alkaline-Batterien im 4er Pack</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>für Fernbedienungen, LED-Beleuchtungen und Spielzeuge einsetzbar</li><li>auch für Geräte die gleichbleibendem Energieverbrauch erfordern</li><li>zur kleinen Bevorratung in der dunklen Jahreszeit<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>U-Schaft</li><li>hochflexibel und extrem biegsam</li><li>lange Lebensdauer</li><li>geeignet für Holz, Stahl, Buntmetalle, Aluminium</li><li>Präzisionswerkzeug von Drillcraft Werkzeuge</li></ul>"
+}

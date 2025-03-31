@@ -1,0 +1,4 @@
+{
+    "uvp": 29.9,
+    "attributes": "<ul><li>12 V / 2,0 Ah Li-Ion Ersatz-Akku</li><li>passend für YARD FORCE Akku-Regenfasspumpe LX AWP1</li><li>optimierte Akkulaufzeit dank Schnellladetechnologie</li><li>für verlängerte Betriebszeit deiner Regenfasspumpe</li><li>platzsparendes, kompaktes Design</li></ul>"
+}

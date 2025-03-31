@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>reichhaltige Auswahl an Früchten</li><li>platzsparende Anbaumöglichkeiten</li><li>kontinuierliche Ernte</li><li>zuverlässige Erträge</li><li>gute Anpassungsfähigkeit<br/></li></ul>"
+}

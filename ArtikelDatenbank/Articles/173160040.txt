@@ -1,0 +1,4 @@
+{
+    "uvp": 30.46,
+    "attributes": "<ul><li>extra lange Ausführung 295mm</li><li>Kopf um 90° nach oben und unten schwenkbar</li><li>“ Quick-Out System“</li><li>48er Kraftverzahnung</li><li>ergonomisch geformtes 2-Komponenten-Heft<br/></li></ul>"
+}

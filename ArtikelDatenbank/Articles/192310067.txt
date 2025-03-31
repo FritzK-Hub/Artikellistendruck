@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>dekorative LED-Lichterkette mit 80 LED</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>für Innen und Außen vielfältig einsetzbar</li><li>vielseitig einsetzbare Leuchtdekoration</li><li>mit sparsamer LED-Technik ausgestattet<br/></li></ul>"
+}

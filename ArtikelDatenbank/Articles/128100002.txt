@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>Gartentisch 90 x 90 cm mit Aluminiumgestell</li><li>ein wahrer Blickfang für deine Terrasse, Balkon oder Garten</li><li>hochwertige Nonwood Tischplatte</li><li>robuster und pflegeleichter Terrassentisch</li><li>bietet viel Platz für Freunde und Familie</li></ul>"
+}

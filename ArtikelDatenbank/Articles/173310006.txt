@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>batteriebetriebenes Treppenlicht-Set 3 Stück aus robustem Kunststoff</li><li>acht warmweiße LEDs pro Lampe schaffen eine klare Sicht</li><li>Bewegungsmelder schaltet das Licht bei Erkennung an</li><li>auch für Abstellkammern, Hauseingängen oder Keller geeignet</li><li>einfache und schnelle Montage dank Klebepads</li></ul>"
+}

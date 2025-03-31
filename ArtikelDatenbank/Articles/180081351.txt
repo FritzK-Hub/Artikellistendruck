@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>passend für automatisches Bewässerungssystem Vanlet</li><li>Länge: 20 m<br/></li></ul>"
+}

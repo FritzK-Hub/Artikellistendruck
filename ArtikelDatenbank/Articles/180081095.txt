@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>2-teiliges Pikierset aus Kunststoff</li><li>bestehend aus Pikiergabel und Pikierstab in 2 Stärken</li><li>zum schonenden Versetzen von Jungpflanzen</li><li>ermöglicht eine schnelle und einfache Vermehrungsarbeit</li><li>wiederverwendbar</li></ul>"
+}

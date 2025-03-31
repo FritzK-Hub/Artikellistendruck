@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>5-teiliger SDS Plus Hammerbohrersatz</li><li>für Steine, Mauerwerk, Putze</li><li>geeignet für Geräte mit einer SDS Plus Aufnahme</li><li>für Profis und Hobbyheimwerker</li><li>in praktischer Kunststoffkassette</li></ul>"
+}

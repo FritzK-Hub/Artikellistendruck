@@ -1,0 +1,4 @@
+{
+    "uvp": 2.39,
+    "attributes": "<ul><li>Flachstange aus gezogenem Stahl </li><li>Länge: ca. 100 cm</li><li>Breite (a): 10 mm</li><li>Materialstärke (b): 2 mm</li><li>Material: Stahl, gezogen</li></ul>"
+}

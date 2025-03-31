@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Antibeschlag Autoschwamm von Nigrin</li><li>ideal für die Windschutzscheibe</li><li>sehr saugfähig und schonend</li><li>für Glas, Spiegel und Fahrzeugscheiben</li><li>nass und trocken verwendbar</li></ul>"
+}

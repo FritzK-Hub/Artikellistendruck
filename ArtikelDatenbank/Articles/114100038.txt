@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>Briefkasten im modernen Design mit Anthrazit und Holzoptik</li><li>robuster Stahl sorgt für beständige Haltbarkeit</li><li>effektiver Schutz vor Witterungseinflüssen</li><li>praktisches Zeitungsfach und Namensschildfach inklusive</li><li>schnelle, kinderleichte Installation dank Montagezubehör</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>Schraubklemme für Drahtseile</li><li>aus verzinktem Temperguss</li><li>geeignet für Drahtseile von 4 bis 6 mm</li><li>klemmt Drahtseile bis 6 mm</li><li>Gewicht ca. 40 g</li></ul>"
+}

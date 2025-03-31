@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Anzündkamin für Holzkohle oder Grillbriketts</li><li>stabiler Griff mit Hitzeschutzblech</li><li>keine Brennzusätze wie Grillanzünder oder Brennspiritus nötig</li><li>schnelles Durchglühen bis in die oberste Schicht</li><li>einfach, schnell und praktisch im Einsatz</li></ul>"
+}

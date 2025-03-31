@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>erhöht die Sichtbarkeit im Straßenverkehr</li><li>für den einfachen Austausch oder Ersatz</li><li>mit einer bis zu 4-fach längere Lebensdauer</li><li>leistungsfähiger als herkömmliche Standardleuchten</li><li>erspart das mehrmalige Auswechseln der Scheinwerferlampe<br/></li></ul>"
+}

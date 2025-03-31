@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>flache Pfostenkappe für 91 x 91 mm Kantholz-Zaunpfosten</li><li>einfache Befestigung, kann schnell auf den Pfosten aufgesteckt werden</li><li>schützt die Oberseite von Kantholzpfosten vor Witterungseinflüssen</li><li>verleiht deinem Zaun ein elegantes und hochwertiges Aussehen</li><li>bestehend aus Kupfer, was sie robust und langlebig macht<br/></li></ul>"
+}

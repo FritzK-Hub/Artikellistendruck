@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Beistelltisch aus Akazienholz</li><li>robust und witterungsbeständig</li><li>zusammenklappbar</li><li>einfach aufzubauen</li><li>Klapptisch mit geölter Oberfläche</li></ul>"
+}

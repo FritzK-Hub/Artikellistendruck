@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Dreiarmiger Rasenprenger</li><li>einfaches Aufstellen mittels Erdspieß</li><li>4 Auslauföffnungen pro Schenkel</li><li>gleichmäßige Bewässerung durch präzise Verteilung der Auslaufdüsen</li><li>Kreisregner für bis zu 200 m² Bewässerungsfläche</li></ul>"
+}

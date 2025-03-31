@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>UV-stabiler Schutz für langlebiges Holz</li><li>keine Grundierung vorab notwendig</li><li>bringt die Holzmaserung optimal hervor</li><li>seidenmattes bis seidenlänzendes Finish</li><li>schadstoffarm und geruchsneutral<br/></li></ul>"
+}

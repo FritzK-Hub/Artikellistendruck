@@ -1,0 +1,4 @@
+{
+    "uvp": 1739.95,
+    "attributes": "<ul><li>    große Relax-Insel Marbella    </li><li>klappbares Verdeck und einklappbare Fußteile    </li><li>Liegefläche beliebig umbaubar    </li><li>inkl. Polsterauflagen und 4 Kissen</li><li>    Aluminium-Gestell mit Polyrattan-Bespannung</li></ul>"
+}

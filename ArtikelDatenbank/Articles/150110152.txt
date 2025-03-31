@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Auspuff-Montagepaste für die schnelle, dauerhafte und gasdichte Montage</li><li>Rohre rosten nicht fest</li><li>erleichtert ein späteres Auswechseln der Rohre</li><li>ist einfach und sicher zu verarbeiten</li><li>härtet durch Hitze aus und dichtet vollkommen ab</li></ul>"
+}

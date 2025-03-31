@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>frühzeitige Fruchtbildung</li><li>hoher Mehltauresistenz</li><li>kompakter Wuchs für Topf und Balkon</li><li>hohe Erträge</li><li>vielseitiger Standort<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Gewindestange M12 mit metrischem Vollgewinde</li><li>auf der Baustelle oder in der Werkstatt vielseitig einsetzbar</li><li>aus massivem Edelstahl gefertigt, rostfrei</li><li>mit Metallsäge oder Trennschleifer individuell zuschneidbar</li><li>in Kombination mit einer Verbindungsmutter verlängerbar<br/></li></ul>"
+}

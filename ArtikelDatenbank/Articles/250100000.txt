@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Werkzeugsatz zum Zurückdrehen der vorderen und hinteren Bremskolben in den Bremssattel</li><li>Spindel mit magnetischem Adapteraufsatz</li><li>für Rückstellungen durch Rechts-Drehung ausgelegt</li><li>Adapter für diverse Bremssysteme verschiedener Fahrzeughersteller</li><li>Ausführliche und illustrierte Bedienungsanleitung mit Adapter Zuordnungsliste</li></ul>"
+}

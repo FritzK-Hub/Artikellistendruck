@@ -1,0 +1,4 @@
+{
+    "uvp": 83.97,
+    "attributes": "<ul><li>geeignet zum Absaugen/Ausblasen von Schmutz und Staubpartikeln</li><li>besonders für schwer zugängliche Stellen geeignet</li><li>mit Einhandumschaltung zwischen den Funktionen</li><li>mit robustem Kunststoffgehäuse</li><li>umfangreiches Zubehör im Lieferumfang<br/></li></ul>"
+}

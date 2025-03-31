@@ -1,0 +1,4 @@
+{
+    "uvp": 129.95,
+    "attributes": "<ul><li>Solar Gartendusche für Camping oder Garten</li><li>keine zusätzliche Energiekosten durch Solarengerie</li><li> mit 8 Liter Wassertank, wird durch Sonnenstrahlung erwärmt<br/></li><li>aus stabilem PVC+ABS mit Chrome/Edelstahl Armatur</li><li>inklusive warm/kalt Mischarmatur<br/></li></ul>"
+}

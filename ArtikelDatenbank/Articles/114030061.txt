@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>25 Premium Messer </li><li>aus transparentem Kunststoff</li><li>extra stabil und robust</li><li>ideal für Party oder Picknick</li><li>lebensmittelecht</li></ul>"
+}

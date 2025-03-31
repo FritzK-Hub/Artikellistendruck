@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Garagenknebelschloss mit 2 Schlüsseln</li><li>abschließbar</li><li>Vierkant: 8mm stark, mit einer Länge von 50mm sowie Gewindeloch</li><li>verchromte Oberfläche</li></ul>"
+}

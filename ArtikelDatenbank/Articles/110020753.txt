@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>hält Schnecken ab</li><li>zuverlässige Barrierewirkung</li><li>regen- und witterungsbeständig</li><li>farb- und geruchlos</li><li>nicht schädlich für Kinder und Tiere<br/><br/></li></ul>"
+}

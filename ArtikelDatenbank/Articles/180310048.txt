@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>zur Reinigung von Autoscheiben oder anderen Glasflächen</li><li>reinigt Scheiben und Fenster rückstandslos sowie schlierenfrei</li><li>sorgt für eine klare Sicht und sichere Fahrt</li><li>entfernt selbst hartnäckige Verschmutzungen wie Insektenreste</li><li>schnelle und einfache Handhandhabung<br/></li></ul>"
+}

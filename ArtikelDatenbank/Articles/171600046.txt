@@ -1,0 +1,4 @@
+{
+    "uvp": 61.99,
+    "attributes": "<ul><li>tiefes Eindringen in die Holzoberfläche für effektiven Schutz</li><li>nachhaltige Rezeptur aus nachwachsenden Pflanzenölen und Naturharzen</li><li>wasserabweisend und beständig gegen viele Haushalts-Chemikalien</li><li>für den Innen- und witterungsgeschützten Außenbereich geeignet</li><li>atmungsaktiver und dampfdurchlässiger Holzschutz</li></ul><p></p>"
+}

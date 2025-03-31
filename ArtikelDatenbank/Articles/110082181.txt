@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>kompakt und passt in jeden Kühl- oder Gefrierschrank</li><li>robustes Kunststoffmaterial für eine lange Lebensdauer</li><li>analoge Anzeige für einfaches Ablesen der Temperatur</li><li>Temperaturbereich von -34°C bis +48°C</li><li>praktische Aufhängung für eine einfache Platzierung<br/></li></ul>"
+}

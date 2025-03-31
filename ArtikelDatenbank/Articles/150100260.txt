@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>    Kabelklemmen aus massivem Stahl    </li><li>mit verzinkter Oberfläche    </li><li>für Flachbandkabel und Rundkabel geeignet    </li><li>unverzichtbare Helfer bei Verkabelungen an Fahrzeugen    </li><li>zum einfachen Sichern und Verlegen des Kabels am Rahmen usw.</li></ul>"
+}

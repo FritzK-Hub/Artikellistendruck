@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Feldsalat Verte a coeur plein 3</li><li>kompakt wachsende Pflanzen</li><li>mit dunkelgrünen bis blaugrünen Blättern</li><li>Probefeldgetestete Qualität</li><li>für Herbst- und Frühjahrsernte</li></ul>"
+}

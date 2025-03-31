@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>misst Temperatur, Luftfeuchtigkeit und zeigt die Uhrzeit</li><li>Blätterzweig-Verzierung aus Metall für stilvolle Optik</li><li>Blumenschale mit Palmfasern ideal für Pflanzen, reguliert Feuchtigkeit</li><li>hochwertiges Metall ist Wetterfest und langlebig für drinnen &amp; draußen</li><li>leicht ablesbare Skalen für schnelle und präzise Messungen<br/></li></ul>"
+}

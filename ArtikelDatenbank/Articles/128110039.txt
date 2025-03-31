@@ -1,0 +1,4 @@
+{
+    "uvp": 206.95,
+    "attributes": "<ul><li>2-Sitzer Gartenbank</li><li>aus Metall/Streckmetall</li><li>wetterfest und rostfrei</li><li>Armlehnen aus Aluguss</li><li>robuste Metallbank</li></ul>"
+}

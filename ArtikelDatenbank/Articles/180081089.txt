@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>als Kniepolster oder Sitzkissen nutzbar</li><li>robuste Schaumstoffqualität</li><li>Knieschoner für einfache Handhabung</li><li>pflegeleicht da abwaschbar</li><li>Kniekissen schont Knie und Gelenke</li></ul>"
+}

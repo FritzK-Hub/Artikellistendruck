@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>lässt Holz wieder wie neu aussehen</li><li>tropfgehemmt, leicht zu verarbeiten</li><li>ideal als Vorbereitung für nachfolgende Pflege</li><li>kraftvolle Reinigung und Entgrauung</li><li>universell einsetzbar, sehr ergiebig<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Deckel für Aufbewahrungsbox</li><li>passend zur Stapelbox 150200016</li><li>in transparent</li><li>Deckel aus robustem Kunststoff</li><li>schützt vor äußeren Einflüssen</li></ul>"
+}

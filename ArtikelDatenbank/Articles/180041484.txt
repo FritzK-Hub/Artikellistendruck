@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>effiziente Reinigung in kürzester Zeit</li><li>kompatibel mit vielen Benzin-Rasenmähern</li><li>schnelle und einfache Handhabung</li><li>verhindert Verschmutzung des Geräte-Lagerplatzes</li><li>fördert die Langlebigkeit des Rasenmähers</li></ul>"
+}

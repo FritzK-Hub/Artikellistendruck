@@ -1,0 +1,4 @@
+{
+    "uvp": 0.99,
+    "attributes": "<ul><li>integrierte Holzschraube, angenietet</li><li>wetterbeständig verzinkt</li><li>ideal für den Außenbereich geeignet</li><li>universal passend für alle Pfosten und Zaunelemente</li><li>schnelle, einfache Montage</li></ul>"
+}

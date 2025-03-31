@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>Sonnenschirmständer halbrund mit Betonfüllung</li><li>seine 10 kg sorgen für einen besseren Halt </li><li>hält auch stärkere Winde stand</li><li>passend für halbrunden Balkonschirmen</li><li>dank schlichtem Design ein echter Blickfang<br/></li></ul>"
+}

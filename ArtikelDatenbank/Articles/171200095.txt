@@ -1,0 +1,4 @@
+{
+    "uvp": 37.95,
+    "attributes": "<ul><li>Holzlasur Garten-Grau 2,5 Liter in Anthrazit, matt von DecoPro</li><li>für dekorative und schmutzabweisende Anstriche im Innen- und Außenbereich</li><li>betont die Holzmaserung und verleiht dem Holz einen neuen Look</li><li>ist atmungsaktiv, schnelltrocknend und abriebsfest</li><li>bietet je nach Situation einen Langzeitschutz von bis zu drei Jahren</li></ul>"
+}

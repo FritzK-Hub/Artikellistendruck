@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Universal Bohrfutter für 2 verschiedene Größen</li><li>aus Stahl, schwarz lackiert</li><li>passt auf fast alle gängigen Zahnkranzbohrfutter</li><li>geeignet ua. für AEG, Bosch, Skil, B&amp;D, Makita, Milwaeukee uvm.</li><li>idealer Ersatz für verlorengegangene oder beschädigte Schlüssel</li></ul>"
+}

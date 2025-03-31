@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>für die Teilreinigung und Instandhaltung von Motoren oder Getrieben</li><li>entfernt schnell und zuverlässig Fette, Öle und hartnäckige Verschmutzungen</li><li>verhindert die Bildung von Rost und Korrosion</li><li>verlängert die Lebensdauer der gereinigten Teile</li><li>einfach in der Handhabung mit angenehmen Zitronenduft<br/></li></ul>"
+}

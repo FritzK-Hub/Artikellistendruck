@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Eingangsmatte 58 x 38 cm für intensiv genutzte Räume</li><li>in verschiedenen Weihnachtsmotiven erhältlich</li><li>für Innen- und überdachten Außenbereich geeignet</li><li>passend für Eingangsbereiche und Flure von Büros</li><li>lässt sich leicht reinigen und ist waschbar<br/></li></ul>"
+}

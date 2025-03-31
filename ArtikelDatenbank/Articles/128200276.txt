@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Wespenfalle Ø 9 x 13 cm aus Glas in fuchsia</li><li>wirksamer Schutz vor Wespen und Bienen</li><li>umweltfreundlich, ohne Einsatz von Chemie</li><li>trichterförmiges Einflugloch verhindert das Entkommen</li><li>zum Aufstellen oder dank Metallbügel aufhängbar<br/></li></ul>"
+}

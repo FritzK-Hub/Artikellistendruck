@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>robuste und leichte Handsäge</li><li>superscharfe Zähne</li><li>schneidet auf Zug und Stoß</li><li>Winkelanschlag 45° und 90°</li><li>gummierter Griff</li></ul>"
+}

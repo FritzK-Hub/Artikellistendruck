@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>moderne Aufbewahrungsbox Adria Mini von Wenko</li><li>aus stabilem, schwarzem Polypropylen gefertigt</li><li>sorgt für mehr Ordnung im Bad, Kinderzimmer oder Küche</li><li>bietet mit den Maßen 19 x 14 cm ausreichend Stauraum </li><li>mit trendiger Optik in konischer Form</li></ul>"
+}

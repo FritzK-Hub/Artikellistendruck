@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Schaltschrankschlüssel mit Kunststoffadapter 1/4''<br/></li><li>gefertigt aus stabilem Zink-Druckguss<br/></li><li>zum Öffnen oder Schließen von Heizungen oder Schaltanlagen</li><li>ist universell einsetzbar</li><li>einfach in der Handhabung, leicht zu verstauen<br/></li></ul>"
+}

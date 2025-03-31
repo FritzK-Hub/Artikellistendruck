@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>für die Verbindung von Pflanzstäben</li><li>unauffällige grüne Farbe</li><li>witterungsbeständig</li><li>drehbar</li><li>geeignet für Pflanzstäbe mit Ø 10 mm</li></ul>"
+}

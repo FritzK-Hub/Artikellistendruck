@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>pflegeleichte, abwaschbare leicht zuschneidbare Vinyl-Tischdecke</li><li>elastisch, reißfest, wasserabweißend, Ideal als Tischschoner</li><li>Länge wählbar - bis zu ganzen Rollen (25m)</li><li>schönes Design, vielseitig einsetzbar</li><li>ideal für rechteckige Tischplatten</li></ul><p></p>"
+}

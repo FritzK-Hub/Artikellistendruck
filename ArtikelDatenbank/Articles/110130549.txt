@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>langlebiges und robustes Material aus Kiefern- und Fichtenholz</li><li>zum Abdecken von empfindlichen Kanten und unsauberen Abschlüsse</li><li>unbehandeltes Holz für eine authentische Optik</li><li>vielseitig einsetzbare Leiste für Holzkonstruktionen und Möbelbau</li><li>umweltfreundliches, natürliches Material für eine nachhaltige Wohn- und Arbeitsumgebung<br/></li></ul>"
+}

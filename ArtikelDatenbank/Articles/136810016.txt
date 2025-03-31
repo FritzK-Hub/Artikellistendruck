@@ -1,0 +1,4 @@
+{
+    "uvp": 36.95,
+    "attributes": "<ul><li>qualitativ hochwertige Werkstattwagen-Einlagen</li><li>mit 11 Werkzeugen bestückbar</li><li>geeignet für den harten Werkstatt-Einsatz im Dauerbetrieb</li><li>aus robustem, hochwertigem Hartschaum</li><li>passend für alle BGS® Werkstattwägen<br/></li></ul>"
+}

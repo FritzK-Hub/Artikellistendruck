@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>mit verzinkter und gekerbter Schnittkante<br/></li><li>robuster Fangsack</li><li>ohne Teleskopstiel</li><li>handlicher Erntehelfer</li><li>erleichtert das Ernten von Obst<br/></li></ul>"
+}

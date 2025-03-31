@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Glasbohrer Ø 5,0 x 70 mm aus Hartmetall</li><li>Bohrer mit lanzenförmiger und hinterschliffener Hartmetallspitze</li><li>speziell für kritische Metalle hergestellt</li><li>kann schnell und präzise Bohrungen durchführen</li><li>die Klingen bleiben bis zu fünf-mal länger scharf<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>    für digitalen Empfang von SAT-Programmen z.B. Astra, Eutelsat oder Türksat    </li><li>zum Anschluss eines Digital-Receivers oder eines TV mit eingebautem Digital-Receiver    </li><li>ideal für UHD/HDTV    22-kHz </li><li>Umschaltung zwischen Low- und High-Band    </li><li>mit Wetterschutzhülle</li></ul>"
+}

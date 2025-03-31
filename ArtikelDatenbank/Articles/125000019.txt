@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Sonnenhof Rasen-Lücken-Dicht 3in1 1,5 kg</li><li>bereits eine fertige Mischung für den sofortigen Einsatz</li><li>Mischung aus RSM Rasensamen, Dünger und Keim-Substrat</li><li>zur Reparatur von Rasenlücken und Kahlstellen</li><li>ausreichend für eine Fläche von bis zu 10 m²</li></ul>"
+}

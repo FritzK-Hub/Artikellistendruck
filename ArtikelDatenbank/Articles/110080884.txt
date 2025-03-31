@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Pflanzenroller aus Holz</li><li>forrmschönes Design, leicht verschiebbar</li><li>mit 4 Lenkrollen</li><li>bis 120 kg belastbar</li><li>unbehandeltes Holz</li></ul>"
+}

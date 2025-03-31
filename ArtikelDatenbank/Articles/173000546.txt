@@ -1,0 +1,4 @@
+{
+    "uvp": 54.99,
+    "attributes": "<ul><li>Solar-Steckleuchte Leuchtturm 50 cm aus Aluminium</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>verfügt über 3 verschiedene Einstellungen</li><li>stabiler Halt dank mitgeliefertem Erdspieß</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>leistungsfähige Varta High Energy Batterien</li><li>Set beinhaltet 4 Longlife AAA-Batterien</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>nicht wiederaufladbar</li><li>passend für Spielzeuge, Taschenlampen oder Mauspads<br/></li></ul>"
+}

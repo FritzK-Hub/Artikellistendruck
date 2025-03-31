@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Klappleiter 4-Stufig aus Aluminium mit Haltebügel</li><li>ca. 80 mm breite Stufen mit Anti-Rutsch-Riffelung</li><li>ideal in der Garage, Garten oder Haushalt geeignet</li><li>verfügt über eine Belastbarkeit von bis zu 150 kg</li><li>bei Nichtgebrauch platzsparend zusammenklappbar</li></ul>"
+}

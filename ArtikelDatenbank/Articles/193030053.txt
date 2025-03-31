@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>zum Füttern von freilebenden Vögeln wie Meisen oder Spatzen</li><li>besonders stabil, aus strapazierfähigem Kunststoff gefertigt</li><li>bietet ausreichend Platz für Streufutter, Mischfutter oder Erdnüsse</li><li>leichtes aufhängen am Baum, Dachbalken oder Gartenhäuschen</li><li>hochschiebbare Deckel erleichtert das Befüllen des Futtersilos<br/></li></ul>"
+}

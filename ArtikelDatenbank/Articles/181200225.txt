@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Rosenkohl Groninger für ca. 120 Pflanzen</li><li>die mittelgroßen bis großen Röschen sind winterhart</li><li>mit wertvollen Mineral- und Ballaststoffen und Vitamine A, C und B2</li><li>zur Verfeinerung deiner Gemüsebeilagen</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>extra Reichweite dank Teleskopstiel</li><li>schnell bereit durch automatische Schmierung</li><li>flexibler Sägekopf für präzise Arbeiten</li><li>ergonomisch und bequem mit Tragegurt</li><li>hohe Sicherheit durch Schutzmechanismen</li></ul>"
+}

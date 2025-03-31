@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>hohe Qualität der Signalübertragung</li><li>robuste Metallkonstruktion</li><li>einfache Installation</li><li>Schutz gegen Signalverlust</li><li>einfache Handhabung<br/></li></ul>"
+}

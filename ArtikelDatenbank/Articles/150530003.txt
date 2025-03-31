@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>6 Geschenktaschen im Set</li><li>Geschenkverpackung aus Kraftpapier</li><li>individuell beschreibbar</li><li>stabil und wiederverwendbar</li><li>braune Geschenktüten</li></ul>"
+}

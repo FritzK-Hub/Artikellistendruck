@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>universell einsetzbarer Kokosstrick </li><li>reiß-fest und ungefärbt</li><li>Naturmaterial, 100 % Kokosfasern</li><li>umweltfreundlich da aus nachwachsenden Rohstoffen</li><li>aus 2 Strängen gedreht</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>Handbohrersatz 4-teilig</li><li>robuste Verarbeitung</li><li>verschiedene Größen</li><li>einfache Anwendung</li><li>lange Standzeit</li></ul>"
+}

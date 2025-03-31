@@ -1,0 +1,4 @@
+{
+    "uvp": 399.95,
+    "attributes": "<ul><li>rustikales Design im skandinavischen Stil</li><li>platzsparend und dekorativ zugleich</li><li>wetterfest und frostsicher bei Entleerung</li><li>einfache Wasserentnahme dank Wasserhahnvorbereitung</li><li>sofort startklar mit Anschluss-Set</li></ul>"
+}

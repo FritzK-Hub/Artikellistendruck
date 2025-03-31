@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>LED-Wanddekoration Rentier 68 x 33 cm</li><li>mit 96 warmweißen LED’s versehen</li><li>schafft in Wohnräumen eine tolle Atmosphäre</li><li>besitzt eine Timerfunktion von 8 Stunden</li><li>inklusive eine ca. 5 m lange Zuleitung</li></ul>"
+}

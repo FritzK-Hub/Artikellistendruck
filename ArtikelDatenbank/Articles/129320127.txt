@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>einzigartiger italienischer Geschmack</li><li>hoher Ertrag und Vielseitigkeit</li><li>optimale Anbaubedingungen</li><li>einfache Pflege</li><li>sicherheitsbewusster Anbau<br/></li></ul>"
+}

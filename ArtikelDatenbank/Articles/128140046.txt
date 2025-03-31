@@ -1,0 +1,4 @@
+{
+    "uvp": 39.99,
+    "attributes": "<ul><li>aus PE-Gewebe, wasserdicht<br/></li><li>ideal als Schattenspender oder Regenschutz</li><li>Gartenpavillon mit Stahlrohrgestänge</li><li>inklusive Erdspießen, Spannschnüren</li><li>schneller Auf- und Abbau</li></ul><ul><p><br/></p></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Alu-Grillfolie zum Grillen, Braten, Backen und Garen</li><li>auch zum Frischhalten geeignet</li><li>geruchs- und geschmacksfrei</li><li>reißfest, hitzebeständig und hygienisch</li><li>extra breit (45 cm)</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 95.95,
+    "attributes": "<ul><li>leichtes Aluminiumrohr-Gestell bietet Stabilität</li><li>wetterbeständiges 600D Oxford Polyester schafft Komfort</li><li>verstellbare Rückenlehne für flexible Entspannung</li><li>hölzerne Armlehnen als zusätzlicher Sitzkomfort</li><li>individuell anpassbarer Sonnenschutz für optimierten Schatten</li></ul>"
+}

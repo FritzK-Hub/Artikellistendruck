@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>Schleifpapier für Wand- und Deckenschleifer </li><li>für alle Oberflächen geeignet</li><li>für runde Schleifköpfe (215 mm)</li><li>5 Stück im Set, mit Absauglochung</li><li>100-er Körnung<br/></li></ul>"
+}

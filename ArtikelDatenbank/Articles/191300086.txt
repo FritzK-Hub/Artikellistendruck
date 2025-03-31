@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>sicherer und handlicher Campingkocher aus schwarzem Metall</li><li>ideal für verschiedene Outdoor-Aktivitäten</li><li>für 190 g Butangasstechkartuschen geeignet</li><li>mit stufenlos verstellbarem Zifferblatt</li><li>bei Nichtgebrauch platzsparend verstaubar<br/></li></ul>"
+}

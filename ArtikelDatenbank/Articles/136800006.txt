@@ -1,0 +1,4 @@
+{
+    "uvp": 219.95,
+    "attributes": "<ul><li>101-teiliges Werkzeugset für vielseitige Einsatzmöglichkeiten</li><li>enthält Maul/-Ringschlüsselsatz, Zangensatz, Hammer, Feinsäge uvm.</li><li>perfekter Begleiter für Heimwerker und Profis gleichermaßen</li><li>hochwertige Halteeinlagen für optimale Organisation</li><li>stabiler Koffer für zuverlässigen Werkzeugschutz</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>praktische Wäscheleine mit 30 m Länge</li><li>in verschiedenen Farben erhältlich (freie Farbauswahl nicht möglich)<br/></li><li>aus stabilem Stahldraht gefertigt</li><li>mit einer Kunststoffummantelung versehen</li><li>passende Ersatzleine für Wäschespinnen oder Wäscheständer<br/></li></ul>"
+}

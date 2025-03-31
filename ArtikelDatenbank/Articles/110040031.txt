@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>    wiederverschliessbare Kunststofftüten</li><li>    3 verschiedene Größen</li><li>aus recyclebarem, umweltfreundlichen Polyethylen hergestellt</li><li>universell einsetzbar</li><li>kein Aufreißen, stets fest verschlossen</li></ul>"
+}

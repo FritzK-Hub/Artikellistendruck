@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>2 steckbare Türkantenschoner</li><li>Fahrzeuge mit einfachem Türfalz</li><li>einfache Montage durch Aufstecken</li><li>für Mindestspaltmaß 5 mm</li><li>zusätzliche Sicherheit durch 4 Reflektoren pro Leiste</li></ul>"
+}

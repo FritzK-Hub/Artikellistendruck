@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>Verlängerungs-Satz 3-teilig<br/></li><li>aus Carbonstahl</li><li>glanzverchromte Oberfläche</li><li>extra lange Ausführung</li><li>3/8\" Antrieb</li></ul>"
+}

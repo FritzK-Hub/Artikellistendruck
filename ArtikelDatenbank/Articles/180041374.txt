@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Arbeitsbreite von 320 mm bis 480 mm per Flügelmutter einstellbar</li><li>einfache Handhabung, auch bei längeren Arbeiten</li><li>2 federnde Zinken für müheloses Kehren</li><li>für Stiele mit 2,5 cm Durchmesser</li><li>Zinken aus verzinktem Stahl</li></ul>"
+}

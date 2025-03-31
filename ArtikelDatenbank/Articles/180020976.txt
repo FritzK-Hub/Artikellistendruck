@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li><div>robuste Schlauchschelle aus verzinktem Stahl</div></li><li><div>mit geschlitzter Sechskant-Schraube</div></li><li><div>Schneckengewinde für festen Halt</div></li><li><div>qualitativ hochwertige Verabeitung</div></li><li><div>findet im Maschinenbau, Sanitärbereich oder im Automobilbau Verwendung</div></li></ul>"
+}

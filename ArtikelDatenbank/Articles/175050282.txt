@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Reifenfüller und Druckprüfer</li><li>mit Digitalanzeige und Automatikabschaltung</li><li>Handgriff &amp; Gehäuse aus Aludruckguss</li><li>komplett mit Anschlussnippel, Luftablassventil im Griff</li><li>verpresster Luftschlauch, Ventilstecker</li></ul>"
+}

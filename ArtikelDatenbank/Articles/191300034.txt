@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Zeltheringe Set bestehend aus 6 Stück</li><li>aus massivem Stahl gefertigt</li><li>geeignet für weiche bis mittelharte Böden</li><li>für den Einsatz rund um Garten, Camping und Freizeit</li><li>zur sicheren Befestigung von Zelten oder Netze<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 15.99,
+    "attributes": "<ul><li>800 ml Grundstoff Lecithin von Solabiol®</li><li>für natürliches Wachstum von Nutz- und Zierpflanzen</li><li>unterstützt die Abwehr von Pilzkrankheiten</li><li>individuell einsetzbar</li><li>aus 100% natürlichem Ursprung<br/></li></ul>"
+}

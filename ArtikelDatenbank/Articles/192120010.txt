@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Schlitten Alpinafun mit 90 cm Länge</li><li>aus robustem, lackiertem Buchenholz gefertigt</li><li>sorgt für viel Spaß und Bewegung im Schnee</li><li>besitzt eine Belastbarkeit von bis zu 90 kg</li><li>Kunststoff-Schutzkappen und Kufen für mehr Sicherheit<br/></li></ul>"
+}

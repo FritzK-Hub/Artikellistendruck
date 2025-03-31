@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>solarbetriebene Schwimmkugelleuchte 8 cm</li><li>aus beständigem Kunststoff gefertigt</li><li>Farbwechselmodus zwischen grün, rot und blau</li><li>setzt Gartenwege, Teiche oder Blumenbete gekonnt in Szene</li><li>automatisches Laden des Akkus durch eingebaute Solarzelle<br/></li></ul>"
+}

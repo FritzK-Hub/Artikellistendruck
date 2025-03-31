@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>4 Hülsenmuttern M6 im Set</li><li>aus verzinktem Metall für Korrosionsschutz</li><li>mit Flachkopf für für bündige Montage</li><li>ideal für durchgehende Bohrungen</li><li>Innensechskant  Antrieb</li></ul><p></p>"
+}

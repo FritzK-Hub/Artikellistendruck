@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Wischer in Grüngrau aus robustem Kunststoff</li><li>mit straffe, farbige Borsten</li><li>längere Lebensdauer</li><li>bruch- und splittersicher</li><li>größtmögliche Aufnahme von losem Schmutz<br/></li></ul>"
+}

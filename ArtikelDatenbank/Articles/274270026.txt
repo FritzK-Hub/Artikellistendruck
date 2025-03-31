@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Telefonzange von GERMANIA®</li><li>Verwendung bei filigranen Arbeiten an elektronischen Bauteilen</li><li>präzises Positionieren, Greifen und Schneiden</li><li>XXL Länge</li><li>tauchisolierte Griffe für sicheres Arbeiten</li></ul>"
+}

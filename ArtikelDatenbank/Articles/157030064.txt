@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>lösemittelhaltige Dünnschichtlasur für außen</li><li>wetterbeständig mit UV-Schutz</li><li>wasserabweisend und feuchtigkeitsregulierend</li><li>tiefenwirksam und offenporig</li><li>bis zu 4 Jahre Langzeitschutz</li></ul>"
+}

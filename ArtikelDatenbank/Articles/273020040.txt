@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>GERMANIA® Magnet Bithalter mit Sechskant-Antrieb</li><li>universal einsetzbar für alle Akkuschrauber und Bohrmaschinen</li><li>mit einer 1/4\" Aufnahme</li><li>Magnetspitze mit starker Wirkung</li><li>zur Verwendung von Sechskant-Bits in verschiedenen Ausführungen</li></ul>"
+}

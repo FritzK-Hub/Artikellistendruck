@@ -1,0 +1,4 @@
+{
+    "uvp": 199.0,
+    "attributes": "<ul><li>hohe Leistung für schwieriges Gelände</li><li>Anti-Vibrationsgriff bietet ermüdungsfreies Arbeiten</li><li>störungsarmer Motorlauf dank Elektronik</li><li>leichtes Starten durch Kraftstoffpumpe</li><li>vielseitige Schneidwerkzeuge inklusive</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Anschlussschlauch 500 mm</li><li>sicher: stabile Verbindung &amp; Verlängerung bestehender Sanitärleitungen</li><li>widerstandsfähig: mit edelstahlumflochtener Ummantelung gegen Korrosion</li><li>hochflexibel und druckfest</li><li>mit beidseitiger 1/2\" Mutter</li></ul>"
+}

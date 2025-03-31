@@ -1,0 +1,4 @@
+{
+    "uvp": 60.99,
+    "attributes": "<ul><li>extrem witterungsbeständig für den Einsatz auf See und im Freizeitbereich</li><li>geeignet für die Behandlung von Holz auf Booten, Yachten, Gartenmöbeln und Terrassen</li><li>abriebfest und beständig gegenüber Alkohol und Haushaltsreinigern</li><li>leicht aufzutragen und ergibt ein professionelles, glänzendes Finish</li><li>Schutz vor Austrocknung, Rissbildung und Sonneneinstrahlung</li></ul>"
+}

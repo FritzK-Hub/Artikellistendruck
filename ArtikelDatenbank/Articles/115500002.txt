@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Garderobenleiste mit 10 Haken</li><li>modernes und schlichtes Design</li><li>aus hochwertigem Kunststoff</li><li>keine Kanten oder Spitzen</li><li>passt zu jedem Raum<br/><br/></li></ul>"
+}

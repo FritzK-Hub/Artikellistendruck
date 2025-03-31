@@ -1,0 +1,4 @@
+{
+    "uvp": 3.89,
+    "attributes": "<ul><li>ovale Schraubklemmen für Drahtseile</li><li>aus Aluminium</li><li>geeignet für Drahtseile bis 3 mm</li><li>klemmt zuverlässig und sicher Drahtseile bis 3 mm</li><li>2 Drahtseilklemmen im Set</li></ul>"
+}

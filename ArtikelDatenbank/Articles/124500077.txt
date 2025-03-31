@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>Naturstein-Optik für harmonisches Gartenambiente</li><li>robustes Material trotzt UV-Licht und Wetter</li><li>großzügiges Volumen für nachhaltige Wassernutzung</li><li>einfache Installation dank Anschluss-Set</li><li>Funktionalität kombiniert mit dekorativem Design</li></ul>"
+}

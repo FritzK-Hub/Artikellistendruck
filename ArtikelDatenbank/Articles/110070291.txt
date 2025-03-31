@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Kaminbesteck-Garnitur 5-teilig</li><li>Kaminbesteck-Ständer mit Edelstahl-Verkleidung</li><li>Kaminbesteck-Ständer mit praktischem Tragegriff</li><li>robustes Eisenbesteck mit edlen Edelstahlgriffen</li><li>Bodenplatte fängt die restliche Asche auf<br/></li></ul>"
+}

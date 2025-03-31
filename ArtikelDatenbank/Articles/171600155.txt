@@ -1,0 +1,4 @@
+{
+    "uvp": 16.49,
+    "attributes": "<ul><li>langanhaltender Schutz vor Wasser und Schmutz</li><li>aufhellender Farbakzent erzeugt frischen Look<br/></li><li>atmungsaktive Oberfläche für gesundes Raumklima</li><li>vielseitig einsetzbar auf stark beanspruchten Flächen</li><li>schnelle Trocknung ermöglicht zügige Weiterbearbeitung</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>20 Unterlegscheiben aus Polyamid 10,5 mm</li><li>gute Isolation gegen Feuchtigkeit und Elektrizität</li><li>beständig gegen Korrosion, Abrieb und die meisten Chemikalien</li><li>verhindern Schäden an Bauteilen und Oberflächen beim Anziehen von Schrauben und Muttern</li><li>bis zu einem gewissen Grad geräusch- und vibrationsdämpfend<br/></li></ul>"
+}

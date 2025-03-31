@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Tragkraft pro Rad ca. 100 kg</li><li>Feststellbremse zum Blockieren des Rades</li><li>schwenkbares Rad mit Profil</li><li>rollengelagerte Transportrolle</li><li>Lenkrolle mit Vollgummi</li><li>Rad inklusive Fadenschutz</li></ul>"
+}

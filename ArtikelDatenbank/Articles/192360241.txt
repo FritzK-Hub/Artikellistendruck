@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Kerzenhalter-Set 2 Stück 10 cm in gold</li><li>passend für Tafel- oder Spitzkerzen</li><li>schafft eine entspannte Atmosphäre in Wohnräumen</li><li>vielseitig einsetzbare Dekoration</li><li>eignet sich auch zum Dekorieren vom Weihnachtskranz<br/></li></ul>"
+}

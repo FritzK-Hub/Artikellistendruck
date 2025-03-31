@@ -1,0 +1,4 @@
+{
+    "uvp": 2.95,
+    "attributes": "<ul><li>einfach zu bearbeitendes Material aus Kiefern- und Fichtenholz</li><li>unbehandelt für eine authentische Optik</li><li>zum Bauen eigener Möbelstücke oder für Projekte mit kompakteren Maßen</li><li>für Renovierungsarbeiten und DIY-Projekte</li><li>vielseitig einsetzbarer Rundstab für präzise Holzkonstruktionen</li></ul>"
+}

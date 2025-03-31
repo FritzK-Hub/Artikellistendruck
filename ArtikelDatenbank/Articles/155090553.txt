@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>einfache Selbstmontage</li><li>optimale Signalübertragung</li><li>sichere Verschraubung</li><li>robuste Konstruktion</li><li>platzsparende Installation<br/></li></ul>"
+}

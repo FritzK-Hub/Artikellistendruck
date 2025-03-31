@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Verschlusskarabiner 12 x 60 mm</li><li>aus hochwertigem Aluminium</li><li>rostfrei</li><li>für Seile bis 12 mm Durchmesser</li><li>birnenförmig (C-Form)</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Reinigungsbürste 49 mit Drahtborsten aus rostfreiem Edelstahl</li><li>für die Entfernung von Rostzwischenräumen der Grillfläche</li><li>dreieckige Form mit ergonomisch geformtem Handgriff</li><li>schwer zugängliche Stellen können einfach erreicht werden</li><li>bei Nichtgebraucht dank Lederriemen platzsparend aufhängbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 34.99,
+    "attributes": "<ul><li>elektrischer Industrie- Heizlüfter mit 2 Heizstufen</li><li>zum Aufheizen von kleineren Räumen bis 20 m²</li><li>mit einstellbarem Thermostat und Überhitzungsschutz versehen</li><li>Tragegriffe erleichtern den Transport des Lüfters</li><li>inklusive Kurzanleitung und einer 150 cm langen Zuleitung<br/></li></ul>"
+}

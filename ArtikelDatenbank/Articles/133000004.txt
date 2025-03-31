@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>10-teiliger HSS TIN Bohrer-Satz</li><li>mit 9 Spiralbohrern in 6 Größen</li><li>inklusive Bohrhilfe</li><li>große Stabilität und Festigkeit</li><li>DIN 338 \"TIN-beschichtet\"</li></ul>"
+}

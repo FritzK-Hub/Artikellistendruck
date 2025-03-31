@@ -1,0 +1,4 @@
+{
+    "uvp": 20.74,
+    "attributes": "<ul><li>verleiht dem Tisch einen zeitlosen und eleganten Touch</li><li>mit verstellbarem Kunststofffuß zum Ausgleich von Bodenunebenheiten</li><li>mit 75 kg besonders für schwerere Tische geeignet</li><li>vielseitig als Ersatzteil oder in einem neuen Tisch einsetzbar</li><li>integriert sich nahtlos in viele Möbelstücke<br/></li></ul>"
+}

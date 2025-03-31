@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Set 3-teilig<br/></li><li>3/8\"</li><li>matt verchromt</li><li>kordiert</li></ul>"
+}

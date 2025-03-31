@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>klassische Regentonne 203 Liter in Grün</li><li>mit Deckel und Auslaufhahn</li><li>einfache Lösung zum Sammeln von Regenwasser</li><li>spart Kosten und kostbares Trinkwasser</li><li>für die kostengünstige und effiziente Bewässerung des Gartens<br/><br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.95,
+    "attributes": "<ul><li>robuste und widerstandsfähige Befestigungslösung für Schläuche</li><li>für Druckluft-Schläuche mit einem Durchmesser von 8 bis 16mm</li><li>einfache Handhabung und schnelle Montage dank des Schneckengewindes</li><li>hohe Materialqualität und widerstandsfähiges Schneckengewinde</li><li>hält auch extremen Belastungen stand</li></ul>"
+}

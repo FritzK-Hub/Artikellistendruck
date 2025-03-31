@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>praktischer Organisation-Helfer</li><li>sicherer Schraubverschluss</li><li>hochwertige Materialien</li><li>kompakte Portabilität</li><li>stilvolle Vielseitigkeit<br/></li></ul>"
+}

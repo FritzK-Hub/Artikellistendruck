@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>LED-Lampe 8,8 Watt in Birnenform, E27 Sockel</li><li>Set beinhaltet 3 LED-Glühbirnen</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlamp<br/></li></ul>"
+}

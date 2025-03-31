@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Cuphea-Mühlenbeckia-Kombi in einem Topf</li><li>farbige Blütenpracht und feines Blattwerk<br/></li><li>ideale Herbstdekoration<br/></li><li>bienenfreundlich<br/></li><li>eignet sich als Grabschmuck<br/></li></ul>"
+}

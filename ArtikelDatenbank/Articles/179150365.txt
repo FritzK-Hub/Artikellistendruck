@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Universal-Entmanteler</li><li>zum Abisolieren von Kabeln von 8 - 13 mm</li><li>automatische Einstellung auf Kabelstärke</li><li>für Arbeiten in Abzweig- und Verteilerdosen</li><li>aus stabilem Kunststoff</li></ul>"
+}

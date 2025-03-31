@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Rohrsteckschlüssel-Satz 6-teilig</li><li>Bohrung für den Einsatz mit Drehstiften</li><li>6-Kant-Kopf</li><li>in den Größen 8 - 17 mm</li><li>geschmiedeter Sechskant-Schaft zum Anziehen mit einem Schlüssel</li></ul>"
+}

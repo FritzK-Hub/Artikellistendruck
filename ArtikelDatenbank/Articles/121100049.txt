@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>langlebiges Material zur dauerhaften Nutzung</li><li>wetterfest für jede Jahreszeit geeignet</li><li>vielseitig bepflanzbar nach deinem Geschmack</li><li>pflegeleicht durch glatte Oberfläche</li><li>stilvolles Design für jedes Ambiente</li></ul>"
+}

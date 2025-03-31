@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>unverzichtbares Hilfsmittel bei Renovierungs- und Gipserarbeiten</li><li>zum Verfüllen von Rissen, Fugen, Löchern und Unebenheiten</li><li>mit halbflexiblen Stahlklingen und ergonomischen Holzgriffe</li><li>erleichtern das Entfernen von eingeweichten Tapeten</li><li>bei Nichtgebrauch dank Öse platzsparend aufhängbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>hochleistungsfähige Varta Alkaline-Batterien<br/></li><li>nicht wiederaufladbar</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>ideal auch für Geräte die eine hohe Leistung erfordern</li><li>professionelle Energie für Fernbedieungen und Funksensoren<br/></li></ul><p></p>"
+}

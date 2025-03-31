@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Brennpaste zur Füllung der Brenner von Fondues, Tischgrills oder Warmhalteplatten</li><li>rußfrei aus reinem Alkohol</li><li>auch für den Innenbereich geeignet</li><li>zähflüssige Paste verläuft beim versehentlichen Umkippen nicht</li><li>mit Spritzausgießer und kindersicherem Verschluss<br/></li></ul>"
+}

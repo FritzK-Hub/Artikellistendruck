@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Blumenschere für Gartenarbeiten<br/></li><li>gerade Klinge aus Stahl</li><li>mit Einhandverschluss</li><li>ideal zum Beschneiden von Rosen</li><li>rutschfester Griff aus Kunststoff<br/></li></ul>"
+}

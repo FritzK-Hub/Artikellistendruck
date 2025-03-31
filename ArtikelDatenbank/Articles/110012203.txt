@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>für temporäre Abdichtungen</li><li>hochwertige Verarbeitung</li><li>integrierte Gummidichtung</li><li>leichte Handhabung</li><li>vielseitige Anwendung<br/></li></ul>"
+}

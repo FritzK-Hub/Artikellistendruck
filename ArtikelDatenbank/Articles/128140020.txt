@@ -1,0 +1,4 @@
+{
+    "uvp": 699.0,
+    "attributes": "<ul><li>stabiles, langlebiges Aluminiumgestell</li><li>UV-beständiges, lichtdurchlässiges Polycarbonatdach</li><li>wetterfest gegen Sommerregen beständig</li><li>elegantes Design in stilvoller Farbgebung</li><li>flexibler Insekten- und Windschutz inklusive</li></ul>"
+}

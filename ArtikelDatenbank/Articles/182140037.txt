@@ -1,0 +1,4 @@
+{
+    "uvp": 7.29,
+    "attributes": "<ul><li>7-teiliges Sclaverand-Ventil-Set</li><li>für Sclaverand-Ventile</li><li>Ventileinsätze für französische Ventile</li><li>inklusive Ein- / Ausbauwerkzeug</li><li>einfacher Austausch</li></ul>"
+}

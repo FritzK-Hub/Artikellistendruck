@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>Schaukelstuhl in klassisches Design für eine zeitlose Ästhetik</li><li>natürliches, geöltes Finish für eine warme Optik und leichte Pflege</li><li>breite Sitzfläche und abgerundete Kanten für zusätzlichen Komfort</li><li>robuste Konstruktion für eine sichere und langfristige Nutzung</li><li>hergestellt aus FSC®-zertifiziertem und nachhaltigem Holz</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Elektrohobel EH 600 m zum Glatthobeln und Kantenfräsen</li><li>schneller Materialabtrag bei Hart- oder Weichhölzern</li><li>1 V-Nute für müheloses Kantenbrechen</li><li>Parallelanschlag und Soft-Griff sorgen für sicheren Halt</li><li>mit Spantiefeneinstellung und 2-Punkt-Sicherheitsschalter</li></ul>"
+}

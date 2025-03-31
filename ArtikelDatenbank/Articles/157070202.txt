@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>bestens geeignet zur Montage von Spiegeln, Treppenstufen, Sockelleisten, Metallplatten, Holz</li><li>auch auf feuchten Untergründen und sogar unter Wasser anwendbar</li><li>schnelltrocknender Montagekleber, Dichtmasse und Füller in einem</li><li>zur Abdichtung von Regentonnen und Regenrinnen</li><li>überstreichbar, für innen und außen</li></ul><p></p>"
+}

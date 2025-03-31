@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>leistungsfähige Varta High Energy Batterien</li><li>Typ AAA 1,5V LR03 Micro</li><li>nicht wiederaufladbar</li><li>im 10er Pack</li><li>leistungsfähige AAA Batterien Alkaline (Alkali-Mangan-Zelle)<br/></li></ul>"
+}

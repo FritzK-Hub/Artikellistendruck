@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Butterbrotpapier auf Rolle</li><li>fettdicht, aromaschützend</li><li>lebensmittelecht</li><li>umweltschonend hergestellt</li><li>eingeschweißt</li></ul>"
+}

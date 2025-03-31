@@ -1,0 +1,4 @@
+{
+    "uvp": 159.0,
+    "attributes": "<ul><li>hydraulischer Rangierwagenheber mit zwei Lenkrollen</li><li>elektrischer Schlagschrauber mit 1/2\" Werkzeugaufnahme im Koffer</li><li>Schlagschrauber mit robustem Metallgetriebegehäuse</li><li>Unterstellbockset 2 Tonnen, 3-fach höhenverstellbar</li><li>Unterstellböcke platzsparend zusammenklappbar</li></ul>"
+}

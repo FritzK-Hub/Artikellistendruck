@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>Frostwächter elektrisch mit 450 Watt</li><li>verhindert in Räumen die Unterschreitung einer bestimmten Temperatur</li><li>in der Werkstatt, Vorratsraum oder als Campingheizung einsetzbar</li><li>Frostschutzfunktion verhindert das Unterschreiten von + 5 °C</li><li>automatische Temperaturkontrolle mit stufenlosregelbarem Thermostat</li></ul>"
+}

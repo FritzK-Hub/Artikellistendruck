@@ -1,0 +1,4 @@
+{
+    "uvp": 10.12,
+    "attributes": "<ul><li>Serienschalter für Unterputzmontage inkl. Kunststoffwippe in Silber</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>ermöglicht z.B. das unabhängige Ein- und Ausschalten von zwei Lampen</li><li>für die Unterputzmontage in der Schalterdose (min. 45mm Tiefe)</li><li>nur in Kombination mit Rahmen der REV Serie Standard Quadro zu verwenden</li></ul><p></p>"
+}

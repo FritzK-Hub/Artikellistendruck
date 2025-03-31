@@ -1,0 +1,4 @@
+{
+    "uvp": 7.89,
+    "attributes": "<ul><li>DVI Monitorkabel Full HD Dual Link</li><li>zur digitalen Bildübertragung von PC zum Monitor</li><li>unterstützt Auflösungen von bis zu WQXGA (2560 x 1600)</li><li>mit vernickelten Steckern</li><li>doppeltgeschirmtes Kabel</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>schwimmbare Solar-Poolplane 210 cm aus stabilem Vinyl</li><li>passendes Zubehör für runde 244 cm Fast Set Pools</li><li>erwärmt das Wasser dank Sonnenstrahlen und schützt vor Wärmeverlust</li><li>Plane schützt das Wasser vor Verschmutzungen</li><li>bei Nichtgebraucht platzsparend in der Tasche verstaubar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>50 Müllbeutel auf Rolle</li><li>ideal für Kosmetik-Mülleimer</li><li>für leichte Abfälle</li><li>aus umweltfreundlichem Polyethylen hergestellt</li><li>verhält sich grundwasserneutral</li></ul>"
+}

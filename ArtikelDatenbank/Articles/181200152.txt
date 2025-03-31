@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>kann bis September geerntet werden</li><li>Anzucht im Balkonkasten zur Blattgewinnung</li><li>eignet sich als Einlegegewürz und zum Herstellen von Kräuteressig</li><li>für lockere, kalkhaltige, nicht zu trockene Böden geeignet </li><li>kein großer Pflegeaufwand notwendig<br/></li></ul>"
+}

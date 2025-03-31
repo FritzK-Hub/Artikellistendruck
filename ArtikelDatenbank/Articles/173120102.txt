@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>kerzenförmige LED- Filament-Lampe mit 2,5 W</li><li>vielseitig einsetzbare LED-Beleuchtung </li><li>längere Lebensdauer als herkömmliche Glühbirnen</li><li>Energieersparnis gegenüber Standardlampen</li><li>einfach in der Handhabung, lässt sich leicht austauschen<br/></li></ul>"
+}

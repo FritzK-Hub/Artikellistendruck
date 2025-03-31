@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>dezenter Stand-WC-Papierrollenhalter in Silber</li><li>nützlicher Helfer im Badezimmer</li><li>für eine dekorative und griffbereite Aufbewahrung von Papierrollen </li><li>passt in jede Umgebung</li><li>stilvoll und ordentlich zugleich<br/></li></ul>"
+}

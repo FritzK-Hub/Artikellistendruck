@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>Gedämpfte Edelstahl-Scharniere</li><li>mit 16 Schrauben</li><li>sehr gute Qualität</li><li>aus hochwertigem Edelstahl</li><li>Befestigungslöcher angesenkt</li></ul>"
+}

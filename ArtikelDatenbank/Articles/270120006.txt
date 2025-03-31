@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>3 teiliges Set</li><li>ideal für Kleinbohrmaschinen</li><li>geeignet zur Reinigung und Politur</li><li>universell einsetzbar</li><li>Profiqualität<br/></li></ul>"
+}

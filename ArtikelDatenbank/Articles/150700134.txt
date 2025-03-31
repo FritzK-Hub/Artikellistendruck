@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Türgarderobe aus Edelstahl mit sechs Haken</li><li>sorgt für mehr Ordnung in deinem Zuhause</li><li>zum Aufhängen von Jacken oder Handtüchern</li><li>einfach am Türrahmen einhängbar</li><li>modernes Design passt zu jedem Raum<br/></li></ul>"
+}

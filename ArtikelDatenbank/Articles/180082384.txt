@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Unterwasser Reparatur Set von mediPOOL</li><li>dichtet zuverlässig kleine Löcher oder Risse in der Poolfolie ab</li><li>geeignet für alle Schwimmbecken- und Gartenteichfolien aus PVC</li><li>unter Wasser oder auch auf trockenen Flächen anwendbar</li><li>mit Spezialkleber, Tupfer und transparentem Folienstück</li></ul>"
+}

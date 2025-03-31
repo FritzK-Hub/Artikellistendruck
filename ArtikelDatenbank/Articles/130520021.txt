@@ -1,0 +1,4 @@
+{
+    "uvp": 144.99,
+    "attributes": "<ul><li>drei Funktionen in einem Reinigungsgerät</li><li>Steuerung per App und Sprachbefehl möglich</li><li>starke Saugkraft bietet gründliche Sauberkeit</li><li>Wischfunktion für extra hygienische Reinigung</li><li>erkennt Hindernisse und vermeidet Abstürze</li></ul>"
+}

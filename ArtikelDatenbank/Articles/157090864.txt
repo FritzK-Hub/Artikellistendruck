@@ -1,0 +1,4 @@
+{
+    "uvp": 4.64,
+    "attributes": "<ul><li>zum Verbinden von 2 eckigen Dachrinnen</li><li>für zuverlässige Dachentwässerung</li><li>aus stabilem Kunststoff</li><li>witterungsbeständig und UV-beständig</li><li>Nennweite RG 70</li></ul>"
+}

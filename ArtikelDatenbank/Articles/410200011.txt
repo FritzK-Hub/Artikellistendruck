@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>schnelles und einfaches Eindringen ins Holz dank selbstschneidender Spitze</li><li>vielseitig im Massivholz-, Holzrahmen- oder im konstruktiven Holzbau einsetzbar</li><li>größere Kraftübertragung durch IVZ TX-Antrieb für eine stabile Verbindung</li><li>ist mit einem verstärktem Senkkopf versehen</li><li>sorgt effektiv für Zeit- und Materialersparnisse<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>flüssiger, geruchsarmer Fix-Anlauger von Meffert</li><li>schafft fettfreie, saubere und haftfähige Untergründe für neue Anstriche </li><li>ausgezeichnete Löseeigenschaften</li><li>entfernt starke Verschmutzungen von allen Lackflächen</li><li>einfach in der Anwendung und wasserverdünnbar<br/></li></ul>"
+}

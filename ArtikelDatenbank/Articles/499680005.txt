@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<div class=\"spb--product-details mtop_mittel\"><ul><li>Art: Schlossschraube mit Vierkantansatz DIN 603 (auch Flachrundschraube genannt) </li><li>Kopf: Flachrundkopf </li><li>Gewinde: Vollgewinde </li><li>Material: A2 Edelstahl </li><li>Beständigkeit gegen Rost: hoch</li></ul></div>"
+}

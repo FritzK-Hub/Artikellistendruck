@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Schnellbauschraube mit feinem Vollgewinde</li><li>aus phosphatiertem Stahl (Korrosionsschutz)</li><li>mit Trompetenkopf - H und PH 2 Antrieb</li><li>passend für Bohrergröße 3 mm und PH2 Bit</li><li>Gipsplattenschraube mit Doppelganggewinde</li></ul>"
+}

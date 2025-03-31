@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Handtacker in stabiler Ausführung aus Metall</li><li>für 4-14 mm Feindrahtklammern geeignet</li><li>mit Verstellschraube für Druckanpassung</li><li>Griffbereich rutschfest beschichtet</li><li>sichere Lagerung durch Hebelarretierung</li></ul>"
+}

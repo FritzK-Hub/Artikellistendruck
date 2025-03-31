@@ -1,0 +1,4 @@
+{
+    "uvp": 215.95,
+    "attributes": "<ul><li>2-Sitzer Gartenbank aus Holz</li><li>mit Rückenlehne und Armlehnen</li><li>großer Stauraum, ca. 120 Liter</li><li>geöltes Eukalyptusholz</li><li>Truhenbank für 2 Personen</li></ul>"
+}

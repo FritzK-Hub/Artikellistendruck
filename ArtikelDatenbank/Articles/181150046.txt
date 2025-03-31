@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<hr/><p><strong>Hinweis: Die Preise und die Warenverfügbarkeit können in unseren stationären Märkten abweichen. Auskunft gerne telefonisch im jeweiligen Markt.</strong></p><hr/><ul><li>Holzbriketts aus 100% Holz</li><li>sehr hoher Heizwert</li><li>Klimaschutz durch CO² Neutralität</li><li>einfache, platzsparende Lagerung</li><li>Asche weniger als 1%, dient auch als ausgezeichnetem Düngemittel<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>selbstklebende Kunststoffgleiter rund 8 Stück</li><li>für die Anbringung an Sitzmöbeln</li><li>sorgt für gute Gleiteigenschaften über Teppichen und Teppichböden</li><li>einfache Montage und fester Halt</li><li>erleichtert das Verrücken von Möbelstücken<br/></li></ul>"
+}

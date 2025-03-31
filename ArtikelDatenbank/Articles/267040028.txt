@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>extrem reißfest und robust</li><li>Maße: ca. 10 x 3m (Länge x Breite)</li><li>Gesamtfläche: ca. 30m²</li><li>Stärke Plane: ca. 160 my</li></ul>"
+}

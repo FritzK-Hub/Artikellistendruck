@@ -1,0 +1,4 @@
+{
+    "uvp": 4.23,
+    "attributes": "<ul><li>Kantenschutz aus eloxiertem Aluminium <br/></li><li>Länge: ca. 100 cm</li><li>Schenkellänge: 19,6 x 8,6 mm</li><li>Materialstärke: 1,6 mm</li><li>Material: Aluminium</li></ul>"
+}

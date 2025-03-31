@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>für alle Otto-/Dieselmotoren, Schaltgetriebe und Differentiale geeignet</li><li>schützt und verlängert die Lebensdauer der Aggregate</li><li>beseitigt Klappergeräusche und reinigt Ventilstößel</li><li>reinigt den gesamten Öl- und Schmierkreislauf</li><li>reduziert Öl- und Kraftstoffverbrauch</li></ul>"
+}

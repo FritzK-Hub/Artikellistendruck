@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Abbrechmesser aus Kunststoff</li><li>ausschiebbare Klinge</li><li>Klinge: Abbrechklinge</li><li>Metallführung</li><li>inklusive 1 Klinge</li></ul><p><br/></p>"
+}

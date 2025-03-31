@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>optimaler Winterschutz für empfindliche Pflanzen</li><li>atmungsaktiv und schimmelresistent</li><li>einfach anzuwenden und flexibel</li><li>langlebig und mehrfach verwendbar</li><li>perfekt für Rosen und Ziersträucher</li></ul>"
+}

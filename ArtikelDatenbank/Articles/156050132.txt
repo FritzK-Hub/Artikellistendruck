@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>5-teiliges Maler-Set für Heimwerker</li><li>ideal zur Verabeitung von Wand- und Deckenfarben</li><li>für strukturierte Untergründe</li><li>inklusive Farb-Abstreifgitter</li><li>unverzichtbarer Helfer bei Renovierungsarbeiten</li></ul>"
+}

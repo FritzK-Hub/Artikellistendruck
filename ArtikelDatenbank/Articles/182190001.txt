@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Kinder-Fahrradwimpel 2- teilig</li><li>für ein frühzeitiges Erkennen im Straßenverkehr</li><li>bruchsicherer Mast in Schwarz-rot</li><li>Flagge mit Piraten-Dekor</li><li>Sicherheitswimpel für Kinderfahrrad</li></ul>"
+}

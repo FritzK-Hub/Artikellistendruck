@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>handliche Standluftpumpe aus robustem Aluminium</li><li>zum Aufblasen oder auch Ablassen geeignet</li><li>kompatibel mit Schrader-, Presta- und Dunlop-Ventil</li><li>ergonomischer Griff sorgt für einen festen Halt</li><li>Verrieglungssystem erleichtert das Anbringen des Schlauchs<br/></li></ul>"
+}

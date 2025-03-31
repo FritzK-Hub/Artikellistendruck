@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>passendes Zubehör für unterschiedliche Caféhausstangen</li><li>ermöglicht eine Schraube- oder Klebemontage, je nach Bedarf</li><li>für verschiedene Gardinenarten, einschließlich Panneaux Gardinen</li><li>schnell und einfach in der Handhabung, erleichtert das Austauschen der kaputten Träger</li><li>modernes und zeitloses Design, vielseitig in jeder Raumgestaltung einsetzbar<br/></li></ul>"
+}

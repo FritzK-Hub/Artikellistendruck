@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Gewindelehre</li><li>mit metrischem Flankenwinkel von 60°</li><li>zum Prüfen der Geweindesteigung</li><li>Messbereich von 0,40 bis 7,0 mm</li><li>einfach zu bedienen<br/></li></ul>"
+}

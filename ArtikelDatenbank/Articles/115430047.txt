@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>einfache Montage zum schnellen Einsatz</li><li>vielseitige Aufbewahrungsoptionen bieten maximale Flexibilität</li><li>individuell anpassbare Regalböden schaffen optimale Organisation</li><li>robustes Metall und pulverbeschichtete Oberfläche</li><li>hohe Tragfähigkeit für sichere Werkzeuglagerung</li></ul>"
+}

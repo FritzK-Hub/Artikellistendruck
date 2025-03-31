@@ -1,0 +1,4 @@
+{
+    "uvp": 99.9,
+    "attributes": "<ul><li>Lithium-Ionen-Akku und Ladegerät im Set</li><li>passend für alle YARD FORCE 20 V Elektrogeräte</li><li>schnellere Akkulaufzeit dank Schnellladetechnologie</li><li>Überprüfung des Ladestands anhand LED-Digitalanzeige</li><li>platzsparendes, kompaktes Design<br/></li></ul>"
+}

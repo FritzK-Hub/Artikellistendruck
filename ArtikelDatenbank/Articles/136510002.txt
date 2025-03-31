@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Feilensatz mit Holzheft 5-teilig</li><li>für verschiedene Arbeitsbereiche geeignet</li><li>handliche Größe, nur 150 mm</li><li>für die Holz- und Metallverarbeitung</li><li>ergonomischer Holzgriff für ermüdungsfreies Arbeiten<br/></li></ul>"
+}

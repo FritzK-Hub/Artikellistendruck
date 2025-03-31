@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>hochwertiger Stahl</li><li>flexibel anpassbar</li><li>metrisches Vollgewinde</li><li>vielseitige Anwendungsmöglichkeiten</li><li>robuste Konstruktion</li></ul>"
+}

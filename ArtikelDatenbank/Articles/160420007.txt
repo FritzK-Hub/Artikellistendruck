@@ -1,0 +1,4 @@
+{
+    "uvp": 20.99,
+    "attributes": "<ul><li>Gehörschutz in Pink speziell für Kinder</li><li>mit längenverstellbaren Bügeldrähten</li><li>weiche Ohrpolster und angenehmer Anpressdruck</li><li>sehr komfortabel und zusammenklappbar</li><li>dämpft den Lärm ab, ohne die Umwelt vollständig auszublenden<br/></li></ul>"
+}

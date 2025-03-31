@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>WLAN-LED-Reflektor Lampe 5,5 W GU.10-Sockel von Hama</li><li>sorgt in Wohnräumgen, Küchen oder Schlafzimmern für eine klare Sicht</li><li>Farbtemperatur nach Belieben von warmweiß bis tageslichtähnlich einstellbar</li><li>auch über „Amazon Alexa“ oder „Google Assistant“ sprachsteuerbar</li><li>inklusive einer Schnellstartanleitung</li></ul>"
+}

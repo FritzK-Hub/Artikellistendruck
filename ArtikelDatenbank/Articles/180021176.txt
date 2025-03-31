@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li><div>Funktions-Gartenbrause im Set</div></li><li>2 Schnellverbindungsstücke und 1 Universal Hahnanschluss</li><li>mit 4 Wasserstrahleinstellungen</li><li>stufenlose, intuitive Einstellung des Wasserstrahls</li><li>Handbrause ergonomisch geformt</li></ul><p><br/></p>"
+}

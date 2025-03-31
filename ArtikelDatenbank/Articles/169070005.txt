@@ -1,0 +1,4 @@
+{
+    "uvp": 13.07,
+    "attributes": "<ul><li>Türzylinder mit Sicherheitsschloss</li><li>70mm lang Gehäuse aus robustem Messing</li><li>Zylinder sind gleichschließend</li><li>von innen und außen abschließbar (Profil Doppelzylinder)</li><li>einfache Montage dank dazugehöriger Befestigungsschraube</li></ul>"
+}

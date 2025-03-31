@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Gitter Gewebeplane mit 150 g/m², ca. 4 x 5 m</li><li>lässt sich vielseitig in Haus, Hof und Garten einsetzen</li><li>zum Abdecken von Gartenmöbeln, Baumaterial oder Holz</li><li>passt sich dank transparenter Farbe an die Umgebung an</li><li>mit Randverstärkung und stabilen Metallösen</li></ul>"
+}

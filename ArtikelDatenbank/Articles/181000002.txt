@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>schützt Reifen vor Verformung und Verschleiß</li><li>ideal für langfristiges Abstellen von Fahrzeugen</li><li>hohe Belastbarkeit für maximale Stabilität</li><li>einfache Fixierung durch praktische Bohrungen</li><li>erweiterbar durch Verbindung mehrerer Schoner</li></ul><br/>"
+}

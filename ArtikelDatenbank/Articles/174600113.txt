@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Kosmetikeimer mit Tretfunktion<br/></li><li>aus rostfreiem, glänzendem Edelstahl gefertigt</li><li>sorgt für mehr Ordnung im Bad, Küche oder Büro</li><li>verfügt über ein Fassungsvermögen von ca. 3 Liter</li><li>inklusive herausnehmbarem, schwarzem Einsatz<br/></li></ul>"
+}

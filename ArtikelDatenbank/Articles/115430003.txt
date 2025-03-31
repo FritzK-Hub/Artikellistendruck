@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>Werkstattschrank aus pulverbeschichtetem Metall</li><li>geeignet für deine Garage, Werkstatt und Keller</li><li>abschließbar, bietet ausreichend Platz</li><li>stabile Wandbefestigung</li><li>inklusive zwei 2 Regalböden mit je 15 kg Traglast</li></ul>"
+}

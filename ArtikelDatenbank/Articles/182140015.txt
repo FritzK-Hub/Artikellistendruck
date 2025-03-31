@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>V-Bremskörper für Fahrräder</li><li>geeignet für Alu-Felgen</li><li>Bremsschuhe mit Schraubbefestigung</li><li>inklusive Bremsschuhe, Zugführung und Befestigungsmaterial</li><li>höhere Bremsleistung als herkömmliche Cantilever-Bremsen</li></ul>"
+}

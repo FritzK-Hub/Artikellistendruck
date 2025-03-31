@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>batteriebetriebene Lichterkette 1,8 m mit 10 Kugeln</li><li>die Kugeln sind aus Echtglas mit je einem warmweißen LED versehen</li><li>erschafft eine wohlfühlende Atmosphäre</li><li>vielfältig einsetzbare Lichterdekoration</li><li>LED-Beleuchtung für den Innenbereich<br/></li></ul>"
+}

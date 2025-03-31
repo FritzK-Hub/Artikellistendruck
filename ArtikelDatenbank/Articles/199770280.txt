@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>bohrfreie Befestigung</li><li>sicherer Halt mit Oberflächenschutz</li><li>vielseitige Anwendung</li><li>robustes, hochwertiges Material</li><li>zeitloses Design<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>3-lagige hypoallergene Hygienemaske </li><li>Einwegmaske ohne Schutzstufe </li><li>Bakterien Filter Effizienz 99 %</li><li>mit speziellem Micro Keimfilter für ein freies Atmen</li><li>nur für den einmaligen Gebrauch</li></ul>"
+}

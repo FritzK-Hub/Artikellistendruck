@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Drahtseil-Spannschraube mit Haken und Öse</li><li>bis 50 kg belastbar</li><li>für Stahlseile bis 8 mm Durchmesser geeignet</li><li>ideal zum Abspannen z. B. von Sonnensegeln</li><li>aus hochwertigem Edelstahl hergestellt</li></ul>"
+}

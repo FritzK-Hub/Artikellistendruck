@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Sittich Sticks mit Honig</li><li>2 Sticks in der Packung</li><li>liefern zusätzliche Energie und Nährstoffe</li><li>speziell für Sittiche entwickelt</li><li>unterstützen die gesunde Ernährung</li></ul>"
+}

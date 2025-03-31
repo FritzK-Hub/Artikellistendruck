@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>hochwertiges Eukalyptusholz für langlebige Qualität</li><li>praktisches Klappdesign für eine einfache Lagerung und Transport</li><li>geölte Oberfläche zum Schutz vor Witterungseinflüssen</li><li>stilvolle Ästhetik und angenehme Haptik für ein ansprechendes Ambiente</li><li>vielseitig einsetzbar für den Innen- und Außenbereich<br/></li></ul>"
+}

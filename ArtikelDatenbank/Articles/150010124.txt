@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>schnelle, streifenfreie Glasreinigung</li><li>handlich und leicht zu verstauen</li><li>ergonomischer Griff für sicheren Halt</li><li>effektive 20 cm breite Gummikante</li><li>vielseitig für alle Glasflächen einsetzbar</li></ul>"
+}

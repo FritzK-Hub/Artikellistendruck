@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>Armband elastisch</li><li>Magnetfläche: 6 x 3cm</li></ul>"
+}

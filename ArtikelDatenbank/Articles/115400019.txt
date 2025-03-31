@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>kratzfestes Metallgestell geschützt vor Korrosion</li><li>robuste Holzplatte für vielseitige Anwendungen</li><li>höhenverstellbare Füße schaffen stabilen Stand</li><li>abschließbarer Schrank bietet Sicherheit</li><li>Schublade ideal für Kleinteile-Aufbewahrung</li></ul>"
+}

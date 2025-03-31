@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>zuverlässige Einweg-Gasfeuerzeuge im 10er Pack</li><li>strapazierfähiges Kunststoffmaterial für den täglichen Gebrauch</li><li>mit Butangas, für eine lange und zuverlässige Brenndauer</li><li>einfache Zündung dank praktischen Reibrads</li><li>10er Feuerzeug-Set in verschiedenen Farben<br/></li></ul>"
+}

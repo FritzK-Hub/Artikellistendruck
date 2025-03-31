@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>unverzichtbares Reinigungstool für jedes Zuhause</li><li>hoher Reinigungseffekt ohne Chemikalien</li><li>für eine streifenfreie Reinigung</li><li>schonend zur Oberfläche</li><li>waschbar bis 60°C</li></ul>"
+}

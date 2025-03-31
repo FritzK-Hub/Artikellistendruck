@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>aus verchromtem Messing besonders robust und korrosionsbeständig</li><li>vielseitig einsetzbar in Sanitärinstallationen</li><li>einfache Installation, sichere Verbindung</li><li>ideal für Wasseranschlüsse</li><li>zuverlässiger Wasserfluss garantiert<br/></li></ul>"
+}

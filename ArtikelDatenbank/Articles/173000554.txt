@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>sparsames LED-Panel-Set mit je 36 Watt</li><li>sorgt für klare Sicht in Wohnzimmer, Küche und Flur<br/></li><li>auch als Rasterbeleuchtung in Büros oder Arztpraxen einsetzbar</li><li>wenig bis gar keine Wartung nötig</li><li>hochwertiges Philipps Netzteil<br/></li></ul>"
+}

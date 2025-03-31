@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>Steckdosenleiste 6-fach mit Überspannungs- und Kinderschutz</li><li>ein Schalter für die komplette Leiste</li><li>sechs Schalter zusätzlich für jeden Steckdosentopf</li><li>zum Anschluss verschiedenster Geräte</li><li>Steckdosen sind im 45° Winkel angeordnet</li></ul>"
+}

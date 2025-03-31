@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li><strong>Steckschlüsseleinsatz 3/4\"</strong> SW 35mm einzeln erhältlich</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>mit Innenvierkant-Antrieb und Pro Torque® (Sechskant)</li><li>verfügt über eine verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li></ul>"
+}

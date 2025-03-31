@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>selbstklebende Dekorationsfolie 200 x 67,5 cm in Schwarz</li><li>verleiht den Gegenständen neuen Look</li><li>für verschiedene Anwendungen einsetzbar</li><li>lässt sich einfach aufkleben und ist abwaschbar</li><li>kann ohne Kleberückstände entfernt werden<br/></li></ul>"
+}

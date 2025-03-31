@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>Energiesparschaum Genius Gun 500 ml champagner von Soudal</li><li>ist ein gebrauchsfertiger, sehr elastischer Polyurethanschaum</li><li>verfügt über die innovative GENIUS GUN®-Technologie</li><li>zum Dämmen von Fenster- wie Türrahmen oder zum Ausschäumen von Hohlräumen </li><li>besitzt eine optimale thermische wie akustische Isolierung<br/></li></ul>"
+}

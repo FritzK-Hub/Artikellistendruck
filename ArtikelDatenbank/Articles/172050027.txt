@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Mehrfach-Steckdosenleiste 3-fach mit Kindersicherung</li><li>versorgt bis zu drei verschieden Geräte gleichzeitig mit Strom </li><li>besonders langlebig, aus bruchfestem Kunststoff gefertigt</li><li>durch 45°-Anordnung behindern sich die Stecker nicht gegenseitig</li><li>3 m lange Zuleitung bietet genug Spielraum beim Verlegen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 15.45,
+    "attributes": "<ul><li>Gummiseil für Planen</li><li>aus Gummi mit Nylonumwebung</li><li>universell einsetzbar</li><li>für Innen- und Außenbereich</li><li>schwarzes Expanderseil</li></ul>"
+}

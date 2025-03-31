@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>hochwertige Wasserpumpenzange von GERMANIA®</li><li>7-fach verstellbar</li><li>mit durchgestecktem Gewerbe</li><li>aus geschmiedetem Stahl, schwarz lackiert</li><li>Griffe tauchisoliert und ergonomisch geformt</li></ul>"
+}

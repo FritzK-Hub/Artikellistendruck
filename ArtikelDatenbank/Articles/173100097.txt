@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>LED Lampe in Kerzenform</li><li>warmweißes, angenehmes Licht</li><li>geringer Energieverbrauch</li><li>LED Kerze im kompaktem Design</li><li>ohne Aufwärmzeit, sofort 100 % Licht</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>LED-Deckenleuchte eckig mit warmweißem Licht</li><li>sorgt für ausreichend Beleuchtung in deinen Räumen</li><li>flache Bauform eignet sich gut als Decken- oder Wandleuchte</li><li>individuell für Wohnzimmer, Schlafzimmer, Flur oder Küche</li><li>mit sparsamer und fest integrierter LED-Technik<br/></li></ul>"
+}

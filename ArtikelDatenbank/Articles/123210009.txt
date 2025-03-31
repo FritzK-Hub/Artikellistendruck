@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>wasser- und luftdurchlässiges Unkrautvlies 1,5x7 m</li><li>eine umweltfreundliche Methode zur Unkrautbekämpfung</li><li>ideal für Blumenbeete, Steingärten und japanische Gärten </li><li>verhindert das Ausbreiten von Unkraut zwischen den Pflanzen</li><li>beliebig zuschneidbar, zum Auslegen vor der Bepflanzung</li></ul>"
+}

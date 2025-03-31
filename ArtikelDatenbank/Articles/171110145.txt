@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>transparenter Aqua-Lack-Aktivator</li><li>verwendbar mit wasserverdünnbaren Lacken und Lasuren</li><li>Optimierung von Lackierprozessen</li><li>für ein gleichmäßiges, attraktives Oberflächenbild</li><li>zur professionellen und ästhetischen Bearbeitung<br/></li></ul>"
+}

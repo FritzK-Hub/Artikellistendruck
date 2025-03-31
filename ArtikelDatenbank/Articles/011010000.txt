@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Handbrause Harmonie mit chromfarbigem Brausekopf </li><li>mit Antikalk-Noppen für eine leichtere Reinigung</li><li>Handbrause aus verchromtem Kunststoff</li><li>mit einem 1/2“ Brauseanschluss versehen</li><li>verfügt über 5 verschiedene Strahlarten<br/></li></ul>"
+}

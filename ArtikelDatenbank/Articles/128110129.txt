@@ -1,0 +1,4 @@
+{
+    "uvp": 279.95,
+    "attributes": "<ul><li>hohe Tragfähigkeit bis 120 kg</li><li>elegantes Design in Anthrazit</li><li>komfortable, gemütliche Kissen</li><li>vielseitig für Outdoor und Indoor </li><li>robustes, langlebiges Gestell</li></ul>"
+}

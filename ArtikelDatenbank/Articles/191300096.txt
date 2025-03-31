@@ -1,0 +1,4 @@
+{
+    "uvp": 18.95,
+    "attributes": "<ul><li>praktische Kühltasche aus Polyester in Grün</li><li>großes Fassungsvermögen von 18 Liter</li><li>besonders für Ausflüge und Sport geeignet</li><li>angenehmer Tragekomfort durch Tragegriffe</li><li>zum Kaltstellen von Speisen und Getränken<br/></li></ul>"
+}

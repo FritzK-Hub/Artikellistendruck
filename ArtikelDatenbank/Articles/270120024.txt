@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>Drahbürste mit Messingborsten</li><li>besonders gute Bürstergebnise</li><li>ideal geeignet für Entrostungsarbeiten/Reinigungsarbeiten der PKW-Bremssättel aber auch für viele andere Einsatzmöglichkeiten</li><li>handlicher, ergonomisch geformter Kunststoffgriff mit Aufhängeöse</li><li>sehr schmale Bauform</li></ul>"
+}

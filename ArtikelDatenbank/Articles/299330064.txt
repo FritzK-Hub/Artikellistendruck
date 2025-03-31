@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Anschraubhülse für Vierkantholzpfosten mit 70 mm</li><li>zum Aufdübeln von leichten Holzkonstruktionen</li><li>schnelle und einfache Montage</li><li>aus feuerverzinktem Stahl</li><li>Pfostenträger für L- und U-Steine oder Mauern</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>Bodenhülse für Vierkantholzpfosten</li><li>zum Aufdübeln</li><li>schnelle und einfache Montage</li><li>für Mittel- oder Eckpfosten</li><li>in verschiedenen Größen erhältlich</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>10-teiliges Bohrer-Set von GERMANIA® Qualitätswerkzeuge</li><li>1,0 mm bis 6,0 mm in 0,5 mm Schritten</li><li>Titan-Nitrid Beschichtung für Hitzebeständigkeit und höhere Standzeiten</li><li>zum Bohren in Stahl, Stahlblech, Aluminium, Kunststoff etc.</li><li>Rundschaft zum Einspannen in alle handelsüblichen Bohrfutter</li></ul>"
+}

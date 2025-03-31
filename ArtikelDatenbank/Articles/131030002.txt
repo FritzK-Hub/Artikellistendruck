@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>reinigt mühelos und schonend</li><li>mit Apfelduft</li><li>für alle Oberflächen geeignet</li><li>hinterlässt keine Streifen</li><li>einfache Anwendung</li></ul>"
+}

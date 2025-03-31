@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>geeignet für den Outdoor-Einsatz (IPX4 wasserfest)<br/></li><li>Quarz-Heizelement für schnelle Wärmeentwicklung</li><li>drei Heizstufen sorgen für individuelle Wärmeoptionen</li><li>mehr Sicherheit durch automatischen Kippschutz</li><li>robuster Metallrahmen sorgt für zusätzliche Stabilität<br/></li></ul>"
+}

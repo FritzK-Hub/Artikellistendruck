@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Acryl Spachtel, gebrauchsfertig</li><li>schnell trocknend</li><li>zum partiellen Beispachteln von Unebenheiten auf Holz, Putz und grundiertem Eisen</li><li>auch als Porenfüller geeignet</li><li>wasserbasierend, leicht zu verarbeiten und sehr gut schleifbar</li></ul>"
+}

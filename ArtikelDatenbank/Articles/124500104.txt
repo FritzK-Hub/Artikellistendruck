@@ -1,0 +1,4 @@
+{
+    "uvp": 299.0,
+    "attributes": "<ul><li>handgefertigtes Unikat mit rustikaler Optik</li><li>UV-beständig und wetterfest für Langlebigkeit</li><li>einfaches Entleeren dank vorgebohrter Öffnungen</li><li>abnehmbarer Deckel mit integrierter Kindersicherung</li><li>erweiterbar durch Verbindung mehrerer Tanks</li></ul>"
+}

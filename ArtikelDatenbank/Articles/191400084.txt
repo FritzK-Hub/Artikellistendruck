@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>aufblasbare Krone 23 x 15,5 cm in Gold oder Silber</li><li>aus strapazierfähigem PVC gefertigt</li><li>passendes Zubehör für Geburtstag, Jubiläum oder Hochzeit</li><li>praktische Einheitsgröße für Erwachsene und Kinder</li><li>auch für den Karneval, Fasching, Mottopartys geeignet<br/></li></ul>"
+}

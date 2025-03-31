@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>gehärtete, gegenläufige Präzisionsmesser</li><li>Lasergeschnitten und Diamantgeschliffen</li><li>2-Hand Sicherheitseinschaltung</li><li>Messer Schnellstopp für mehr Sicherheit</li><li>Schwertschutz und Kabelzugentlastung</li></ul>"
+}

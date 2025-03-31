@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Schnorchel Set 2-teilig in verschiedenen Farben</li><li>aus weichem Polypropylen angefertigt</li><li>Kopfband ist individuell einstellbar</li><li>sorgt für eine scharfe Sicht unter Wasser</li><li>mitgelieferte Schnorchel verlängert den Tauchspaß<br/></li></ul>"
+}

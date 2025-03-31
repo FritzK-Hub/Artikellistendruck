@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>5-teiliges Pinsel-Set</li><li>geeignet für alle Lacke</li><li>für feine Striche, zum Ausbessern</li><li>Borsten aus feinem Ponyhaar</li><li>Griffe aus Holz</li></ul>"
+}

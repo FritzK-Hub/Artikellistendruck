@@ -1,0 +1,4 @@
+{
+    "uvp": 55.99,
+    "attributes": "<ul><li>flexibles Must-Have der modernen Küche</li><li>spart Energie und reduziert Fettverbrauch</li><li>ideal für Singles, Paare und kleine Familien</li><li>einfache Reinigung und spülmaschinengeeignet</li><li>präzise Temperaturkontrolle mit Abschaltautomatik <br/></li></ul>"
+}

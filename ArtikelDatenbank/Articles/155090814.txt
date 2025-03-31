@@ -1,0 +1,4 @@
+{
+    "uvp": 7.14,
+    "attributes": "<ul><li>Ein-/ Aus-/ Wechselschalter inkl. Kunststoffwippe in Weiß</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>fügt sich in viele Einrichtungskonzepte ein</li><li>für die Unterputzmontage in der Schalterdose (min. 45mm Tiefe)</li><li>nur in Kombination mit Rahmen der REV Serie Trend zu verwenden</li></ul><p></p>"
+}

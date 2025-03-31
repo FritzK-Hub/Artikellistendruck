@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>zum sicheren Verbinden von M8-Gewindestangen</li><li>aus rostfreiem Edelstahl mit hoher Korrosionsbeständigkeit</li><li>durchgehendes, metrisches Gewinde für einfache Montage</li><li>auch in Verbindung mit Stockschrauben kompatibel</li><li>vielseitig im Innen- und Außenbereich einsetzbar<br/></li></ul>"
+}

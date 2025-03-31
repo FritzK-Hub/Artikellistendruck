@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>warm-weiße Solar-LED-Leuchte</li><li>klassisches Design für jede Gartengestaltung</li><li>einfache Installation dank integriertem Bodenspieß</li><li>automatische Dämmerungsfunktion zur bequemen Nutzung</li><li>flexible, kabellose Bauart für vielseitige Einsatzmöglichkeiten</li></ul>"
+}

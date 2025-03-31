@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Citronella-Wachskerze</li><li>hält lästige Stechmücken fern</li><li>ideal für Picknicks, Camping und Feiern im Freien geeignet</li><li>ausschließlich im Außenbereich einsetzbar</li><li>befindet sich in einem silbernen Zinkeimer<br/></li></ul>"
+}

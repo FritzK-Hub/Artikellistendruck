@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Seramis Spezial-Substrat für Palmen</li><li>beste Voraussetzungen für ein optimales Wachstum</li><li>mit Silikatmineral für beste Nährstoffversorgung</li><li>leicht isolierende Wirkung für Kübelpflanzen</li><li>mit Lava für eine hohe Drainagewirkung</li></ul>"
+}

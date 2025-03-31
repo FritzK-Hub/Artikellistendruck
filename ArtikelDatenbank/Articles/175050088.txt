@@ -1,0 +1,4 @@
+{
+    "uvp": 26.95,
+    "attributes": "<ul><li>niedriger Luftverbrauch</li><li>optimale Zerstäubung</li><li>Rund-Breitstrahlregulierung am Pistolenkopf</li><li>Ideal für kleine Lackarbeiten wie z.B. Beilackierungen oder Designlakierungen</li></ul>"
+}

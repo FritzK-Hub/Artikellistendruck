@@ -1,0 +1,4 @@
+{
+    "uvp": 349.95,
+    "attributes": "<ul><li>Montagewagen mit ausziehbarem Tragegriff und Transportrollen</li><li>drei abnehmbare Teile: 1 Box mit Klappdeckel und Tragegriff, 2 Schubladen, 1 Klappfach</li><li>zum selber Bestücken mit Platz für viele Werkzeuge</li><li>geeignet für den mobilen Einsatz im Dauerbetrieb</li><li>obere und mittlere Box abnehmbar und mit darunter liegenden Box verriegelbar</li></ul>"
+}

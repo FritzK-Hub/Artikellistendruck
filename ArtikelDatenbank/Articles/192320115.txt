@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Kugelleuchte batteriebetrieben aus Kunststoff</li><li>schöne Beleuchtung mit warmweißen LEDs</li><li>für den Innenbereich geeignet</li><li>vielseitig einsetzbare Dekoration</li><li>erschafft eine entspannte Atmosphäre<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>4 stabile Vorhängeschlösser </li><li>aus stabilem Metall gefertigt</li><li>ideal zum Absperren von Türen, Schuppen, Gartentoren oder Kisten</li><li>automatische Verriegelung mittels Bügelautomatik</li><li>inklusive 6 Schlüssel je Schloss<br/></li></ul>"
+}

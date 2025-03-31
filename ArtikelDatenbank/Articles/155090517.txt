@@ -1,0 +1,4 @@
+{
+    "uvp": 11.0,
+    "attributes": "<ul><li> für DVB-S HDTV geeignet </li><li> zwei F-Stecker-Anschlüsse</li><li> geeignet für digital und analog TV</li><li>fertig konfektioniertes Satellitten-Anschlusskabe, doppelt geschirmt </li><li>hochwertiges Kabel für den Anschluss der Empfangsgeräte an die Antennendose</li></ul>"
+}

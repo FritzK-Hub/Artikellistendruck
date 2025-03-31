@@ -1,0 +1,4 @@
+{
+    "uvp": 7.1,
+    "attributes": "<ul><li>Elektriker Schraubendreher-Satz<br/></li><li>VDE geprüft nach DIN EN 60900</li><li>1 x Kreuzschlitz PH1 x 80 mm</li><li>1 x Schlitzschraubendreher 4 x 100 mm</li><li>inklusive VDE Spannungsprüfer<br/></li></ul>"
+}

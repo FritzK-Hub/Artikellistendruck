@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Anwendungsgebiet: Holz: wie z.B. Weich- und Hartholz, Profilbretter, Paneele, Spanplatten, MDF, Faserwerkstoffe, usw. </li><li>Sägeblatt Durchmesser: ca. Ø 140 mm</li><li>Maschinenaufnahme/Bohrung: (Ø) ca. 30 mm</li><li>Schnittbreite: ca. 1,5 mm</li><li>Zahnung: 40 Stück HM</li><li>max. U/min (r.p.m.): 11000 (max. 80m/sec.)</li><li>inkl. Reduzierringe für die Maschinenaufnahme: 16 + 20 mm</li></ul>"
+}

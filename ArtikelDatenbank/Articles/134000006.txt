@@ -1,0 +1,4 @@
+{
+    "uvp": 499.95,
+    "attributes": "<ul><li>Kompressor mit Direktantrieb</li><li>mit Ölgeschmiertem 2-Zylinder V-Aggregat</li><li>verfügt über 2 Manometer und 2 Druckluftkupplungen</li><li>ausgestattet mit Transportgriff, Druckschalter und Sicherheitsventil</li><li>Räder aus Kunststoff und Doppelfuß mit Gummipuffer</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>    Sekundenkleber flüssig extra stark</li><li>    klebt schnell und kraftvoll Porzellan, Metall, Gummi, Leder, Holz, Porzellan, Papier und Kunststoffe</li><li>    nicht für Styropor und Polyäthylen geeignet</li><li>    tropffrei - für Verklebungen an senkrechten Flächen und über Kopf    </li><li>ideal für Haushalt, in der Werkstatt, rund ums Auto oder beim Camping</li></ul>"
+}

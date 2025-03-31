@@ -1,0 +1,4 @@
+{
+    "uvp": 18.33,
+    "attributes": "<ul><li>passend für Dachrinnensysteme mit NW 75</li><li>für zuverlässige Dachentwässerung</li><li>aus stabilem Kunststoff</li><li>witterungsbeständig, UV-beständig</li><li>korrosionsfrei<br/></li></ul>"
+}

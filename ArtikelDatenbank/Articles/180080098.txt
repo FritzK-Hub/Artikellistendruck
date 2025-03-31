@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Bewässerung-Teleskoprohr von Gardena </li><li>aus stabilem, schwarzem Kunststoff gefertigt</li><li>stufenlos einstellbar von 140-240 mm</li><li>mit einem G 3/4“ Gewindeanschluss versehen</li><li>bietet verschiedenen Einsatzmöglichkeiten<br/></li></ul>"
+}

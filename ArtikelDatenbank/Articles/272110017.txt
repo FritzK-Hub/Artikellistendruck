@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Drehspaltkeil zum einfachen Spalten von Holz</li><li>beste Wirkung bei Verwendung eines Vorschlaghammers</li><li>Spaltkeil aus geschmiedetem Spezialstahl</li><li>scharfe Spitze zum leichten Einführen in das Holzstück</li><li>Holzspaltkeil aus Spezialstahl</li></ul>"
+}

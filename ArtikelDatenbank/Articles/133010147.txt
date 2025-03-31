@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>zusätzliche Rohfaser-Quelle für alle Nagetiere</li><li>aus verschiedenen Futtergräsern und Kräutern</li><li>kann unbedenklich vollständig verfüttert werden</li><li>liefert die notwendige Rohfaser</li><li>eine abwechslungsreiche Ergänzung zum täglichen Futter</li></ul>"
+}

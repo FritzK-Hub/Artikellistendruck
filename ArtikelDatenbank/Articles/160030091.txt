@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>\"Master Flex Cool&amp;Touch\" Montagehandschuh mit PPU-Nitrilbeschichtung </li><li>kühles, angenehmes Tragegefühl</li><li>besonders robust und bequem</li><li>optimale Fingerfertigkeit und sicherer Griff</li><li>Kupferfasern in Zeigefingern und Daumen für Touchscreen-Bedienung<br/><br/></li></ul>"
+}

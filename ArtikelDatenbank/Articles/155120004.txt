@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>vielseitig einsetzbar für Reparaturen und Abdichtungen</li><li>robuste 3-Lagen-Technologie erlaubt hohe Belastungen</li><li>einfach per Hand abreißbar, kein Werkzeug nötig</li><li>wasser- und luftdichte Haftung auf nahezu allen Oberflächen</li><li>temperaturbeständig von -10°C bis +70°C</li></ul>"
+}

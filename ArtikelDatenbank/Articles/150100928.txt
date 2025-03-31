@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Antirutschmatte für PKW, Wohnwagen, Boot und Haushalt</li><li>individuell zuschneidbar, dadurch universell passend</li><li>beidseitig verwendbar, rutschhemmend, abwaschbar und leicht zu reinigen</li><li>die Ladung im KFZ bleibt sicher am Platz und verrutscht nicht in den Kurven</li><li>aus 100% PVC Material<br/></li></ul>"
+}

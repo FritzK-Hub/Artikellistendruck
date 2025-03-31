@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>langanhaltende Blüte bis zum Frost</li><li>bunte Vielfalt für jeden Garten</li><li>einfache Pflege und schnell wachsend</li><li>perfekt als Schnittblume<br/></li><li>robuste Pflanzen für sonnige Standorte</li></ul><p></p>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 17.99,
+    "attributes": "<ul><li>der Fahrradlift optimiert deine Raumnutzung effizient<br/></li><li>leichte Montage - schnell und unkompliziert erledigt</li><li>stabile Konstruktion bietet Sicherheit für dein Bike</li><li>universelle Deckenmontage an jeder tragenden Decke</li><li>automatische Seilsperre sorgt für extra Schutz gegen Unfälle</li></ul><p></p>"
+}

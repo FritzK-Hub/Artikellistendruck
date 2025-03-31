@@ -1,0 +1,4 @@
+{
+    "uvp": 34.95,
+    "attributes": "<ul><li>äußerst langlebig und robust</li><li>besonders schnelle Montage</li><li>höhenverstellbare Duschhalterung</li><li>hochwertige Materialien und sorgfältige Verarbeitung</li><li>modernes, stilvolles Design<br/></li></ul>"
+}

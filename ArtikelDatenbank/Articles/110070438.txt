@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>flexibler Winkel von 0 - 90° für individuelle Anpassung</li><li>einfache Reinigung dank integrierten Türmechanismus</li><li>hochwertiges, feueraluminiertes Stahlblech für Langlebigkeit und Beständigkeit</li><li>robuste Konstruktion für Sicherheit und Stabilität</li><li>für alle Kamine im Innenbereich geeignet<br/></li></ul>"
+}

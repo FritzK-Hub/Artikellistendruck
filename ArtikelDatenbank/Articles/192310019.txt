@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>dekorative LED-Lichterkette mit 120 LED und Timerfunktion</li><li>8 Funktionen: Kombination, Lichtwelle, Abwechselnd, leichtes Flackern, schnelles Aufblitzen, Überblendung, Funkeln und Dauerbeleuchtung</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>innen und außen vielfältig einsetzbar</li><li>sparsame LED-Technik, umschaltbar von kaltweiß auf bunt<br/></li></ul>"
+}

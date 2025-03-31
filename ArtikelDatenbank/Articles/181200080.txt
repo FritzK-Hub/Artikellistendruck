@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Zierrasensamen-Mischung \"Berliner Tiergarten\"</li><li>sorgt für den idealen Rasen für Ihre Sport- und Spielaktivitäten im heimischen Garten</li><li>reicht für eine Fläche von etwa 100m²</li><li>widerstands- und regenerationsfähiger Rasen</li><li>eignet sich auch zur Nachbesserung bzw. Übersaat für ausbesserungsbedürftigen Rasenflächen</li></ul>"
+}

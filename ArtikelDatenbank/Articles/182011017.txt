@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>bietet UV-Schutz 20+</li><li>große Farbauswahl für jeden Geschmack</li><li>praktische Knickfunktion spendet optimalen Schatten</li><li>robust und langlebig für den Außeneinsatz</li><li>einfach in den Boden oder Ständer steckbar</li></ul>"
+}

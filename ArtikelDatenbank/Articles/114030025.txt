@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>50 große Trinkbecher im Set</li><li>klar, transparent</li><li>eignen sich hervorragend als Ausschankbecher</li><li>ersparen lästiges Abwaschen</li><li>schnell und einfach entsorgt</li></ul>"
+}

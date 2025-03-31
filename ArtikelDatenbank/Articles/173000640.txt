@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>zum Einsatz in Feuchträumen oder im Außenbereich</li><li>sorgt mit 18 W für ausreichende Beleuchtung</li><li>im Keller, Garagen oder Werkstätten einsetzbar</li><li>besonders langlebig und widerstandsfähig, aus Kunststoff</li><li>Befestigungsmaterial für die Montage an Decken oder Wänden</li></ul>"
+}

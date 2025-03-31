@@ -1,0 +1,4 @@
+{
+    "uvp": 129.95,
+    "attributes": "<ul><li>handlicher Campingtisch für unterwegs</li><li>leicht zu transportieren und aufzustellen</li><li>klappbar und kompakt verstaubar</li><li>mit praktischem Polyester-Windschutz</li><li>maximale Belastbarkeit von 30 kg<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Schuhcreme 75 ml in verschiedenen Sorten</li><li>für glattes Leder geeignet</li><li>dient zur Pflege und hält das Leder geschmeidig</li><li>sorgt für strahlenden Glanz und deckt Kratzer ab</li><li>in Kunststofftube mit Schwammaufträger<br/></li></ul>"
+}

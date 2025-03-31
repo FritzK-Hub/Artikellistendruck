@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Stumpenkerze 7 x 10 cm aus Echtwachs mit Glitter</li><li>in verschiedenen Farben erhältlich</li><li>schafft eine wohlfühlende Atmosphäre</li><li>für Tisch-, Weihnachtsdekoration einsetzbar</li><li>auch zur die Bestückung von Weihnachtskränzen<br/></li></ul>"
+}

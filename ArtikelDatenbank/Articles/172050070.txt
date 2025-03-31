@@ -1,0 +1,4 @@
+{
+    "uvp": 39.99,
+    "attributes": "<ul><li>Verlängerungskabel mit Schutzkontakt Stecker</li><li>Schutzart IP 44, spritzwassergeschützt</li><li>25m Verlängerungskabel in rot</li><li>Stromkabel zur Verwendung im Freien</li><li>Kuppel mit Deckel</li></ul>"
+}

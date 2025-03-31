@@ -1,0 +1,4 @@
+{
+    "uvp": 2.3,
+    "attributes": "<ul><li>hochwertiger Chrom-Vanadium-Stahl für maximale Langlebigkeit</li><li>praktisches Innen-TX-Profil für vielseitige Schraubarbeiten</li><li>organisierte Aufbewahrung dank des befestigten Metallrings</li><li>optimale Kraftübertragung und Griffigkeit für effiziente Arbeit</li><li>unverzichtbares Werkzeugset für Profis und Heimwerker</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>zur Befestigung von Blindnieten</li><li>stufenlos drehbarer Kopf</li><li>vier verschiedene Mundstücke</li><li>rutschfester Gummigriff</li><li>inklusive Montageschlüssel zum Wechseln der Mundstücke</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Rosen für den Hausgarten, sortiert</li><li>anspruchslose Pflanzen</li><li>schwach bis stark duftend</li><li>robust und teilweise öfterblühend</li><li>gedeiht in allen normalen Gartenböden</li></ul>"
+}

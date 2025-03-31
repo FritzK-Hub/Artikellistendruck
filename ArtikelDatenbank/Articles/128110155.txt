@@ -1,0 +1,4 @@
+{
+    "uvp": 99.99,
+    "attributes": "<ul><li>Stapelstuhl mit Allwetter-Komfort für den Außenbereich</li><li>stilvoll &amp; wetterbeständig durch pulverbeschichtetes Metall</li><li>moderne Ästhetik mit Mix aus Streckmetall und Holz</li><li>behagliche Haptik auf den Armlehnen</li><li>platzsparend stapelbar als praktische Aufbewahrungslösung</li></ul>"
+}

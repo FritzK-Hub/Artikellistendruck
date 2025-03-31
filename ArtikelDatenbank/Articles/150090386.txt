@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Lampen- und Sicherungsset</li><li>7-teiliges Set</li><li>betehend aus 5 Lampen und 2 Flachstecksicherungen</li><li>12 Volt Betriebsspannung</li><li>Mit E-Zulassung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>universaler Pflanztopfuntersetzer für 885 mm Balkonkasten</li><li>stoßfest, bruchfest und UV-beständig</li><li>aus wetterfestem Kunststoff</li><li>verhindert das Auslaufen von Wasser</li><li>schützt Fensterbänke vor Beschädigungen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Gewindestange mit metrischem Vollgewinde</li><li>aus verzinktem Stahl</li><li>mit Metallsäge oder Trennschleifer individuell ablängbar</li></ul>"
+}

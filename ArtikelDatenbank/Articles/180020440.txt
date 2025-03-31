@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>rostfreies Edelstahlgehäuse bietet maximale Haltbarkeit</li><li>einstellbarer Schwimmerschalter für vielseitige Anwendungen</li><li>leistungsstarker 400-Watt-Motor schafft Effizienz</li><li>Universalanschlussadapter mit flexibler Schlauchkompatibilität</li><li>extra langes Kabel für mehr Reichweite</li></ul>"
+}

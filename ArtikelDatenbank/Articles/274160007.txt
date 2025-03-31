@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Blechschere mit schlanken Scherenkopf</li><li>gerade schneidend</li><li>mit Koppelgetriebe</li><li>aus hochwertigem Qualitätsstahl</li><li>ideal für kurze und gerade Schnitte</li></ul>"
+}

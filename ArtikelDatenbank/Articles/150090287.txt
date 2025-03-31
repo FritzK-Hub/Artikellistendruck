@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Kennzeichenbeleuchtung Radex 802</li><li>zum Austauschen von defekten oder alten Kennzeichenleuchten</li><li>schneller Austausch möglich</li><li>einfache Handhabung</li><li>auch zur Neuinstallation geeignet<br/><br/></li></ul>"
+}

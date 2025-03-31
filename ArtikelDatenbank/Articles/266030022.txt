@@ -1,0 +1,4 @@
+{
+    "uvp": 25.95,
+    "attributes": "<ul><li>Tragkraft pro Rad ca. 150 kg</li><li>schwenkbares Rad mit Profil</li><li>Vollgummi Rad inklusive Fadenschutz</li><li>Rad Durchmesser Ø: ca. 200 mm</li><li>Rad Stärke: ca. 45 mm</li><li>Gesamthöhe: ca. 230 mm</li><li>Plattengröße (L x B): ca. 130 x 110 mm</li><li>Schraublochdurchmesser Ø: ca. 11 mm</li><li>Schraublochentfernung (L x B): ca. 110 x 80 mm</li><li>Ausladung: ca. 50 mm</li><li>Gehäuse: Stahlblech, verzinkt</li><li>Lager Art: rollengelagert</li></ul>"
+}

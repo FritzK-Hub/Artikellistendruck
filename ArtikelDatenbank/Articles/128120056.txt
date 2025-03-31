@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>robustes Gestell aus Stahl<br/></li><li>Gestell silber pulverbeschichtet<br/></li><li>zusammenklappbar, platzsparend</li><li>Sitz und Rücken aus lackiertem Akazienholz</li><li>wetterfest und stabil<br/></li></ul>"
+}

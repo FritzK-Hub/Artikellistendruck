@@ -1,0 +1,4 @@
+{
+    "uvp": 8.79,
+    "attributes": "<ul><li>5-teiliges Werkzeug Set für Fahrräder</li><li>zur Fahrrad Reparatur</li><li>kompakt und handlich</li><li>passt in jede Fahrradtasche</li><li>Reparatur Kit für die Radtour</li></ul>"
+}

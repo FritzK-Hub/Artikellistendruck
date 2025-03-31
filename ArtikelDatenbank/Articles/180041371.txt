@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>Rasenrechen aus stabilem Stahl mit 32 Zinken</li><li>zum Entfernen von Grasschnitt und Laub</li><li>ideal zum Entfernen von Moos auf Rasenflächen</li><li>sichere Stielverbindung durch eine 28 mm Stieldülle</li><li>unverzichtbares Werkzeug bei der Rasenpflege <br/></li></ul>"
+}

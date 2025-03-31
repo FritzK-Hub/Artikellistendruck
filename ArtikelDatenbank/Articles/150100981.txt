@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>schützt vor Kratzern, Staub und Witterungseinflüssen</li><li>Schutz vor äußeren Umwelteinflüssen und ist UV-beständig</li><li>schnelle Montage durch elastischen Saum</li><li>pflegeleicht, waschbar bei 30 °C</li><li>mit praktischer Aufbewahrungstasche für platzsparendes Verstauen<br/></li></ul>"
+}

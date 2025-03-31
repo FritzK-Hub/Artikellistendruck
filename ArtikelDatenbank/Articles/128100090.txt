@@ -1,0 +1,4 @@
+{
+    "uvp": 199.95,
+    "attributes": "<ul><li>mit ausziehbarer Funktion</li><li>aus robustem Aluminiumgestell</li><li>ein elegantes Erscheinungsbild</li><li>für Balkone und kleine Terrassen</li><li>leichtgewichtiges Material<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Diamanttrennscheibe in Profiqualität</li><li>passend für Handkreissägen mit 10 mm Aufnahme</li><li>zum Austrennen von Trass- und Marmorfugen</li><li>geeignet für Stein, Beton, Fliesen</li><li>universell einsetzbare Trennscheibe<br/></li></ul>"
+}

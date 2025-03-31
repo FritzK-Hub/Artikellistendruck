@@ -1,0 +1,4 @@
+{
+    "uvp": 44.95,
+    "attributes": "<ul><li>Steckschlüssel Satz 24-teilig langlebig und robust</li><li>aus verschiedenen Bit- und Steckschlüssel-Ausführungen </li><li>ideal für alle Schraubarbeiten rund um das Auto oder im Haushalt</li><li>inklusive einer LED-Arbeitsleuchte für eine klare Sicht</li><li>bei Nichtgebraucht das Werkzeug platzsparend verstaubar<br/></li></ul>"
+}

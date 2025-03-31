@@ -1,0 +1,4 @@
+{
+    "uvp": 190.95,
+    "attributes": "<ul><li>Elektrodenschweißgerät GIS 141 mit Thermoüberlastungsschutz von Güde</li><li>kompaktes Gehäuse mit Trageriemen für mehr Flexibilität und Mobilität</li><li>für gelegentliche, kurze und einfache Schweißarbeiten bei Materialstärken bis ca. 4 mm</li><li>auch für leichte Schweißarbeiten auf Montage und stationären Einsatz geeignet</li><li>inklusive Schlackenhammer, Schweißkabel, Schweißhelm und Massekabel</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Schraubendreher aus S2 Stahl</li><li>schnelles, einfaches Lösen/Eindrehen von Schrauben</li><li>mit Kreuzschlitz Profil PH2</li><li>mit magnetischem Schraubenkopf</li><li>Griff rutschfest gummiert</li></ul>"
+}

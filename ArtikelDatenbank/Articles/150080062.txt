@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>Radmutternschlüssel 1/2\" Antrieb mit umsteckbarem Einsatz für 17 und 19 mm Radmutter</li><li>auch mit beliebigen 1/2\" Einsätzen verwendbar</li><li>bessere Hebelwirkung durch Teleskop-Arm</li><li>ausziehbar von 22 cm bis auf ca. 41 cm</li><li>der Steckaufsatz ist aus Chrom-Vanadium, der Teleskop-Arm aus Stahl</li></ul>"
+}

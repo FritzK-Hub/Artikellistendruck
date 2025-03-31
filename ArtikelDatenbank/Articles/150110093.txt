@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Insektenschwamm von Nigrin</li><li>ideal für die Windschutzscheibe</li><li>Reinigungsschwamm aus Hartschaum</li><li>entfernt mühelos Insektenschmutz</li><li>auch für Chromteile geeignet</li></ul>"
+}

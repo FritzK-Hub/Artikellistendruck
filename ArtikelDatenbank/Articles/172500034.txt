@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>hochwertiger Zweigeräte-Radio-Verteiler</li><li>2 x Koaxial-Kupplung / 1 x Koaxial-Stecker</li><li>Standardverteiler für Radios</li><li>Antennensignal verteilt sich auf zwei Radios</li><li>Radio-Splitter aus stabilem Kunststoff</li></ul>"
+}

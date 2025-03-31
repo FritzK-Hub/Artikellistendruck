@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Sicherheitsüberfalle für Vorhängeschlösser</li><li>Türriegel mit angebundener Ösenplatte </li><li>Verwendung bei einschlagenden Türen</li><li>mit versenkten Ösen</li><li>für den Innen- und Außenbereich</li><li>korrosionsbeständig</li></ul>"
+}

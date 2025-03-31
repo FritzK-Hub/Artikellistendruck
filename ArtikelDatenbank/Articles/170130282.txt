@@ -1,0 +1,4 @@
+{
+    "uvp": 2.5,
+    "attributes": "<ul><li>eignen sich für die gängigsten Bügelsägen</li><li>zum Schneiden von Aluminium oder Plexiglas</li><li>aus Schnellarbeitsstahl auf Bi-Metall-Basis</li><li>höhere Flexibilität gegenüber randgehärteten Blättern</li><li>für präzise Schnitte ohne viel Materialverlust<br/></li></ul>"
+}

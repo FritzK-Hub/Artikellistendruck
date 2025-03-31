@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>Treppen-Abschluss-Profil schmal in braunbeige</li><li>aus schlagfestem Hart-PVC gefertigt</li><li>sauberer, dauerhafter und trittfester Abschluss</li><li>edle Optik durch Zierrillen</li><li>geben sicheren Halt auf der Treppe</li></ul>"
+}

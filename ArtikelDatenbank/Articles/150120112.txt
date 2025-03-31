@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Scheibenenteiser - leichte Handhabung</li><li>schnelles Auftauen von eingefrorenen Scheiben, Scheinwerfern, Spiegel usw.</li><li>verhindert ein erneutes Einfrieren durch spezielle Rezeptur</li><li>praxisbewährte Qualität mit Nano-Technologie</li><li>sparsam im Gebrauch<br/></li></ul>"
+}

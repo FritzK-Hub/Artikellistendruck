@@ -1,0 +1,4 @@
+{
+    "uvp": 6.95,
+    "attributes": "<ul><li>silikonfreies Multifunktions-Öl in Spraydose</li><li>optimale Schmierung</li><li>löst festsitzende und verrostete Teile</li><li>verdrängt Feuchtigkeit</li><li>ideal für den Einsatz als Waffenöl geeignet</li></ul>"
+}

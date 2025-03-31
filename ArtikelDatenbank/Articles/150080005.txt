@@ -1,0 +1,4 @@
+{
+    "uvp": 8.03,
+    "attributes": "<ul><li>universal Ölfilter Bandschlüssel für viele gängige Ölfilter</li><li>Bandlänge von ca. 460 mm</li><li>Hebel/Griff Länge ca. 20 cm</li><li>der Griff ist mit PVC ummantelt</li><li>das Lösen von festsitzenden Ölfilter wird durch die Hebelwirkung um einiges vereinfacht</li></ul>"
+}

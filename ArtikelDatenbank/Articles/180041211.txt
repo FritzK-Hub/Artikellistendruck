@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Holsteiner Schaufel rot mit gerader Vorderkante</li><li>aus gehärtetem, pulverbeschichtetem Stahl gefertigt</li><li>zur Aufnahme und Bewegung von Erd- und anderen Materialmassen</li><li>rückenschonende Arbeit dank ca. 125,5 cm langem Holzstiel</li><li>Stieldülle mit einem Durchmesser von ca. 3,8 cm</li></ul>"
+}

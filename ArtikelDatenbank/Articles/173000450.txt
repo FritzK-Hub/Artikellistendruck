@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>dekorative LED-Lichterkette 10 m mit 20 warmweißen Kugeln</li><li>ideal als Partybeleuchtung oder für Sonnenschirme geeignet</li><li>setze Büschen, Pflanzen oder Lauben dekorativ in Scene</li><li>ist für den Innen- als auch Außenbereich einsetzbar</li><li>inklusive einer 1 m langen Zuleitung<br/></li></ul>"
+}

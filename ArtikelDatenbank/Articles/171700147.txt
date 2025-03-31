@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>gebrauchsfertige Spachtelmasse für den Innenbereich</li><li>für kleine Ausbesserungs- und Renovierungsstellen </li><li>zur Reparatur von Fugen und ausgebrochenen Stellen</li><li>zum Ausbessern kleinerer, feinerer Risse</li><li>mit hoher Standfestigkeit, schrumpft und reißt nicht<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul><li>elegante Gestaltung</li><li>robuste Konstruktion</li><li>vielseitige Anwendung</li><li>beeindruckende Tragfähigkeit</li><li>attraktives Design</li></ul>"
+}

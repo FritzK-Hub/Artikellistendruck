@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>unbehandeltes Kiefern-/Fichtenholz</li><li>perfekt für Wand- und Deckenübergänge</li><li>leicht zuzuschneiden und anzupassen</li><li>glatte Oberfläche zum Lackieren</li><li>für vielseitige DIY-Projekte</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>BBQ-Grilltablett feinmaschig aus schwarzem Eisen</li><li>für unvergessliche Geschmackserlebnisse beim Grillen</li><li>zum Grillen von Fleisch, Fisch oder Gemüse geeignet</li><li>Löcher sorgen für gleichmäßige Hitzeverteilung und dem typischen Grillgeschmack</li><li>Tragegriffe erleichtern den Transport, dabei Schutzhandschuhe verwenden<br/></li></ul>"
+}

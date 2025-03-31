@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Suppenterrinen aus Kunststoff</li><li>lebensmittelecht</li><li>das ideale Einweggeschirr für Partys</li><li>praktisch und hygienisch</li><li>auch mehrfach verwendbar</li></ul>"
+}

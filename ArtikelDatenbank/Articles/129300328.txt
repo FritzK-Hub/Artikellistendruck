@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Blumenzwiebeln „Jan Seignette“ Triumph-Tulpen in gelb-rot</li><li>sind pflegeleichte Frühjahrsblüher</li><li>in Kombination für farbige Blütenpracht</li><li>eignen sich auch gut als Schnittblumen</li><li>besonders farbenprächtige Blüten<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>mit praktischen Kreppband</li><li>vielseitig verwendbar</li><li>inklusiver Folienschneider</li><li>großzügige Abmessungen</li><li>langlebige Qualität</li></ul>"
+}

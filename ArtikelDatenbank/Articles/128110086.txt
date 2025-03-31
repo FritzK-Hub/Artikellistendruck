@@ -1,0 +1,4 @@
+{
+    "uvp": 141.95,
+    "attributes": "<ul><li>2-teiliges Klappstuhl-Set</li><li>Gartenstühle aus Eukalyptusholz</li><li>geölte Öberfläche</li><li>bequeme Sitzfläche und hohe Lehne</li><li>ohne Armlehnen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.29,
+    "attributes": "<ul><li>Ersatzklingen für Abbrechmesser</li><li>extrem scharfe Abbrechklingen</li><li>in der praktischen Aufbewahrungsbox</li></ul>"
+}

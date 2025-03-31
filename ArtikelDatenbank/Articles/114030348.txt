@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Gabeln in Schwarz-Rot-Gelb</li><li>die ideale Dekoration die nächste Fußballparty</li><li>stabil und robust</li><li>durchsichtig und glänzend</li><li>farbige Kunststoffgabeln im Deutschland-Look</li></ul>"
+}

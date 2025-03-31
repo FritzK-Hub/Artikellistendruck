@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>unterstützt die Zahnpflege deines Hundes<br/></li><li>Kombination von Genuss und Nutzen<br/></li><li>sorgt für langfristige Mundgesundheit</li><li>mit Zinksulfat</li><li>reduziert Zahnbelag und Zahnstein</li></ul>"
+}

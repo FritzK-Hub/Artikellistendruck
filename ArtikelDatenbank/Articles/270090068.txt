@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>zum Schneiden von Fliesen, Kacheln, Eternit, Granit, Keramik und Schiefer</li><li>für präzise und schnelle Schneidarbeiten, erleichtert die Handhabung</li><li>passend für Winkelschleifer/Fliesenschneider mit 22,2 mm Aufnahme</li><li>ein zuverlässiges Werkzeug für den täglichen Gebrauch</li><li>besteht aus zwei Segmenten, eines Diamanten versetzte Rand und der Grundkörper aus Metall<br/></li></ul>"
+}

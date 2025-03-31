@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>20 V Akku-Schlagbohrmaschine mit 2-Gang Getriebe</li><li>einfache Handhabung dank ergonomischem Gehäuse</li><li>Schrauben, Bohren &amp; Schlagbohren in einem Gerät<br/></li><li>starkes Drehmoment für maximale Performance<br/></li><li>für neueste Lithium-Ionen-Akkus geeignet</li></ul>"
+}

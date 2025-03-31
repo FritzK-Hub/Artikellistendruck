@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul> <li>TÜV und GS</li> <li>EN 12195-2 PES</li> <li>Zurrgurt mit Spitzhaken</li> </ul>"
+}

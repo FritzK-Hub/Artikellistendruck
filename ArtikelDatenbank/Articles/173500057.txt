@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>LED Lampions in 5 Farben</li><li>schaffen eine gemütliche Atmosphäre in deinem Innenbereich</li><li>verfügen über einen Ein/Aus-Schalter</li><li>besitzen einen Kunststoffhaken</li><li>aus Papier gefertigt<br/></li></ul>"
+}

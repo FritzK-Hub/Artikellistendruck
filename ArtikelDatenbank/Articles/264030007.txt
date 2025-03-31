@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Art: Karabiner (auch Feuerwehr Karabinerhaken genannt) mit Schraubverschluss</li><li>Form: birnenförmig (C-Form)</li><li>Belastbarkeit: maximal 350kg</li><li>Material: Stahl, verzinkt</li></ul>"
+}

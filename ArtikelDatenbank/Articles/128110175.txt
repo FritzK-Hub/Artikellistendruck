@@ -1,0 +1,4 @@
+{
+    "uvp": 719.8,
+    "attributes": "<ul><li>Gartenstuhl 4er Set mit Aluminiumgestell und Holzoptik-Applikationen</li><li>mit robuster Bespannung in schwarz</li><li>ein echter Blickfang dank schlichtem und zeitlosem Design</li><li>mit mehrfach-verstellbarer Rückenlehne für mehr Komfort</li><li>bei Nichtgebrauch platzsparend stapelbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>Bodenventilator mit 3 Geschwindigkeitsstufen</li><li>sorgt an heißen Sommertagen für kühle Luft</li><li>ideal für den Arbeitsplatz oder eigenen Wohnräumen</li><li>als Windmasche für Fotoshootings einsetzbar</li><li>inklusive 1,7 m langes Netzkabel<br/></li></ul>"
+}

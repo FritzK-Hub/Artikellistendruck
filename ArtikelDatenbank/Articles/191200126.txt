@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>ideal für leckeren Kesselgulasch</li><li>einfache Zubereitung von deftigen Suppen oder wärmendem Glühwein</li><li>mit großem emaliertem Kesseltopf Ø 35cm, Höhe 28cm</li><li>praktische Maronenpfanne, ideal zum Rösten und Braten</li><li>ein Highlight für gesellige Outdooraktivitäten</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>Whiskey BBQ Räucherchips von Flash</li><li>für eine besondere, rauchige Note des Grillguts</li><li>100% natürlicher Herkunft</li><li>für alle Grills und Smoker geeignet</li><li>handverlesenes Holz<br/></li></ul>"
+}

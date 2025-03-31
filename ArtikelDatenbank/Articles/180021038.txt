@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>Kugel-Auslaufhahn aus matt verchromtem Messing</li><li>mit Kunststoff-Auslauftülle 3/4\" und Außengewinde 3/4\"</li></ul>"
+}

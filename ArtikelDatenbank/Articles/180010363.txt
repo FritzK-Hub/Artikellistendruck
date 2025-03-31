@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>für Grünpflanzen</li><li>steigert die Wuchsleistung</li><li>setzt Nährstoffe und Spurenelemente anspruchs- und zielgerecht frei</li><li>fördert kräftige und sattgrüne Blätter</li><li>gesundes Wachstum<br/><br/></li></ul>"
+}

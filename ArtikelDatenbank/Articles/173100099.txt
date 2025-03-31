@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>LED Lampe in Birnenform</li><li>warmweißes, angenehmes Licht</li><li>geringer Energieverbrauch</li><li>LED Birne im kompaktem Design</li><li>ohne Aufwärmzeit, sofort 100 % Licht</li></ul>"
+}

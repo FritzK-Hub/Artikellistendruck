@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    Steckdosenschloss mit 2 Schlüsseln, beiliegende Schlüssel sind speziell für ein Steckdosenschloss passend, /nzum Schutz gegen unbefugte Stromaufnahme bei handelsüblichen Schutzkontakt-Steckdosen, z.B. im Außenbereich, in Waschräumen, in Gaststätten, auf Baustellen oder Campingplätzen.\"\"/n                "
+}

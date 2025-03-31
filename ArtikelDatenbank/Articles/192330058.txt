@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>batteriebetriebene Teelichter 2 Stück aus Kunststoff</li><li>moderne, sichere Alternative zu echten Teelichtern</li><li>in der Küche, Bad-, Kinder- und Wohnzimmer einsetzbar</li><li>mit integrierter Timerfunktion von sechs Stunden</li><li>erzeugt keine Hitzeentwicklung, als Nachtlicht verwendbar<br/></li></ul>"
+}

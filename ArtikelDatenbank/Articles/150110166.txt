@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Aktivschaumreiniger mit Nikotinlöser, vielseitig einsetzbar</li><li>Reinigungsschaum zur Fleckenbehandlung auf Kunststoffen, Polstern, Textilien und Kunstleder im Fahrzeug-Innenraum</li><li>reinigt schonend und gründlich</li><li>entfernt selbst hartnäckigen Schmutz</li><li>die Schaumrezeptur verläuft nicht und ermöglicht so eine mühelose Reinigung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Laterne groß 31,5 x 15 x 27,5 cm mit Flammeneffekt</li><li>aus stabilem Kunststoff in schwarz gefertigt</li><li>für die dekorative Gestaltung im Innenbereich </li><li>mit einer Timerfunktion ausgestattet</li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar<br/></li></ul>"
+}

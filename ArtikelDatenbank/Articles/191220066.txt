@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Reinigungsbürste 3in1 aus schwarzem Kunststoff</li><li>zur Reinigung von Rostzwischenräumen der Grillfläche</li><li>schwer zugängliche Stellen können einfach erreicht werden</li><li>Borsten aus hochwertigem, rostfreiem Edelstahl</li><li>bei Nichtgebrauch platzsparend aufhängbar<br/></li></ul>"
+}

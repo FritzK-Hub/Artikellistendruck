@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Taschen-Gasbrenner mit regulierbarer Flammenstärke</li><li>ideal für Lötarbeiten oder zum Schmelzen von Kunststoffen</li><li>auch zum Karamellisieren von Speisen einsetzbar</li><li>stabiler Standfuß verhindert ein ungewolltes Umkippen</li><li>einfach in der Handhabung, lässt sich problemlos nachfüllen<ul></ul></li></ul>"
+}

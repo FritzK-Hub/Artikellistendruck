@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>WLAN-Controller für LED-Leuchtstreifen von Hama</li><li>eignet sich für die verschiedensten LED-Leuchtstreifen </li><li>lässt sich leicht mit dem originalen Modul austauschen</li><li>auch über „Amazon Alexa“ oder „Google Assistant“ sprachsteuern</li><li>inklusive Adapterkabel, Adapterstecker und Kurzbedienungsanleitung<br/></li></ul>"
+}

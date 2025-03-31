@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>universell einsetzbarer Schlauch</li><li>aus strapazierfähigem PVC</li><li>gewünschte Länge zuschneidbar</li><li>vielseitig einsetzbar</li><li>für Trinkwasser und Lebensmittel<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>3 Reifenheber im Set</li><li>für die schnelle Demontage eines Fahrradmantels</li><li>praktisch, handlich und leicht</li><li>einhängbar in allen gängigen Speichen</li><li>Heberschaufeln zur Fahrradschlauch Reparatur</li></ul>"
+}

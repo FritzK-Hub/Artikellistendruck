@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>angenehmer Citronella-Duft für entspannte Abende</li><li>Mückenabwehr ohne chemische Zusätze</li><li>stilvolles Glas für dekoratives Ambiente</li><li>langanhaltendes, warmes Kerzenlicht</li><li>vielseitig einsetzbar - daheim und unterwegs</li></ul>"
+}

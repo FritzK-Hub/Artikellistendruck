@@ -1,0 +1,4 @@
+{
+    "uvp": 5.49,
+    "attributes": "<ul><li>vielseitig einsetzbare Maurerschnur auf Rolle</li><li>reißfest, tragfähig, belastbar</li><li>gedrehter Polyesterfaden</li><li>2-fach gedrehte Packetschnur</li><li>Tragfähigkeit der Schnur: ca. 7 kg<br/>  </li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Nadelfilz Türmatte für intensiv genutzte Räume</li><li>für den Innen- und Außenbereich geeignet</li><li>die Fußmatte ist UV-beständig</li><li>lässt sich leicht reinigen und ist waschbar</li><li>breite Rippenstruktur für bessere Reinigungswirkung</li></ul>"
+}

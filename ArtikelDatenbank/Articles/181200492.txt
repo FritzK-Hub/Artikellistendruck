@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Zuckermais Sweet Nugget für ca. 6 – 8 laufende Meter</li><li>ist eine extra süße und mittelfrühe Maissorte</li><li>seine Kolben besitzen goldgelben und saftigen Körnern</li><li>die Aussaat bevorzugt eine Bodentemperatur von + 10 °C</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
+}

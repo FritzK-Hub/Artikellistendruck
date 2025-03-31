@@ -1,0 +1,4 @@
+{
+    "uvp": 94.0,
+    "attributes": "<ul><li>Winkelschleifer 125 mm mit 720 Watt</li><li>kleiner Griffumfang und flacher Getriebekopf</li><li>spezielle Lufteinlässe und Wiederanlaufschutz</li><li>Zusatzgriff links und rechts am Gerät anbringbar</li><li>strombetrieben mit 2,5 m Zuleitung</li></ul>"
+}

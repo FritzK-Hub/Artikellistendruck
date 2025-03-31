@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Fahrradhandschuhe kurz</li><li>Innenhand gepolstert</li><li>Oberhand aus atmungsaktiven Materialien</li><li>besonders komfortabel durch Ausziehhilfe</li><li>waschbar bis 30°</li></ul>"
+}

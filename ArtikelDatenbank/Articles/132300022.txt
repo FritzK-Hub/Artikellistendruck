@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>3-in-1 Schleifer mit vielseitigen Anwendungsmöglichkeiten</li><li>hohe Effizienz bei allen Schleifarbeiten</li><li>werkzeugloser Schleifpapierwechsel</li><li>komfortable Handhabung mit ergonomischen Griff</li><li>flexible Staubentsorgungslösungen</li></ul>"
+}

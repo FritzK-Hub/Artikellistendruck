@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>universelle Arbeitsplattform aus stabilem Aluminium </li><li>breite Arbeitsfläche von 76 x 30 cm bietet ausreichend Tritt- und Abstellfläche</li><li>Kunststoffsprossen an den Füßen sorgen für mehr Schutz</li><li>zuverlässig einsetzbar im Haushalt, Garage oder auf der Baustelle</li><li>bei Nichtgebrauch platzsparend zusammenklappbar und einfach zu verstauen<br/></li></ul>"
+}

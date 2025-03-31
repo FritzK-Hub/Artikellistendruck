@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>maximale Sicherheit durch robuste Verarbeitung</li><li>wetterfest für dauerhaften Außeneinsatz</li><li>kompakt und dennoch massiv, schwer und sicher</li><li>vielseitig einsetzbar für Türen und Tore</li><li>drei Schlüssel sorgen für Flexibilität</li></ul>"
+}

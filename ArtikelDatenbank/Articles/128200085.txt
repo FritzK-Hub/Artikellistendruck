@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Gartenfackel 117 cm mit Sicherheitskappe </li><li>aus robustem Bambus gefertigt</li><li>vielseitig einsetzbare Gartendekoration</li><li>ideal für Terrasse, Balkon oder Garten</li><li>mit Docht und Brennstoffbehälter</li></ul>"
+}

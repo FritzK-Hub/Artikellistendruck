@@ -1,0 +1,4 @@
+{
+    "uvp": 119.95,
+    "attributes": "<ul><li>Standventilator Ø 40 cm mit drei Geschwindigkeitsstufen</li><li>sorgt an heißen Sommertagen für kühle Luft</li><li>ideal für den Arbeitsplatz oder eigenen Wohnräumen</li><li>Wassertank mit 2 Liter Kapazität für ca. 10 Stunden Sprühnebel</li><li>inklusive Fernbedienung mit fünf Meter Reichweite<br/></li></ul>"
+}

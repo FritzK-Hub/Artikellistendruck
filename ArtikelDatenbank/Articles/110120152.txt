@@ -1,0 +1,4 @@
+{
+    "uvp": 1.59,
+    "attributes": "<ul><li>Gasfeuerzeug nachfüllbar </li><li>in verschiedenen Motiven erhältlich</li><li>mit praktischer Piezo-Zündung</li><li>mit regulierbarer Flamme</li><li>ideal zum Anzünden einer Zigarette oder des Kohlegrills<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>20 Bodenträger mit Zapfen in Eiche hell</li><li>für die Aufnahme von Einlegeböden</li><li>für Bohrlöcher mit einem 5 mm Durchmesser</li><li>Bodenträger zum Stecken</li><li>einfach in der Handhabung<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>nachhaltiger Bewässerungssack für Bäume und Sträucher</li><li>sorgt für gezielte Wasserversorgung direkt an der Wurzel</li><li>schnell angebracht, lässt sich einfach befüllen</li><li>besonders effiziente Tröpfchenbewässerung über Stunden</li><li>spart Wasser, Zeit und gleichzeitig Kosten<br/></li></ul>"
+}

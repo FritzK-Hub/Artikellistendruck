@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>4 Korpus-Verbindungsschrauben</li><li>mit Kreuzschlitz versehen</li><li>aus massivem Stahl gefertigt, galvanisch verzinkt</li><li>Schrankverbinder mit einer Gewindelänge von 11 mm</li><li>Einschraubdübel mit Spannmaß von ca. 24,3 mm<br/></li></ul>"
+}

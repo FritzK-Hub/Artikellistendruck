@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Verbandsschere aus Metall</li><li>vorderer Teil abgewinkelt</li><li>mit verlängerter Spitze</li><li>seitlich abgeflachte Listerschere</li><li>ideal für eng anliegende Verbände</li></ul>"
+}

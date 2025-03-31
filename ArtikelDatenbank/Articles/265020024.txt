@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>aus robustem Stahl</li><li>einfach zu montieren</li><li>korrosionsbeständig</li><li>vielseitig verwendbar</li><li>sichere Befestigung</li></ul>"
+}

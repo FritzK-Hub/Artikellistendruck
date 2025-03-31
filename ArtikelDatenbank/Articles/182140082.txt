@@ -1,0 +1,4 @@
+{
+    "uvp": 11.49,
+    "attributes": "<ul><li>Fahrrad Schutzblech 24 - 26\"</li><li>breite Bauform, ca. 61 - 66 cm</li><li>Schnellbefestigung mit allen Befestigungsteilen</li><li>individuell anpassbare Halteklauen</li><li>Spritzschutz-Set für Vorder- und Hinterrad</li></ul>"
+}

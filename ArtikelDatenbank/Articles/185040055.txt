@@ -1,0 +1,4 @@
+{
+    "uvp": 1.79,
+    "attributes": "<ul><li>Geschenkfolie auf Rolle</li><li>Klarsichtfolie mit weihnachtlichen Motiven bedruckt</li><li>5 Motive zur Auswahl</li><li>zum Verpacken von Geschenken</li><li>auch für Blumensträuße geeignet</li></ul>"
+}

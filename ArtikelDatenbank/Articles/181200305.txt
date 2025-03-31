@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Staudenrittersporn Pacific</li><li>leuchtende Farben und attraktive Blütenrispen</li><li>vielseitig verwendbare Schnittblume und Rabattenpflanze</li><li>Probefeldgetestete Qualität</li><li>bringt im Herbst eine Nachblüte<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Schutzkappe für Fäustel</li><li>Schützt Fäustel und Umgebung</li><li>für 1000g Köpfe</li><li>PAK-frei</li></ul>"
+}

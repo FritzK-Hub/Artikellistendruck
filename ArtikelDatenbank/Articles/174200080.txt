@@ -1,0 +1,4 @@
+{
+    "uvp": 84.99,
+    "attributes": "<ul><li>eckiges Duschbrausen-Set im eleganten Design schafft eine Wellness Oase</li><li>Antikalk-Noppen für einfache Reinigung und verhindert Kalkablagerungen</li><li>höhenverstellbare Wandhalterung für individuelle Anpassung, je nach Körpergröße</li><li>Umsteller ermöglicht einfaches Wechseln zwischen Überkopf- und Handbrause</li><li>Spardichtung ermöglicht bis zu 50 % Wasserersparnis, sorgt für geringere Wasserkosten<br/></li></ul>"
+}

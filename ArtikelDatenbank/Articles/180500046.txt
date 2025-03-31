@@ -1,0 +1,4 @@
+{
+    "uvp": 20.29,
+    "attributes": "<ul><li>Sitzheizung Auflage mit zwei Heizstufen für individuellen Komfort</li><li>einfacher Anschluss an 12-Volt-Steckdose</li><li>hochwertiger Stoffbezug für angenehmes Sitzen</li><li>schnelle Befestigung durch elastische Bänder</li><li>leicht zu reinigen mit feuchtem Tuch</li></ul>"
+}

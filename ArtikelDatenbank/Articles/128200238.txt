@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>solarbetriebene Lichterkette aus Kunststoff</li><li>eignet sich ideal als Partybeleuchtung oder als dekorativer Lichtakzent</li><li>für unglaubliche, beeindruckende Deko-Effekte</li><li>Lämpchen strahlen in einem warmweißen Licht</li><li>besonders langlebig<br/><br/></li></ul>"
+}

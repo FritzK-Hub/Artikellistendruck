@@ -1,0 +1,4 @@
+{
+    "uvp": 0.59,
+    "attributes": "<ul><li>mehrmalig schneidbar</li><li>der Anbau in Balkonkästen oder Töpfen möglich</li><li>eignet sich besonders für Suppen, Eintöpfe, Saucen und Salate</li><li>im Haus und Garten pflanzbar</li><li>spätschießende, gelbe, krause Sorte</li></ul>"
+}

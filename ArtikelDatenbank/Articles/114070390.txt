@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>stilvolle Präsentation von Lieblingsfotos</li><li>hochwertiger Kunststoff in klassischem Goldton</li><li>Schutz der Fotos vor Staub und Kratzern dank Normalglas</li><li>flexible Optionen zur Präsentation</li><li>leichtes Gewicht und einfach zu handhaben<br/></li></ul>"
+}

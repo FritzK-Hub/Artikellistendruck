@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Pattex® \"Kleben statt Bohren\" Klebeband 1,5 m</li><li>die sofortige Anhaftung und hohe UV- und Temperaturbeständigkeit</li><li>ideal für anspruchsolle Montagearbeiten im Innen- und Außenbereich</li><li>nach dem Andrücken des Klebeobjektes ist eine Korrektur nicht mehr möglich</li><li>geeignet für Fliesen, Metall, Holz, Gestein, Spiegel oder Glas<br/></li></ul>"
+}

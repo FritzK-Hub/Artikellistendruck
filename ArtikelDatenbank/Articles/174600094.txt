@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>nützliches 12-teiliges Duschvorhangring-Set</li><li>aus strapazierfähigem Kunststoff</li><li>zur optimalen Befestigung von Dusch- und Badevorhängen</li><li>ovale Form und schlichte Optik</li><li>einfaches Einfädeln des Vorhangs dank Öffnung<br/></li></ul>"
+}

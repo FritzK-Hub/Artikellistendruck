@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>hochwertiges Düsenset von Güde</li><li>bestehend aus 2 Gasdüsen und 2 Stromdüsen</li><li>zum Anschrauben</li><li>ideal als Ersatz für defekte / abgenutzte Stromdüsen</li><li>passend zu Güde® MB 15 und TBI 150</li></ul>"
+}

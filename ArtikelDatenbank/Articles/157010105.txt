@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Fassadenweiß von DecoPro</li><li>Diffusionsoffen</li><li>für alle Putzuntergründe geeignet</li><li>hoch deckend</li><li>witterungsbeständige Außenfarbe</li></ul>"
+}

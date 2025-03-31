@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>GERMANIA® SDS plus Spitzmeißel</li><li>für Meißel- und Abbrucharbeiten</li><li>für Mauerwerk, Beton und losem Gestein geeignet</li><li>aus einem Stück Stahl geschmiedet</li><li>Verwendung z.B. beim Verlegen von Leitungen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>Abzweigdose für die Feuchtraum-Montage</li><li>zur Aufputzmontage geeignet</li><li>staub- und strahlwassergeschützt</li><li>mit vorgeprägten Leitungseinführungen 7 x M25</li><li>Abzweigkasten mit schraubbarem Deckel</li></ul>"
+}

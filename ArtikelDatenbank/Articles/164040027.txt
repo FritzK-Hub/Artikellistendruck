@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>eignet sich als zuverlässige und stabile Befestigungslösung</li><li>speziell für Expanderseile mit Ø 6 mm</li><li>Kunststoffbeschichtung verhindert Rost und Korrosion</li><li>einfach zu verwenden und anzubringen</li><li>flexibel einsetzbar in verschiedenen Anwendungen<br/></li></ul>"
+}

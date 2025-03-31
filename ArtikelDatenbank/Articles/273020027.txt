@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>GERMANIA® PZ3 Bit mit Pozidriv Kreuzschlitz Antrieb</li><li>aus hochwertigem S2 Stahl</li><li>geeignet für alle gängigen Bithalter</li><li>zur Verwendung mit Ratschenschraubendreher und Akkuschrauber</li><li>Bit zum Befestigen von Kreuzschlitz-Schrauben</li></ul>"
+}

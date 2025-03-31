@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Rückensäge von GERMANIA®</li><li>Handsäge mit feiner Sägezahnung</li><li>gerader, verstärkter Rücken</li><li>gummierter Kunststoffgriff</li><li>Feinsäge für gerade Holz-Schnitte</li></ul>"
+}

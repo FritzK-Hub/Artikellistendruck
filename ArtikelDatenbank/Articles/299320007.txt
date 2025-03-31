@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>hochwertiges Material</li><li>vielseitiger Einsatz</li><li>leichtes Design</li><li>präzise Bohrungen</li><li>mit CE-Kennzeichnung<br/></li></ul>"
+}

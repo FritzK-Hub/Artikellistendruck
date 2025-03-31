@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>Zwischenstecker 230 V mit Bewegungsmelder</li><li>aus stabilem, weißem Kunststoff gefertigt</li><li>Bewegungssensor schaltet sich bei Dämmerung automatisch ein</li><li>besitzt einen Erfassungsbereich von bis zu 100°</li><li>verfügt über eine Reichweite von bis zu 8 m und leuchtet ca. 2 Minuten auf<br/></li></ul>"
+}

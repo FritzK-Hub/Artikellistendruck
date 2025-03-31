@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Nigrin Flugrostentferner 500 ml Sprühflasche</li><li>schützt vor Rostschäden</li><li>entfernt effektiv und schonend aggressiven Flugrost von lackierten Oberflächen und Chromteilen</li><li>schützt den Lack und verbessert die Optik des Fahrzeugs</li><li>schont Lackoberflächen, Metall und Chrom</li></ul>"
+}

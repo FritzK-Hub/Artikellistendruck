@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>HT-Einfach-Abzweig für Verlegung in Gebäuden</li><li>für heiße, kalte und aggressive Abwässer geeignet</li><li>mit Steckmuffen für einfache Verlegung </li><li>integrierte Dichtungen</li><li>geprüft nach DIN EN 1451-1 <br/></li></ul><p></p>"
+}

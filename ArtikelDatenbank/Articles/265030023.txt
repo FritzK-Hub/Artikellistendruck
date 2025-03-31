@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>Bolzen-Schlossriegel aus rostfreiem Edelstahl</li><li>zur Schließung von Türen und Toren</li><li>mit versenkten und verstärkten Schraublöchern</li><li>mit befestigter Schlaufe</li><li>arretierbar gegen ungewolltes Lösen</li></ul>"
+}

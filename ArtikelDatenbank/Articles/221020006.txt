@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Zimmermann-Druckbleistift</li><li>Feststelllklemme für Mine im Schieber</li><li>Spitzer in der Endkappe integriert</li><li>Aufbewahrungsmöglichkeit für 2 Minen im Bleistift</li><li>inklusive 9 Minen</li></ul>"
+}

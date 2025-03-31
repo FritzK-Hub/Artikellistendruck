@@ -1,0 +1,4 @@
+{
+    "uvp": 129.99,
+    "attributes": "<ul> <li>professionelles Autogen-Schweiß- und Hartlötgerät</li> <li>Hartlötgerät mit hoher Leistung zum Installieren und Reparieren</li> <li>Brenner mit scharf gebündelter Flamme, stufenlos regulierbar</li> <li>Löten in allen Positionen möglich</li> <li>tragbar mit Sauerstoff und Hochleistungsmischgas AT 3000</li></ul>"
+}

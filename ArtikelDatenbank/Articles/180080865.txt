@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Luftpolsterfolie für den Schutz vor Staub und Nässe</li><li>flexibel und elastisch</li><li>reißfest und stoßdämpfend</li><li>geeignet für z.B. den Schutz beim Transport von Möbeln und Gegenständen </li><li>auch für den Pflanzenschutz im Winter geeignet</li></ul>"
+}

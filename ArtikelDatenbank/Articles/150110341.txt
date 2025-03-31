@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>vielseitig einsetzbar im Haushalt und Auto</li><li>höchste Reinheit durch Entionisierung und UV-Bestrahlung</li><li>erfüllt wichtige internationale Qualitätsstandards</li><li>sichere Anwendung für empfindliche Laborgeräte</li><li>verhindert Kalkablagerungen<br/></li></ul>"
+}

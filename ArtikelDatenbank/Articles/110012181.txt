@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Röhrensiphon aus Metall verchromt</li><li>elegantes Look, glänzende Chrombeschichtung</li><li>mit starrem Abgangsrohr versehen</li><li>geeignet für Waschtische</li><li>einfache Installation</li></ul>"
+}

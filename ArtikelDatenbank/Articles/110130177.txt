@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Zubehör zum Aufhängen von Schlaufenvorhängen in Gardinenschienen mit Innenlauf</li><li>besonders stabil und langlebig, aus robustem Kunststoff gefertigt</li><li>einfach in der Handhabung, seitlich aufklappen, den Vorhang einfädeln und anschließend einhängen</li><li>kleine Öffnung erleichtert das Auf- und Abhängen der Vorhänge, ohne Demontage der Gleiter</li><li>schlichtes und unauffälliges Design, vielseitig in jeder Raumgestaltung einsetzbar</li></ul>"
+}

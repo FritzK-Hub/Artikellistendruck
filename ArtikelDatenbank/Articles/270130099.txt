@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>HM Kreissägeblatt in Profiqualität</li><li>ideal für Handkreissägen mit 10mm Aufnahme</li><li>geeignet für Kunststoffe und Aluminium</li><li>universell einsetzbares Kreissägeblatt</li></ul>"
+}

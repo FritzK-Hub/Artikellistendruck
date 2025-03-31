@@ -1,0 +1,4 @@
+{
+    "uvp": 32.99,
+    "attributes": "<ul><li>Alpinaweiß Wand- und Deckenfarbe</li><li>im praktischen 10 Liter Eimer für ca. 55 m²</li><li>wurde nach der DIN EN 13 300 angefertigt</li><li>ideal für den Neu- als auch Renovierungsanstrich</li><li>ist mit dem Umweltsiegel „Der Blaue Engel“ versehen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Polyester Harz für die Verarbeitung von Glasfaser-Materialien</li><li>für die Reparatur von Deformationen, Rissen und Löchern an KFZ-Karosserien</li><li>ist elastisch und beständig gegen Vibrationen und Schwingungen</li><li>bietet optimale Haftfestigkeit, styrolreduziert</li><li>inklusive 10 g Härter</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 25.99,
+    "attributes": "<ul><li>für glatte Oberflächen</li><li>speziell für Bodenanwendungen</li><li>für Zement-, Estrich- und Betonuntergründe</li><li>gute Verlaufeigenschaften</li><li>für Innen- und Außen</li></ul>"
+}

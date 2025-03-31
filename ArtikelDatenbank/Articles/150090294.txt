@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>    verbesserte Sichtbarkeit im Straßenverkehr    </li><li>einfache Schraubbefestigung    </li><li>hochwertige Materialien für zuverlässige Leistung    </li><li>reduziert das Risiko von Unfällen    </li><li>ideal für schlechte Lichtverhältnisse oder Dunkelheit</li></ul>"
+}

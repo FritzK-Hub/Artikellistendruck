@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>intensives Aroma</li><li>heilende Wirkung</li><li>robuste Anpassungsfähigkeit</li><li>leichte Pflege</li><li>lang anhaltende Ernte<br/></li></ul>"
+}

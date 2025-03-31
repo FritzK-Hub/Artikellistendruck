@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Minen aus Metall für Druckkugelschreiber</li><li>2 Stück im Set</li><li>je eine Großraummine blauschreibend und schwarzschreibend</li><li>mit einer 1,0 mm Spitze</li><li>Großraumminen zum Austauschen für Kugelschreiber</li></ul>"
+}

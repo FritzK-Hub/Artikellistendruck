@@ -1,0 +1,4 @@
+{
+    "uvp": 4.89,
+    "attributes": "<ul><li>präzise Markierungen</li><li>mit Hartmetallspitze</li><li>angenehme Handhabung</li><li>vielseitig einsetzbar</li><li>hochwertiges Material</li></ul>"
+}

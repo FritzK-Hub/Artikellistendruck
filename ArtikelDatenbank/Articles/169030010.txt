@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>schnelle Methode zur sicheren Abdichtung von Verschraubungen</li><li>verhindert effektiv Leckagen an Verschraubungen</li><li>vielseitig anwendbar in der Werkstatt oder Zuhause</li><li>Sparset von 3 Rollen je 8 Meter und 12 mm Breite</li><li>für verschiedene Anwendungen an Wasser- und Gasleitungen<br/></li></ul>"
+}

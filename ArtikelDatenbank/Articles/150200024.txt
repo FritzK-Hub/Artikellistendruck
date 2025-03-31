@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Einkaufstasche 144 Liter aus PE Gewebe mit Reißverschluss </li><li>für den einfachen Transport und Aufbewahrung</li><li>bietet ausreichend Stauraum für Einkäufe, Spiel- oder Badesachen</li><li>ist in verschiedenen Farben erhältlich</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
+}

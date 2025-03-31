@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>Kerzenhalter 44 cm mit drei Windlichtern</li><li>Holzbrett aus massivem Mango gefertgit</li><li>schafft eine weihnachtliche Atmosphäre</li><li>vielseitig einsetzbare Weihnachtsdekoration</li><li>für Windlichter sind LED- als auch für echte Kerzen geeignet</li></ul>"
+}

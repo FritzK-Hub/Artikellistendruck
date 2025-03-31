@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Packung Saatgut für ca. 15 Stangen</li><li>lange, fast gerade, mittelgrüne,dickfleischige und rundovale Hülsen</li><li>hoher, kräftiger Wuchs mit starker Belaubung</li><li>für Frischverbrauch und Konservierung</li><li>widerstandsfähig gegen Brennflecken<br/></li></ul>"
+}

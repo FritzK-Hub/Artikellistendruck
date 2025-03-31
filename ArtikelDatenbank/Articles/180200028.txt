@@ -1,0 +1,4 @@
+{
+    "uvp": 20.29,
+    "attributes": "<ul><li>Korrosionsschutzzusätze zum Schutz der Einspritzanlage</li><li>Verbesserung der Schmierwirkung für hochpräzise gefertigte Bauteile</li><li>Optimierung der Motorleistung und Senkung der Abgaswerte</li><li>Reduzierung des Kraftstoffverbrauchs</li><li>Geeignet für alle Dieselmotoren<br/></li></ul>"
+}

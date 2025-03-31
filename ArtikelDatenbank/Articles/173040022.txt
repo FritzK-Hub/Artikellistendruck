@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>hochwertiger Chrom-Vanadium-Stahl für erhöhte Belastbarkeit und Stabilität</li><li>extra lange Werkzeuge für präzise Handhabung bei schwer zugänglichen Schrauben</li><li>Kugelköpfe ermöglichen Schrauben in spitzen Winkeln</li><li>9-teiliges Set mit Größenbereich von HEX 1,5 - 10 mm für vielseitigen Einsatz</li><li>patentierte Grifftechnologie für bequeme und sichere Handhabung<br/></li></ul>"
+}

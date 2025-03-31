@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Seitenschneider für präzises Durchtrennen von Kabeln, Saiten und Drähten</li><li>sauberer Schnitt, selbst bei dünnen Drähten</li><li>schlankes Design für schwer zugängliche Bereiche</li><li>schwere Handschutzisolierung für maximale Sicherheit</li><li>hochwertiger Werkzeugstahl gewährt robuste Langlebigkeit</li></ul><p></p>"
+}

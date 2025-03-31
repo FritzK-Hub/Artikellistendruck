@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>stabiler Schlüssel für Zündkerzen</li><li>mit Gelenk für schwer erreichbare Stellen</li><li>Doppelgelenk für optimale Kraftübertragung</li><li>kunststoffummantelter T-Griff</li><li>aus Spezialstahl hergestellt</li></ul>"
+}

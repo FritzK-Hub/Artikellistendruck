@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>Drehmomentschlüssel mit Umschaltknarre 3/8\"</li><li>Vierkant Antrieb, einstellbar von 13,6 bis 108,5 Nm</li><li>zum Anziehen auf Drehmoment bei Verschraubungen <br/></li><li>gut lesbare, kontrastreiche Skala</li><li>präzise Einstellmöglichkeit mit automatischer Auslösung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 459.0,
+    "attributes": "<ul><li>stabile und langlebige Konstruktion</li><li>hochwertige Robinienholzbelattung zur langlebigen Nutzung</li><li>bequemer Sitzkomfort für lange Stunden</li><li>großzügige Maße des Tisches für gesellige Zusammenkünfte</li><li>ästhetisches Design mit Pulverbeschichtung<br/></li></ul>"
+}

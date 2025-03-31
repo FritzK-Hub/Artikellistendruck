@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Nigrin Graphit-Spray schmiert optimal Metall auf Metall</li><li>fettfrei und geruchslos</li><li>ist ein guter Haftvermittler</li><li>für trockene, nicht vorgeschmierte Schlösser, Scharniere und Beschläge</li><li>beseitigt langfristig Quietschen und Knarren, verhindert das Einfrieren</li></ul>"
+}

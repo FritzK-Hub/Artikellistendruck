@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>erleichtert den Transport von Gegenständen über Treppen</li><li>vielseitig bei Umzüge, Lieferungen oder Verladearbeiten einsetzbar</li><li>stabile Stahlkonstruktion mit bis zu 120 kg Belastbarkeit</li><li>Handschutzbügel und Radschutz bieten zusätzliche Sicherheit</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Klebestift 35 g, lösungsmittelfrei</li><li>für Bastelarbeiten</li><li>geeignet für Papier, Pappe, Fotos,</li><li>Kleber trocknet transparent</li><li>Bastelkleber mit luftdichter Kappe</li></ul><p><br/></p>"
+}

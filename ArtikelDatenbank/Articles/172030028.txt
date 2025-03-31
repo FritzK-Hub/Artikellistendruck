@@ -1,0 +1,4 @@
+{
+    "uvp": 1.59,
+    "attributes": "<ul><li>Abzweigdose aus Kunststoff für die Feuchtraum-Montage</li><li>staub- und spritzwassergeschützt sowie flammwidrig</li><li>mit selbst dichtenden Kabeldurchführungen</li><li>außen liegende Befestigungslaschen für leichtere Montage</li><li>geeignet bis 400 V</li></ul>"
+}

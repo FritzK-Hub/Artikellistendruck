@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Schäkel</li><li>gerade Form</li><li>galvanisch verzinkt</li><li>max. Tragkraft 100kg</li><li>anwendbar bis 13mm</li></ul>"
+}

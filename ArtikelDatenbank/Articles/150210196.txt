@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>Tritthocker mit integriertem Tragegriff</li><li>vielseitiger Helfer im Haushalt</li><li>Griff an der Oberseite erleichtert das Bewegen</li><li>hochwertig und leicht</li><li>schnelles Erreichen von hohen Stellen</li></ul>"
+}

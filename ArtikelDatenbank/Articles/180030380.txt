@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Tomatenspirale 180 cm aus verzinktem Stahl gefertigt</li><li>durch spiralförmige Struktur für Tomaten geeignet</li><li>unterstützt den Pflanzen beim Wachstum</li><li>sorgt für die notwendige Stabilität</li><li>für bei anderen Kletterpflanzen einsetzbar<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>Kunstrasenteppich 100 x 200 cm in Grün </li><li>praktische Unterlage für den Balkon oder einer Spielfläche für Kinder</li><li>verwandelt den Außenbereich in eine pflegeleichte grüne Oase</li><li>genoppte Unterseite sorgt für rutschfesten Untergrund</li><li>ist einfach in der Pflege und ähnelt einem echten Rasen<br/></li></ul>"
+}

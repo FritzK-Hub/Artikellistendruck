@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Sicherungshalter für Feinsicherung</li><li>für ein leichtes Wechseln von defekten Sicherungen</li><li>zum Schalten in die spannungsführende Zuleitung</li><li>wird durch schrauben verbunden</li><li>schützt vor Überspannung</li></ul>"
+}

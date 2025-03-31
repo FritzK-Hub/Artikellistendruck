@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>stabil und robust</li><li>vielseitig einsetzbar</li><li>ohne Schließlasche</li><li>verzinkt</li><li>Befestigungslöcher angesenkt</li></ul>"
+}

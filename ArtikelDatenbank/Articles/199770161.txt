@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>4 Eckverbinder aus Kunststoff mit Deckel</li><li>zur Montage von Blenden einsetzbar</li><li>garantiert eine stabile und feste 90°-Verbindung</li><li>zu verschiedenen Möbelprojekten flexibel einsetzbar</li><li>schnelle und unkomplizierte Montage der Eckverbinder</li></ul>"
+}

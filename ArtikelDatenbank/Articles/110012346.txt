@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>    Übergangsstück für die Sanitär-, Heizungs-, Gas-, Öl-und Druckluftinstallation</li><li>mit Klemmfitting, für 15 mm Kupferrohr und 1/2\" Außengewinde    </li><li>rein metallisch dichtend</li><li>    einfache Installation keine Spezialwerkzeuge erforderlich    </li><li>können mit Kupferrohren verarbeitet werden</li></ul>"
+}

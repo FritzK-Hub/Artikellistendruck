@@ -1,0 +1,4 @@
+{
+    "uvp": 4.29,
+    "attributes": "<ul><li>Set bestehend aus einem Bürsten-Topf und -WC-Bürste</li><li>schlicht und platzsparend, lässt sich einfach neben das WC stellen</li><li>sorgt für eine gründliche Reinigung und strahlende Sauberkeit deiner Toilette</li><li>besonders langlebig, aus stabilem Kunststoff und Nylonborsten gefertigt</li><li>einfach in der Handhabung, ist jederzeit griffbereit und dekorativ aufbewahrt<br/></li></ul>"
+}

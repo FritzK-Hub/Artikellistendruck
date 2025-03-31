@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>hohe Erträge</li><li>Hülsen ohne Fäden</li><li>schlanke, lange und runde Hülsen</li><li>eignen sich gut zum Frosten und Einwecken</li><li>Reifezustand ist gut zu beobachten<br/></li></ul>"
+}

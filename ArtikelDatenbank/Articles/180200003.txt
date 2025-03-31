@@ -1,0 +1,4 @@
+{
+    "uvp": 15.09,
+    "attributes": "<ul><li>verbessert die Leistung des Motors</li><li>entfernt Ablagerungen im Motor</li><li>beseitigt Startschwierigkeiten</li><li>pflegt die Einspritzanlage</li><li>schützt vor Korrosion<br/></li></ul>"
+}

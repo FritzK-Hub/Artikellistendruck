@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>harmonisches Herbstpflanzen-Duo im Topf</li><li>pflegeleicht und vielseitig platzierbar</li><li>stilvolle Bepflanzung mit minimalem Aufwand</li><li>Varianten lassen sich flexibel mit einander arrangieren</li><li>Blickfang für jede Außengestaltung</li></ul>"
+}

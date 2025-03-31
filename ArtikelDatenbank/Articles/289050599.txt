@@ -1,0 +1,4 @@
+{
+    "uvp": 24.39,
+    "attributes": "<ul><li>gewölbtes Übergangsprofil aus Messing</li><li>zum zweier gleich- oder verschiedenartiger Bodenbeläge</li><li>unsaubere Schnittkanten werden verdeckt</li><li>Stolperfallen durch sich aufstellende Teppichkanten werden vermieden</li><li>Montage mittels Senkkopfschrauben</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>praktischer Sockel für Regentonnen</li><li>passend für Regentonne 520 Liter eckig</li><li>optimale Ergänzung</li><li>aus 100 % recyclebarem Kunststoff</li><li>zur leichteren Wasserentnahme<br/><br/></li></ul>"
+}

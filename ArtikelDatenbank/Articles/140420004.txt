@@ -1,0 +1,4 @@
+{
+    "uvp": 2.95,
+    "attributes": "<ul><li>Viertelstab 9 x 9 mm aus strapazierfähigem Kiefernholz</li><li>vielseitig bei Bastelprojekte und für den Modellbau einsetzbar</li><li>verleiht deinen Projekten Stabilität und Zuverlässigkeit</li><li>dient zum Abdecken von Wand- und Deckenübergänge</li><li>auch als Pflanzstab oder Kletterhilfe nutzbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>Innendispersionsfarbe für Anstriche mit Raufaser Effekt</li><li>weiß stumpfmatt, lösemittelfrei</li><li>gute Deckkraft, waschbeständig</li><li>kaschiert kleine Unebenheiten</li><li>zum Streichen, Rollen und Spritzen geeignet</li></ul>"
+}

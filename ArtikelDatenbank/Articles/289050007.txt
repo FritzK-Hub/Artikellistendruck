@@ -1,0 +1,4 @@
+{
+    "uvp": 6.88,
+    "attributes": "<ul><li>Rauputz-Alublech-Tafel</li><li>aus rohem Aluminium unbehandelt</li></ul>"
+}

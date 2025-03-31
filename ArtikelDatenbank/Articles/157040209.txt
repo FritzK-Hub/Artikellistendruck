@@ -1,0 +1,4 @@
+{
+    "uvp": 15.95,
+    "attributes": "<ul><li>wasserverdünnbarer Acryllack für den Innen- und Außenbereich</li><li>geeignet für Holz, Metall, Verputz, Beton, Faserzement, Hart-PVC</li><li>schlag-, kratz- und wetterfeste Lackierungen</li><li>Umweltzeichen der Blaue Engel</li><li>nach DIN EN 71.3 für Kinderspielzeug geeignet</li></ul>"
+}

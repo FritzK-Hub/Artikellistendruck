@@ -1,0 +1,4 @@
+{
+    "uvp": 1599.95,
+    "attributes": "<ul><li>Kaminofen KRONOS mit Natursteinverkleidung</li><li>Feuerraumverkleidung aus Vermiculite</li><li>mit robustem Gussrost</li><li>Luftzufuhr regulieren über gut erreichbare Schieber</li><li>Rauchrohranschluss für oben oder hinten</li></ul>"
+}

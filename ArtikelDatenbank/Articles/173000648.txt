@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>Deckenstrahler 2-flammig, Länge 26 cm</li><li>inklusive Leuchtmittel mit GU10-Sockel<br/></li><li>beide Strahler drehbar und neigbar</li><li>aus robustem Metall gefertigt<br/></li><li>mit verchromten Scharnieren</li></ul>"
+}

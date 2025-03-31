@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>kraftvoller Entkalker</li><li>löst auch hartnäckige Ablagerungen</li><li>für Kaffemaschinen, Heißwasser- und Kochgeräte, Dampfbügeleisen</li><li>mit der Kraft der Zitronensäure</li><li>schnelle und einfache Anwendung</li></ul>"
+}

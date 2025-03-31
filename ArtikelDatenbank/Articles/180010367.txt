@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Spezialdünger 250 ml für Orchideen</li><li>beinhaltet alle Haupt- und Spurennährstoffe</li><li>durch hohen Nährstoffgehalt sehr ergiebig</li><li>spezielle Wirkungsformel</li><li>für gesundes Wachstum und eine lange Lebensdauer<br/></li></ul>"
+}

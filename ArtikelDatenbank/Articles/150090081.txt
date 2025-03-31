@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>mit H1 P14,5s Sockel<br/></li><li>gemäß ECE R 37</li><li>Lichtfarbe 3200 K, Lebensdauer ca. 700 h<br/></li><li>hochwertiges Quarzglas</li><li>bis zu 30% mehr Licht</li></ul>"
+}

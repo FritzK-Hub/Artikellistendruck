@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>elastischer Ausgußreiniger</li><li>komplett mit Holzstiel</li><li><span class=\"a-list-item\"> löst Verstopfungen durch starke Saugleistung</span></li><li><span class=\"a-list-item\">vielseitig einsetzbar<br/></span></li><li>zur umweltschonenden Beseitigung von Abflußverstopfungen</li></ul>"
+}

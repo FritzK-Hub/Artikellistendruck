@@ -1,0 +1,4 @@
+{
+    "uvp": 139.0,
+    "attributes": "<ul><li>Güde® Mauernutfräse MD1700</li><li>kraftvolle und leistungsstarke 1700 Watt Mauernut- und Dehnfugfräse</li><li>Anschluss eines externen Absaugsystem für staubfreies Arbeiten</li><li>variabel einstellbare Schnittbreiten, stufenlose Schnitttiefeneinstellung</li><li>Laser für exakte Schnittführung</li></ul>"
+}

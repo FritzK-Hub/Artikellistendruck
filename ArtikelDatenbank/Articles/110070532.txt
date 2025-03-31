@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>mit praktischen Spreiztrichter</li><li>universell einsetzbar</li><li>robust, widerstandsfähig und langlebig</li><li>einfach und schnell zu montieren</li><li>Schutz vor Schmutz und Witterungseinflüssen<br/><br/></li></ul>"
+}

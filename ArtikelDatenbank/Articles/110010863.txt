@@ -1,0 +1,4 @@
+{
+    "uvp": 5.19,
+    "attributes": "<ul><li>für einfache Verstopfungsbeseitung </li><li>hitzebeständig bis 90°C</li><li>resistent gegen Chemikalien und Salze</li><li>einfache Montage durch Steckverbindung</li><li>reduziert störende Fließgeräusche</li></ul>"
+}

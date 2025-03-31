@@ -1,0 +1,4 @@
+{
+    "uvp": 28.95,
+    "attributes": "<ul><li>hochwertige, stabile Edelstahlausführung</li><li>Aschenbecher und Mülleimer in einem</li><li>Ascheschale und Deckel abnehmbar für leichte Reinigung</li><li>schlankes, geradliniges Design</li><li>Mülleimer mit großer Einwurföffnung<br/></li></ul>"
+}

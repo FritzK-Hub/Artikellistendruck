@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>Gartenhandschuhe Extrem Winter Größe 11 aus Polyester</li><li>ideal für Garten-, Forst- oder landwirtschaftlichen Arbeiten</li><li>doppeltes Trägermaterial hält die Hände schön warm</li><li>beständig gegen Öle und Fetten mit sicheren Halt</li><li>besitzt einen angenehmen Komfort wie Belastbarkeit<br/></li></ul>"
+}

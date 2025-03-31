@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>Vorratsdosenset 27-teilig mit weißem Deckeln</li><li>hergestellt aus robustem Kunststoff</li><li>ideal zum Aufbewahren, Einfrieren und Erwärmen</li><li>verschließt luft-, wasser- und aromadicht</li><li>platzsparend ineinander stapelbar<br/></li></ul>"
+}

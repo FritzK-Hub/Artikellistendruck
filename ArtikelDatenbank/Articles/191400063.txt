@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>robuster Flugdrache 183 x 81 cm mit 30 m Schnur</li><li>für junge Piloten bestens geeignet</li><li>ruhiges Flugverhalten auch bei leichtem Wind</li><li>in verschiedenen Farben erhältlich (Farbauswahl nicht möglich)</li><li>bei Nichtgebrauch in der Tasche verstaubar<br/></li></ul>"
+}

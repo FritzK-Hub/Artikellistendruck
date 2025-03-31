@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>selbstklebende Heizkörper Reflexionsfolie, Thermofolie auf Rolle</li><li>aus Polystyrol, alukaschiert</li><li>spart Energiekosten, schont die Umwelt</li><li>erhöht den Wohnkomfort mit Wärmerückstrahlung</li><li>schützt vor Kälte und Wärmeverlust</li></ul>"
+}

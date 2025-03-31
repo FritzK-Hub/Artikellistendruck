@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Holzbriketts 10 kg aus reinen, gepressten Sägespänen</li><li>aus nachhaltiger Forstwirtschaft, ohne Bindemittel</li><li>ideal für Kachelöfen, Zentralheizungsöfen oder Kaminen</li><li>eine lange, gleichmäßige Wärmequelle von ca. 5 kWh pro Kg</li><li>lässt sich bequeme und platzsparend lagern<br/></li></ul>"
+}

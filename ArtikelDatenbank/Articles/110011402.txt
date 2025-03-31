@@ -1,0 +1,4 @@
+{
+    "uvp": 4.19,
+    "attributes": "<ul><li>zur sicheren Befestigung von Kaltwasserrohren und anderen runden Gegenständen</li><li>besonders langlebig und robust, aus verzinktem Stahl gefertigt</li><li>flexible Einsatzmöglichkeiten, an Wänden, Decken oder am Boden montierbar</li><li>einfach in der Handhabung, Fittings lassen sich werkzeuglos mit den Rohren zusammenstecken</li><li>widerstandsfähig gegen Witterungseinflüssen und vor Korrosion oder Rostbildung geschützt</li></ul>"
+}

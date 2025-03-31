@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Pattex® Sekundenkleber flexibel „Ultra Gel“</li><li>für schnelle Reparaturen im Haushalt oder Büro</li><li>bereits nach ca. 10 - 80 Sekunden haftet der Alleskleber</li><li>gelartige Zusammensetzung ermöglicht präzise Verklebungen</li><li>Schlag- und Wasserbeständigkeit zeichnen den Kleber aus</li></ul><p><br/></p>"
+}

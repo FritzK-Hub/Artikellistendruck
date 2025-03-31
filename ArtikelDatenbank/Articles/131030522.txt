@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>Regeneriersalz, Siedesalz in Tablettenform</li><li>Natriumchlorid zur Wasseraufbereitung</li><li>aus hochreinem Siedesalz min. 99,8 % NaCl</li><li>für die Erhöhung der Lebensdauer</li><li>geeignet für alle Gerätetypen<br/></li></ul>"
+}

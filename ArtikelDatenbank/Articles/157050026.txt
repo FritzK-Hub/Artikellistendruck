@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>dekorativer Chrom-Effekt</li><li>auf vielen Oberflächen anwendbar</li><li>optimaler Effekt auf schwarzem Untergrund</li><li>schnell-trocknender Effektlack</li><li>einfache und praktische Anwendung</li></ul>"
+}

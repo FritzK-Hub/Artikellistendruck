@@ -1,0 +1,4 @@
+{
+    "uvp": 16.79,
+    "attributes": "<ul><li>LIQUI MOLY Motorenöl für Benzin- und Dieselmotoren</li><li>basierend auf HC-Syntheseölen</li><li>speziell entwickelt für Peugeot, Citroen und Opel</li><li>geeignet für Turbomotoren und Dieselpartikelfilter (DPF)</li><li>senkt den Kraftstoffverbrauch und reduziert den Schadstoffausstoß</li></ul>"
+}

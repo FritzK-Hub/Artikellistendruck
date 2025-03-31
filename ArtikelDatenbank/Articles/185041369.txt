@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Echtwachskerzen Floral batteriebetrieben 2-teilig</li><li>elegantes, Ranken-Motiv, bedeckt zweidrittel der Kerze</li><li>mit warm-weißer Kerzenlicht-LED</li><li>absolut sicher - kein offenes Feuer, kein Ruß</li><li>sorgen für eine stimmungsvolle Wohlfühlatmosphäre</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Acrylfarbe von The Wall</li><li>auf Wasserbasis hergestellt</li><li>schnell trocknend</li><li>für verschiedene Techniken geeignet</li><li>verwendbar auf Leinwand, Papier, Holz, Stoff, etc.</li></ul><p></p>"
+}

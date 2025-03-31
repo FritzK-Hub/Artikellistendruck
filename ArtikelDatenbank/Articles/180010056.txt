@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>gebrauchsfertige Saatguterde von Humoflor®<br/></li><li>sorgt für eine gute Entwicklung von Jungpflanzen und Topfkräutern</li><li>20 Liter Aussaaterde</li><li>schwach angereichert mit Nährstoffen</li><li>zur Anzucht von Blumen- und Gemüsejungpflanzen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Schnur aus Polypropylen, multifil</li><li>8-fach geflochten</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1 m bis 150 m</li><li>schwimmfähig und UV-stabilisiert</li></ul>"
+}

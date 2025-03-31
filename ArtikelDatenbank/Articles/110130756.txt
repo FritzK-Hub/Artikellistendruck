@@ -1,0 +1,4 @@
+{
+    "uvp": 1.39,
+    "attributes": "<ul><li>robustes Regal-Wandschiene aus pulverbeschichtetem Stahl in neutralem Weiß</li><li>flexibel anpassbar für 1-reihige Träger, Winkelträger, Kleiderträger und Bücherbügel</li><li>platzsparende und organisierte Lagerung für maximale Stauraumnutzung</li><li>schaffe Ordnung in deinen Räumen mit unserer praktischen Wandschiene</li><li>perfekt geeignet für Bücher, Kleidung und andere Gegenstände</li></ul>"
+}

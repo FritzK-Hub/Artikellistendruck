@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Ergänzungsfuttermittel für Hunde</li><li>echter Schweineknochen</li><li>fördert die Zahngesundheit</li><li>reich an wichtigen Mineralien</li><li>reines Naturprodukt</li></ul>"
+}

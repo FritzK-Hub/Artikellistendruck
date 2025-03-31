@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>für aufgeräumtes Kabelmanagement im Büro oder zu Hause</li><li>verhindert Durchrutschen der Kabel unter dem Schreibtisch</li><li>bietet Platz für bis zu drei Kabel in Reichweite</li><li>haltbare 3M-Klebefläche für einfache Montage auf fast jeder Oberfläche</li><li>für Kabel bis zu 5,4 mm und passt perfekt in jedes Raumdesign<br/></li></ul>"
+}

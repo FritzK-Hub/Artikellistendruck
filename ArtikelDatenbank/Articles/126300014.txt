@@ -1,0 +1,4 @@
+{
+    "uvp": 199.99,
+    "attributes": "<ul><li>leichte Benzin-Kettensäge für ermüdungsfreies Arbeiten</li><li>Antivibrationssystem ermöglicht komfortable Langzeitanwendung</li><li>innovatives Soft Start-System zum einfachen Starten</li><li>doppelt aktivierte Kettenbremse bietet maximale Sicherheit</li><li>benutzerfreundliche Wartung mit leichtem Zugang</li></ul>"
+}

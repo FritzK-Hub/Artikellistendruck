@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Ergänzungsfuttermittel für freilebende Vögel</li><li>aus gehackten Erdnüssen mit hohem Ölgehalt</li><li>Futter speziell für Körnerfresser geeignet</li><li>in kalten Jahreszeit für zusätzliche Energie</li><li>hält Stoffwechsel und Körpertemperatur aufrecht<br/></li></ul>"
+}

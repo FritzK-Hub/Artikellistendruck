@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>GERMANIA® Handwerkermesser mit Wellenschliffklinge</li><li>zusätzlich mit Magnetbithalter und vier Bits versehen</li><li>Werkzeug für jeden Handwerker im alltäglichen Gebrauch</li><li>die Bithalterung kommt selbst an schwer zugänglichen Stellen</li><li>lässt sich dank Gürtelklammer leicht an der Hose befestigen</li></ul>"
+}

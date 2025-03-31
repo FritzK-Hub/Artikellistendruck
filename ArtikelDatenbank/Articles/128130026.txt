@@ -1,0 +1,4 @@
+{
+    "uvp": 79.99,
+    "attributes": "<ul><li>Hängematte faltbar 245 x 80 x 70 cm in Anthrazit</li><li>für die Entspannung im Garten, Strand oder beim Camping</li><li>stabile Metallkonstruktion bietet hohe Standfestigkeit</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar</li><li>inklusive Tragetasche für den einfachen Transport</li></ul>"
+}

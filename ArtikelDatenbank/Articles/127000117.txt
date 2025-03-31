@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Gartenhacke aus Stahl mit 14 cm Arbeitsbreite</li><li>eignet sich besonders für die Bodenauflockerung</li><li>auch zum Entfernen von Unkraut einsetzbar</li><li>sichere Stielverbindung durch eine 28 mm Stieldülle </li><li>unverzichtbares Werkzeug bei der Rasenpflege</li></ul>"
+}

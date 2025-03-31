@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>batteriebetriebene Teelichter (inklusive 4 x CR2032 Batterie)</li><li>die Flackerfunktion imitiert das natürliche Verhalten einer Flamme</li><li>sichere Nutzung da keine offene Flamme</li><li>perfekt zum Dekorieren zu Weihnachten, an Geburtstagen und auch für den Heiratsantrag</li><li>ohne Timerfunktion<br/></li></ul>"
+}

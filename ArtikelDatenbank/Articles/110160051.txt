@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>hochwertiger Möbelgriff für lange Lebensdauer</li><li>für eine schnelle Erneuerung der Möbel</li><li>modernes Design mit weißer Oberfläche</li><li>passend für die meisten Schränke und Schubladen</li><li>einfache Montage dank mitgeliefertem Befestigungsmaterial<br/></li></ul>"
+}

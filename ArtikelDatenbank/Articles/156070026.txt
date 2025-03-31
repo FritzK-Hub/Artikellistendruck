@@ -1,0 +1,4 @@
+{
+    "uvp": 2.8,
+    "attributes": "<ul><li>müheloses Bewegen von Möbeln auf Teppichböden</li><li>robuste Kunststoffmaterialien für eine lange Lebensdauer</li><li>vermeidet Schäden an empfindlichen Bodenbelägen</li><li>im schwarzen 6-eckigen Design</li><li>optimale Gewichtsverteilung, Stabilität und Widerstandsfähigkeit<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.59,
+    "attributes": "<ul><li>Regalkonsole Altura 220 x 155 mm in Weiß</li><li>aus pulverbeschichtetem Stahl gefertigt</li><li>verfügt über eine Belastbarkeit von bis zu 24 kg</li><li>zum Bau von Regalböden</li><li>passend für Regalböden 115 mm und 220 mm<br/></li></ul>"
+}

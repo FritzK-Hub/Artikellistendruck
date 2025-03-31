@@ -1,0 +1,4 @@
+{
+    "uvp": 32.99,
+    "attributes": "<ul><li>Steckschlüssel Einsätze 1/2\" 16-teilig<br/></li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>in den Größen 8-24 mm mit Zwölfkant-Antrieb</li><li>verfügt über eine matt verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatz<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>XXL-Blütenpracht <br/></li><li>vielseitige Verwendung</li><li>Bienenweide und Hummelmagnet</li><li>einfache Pflegeanforderung</li><li>lange Blütezeit<br/></li></ul>"
+}

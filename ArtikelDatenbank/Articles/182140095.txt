@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Lenker-Tasche mit Reflektorstreifen</li><li>werkzeuglose Befestigung am Fahrradlenker, senkrecht und waagerecht </li><li>Stoßdämpfend durch weiche Polsterung</li><li>mit wassergeschütztem Sichtfenster, Touchscreen geeignet</li><li>ideal für längere Radtouren mit Routenplaner-Nutzung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>mit Hartmetallzähnen bestücktes Kreissägeblatt zur Bearbeitung von Materialien wie z. B. Weich- und Hartholz, Profilbretter, Paneele, Spanplatten, MDF, Faserwerkstoffe, Sperrholz, etc.</li><li>Wechselzähne (WZ) ermöglichen sowohl schnelle als auch saubere Längs- und Querschnitte</li><li>geschliffene HM Oberfläche und sandgestrahlter Zahnkranz</li><li>für Makita, Bosch, Dewalt, AEG, Elu, Festo und Metabo</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.95,
+    "attributes": "<ul><li>natürlicher Schutz gegen Pilz- und Insektenbefall</li><li>Möglichkeit zur Imprägnierung oder Ölung</li><li>vielseitig einsetzbar für verschiedene Projekte</li><li>robuste Konstruktion für eine lange Lebensdauer</li><li>ästhetische Optik dank unbehandeltem Douglasienholz<br/></li></ul>"
+}

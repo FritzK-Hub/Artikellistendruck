@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>    schafft eine mit Kreide bemal- und beschreibbare Fläche    </li><li>für diverse glatte Oberflächen geeignet    </li><li>hohe Deckkraft bei schneller Trocknung</li><li>geruchsarm    </li><li>reicht für bis zu 3 m² Fläche</li></ul>"
+}

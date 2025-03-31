@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Fahrradreiniger mit stufenlos verstellbarem Sprühkopf</li><li>reinigt kraftvoll, mühelos und gründlich</li><li>einfache Anwendung Dank Pumpsprühflasche</li><li>löst Öle, Fette und Harze</li><li>geprüfte Materialverträglichkeit für alle Fahrradteile</li></ul>"
+}

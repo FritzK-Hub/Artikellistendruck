@@ -1,0 +1,4 @@
+{
+    "uvp": 399.9,
+    "attributes": "<ul><li>zum Anpflanzen von Kräutern, Blumen oder Gemüse</li><li>zuverlässiger Schutz vor Schädlingen und Witterungseinflüssen</li><li>mühelose, schnelle Montage dank mitgeliefertes Befestigungsmaterial</li><li>rückenschonende Arbeit durch optimale Höhe</li><li>effektiver Schutz vor Schneckenbefall</li><li>vier aufstellbare Dachfenster für einfachen Zugang<br/></li></ul>"
+}

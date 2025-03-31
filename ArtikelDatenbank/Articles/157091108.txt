@@ -1,0 +1,4 @@
+{
+    "uvp": 29.39,
+    "attributes": "<ul><li>für Fallrohre mit Durchmesser 53 mm</li><li>ideal zur nachhaltigen Regenwassernutzung</li><li>nachträglicher Einbau möglich</li><li>UV- und witterungsbeständig</li><li>Montage durch einfaches Stecken</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Solar-Kugelleuchte aus stabilem Kunststoff</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>vielseitig einsetzbar für innen oder außen</li><li>ist dank Schnüren überall aufhängbar</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.89,
+    "attributes": "<ul><li>in klassischer, quadratischer Form</li><li>für Tische, Schränke oder Möbelstücke</li><li>aus pulverbeschichtetem Stahlrohr</li><li>solide verarbeitet und hoch belastbar</li><li>einfache und sichere Befestigung<br/><br/></li></ul>"
+}

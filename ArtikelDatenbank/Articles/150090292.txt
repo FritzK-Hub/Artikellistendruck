@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>optimale seitliche Ausleuchtung des Anhängers</li><li>kompakte Maße, kann fast überall montiert werden</li><li>trägt zur Erhöhung der Sichtbarkeit des Anhängers</li><li>aus stabilem Kunststoff gefertigt</li><li>Schraubbefestigung für die einfache Montage<br/></li></ul>"
+}

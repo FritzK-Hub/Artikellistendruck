@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>schnelle und einfache Montage</li><li>optimale Belüftung und angenehmes Raumklima</li><li>hochwertige Materialien</li><li>vielseitig einsetzbar</li><li>komfortable Ausstattung<br/></li></ul>"
+}

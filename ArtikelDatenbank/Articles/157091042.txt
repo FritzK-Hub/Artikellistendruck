@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>vielseitige Anwendungen im Hobbybereich möglich</li><li>klarer Glanz für ästhetische Optik</li><li>widerstandsfähig gegen Beschädigungen für Langlebigkeit</li><li>einfache Formbarkeit ermöglicht kreative Gestaltung</li><li>optimal für Modellbau und Acrylmalerei</li></ul>"
+}

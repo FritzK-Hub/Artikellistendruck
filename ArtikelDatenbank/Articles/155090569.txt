@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>hochwertiger HDMI-Adapter</li><li>90° abgewinkelt</li><li>vergoldeter Anschluss</li><li>1 x HDMI-Stecker / 1 x HDMI-Kupplung</li><li>einfache Verwendung<br/><br/></li></ul>"
+}

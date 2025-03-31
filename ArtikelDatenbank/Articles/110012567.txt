@@ -1,0 +1,4 @@
+{
+    "uvp": 4.69,
+    "attributes": "<ul><li>massive Doppel-Rohrschelle mit Profilgummi</li><li>einfache Rohrmontage mit Langloch-Schraubfesfestigung<br/></li><li>mit Langloch Wand-/Deckenbefestigung</li><li>schalldämmende Gummieinlage<br/></li><li>für mittlere bis hohe Lasten</li></ul>"
+}

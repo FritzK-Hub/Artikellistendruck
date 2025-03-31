@@ -1,0 +1,4 @@
+{
+    "uvp": 4.29,
+    "attributes": "<ul><li>Fahrradglocke Trekking farblich sortiert</li><li>für mehr Sicherheit im Straßenverkehr</li><li>Trekking-Glocke  inkl. Befestigungsteilen</li><li>Einton-Glocke</li><li>mit Schlägel in Tropfenform</li></ul>"
+}

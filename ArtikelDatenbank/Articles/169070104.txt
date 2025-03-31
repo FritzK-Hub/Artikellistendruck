@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul> <li>Schließzylinder von außen nicht schließbar, wenn innen Schlüssel steckt</li> <li>3 Schlüssel</li> <li>Profilzylinder mit 3 Schlüsseln</li><li>beidseitig abschließbar<br/></li></ul>"
+}

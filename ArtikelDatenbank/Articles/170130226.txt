@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>12 Laubsägeblätter Nr. 3</li><li>einseitig schneidend</li><li>gehärtet, somit besonders stabil</li><li>geeignet für Holz und Kunststoff</li><li>für gängige Laubsägebügel geeignet<br/></li></ul>"
+}

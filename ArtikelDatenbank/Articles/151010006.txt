@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Premium Toilettenpapier weiß</li><li>8 Rollen in Packung, 3-lagig</li><li>100% Zellstoffpapier</li><li>microgeprägt mit Motiv</li><li>angenehm weich, volumig und reißfest<br/></li></ul>"
+}

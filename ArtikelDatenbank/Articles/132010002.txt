@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Einzelfuttermittel für Hunde aus Rinderhaut</li><li>ermöglicht die gezielte Pflege der Zähne</li><li>wirkt wie eine Zahnbürste beim Essen</li><li>ist ein reines Naturprodukt</li><li>stärkt zusätzlich die Kaumuskulatur</li></ul>"
+}

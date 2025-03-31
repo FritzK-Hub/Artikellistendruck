@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>antihaftbeschichtete Klinge</li><li>ergonomischer Kunststoffgriff</li><li>Einhand-Sicherheitsverschluss</li><li>kompakte Größe</li><li>stilvolles Design</li></ul>"
+}

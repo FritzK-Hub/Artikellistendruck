@@ -1,0 +1,4 @@
+{
+    "uvp": 299.95,
+    "attributes": "<ul><li>Gartenschaukel mit massivem Metallgestell</li><li>für bis zu drei Personen geeignet</li><li>seitliche Armlehnen in Rattanoptik<br/></li><li>maximale Belastbarkeit von bis zu 320 kg</li><li>ein echter Blickfang in deinem Garten oder Balkon</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>vielseitig einsetzbare Matte aus 100 %igem PVC</li><li>universell als Boden-, Yoga- oder Schutzmatte einsetzbar</li><li>in verschiedenen Farben erhältlich</li><li>ist besonders reißfest und antibakteriell</li><li>lässt sich je nach Bedarf in die gewünschte Größe zuschneiden<br/></li></ul>"
+}

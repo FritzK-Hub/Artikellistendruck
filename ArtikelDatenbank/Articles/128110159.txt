@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>klappbar für eine platzsparende Lagerung</li><li>langanhaltende Stabilität durch robustes Stahlgestell</li><li>hochwertiges Polyrattan für stilvolle Optik und Widerstandsfähigkeit</li><li>individueller Sitzkomfort dank 7-facher Verstellbarkeit</li><li>vielseitig einsetzbar für den Innen- und Außenbereich<br/></li></ul>"
+}

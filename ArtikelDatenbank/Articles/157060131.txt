@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul> <li>neutrales Aceton farblos</li> <li>zum Vorbehandeln von Metallteilen</li> <li>zum Entfetten von Metallteilen</li> <li>verdünnt Nitro-Lacke</li> <li>löst eine Vielzahl von Klebstoffen</li></ul>"
+}

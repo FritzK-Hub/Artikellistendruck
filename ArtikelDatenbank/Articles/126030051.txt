@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Bio-Sägekettenöl zur Schmierung von Motorsägen</li><li>universell für den ganzjährigen Einsatz geeignet </li><li>verfügt über hohe Leistungsreserven für geringen Verschleiß</li><li>sorgt für höhere Lebensdauer mit Korrosionsschutz</li><li>gutes Fließverhalten auch bei niedrigen Temperaturen<br/></li></ul>"
+}

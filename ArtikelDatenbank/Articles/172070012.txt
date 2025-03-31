@@ -1,0 +1,4 @@
+{
+    "uvp": 6.09,
+    "attributes": "<ul><li><em>Gummihammer</em> von Kraftmann</li><li>zum Richten und Fügen von empfindlichen Werkstücken</li><li>Stiel aus hochwertigem und schlagfestem Holz</li><li>Kopfgewicht 250g</li><li>optimale Schlagwirkung bei vermindertem Kraftaufwand</li></ul>"
+}

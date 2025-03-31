@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>halbrunder Autoschwamm von Nigrin</li><li>mit Waschprofil</li><li>sehr saugfähig und schonend</li><li>ideal für glatte Oberflächen</li><li>waschbar bis 60°C</li></ul>"
+}

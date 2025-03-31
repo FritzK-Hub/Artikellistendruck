@@ -1,0 +1,4 @@
+{
+    "uvp": 39.6,
+    "attributes": "<ul><li>geschlossene Ausführung,mit Ausgießer<br/></li><li>besonders flache Form mit 12 cm hohem Rand </li><li>ideal bei beengten Platzverhältnissen im Automobil- und Motorradbereich</li><li>mit 3 Tragegriffen und 3 Öffnungen</li><li>geeignet für Öl, Benzin, Chemikalien, Frostschutz</li></ul>"
+}

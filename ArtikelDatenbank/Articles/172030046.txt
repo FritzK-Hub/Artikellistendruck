@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Steckbogen aus stabilem Kunststoff</li><li>für 90° Abwinkelungen geeignet</li><li>an jeder Seite ist eine Steckmuffe versehen</li><li>schnelle und einfache Verwendung</li><li>passend für starre Isolierrohre EN25</li></ul>"
+}

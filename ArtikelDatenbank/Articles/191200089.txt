@@ -1,0 +1,4 @@
+{
+    "uvp": 54.95,
+    "attributes": "<ul><li>tragbarer Grill, lässt sich leicht überall mitnehmen</li><li>lässt sich bei Nichtbenutzung flachzusammenlegen</li><li>der Holzkohlegrill bietet viel Platz zum Grillen</li><li>abnehmbare Feuerschale für Holzkohle oder Briketts</li><li>die dreieckige Form des Grills sorgt für einen sicheren Stand</li></ul>"
+}

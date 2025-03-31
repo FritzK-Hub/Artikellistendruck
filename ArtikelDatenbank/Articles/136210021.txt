@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>umfangreiches Schraubendreher-Set 6-teilig für verschiedenen Schraubarbeiten</li><li>vielseitig einsetzbares mit gängigen Schlitz- und Flachschraubendreher</li><li>ideal für jeden Handwerker egal ob Anfänger oder Profi-Handwerker</li><li>integrierter Mehrkomponentengriff für festen Halt, auch bei längeren Arbeiten</li><li>einfache Aufbewahrung, lässt sich dank Öse z.B. an einer Werkzeugwand aufhängen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.59,
+    "attributes": "<ul><li>nachfüllbares Feuerzeug Fofftein</li><li>in verschiedenen Motiven erhältlich</li><li>mit elektrischer Piezo-Zündung ausgestattet</li><li>die Flamme lässt sich einfach regulieren</li><li>zum einfachen Anzünden von Zigaretten oder Kohlegrills<br/></li></ul>"
+}

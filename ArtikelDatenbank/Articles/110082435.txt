@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>2 Nachfüller aus Granulat je 1,2 kg</li><li>passend für den XXL-Luftentfeuchter</li><li>verhindert Schimmel- und Kondenswasserbildung</li><li>für weniger gelüftete Räume wie Keller geeignet</li><li>Granulat-Kissen sind ganzjährig einsetzbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>zuverlässige Abdichtung dank flexiblem Gummi</li><li>passt ideal in Abflüsse mit einem Durchmesser von 50,5 mm</li><li>einfache Handhabung und Aufbewahrung dank Kettenöse</li><li>hochwertiges Zubehörteil für Bad, Küche und Waschraum</li><li>keine unerwünschte Ausläufe mehr<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Pattex® Sekundenkleber „Classic flüssig“ schnelltrocknend</li><li>für schnelle Reparaturen im Haushalt, Bad oder Küche</li><li>Alleskleber haftet bereits nach ca. 5 - 60 Sekunden</li><li>flüssige Zusammensetzung fließt in Ecken und Spalten</li><li>spülmaschinen- und wasserbeständig</li></ul>"
+}

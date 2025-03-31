@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>einfache Pflege und lebendige Herbstfarben</li><li>ansprechende Arrangements durch perfekte Harmonisierung</li><li>vielfältige Zusammenstellungen für individuellen Geschmack</li><li>schnelle Bepflanzung, sofortige Wirkung</li><li>ideal für Balkon und Terrasse</li></ul>"
+}

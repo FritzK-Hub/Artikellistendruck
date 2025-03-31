@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Fahrrad-Stahlkettenschloss</li><li>mit Textilschlauch</li><li>Schutz vor Lackschäden</li><li>inkl. mit Staubschutzkappe</li><li>inkl. 2 Schlüssel</li></ul>"
+}

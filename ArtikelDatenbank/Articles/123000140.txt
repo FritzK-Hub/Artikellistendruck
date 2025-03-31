@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>flexibel anpassbar für jede Pflanze</li><li>wetterfest, langlebig und pflegeleicht</li><li>einfache Montage ohne Werkzeug</li><li>erweiterbar für größere Rankflächen</li><li>unauffälliges Design fügt sich harmonisch ein</li></ul>"
+}

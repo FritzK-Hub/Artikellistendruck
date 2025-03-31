@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>hochwertige Wetterschutzhaube für Strandkörbe</li><li>schützt Gartenmöbel vor Feuchtigkeit, Schmutz und UV-Strahlung</li><li>aus robustem Oxford 420D Polyester gefertigt</li><li>hohe Flexibilität auch bei großer Belastung</li><li>inklusive Tragetasche, Ösen und Befestigungskordel<br/></li></ul>"
+}

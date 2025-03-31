@@ -1,0 +1,4 @@
+{
+    "uvp": 61.99,
+    "attributes": "<ul><li>Iseo Schließzylinder 70 mm, 35/35 mm</li><li>besitzt eine Not- und Gefahrenfunktion und einen Aufbohrschutz</li><li>von außen mit Schlüssel abschließbar</li><li>ideal für Eingangstüren oder Wohnungstüren</li><li>inklusive 5 Schlüssel, Befestigungsschraube und Sicherheitskarte</li></ul>"
+}

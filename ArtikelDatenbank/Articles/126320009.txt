@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>Elektro-Kettensäge KS 355 EC mit 1400 W</li><li>hochwertige Oregon-Kette und Oregon-Schwert</li><li>integrierte Öltankanzeige und Kabelzugentlastung</li><li>verfügt über SDS - Kettenschnellspannsystem</li><li>mit Schwert- und Kettenschutz</li></ul><p></p>"
+}

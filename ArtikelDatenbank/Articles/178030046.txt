@@ -1,0 +1,4 @@
+{
+    "uvp": 32.64,
+    "attributes": "<ul><li>präzises Display</li><li>vielseitige Messbereiche</li><li>mit Sicherheitsfunktionen</li><li>schnelle Überprüfung</li><li>Batterieanzeige</li></ul>"
+}

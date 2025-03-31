@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>gebrauchsfertiger, hochwertiger Malerspachtel</li><li>besonders leicht zu verarbeiten, hoch ergiebig, füll- und deckkräftig</li><li>gute Trocknungseigenschaften auch bei hoher Luftfeuchtigkeit</li><li>für vorbehandelte Untergründe wie Holz, Metall und alter Putz</li><li>hohe Ergiebigkeit, leicht zu verarbeiten, gebrauchsfertig</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.95,
+    "attributes": "<ul><li>passend zur APA-Fettpresse Art. 180400102</li><li>für präzise Schmierarbeiten</li><li>ideal an schwer zugängliche Stellen</li><li>ausgelegt für einen Arbeitsdruck bis 400 bar </li><li>einfache Handhabung</li></ul>"
+}

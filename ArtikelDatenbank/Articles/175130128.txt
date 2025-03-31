@@ -1,0 +1,4 @@
+{
+    "uvp": 279.95,
+    "attributes": "<ul><li>WiFi-Modul für Freepoint und Pegaso-Pelletöfen</li><li>programmiere eigene Betriebszeiten mit gewünschter Temperatur</li><li>bei kanalisierbaren Pelletöfen sind die Warmluftaustritte steuerbar</li><li>App lässt sich kostenlos für iOS im Apple iTunes oder Google Play Store herunterladen</li><li>inklusive Verkabelung, Stromanschluss und Klettband für die Montage</li></ul>"
+}

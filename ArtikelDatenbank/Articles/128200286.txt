@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>solarbetriebene Laterne aus Kunststoff mit LED-Kerze</li><li>als dekorativer Orientierungspunkt nutzbar</li><li>vielseitig einsetzbar für innen und außen</li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar</li><li>die dafür benötigte AA-Batterie ist im Lieferumfang<br/></li></ul>"
+}

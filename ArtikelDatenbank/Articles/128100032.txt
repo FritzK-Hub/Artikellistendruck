@@ -1,0 +1,4 @@
+{
+    "uvp": 88.95,
+    "attributes": "<ul><li>Bartisch aus massivem Akazien-Hartholz</li><li>Oberfläche geölt</li><li>für innen und außen</li><li>inklusive Streben zum Aufstellen</li><li>witterungsbeständig und robust</li></ul>"
+}

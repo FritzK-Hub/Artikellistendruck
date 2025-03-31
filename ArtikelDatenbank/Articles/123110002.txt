@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>schnelle Herstellung von organischem Flüssigdünger</li><li>reduziert Hausmüll durch Verwertung von Abfällen</li><li>geruchsfreies Kompostieren dank geschlossener Form</li><li>einfache Handhabung durch integrierten Wasserhahn</li><li>langlebiges Material für jahrelangen Gebrauch</li></ul>"
+}

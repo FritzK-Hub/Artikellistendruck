@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>Vogelhaus aus naturbelassenem Kiefernholz</li><li>Futterort für verschiedene Wildvögel</li><li>seitliche Öffnungen für einfaches Befüllen</li><li>mit Haken für leichtes Aufhängen</li><li>je nach Wunsch individuell bemalbar<br/></li></ul>"
+}

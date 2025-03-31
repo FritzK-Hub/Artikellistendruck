@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Schraubzwinge mit großem Spannbereich und Holzgriff<br/></li><li>geriffelte, verzinkte Profilschiene</li><li>Kunststoff-Schutzbacken</li><li>Spannbereich bis 750 mm<br/></li><li>mit beweglicher Druckplatte</li></ul>"
+}

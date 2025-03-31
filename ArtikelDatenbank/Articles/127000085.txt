@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>schnelles Aufsammeln von Laub und geschnittenem Gras</li><li>Schutz für die Hände</li><li>sauberes Aufräumen des Gartens</li><li>leichtes Transportieren großer Mengen an Grüngut</li><li>einfache Reinigung</li><li>ergonomisch geformt</li><li>aus witterungsbeständigem Kunstoff<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>hochwertiger Zweigeräte-TV-Verteiler</li><li>1 x Koaxial-Kupplung / 2 x Koaxial-Stecker</li><li>aus massivem Metall</li><li>für den Anschluss von zwei Fernseher an einem Antennenkabel</li><li>DVB-T geeignet<br/></li></ul>"
+}

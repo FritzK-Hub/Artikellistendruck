@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Spezialpflaster Handwerkerset von Wundmed</li><li>für Verletzungen an Gelenken und Fingerkuppen</li><li>Pflasterstreifen zum Zuschneiden nach Bedarf</li><li>reizfrei und verkleben nicht mit der Wunde</li><li>Pflaster sind einzeln verpackt<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>vielseitig einsetzbarer, kleiner Pflanzensprüher aus stabilem Kunststoff</li><li>zum Versprühen von Düngemitteln, Wasser oder Reinigungsmitteln</li><li>besitzt ein Fassungsvermögen von ca. 480 ml</li><li>einfach in der Handhabung, lässt sich Einhändig bedienen</li><li>mit abschraubbarem Sprühkopf für leichtes Befüllen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.49,
+    "attributes": "<ul><li>schneller Schlauchanschluss mit Klicksystem<br/></li><li>passt zu 19 mm (¾ Zoll) Schläuchen</li><li>verhindert Auslaufen von Wasser</li><li>zuverlässige, dichte Verbindung</li><li>hochwertige Verarbeitung</li></ul><p></p>"
+}

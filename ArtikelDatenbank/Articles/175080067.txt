@@ -1,0 +1,4 @@
+{
+    "uvp": 119.95,
+    "attributes": "<ul><li>Handkreissäge mit 1400 Watt</li><li>mit eingebautem Linienlaser</li><li>einstellbarer Gehrungswinkel und Schnitttiefe</li><li>Tauchsäge inklusive Parallelanschlag</li><li>Fußplatte der Handkreissäge ist aus Stahl</li></ul>"
+}

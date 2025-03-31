@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Abdeckung für TAE-Dosen (Telefondosen)</li><li>aus hochwertigem Kunststoff in maron</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>nur in Verbindung mit TAE-Dose der Serie Trend</li><li>nur in Kombination mit Rahmen der Serie Trend<br/></li></ul>"
+}

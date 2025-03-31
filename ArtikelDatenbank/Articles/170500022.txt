@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>elegantes Waben-Design im modernen Look</li><li>robustes Paulownia-Holz bietet lange Haltbarkeit</li><li>harmonische Farbkombination für stilvolle Akzente</li><li>flexibel einsetzbar in jedem Raum</li><li>unkomplizierte Montage</li></ul>"
+}

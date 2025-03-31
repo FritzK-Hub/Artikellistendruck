@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>Tablett rund 30 cm aus massivem Holz</li><li>große Ablagefläche bietet ausreichend Platz</li><li>ist ein vielseitig einsetzbares Holztablett</li><li>als Dekorationsablage für z.B. Kerzen</li><li>als Serviertablett für verschiedene Snacks<br/></li></ul>"
+}

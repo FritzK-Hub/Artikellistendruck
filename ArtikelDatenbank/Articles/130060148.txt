@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>natürliches Wärmepflaster lindert wirksam Schmerzen</li><li>angenehme und gut verträgliche Wärme</li><li>einfache Anwendung</li><li>hält bis zu 8 Stunden eine gleichbleibende Wärme</li><li>Linderung bei z.B. Muskelschmerzen, Gelenksteife und Rückenschmerzen <br/></li></ul>"
+}

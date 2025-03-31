@@ -1,0 +1,4 @@
+{
+    "uvp": 119.95,
+    "attributes": "<ul><li>präzise Schnitte durch 6 Zoll Schwert</li><li>flexibel einstellbarer Schwenk-Kopf für optimale Anpassung</li><li>kraftvoller 20V Akku bietet hohe Leistung</li><li>automatische Kettenschmierung für kontinuierliche Effizienz</li><li>kompatibel mit allen 2.0 Plattform-Produkten</li></ul>"
+}

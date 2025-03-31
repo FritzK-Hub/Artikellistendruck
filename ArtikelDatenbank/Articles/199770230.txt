@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>2 Schlitzmuttern M8 aus massivem Stahl gefertigt </li><li>mit Außensechskant-Antrieb versehen</li><li>eignet sich besonders für Bereiche mit großer Hitzebelastung</li><li>Muttern für Auspuffkrümmer und -schellen</li><li>Sechskantmuttern mit verkupferter Oberfläche<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.23,
+    "attributes": "<ul><li>haftet an Werkbänken, Infotafeln und Notenständern</li><li>in Beruf, Hobby, Küche und Schule vielseitig verwendbar</li><li>farbig sortiert</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>für glatte und gezogene Flintenläufe konzipiert</li><li>entfernt effektiv Ablagerungen wie Schießpulverreste</li><li>einfache Befestigung an Reinigungsstangen</li><li>sichere Verbindung dank Messingverschraubung</li><li>gezielte und gründliche Reinigung des Laufs<br/></li></ul>"
+}

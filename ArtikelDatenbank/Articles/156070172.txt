@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Malerrolle für alle Wandfarben</li><li>gute Farbaufnahme und Abgabe</li><li>beste Materialabdeckung</li><li>für mittlere Flächen</li></ul>"
+}

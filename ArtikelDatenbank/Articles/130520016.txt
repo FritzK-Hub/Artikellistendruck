@@ -1,0 +1,4 @@
+{
+    "uvp": 139.95,
+    "attributes": "<ul><li>chemiefreie Reinigung fördert gesundes Wohnumfeld</li><li>hohe Effizienz durch 6000 Schwingungen</li><li>vielseitig für Böden und Textilien</li><li>umweltschonend und haustierfreundlich</li><li>schnelle Trocknung dank Doppeltuchsystem</li></ul>"
+}

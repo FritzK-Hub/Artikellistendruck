@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>batteriebetriebener Kohlenmonoxidmelder mit 40 m² Erfassungsbereich</li><li>erkennt frühzeitig Kohlenmonoxid ab 50 ppm</li><li>bei Erkennung ertönt ein 85 dB lauter Alarmsignal</li><li>schnelle, einfache und kabellose Installation</li><li>Display zeigt CO-Konzentration, Akkustand und Fehlfunktion an</li></ul>"
+}

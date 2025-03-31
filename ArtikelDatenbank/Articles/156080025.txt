@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Rührstab für Maler und Lackierer</li><li>aus Kunststoff</li><li>mit Dorn zum Einhängen am Gefäß</li><li>zum Verrühren und Mischen Farben, Lacke und Putz</li><li>leicht zu Reinigen</li></ul>"
+}

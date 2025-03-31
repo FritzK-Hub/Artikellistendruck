@@ -1,0 +1,4 @@
+{
+    "uvp": 1898.0,
+    "attributes": "<ul><li>kompakter Rasentraktor GAR 601 erlaubt einfache Navigation</li><li>leistungsstarker Motor für schnelles Rasenmähen</li><li>überwindet Hanglagen mit 10° Neigung</li><li>flexibler Elektro- und Reversierstarter integriert</li><li>5-fache Höhenverstellung schafft präzises Schnittergebnis</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.89,
+    "attributes": "<ul><li>doppelte, flexible Abzugslippe für effektive Reinigung</li><li>ergonomischer 2-Komponenten-Kunststoffgriff</li><li>besonders langlebig, leichtgewichtig und handlich</li><li>praktische Öse zum Aufhängen</li><li>ideal für Reinigung von Fenstern, Spiegeln und glatten Oberflächen<br/></li></ul>"
+}

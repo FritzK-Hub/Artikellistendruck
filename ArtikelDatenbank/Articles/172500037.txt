@@ -1,0 +1,4 @@
+{
+    "uvp": 26.99,
+    "attributes": "<ul><li>für digitalen Empfang von SAT-Programmen</li><li>zum Anschluss mehrerer Digital-Receiver</li><li>auch ideal für UHD/HDTV geeignet</li><li>mit 4 festen Ausgängen</li><li> 22-kHz-Umschaltung zwischen Low- und High-Band</li></ul>"
+}

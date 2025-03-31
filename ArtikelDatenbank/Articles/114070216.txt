@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>rahmenloses Design für schlichte Eleganz</li><li>Klarheit durch hochwertiges, transparentes Normalglas</li><li>universell nutzbar für Bilder bis 10,5 x 15 cm</li><li>schneller, unkomplizierter Wechsel der Lieblingsbilder</li><li>stilvolle Präsentation als Deko oder Geschenk</li></ul><p></p>"
+}

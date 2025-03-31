@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Regina Cremeseife reinigt schonend</li><li>die Hände fühlen sich weich und gepflegt an</li><li>angehnehme Duftnote</li><li>alkalifrei und ph-hautneutral</li><li>in der Spenderflasche</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.6,
+    "attributes": "<ul><li>exaktes und kontrolliertes Arbeiten dank drehbarem Kopf</li><li>vielseitig einsetzbar für Feinmechanik und Reparaturen</li><li>hochwertiges Material für Langlebigkeit und präzises Arbeiten</li><li>inklusive Dorn und Magnet für Arbeiten an komplizierten Teilen und Stellen</li><li>praktischer Aufbewahrungskoffer für die sichere und geordnete Aufbewahrung<br/></li></ul>"
+}

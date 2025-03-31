@@ -1,0 +1,4 @@
+{
+    "uvp": 176.95,
+    "attributes": "<ul><li>Akku-Grasschere mit Heckenschere</li><li>schneller, werkzeugloser Umbau schafft Effizienz</li><li>integrierte Akku-Kapazitätsanzeige zur Kontrolle</li><li>Sicherheitsfunktionen für zuverlässigen Schutz</li><li>komfortables Arbeiten dank Griffgummierung</li></ul>"
+}

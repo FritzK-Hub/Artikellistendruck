@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>Wasserpistole aus Kunststoff 48 cm </li><li>sorgt für jede Menge Spaß an heißen Tagen</li><li>darf auf keiner Kinderparty fehlen</li><li>als angenehme Erfrischung oder zur Unterhaltung der Kinder</li><li>per Pumpprinzip wird der Wasserdruck aufgebaut</li></ul>"
+}

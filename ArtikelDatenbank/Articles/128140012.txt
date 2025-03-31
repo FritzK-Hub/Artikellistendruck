@@ -1,0 +1,4 @@
+{
+    "uvp": 65.95,
+    "attributes": "<ul><li>Ersatzdach für Pavillon Mantova</li><li>wasserdichte Dachbespannung</li><li>aus robustem Polyester</li><li>mit PVC-Beschichtung</li><li>Befestigung mittels Klettverschlüssen</li></ul>"
+}

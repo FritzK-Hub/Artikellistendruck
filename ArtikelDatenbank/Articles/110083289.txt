@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>mit selbstklebendem Saugnapf</li><li>robuste Kunststoff-Konstruktion </li><li>praktische blau/rote Skala erleichtert das Ablesen </li><li>großer Messbereich von -30° bis +50°C</li><li>besonders handlich dank kompakter Größe<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 89.95,
+    "attributes": "<ul><li>Hochdruckreiniger mit 1400 W Leistungsmotor</li><li>integriertes Auto-Stopp System</li><li>mit Spritzlanze und Variodüse</li><li>inklusive Dreckfräser und Flasche für Reinigungsmittel</li><li>Heißwasser Hochdruckreiniger mit Aluminiumpumpe</li></ul>"
+}

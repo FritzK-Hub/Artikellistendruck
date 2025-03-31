@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>praktische WC-Reinigungstücher mit Citrusduft</li><li>Set beinhaltet 30 erfrischende Tücher</li><li>hygienische Frische und gründliche Reinigung</li><li>zur Reinigung der gesamten Toilettenoberfläche</li><li>ideal auch für unterwegs</li></ul>"
+}

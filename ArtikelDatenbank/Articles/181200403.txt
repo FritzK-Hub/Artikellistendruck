@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Lavendel, Echter für ca. 300 Pflanzen</li><li>hält im Leinensack Mücken oder Fliegen fern</li><li>hat eine beruhigende und erfrischende Wirkung</li><li>Beruhigungsmittel bei Herzleiden und Schlafstörung</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

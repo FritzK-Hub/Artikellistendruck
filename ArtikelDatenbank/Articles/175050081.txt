@@ -1,0 +1,4 @@
+{
+    "uvp": 5.25,
+    "attributes": "<ul><li>langlebige Stecknippel aus robustem Messing</li><li>widerstandsfähig gegenüber Verschleiß und Korrosion</li><li>ermöglichen eine schnelle und einfache Montage und Demontage</li><li>perfekte Passform zwischen der Tülle und dem Schlauch </li><li>für verschiedene Anwendungen in vielen Bereichen einsetzbar</li></ul>"
+}

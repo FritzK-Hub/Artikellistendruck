@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>zur Kennzeichnung von Flucht- und Rettungswegen</li><li>20 hochwertige SMD-LEDs sorgen für 30 Meter Sichtbarkeit</li><li>integrierter Akku für bis zu 3 Stunden Notfallbeleuchtung</li><li>beiliegenden Piktogramme können individuell angebracht werden</li><li>Befestigungsmaterial erleichtert die Wand- und Deckenmontage<br/></li></ul>"
+}

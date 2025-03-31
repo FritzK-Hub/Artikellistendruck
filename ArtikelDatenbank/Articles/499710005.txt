@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>vielseitig einsetzbare Kausche aus Stahl, verzinkt</li><li>dient als Verstärkung für Seilendschlaufen in Drahtseilen</li><li>wird überwiegend in der Seiltechnik genutzt</li><li>einfache Montage, ganz ohne Werkzeug</li><li>schont das Seil vor Reibung und Abnutzung</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>verchromtes Messing für Robustheit und ansprechende Optik</li><li>¾\" Innengewinde für zuverlässige Abdichtung</li><li>geeignet für private Haushalte und Gewerbe</li><li>hochwertige Endkappe für Wasserleitungen</li><li>einfache Installation mit 6-kant Kopf</li></ul><p></p>"
+}

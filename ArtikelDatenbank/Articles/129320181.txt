@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>unvergleichliches Aroma</li><li>frische Ernte</li><li>optimales Wachstum</li><li>leichte Pflege</li><li>ökologische Bereicherung<br/></li></ul>"
+}

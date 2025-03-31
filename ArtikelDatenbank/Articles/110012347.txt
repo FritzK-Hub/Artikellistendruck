@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>bleifreies Weichlot auf Spule</li><li>zum Weichlöten von Kupferrohren in der Kalt- und Warmwasserinstallation</li><li>nur in Verbindung mit Fittingslötpaste oder Fittingsflussmittel verwendbar</li></ul>"
+}

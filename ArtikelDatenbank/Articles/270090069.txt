@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Größe: (Ø) ca. 115 mm</li><li>Schnittbreite: (B) ca. 2,1 mm</li><li>Bohrung: (Ø) ca. 22,2 mm</li><li>Drehzahl: max. 13200 U/min</li><li>Umfangsgeschwindigkeit: max. 80 m/sec</li><li>Material: Stahl</li><li>geeignet für: Beton, alt, armiert, Ziegel, Waschbeton, Granit u.v.m.</li><li>passend für Winkelschleifer mit einer 22,2 mm Aufnahme</li></ul>"
+}

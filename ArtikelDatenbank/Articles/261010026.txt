@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>zuverlässige und dauerhafte Befestigungslösung</li><li>vierfach geteilter Dübel für stabile Befestigung</li><li>aus korrosionsbeständigem Messing für Feuchträume</li><li>einfache Anwendung mit metrischen Schrauben</li><li>geeignet für eine Vielzahl von Gegenständen<br/></li></ul>"
+}

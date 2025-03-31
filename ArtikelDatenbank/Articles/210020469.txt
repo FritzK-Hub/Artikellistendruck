@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>Rohrreinigungswelle aus robustem Federstahldraht</li><li>zur Reinigung von haushaltsüblichen Abflüssen</li><li>besonders umweltfreundlich und ganz ohne Chemikalien</li><li>5 mm Rohrdurchmesser garantiert ein gründliches reinigen</li><li>Handkurbel für einfache und wirkungsvolle Anwendung<br/></li></ul>"
+}

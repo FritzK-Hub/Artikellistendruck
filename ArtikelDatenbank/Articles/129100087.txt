@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Beet- und Balkonpflanzen in verschiedenen Sorten</li><li>im robustem Blumentopf Ø 10,5 cm</li><li>Pflanzen mit prachtvollen Blüten, ein echter Blickfang</li><li>zur Verschönerung deines Gartenbeets oder Balkon geeignet</li><li>in Kombination für eine farbige Blütenpracht<br/></li></ul>"
+}

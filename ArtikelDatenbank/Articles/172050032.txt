@@ -1,0 +1,4 @@
+{
+    "uvp": 7.49,
+    "attributes": "<ul><li>Steckdosenleiste mit 1,4 Meter Kabellänge</li><li>Steckdose für den Innenbereich (nicht wassergeschützt)</li><li>Mehrfachsteckdose mit integrierter Kindersicherung</li><li>Stecker im 45° Winkel angeordnet</li><li>6-fach Steckdosenleiste mit beleuchtetem Ein- / Ausschalter</li></ul>"
+}

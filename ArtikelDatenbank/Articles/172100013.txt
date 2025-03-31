@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>klassisches Design trifft moderne Technologie</li><li>einfache Integration in Smart Home-Systeme</li><li>flexible Lichtanpassung durch dimmbare Funktion</li><li>breiter Abstrahlwinkel für gleichmäßige Beleuchtung</li><li>kompatibel mit Google Sprachassistent und Amazon Alexa</li></ul>"
+}

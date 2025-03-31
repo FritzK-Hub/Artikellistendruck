@@ -1,0 +1,4 @@
+{
+    "uvp": 169.0,
+    "attributes": "<ul><li>leistungsstarker 400-Watt-Induktionsmotor</li><li>stufenlose Drehzahlregulierung mit LCD-Display</li><li>vielseitig einstellbarer Aluminium-Schleiftisch</li><li>robuste Metallkonstruktion sorgt für Präzision</li><li>Schleifteller mit komfortablen Klettverschluss</li></ul>"
+}

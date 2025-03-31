@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>ideal für Möbelstücke oder als Zierkissen</li><li>bequemer Sitzkomfort dank Bezug aus 50 &amp; Polyester und 50 % Baumwolle</li><li>Schaumflocken-Füllung für ein weicheres Sitzen</li><li>dekorative Designs ist ein wahrer Blickfang</li><li>ein pflegeleichtes Kissen für innen und außen<br/></li></ul>"
+}

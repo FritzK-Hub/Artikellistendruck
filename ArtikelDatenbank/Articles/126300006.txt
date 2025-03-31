@@ -1,0 +1,4 @@
+{
+    "uvp": 159.0,
+    "attributes": "<ul><li>Güde® Benzin Kettensäge KS 400-41 V mit 37,5 cm Schnittlänge</li><li>Kettensäge geeignet für Baumschnitt oder Brennholz</li><li>besitzt einen Zusatzgriff, und ein SDS-Kettenschnellspannsystem</li><li>zuverlässiger Helfer für reibungslose Sägearbeiten</li><li>inklusive Montagewerkzeug, Schwertschutz und Bedienungsanleitung<br/></li></ul>"
+}

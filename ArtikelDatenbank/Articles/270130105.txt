@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Delta Hartmetall Raspel 80 mm von Drillcraft<br/></li><li>zum Entfernen von Teppichkleberesten auf mineralischen Oberflächen</li><li>geeignet für Holz, Stein, Fliesen als auch Möbelreste<br/></li><li>passender Aufsatz von Bosch, Black&amp;Decker oder Mastercraft Multifunktionsgeräten<br/></li><li>mit einer groben Körnung versehen</li></ul>"
+}

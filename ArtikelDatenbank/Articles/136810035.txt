@@ -1,0 +1,4 @@
+{
+    "uvp": 39.99,
+    "attributes": "<ul><li>Werkzeugkoffer lässt sich in einen Trolley umwandeln</li><li>mit herausnehmbarem Ablagefach im Koffer</li><li>stabile Ausführung mit sicheren Clipverschlüssen</li><li>mit praktischen, versenkbaren Griffen und Kantenschutz</li><li>im Deckel integrierte Organizer für Kleinteile<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>Größen: 2,3,4,5,6,8mm</li><li>aus achtkantigem Chrom Vanadium Stahl</li><li>durchgehend luftgehärtet</li><li>mit vergütetem Kopf</li><li>erstklassige Qualität und Verarbeitung</li><li>in Metallkassette</li><li>6-teilig</li></ul>"
+}

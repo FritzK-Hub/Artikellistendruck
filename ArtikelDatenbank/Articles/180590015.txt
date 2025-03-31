@@ -1,0 +1,4 @@
+{
+    "uvp": 699.95,
+    "attributes": "<ul><li>Güde® Montagerampe GMR360 für Zweiräder bis 360 kg</li><li>Montagerampe mit Scherenhubtechnik</li><li>mittels Fußhebel Heben und Ablassen</li><li>Motorrad Hebebühne ist durch 2 Lenk- und 2 Bockrollen fahrbar</li><li>Feststellbacken für Vorderräder durch Handkurbel fixierbar</li></ul>"
+}

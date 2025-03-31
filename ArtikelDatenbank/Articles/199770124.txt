@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Ersatznadeln für Bilderhaken in der Größe 2</li><li>besonders robust, aus vermessingtem Metall</li><li>lassen sich leicht mit dem Hammer einschlagen</li><li>schnell und einfach in der Handhabung</li><li>vermeiden Beschädigungen, hinterlassen keine unschönen Spuren<br/></li></ul>"
+}

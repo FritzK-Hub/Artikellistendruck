@@ -1,0 +1,4 @@
+{
+    "uvp": 149.95,
+    "attributes": "<ul><li>präzise Temperaturkontrolle und -steuerung</li><li>einfache Reinigung dank Ascheauffangbehälter</li><li>mobil und leicht transportierbar</li><li>großzügiger Platz für Zubehör</li><li>aus emailliertem Stahl gefertigt</li></ul>"
+}

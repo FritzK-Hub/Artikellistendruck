@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Stockschraube mit TX Innensechsrund-Antrieb</li><li>korrosionsgeschützt und stabl für dauerhafte Stabilität</li><li>perfekt für Rohrschellen und Rohrclips</li><li>vielseitiges metrisches und Holzgewinde</li><li>schnelle Montage und Demontage durchführbar</li></ul>"
+}

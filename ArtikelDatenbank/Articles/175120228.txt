@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Tackerklammern 12 mm aus verzinktem Metall</li><li>für viele gängige Hand- und Elektrotacker</li><li>für eine schnelle und zuverlässige Verbindung</li><li>dringen mühelos in verschiedenen Werkstoffen ein</li><li>Verwendung im Modellbau, Büro oder Haushalt<br/></li></ul>"
+}

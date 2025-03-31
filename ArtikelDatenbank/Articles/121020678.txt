@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Buchstabe auf Kunststofffolie</li><li>schwarzer Klebebuchstabe für Tür-Beschriftung</li><li>auf transparenter Trägerfolie</li><li>einfache Anbringung auf glatten Oberflächen</li><li>selbstklebende Folienbuchstaben</li></ul>"
+}

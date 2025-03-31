@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>LED Lampe mit hoher Lebensdauer, E14</li><li>hohe Farbwiedergabe, RA-Wert über oder gleich 90</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe</li></ul><p></p>"
+}

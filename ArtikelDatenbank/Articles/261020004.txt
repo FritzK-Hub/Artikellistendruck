@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>mehrfach geteilt, mit vormontierter metrischer Schraube</li><li>leichte Montage mit Schraubendreher oder Montagezange</li><li>mit aufspreizenden Stützelemente für optimale Haltewerte</li><li>Schraube jederzeit wieder lösbar</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

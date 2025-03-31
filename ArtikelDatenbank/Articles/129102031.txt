@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>große Auswahl an Farben und Sorten</li><li>einfach in der Pflege und Haltung</li><li>filigrane Blüten setzen elegante Akzente</li><li>praktischer Pflanztopf in stilvoller Umhüllung</li><li>exotischer Hingucker für dein Zuhause</li></ul>"
+}

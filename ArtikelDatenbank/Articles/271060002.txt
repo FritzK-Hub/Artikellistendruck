@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Flachmeißel mit SDS plus Aufnahme</li><li>vielseitig für schlagende Elektrowerkzeuge geeignet</li><li>wie leichte bis mittelschwere Bohrmaschinen oder Bohrhämmer</li><li>für Stemmarbeiten in Beton, Mauerwerk, Stein usw.</li><li>werkzeugloser und schneller Wechsel</li></ul>"
+}

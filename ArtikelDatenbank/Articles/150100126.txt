@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Ersatz-Wischerblatt für Fahrzeugheck</li><li>einfache Montage Click &amp; Go</li><li>passgenaue Kunststoff-Adapter</li><li>aerodynamisch konstruiert</li><li>aus korrosionsgeschützem Metall</li></ul>"
+}

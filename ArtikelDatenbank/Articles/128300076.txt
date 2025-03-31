@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>modernes Design in Anthrazit</li><li>robustes, langlebiges Polyestergewebe 160 g/m²</li><li>vielseitiger Schutz vor UV, Wind, Hitze</li><li>einfache Handhabung dank Zubehör inklusive</li><li>platzsparend verstaubar bei Nichtgebrauch</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Chlordosierer für unkompliziertes Reinigen des Poolwassers</li><li>für langsam auflösende Brom- oder Chlortabletten geeignet</li><li>die chemische Abgabe wird über einen Einstellring gesteuert</li><li>Boje aus UV-beständigem Kunststoff (lange Haltbarkeit)</li><li>Chlorboje aus schwimmendem Material<br/></li></ul>"
+}

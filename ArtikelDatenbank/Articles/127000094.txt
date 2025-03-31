@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>aus gehärtetem und hochglanzpoliertem Edelstahl</li><li>Schwanenhalsdülle mit Trittkante aus Edelstahl</li><li>robuster T-Stiel aus Eschenholz</li><li>optimales Eindringen ins Erdreich</li><li>Holz aus nachhaltiger Forstwirtschaft<br/></li></ul>"
+}

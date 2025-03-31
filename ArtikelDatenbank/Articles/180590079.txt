@@ -1,0 +1,4 @@
+{
+    "uvp": 9.9,
+    "attributes": "<ul><li>Trinkbecher mit doppelwandiger Vakuumisolierung</li><li>besonders langlebig und widerstandsfähig, aus Edelstahl </li><li>ideale Begleiter für unterwegs oder bei Outdoor-Aktivitäten</li><li>Fassungsvermögen von 500 ml bietet ausreichend Stauraum</li><li>Schraubkunststoff-Deckel verhindert ungewolltes verschütten<br/></li></ul>"
+}

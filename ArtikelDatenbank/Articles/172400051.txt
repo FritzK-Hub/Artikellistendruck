@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>vielseitig einsetzbares Knopfzellen-Batterien Set 20 Stück</li><li>Set besteht aus je vier LR43 &amp; CR2025 und je sechs LR44 &amp; CR2032</li><li>für die unterschiedlichsten Elektro-Geräte geeignet</li><li>ideal für Taschenrechner, Armbanduhren und vieles mehr</li><li>auf einer Blisterkarte, leicht zugänglich und gut organisiert<br/></li></ul>"
+}

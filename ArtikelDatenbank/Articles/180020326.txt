@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Sektoren-Rasensprenger mit vier Funktionen</li><li>Wasserstrom in vier Stufen regelbar</li><li>die zu beregnende Fläche kann mittles des beweglichen Sprengerkopfes bestimmt werden</li><li>Anschluss mittels herkömmlicher Schnellkupplung für 1/2\" Schlauch</li><li>einfache Aufstellung mittels Erdspieß</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li><div>GARDENA Dichtungssatz 5-teilig</div></li><li><div>enthält fünf O-Ringe</div></li><li><div>passen für die GARDENA Anschlussnippel</div></li><li><div>100% dicht, keine Wasserverschwendung</div></li><li>Material: Gummi</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>hervorragender Sichtschutz</li><li>bunte Blütenvielfalt</li><li>natürliche Bestäubungsmagnet</li><li>vielseitige Verwendung</li><li>pflegeleicht und nutzbringend<br/></li></ul>"
+}

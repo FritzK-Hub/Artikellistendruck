@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>rechteckiges Schneidebrett aus Mangoholz</li><li>besonders resistent gegen Feuchtigkeit und Verformungen</li><li>große Ablagefläche für ausreichend Stauraum</li><li>auch als Dekorationsablage oder als Serviertablett einsetzbar</li><li>mit vorgeböhrter Öse zum Aufhängen, auch als Griff verwendbar<br/></li></ul>"
+}

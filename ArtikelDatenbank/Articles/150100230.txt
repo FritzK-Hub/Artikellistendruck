@@ -1,0 +1,4 @@
+{
+    "uvp": 229.95,
+    "attributes": "<ul><li>Auffahrrampen Set zusammenklappbar 2 Stück</li><li>zum Aufladen von Motorrädern, Rasenmährer oder Roller auf Anhänger</li><li>zusammengeklappt erleichtert reifenschonend das Überqueren von Bordsteinkanten </li><li>eignet sich für Anhänger mit einer Ladehöhe von 70 – 90 cm</li><li>die Klappfunktion und der Tragegriff erleichterten den Transport<br/><br/></li></ul>"
+}

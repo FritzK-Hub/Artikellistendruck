@@ -1,0 +1,4 @@
+{
+    "uvp": 1.69,
+    "attributes": "<ul><li>Saatgut Speisemöhre Pariser Markt 3</li><li>ist eine frühe und kugelförmige Möhrensorte</li><li>Möhre mit einem angenehmen, süßen Geschmack</li><li>ideal zur Konservierung oder als Gemüsedekoration</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

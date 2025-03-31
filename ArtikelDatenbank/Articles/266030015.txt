@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Material Rolle: PVC</li><li>kugelgelagertes Gelenk</li><li>Tragkraft: ca. 25kg</li></ul>"
+}

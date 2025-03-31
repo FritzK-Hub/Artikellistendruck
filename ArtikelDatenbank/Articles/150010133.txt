@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>sanftes Polieren ohne Kratzer</li><li>schnell trocknend und wiederverwendbar</li><li>streifenfreies Ergebnis auf allen Oberflächen</li><li>vielseitig einsetzbar im Haushalt und Auto</li><li>farbcodiert für unterschiedliche Reinigungsbereiche</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 21.95,
+    "attributes": "<ul><li>2in1 Buntlack auf Wasserbasis in Schokoladenbraun, seidenmatt</li><li>für den klassischen Look auf allen Oberflächen</li><li>ist PU-Verstärkt, schnelltrocknend, und stoß als auch schlagfest</li><li>ideal für den Innen- und Außenbereich</li><li>DIN EN 71-3 Kinderspielzeug geeignet<br/></li></ul>"
+}

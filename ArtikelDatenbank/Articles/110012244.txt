@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>dient zur leichten Gartenbewässerung oder anderen Anwendungen</li><li>besonders langlebig und widerstandfähig, aus massivem Messing gefertigt</li><li>3/4“ Wandanschluss für die Montage an gängige Wasseranschlüsse</li><li>Ventil lässt sich schnell und einfach mit Gartenschläuchen anschließen</li><li>Hebelmechanismus erleichtert das kontrollierte Öffnen und Schließen<br/></li></ul>"
+}

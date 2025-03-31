@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>vielseitige Anwendung</li><li>einfache Installation</li><li>mit Antikalk-Weichdüsen</li><li>maximale Flexibilität</li><li>integrierte Wassersparfunktion<br/></li></ul>"
+}

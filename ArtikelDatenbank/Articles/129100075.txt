@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Mandelbaum mit 5 – 8 Trieben im Blumentopf</li><li>gehört zu dem beliebtesten Frühjahrsblüher</li><li>ein echter Blickfang im Garten oder Terrasse</li><li>in Kombination für eine farbige Blütenpracht</li><li>besitzt gefüllte und rosafarbige Blütenblätter<br/></li></ul>"
+}

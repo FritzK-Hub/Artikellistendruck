@@ -1,0 +1,4 @@
+{
+    "uvp": 3.23,
+    "attributes": "<ul><li>Wand/Türpuffer in zwei Größen<br/></li><li>zum Schutz vor Anschlagstößen durch Türen<br/></li><li>selbstklebend, einfach anzubringen</li><li>wirken geräuschdämpfend</li><li>dezent und unauffällig<br/></li></ul>"
+}

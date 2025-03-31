@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Karabiner aus Edelstahl 5 x 50 mm</li><li>belastbar bis 120 kg</li><li>birnenförmig (C-Form)</li><li>rostfrei</li><li>auch Feuerwehr Karabinerhaken genannt</li></ul>"
+}

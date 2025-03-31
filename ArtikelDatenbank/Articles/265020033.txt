@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>hochwertiger Stahl, blau verzinkt</li><li>robust und langlebig</li><li>geeignet für Türen, Tore, Laden und Pforten</li><li>zum Anschrauben</li><li>beständig gegen Korrosion</li></ul>"
+}

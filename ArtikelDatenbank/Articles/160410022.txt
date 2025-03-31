@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Schutzbrille mit mechanischer Festigkeit B</li><li>mit verstellbarem Gummiband</li><li>direkte Belüftung</li><li>flexibler Vinylrahmen</li><li>abdichtender Sitz für Rundumschutz</li></ul>"
+}

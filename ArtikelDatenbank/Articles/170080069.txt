@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Schleifscheibe aus kunstharzgebundenem Korund </li><li>passend für Winkelschleifer und Polierer</li><li>mit 115 mm Durchmesser</li><li>zum Schleifen von Holz, Lack und Metall</li><li>22 mm Innenlochung<br/><br/></li></ul>"
+}

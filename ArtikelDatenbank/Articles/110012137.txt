@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Geräte Eckventil 1/2 Zoll x 10 mm mit Geräteanschluss</li><li>für den Anschluss von Geräten</li><li>aus verchromtem Pressmessing gefertigt</li><li>Quetschverschraubung mit Längenausgleich</li><li>besitzt einen 3/4\" Schlauchanschluss<br/></li></ul>"
+}

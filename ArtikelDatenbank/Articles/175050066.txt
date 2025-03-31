@@ -1,0 +1,4 @@
+{
+    "uvp": 3.95,
+    "attributes": "<ul><li>Hebelventilstecker aus robustem Kunststoff</li><li>passend für alle Reifenfüller und Reifenventile</li><li>einfache und sichere Bedienung</li><li>speziell für den Einsatz in der Automobilindustrie geeignet</li><li>für 6 mm Druckluftschläuche geeignet</li></ul>"
+}

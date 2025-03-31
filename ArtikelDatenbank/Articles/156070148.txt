@@ -1,0 +1,4 @@
+{
+    "uvp": 3.29,
+    "attributes": "<ul><li>Lackierwalze für Farbroller</li><li>für alle Lacke</li><li>strukturierte Untergründe</li><li>gutes Oberflächenfinish</li><li>Farbrolle in gerader Ausführung</li></ul>"
+}

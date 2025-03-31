@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>8 Maxi-Luftballons</li><li>farblich sortiert</li><li>einfach ohne Aufdruck</li><li>schöne Geburtstags-Dekoration</li><li>lassen sich leicht mit einer Ballonpumpe aufblasen</li></ul>"
+}

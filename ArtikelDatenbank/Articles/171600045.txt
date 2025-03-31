@@ -1,0 +1,4 @@
+{
+    "uvp": 61.99,
+    "attributes": "<ul><li>ultimativer Holzschutz</li><li>mechanisch Belastbar</li><li>besonders schmutzabweisend</li><li>hohe Chemikalienbeständigkeit</li><li>einfache Anwendung<br/></li></ul>"
+}

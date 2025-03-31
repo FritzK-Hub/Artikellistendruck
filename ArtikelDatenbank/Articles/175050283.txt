@@ -1,0 +1,4 @@
+{
+    "uvp": 5.95,
+    "attributes": "<ul><li>effektive und kraftvolle Reinigungswirkung</li><li>ergonomischer Griff sorgt für eine bequeme und sichere Handhabung</li><li>aus robustem und langlebigem Material </li><li>für den Einsatz in Werkstätten, Garagen und Industrie geeignet</li><li>maximaler Betriebsdruck von 6 bar für einen kraftvollen Luftstoß<br/></li></ul>"
+}

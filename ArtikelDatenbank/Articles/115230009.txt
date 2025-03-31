@@ -1,0 +1,4 @@
+{
+    "uvp": 8.09,
+    "attributes": "<ul><li>Knauf Perlfix-Ansetzgips 10 kg</li><li>Spezialkleber auf Gipsbasis für den Innenbereich</li><li>zum Ansetzen von Gipsplatten und Gipsverbundplatten</li><li>pastöse Konsistenz und leicht zu verarbeiten</li><li>anmachfertig und sehr ergiebig </li></ul>"
+}

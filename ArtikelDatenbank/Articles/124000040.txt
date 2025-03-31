@@ -1,0 +1,4 @@
+{
+    "uvp": 23.99,
+    "attributes": "<ul><li>stufenloses einstellen der Reichweit</li><li>13 Meter Beregnungsbreite</li><li>Metallfilter schützt vor Verschmutzung</li><li>Nadel zum Reinigen verstopfter Düsen</li><li>aluminiumverstärkte Düsenrohre</li><li>frost- und witterungsbeständig</li></ul>"
+}

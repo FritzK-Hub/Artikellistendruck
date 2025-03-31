@@ -1,0 +1,4 @@
+{
+    "uvp": 14.95,
+    "attributes": "<ul><li>Granulat zur pH-Wert Senkung im Poolwasser</li><li>schnelllösliches Produkt für Schwimmbad-Wasserdesinfektion</li><li>über einen Skimmer dem Beckenwasser zuzugeben</li><li>100 g Granulat / 10 m³ senkt den pH-Wert um ca. 0,1 (durchschnittliche Härte des Wassers vorausgestezt)</li><li>einfache Anwendung für eine gute pH-Wert Regelung</li></ul>"
+}

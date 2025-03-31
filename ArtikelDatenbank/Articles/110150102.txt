@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>sechsteiliges Waffenreinigungsset zur Pistolenreinigung</li><li>der Messingstab ist zusammenschraubbar</li><li>3 verschiedene Bürstenköpfe</li><li>für verschiedene Kalibergrößen erhältlich</li><li>in praktischer Kunststoffbox<br/></li></ul>"
+}

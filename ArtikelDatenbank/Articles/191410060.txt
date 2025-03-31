@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Kinderschlauchboot in verschiedenen Designs</li><li>für Kinder von 3 – 6 Jahren geeignet</li><li>mit buntem Design und bequemer Sitzfläche</li><li>idealer Begleiter für Pool, See oder Strand</li><li>inklusive Ziehleine für größeren Badespaß<br/></li></ul>"
+}

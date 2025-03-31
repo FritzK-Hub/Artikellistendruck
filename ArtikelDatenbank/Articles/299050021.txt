@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Flügelmutter-Set M12 mit amerikanischer Form</li><li>Set besteht aus vier Schrauben</li><li>aus galvanisch, verzinktem Stahl gefertigt</li><li>für Verbindung, die öfters getrennt werden müssen</li><li>lassen sich leicht per Hand festziehen</li></ul>"
+}

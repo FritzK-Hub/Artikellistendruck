@@ -1,0 +1,4 @@
+{
+    "uvp": 38.99,
+    "attributes": "<ul><li>zur Wandmontage komplett mit Anschlüssen &amp; Abdeckungen</li><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>perfektes Strahlbild durch Marken-Mischdüse</li><li>einfache Installation mit flexiblen Anschlussschläuchen</li><li>schwenkbarer Auslauf 360° schafft Flexibilität</li></ul>"
+}

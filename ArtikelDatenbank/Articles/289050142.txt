@@ -1,0 +1,4 @@
+{
+    "uvp": 10.95,
+    "attributes": "<ul><li>Rundrohr aus eloxiertem Aluminium</li></ul>"
+}

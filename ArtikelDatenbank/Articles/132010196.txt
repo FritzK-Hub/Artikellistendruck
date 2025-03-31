@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Hundespielzeug aus Naturgummi</li><li>in Knochenform</li><li>schwimmfähig</li><li>ideal zum Apportieren und Trainieren</li><li>langlebig und strapazierfähig</li></ul>"
+}

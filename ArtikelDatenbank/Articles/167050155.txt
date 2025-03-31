@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>eignet sich perfekt zum Befestigen, Verzurren und mehr - ein Allrounder für viele Aufgaben</li><li>Länge, von 1m bis 80m, je nach Bedarf</li><li>mit 16-facher Flechtung und PP-Einlage ist dieses Seil extrem stabil</li><li>bis zu 65 kg Tragkraft für anspruchsvolle Aufgaben</li><li>schwimmfähig und UV-stabilisiert für den Einsatz im Freien, ideal für Abenteuer und Projekte</li></ul>"
+}

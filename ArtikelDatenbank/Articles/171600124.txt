@@ -1,0 +1,4 @@
+{
+    "uvp": 11.95,
+    "attributes": "<ul><li>transparentes, universelles Holzpflegeöl</li><li>für die Pflege und Erneuerung aller Hölzer</li><li>natürlicher Glanz und Lebendigkeit</li><li>antistatische Eigenschaften</li><li>für langlebige Schönheit<br/></li></ul>"
+}

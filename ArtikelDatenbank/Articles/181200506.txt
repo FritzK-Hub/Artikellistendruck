@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Packung Saatgut für ca. 12 laufende Meter</li><li>sehr ertragreich und frühreifend</li><li>zum Frischverzehr geeignet</li><li>Folgesaaten sind möglich</li><li>gute Resistenz gegenüber Krankheiten</li></ul>"
+}

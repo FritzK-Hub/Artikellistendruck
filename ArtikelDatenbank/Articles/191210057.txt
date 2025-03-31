@@ -1,0 +1,4 @@
+{
+    "uvp": 59.99,
+    "attributes": "<ul><li>mobil dank einklappbarer Standfüße</li><li>robuster, langlebiger Edelstahl</li><li>sicherer Funkenflug-Schutz</li><li>platzsparende Lagerung</li><li>einfache Reinigung durch Aschehohlraum</li></ul>"
+}

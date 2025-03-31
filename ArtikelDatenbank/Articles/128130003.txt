@@ -1,0 +1,4 @@
+{
+    "uvp": 939.95,
+    "attributes": "<ul><li>exclusive Sonneninsel aus wetterfestem Polyrattan</li><li>mit Sonnendach und Aluminiumrahmen</li><li>UV-beständig, wasserfest, besonders eng geflochten</li><li>überspannt von einem flexibel anpassbarem Sonnendach</li><li>inklusive 8 cm starke Polsterauflage und 4 Komfort-Kissen<br/></li></ul>"
+}

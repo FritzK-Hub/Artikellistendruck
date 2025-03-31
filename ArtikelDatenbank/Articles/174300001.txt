@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>Cold-Start-Funktion spart Energie</li><li>langanhaltende Leistung dank geräuscharmer Kartusche</li><li>mühelose Installation mit Zentralverschraubung</li><li>schwenkbarer Auslauf 360° bietet Flexibilität</li><li>nur geeignet für drucklose Untertischgeräte</li></ul>"
+}

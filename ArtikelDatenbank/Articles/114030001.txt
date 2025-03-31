@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Trinkbecher aus Kunststoff</li><li>lebensmittelecht</li><li>idealer Einwegbecher für z.B. die nächste Grillparty</li><li>praktisch und hygienisch</li><li>eignen sich hervorragend als Ausschankbecher</li></ul>"
+}

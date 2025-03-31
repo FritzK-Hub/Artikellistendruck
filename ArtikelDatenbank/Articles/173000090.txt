@@ -1,0 +1,4 @@
+{
+    "uvp": 13.99,
+    "attributes": "<ul><li>LED Nachtlicht mit warmweißem Licht</li><li>mit Dämmerungs- und Bewegungssensor versehen</li><li>kann auch auf Dauerbeleuchtung eingestellt werden</li><li>niedriger Energieverbrauch</li><li>ideal als Einschlafhilfe für Kinder</li></ul>"
+}

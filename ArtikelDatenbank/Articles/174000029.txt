@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>einstellbarer Wassersparer-Regulator von Wenko</li><li>aus stabilem ABS-Kunststoff, verchromt gefertigt</li><li>passendes Zubehör für Armaturen, Duschschläuche, Kopf- und Handbrausen</li><li>Wasserersparnis zwischen 15 bis 60 %</li><li>mit einem 1/2“ Innen- und Außengewinde versehen<br/></li></ul>"
+}

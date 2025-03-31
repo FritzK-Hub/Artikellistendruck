@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>dekorative LED-Lichterkette für außen</li><li>mit 120 warmweißen LEDs versehen<br/></li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>innen und außen vielfältig einsetzbar</li><li>auch für den Weihnachtsbaum geeignet</li></ul>"
+}

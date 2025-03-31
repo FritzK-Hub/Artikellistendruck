@@ -1,0 +1,4 @@
+{
+    "uvp": 16.95,
+    "attributes": "<ul><li>gekröpfte Montageeinheit für Rohre mit Lötfitting Rotguss</li><li>zur professionellen Montage von Rohren und Rohrleitungen</li><li>für die Sanitär- und Heizungsinstallation</li><li>Bügel aus verzinktem Stahl</li><li>Körper aus Rotguss<br/></li></ul>"
+}

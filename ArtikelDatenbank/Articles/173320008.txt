@@ -1,0 +1,4 @@
+{
+    "uvp": 24.99,
+    "attributes": "<ul><li>strombetriebene LED-Lichterkette 10 m und 45 LEDs</li><li>ideal als Partybeleuchtung oder für Sonnenschirme </li><li>ermöglicht unterschiedliche, beeindruckende Deko-Effekte</li><li>setzt Büsche, Freisitzen oder Gartenwege gekonnt in Szene</li><li>universell im Innen- und Außenbereich einsetzbar<br/></li></ul>"
+}

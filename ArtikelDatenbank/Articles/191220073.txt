@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>stabile Grillbesteckhalterung aus massivem Metall</li><li>seine vier Haken bietet ausreichend Platz für dein Grillbesteck</li><li>lässt sich leicht am Grillrand aufhängen</li><li>universell und passend für jeden Grill</li><li>für sauberes Grillwerkzeug in deiner Nähe</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Andenbeere für ca. 50 Pflanzen</li><li>mit mirabellengroßen, süßen Früchten</li><li>pergamentartige Kelchhülle schützt die Frucht</li><li>zum Frischverzehr oder als Kompott nutzbar</li><li>verfügt über eine Probefeldgetestete Qualität</li></ul>"
+}

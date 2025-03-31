@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Reifenmarkierungen für Ventilkappen</li><li>universal geeignet für alle Reifenventile</li><li>mit integriertem Gewinde</li><li>zum markieren der Sommer- und Winterräder</li><li>ersetzt normale Ventilkappen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>batteriebetriebene, ausziehbare Campinglampe 2in1</li><li>besonders langlebig, mit stabilem Kunststoffgehäuse</li><li>für eine klare Sicht beim Camping, Outdoor oder im Haushalt</li><li>im zusammen geschobenen Zustand als Handlampe einsetzbar</li><li>einfache Handhabung, Trageschlaufe erleichtert den Transport<br/></li></ul>"
+}

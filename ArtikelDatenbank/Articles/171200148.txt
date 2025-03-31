@@ -1,0 +1,4 @@
+{
+    "uvp": 14.69,
+    "attributes": "<ul><li>Sprüh-Lack auf lösemittelbasis für Möbel und Accessoires aus Holz, Terrakotta und Zink im Außenbereich</li><li>robuste und haltbare Oberfläche für langanhaltende Farbintensität und Glanz</li><li>vielfältige Farbauswahl für individuelle Gestaltungsmöglichkeiten</li><li>bietet lang anhaltenden Schutz vor Witterungseinflüssen</li><li>trocknet in nur einer Stunde komplett ab</li></ul><p></p>"
+}

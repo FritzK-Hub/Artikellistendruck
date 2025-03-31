@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Aus-Wechselschalter in weiß</li><li>für die Unterputz-Montage geeignet</li><li>zum Unterbrechen von Stromkreisen</li><li>nur mit Rahmen der Serie Maranello kombinierbar</li><li>die Steckklemmen sind mit inklusive</li></ul>"
+}

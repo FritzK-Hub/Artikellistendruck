@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Kescher mit Teleskopstiel aus Aluminium</li><li>das Netz ist aus robustem PVC gefertigt</li><li>ideal für den Pool oder beim Angeln</li><li>ausziehbar von 16 auf bis zu 64 cm</li><li>für kleinere Fische oder Schmetterlinge geeignet<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>nachfüllbares Stabfeuerzeug mit langem Hals</li><li>bietet sicheren Abstand zur Flamme</li><li>mit Piezo-Zündung ausgestattet</li><li>mit Sicherung gegen unbeabsichtigtes Betätigen des Zündschalters</li><li>einsetzbar für Gasherdes oder das Anzünden des Kohlegrills<br/></li></ul>"
+}

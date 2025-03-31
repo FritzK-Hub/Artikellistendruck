@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>lang anhaltende Blütenpracht</li><li>natürlicher Schutz für Gemüsegärten</li><li>vielseitige Bodenverbesserung</li><li>einfache Pflege</li><li>Bienen- und Hummelmagnet<br/></li></ul>"
+}

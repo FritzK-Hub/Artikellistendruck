@@ -1,0 +1,4 @@
+{
+    "uvp": 79.95,
+    "attributes": "<ul><li>hochwertige Motorradbatterie für zuverlässigen Betrieb</li><li>speziell für Belastungen im Motorradbetrieb entwickelt</li><li>ausgezeichnete Startleistung für müheloses Anlassen</li><li>trocken vorgeladen für einfache Installation</li><li>optimales Preis-Leistungsverhältniss</li></ul><p></p>"
+}

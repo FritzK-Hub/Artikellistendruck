@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>feuerfester Ofenkitt 310 ml in Grau</li><li>ist hitzebeständig bis max. 1000°C</li><li>zum Abdichten von Kaminen, Öfen, Herden und Rauchrohren</li><li>Dichtungsstellen können sofort dem Feuer ausgesetzt werden</li><li>in Kartusche - mit handelsüblichen Kartuschenpressen zu verarbeiten<br/></li></ul>"
+}

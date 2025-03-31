@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>umweltfreundliche Wärme aus reinem Nadelholz</li><li>höchste Qualität: ENplus A1 zertifiziert</li><li>effiziente Verbrennung mit minimaler Aschebildung</li><li>nachhaltig mit PEFC-Zertifikat</li><li>maximale Heizleistung bei niedrigen Emissionen</li></ul>"
+}

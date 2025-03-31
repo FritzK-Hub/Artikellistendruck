@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>Ersatzkette GEK 56 von Güde</li><li>passend für die Elektro Kettensäge KS 402 P</li><li>besitzt eine Kettenlänge von 49,5 cm</li><li>liefert eine besonders gute Schnittleistung</li><li>schneller Ersatz für die stumpfe Kette<br/></li></ul>"
+}

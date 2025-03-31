@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Kunstharzverstärkter Spezial-Kleber</li><li>speziell für die Verklebung von schweren Tapeten</li><li>klebt zuverlässig Papiertapeten, Vinyl-, Struktur-, und Fototapeten sowie Rauhfaser</li><li>für Tapeziergeräte geeignet, trocknet fleckenfrei auf</li><li>universiell einsetzbar auf vielen Untergründen</li></ul>"
+}

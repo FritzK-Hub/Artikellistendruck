@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>strapazierfähig und korrosionsbeständig dank verzinktem Stahl</li><li>optimale Verbindung für Projekte</li><li>passend für Güde-Druckluftnagler</li><li>großzügige Menge von 5000 Stück</li><li>vielseitig einsetzbar</li></ul>"
+}

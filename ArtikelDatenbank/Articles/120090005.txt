@@ -1,0 +1,4 @@
+{
+    "uvp": 7.29,
+    "attributes": "<ul><li>Seramis Vitalnahrung für Blühpflanzen</li><li>mit allen lebenswichtigen Mineralstoffen</li><li>enthält Spurenelemente mit einem Plus an Phosphat</li><li>für prächtige, langanhaltende Blütenpracht</li><li>kann bei jedem Gießen dem Gießwasser zugegeben werden<br/></li></ul>"
+}

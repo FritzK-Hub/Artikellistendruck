@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Scheibenfrostschutz Konzentrat mit Duftstoffen</li><li>ergibt bis zu 3 Liter Frostschutz-Mix</li><li>verstärkte Reinigungswirkung, reduzierte Blendeffekte, weniger Verbrauch</li><li>greift Lack, Gummi und Kunststoff nicht an</li><li>für Polycarbonat-Scheiben und Fächerdüsen geeignet</li></ul>"
+}

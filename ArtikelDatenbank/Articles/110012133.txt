@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Wassersparset für bis zu 50% Wasserersparnis</li><li>höchster Komfort beim Händewaschen</li><li>leicht zu montieren</li><li>passend für alle handelsübliche Armaturen, nicht für Niederdruckarmaturen geeignet</li><li>inklusive Montageschlüssel und Ersatz-Dichtungen<br/><br/></li></ul>"
+}

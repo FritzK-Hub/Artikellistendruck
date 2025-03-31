@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Männertreu mit blauen Blüten</li><li>im robustem Blumentopf Ø 9 cm</li><li>mit wohlriechenden und farbenfrohen Blüten</li><li>ideal für Kübel oder Blumenkästen geeignet</li><li>in Kombination für eine farbige Blütenpracht<br/></li></ul>"
+}

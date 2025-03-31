@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Ganzjahresfuttermittel für freilebende Vögel</li><li>für alle heimischen Vogelarten geeignet</li><li>ist zusätzlich mit Früchten und Beeren versehen</li><li>sorgt vor allem zur kalten Jahreszeit für notwendige Energien</li><li>hält Stoffwechsel und Körpertemperatur aufrecht<br/></li></ul>"
+}

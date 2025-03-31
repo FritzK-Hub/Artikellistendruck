@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>Pooltester von MediPool zur Wasserbestimmung</li><li>zur Messung von pH, Chlor und Brom</li><li>Phenol Red Tabletten für den pH-Wert</li><li>DPD Tabletten-Wert für den Chlorgehalt</li><li>in einer praktischen Aufbewahrungsbox</li></ul>"
+}

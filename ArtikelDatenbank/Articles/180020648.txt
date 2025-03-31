@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>zur bequemen und effektiven Bewässerung deines Garten</li><li>besonders langlebig und widerstandfähig, aus stabilem Kunststoff gefertigt </li><li>Wasserdruck lässt sich stufenlos an der Spritze regulieren</li><li>Schlauchadapter fürs schnelles Anschließen von verschiedenen Gartenschläuchen</li><li>einfach in der Handhabung, lässt sich ohne Werkzeug problemlos montieren<br/></li></ul>"
+}

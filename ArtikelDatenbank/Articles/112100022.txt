@@ -1,0 +1,4 @@
+{
+    "uvp": 1.6,
+    "attributes": "<ul><li>Sparrenpfettenanker für einfache Montage</li><li>für die zugfeste Verbindung von Konstruktionhölzern</li><li>robust, langlebig, korrosionsbeständig durch Verzinkung</li><li>optimierte Materialstärke von 2 mm für hohe Stabilität</li><li>auch für den Einsatz mit Schrauben bestens geeignet<br/></li></ul>"
+}

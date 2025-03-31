@@ -1,0 +1,4 @@
+{
+    "uvp": 7.39,
+    "attributes": "<ul><li>Rundstange 8 mm mit 1 m Länge</li><li>aus massivem Messing gefertigt</li><li>weitgehend beständig gegen Chemikalien</li><li>bildet durch Lufteinwirkung eine Oxidschicht (Patina), die mit Poliermitteln entfernt werden kann</li><li>mit handelsüblicher Metallsäge oder Trennschleifer abzulängen</li></ul>"
+}

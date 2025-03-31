@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>12 Volt Ladeadapter für den KFZ/Wohnmobil</li><li>zum Aufladen von z.B. Smartphones am Zigarettenanzünder</li><li>2 USB-Anschlüsse, jedes USB-Ladekabel kann auch im Auto verwendet werden</li><li>zum einfachen Laden von iPad oder iPhone, Smartphone usw.</li><li>gleichzeitiges Aufladen von 2 Geräten möglich<br/></li></ul>"
+}

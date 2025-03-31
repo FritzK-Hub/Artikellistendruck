@@ -1,0 +1,4 @@
+{
+    "uvp": 4.5,
+    "attributes": "<ul><li>künstliche Seerose aus Kunststoff</li><li>mit farbigen Blättern auf grünem Kunststoffblatt</li><li>ideal zur Verschönerung des Gartenteiches</li><li>Schwimmhilfe aus Styropor auf der Unterseite</li><li>Qualität von Gardena</li></ul>"
+}

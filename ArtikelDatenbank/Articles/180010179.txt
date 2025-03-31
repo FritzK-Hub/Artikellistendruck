@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>Blumenerde 40 Liter im Sack</li><li>für alle Anwendungsbereiche in Haus und Garten</li><li>gebrauchsfertige Erde aus Torf, Rindenhumus und Grünkompost</li><li>mit Nährstoffen angereichert</li><li>die Erden sind torfreduziert und bestehen aus bis zu 60 % aus nachwachsenden Rohstoffen<br/></li></ul>"
+}

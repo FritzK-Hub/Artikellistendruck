@@ -1,0 +1,4 @@
+{
+    "uvp": 19.99,
+    "attributes": "<ul><li>Pizzastein Ø 33 cm aus naturbelassenem Stein</li><li>Steinplatte sorgt für eine gleichmäßige Wärmeverteilung</li><li>garantiert den typischen Steinofengeschmack</li><li>für die Zubereitung von Brot, Pizza, Calzone oder Keksen geeignet</li><li>zur Anwendung im Ofen oder Grill geeignet</li></ul>"
+}

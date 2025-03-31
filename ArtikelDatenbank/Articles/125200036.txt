@@ -1,0 +1,4 @@
+{
+    "uvp": 16.99,
+    "attributes": "<ul><li>Lebendfalle aus verzinktem Drahtgitter</li><li>tierfreundliche Fangmethode für Ratten</li><li>robuste Konstruktion ist besonders stabil</li><li>Kontaktstange in der Mitte löst die Falle per Federmechanismus aus</li><li>kein Rattengift erforderlich</li></ul>"
+}

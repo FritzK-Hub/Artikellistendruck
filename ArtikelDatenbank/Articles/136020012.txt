@@ -1,0 +1,4 @@
+{
+    "uvp": 79.9,
+    "attributes": "<ul><li>Sappie-Set für verschiedenste Forst- und Holzarbeiten</li><li>zum Aufheben und Transportieren von Holzstücken</li><li>unterstützt auch beim Fällen und Spalten von Brennholz</li><li>ergonomischer, 80 cm langer Stiel reduziert Belastung</li><li>ermöglicht ein rückenschonendes Arbeiten<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>frühe Reifezeit</li><li>kompakte Pflanzen</li><li>hervorragende Geschmacksqualität</li><li>vielseitiger Anbau</li><li>ertragreiche Ernte<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>3-teiliges Reinigungs-Bürsten-Set für Waffen</li><li>Draht (Bronze), Kunststoff- und Wollbürste</li><li>nur Bürstenköpfe</li><li>Messingverschraubung</li><li>Waffen-Pflege-Set Cal. 4,5 mm</li></ul>"
+}

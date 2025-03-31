@@ -1,0 +1,4 @@
+{
+    "uvp": 9.29,
+    "attributes": "<ul><li>Türstopper rund und flach mit Ø 4 cm</li><li>aus massivem Zinkdruckguss mit Gummischutz</li><li>schwere Qualität mit festem Stand</li><li>verhindert ungewolltes An- oder Zuschlagen</li><li>mit Gummiringen zum Schutz von Tür und Wand<br/></li></ul>"
+}

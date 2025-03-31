@@ -1,0 +1,4 @@
+{
+    "uvp": 4.95,
+    "attributes": "<ul><li>vielseitige Anwendung</li><li>flexible Elastizität</li><li>schnelle Trocknungszeit</li><li>schrumpffrei und leicht glättbar</li><li>lösemittelfrei und umweltfreundlich<br/></li></ul>"
+}

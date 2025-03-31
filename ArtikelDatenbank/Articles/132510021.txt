@@ -1,0 +1,4 @@
+{
+    "uvp": 99.95,
+    "attributes": "<ul><li>20 V Akkuschrauber mit 2-Gang Getriebe</li><li>einfache Handhabung dank ergonomischem Gehäuse</li><li>ein zuverlässiges Werkzeug für jeden Handwerker</li><li>mit neuster Lithium-Ionen Technologie ausgestattet</li><li>Akku und Ladegerät sind inklusive<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Dekofolie 30 x 50 cm mit Sternen-Effekt</li><li>aus strapazierfähigem PVC gefertigt</li><li>ideal für Laternen, Lampen oder Fenster</li><li>lichtdurchlässig, glatt und blasenfrei</li><li>schafft eine weihnachtliche Atmosphäre<br/></li></ul>"
+}

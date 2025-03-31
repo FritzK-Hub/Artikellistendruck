@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>Permanentmarker wasserfest in Schwarz</li><li>mit einer Strichstärke von ca. 4 mm</li><li>ideal zum Beschriften von fast jedem Material</li><li>praktischer Clip für einfacheres Verstauen</li><li>Permanenttinte auf Alkoholbasis</li></ul>"
+}

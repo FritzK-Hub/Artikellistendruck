@@ -1,0 +1,4 @@
+{
+    "uvp": 32.99,
+    "attributes": "<ul><li>Antikalk-Noppen für einfache Reinigung</li><li>vielseitige Strahlarten</li><li>bequeme Bedienung mit Druckknopf</li><li>kompakte Abmessungen</li><li>wassersparsam mit bis zu 50% Ersparnis<br/></li></ul>"
+}

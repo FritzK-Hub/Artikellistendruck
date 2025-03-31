@@ -1,0 +1,4 @@
+{
+    "uvp": 99.99,
+    "attributes": "<ul><li>schnelle Reinigung mit halbem Zeitaufwand</li><li>flexibel für verschiedene Oberflächenarten</li><li>Spritzwasserschutz für saubere Arbeit</li><li>einfaches Manövrieren durch Hovercraft-Effekt</li><li>kompatibel mit vielen Hochdruckreinigern</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Schalerbse Früh Harzerin für ca. 20 m²</li><li>ist eine ertragreiche und frühreifende Sorte</li><li>widerstandsfähig gegenüber Welkekrankheiten</li><li>robuste Erbse mit mittelgroßen Grünkorn</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
+}

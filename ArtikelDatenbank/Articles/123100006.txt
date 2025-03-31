@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>cleveres Pop-up-Design bietet sofortige Einsatzbereitschaft</li><li>leicht transportierbar mit praktischem Klettverschluss-Griffen</li><li>robustes Oxford Polyester gewährt Langlebigkeit</li><li>unterschiedliche Größen für vielseitige Gartenarbeiten</li><li>optisch ansprechendes Türkis schafft mehr Freude bei der Gartenarbeit</li></ul><p></p>"
+}

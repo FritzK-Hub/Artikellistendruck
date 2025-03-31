@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>unkomplizierte Signalverteilung</li><li>stabile Signalübertragung</li><li>speziell für den Einsatz mit Koaxialkabeln</li><li>einfache Installation</li><li>kompakte Größe<br/></li></ul>"
+}

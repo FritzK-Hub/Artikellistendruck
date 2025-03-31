@@ -1,0 +1,4 @@
+{
+    "uvp": 5.79,
+    "attributes": "<ul><li>Hahnanschlussstück aus Messing</li><li>zum Anschluss von Schläuchen mit Stecksystem an Wasserhähne mit 3/4\" Außengewinde</li><li>mit Kupplung für handelsübliche Bewässerungs-Stecksysteme</li><li>3/4\" Innengewinde</li></ul>"
+}

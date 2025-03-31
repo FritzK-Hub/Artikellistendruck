@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Laubgitter für Dachrinnen</li><li>einfache Befestigung mit 18 Haltern</li><li>individuell kürzbar</li><li>aus flexiblem Kunststoff</li><li>beugt ein Verstopfen des Fallrohres vor</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 21.99,
+    "attributes": "<ul><li>Curamat AZ Rosen Kombi-Set </li><li>Rundum-Schutz für Rosen und Pflanzen</li><li>gegen Pilzkrankheiten und Schädlinge</li><li>zeitsparend, da nur ein Arbeitsgang notwendig</li><li>Konzentrat für bis zu 10 Liter Spritzbrühe</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 29.99,
+    "attributes": "<ul><li>SAT Koaxialkabel für exzellentes Bild und Ton</li><li>zum Anschluss von SAT-Schüssel an Receiver</li><li>4-facher Signalschirm für hervorragenden Schutz</li><li>hervorragender und störungfreier Empfang</li><li>digitaltauglich für HDTV </li></ul>"
+}

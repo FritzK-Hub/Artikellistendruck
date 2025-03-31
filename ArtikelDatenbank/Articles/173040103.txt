@@ -1,0 +1,4 @@
+{
+    "uvp": 3.19,
+    "attributes": "<ul><li>Steckschlüssel-Einsatz 1/4\"</li><li>mit Super-Lock Aufnahme</li><li>mit Rändelung</li><li>für Handbetätigung geeignet</li><li>lange Bauweise<strong><br/></strong></li></ul>"
+}

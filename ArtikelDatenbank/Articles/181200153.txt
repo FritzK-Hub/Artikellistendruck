@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut reicht für ca. 50 Pflanzen</li><li>einjähriges Gewürzkraut mit intensivem Aroma</li><li>zur Verfeinerung Salaten, Fleisch- oder Fischgerichten</li><li>als Teeaufguß gegen Magen- oder Darmbeschwerden</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

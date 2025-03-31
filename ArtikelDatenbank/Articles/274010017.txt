@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>Bastler-Schraubzwinge von GERMANIA®</li><li>geriffelte, verzinkte Profilschiene</li><li>Tempergussbügel, Kunststoff-Schutzbacken</li><li>Spannbereich bis maximal 200 mm</li><li>hölzerner, rot lackierter, Griff</li></ul>"
+}

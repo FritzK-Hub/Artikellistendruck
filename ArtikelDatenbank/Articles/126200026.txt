@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Schmutzwassertauchumpe mit einstellbarem Schwimmerschalter</li><li>Gehäuse der Pumpe aus schlagfestem Kunststoff</li><li>Schmutzwasserpumpe mit 10 Meter Anschlusskabel</li><li>mechanische Dichtung, Laufrad aus Noryl</li><li>Thermoschutz und praktischer Tragegriff</li></ul>"
+}

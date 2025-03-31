@@ -1,0 +1,4 @@
+{
+    "uvp": 18.86,
+    "attributes": "<ul><li>Antennendose für Rundfunk und Fernsehen (kabelfernsehtauglich)</li><li>in klassischem Design mit matter Oberfläche</li><li>komplett mit Abschlusswiderstand 75 Ohm</li><li>als Durchgangs- und Enddose verwendbar</li><li>für die Unterputz-Montage </li><li>nur in Kombination mit Rahmen der Trend-Serie zu verwenden</li></ul><p></p>"
+}

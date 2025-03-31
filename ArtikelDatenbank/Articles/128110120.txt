@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>faltbarer Hocker in verschiedenen Ausführungen<br/></li><li>aus stabilem Metallgestell und 600D Oxford-Gewebe gefertigt</li><li>sorgt für hohen Komfort in deinem Garten, am Strand oder beim Camping</li><li>langlebig und zudem sehr leicht zu pflegen</li><li>bei Nichtgebrauch einfach platzsparend zusammenklappen<br/></li></ul>"
+}

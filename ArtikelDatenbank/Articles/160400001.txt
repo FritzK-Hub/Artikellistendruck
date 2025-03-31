@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Atemschutzmaske Comfort mit der Schutzklasse FFP3</li><li>schützt vor giftigen und gesundheitsschädlichen Stäuben oder Rauch</li><li>hochwertige Ventiltechnik für frisches Maskenklima</li><li>weiche Schaumstoff-Dichtlippe für hohe Tragekomfort</li><li>flexibler Nasenbügel für optimale Anpassung<br/></li></ul>"
+}

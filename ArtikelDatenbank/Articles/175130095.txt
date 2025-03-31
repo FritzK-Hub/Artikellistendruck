@@ -1,0 +1,4 @@
+{
+    "uvp": 42.99,
+    "attributes": "<ul><li>Supergaslöter für Weich- und Hartlöten</li><li>ideal für Heimwerker, Hobbyhandwerker, Labore und Schulen</li><li>piezoelektrische Zündung für einfache Bedienung</li><li>bis zu 30 Minuten Arbeitszeit pro Tankfüllung</li><li>stufenlos regulierbare Flamme nach Bedarf<br/></li></ul>"
+}

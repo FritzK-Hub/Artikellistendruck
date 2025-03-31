@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>ideal für Haus und Werkstatt</li><li>Leichtgewicht mit Fiberglastechnologie</li><li>rutschfester Softgriff</li><li>ermöglicht äußerst präzises Arbeiten<br/></li><li>robuster Hammerkopf aus Stahl</li></ul>"
+}

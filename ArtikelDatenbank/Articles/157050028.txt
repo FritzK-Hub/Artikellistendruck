@@ -1,0 +1,4 @@
+{
+    "uvp": 13.95,
+    "attributes": "<ul><li>schnelltrocknendes Zinkspray, hitzebeständig</li><li>99% reiner Zink, hitzebeständig</li><li>ideale Grundierung von Metallteilen, hohe Deckkraft</li><li>elektrische Leitfähigkeit bleibt erhalten</li><li>schützt vor Rost mit Langzeitwirkung</li></ul>"
+}

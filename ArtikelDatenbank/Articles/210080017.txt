@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>selbstklebende <em>Rutsch- und Lärmstopper</em></li><li>absorbieren den beim An- und Zuschlagen von Türen, Schubladen usw. entstehenden Lärm</li><li>verhindert Rutschen, Anschlaglärm, Vibration, Kratzen usw.</li><li>fast unsichtbar, da transparent</li><li>können auf jede glatte Oberfläche geklebt werden, die Oberflächen müssen vor der Anbringung sauber, trocken und fettfrei sein</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Rasensprenger mit frei drehbaren Düsen auf einem stabilem Ständer</li><li>Wasserstrahl lässt sich in 4 verschiedenen Stufen einstellen</li><li>Sprinkleranlage aus leichtem ABS-Kunststoff</li><li>kann an eine Sprengeranlage angeschlossen werden</li><li>Gartensprenger für 360° rundum Beregnung</li></ul>"
+}

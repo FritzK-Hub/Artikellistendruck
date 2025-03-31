@@ -1,0 +1,4 @@
+{
+    "uvp": 32.95,
+    "attributes": "<ul><li>Unkrautbrenner mit leichter Handhabung </li><li>zuverlässiges, bequemes Zünden auf Knopfdruck mit professioneller Piezozündung</li><li>leichte Bedienung durch ergonomischen Handgriff mit Regulierungsventil</li><li>beim Abschrauben der Druckgasdose schließt das Entnahmeventil der Dose selbsttätig und es kann kein weiteres Gas mehr entweichen</li><li>sparsam im Verbrauch</li></ul>"
+}

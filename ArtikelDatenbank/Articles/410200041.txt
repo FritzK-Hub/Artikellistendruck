@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>universelles Sicherungselement zur Fixierung zusammengefügten Bauteilen</li><li>vielseitig im Automobilbereich z.B. für Muttern oder Kronen einsetzbar</li><li>verhindert zuverlässig das ungewollte Verdrehen der einzelnen Komponenten</li><li>Federbelastung sorgt für selbstsicherndes Einrasten im Material</li><li>lässt sich einfach und schnelles Anbringen beziehungsweise Lösen<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 4.49,
+    "attributes": "<ul><li>schlanke Hülsen</li><li>Krankheitsresistenz</li><li>einfache Zubereitung</li><li>Anbauflexibilität</li><li>frühe Ernte<br/><br/></li></ul>"
+}

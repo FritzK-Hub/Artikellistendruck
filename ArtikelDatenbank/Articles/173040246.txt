@@ -1,0 +1,4 @@
+{
+    "uvp": 59.5,
+    "attributes": "<ul><li>Profisortiment in Industrie-Qualität</li><li>Steckschlüssel-Satz 58-tlg.</li><li>aus Chrom-Vanadium-Stahl</li><li>alle Teile gehärtet und verchromt</li><li>Schnell-Lösemechanismus für das Abnehmen der Stecknüssen von der Knarre (mit Quick-Release)</li></ul>"
+}

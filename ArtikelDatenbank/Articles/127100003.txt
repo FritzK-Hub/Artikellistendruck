@@ -1,0 +1,4 @@
+{
+    "uvp": 12.45,
+    "attributes": "<ul><li>Stoßscharrenstiel 120 cm mit Konus</li><li>aus massiver Buche hergestellt</li><li>passender Ersatzstiel für Stoßscharren</li><li>besitzt ein konusförmigen Stielende</li><li>lässt sich einfach an die Stoßscharre befestigen<br/></li></ul>"
+}

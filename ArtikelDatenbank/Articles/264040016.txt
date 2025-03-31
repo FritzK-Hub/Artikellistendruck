@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>robuste Konstruktion</li><li>einfache Installation</li><li>U-förmige Ausführung</li><li>vielseitige Verwendung</li><li>platzsparende Lösung</li></ul>"
+}

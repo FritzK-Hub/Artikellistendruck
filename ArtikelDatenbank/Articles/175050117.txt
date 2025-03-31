@@ -1,0 +1,4 @@
+{
+    "uvp": 17.95,
+    "attributes": "<ul><li>robustes Messing-Material für hohe Langlebigkeit</li><li>einfache Montage an Druckluftsystemen dank 3/8 Zoll IG Gewinde</li><li>schneller und sicherer Anschluss an Druckluftleitungen durch 3/8 Zoll Kupplung</li><li>zwei Ausgänge für den gleichzeitigen Betrieb mehrerer Werkzeuge oder Maschinen</li><li>Schnellkupplung ermöglicht eine einfache Handhabung ohne Druckverlust</li></ul>"
+}

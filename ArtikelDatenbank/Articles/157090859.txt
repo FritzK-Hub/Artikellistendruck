@@ -1,0 +1,4 @@
+{
+    "uvp": 6.72,
+    "attributes": "<ul><li>Dachrinnenhalter für Kastendachrinnen NW 70</li><li>fixiert die Dachrinne sicher an der Dachumrandung </li><li>ideal für Gartenhaus, Carport und Vordach</li><li>mit vorgebohrten Befestigungslöchern</li><li>aus verzinktem Metall</li><li>witterungs- und korrosionsbeständig</li></ul>"
+}

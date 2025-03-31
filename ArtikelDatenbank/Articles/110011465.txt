@@ -1,0 +1,4 @@
+{
+    "uvp": 40.95,
+    "attributes": "<ul><li>WC-Sitz aus MDF mit ansprechendem Balance-Motiv</li><li>Komfort dank Absenkautomatik</li><li>langlebig: äußerst bruchsicher und kratzfest</li><li>inklusive Befestigungsmaterial zur mühelosen Installation</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
+}

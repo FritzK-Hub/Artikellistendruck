@@ -1,0 +1,4 @@
+{
+    "uvp": 18.12,
+    "attributes": "<ul><li>Einfülltrichter Metallausführung</li><li>mit flexiblem Rohr, 180° winkelbar</li><li>integrierter Sieb im Trichter</li><li>universell einsetzbar</li><li>qualitativ hochwertige Ausführung<br/></li></ul>"
+}

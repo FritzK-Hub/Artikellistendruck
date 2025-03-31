@@ -1,0 +1,4 @@
+{
+    "uvp": 49.95,
+    "attributes": "<ul><li>Plattformwagen 150 kg aus Stahl, klappbar</li><li>ideal geeignet für Verladearbeiten, Umzüge, Lieferungen</li><li>für mehr Sicherheit dank Radschutz und eine Antirutschbeschichtung</li><li>zwei Feststellbremsen verhindern ungewolltes Wegrollen</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
+}

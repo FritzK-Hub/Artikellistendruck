@@ -1,0 +1,4 @@
+{
+    "uvp": 189.99,
+    "attributes": "<ul><li>präzise Thermostatregelung</li><li>elegantes Chromdesign</li><li>gleichmäßige Wasserverteilung</li><li>langlebige Verarbeitung</li><li>einfache Installation<br/></li></ul>"
+}

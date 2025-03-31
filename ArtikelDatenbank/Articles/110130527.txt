@@ -1,0 +1,4 @@
+{
+    "uvp": 1.95,
+    "attributes": "<ul><li>langlebiges und robustes Material aus Kiefern- und Fichtenholz</li><li>unbehandeltes Holz für eine authentische Optik</li><li>zum Bauen eigener Möbelstücke oder für Projekte mit kompakteren Maßen</li><li>für Renovierungsarbeiten und Ausbauten</li><li>vielseitig einsetzbare Leiste für präzise Holzkonstruktionen</li></ul>"
+}

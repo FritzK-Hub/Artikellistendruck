@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>vielseitige Reinigung ohne Chemikalien</li><li>weich und schonend für Oberflächen</li><li>umweltfreundlich und nachhaltig</li><li>effiziente Staub- und Schmutzaufnahme</li><li>praktische Farbcodierung für einfache Organisation</li></ul>"
+}

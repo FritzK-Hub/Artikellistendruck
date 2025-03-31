@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<p><br/></p><div class=\"spb--product-details mtop_mittel\"> <ul><li> kann bis September geerntet werden </li><li> sehr früher Anbau möglich </li><li> einheitliche Knollen </li><li> ertragreich, gesund und lecker </li><li> festes, weißes Fleisch </li></ul> </div><p><br/></p>"
+}

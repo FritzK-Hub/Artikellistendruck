@@ -1,0 +1,4 @@
+{
+    "uvp": 5.69,
+    "attributes": "<ul> <li>stabiler und robuster Türriegel</li> <li>vielseitig einsetzbarer Schubriegel</li> <li>aus hochwertigem Edelstahl</li> <li>Befestigungslöcher angesenkt</li></ul>"
+}

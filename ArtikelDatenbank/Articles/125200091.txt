@@ -1,0 +1,4 @@
+{
+    "uvp": 39.95,
+    "attributes": "<ul><li>elektrischer Insektenvernichter mit 9 W und bis zu 100 m² Reichweite</li><li>zur Bekämpfung von Plagegeister wie Mücken oder Fruchtfliegen</li><li>robustes Beingestell für sicheren Stand, verhindert versehentliches Umkippen</li><li>arbeitet dabei absolut chemiefrei, ungefährlich für Menschen oder Haustieren</li><li>Insekten werden durch UV-Licht angezogen und durch Elektroden abgetötet<br/></li></ul>"
+}

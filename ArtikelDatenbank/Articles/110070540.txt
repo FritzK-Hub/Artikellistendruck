@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Ölofenanzünder flüssig</li><li>200 ml Flasche</li><li>schnelle Anzündhilfe für Ölofen</li><li>Feuertropfen zum leichten Anzünden</li><li>mit Zündeinrichtung</li></ul>"
+}

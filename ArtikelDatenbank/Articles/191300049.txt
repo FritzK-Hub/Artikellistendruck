@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Geschirr Set 30-teilig, wiederverwendbar aus Polypropylen</li><li>ideal für unterwegs beim Camping oder am Strand</li><li>ist in drei verschieden Farben erhältlich</li><li>besteht aus Teller, Löffel, Becher, Gabel und Messer</li><li>bei Nichtgebrauch platzsparend verstaubar<br/></li></ul>"
+}

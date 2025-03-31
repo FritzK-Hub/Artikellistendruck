@@ -1,0 +1,4 @@
+{
+    "uvp": 10.79,
+    "attributes": "<ul><li>Fahrradkorb aus robustem Metallgitter</li><li>einfache, werkzeuglose Klemmbefestigung</li><li>auch für E-Bikes geeignet</li><li>Einhakkrallen an der Unterseite für festen Halt</li><li>Gepäckträgerkorb mit Tragebügel</li></ul>"
+}

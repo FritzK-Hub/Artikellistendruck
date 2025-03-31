@@ -1,0 +1,4 @@
+{
+    "uvp": 12.49,
+    "attributes": "<ul><li>Spezial-Dicht- und Klebschaum in Profi Qualität</li><li>zum Verfüllen und Schließen von Fugen zwischen Schachtelementen</li><li>zum Abdichten und Verbinden von Brunnenschächten</li><li>ersetzt arbeits- und zeitintensive Mörtelarbeiten</li><li>feuchtigkeitshärtend, verrottungsfest und fäkalienbeständig</li></ul>"
+}

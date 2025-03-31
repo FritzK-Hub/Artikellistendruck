@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Aderendhülsen Sortiment blank 100 Stück</li><li>aus robustem, verzinntem Metall gefertigt</li><li>geeignet für Kabelquerschnitte von 1 mm²</li><li>einfache Montage mit Crimpzange</li><li>sorgt für eine sichere elektrische Verbindung von Litzenleitungen<br/></li></ul>"
+}

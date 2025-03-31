@@ -1,0 +1,4 @@
+{
+    "uvp": 9.49,
+    "attributes": "<ul><li>    Heißklebestifte 10 Stück von Pattex    </li><li>passend für sämtliche Heißklebepistolen    </li><li>Verarbeitungszeit von ca. 2 Minuten    </li><li>trocknet transparent aus und ist sofort belastbar    </li><li>geeignet für Holz,Pappe, Kunststoff oder Leder</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.79,
+    "attributes": "<ul><li>zur Impedanzanpassung zwischen einer alten Antenne und modernem Autoradio</li><li>ermöglicht die Kombination von alten Autos mit neueren Radios</li><li>garantiert eine optimale Signalübertragung des Empfangs</li><li>minimiert Verluste oder Reflexionen, bei uneingestimmten Impedanzen</li><li>einfach in der Handhabung, lässt sich leicht montieren<br/></li></ul>"
+}

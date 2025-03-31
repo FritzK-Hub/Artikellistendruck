@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Premium 2in1 Möbellack auf Wasserbasis in Weiß, glänzend</li><li>für Neu- und Renovierungsanstriche im Innen- und Außenbereich</li><li>besitzt eine hohe Stoß-, Kratz- und Vergilbungsbeständigkeit</li><li>ist geruchsarm und sorgt für ein gutes Oberflächenfinish</li><li>laut DIN EN 71-3 Kinderspielzeug geeignet</li></ul>"
+}

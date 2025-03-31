@@ -1,0 +1,4 @@
+{
+    "uvp": 99.99,
+    "attributes": "<ul><li>Rundum-Ausleuchtung für optimale Sichtverhältnisse</li><li>hohe Helligkeit zum präzisen Arbeiten</li><li>integrierte Steckdose für zusätzlichen Komfort</li><li>robustes Design erlaubt vielseitigen Einsatz</li><li>variable Befestigungsmöglichkeiten bieten Flexibilität</li></ul>"
+}

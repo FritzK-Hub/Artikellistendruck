@@ -1,0 +1,4 @@
+{
+    "uvp": 14.5,
+    "attributes": "<ul><li>Gipskarton-Blockhobel mit auswechselbarem Blatt</li><li>Raspelkörper aus Aluminiumdruckguss</li><li>zur Bearbeitung von Gipskartonplatten</li><li>sehr gut geeignet für den Einsatz in und an Ecken</li></ul>"
+}

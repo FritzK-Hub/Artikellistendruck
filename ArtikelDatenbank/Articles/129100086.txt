@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Mageriten Busch in verschiedenen Farben</li><li>im robustem Blumentopf Ø 19 cm</li><li>ist eine pflegeleichte Zierpflanze</li><li>ideal für Kübel oder Blumenkästen geeignet</li><li>in Kombination für eine farbige Blütenpracht<br/></li></ul>"
+}

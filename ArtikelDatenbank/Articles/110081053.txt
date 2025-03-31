@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>dient zur Präsentierung und Transport von Kuchen oder Torten</li><li>passend für flache Schalen oder verschiedene Servierplatten</li><li>schützende Schicht zwischen der Torte und dem Boden</li><li>fängt überschüssige Tropfen oder Krümel auf, für eine saubere Arbeitsfläche</li><li>nach Gebrauch einfache Entsorgung, erspart lästigen Abwasch<br/></li></ul>"
+}

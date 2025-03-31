@@ -1,0 +1,4 @@
+{
+    "uvp": 419.0,
+    "attributes": "<ul><li>Güde® GD 30 TI Ölheizgebläse mit integriertem Thermostat</li><li>ideal zum Heizen von gut belüfteten Räumen</li><li>auch zum Trocknen im Bauwesen, Landwirtschaft oder Lagerräumen geeignet</li><li>automatische elektronische Zündung bei Absenkung der Umgebungstemperatur</li><li>mit Edelstahlbrenner und leichtgängigem Fahrwerk<br/></li></ul>"
+}

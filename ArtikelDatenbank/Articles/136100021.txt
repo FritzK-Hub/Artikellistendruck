@@ -1,0 +1,4 @@
+{
+    "uvp": 33.5,
+    "attributes": "<ul><li>hochwertige Qualität von KNIPEX</li><li>speziell für das Lösen von Seegeringen</li><li>gerade Zangenausführung</li><li>nach DIN ISO Standard gefertigt</li><li>besonders einfache Handhabung <br/></li></ul>"
+}

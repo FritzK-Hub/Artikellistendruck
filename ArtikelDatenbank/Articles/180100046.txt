@@ -1,0 +1,4 @@
+{
+    "uvp": 14.99,
+    "attributes": "<ul><li>für Turbo-, Benzin- und Dieselmotoren</li><li>auf Basis von HC-Syntheseölen</li><li>für den ganzjährigen Einsatz geeignet</li><li>senkt Kraftstoffverbrauch und reduziert die Schadstoffemissionen</li><li>leichter Motorlauf und optimale Motorleistung<br/><br/></li></ul>"
+}

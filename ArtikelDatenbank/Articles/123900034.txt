@@ -1,0 +1,4 @@
+{
+    "uvp": 219.95,
+    "attributes": "<ul><li>praktisches Hochbeet aus anthrazitem Kunststoff</li><li>bestens für Gemüse, Blumen und Kräuter geeignet</li><li>einfacher und schneller Auf- wie Abbau dank Stecksystem</li><li>mit zusätzlichem Stauraum für Gartenutensilien</li><li>Gartenarbeit ohne Rückenschmerzen<br/></li></ul>"
+}

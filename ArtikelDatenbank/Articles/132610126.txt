@@ -1,0 +1,4 @@
+{
+    "uvp": 169.95,
+    "attributes": "<ul><li>kabelloses Mähen erlaubt maximale Bewegungsfreiheit</li><li>kompakte Bauweise für enge Gartenbereiche</li><li>bürstenloser Motor bietet langlebige Leistung</li><li>zentrale Höhenverstellung schafft perfekte Rasenlänge</li><li>platzsparende Lagerung durch klappbarem Griff</li></ul>"
+}

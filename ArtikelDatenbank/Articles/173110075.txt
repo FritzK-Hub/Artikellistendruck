@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>LED-Lampe birnenförmig mit 11,5 W und E27 Sockel</li><li>hohe Farbwiedergabe, dimmbar<br/></li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe</li></ul><p></p>"
+}

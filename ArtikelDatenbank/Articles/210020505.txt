@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>hochwertige Schlagfalle aus Metall</li><li>klassiche Falle mit Wippe</li><li>extra starke Klemmvorrichtung</li><li>schnelles und effektives fangen von Nagetieren</li><li>ohne Gebrauch von Rattengift einsetzbar</li></ul>"
+}

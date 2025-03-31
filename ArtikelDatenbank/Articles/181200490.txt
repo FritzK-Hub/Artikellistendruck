@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Saatgut Stabtomate Tamina für ca. 80 Pflanzen</li><li>ist eine frühreifende Treib- und Freilandsorte</li><li>mit mittelgroßen, runden ziegelroten Früchten</li><li>besonders platzfest mit aromatischem Geschmack</li><li>verfügt über eine Probefeldgetestete Qualität<br/><br/></li></ul>"
+}

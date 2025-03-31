@@ -1,0 +1,4 @@
+{
+    "uvp": 2.19,
+    "attributes": "<ul><li>2 Stück Ketten-Notglieder im Set</li><li>zur sicheren Abhängung von Ketten, Lochbändern usw.</li><li>rostfrei, aus verzinktem Stahl</li><li>bis max. 70 kg belastbar</li><li>Öffnung max. 8 mm</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>CEE Wandsteckdose 5-polig 32 A mit 400 V</li><li>aus schlagfestem Polyamid gefertigt</li><li>eine praktische Kraftstromdose für Industrie oder Handwerk</li><li>besitzt eine Leitungseinführung auf der Ober- und Rückseite</li><li>der Deckel schützt vor Spritzwasser<br/></li></ul>"
+}

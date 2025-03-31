@@ -1,0 +1,4 @@
+{
+    "uvp": 28.5,
+    "attributes": "<ul><li>präzise Messungen</li><li>vielseitiger Einsatzbereich</li><li>hochwertige Verarbeitung</li><li>praktische Aufbewahrung</li><li>einfache Handhabung</li></ul>"
+}

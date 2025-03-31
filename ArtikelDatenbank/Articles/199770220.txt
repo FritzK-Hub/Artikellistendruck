@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li> Stahlnägel für Beton, Mauerwerk oder Hartholz </li><li> aus gebläutem Stahl </li><li> sehr robust und zäh </li><li> können mühelos in das Material eingeschlagen werden </li><li> sorgen für optimale Verbindungen </li></ul><p></p>"
+}

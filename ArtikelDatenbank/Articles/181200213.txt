@@ -1,0 +1,4 @@
+{
+    "uvp": 1.49,
+    "attributes": "<ul><li>Saatgut Ostergras, für Schalen oder Gefäße</li><li>Samen bilden eine intensive, grüne Rasendecke</li><li>als Tierfutter für Vögel oder Kleinkaninchen</li><li>vielseitig einsetzbare Osterdekoration</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
+}

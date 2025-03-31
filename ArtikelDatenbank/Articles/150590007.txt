@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>24 Geschenkklammern im Set</li><li>individuell einsetzbar</li><li>für Glückwunschkarten oder zur Befestigung von Fotos</li><li>aus naturbelassenem Holz</li><li>wiederverwendbare Mini-Holzklammern</li></ul>"
+}

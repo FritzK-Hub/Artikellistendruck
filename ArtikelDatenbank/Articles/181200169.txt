@@ -1,0 +1,4 @@
+{
+    "uvp": 1.29,
+    "attributes": "<ul><li>Saatgut Cheiranthus Mischung für ca. 150 Pflanzen</li><li>mit besonders wohlriechenden Blüten</li><li>ideal für Beete, Rabatten oder Balkonkästen</li><li>in Kombination für farbige Blütenpracht</li><li>verfügt über eine Probefeldgetestete Qualität</li></ul>"
+}

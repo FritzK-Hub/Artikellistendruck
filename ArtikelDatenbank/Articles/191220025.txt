@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Grillbesteck-Set 3-teilig von Jamie Oliver</li><li>aus rostfreiem Edelstahl gefertigt</li><li>Grillgabel und Grillzange für die Zubereitung und das Servieren des Grillgutes</li><li>Grillbürste erleichtert die spätere Reinigung des Grills</li><li>bei Nichtgebrauch platzsparend aufhängbar<br/></li></ul>"
+}

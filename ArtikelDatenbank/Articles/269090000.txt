@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>einfaches Aufhängen</li><li>vielseitige Optionen</li><li>komplettes Zubehör</li><li>präzise Ausrichtung</li><li>professionelle Ergebnisse<br/></li></ul>"
+}

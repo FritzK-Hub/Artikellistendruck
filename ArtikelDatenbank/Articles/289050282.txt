@@ -1,0 +1,4 @@
+{
+    "uvp": 6.03,
+    "attributes": "<ul><li>Winkel-Abschluss-Profil 100 x 2,6 x 1,3 cm in messing</li><li>aus eloxiertem Aluminium gefertigt</li><li>sauberer, dauerhafter und trittfester Abschluss</li><li>unsaubere Schnittkanten werden verdeckt</li><li>Stolperfallen werden vermieden</li></ul>"
+}

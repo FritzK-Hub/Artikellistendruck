@@ -1,0 +1,4 @@
+{
+    "uvp": 29.9,
+    "attributes": "<ul><li>Profi Schlauchklemmenzange in Werkstatt - Qualität</li><li>schwere Ausführung</li><li>selbstklemmend</li><li>Spannbacken aus hochwertigem Chrom-Molybdän-Stahl gefertigt</li><li>Ratschen-Klemm-Mechanismus<br/></li></ul>"
+}

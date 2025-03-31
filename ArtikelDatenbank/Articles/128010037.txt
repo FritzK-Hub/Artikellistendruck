@@ -1,0 +1,4 @@
+{
+    "uvp": 399.9,
+    "attributes": "<ul><li>perfekt für kleine Außenbereiche geeignet</li><li>langlebig durch eloxierte Aluminiumprofile</li><li>einfache Montage dank Einschubtechnik</li><li>vielseitiger Zugang durch Doppeltürsystem</li><li>optimale Belüftung mit Dachfenster</li></ul>"
+}

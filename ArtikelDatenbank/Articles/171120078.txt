@@ -1,0 +1,4 @@
+{
+    "uvp": 3.76,
+    "attributes": "<ul><li>6 Ersatz-Speerbohrer für den klassischen Drillbohrer</li><li>vielseitig im Modellbau oder für alle Laubsägearbeiten einsetzbar</li><li>eignet sich effektiv zum Vorbohren und Bohren kleiner Löcher</li><li>ermöglicht es inmitten der Holzplatte z.B. mit einer Laubsäge zu beginnen</li><li>unterschiedliche Aufsätze für verschiedene Weichholz- oder Kunststoffprojekte</li></ul>"
+}

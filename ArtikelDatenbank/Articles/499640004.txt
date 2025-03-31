@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "<ul><li>Spanplattenschrauben mit Senkkopf und Kreuzschlitz Z-Pozidrive-Antrieb</li><li>aus rostfreiem Edelstahl mit Vollgewinde gefertigt</li><li>zur Anwendung in Holz mit Standard-Holz-Spitze</li><li>passend für Bohrergröße 2,5 mm und PZ1-Profil</li><li>mit einem verstärkten Kopf und Gleitbeschichtung versehen</li></ul>"
+}

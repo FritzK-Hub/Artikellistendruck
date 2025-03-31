@@ -1,0 +1,4 @@
+{
+    "uvp": 3.79,
+    "attributes": "<ul><li>rechteckige Pappteller</li><li>lebensmittelecht und kompostierbar</li><li>ideale Einwegteller für die nächste Grillparty</li><li>praktisch und hygienisch</li><li>mit einer Grammatur von 250g/m²</li></ul>"
+}

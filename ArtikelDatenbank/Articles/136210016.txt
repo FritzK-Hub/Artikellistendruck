@@ -1,0 +1,4 @@
+{
+    "uvp": 11.99,
+    "attributes": "<ul><li>alle Schraubendreher mit magnetischer Spitze<br/></li><li>Schrauben können sehr leicht aufgesetzt/eingeschraubt werden</li><li>VDE-geprüfte Schraubendreher im Set</li><li>sicher - bis 1000 Volt isoliert</li><li>mit gummiertem Schaft, inklusive Phasenprüfer<br/></li></ul>"
+}

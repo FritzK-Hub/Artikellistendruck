@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Pfostenträger in L-Form</li><li>aus feuerverzinktem Stahl</li><li>mit Betonanker aus Riffelstahl</li><li>für Holzzäune und leichte Holzkonstruktionen</li><li>schnelle Montage durch einbetonieren</li></ul>"
+}

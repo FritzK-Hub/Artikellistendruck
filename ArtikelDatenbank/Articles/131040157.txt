@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>doppelseitiger Schuhpflegeschwamm</li><li>in drehbarer Schuhglanzdose</li><li>für helle und dunkle Schuhe</li><li>geeignet für Glattleder- und Synthetikoberflächen</li><li>reicht für ca. 150 Anwendungen<br/></li></ul><p></p>"
+}

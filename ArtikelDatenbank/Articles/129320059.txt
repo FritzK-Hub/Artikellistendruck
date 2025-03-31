@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>einzigartige Optik</li><li>natürliche Süße</li><li>zarte Konsistenz</li><li>doppelter Genuss</li><li>einfach und gesund<br/></li></ul>"
+}

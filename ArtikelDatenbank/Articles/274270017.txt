@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Kombizange von GERMANIA®</li><li>zum Trennen von Draht, Nägeln und Kabeln</li><li>flache Greifbacken zum Festhalten von Objekten</li><li>Brennerloch zum Greifen von runden Teilen</li><li>schlanker und ergonomischer 2K-Griff</li></ul>"
+}

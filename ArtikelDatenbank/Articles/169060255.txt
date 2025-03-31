@@ -1,0 +1,4 @@
+{
+    "uvp": 18.99,
+    "attributes": "<ul><li>Pattex® Power permanent Spray für den Innenbereich</li><li>hohe Klebkraft und ein regulierbares Sprühbild</li><li>für saubere Anwendungen ohne Werkzeug</li><li>hohe Anfangshaftung und alterungsbeständig</li><li>lösemittelfreier Klebstoff</li></ul>"
+}

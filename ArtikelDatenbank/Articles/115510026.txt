@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Zimmertürbeschlag mit zwei handlichen Drückern</li><li>aus leichtem Aluminium in Silber gefertigt</li><li>passend für Zimmertüren mit 40 mm Türstärke</li><li>mit BB-Lochungen für einfaches Bohren versehen</li><li>inklusive Befestigungsmaterial zur schnellen Montage<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 2.79,
+    "attributes": "<ul><li>Verschlussclips aus Kunststoff</li><li>wiederverwendbar, gefrierfest</li><li>mit feuchtem Tuch abwischbar</li><li>zwei verschiedene Längen</li><li>extra stabil</li></ul>"
+}

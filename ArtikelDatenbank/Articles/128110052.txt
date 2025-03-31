@@ -1,0 +1,4 @@
+{
+    "uvp": 118.95,
+    "attributes": "<ul><li>Gartensessel im Jugendstil-Design</li><li>zaubert ein nostalgisches, romantisches Flair in den Garten</li><li>als Dekoobjekt sowie zum Sitzen geeignet</li><li>Gartenstuhl mit Armlehnen</li><li>aus wetterfestem Aluguss</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 0,
+    "attributes": "                    mit Schraubklemmen,                                              /nNennspannung: 240V~,                                                       /nAnschlußleistung: 7 - 110 W/VA,    bzw. LED 3-60W                                                                  /nPhasenanschnittdimmer ( R, L ), für 230V  dimmbare LED-u. Energiesparlampen, Glühlampen und HV-Halogenlampen u. NV-Halogenlampen m. magnetischem Trafo,/nmit Druck-Wechselschalter, /nAchtung: Wechselschaltung mit 2 Dimmern nicht möglich!!/ngeeignet für:/nalle Unitec-Schalterserien/nsowie die Fachandels - Schalterserien /nBusch - Jäger / Gira / Jung,/n(nicht kompatibel für Dimmerabdeckungen mit Glimmlampe)\"\"/n                "
+}

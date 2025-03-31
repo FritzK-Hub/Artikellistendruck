@@ -1,0 +1,4 @@
+{
+    "uvp": 4.79,
+    "attributes": "<ul><li>hilfreiches Tool zum präzisen Ankörnen von Metalloberflächen<br/></li><li>kleine, handliche Ausführung</li><li>gerändelter Schaft für einen sicheren Griff</li><li>quadratische Schlagfläche, die eine Zangenfixierung erlaubt<br/></li><li>langlebiges, robustes Material</li></ul>"
+}

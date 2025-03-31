@@ -1,0 +1,4 @@
+{
+    "uvp": 24.95,
+    "attributes": "<ul><li>Handtuchhalter mit 3 Haltestangen</li><li>aus schwarzem Metall gefertigt</li><li>sorgt für mehr Ordnung im Bad</li><li>Stangen sind parallel verlaufenden, stufenförmig angeordnet</li><li>auch als Garderobenständer einsetzbar<br/></li></ul>"
+}

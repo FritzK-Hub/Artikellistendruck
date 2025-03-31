@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Audiokabel mit zwei Klinkensteckern 3,5 mm</li><li>verfügt über ein 75 cm langes, schwarzes Kabel</li><li>geschirmte Leitung sorgt für optimale Übertragung</li><li>zum Verbinden von Audiogeräten mit Tonausgabegeräten</li><li>für die Bereichen HiFi, TV &amp; Heimkino geeignet</li></ul>"
+}

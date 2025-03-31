@@ -1,0 +1,4 @@
+{
+    "uvp": 29.9,
+    "attributes": "<ul><li>gefahrlose Temperaturmessung von -50 °C bis +500 °C</li><li>vielseitig in Freizeit und Beruf einsetzbar</li><li>präzise Messung durch integrierten Laserpointer</li><li>ermöglicht einfache Feststellung von Isolationsproblemen</li><li>farbliche und akustische Abweichungsanzeige von Temperaturen</li></ul>"
+}

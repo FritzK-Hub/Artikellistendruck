@@ -1,0 +1,4 @@
+{
+    "uvp": 6.49,
+    "attributes": "<ul> <li>Leucht- und Brennmittel</li> <li>geeignet als Lampenbrennstoff im Freien sowie als Säuberungsmittel und Putzöl</li> <li>geeignet für Katalytöfen</li> <li>Oberflächen werden nicht angegriffen</li> <li>gute Lösekraft bei Öle und Fette</li></ul>"
+}

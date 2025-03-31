@@ -1,0 +1,4 @@
+{
+    "uvp": 22.95,
+    "attributes": "<ul><li>Rasentrimmer GRT 251 P mit Zusatzhandgriff</li><li>2 Fadenschneidsystem mit Nylonfaden und Tipp-Nachstellautomatik</li><li>Freischneider mit 22 cm Schnittbreite und Schutzabdeckung</li><li>Schutzabdeckung mit Fadenmesser, Kabelzugentlastung am Griff</li><li>inklusive zusätzlicher Fadenspule<br/></li></ul>"
+}

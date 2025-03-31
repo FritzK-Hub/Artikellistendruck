@@ -1,0 +1,4 @@
+{
+    "uvp": 2.99,
+    "attributes": "<ul><li>hochwertiger Koaxial-Adapter</li><li>passend für vorgefertigte Koaxialkabel</li><li>zum Aufstecken auf Koaxial-Kabel</li><li>für die Verbindung/Verlängerung von Antennenkabel</li><li>leichte Handhabung<br/></li></ul>"
+}

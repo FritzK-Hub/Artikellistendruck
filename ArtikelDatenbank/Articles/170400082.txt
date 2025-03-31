@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>batteriebetriebene LED-Echtwachskerze Rustic in Bordeaux</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>mit Flackereffekt und Timerfunktion versehen</li><li>zur Bestückung von Weihnachtskränzen geeignet</li><li>vielseitig einsetzbare Tisch- oder Weihnachtsdekorationen<br/></li></ul>"
+}

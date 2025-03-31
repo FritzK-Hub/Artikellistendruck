@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>10 Stück KFZ-Sicherungen sortiert</li><li>für Fahrzeuge mit Flachstecksicherungen</li><li>alle gängigen Flach Stecksicherungen</li><li>farbig sortiert</li><li>ideal als Reserve im Auto</li></ul>"
+}

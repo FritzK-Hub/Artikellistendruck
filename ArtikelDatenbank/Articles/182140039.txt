@@ -1,0 +1,4 @@
+{
+    "uvp": 4.99,
+    "attributes": "<ul><li>Felgen-Klebeband 160 mm</li><li>für alle Felgengrößen geeignet</li><li>ausreichend für 1 Felge</li><li>selbstklebend</li><li>Klebeband für die Montage von Schlauchreifen</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Kerzenhalter-Set 2 Stück ringförmig aus Metall</li><li>für die verschiedensten Tafel- oder Spitzkerzen</li><li>zur Gestaltung in Wohnräumen oder auf Fensterbänken</li><li>robuster Standfuß sorgt für nötigen Halt</li><li>vielseitige Dekoration oder als Geschenkidee geeignet</li></ul>"
+}

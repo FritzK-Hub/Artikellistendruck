@@ -1,0 +1,4 @@
+{
+    "uvp": 19.95,
+    "attributes": "<ul><li>präzises Schneiden</li><li>vielseitiger Griff</li><li>robuste Konstruktion</li><li>langlebig und witterungbeständig</li><li>integrierter Sicherungshebel</li></ul>"
+}

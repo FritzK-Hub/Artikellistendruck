@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatgut Zucchini Coucourzelle für ca. 8 Pflanzen</li><li>mit runden, zylindrischen Früchten versehen</li><li>auffällig durch cremeweiß-hellgrün gestreifter Schale</li><li>gedeiht auch bei nasskalter Witterung gut</li><li>gleichmäßiger Fruchtansatz bei regelmäßiger Ernte<br/></li></ul>"
+}

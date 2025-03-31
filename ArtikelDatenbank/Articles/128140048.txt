@@ -1,0 +1,4 @@
+{
+    "uvp": 69.95,
+    "attributes": "<ul><li>großes quadratisches Pavillon aus Polyester</li><li>besonders praktisch und geräumig</li><li>leicht zu transportieren, dank geringen Gewichts</li><li>schneller und einfacher Aufbau</li><li>Lieferung inklusive Heringe und Abspannleinen<br/><br/></li></ul>"
+}

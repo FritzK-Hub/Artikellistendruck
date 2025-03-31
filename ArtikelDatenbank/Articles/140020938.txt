@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>chenillartiger, voluminöser Microfaser-Faden</li><li>weiche Hautfreundlichkeit</li><li>ansprechende und vielseitige Option</li><li>effizienter Materialgebrauch</li><li>pflegeleicht und langlebig<br/></li></ul>"
+}

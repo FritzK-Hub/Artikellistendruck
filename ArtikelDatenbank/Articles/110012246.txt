@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>Eckregulierventil mit Schubrosette</li><li>Pressmessing verchromt</li><li>mit selbstdichtendem Anschlussgewinde</li><li>Quetschverschraubung mit Längenausgleich<br/></li></ul>"
+}

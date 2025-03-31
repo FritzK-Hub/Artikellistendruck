@@ -1,0 +1,4 @@
+{
+    "uvp": 7.99,
+    "attributes": "<ul><li>Latex-Bindemittel für innen</li><li>verstärkt die Klebkraft von Zell-Leim und Tapetenkleister</li><li>erhöht die Waschbeständigkeit und Naßfestigkeit</li><li>geeignet als Überzug für Tapeten</li><li>ökologisch empfehlenswert</li></ul>"
+}

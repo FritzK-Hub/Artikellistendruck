@@ -1,0 +1,4 @@
+{
+    "uvp": 9.95,
+    "attributes": "<ul><li>leistungsstarke Schimmelbekämpfung</li><li>langanhaltender Schutz</li><li>sofort sichtbarer Effekt</li><li>hohe Wirksamkeit</li><li>vielseitige Anwendung<br/></li></ul>"
+}

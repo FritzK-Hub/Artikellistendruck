@@ -1,0 +1,4 @@
+{
+    "uvp": 8.45,
+    "attributes": "<ul><li>hochwertiger Spezialverdünner</li><li>hervorragenden Löseeigenschaften</li><li>mit entfettenden Eigenschaften</li><li>reinigt gründlich Werkzeuge</li><li>vielseitig einsetzbar<br/></li></ul>"
+}

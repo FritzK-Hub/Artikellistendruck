@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>Saatgut Möhren Nantaise, 2 Meter Saatband</li><li>mittelfrühe, unempfindliche Sorte, süß</li><li>robust gegen Krankheiten und Schädlinge</li><li>zylindrische Wurzeln, orangerote Farbe</li><li>ideal für den Frischverzehr<br/></li></ul>"
+}

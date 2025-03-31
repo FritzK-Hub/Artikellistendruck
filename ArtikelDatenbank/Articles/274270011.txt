@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Größe: 200 mm</li><li>gerade</li><li>zwei komponenten Griff</li><li>Material: CRV (Chrom Vanadium) Stahl, vernickelt</li><li>weiteres <em><strong>GERMANIA®</strong> </em>Werkzeug finden Sie in unserem Shop!</li></ul>"
+}

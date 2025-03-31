@@ -1,0 +1,4 @@
+{
+    "uvp": 8.95,
+    "attributes": "<ul><li>lösungsmittelfrei und dispersionsmodifiziert</li><li>schnelles Aushärten für schnelle und zuverlässige Verbindungen<br/></li><li>hohe Anfangsfestigkeit für einfache Verarbeitung<br/></li><li>einfache Handhabung dank geschmeidiger Konsistenz<br/></li><li>verschiebbar nach dem Auftragen, außergewöhnlich starke Klebkraft<br/></li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 12.99,
+    "attributes": "<ul><li>für präzise Schnitte in Hobbies, Kunstprojekten und im Alltag</li><li>26 verschiedene Klingen für jede Art von Schneidebedarf</li><li>Schnellspannfutter ermöglicht blitzschnellen Wechsel der Klingen</li><li>Präzisionshalter mit Soft-Griff und drehbarer Endkappe ausgestattet</li><li>mitgelieferter Abziehstein für müheloses Schärfen<br/></li></ul>"
+}

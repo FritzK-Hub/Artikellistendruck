@@ -1,0 +1,4 @@
+{
+    "uvp": 59.95,
+    "attributes": "<ul><li>LED-Flutlichtstrahler mit robustem Teleskopstativ</li><li>aus stoßfestem Aluminium-Druckgussgehäuse mit Sicherheitsglas</li><li>bietet mit seinen 35 W eine großflächige Beleuchtung</li><li>vielseitig in der Werkstatt, Garage oder im Garten einsetzbar</li><li>auf Baustellen oder Außenbereich als Arbeitsleuchte nutzbar<br/></li></ul>"
+}

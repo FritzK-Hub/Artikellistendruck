@@ -1,0 +1,4 @@
+{
+    "uvp": 6.03,
+    "attributes": "<ul><li>Übergangsprofil gewölbt aus eloxiertem Aluminium</li><li>zum Verbinden zweier gleich- oder verschiedenartiger Bodenbeläge</li><li>unsaubere Schnittkanten werden verdeckt</li><li>auf Stoß verlegte Übergänge werden dauerhaft geschützt</li><li>einfache Montage durch spezielle superhaftende Klebestreifen</li></ul>"
+}

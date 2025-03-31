@@ -1,0 +1,4 @@
+{
+    "uvp": 3.45,
+    "attributes": "<ul><li>hochwertiges Pulver in praktischer 5 g-Verpackung</li><li>für die Veredelung von Holz</li><li>einfache und schnelle Anwendung</li><li>schöner, kräftiger Farbton</li><li>kompatibel mit lösemittelhaltigen Produkten<br/><br/></li></ul>"
+}

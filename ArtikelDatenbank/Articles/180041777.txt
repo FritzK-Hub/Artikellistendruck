@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>hochwertiges Material</li><li>stabiler Holzgriff</li><li>effektive Reinigung</li><li>kompakt &amp; Leicht</li><li>platzsparend aufhängbar<br/></li></ul>"
+}

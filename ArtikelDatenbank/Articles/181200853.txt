@@ -1,0 +1,4 @@
+{
+    "uvp": 2.49,
+    "attributes": "<ul><li>2 Meter Saatband Schnittsalat-Mischung Fitness-Mix</li><li>eine Mischung aus Blatt- und Bataviasalaten</li><li>mit schmackhaften, vitaminreichen Blättern</li><li>alle Salatsorten sind gleichzeitig erntefähig</li><li>ideal für Salate oder dem Frischverzehr geeignet</li></ul>"
+}

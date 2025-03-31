@@ -1,0 +1,4 @@
+{
+    "uvp": 2.29,
+    "attributes": "<ul><li>Saatgut Gelbsenf<em>, </em>einjährig</li><li>wesentlicher Beitrag zur Bodengesundheit</li><li>bildet eine dichte und bodendeckende Blattmasse</li><li>Probefeldgetestete Qualität</li><li>besonders empfehlenswert für schwere, verdichtete Böden</li></ul>"
+}

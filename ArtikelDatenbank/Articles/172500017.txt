@@ -1,0 +1,4 @@
+{
+    "uvp": 9.99,
+    "attributes": "<ul><li>Breitband SAT-Antennenverteiler mit voll geschirmten Leitungen</li><li>optimale Reduzierung von elektromagnetischen Störeinflüssen</li><li>Rückkanaltauglicher Anschluss für interaktive Anwendungen</li><li>splittet das einkommende Breitband-Signal auf zwei Kabel auf</li><li>Verteiler für GA-/BK-Anlagen verwendbar</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 6.99,
+    "attributes": "<ul><li>Gartenhandschuhe Premium Blue Junior aus Baumwolle</li><li>für Kinder von 4 bis 6 Jahren geeignet</li><li>schützen die Hände bei der Gartenarbeit</li><li>Synthetikleder an Handinnenflächen und Fingerspitzen</li><li>Stulpe verhindert Verletzungen an den Handgelenken<br/></li></ul>"
+}

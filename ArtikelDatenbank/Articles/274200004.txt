@@ -1,0 +1,4 @@
+{
+    "uvp": 0.49,
+    "attributes": "<ul><li>Leimzwinge aus Metall</li><li>zum Halten, Klemen und Verbinden von Werkstoffen</li><li>starke Feder, bewegliche Backen</li><li>bis 20mm Klemmbereich</li><li>idealer Helfer für den Bastler, Heimwerker oder Profi</li></ul>"
+}

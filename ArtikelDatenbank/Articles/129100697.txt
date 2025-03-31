@@ -1,0 +1,4 @@
+{
+    "uvp": 1.99,
+    "attributes": "<ul><li>Gemüsesetzlinge 6er Pack in verschiedenen Sorten</li><li>versorge dich selbst mit deinem eigenen Gemüse</li><li>habe Freude daran, zu sehen, wie dein Gemüse heranwächst</li><li>ernte Gemüse, die frei von chemischen Düngern und Pflanzenschutzmittel sind</li><li>bereits im Blumentopf vorgezogen<br/></li></ul>"
+}

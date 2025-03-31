@@ -1,0 +1,4 @@
+{
+    "uvp": 10.99,
+    "attributes": "<ul><li>werkzeugfreie Montage für mühelose Anwendung</li><li>vielseitige Kompatibilität mit gängigen Handys</li><li>Displayzugriff ohne Herausnehmen des Geräts</li><li>flexible Ausrichtung für optimale Sicht</li><li>Schutz vor Wasser und Schmutz</li></ul>"
+}

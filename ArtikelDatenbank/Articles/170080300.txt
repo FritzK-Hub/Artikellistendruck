@@ -1,0 +1,4 @@
+{
+    "uvp": 27.95,
+    "attributes": "<ul><li>zum Schleifen und Polieren von Oberflächen</li><li>im KFZ-Bereich und anderen Anwendungen</li><li>125 mm Stützteller, M14 mit Klettauflage</li><li>beinhaltet Schaumstoffpad, Wollpad</li><li>inklusive Sandpapierpads (Aluminium-Oxid)</li></ul>"
+}

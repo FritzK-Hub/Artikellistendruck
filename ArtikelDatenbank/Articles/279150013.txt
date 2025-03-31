@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>Spezialpinzetten im 4er Set</li><li>rostfreie Qualität</li><li>für Haus und Hobby</li><li>auch als Feinmechaniker-Werkzeug geeignet</li><li>gerade und gebogene Form</li></ul>"
+}

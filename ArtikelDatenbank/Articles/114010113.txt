@@ -1,0 +1,4 @@
+{
+    "uvp": 12.95,
+    "attributes": "<ul><li>selbstklebende Dekorationsfolie für sämtliche Oberflächen</li><li>verleiht den Gegenständen neuen Look</li><li>für verschiedene Anwendungen einsetzbar</li><li>lässt sich einfach aufkleben und ist abwaschbar</li><li>kann ohne Kleberückstände entfernt werden<br/></li></ul>"
+}

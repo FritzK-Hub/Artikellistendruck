@@ -1,0 +1,4 @@
+{
+    "uvp": 9.45,
+    "attributes": "<ul><li>gebrauchsfertiger Retuschier-Stift in Weiß</li><li>zum präzisen und mühelosen Lackieren</li><li>für den Innenbereich geeignet</li><li>zum deckenden Einfärben von Kratzern<br/></li><li>zum Nachziehen von feinen Holzmaserungen<br/></li></ul>"
+}

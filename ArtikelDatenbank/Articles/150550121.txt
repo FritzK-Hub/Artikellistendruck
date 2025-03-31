@@ -1,0 +1,4 @@
+{
+    "uvp": 8.99,
+    "attributes": "<ul><li>Lacktischdecke im klassischen, silbernen Design</li><li>ist besonders pflegeleicht und abwaschbar</li><li>schafft auf jeder Veranstaltung eine angenehme Atmosphäre</li><li>schonend zur Tischplatte dank Vliesbeschichtung auf der Rückseite</li><li>inklusive Haken und Polybeutel<br/></li></ul>"
+}

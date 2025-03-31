@@ -1,0 +1,4 @@
+{
+    "uvp": 399.95,
+    "attributes": "<ul><li>einfaches Manövrieren durch doppelt kugelgelagerte Räder mit Antrieb</li><li>integrierte Reinigungsfunktion mit Wasseranschluss<br/></li><li>große Schnittbreite für schnellen Arbeitsfortschritt</li><li>leistungsstarker 4-Takt-Benzinmotor mit 173 cm³ <br/></li><li>zentrale Schnitthöhenverstellung, 7-fach</li></ul>"
+}

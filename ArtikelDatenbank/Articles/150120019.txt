@@ -1,0 +1,4 @@
+{
+    "uvp": 3.99,
+    "attributes": "<ul><li>2 Stück Tüschloss-Enteiser im Set</li><li>sekundenschnelles Auftauen von eingefrorenen Tür- und Tankschlössern</li><li>wirksam bis -50°C, verhindert ein erneutes Einfrieren</li><li>sparsam im Gebrauch mit Langzeitwirkung</li><li>kann das ganze Jahr verwendet werden</li></ul>"
+}

@@ -1,0 +1,4 @@
+{
+    "uvp": 5.99,
+    "attributes": "<ul><li>ohne Beimischung von Härter einsetzbar</li><li>glättet Kratzer und leichte Unebenheiten</li><li>ist für die Nachbehandlung von vorgespachtelten Schadstellen geeignet</li><li>beseitigt mühelos Schleifspuren und Poren</li><li>ist einfach zu verarbeiten und zu schleifen</li></ul>"
+}

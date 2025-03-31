@@ -1,0 +1,4 @@
+{
+    "uvp": 3.49,
+    "attributes": "<ul><li>flacher Kopf, 2 Löcher für sichere Verbindung</li><li>Holzgewinde für müheloses Eindrehen in Holz</li><li>langlebige Qualität für Dauerhaftigkeit</li><li>verzinkter Stahl für Zuverlässigkeit</li><li>für Regal- und Möbelbau<br/></li></ul>"
+}
