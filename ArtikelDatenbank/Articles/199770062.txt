@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>14 Bohrschrauben im Set</li><li>mit PH Kreuzschlitz Antrieb</li><li>aus verzinktem Stahl</li><li>nach DIN 7504 P</li><li>Montage ohne Vorbohren<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>für Kabel-TV oder Antennenempfang</li><li>1 x F-Stecker und 1 x Kupplung</li><li>fertig konfektioniertes Satellitenkabel</li><li>hochwertiges Kabel</li><li>geeignet für digital und analog TV<br/><br/></li></ul>"
-}

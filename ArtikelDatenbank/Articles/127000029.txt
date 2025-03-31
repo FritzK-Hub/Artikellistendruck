@@ -1,4 +1,0 @@
-{
-    "uvp": 18.99,
-    "attributes": "<ul><li>antihaftbeschichtete Oberklinge</li><li>ergonomische Griffform</li><li>einstellbarer Schnittdurchmesser</li><li>eingearbeitete Saftrille, mit Drahtschneider</li><li>Einhand Sicherheitsverschluss</li></ul>"
-}

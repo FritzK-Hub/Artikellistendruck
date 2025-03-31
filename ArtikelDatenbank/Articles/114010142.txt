@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>selbstklebende Dekorationsfolie Carre-Muster</li><li>für verschiedene Anwendungen einsetzbar</li><li>schützt vor neugierigen Blicken</li><li>lässt sich einfach aufkleben und ist abwaschbar</li><li>kann ohne Kleberückstände entfernt werden<br/></li></ul>"
-}

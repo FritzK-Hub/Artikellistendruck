@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>schnelles Auftauen von Scheiben, Scheinwerfern oder Spiegeln</li><li>Aeorosolspray, basierend auf nachwachsenden Rohstoffen</li><li>bietet effektiven Schutz vor erneutem Beschlagen</li><li>greift Kunststoffe, Glas, Gummi oder eloxierte Teile nicht an</li><li>schnell und einfach in der Handhabung, einfach zu bedienen<br/></li></ul>"
-}

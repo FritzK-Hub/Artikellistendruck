@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>handlich kompakt durch 15 cm Größe</li><li>transparent für klare Sicht und Genauigkeit </li><li>langlebig und stabil auch im dauerhaften Einsatz </li><li>Zentimetermarkierungen für präzise Messungen</li><li>vielseitig einsetzbar in Schule, Büro und Zuhause</li></ul><p></p>"
-}

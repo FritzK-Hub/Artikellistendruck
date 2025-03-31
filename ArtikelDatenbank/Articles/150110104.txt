@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>reinigt Autoscheiben und Glas auf schnelle und einfache Weise</li><li>entfernt effektiv und schnell Insekten-, Silikon- und Fettrückstände</li><li>beseitigt Schmier- sowie Nikotinfilm, wirkt schmutzabweisend und vorbeugend gegen Beschlag</li><li>reinigt streifen- und schlierenfrei und verhindert Blendeffekte</li><li>bis zu 6 Wochen schmutzabweisend</li></ul>"
-}

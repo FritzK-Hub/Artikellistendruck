@@ -1,4 +1,0 @@
-{
-    "uvp": 2076.0,
-    "attributes": "<ul><li>Gartenzaun TURIN aus Metall</li><li>sehr lange Lebensdauer durch Verzinkung und die hochwertige Pulverbeschichtung</li><li>besticht durch seine Schlichtheit und seine hohe Formstabilität</li><li>modernste Schweißtechnik garantiert höchste Qualität</li><li>leicht, edel und sehr vielseitig einsetzbar</li></ul><p></p>"
-}

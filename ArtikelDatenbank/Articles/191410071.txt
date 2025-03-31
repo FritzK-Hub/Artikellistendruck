@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>dekorative Giraffe aus strapazierfähigem PVC</li><li>Wasserfontäne kommt aus der Schnauze</li><li>einfacher Anschluss an einen Gartenschlauch</li><li>sorgt an heißen Tagen für erfrischende Abkühlung</li><li>regt die Fantasie eurer Kinder an<br/></li></ul>"
-}

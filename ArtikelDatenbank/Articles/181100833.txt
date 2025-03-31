@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Beerenobstbäume für den Hausgarten</li><li>Top AA-Qualität</li><li>anspruchslos und robust<br/></li><li>verschiedene Sorten</li><li>je 3 - 5 Triebe</li></ul>"
-}

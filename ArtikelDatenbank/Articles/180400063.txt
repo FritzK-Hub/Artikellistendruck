@@ -1,4 +1,0 @@
-{
-    "uvp": 113.95,
-    "attributes": "<ul><li>Drehmomentvervielfältiger-Set 1“ 10-teilig aus Chrom-Vanadium-Stahl</li><li>zum Lösen festsitzender Radmuttern an LKW, Bussen und Baufahrzeugen</li><li>verfügt über eine Kraftübertragung von 1:56</li><li>für Radmutter mit maximalem Drehmoment von 3200 Nm</li><li>inklusive 7 Steckschlüsseleinsätze, einer Verlängerung und Handwinde</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Wasserkanister 10 Liter aus Kunststoff</li><li>ideal für Camping oder Garten</li><li>vormontierter Wasserhahn</li><li>Einfüllöffnung mit Verschlusskappe und Fixierband</li><li>integrierter Tragegriff</li></ul>"
-}

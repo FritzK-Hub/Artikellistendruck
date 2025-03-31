@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>perfekte Passform, speziell für Gardena Hahnstücke</li><li>macht das Bewässerungssystem zu 100% dicht</li><li>hochwertige Materialien für eine langanhaltende Abdichtung</li><li>trägt dazu bei, Wasserverschwendung zu reduzieren</li><li>für Gewinde-Anschluss 1\" 33,3 mm geeignet</li></ul>"
-}

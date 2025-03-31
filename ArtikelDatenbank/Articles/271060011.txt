@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Flachmeißel aus Stahl</li><li>zur Verwendung mit dem Hammer</li><li>Handmeißel schwarz lackiert</li><li>zum Bearbeiten von empfindlichen Stellen</li><li>Handwerkzeug für Bauarbeiten am Mauerwerk</li></ul>"
-}

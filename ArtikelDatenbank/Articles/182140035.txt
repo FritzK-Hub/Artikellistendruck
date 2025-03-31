@@ -1,4 +1,0 @@
-{
-    "uvp": 2.89,
-    "attributes": "<ul><li>Vulkanisierlösung zum Verschluss von defekten Stellen</li><li>in praktischer Hartbox</li><li>für die schnelle Schlauchreparatur</li><li>handlich und praktisch</li><li>Vulkanisierflüssigkeit für Reparaturen</li></ul>"
-}

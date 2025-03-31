@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>präzises Anzeichnen von Bohrlöchern dank exakter Messgenauigkeit von 1 mm pro Meter</li><li>fünf Libellen und eine herausnehmbare Libelle mit Magnetstreifen für genaue Messung</li><li>verschiebbare Markierungshilfen und sechs Bohrlöcher erleichtert die Justierung der Bohrlöcher</li><li>besonders langlebig und robust, aus stabilem Aluminium gefertigt</li><li>vielseitig einsetzbar die Montagearbeiten an Wandflächen oder zur Installation von Steckdosen<br/></li></ul>"
-}

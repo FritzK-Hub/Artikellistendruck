@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>für die Montage von Rohren im Innenbereich</li><li>besonders langlebig, robust und hitzebeständig</li><li>großzügige Abdeckung des Rauchrohrs</li><li>für eine saubere und ordentliche Optik</li><li>einfach zu montieren<br/></li></ul>"
-}

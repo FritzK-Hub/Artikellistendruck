@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>hochwertiger, transparenter Kunstharzleim 225g </li><li>ideal für Zargen- und Korpusverleimung</li><li>für Montage-, Fugen- und Flächenverklebungen</li><li>zum Verlegen von Holzwerkstoffen oder HPL-Platten</li><li>mit kurzer Trocknungszeit von bis zu 5 Minuten</li></ul>"
-}

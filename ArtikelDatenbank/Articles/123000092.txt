@@ -1,4 +1,0 @@
-{
-    "uvp": 0.99,
-    "attributes": "<ul><li>dickwandiger Tonkinstab aus Bambus mit geradem Wuchs</li><li>eignet sich als Pflanzstab für lange Kletterpflanzen</li><li>vielseitg, zum Bauen von Rankgittern, Musikinstrumenten usw.</li><li>bietet einen zuverlässigen Schutz vor Fegeschäden durch Rehwild</li><li>sorgt bei Pflanzen für Halt, ohne in den Vordergrund zu rücken</li></ul>"
-}

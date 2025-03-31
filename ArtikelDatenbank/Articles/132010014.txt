@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Nagertrinkflasche 150 ml aus Kunststoff</li><li>sorgt für die Wasserversorgung der Nagetiere</li><li>transparente Flasche für eine schnelle Wasserstandskontrolle</li><li>mit Doppelkugeltechnik verhindert das Tropfen</li><li>inklusive Befestigungsdraht<br/></li></ul>"
-}

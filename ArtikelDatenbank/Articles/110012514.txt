@@ -1,4 +1,0 @@
-{
-    "uvp": 9.5,
-    "attributes": "<ul><li>einfache Installation dank Verschraubung mit Gummidichtung</li><li>vielseitige Lösung für reibungslose Abflussableitung</li><li>hochwertiger Kunststoff für Zuverlässigkeit</li><li>passend für Kunststoff- und Metallsiphons</li><li>flexibel ausdehnbar von 340-800 mm<br/></li></ul>"
-}

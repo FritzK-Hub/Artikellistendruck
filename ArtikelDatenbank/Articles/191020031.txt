@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Kescher aus Bambus mit 110 cm Stiellänge</li><li>das Netz aus robustem PVC</li><li>unverzichtbar für jeden Angler</li><li>in verschiedene Farben erhältlich</li><li>für kleinere Fische oder Schmetterlinge geeignet<br/></li></ul>"
-}

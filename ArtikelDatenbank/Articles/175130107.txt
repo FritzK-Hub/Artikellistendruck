@@ -1,4 +1,0 @@
-{
-    "uvp": 45.99,
-    "attributes": "<ul><li>leistungsstark für Weich- und Hartlöten</li><li>vielseitig: Anwärmen, Auftauen, Abbrennen, Kunststoffbearbeitung</li><li>für Cu-Hartlötverbindungen bis ø 15 mm, Weichlöten bis ø 28 mm</li><li>21 mm Spezialbrenner, einfache Piezozündung</li><li>schnell, gleichmäßig, flexibel<br/></li></ul>"
-}

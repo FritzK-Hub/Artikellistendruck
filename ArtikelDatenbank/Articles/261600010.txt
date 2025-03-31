@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>mit feiner Gitterstruktur für weniger Mörtelverbrauch</li><li>optimaler Halt im Bohrloch</li><li>breiter Rand gegen ein Tieferrutschen</li><li>deckt das Bohrloch sauber ab</li><li>Abdeckkappe mit Zentrierflügeln für optimale Zentrierung <br/></li></ul>"
-}

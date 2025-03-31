@@ -1,4 +1,0 @@
-{
-    "uvp": 9.11,
-    "attributes": "<ul><li>flexibler Magnetheber mit Griff</li><li>hohe Tragkraft, bis 0,5 kg</li><li>extra schlanker Magnetkopf</li><li>für schwer erreichbare Stellen</li><li>mit 2-Komponenten-Griff<br/></li></ul>"
-}

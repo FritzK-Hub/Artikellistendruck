@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Großraumwischer mit gelben Elaston-Kunststofffasern</li><li>universell einsetzbar im Innen- und Außenbereich</li><li>besonders robust und stabil</li><li>extrem haltbar, nassfest und temperaturbeständig</li><li>mit einseitiger Rundbogenkrampe<br/></li></ul>"
-}

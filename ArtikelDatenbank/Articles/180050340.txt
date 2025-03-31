@@ -1,4 +1,0 @@
-{
-    "uvp": 1028.95,
-    "attributes": "<ul><li>9-teilige Gartengarnitur aus geöltem Eukalyptusholz<br/></li><li>1 Tisch mit 8 Gartenstühlen</li><li>für 8 Personen<br/></li><li>Tisch ausziehbar von 180 cm auf 260 cm</li><li>Klappstühle mit 2 Armlehnen und Rückenlehne</li></ul>"
-}

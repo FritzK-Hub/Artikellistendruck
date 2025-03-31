@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Handbrause Biolux mit 5 Strahlvarianten</li><li>mit Antikalksystem für eine leichtere Reinigung</li><li>Handbrause aus verchromtem Kunststoff</li><li>mit einem 1/2“ Brauseanschluss versehen</li><li>für alle Wasserdrucksysteme geeignet<br/></li></ul>"
-}

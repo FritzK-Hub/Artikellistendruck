@@ -1,4 +1,0 @@
-{
-    "uvp": 4.89,
-    "attributes": "<ul><li>1,25 m High Speed HDMI™-Kabel</li><li>zu empfehlen für Hochgeschwindigkeits-Internet VDSL</li><li>angespritzte Zugentlastungen sowie robuste Stecker<br/></li><li>mechanisch extrem belastbar</li><li>CAT-6-Netzwerkkabel mit Ethernet-Datenübertragung </li></ul>"
-}

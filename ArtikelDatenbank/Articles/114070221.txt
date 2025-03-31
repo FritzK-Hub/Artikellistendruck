@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>klare und unverzerrte Darstellung dank Normalglasfront</li><li>flexible Präsentationsmöglichkeiten durch Cliphalter</li><li>inklusive Passepartout für perfekte Präsentation des Bildes</li><li>stabil und langlebig dank rückseitiger Hartfaserplatte</li><li>leicht und einfach zu handhaben<br/></li></ul>"
-}

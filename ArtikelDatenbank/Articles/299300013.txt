@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schenkel (Länge je Schenkel): ca. 70 mm</li><li>Schenkel (Breite je Schenkel): ca. 50 mm</li><li>Nagellöcher Durchmesser Ø: ca. 5 mm</li><li>Rundloch Durchmesser Ø: ca. 11 mm</li><li>Materialstärke: ca. 2,5 mm</li></ul>"
-}

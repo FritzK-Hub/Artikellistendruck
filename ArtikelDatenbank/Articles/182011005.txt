@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Holzkohle für den professionellen Einsatz im Gastronomiebereich</li><li>einfaches Anbrennen für bequemes Grillen</li><li>langlebige Glut mit hohen Temperaturen für ein perfektes Grillen</li><li>Premiumqualität für anspruchsvolle Hobbygriller</li><li>Großkörnung von 60-120 mm für besondere Grill-Erlebnisse<br/></li></ul>"
-}

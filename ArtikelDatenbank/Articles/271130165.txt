@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>HSS Spiralbohrer rollgewalzt</li><li>Bohrer geeignet für Metall, Stahl</li><li>hohe Qualität</li><li>große Stabilität und Festigkeit</li><li>für professionelle und Hobbyheimwerker<br/><br/></li></ul>"
-}

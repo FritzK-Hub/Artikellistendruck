@@ -1,4 +1,0 @@
-{
-    "uvp": 3.19,
-    "attributes": "<ul><li>Treppenpabschluss-Profil schmal aus hartem PVC</li><li>sauberer, dauerhafter und trittfester Abschluss</li><li>edle Optik durch Zierrillen</li><li>geben sicheren Halt auf der Treppe</li><li>Treppen-Abschluss-Profil mit Lochungen<br/><br/></li></ul>"
-}

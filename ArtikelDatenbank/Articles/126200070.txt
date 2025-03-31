@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>nachhaltig durch reine Solartechnologie</li><li>individuelle Fontänen dank Wechselaufsätzen</li><li>LED Beleuchtung als zusätzliches Highlight</li><li>drehende Wasserbewegung für besondere Effekte</li><li>einfache Installation ohne Stromanschluss</li></ul>"
-}

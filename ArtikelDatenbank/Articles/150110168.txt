@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Hybrid Rostlöser vereint die positiven Eigenschaften mehrerer Rohstoffe zu höherer Leistung</li><li>ein sofort wirkendes, flüssiges Profi-Werkzeug</li><li>löst Rostverbindungen, aktive Kriechwirkung, hochdruckstabile Schmierwirkung</li><li>wirkt wasserverdrängend und korrosionshemmend</li><li>unterbricht Rostverbindungen und beugt neuer Rostbildung vor</li></ul>"
-}

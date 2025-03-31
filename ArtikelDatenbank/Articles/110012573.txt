@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>vielseitige eisl Handbrause mit 3 Strahlvarianten</li><li>einhändige Strahlumstellung per Druckknopf</li><li>aus verchromtem Kunststoff gefertigt</li><li>1/2\" Außengewinde für handelsübliche Brauseschläuche passend</li><li>mit Antikalk-Noppen für eine leichtere Reinigung<br/></li></ul>"
-}

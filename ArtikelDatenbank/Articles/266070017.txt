@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>Schubkarrenrad, Schubkarrenreifen ca. Ø414 mm</li><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>Mittenloch Luftrad ca. 20 mm</li><li>Luftbereift bis ca. 180 kg belastbar</li><li>Ersatzrad Felge pulverbeschichtet</li></ul>"
-}

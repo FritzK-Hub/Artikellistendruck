@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Türschlossriegel gerade Form</li><li>stabiler und robuster Schubriegel</li><li>vielseitig einsetzbar </li><li>verzinkt und mit Schließlasche</li><li>Befestigungslöcher angesenkt</li></ul>"
-}

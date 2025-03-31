@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>leichtes, modernes Design</li><li>widerstandsfähiges Material</li><li>Tischplatte aus gehärtetem Glas</li><li>2-fach pulverbeschichtetes Gestell</li><li>Platte aus 2-line Korbgeflecht</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Fassaden-Spachtel mit Edelstahl-Blatt</li><li>ideal zum Auftragen und Glätten</li><li>für große Flächen an Decke und Wand</li><li>Blatt an stabilem Aluminiumträger </li><li>mit 2-Komponenten Kunststoffgriff</li></ul>"
-}

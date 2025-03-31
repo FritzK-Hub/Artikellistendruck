@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Kehrgarnitur 2-teilig aus Kunststoff mit Kunstfaserborsten</li><li>zum schnellen, einfachen Aufkehren von Dreck</li><li>besonders bodenschonend durch Kehrschaufel mit Gummilippe</li><li>mit ergonomischem Handgriff für leichtere Handhabung</li><li>platzsparende Aufbewahrung dank Öse zum Aufhängen</li></ul>"
-}

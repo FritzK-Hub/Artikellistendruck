@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>digitales Fieberthermometer für eine schnelle und sichere Messung</li><li>Messergebnis erscheint innerhalb weniger Sekunden</li><li>mit Speicherfunktion der letzten Messwerte</li><li>inklusive Langzeitbatterie und Hygienebox</li><li>integrierter Fieberalarm ab 37,8° C</li></ul>"
-}

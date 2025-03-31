@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Zahlenschloss aus Metall</li><li>mit einstellbarem Zahlencode</li><li>ideal zum Verschließen von Gepäckstücken</li><li>Abmessungen (LxBxH): 57 x 22 x 12 mm</li><li>dezentes Design<br/></li></ul>"
-}

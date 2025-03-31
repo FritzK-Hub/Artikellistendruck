@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>LED-Lampe Refektorförmig mit 4,9 W, GU5.3</li><li>hohe Farbwiedergabe, RA-Wert 80</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>einfacher Lampenwechsel durch Austauschen der Standardglühlampe</li><li>hohe Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li></ul>"
-}

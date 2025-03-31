@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>16-fach geflochtenes Polyester-Seil</li><li>zum Befestigen und Verzurren</li><li>UV- und säurebeständig</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1m bis 50m<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Einschnitt-Gewindebohrer aus HSS-Schnellarbeitsstahl</li><li>für metrische ISO-Gewinde</li><li>rechtsschneidend</li><li>zum Schneiden von Durchgangslöchern in Werkstoffen bis 900N/mm²</li><li>Zeitersparnis durch kürzere Schneidzeiten als mit herkömmlichen </li></ul>"
-}

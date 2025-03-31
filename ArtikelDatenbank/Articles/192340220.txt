@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Mini LED-Laterne mit Flammeneffekt</li><li>aus stabilem Kunststoff in weiß gefertigt</li><li>für die dekorativer Gestaltung im Innenbereich </li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar</li><li>inklusive 3 x LR44 Knopfzellbatterien</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 139.99,
-    "attributes": "<ul><li>dekoratives Ambiente-Feuer, rauchfrei</li><li>hochwertiger Edelstahl für langlebige Nutzung</li><li>klare Sicht, aus temperaturbeständigem Borsilikatglas</li><li>beeindruckende Flammeneffekte für jeden Anlass</li><li>einfache Befeuerung mit Weichholz-Holzpellets<br/></li></ul>"
-}

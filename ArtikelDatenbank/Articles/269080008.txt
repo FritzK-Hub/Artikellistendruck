@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Planenösen-Clips 4 Stück ideal für Abdeckplanen</li><li>aus hochwertigem Kunststoff hergestellt</li><li>ideal zum Anbringen von Schnüren, ohne das Material zu beschädigen</li><li>auf dieser Weise bleibt die Plane wasserdicht</li><li>einfache und schnelle Verwendung</li></ul>"
-}

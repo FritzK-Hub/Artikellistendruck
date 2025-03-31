@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Schlauchkupplung mit Wasserstopp</li><li>für 1/2\" Gartenschläuche</li><li>wird am Schlauchende montiert</li><li>Montage ohne den Wasserhahn abdrehen zu müssen</li><li>Umstecken des Wasserschlauches ohne Wasserverlust</li></ul>"
-}

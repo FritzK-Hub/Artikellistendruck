@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    Steckdose mit Klappdeckel,/nmit Steckklemmen,/nNennspannung: 250 V~,/nNennstrom: 10 A (Aus-/Wechselschalter), 16 A (Steckdose),/nSchutzart: IP54 (spritzwassergeschützt)\"\"/n/n                "
-}

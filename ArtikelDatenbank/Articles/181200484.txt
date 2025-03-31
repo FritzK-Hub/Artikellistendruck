@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Gemüsepaprika Neusiedler Ideal</li><li>ist eine mittelfrühe bis mittelspäte Gemüsesorte</li><li>mit leckeren, großen und kantigen Früchten</li><li>Fruchtumfang ca. 8-9 cm und Länge ca. 11 cm</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

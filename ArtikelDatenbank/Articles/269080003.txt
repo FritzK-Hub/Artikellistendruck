@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>robuster Kloben mit verzinkter Oberfläche</li><li>Dorn mit 16 mm Durchmesser</li><li>langlebig </li><li> beständig gegen Korrosion</li><li>stabile Verbindung für verschiedene Anwendungen<br/></li></ul>"
-}

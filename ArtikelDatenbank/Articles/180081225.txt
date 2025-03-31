@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>flexibles Gießen dank abnehmbarer Brause</li><li>langlebiges Material für dauerhaften Einsatz</li><li>komfortabler Griff zum leichten Handling</li><li>großes Volumen für effiziente Bewässerung</li><li>zeitloses Design in Anthrazit</li></ul>"
-}

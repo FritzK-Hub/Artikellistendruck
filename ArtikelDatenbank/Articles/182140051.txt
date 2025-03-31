@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Luftpumpe mit Doppelkopf</li><li>passend für alle gängigen Ventilarten</li><li>Federspannung zur Rahmenklemmung</li><li>Klemmweite einstellbar</li><li>Rahmenpumpe mit Schnellverschluss</li></ul>"
-}

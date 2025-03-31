@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>einfache Installation ohne Kabelverlegen</li><li>Batteriebetrieb für flexible Platzierungsoptionen</li><li>Transmitter spritzwassergeschützt für den Außeneinsatz geeignet</li><li>mobile Nutzung oder einfache Wandmontage</li><li>individuelle Klingelsignale, Reichweite von 150 Metern<br/></li></ul>"
-}

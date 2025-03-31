@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Avalux LED-Filament-Lampe matt 2,5 Watt in Kerzenform,  E14 Sockel</li><li>angenehmes Licht, tageslichtähnlich mit hoher Farbwiedergabe</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Kunststoff-Tiefenpfleger reinigt, pflegt und schützt Kunststoff, Gummi und Vinyloberflächen</li><li>pflegt professionell und tiefgründig Kunststoff und -leder, Vinyl, Gummi</li><li>beugt vorzeitiger Alterung, Versprödung, Ausbleichung, Austrocknung, Verfleckung und Verfärbung nachhaltig vor</li><li>hält weich und geschmeidig</li><li>wirkt farbauffrischend und antistatisch</li></ul>"
-}

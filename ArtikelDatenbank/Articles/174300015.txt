@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>energiesparend dank Cold-Start- &amp; Eco-Click-Funktion</li><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>perfektes Strahlbild durch Marken-Mischdüse</li><li>einfache Installation mit Zentralverschaubung</li><li>biegsamer Auslauf bietet Flexibilität</li></ul>"
-}

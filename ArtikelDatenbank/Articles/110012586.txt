@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>fünf verschiedene Strahlvarianten</li><li>leichte Reinigung dank Anti-Kalk-System</li><li>Bewegungsfreiheit mit langem Brauseschlauch</li><li>besonders einfache Installation</li><li>für unterschiedliche Wasserdrucksysteme<br/><br/></li></ul>"
-}

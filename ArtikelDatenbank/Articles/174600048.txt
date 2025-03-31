@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>geschlossener Toilettenbürstenhalter aus hochwertigem, widerstandsfähigem Bambus</li><li>Toilettenbürste aus Stahl in mattem Schwarz</li><li>mit auswechselbarem, schwarzem Bürstenkopf von Ø 6,5 cm</li><li>ideal für Bad und Gäste-WC</li><li>lässt sich gut mit dem anderen Badzubehör kombinieren</li></ul>"
-}

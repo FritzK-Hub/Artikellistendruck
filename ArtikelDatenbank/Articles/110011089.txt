@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>strömungsgünstige Form für optimale Förderleistung</li><li>zuverlässig und langlebig für dauerhaften Einsatz</li><li>beidseitiger Anschluss für effiziente Verbindung</li><li>ideal für die Abführung von Kochdämpfen</li><li>schnelle und sichere Abluftleitung</li></ul>"
-}

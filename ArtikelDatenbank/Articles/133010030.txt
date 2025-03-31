@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Einzelfuttermittel für Katzen</li><li>aus 100% Hähnchenbrustfilet</li><li>als Belohnung oder zum Verfeinern des Futters geeignet</li><li>im wiederverschließbaren Beutel</li><li>fettarme, luftgetrocknete Knabberhäppchen für jede Katze</li></ul>"
-}

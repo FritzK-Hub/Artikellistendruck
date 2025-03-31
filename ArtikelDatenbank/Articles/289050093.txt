@@ -1,4 +1,0 @@
-{
-    "uvp": 17.49,
-    "attributes": "<ul><li>Winkel aus eloxiertem Aluminium</li><li>als Kantenschutz oder -abschluss </li><li>Länge: ca. 200 cm</li><li>Schenkellänge: 40 x 15 mm</li><li>Materialstärke: 1,5 mm</li></ul>"
-}

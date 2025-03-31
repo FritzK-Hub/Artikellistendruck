@@ -1,4 +1,0 @@
-{
-    "uvp": 7.69,
-    "attributes": "<ul><li>mit jedem Wasserhahn mit Innengewinde kompatibel</li><li>mit Perlstrahlkopf für eine sanfte Verteilung des Wassers</li><li>einfache Anbringung ohne spezielle Werkzeuge</li><li>aus Metall, robuste Qualität</li><li>sorgt für einen gleichmäßigen und sanften Wasserstrahl<br/></li></ul>"
-}

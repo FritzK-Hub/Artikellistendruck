@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>torffreie Universal-Blumenerde</li><li>für Grün- und Blühpflanzen auf Balkon, Terrasse und in deinem Garten geeignet</li><li>besonders hohe Wasser- und Nährstoffspeicherkapazität</li><li>perfekt für kräftige Blütenbildung</li><li>aus nachwachsenden Rohstoffen</li></ul><p></p>"
-}

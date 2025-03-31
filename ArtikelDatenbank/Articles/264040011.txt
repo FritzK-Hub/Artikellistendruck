@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>hohe Belastbarkeit</li><li>langlebige Verzinkung</li><li>einfache Installation</li><li>vielseitige Anwendung</li><li>robustes Material<br/></li></ul>"
-}

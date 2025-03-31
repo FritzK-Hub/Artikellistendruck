@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Mörtelwanne aus Kunststoff in Schwarz</li><li>stabile Ausführung und langlebig</li><li>zum Mischen von Mörtel, Putz, etc.</li><li>ergonomisch geformte Griffmulden, spezielle Randverstärkung</li><li>auch als Blumentopf verwendbar<br/></li></ul>"
-}

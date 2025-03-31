@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Versandtasche DIN B4</li><li>in der Farbe braun</li><li>aus Papier, mit Pappverstärkung</li><li>ohne Fenster</li><li>selbstklebend</li></ul>"
-}

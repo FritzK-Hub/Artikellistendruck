@@ -1,4 +1,0 @@
-{
-    "uvp": 17.49,
-    "attributes": "<ul><li>Edelstahlblech Tafel</li><li>aus hochwertigem Edelstahl</li></ul><ul><li>Länge: ca. 50 cm</li><li>Breite: ca. 25 cm</li><li>Plattenstärke: ca. 0,5 mm</li></ul>"
-}

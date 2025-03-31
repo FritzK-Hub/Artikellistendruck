@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Pfostenträger in U-Form</li><li>aus feuerverzinktem Stahl</li><li>zum Aufschrauben / Aufdübeln</li><li>mit seitlicher Pfostenauflage (Sicke) zum Schutz vor Staunässe</li><li>für Holzzäune, Holzkonstruktionen und leichte Pergolen</li></ul>"
-}

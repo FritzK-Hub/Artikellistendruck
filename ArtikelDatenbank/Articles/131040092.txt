@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>schnelle Lösung bei schlechtem Geruch bei der Staugsaugernutzung</li><li>8 Stück Staubsauger-Deo</li><li>beseitigt Staubgeruch</li><li>erfrischt die Luft mit angenehmem Duft</li><li>einfach in den Staubsaugerbeutel legen<br/></li></ul>"
-}

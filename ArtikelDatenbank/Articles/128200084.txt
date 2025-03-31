@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>LED Solar-Steckleuchte 93 cm, flammenförmig aus Metall</li><li>stabiler Halt dank mitgeliefertem Erdspieß</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>erschafft eine wohlfühlende Atmosphäre</li><li>die benötigte Batterie ist mit inklusive<br/></li></ul>"
-}

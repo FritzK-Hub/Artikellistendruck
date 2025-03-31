@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Gartentisch, zusammenklappbar</li><li>28 mm starke Tischplatte aus Nadelholz</li><li>klar lackiert</li><li>UV-beständig</li><li>stabiles Metallgestell aus Vierkantrohr</li></ul>"
-}

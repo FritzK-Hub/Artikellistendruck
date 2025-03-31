@@ -1,4 +1,0 @@
-{
-    "uvp": 48.95,
-    "attributes": "<ul><li>Türzylinder 6500MC 75 mm mit Wendeschlüsseln</li><li>mit Not- und Gefahrenfunktion (von außen schließbar, auch wenn innen Schlüssel steckt)</li><li>magnetische Sicherung schützt vor Nachschlüsselherstellung</li><li>besitzt einen Bohrschutz im Gehäuse und Kern</li><li>inklusive 5 Schlüssel, Befestigungsschraube und Sicherheitskarte</li></ul>"
-}

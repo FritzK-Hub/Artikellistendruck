@@ -1,4 +1,0 @@
-{
-    "uvp": 72.99,
-    "attributes": "<ul><li>flache Edelstahl-Kopfbrause</li><li>mit Antikalk-Noppen</li><li>individuelle Einstellungsmöglichkeiten</li><li>einfache Installation</li><li>inklusive Wasserspardichtung<br/></li></ul>"
-}

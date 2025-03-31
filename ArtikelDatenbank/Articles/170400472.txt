@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Duftkerze mit dem Duft Opium Sandelholz</li><li>schafft ein gemütliches Wohlfühlambiente</li><li>vielseitig als Tischdekoration oder zur festlichen Beleuchtung</li><li>bietet ein gleichmäßiges, ruhiges Brennverhalten</li><li>auch zur Bestückung von Weihnachtskränzen geeignet<br/></li></ul>"
-}

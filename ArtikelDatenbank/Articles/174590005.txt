@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>aus hochwertigem Material</li><li>in stilvollem Design</li><li>einfache Montage</li><li>für robusten Schutz</li><li>vielseitig einsetzbar<br/></li></ul>"
-}

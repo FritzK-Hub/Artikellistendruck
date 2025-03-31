@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>TÜV/GS geprüfte Ausführung</li><li>220 Volt</li><li>VDE-Stecker</li></ul>"
-}

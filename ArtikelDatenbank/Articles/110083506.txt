@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Sodafixx ca. 425 g CO2 Füllung</li><li>für die gängigsten Trinkwassersprudler geeignet</li><li>reicht je nach Gerät für ca. 60 Liter</li><li>Kohlesäure in höchster Reinheit selbst dosierbar</li><li>leere Gasflaschen können in den Märkten gegen Aufpreis wieder aufgefüllt werden<br/></li></ul>"
-}

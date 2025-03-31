@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>Vertikutierer mit leistungsstarkem Turbo Power Motor</li><li>robustes Kunststoffgehäuse sorgt für mehr Sicherheit</li><li>14-fache zentrale Tiefennachstellung</li><li>Vertikutierwalze mit Edelstahlmessern</li><li>inlusive klappbarer Griffholm und Sicherheitsschalter</li></ul>"
-}

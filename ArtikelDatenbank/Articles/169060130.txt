@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>transparent und wasserfest </li><li>für Montage- und Fugenverleimung</li><li>mit hoher Anfangshaftung</li><li>für schnelle und saubere Anwendungen ohne Werkzeug</li><li>für das Verlegen von Holzwerkstoffen, HPL-Platten oder Kunststoffkanten geeignet<br/></li></ul>"
-}

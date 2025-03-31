@@ -1,4 +1,0 @@
-{
-    "uvp": 119.0,
-    "attributes": "<ul><li>alles zur Montage und Inbetriebnahme Ihres eigenen Gewächshauses</li><li>Spezialschrauben für den sicheren Aufbau</li><li>Pflanzspiralen und Thermometer, damit Sie gleich lospflanzen können</li><li>automatischer Fensteröffner für Dachfenster</li><li>1 Liter Gewächshausreiniger zur Pflege und Reinigung</li></ul>"
-}

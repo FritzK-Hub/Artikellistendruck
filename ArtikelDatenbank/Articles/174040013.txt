@@ -1,4 +1,0 @@
-{
-    "uvp": 8.59,
-    "attributes": "<ul><li><em>Rohrschneider</em> von Kraftmann</li><li>schnelles Trennen von Metallrohren</li><li>lange Lebensdauer durch hochwertige Materialen</li><li>mit ausklappbarem Entgrater</li><li>geeignet für Rohre von 3 bis 28mm</li></ul>"
-}

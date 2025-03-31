@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>Hightech-Leichtlaufmotoröl für Benzin- und Dieselfahrzeuge</li><li>Turbo- und Kat-getestet</li><li>nach höchsten Qualitätsstandards entwickelt</li><li>minimiert Verschleiß, Ablagerungen und Kraftstoffverbrauch</li><li>maximiert Lebensdauer des Motors, schont die Umwelt</li></ul>"
-}

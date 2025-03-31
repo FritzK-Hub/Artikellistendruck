@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>einkomponentiger Montageschaum für innen und außen</li><li>Schaum mit hoher Schaumausbeute</li><li>universell einsetzbar zum Dämmen und Isolieren</li><li>haftet auf vielen Baumaterialien</li><li>feuchtigkeitshärtend und alterungsbeständig</li></ul>"
-}

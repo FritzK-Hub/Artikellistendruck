@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>präzise Ausrichtung</li><li>sichere Befestigung</li><li>robuster Kunststoffrahmen</li><li>vielseitige Anwendungen</li><li>besonder langlebig</li></ul>"
-}

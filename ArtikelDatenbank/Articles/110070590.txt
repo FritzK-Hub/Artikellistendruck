@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Fausthandschuh gegen thermische Risiken</li><li>aus Baumwolle in Schwarz </li><li>verfügt über gute Griffeigenschaften</li><li>waschbar (bei 40°C)</li><li>kurzzeitig hitzebeständig<br/><br/></li></ul>"
-}

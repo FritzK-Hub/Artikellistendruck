@@ -1,4 +1,0 @@
-{
-    "uvp": 63.7,
-    "attributes": "<ul><li>Zylinder mit Wendeschlüssel für höchste Sicherheit</li><li>mit 5 Schlüsseln und Not- und Gefahrfunktion</li><li>inklusive Sicherungskarte</li><li>Bohrschutz im Gehäuse und Kern</li><li>ideal um Hauptzugänge zu sichern <br/></li></ul>"
-}

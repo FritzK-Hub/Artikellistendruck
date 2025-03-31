@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Tauchrohr-Siphon 1 1/4\" x 32 x 250 mm</li><li>aus stabilem Metall gefertigt</li><li>für Siphon-Anschlüsse geeignet</li><li>gerade Ausführung</li><li>mit verchromter Optik<br/></li></ul>"
-}

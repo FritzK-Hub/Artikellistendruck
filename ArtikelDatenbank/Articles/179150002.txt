@@ -1,4 +1,0 @@
-{
-    "uvp": 47.95,
-    "attributes": "<ul><li>hochwertiger HSS-Stahl</li><li>Querloch-Design</li><li>vielfältige Größen</li><li>praktische Aufbewahrung</li><li>für verschiedene Materialien</li></ul>"
-}

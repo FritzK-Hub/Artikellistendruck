@@ -1,4 +1,0 @@
-{
-    "uvp": 193.95,
-    "attributes": "<ul><li>2 Klappstühle</li><li>Robinienholz</li><li>Flachstahl</li><li>transparent pulverbeschichtet</li><li>verzinkt</li></ul>"
-}

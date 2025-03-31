@@ -1,4 +1,0 @@
-{
-    "uvp": 74.95,
-    "attributes": "<ul><li>Elektrohobel mit Hobelsohle aus Aluminium (voll flächig)</li><li>mit Falzfunktion und Seiten- und Tiefenanschlag</li><li>Hobeltiefe stufenlos einstellbar und austauschbare Klingen</li><li>integriertes Werkzeugdepot für Montagewerkzeug</li><li>Soft-Grip Einlagen für sicheren Halt</li></ul>"
-}

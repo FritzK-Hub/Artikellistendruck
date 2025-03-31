@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>für Rohrreparaturen und Rohrverbindungen</li><li>temperaturbeständig bis 90°C</li><li>chemikalienresistent und langlebig</li><li>minimiert Ablagerungen und Verstopfungen</li><li>schalldämmend für leisen Betrieb</li></ul>"
-}

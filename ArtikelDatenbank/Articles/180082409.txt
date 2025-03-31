@@ -1,4 +1,0 @@
-{
-    "uvp": 43.0,
-    "attributes": "<ul><li>biegsamer Zaun-Sichtschutz zum Einflechten</li><li>für erholsame Stunden mit 80 % Schattierung</li><li>zum Nachrüsten für alle Doppelstabgittermatten</li><li>aus reißfestem und umweltfreundlichem Kunststoff</li><li>besonders schimmelresistent und formstabil<br/></li></ul>"
-}

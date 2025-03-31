@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Schleifpapier auf Rolle offen gestreut</li><li>für alle Schleifarbeiten</li><li>Zwischenschliff, mittlerer Abtrag</li><li>zum Entfernen alter Anstriche auf lackierten Oberflächen</li><li>aus C-Papier 120 g / m² mit Korn aus Aluminiumoxid</li></ul>"
-}

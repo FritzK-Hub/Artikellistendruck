@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>wasserbasierender, abriebfester Einkomponenten-Klarlack</li><li>für die Versiegelung von Holz-, Kork- und Parkettfußböden</li><li>Tritt-, kratz- und abriebfest, da PU-verstärkt</li><li>lichtbeständig und leicht zu verarbeiten</li><li>für den Innenbereich, für Fußböden mit normaler Beanspruchung</li></ul>"
-}

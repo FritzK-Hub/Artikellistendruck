@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Desinfektionsgel in praktischer Pumpflasche</li><li>sofort reinigend und erfrischend</li><li>mit frischem Lavendelduft</li><li>ohne Wasser, ohne Kleben</li><li>entfernt Bakterien, spezielle Viren und Pilze</li></ul>"
-}

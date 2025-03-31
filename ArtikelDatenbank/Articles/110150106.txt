@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>unverzichtbares Zubehör für regelmäßige Waffenreinigung</li><li>zur Reinigung verschiedener Schmutzarten</li><li>stabile, langlebige Verbindung dank Messingbeschlag</li><li>für schnelle und gründliche Waffenreinigung</li><li>optimiert Leistung und Lebensdauer der Waffe<br/></li></ul>"
-}

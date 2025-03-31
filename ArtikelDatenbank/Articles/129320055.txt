@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>hoher Carotingehalt</li><li>vielseitige Verwendung</li><li>mittelfrühe bis mittelspäte Sorte</li><li>leicht abgestumpfte Wurzelkörper</li><li>effizienter Anbau<br/></li></ul>"
-}

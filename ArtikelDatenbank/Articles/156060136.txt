@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Japanspachtel in vier Größen</li><li>Blatt aus flexiblem Stahl</li><li>zum Verspachteln von Rissen</li><li>zum Ausgleich von Unebenheiten</li><li>Griff aus Kunststoff</li></ul>"
-}

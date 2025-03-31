@@ -1,4 +1,0 @@
-{
-    "uvp": 7.95,
-    "attributes": "<ul><li>praktische Druckluft-Schlauchkupplung von Güde</li><li>aus massivem Messing gefertigt</li><li>mit einem 1/4“ Außengewinde versehen</li><li>einfache und handliche Einhand-Schnellkupplung</li><li>besitzt eine Kupplung von 3/8“<br/></li></ul>"
-}

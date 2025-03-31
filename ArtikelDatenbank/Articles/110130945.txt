@@ -1,4 +1,0 @@
-{
-    "uvp": 16.84,
-    "attributes": "<ul><li>hochwertige Materialien</li><li>modernes Design</li><li>vielseitige Anwendung</li><li>hohe Langlebigkeit</li><li>leichte Montage<br/></li></ul>"
-}

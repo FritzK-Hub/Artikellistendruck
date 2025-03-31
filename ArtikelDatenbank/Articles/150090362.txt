@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>für alle gängigen Autos mit BA15S -Sockelfassung</li><li>sind als Brems- oder Schlusslichter einsetzbar</li><li>lässt sich schnell und einfach austauschen oder ersetzen</li><li>eistungsfähiger als herkömmliche Standardleuchten</li><li>eine preisgünstige Alternative zur Erstausrüstung<br/></li></ul>"
-}

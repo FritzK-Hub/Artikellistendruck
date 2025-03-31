@@ -1,4 +1,0 @@
-{
-    "uvp": 169.0,
-    "attributes": "<ul><li>Tauchkreissäge von Güde® </li><li>vielseitig einsetzbar für präzise Tauchschnitte, uvm.</li><li>verfügt u. a.  über ein flaches Gehäuse und Paralleltauchmechanismus</li><li>besitzt Sicherheitsschalter und rutschfesten Griff</li><li>Winkel kann von 0° bis +47° eingestellt werden<br/><br/></li></ul>"
-}

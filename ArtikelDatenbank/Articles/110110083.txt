@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Gläserbürste YOYO mit 2K-Griff</li><li>mit strapazierfähigen Nylonborsten versehen</li><li>für mehr Sauberkeit </li><li>vielseitig einsetzbar, einfach in der Handhabung</li><li>für grobe und hartnäckige Verschmutzungen<br/></li></ul>"
-}

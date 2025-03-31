@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Porree Blaugrüner Alaksa für ca. 50 Pflanzen</li><li>speziell für die Ernte im Spätherbst und Winter gezüchtet</li><li>eine ertragreiche und winterharte Sorte mit ca.25 cm Schaft</li><li>besitzt einen hohen Vitamin-C und Eisengehalt</li><li>verfügt über eine Probefeldgetestete Qualität<br/><br/></li></ul>"
-}

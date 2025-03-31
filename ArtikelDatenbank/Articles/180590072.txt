@@ -1,4 +1,0 @@
-{
-    "uvp": 26.95,
-    "attributes": "<ul><li>komplettes Autositzbezug-Set für einen frischen Look in deinem Auto</li><li>einfache Montage dank dem integriertem Slot-System</li><li>Kopfstützen lassen sich ohne zusätzlichen Einschneiden befestigen</li><li>Vordersitzbezüge speziell für die Verwendung mit integriertem Seitenairbag und dem CLIX-III-System ausgestattet</li><li>der Bezug ist besonders widerstandsfähig gegen Licht und Verfärbungen<br/></li></ul>"
-}

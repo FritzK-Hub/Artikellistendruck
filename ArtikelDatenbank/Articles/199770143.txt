@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>strapazierfähiger Gummistopfen im 4er-Set</li><li>aus langlebigem Kunststoff</li><li>zum Abdecken überflüssiger Löcher</li><li>gute Abdichtung und Haftung</li><li>individuell verwendbar<br/><br/></li></ul>"
-}

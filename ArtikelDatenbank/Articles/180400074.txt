@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Gummiauflage für Wagenheber und KFZ-Hebebühnen</li><li>universell passender Gummiklotz</li><li>schonend für Fahrzeug und Wagenheber</li><li>rutschfest und stabil dank Oberflächenstruktur</li><li>Gummiblock schützt vor Beschädigungen</li></ul>"
-}

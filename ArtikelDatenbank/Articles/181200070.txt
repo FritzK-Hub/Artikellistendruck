@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Beetschmuck-Mischung, 2 Meter Saatband</li><li>mit unterschiedlichen, schnellwachsenden Sommerblumen</li><li>verleiht Beeten oder Gartenwege schöne Farbtöne</li><li>gezielte Artenauswahl für Blütenpracht von Jun. – Okt.</li><li>für den Anbau in Balkonkästen geeignet</li></ul>"
-}

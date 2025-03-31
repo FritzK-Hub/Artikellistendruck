@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Multifunktionswerkzeug 15-teilig von der Qualitätsmarke Fischer</li><li>integrierter T25 dient zum Lösen einer M15 Steckachse am Vorderrad eines E-Bikes</li><li>kann die meisten Probleme eines Fahrrads oder E-Bikes beheben</li><li>als praktisches Reisewerkzeugsatz für Unterwegs einsetzbar</li><li>auch für grundlegende Wartungsarbeiten oder tägliche Haushaltsreparaturen geeignet</li></ul>"
-}

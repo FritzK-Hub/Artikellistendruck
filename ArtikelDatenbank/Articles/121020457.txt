@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Lineal 17 cm</li><li>praktischer Helfer für den Schulunterricht</li><li>eindeutig lesbare Skala</li><li>mm und cm Einteilung</li><li>aus hochwertigem Kunststoff</li></ul>"
-}

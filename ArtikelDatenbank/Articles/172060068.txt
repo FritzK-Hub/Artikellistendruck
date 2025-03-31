@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Isolierband schwer entflammbar</li><li>sehr gute Chemikalienbeständigkeit</li><li>alle normalen Isolierarbeiten</li><li>zum Isolieren, Bündeln oder Befestigen von Kabeln</li><li>alterungsbeständiges Isoband</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>handliche Sprühflasche mit 5 Liter Fassungsvermögen</li><li>zum Versprühen von Flüssigkeiten</li><li>mitgelieferte Tragegurt sorgt für angenehmen Komfort</li><li>große Einfüllöffnung für bequemes Befüllen</li><li>der Druck wird mittels Hebel aufgebaut (durch Pumpen)<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>1/2\" Antrieb</li><li>verchromt</li><li>13/16\"mm</li></ul>"
-}

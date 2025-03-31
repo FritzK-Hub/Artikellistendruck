@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>bessere Ausleuchtung bei allen Fahrten</li><li>bis zu 30% mehr Licht und Ausleuchtung</li><li>für hervorragende Sichtbarkeit auf der Straße</li><li>mit Xenon Gas-Füllung</li><li>schnelle und einfache Montage<br/></li></ul>"
-}

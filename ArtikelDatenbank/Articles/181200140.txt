@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Gartenkresse für ca. 6 – 8 laufende Meter</li><li>ist eine ertragreiche und glattblättrige Kresse-Sorte</li><li>ein raschwüchsiges und vitaminreiches Würzkraut</li><li>ideal für den Rohkost oder Garnierungen</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

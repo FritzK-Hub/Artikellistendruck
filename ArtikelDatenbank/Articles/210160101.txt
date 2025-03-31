@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>gerader Türgriff</li><li>verchromte Ausführung</li><li>für einen Lochabstand von ca. 12,8 cm</li><li>für eine Türstärke von max. 20 mm</li><li>Gesamtlänge 18,8 cm<br/><br/></li></ul>"
-}

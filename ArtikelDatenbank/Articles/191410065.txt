@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>9er Set Wasserspritzbälle</li><li>für Kinder ab 3 Jahre</li><li>sorgen für riesigen Wasserspaß</li><li>aus Mikrofaser gefertigt</li><li>jeweils 3 Kugeln in den Farben gelb, rot und grün<br/></li></ul>"
-}

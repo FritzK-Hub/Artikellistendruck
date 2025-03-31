@@ -1,4 +1,0 @@
-{
-    "uvp": 799.0,
-    "attributes": "<ul><li>aus hochwertigem Akazienholz</li><li>mit komfortabler Polsterung</li><li>äußerst robust und praktisch</li><li>in einem vielseitigem Design</li><li>viel Platz zum Entspannen und Verweilen<br/></li></ul>"
-}

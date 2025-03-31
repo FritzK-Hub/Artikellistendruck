@@ -1,4 +1,0 @@
-{
-    "uvp": 3.69,
-    "attributes": "<ul><li>Rundstange mit einem Durchmesser von ca. 10 mm</li><li>aus kaltgewalztem Stahl gefertigt</li><li>besitzt eine Länge von ca. 1 m </li><li>dient als Verkleidungs-, Abdeckungs- und Konstruktionselement</li><li>mit handelsüblicher Metallsäge oder Trennschleifer abzulängen</li></ul>"
-}

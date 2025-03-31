@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>dekorative LED-Lichterkette mit Timerfunktion</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>ist mit 100 warmweißen LEDs versehen<br/></li><li>vielfältig einsetzbare Leuchtdekoration</li><li>für den Innenbereich geeignet<br/></li></ul>"
-}

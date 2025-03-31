@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>elegante Optik, mit vermessingter Oberfläche</li><li>zuverlässige Stabilität und sicherer Verschluss</li><li>ideal für Schatullen, Kassetten und kleine Truhen</li><li>langlebig und robust, aus Metall gefertigt</li><li>einfache Anbringung mit beiliegender Schraube</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Durchsteck-Spreizdübel Set 14 mm 4 Stück<br/></li><li>aus stabilem Polyamid gefertigt</li><li>zum Befestigen von Bilderrahmen, Lampen oder Wandregale</li><li>für Gipskarton, Mauerwerkbaustoffe oder Platten geeignet</li><li>spreizdruckfreier Dübelschaft verhindert das Abplatzen von Putz oder Fliesen<br/></li></ul>"
-}

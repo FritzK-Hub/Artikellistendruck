@@ -1,4 +1,0 @@
-{
-    "uvp": 5.95,
-    "attributes": "<ul><li>für die Güde® Schmutzwassertauchpumpe GS4000 (Artikelnr. 180020253)</li><li>mit 1 1/4\" AG Anschlussgewinde für einfachen Wasserfluss</li><li>passend zu Schläuchen mit 25mm bzw. 32mm Durchmesser</li><li>besonders langlebig und widerstandsfähig</li><li>unkomplizierte Befestigung, ideal für schnellen Einsatz<br/></li></ul>"
-}

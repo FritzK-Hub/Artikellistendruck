@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>zum Bewässern von Pflanzen oder Kräutern</li><li>vielseitig im Haushalt oder Garten einsetzbar</li><li>breite Öffnung erleichtert das Befüllen</li><li>besitzt ein Fassungsvermögen von 1,8 Litern</li><li>lange Tülle vermeidet das Überlaufen<br/></li></ul>"
-}

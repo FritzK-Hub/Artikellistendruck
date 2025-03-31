@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Rabitzzange von GERMANIA®</li><li>kurzer Kopf, lange Schenkel</li><li>zum Verdrillen und Abtrennen von Bindedraht</li><li>auch für Stahlbetonarbeiten geeignet</li><li>Griff mit Schutzhülle</li></ul>"
-}

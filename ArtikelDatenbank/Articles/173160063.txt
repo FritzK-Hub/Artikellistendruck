@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Halogen Stiftsockellampe 20 Watt, G4 Sockel</li><li>Set beinhaltet 2 Halogen-Lampen von Avalux</li><li>längere Lebensdauer im Vergleich zu normalen Lampen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen<br/></li></ul>"
-}

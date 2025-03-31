@@ -1,4 +1,0 @@
-{
-    "uvp": 23.79,
-    "attributes": "<ul><li>reduziert Öl- und Kraftstoffverbrauch effektiv</li><li>optimaler Schutz vor Korrosion und Verschleiß</li><li>schafft hervorragende Motorsauberkeit</li><li>ideal bei modernsten Motorentechnologien</li><li>perfekt für ganzjährigen Einsatz geeignet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Fieber Thermomenter digital</li><li>hohe Genauigkeit</li><li>schnelles Messergebnis</li><li>automatische Abschaltung</li><li>wasserabweisend IP 22</li></ul>"
-}

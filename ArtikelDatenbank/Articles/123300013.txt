@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Anzuchttopf Set 2-teilig</li><li>Aussaatschale mit je 12 quadratischen Fächern<br/></li><li>für bis zu 24 Setzlinge geeignet</li><li>aus recyceltem Kartonpapier gefertigt</li><li>ideal zum Vortreiben von Sämereien</li></ul>"
-}

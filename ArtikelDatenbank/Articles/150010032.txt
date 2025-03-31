@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>für AGM-, Gel-, Nass- und wartungsfreie Blei-Säure Batterien geeignet</li><li>für 6 / 12 Volt Auto- und Motorradbatterien</li><li>mit Dauerlade-, Erhaltungslade- und Reaktivierungsfunktion</li><li>mit Überhitzungs-, Kurzschluss- und Verpolsterungsschutz</li><li>mit LCD-Anzeige und Hintergrundbeleuchtung</li></ul>"
-}

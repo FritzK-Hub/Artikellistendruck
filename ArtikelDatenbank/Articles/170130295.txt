@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>Ø 87 mm</li><li>Bi-Metall Radialsägeblatt</li><li>breites Anwendungsspektrum</li><li>für Holz, Kunststoff, Blech, Aluminium, Kupfer und Metall</li><li>zum Ausschneiden von Laminat und Parkett</li><li>zum Schneiden kleinerer Profilstreifen</li></ul>"
-}

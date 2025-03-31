@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Rohrclip einfach im 10er Sparpack, mit integrieter Gewindehülse</li><li>für die schnelle und problemlose Rohrmontage</li><li>hervorragende mechanische Eigenschaften</li><li>Geeignet für Kunststoff- und Metallrohre</li><li>wärmeformbeständig</li></ul><p></p>"
-}

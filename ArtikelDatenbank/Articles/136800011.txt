@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>vielseitige Bit-Auswahl für jede Anforderung</li><li>langlebig durch robusten Chrom-Vanadium-Stahl</li><li>ideal für den Einsatz im Haushalt</li><li>perfektes Tool beim Arbeiten am KFZ</li><li>Aufbewahrung im kompakten Koffer - mobil und immer griffbereit</li></ul><p></p>"
-}

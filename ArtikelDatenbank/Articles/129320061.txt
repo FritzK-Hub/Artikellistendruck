@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>beeindruckend hohe Erträge</li><li>authentischer Zichoriengeschmack</li><li>robuste Kopfbildung</li><li>gute Lagerfähigkeit</li><li>nicht zum Treiben geeignet<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Ergänzungsfuttermittel für Welpen oder kleineren Hunden</li><li>köstlicher Geschmack und knusprige Textur</li><li>regelmäßiges Kauen stärkt die Kaumuskulatur</li><li>stärkt zusätzlich die Kaumuskulatur</li><li>als Leckerbissen zwischendurch oder als Belohnung</li></ul>"
-}

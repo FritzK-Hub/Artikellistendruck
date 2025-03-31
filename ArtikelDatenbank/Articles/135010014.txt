@@ -1,4 +1,0 @@
-{
-    "uvp": 8.29,
-    "attributes": "<ul><li>effiziente Reinigung und Verzinnung</li><li>Flussmitteltyp nach DIN EN 61190</li><li>hochwertiges Metallpulver S-Sn97Cu3</li><li>keine gesundheitsschädlichen Dämpfe (salmiakfrei)</li><li>verlängert die Lebensdauer von Lötspitzen</li></ul>"
-}

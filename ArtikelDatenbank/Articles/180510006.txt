@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>gelbe Kindersicherheitsweste in Größe S</li><li>für bessere Sichtbarkeit besonders bei Dunkelheit</li><li>ideal für den Schulweg</li><li>an den Seiten geschlossen</li><li>bei 40° C waschbar<br/></li></ul>"
-}

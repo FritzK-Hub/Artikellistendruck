@@ -1,4 +1,0 @@
-{
-    "uvp": 72.99,
-    "attributes": "<ul><li>mit Antikalk-Noppen</li><li>mit Samtstrahltechnologie </li><li>flexibles Kugelgelenk</li><li>elegantes Design</li><li>einfache Installation<br/></li></ul>"
-}

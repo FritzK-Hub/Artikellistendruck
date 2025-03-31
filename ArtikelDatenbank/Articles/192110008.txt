@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Schneeschaufel Aluice aus stabilem Aluminium</li><li>praktischer Helfer für den kalten Winter</li><li>großes Schaufelblatt erleichtert das Räumen von Schnee</li><li>leichtes zerbrechen von Eis durch scharfe Kante</li><li>rückenschonende Arbeit dank 145 cm Holzstiel<br/></li></ul>"
-}

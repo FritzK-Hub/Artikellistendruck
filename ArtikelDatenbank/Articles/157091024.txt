@@ -1,4 +1,0 @@
-{
-    "uvp": 38.95,
-    "attributes": "<ul><li>Abdichtband 15 m für Profil- und Hohlkammerplatten</li><li>dient zur sauberen und zuverlässigen Kantenversiegelung</li><li>verhindert das Eindringen von Staub oder Insekten</li><li>wird im oberen Bereich der Platten befestigt</li><li>schnelle und einfache Handhabung, ist selbstklebend<br/></li></ul>"
-}

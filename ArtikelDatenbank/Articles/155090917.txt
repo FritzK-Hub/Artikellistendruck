@@ -1,4 +1,0 @@
-{
-    "uvp": 27.19,
-    "attributes": "<ul><li>Antennendose für Rundfunk, Fernsehen (kabelfernsehtauglich) und Satellitenanlagen<br/></li><li>in klassischem Design mit matt chromfarbener Oberfläche</li><li>nur als Enddose verwendbar </li><li>für die Unterputz-Montage </li><li>nur in Kombination mit Rahmen der Serie Arcada zu verwenden</li></ul><p></p>"
-}

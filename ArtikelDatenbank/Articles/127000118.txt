@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>handlicher Laubbesen mit 22 flachen Zinken </li><li>unverzichtbares Werkzeug bei der Rasenpflege</li><li>aus verzinktem Stahl, besonders langlebig</li><li>zum Zusammenfegen von Laub, Moos oder Grasschnitt</li><li>50 cm Arbeitsbreite für eine effektive Gartenarbeit <br/></li></ul>"
-}

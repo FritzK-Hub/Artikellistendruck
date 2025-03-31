@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Hähnchengrill 17 x 27 cm aus silbernem Edelstahl</li><li>ein praktischer Helfer für knusprige Hähnchen</li><li>einfach in der Handhabung und hält den Grill wie Ofen sauber</li><li>sorgt für gleichmäßige Hitzeverteilung außerhalb und im inneren des Fleisches</li><li>Abtropfschale fängt Fett ab und kann zum Verfeinern genutzt werden<br/></li></ul>"
-}

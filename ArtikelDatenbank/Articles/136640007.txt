@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>für präzise Sägearbeiten mit einer Gehrungslade, garantiert zusätzliche Präzision und Genauigkeit</li><li>feine Verzahnung sorgen für optimale Schnittergebnisse</li><li>ideal für dünnere Holzlatten wie Fußbodenleisten geeignet</li><li>höhere Stabilität und längere Haltbarkeit dank verstärktem Rückenteil</li><li>bei Nichtgebrauch platzsparend dank Öse aufhängbar<br/></li></ul>"
-}

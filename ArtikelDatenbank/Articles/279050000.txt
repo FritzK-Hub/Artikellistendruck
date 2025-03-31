@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Greifarm, Greifkralle für Haushalt, Hof und Garten</li><li>Stab, Griff und Kralle aus Kunststoff</li><li>vermeidet das Bücken</li><li>ermöglicht den Zugang zu schwer erreichbaren Stellen</li><li>erleichtert die Arbeit im Haushalt</li></ul>"
-}

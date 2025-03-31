@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>hohe Mischleistung</li><li>robuste Konstruktion</li><li>vielseitige Anwendung</li><li>präzise Schaftaufnahme</li><li>optimale Mischgutmenge</li></ul>"
-}

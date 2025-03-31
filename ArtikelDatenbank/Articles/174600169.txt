@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>hochwertiges Material</li><li>Seifenrückstände verhindern</li><li>praktische Aufbewahrung</li><li>vielseitig einsetzbar</li><li>modernes Design<br/></li></ul>"
-}

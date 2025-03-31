@@ -1,4 +1,0 @@
-{
-    "uvp": 10.55,
-    "attributes": "<ul><li>Krokodilklemmen in Sortiment<br/></li><li>Klemmen mit Isolation</li><li>Klemmen ohne Isolation</li><li>ideal für Werkstatt und Hobby</li><li>für den Kfz Bereich</li></ul>"
-}

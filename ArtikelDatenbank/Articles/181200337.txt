@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Packung Saatgut für ca. 70 Pflanzen inklusive Stecketikett</li><li>farbenprächtig und langstielig mit kräftigem Wuchs</li><li>eignen sich hervorragend als Schnittblume</li><li>außergewöhnlich große Blüten</li><li>zur Bepflanzung von Blumenbeeten, Rabatten und Gruppenbepflanzungen<br/></li></ul>"
-}

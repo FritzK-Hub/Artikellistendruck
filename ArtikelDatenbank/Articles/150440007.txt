@@ -1,4 +1,0 @@
-{
-    "uvp": 37.95,
-    "attributes": "<ul><li>abnehmbarer 1,5-Liter-Kunststoffbehälter</li><li>hochwertige Edelstahlklinge</li><li>5 Geschwindigkeiten + Impuls-Mix</li><li>kleine Stellfläche</li><li>integrierte Kabelaufbewahrung<br/></li></ul>"
-}

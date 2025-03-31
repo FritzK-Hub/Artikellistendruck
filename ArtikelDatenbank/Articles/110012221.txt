@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Mischdüse mit Reduzierstück und Gummidichtung</li><li>verringert die Wasserdurchflussmenge um bis zu 40%</li><li>Verringerung auf bis zu 6 l/min bei 3 bar Wasserdruck</li><li>kalk- und bakterienrestistent</li><li>geruchsfrei, geschmacksneutral und sterilisierbar</li></ul>"
-}

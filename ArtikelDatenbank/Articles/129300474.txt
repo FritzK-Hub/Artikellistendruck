@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>elegante Blütenpracht im Frühling</li><li>dekorative Blüten für jeden Garten</li><li>einfache Pflanzung und Pflege</li><li>vielseitig für halbschattige Lagen</li><li>unterstützt Bienen und Hummeln<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>3-schäftig gedrehtes Sisal-Seil</li><li>nach DIN EN ISO 1181</li><li>zum Befestigen und Verzurren</li><li>besonders tragfähig bis max. 30 kg</li><li>Länge individuell wählbar von 1 m bis 80 m<br/></li></ul>"
-}

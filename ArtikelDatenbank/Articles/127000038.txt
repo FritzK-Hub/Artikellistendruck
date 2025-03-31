@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>Schneiden mit geringen Kraftaufwand</li><li>geringes Gewicht durch Aluminiumhebelarme</li><li>Ergonomisch geformte Griffstücke</li><li>Präzisionsgeschliffene Klingen</li><li>Anschlagpuffer aus einem speziellen Kunststoff</li><li>Klingen mit Antihaftbeschichtung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>bietet jederzeit frisches Futter</li><li>hohe Frosttoleranz für späte Ernte</li><li>einfache Pflege und hoher Ertrag</li><li>optimal für Kleintierhalter</li><li>Ernte über mehrere Monate hinweg</li></ul>"
-}

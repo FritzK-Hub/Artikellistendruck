@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>Solarbetrieb für nachhaltige Energiequelle</li><li>langlebig und witterungsbeständig</li><li>anpassbare Fontänen zur individuellen Gestaltung</li><li>fördert die Teichgesundheit durch Sauerstoffzufuhr</li><li>schnell und einfach zu installieren</li></ul>"
-}

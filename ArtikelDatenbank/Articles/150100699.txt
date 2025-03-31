@@ -1,4 +1,0 @@
-{
-    "uvp": 8.29,
-    "attributes": "<ul><li>Spoiler mit 6 Anpresspunkten für beste Wischergebnisse</li><li>passendes Zubehör für die Fahrzeugfrontscheibe</li><li>verleiht eine sportliche Optik am Fahrzeug</li><li>einfache Montage mittels Click &amp; Go</li><li>inklusive vier passgenaue Adapter<br/></li></ul>"
-}

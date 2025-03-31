@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>3in1 Nass- Trockensauger mit Ausblasfunktion</li><li>mit 20 l Edelstahlbehälter</li><li>integrierte Zubehöraufnahme für Düsen und Saugrohr</li><li>3-teiliges Saugrohr und 2 m Saugschlauch</li><li>stabiler Stand durch 4 Lenkrollen</li></ul>"
-}

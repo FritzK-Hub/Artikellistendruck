@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>dekorative LED-Lichterkette mit Timer und 8 Leuchtfunktionen</li><li>lässt sich einfach manuell oder per App bedienen</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>vielseitig einsetzbare Innen- und Außendekoration</li><li>die LEDs strahlen in weißer Farbe, sind langlebig und sparen Energie<br/></li></ul>"
-}

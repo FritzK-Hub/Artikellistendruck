@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>universell einsetzbarer Transportroller mit einer Tragkraft bis zu 150 kg</li><li>Arbeitsplatte aus robustem MDF-Holz mit 18 mm stärke gefertigt</li><li>für Reparaturen am Unterboden von Fahrzeugen oder den Transport von Schwerlasten</li><li>mit 4 Anti-Rutsch-Punkten für einen besseren Halt und sicheren Transport</li><li>mit praktischem Tragegriff für den leichteren Transport<br/></li></ul>"
-}

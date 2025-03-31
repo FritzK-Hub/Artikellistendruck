@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Zaunweiß 2 Liter in Weiß, seidenmatt von DecoPro</li><li>für Holzzäune, Holzverkleidungen, Fensterläden oder Holzhäuser im Außenbereich</li><li>auch für Carports oder Pergolen geeignet</li><li>ist schnelltrocknend, geruchsarm und vergilbungs- wie scheuerbeständig.</li><li>bietet einen Langzeitschutz von bis zu acht Jahren</li></ul>"
-}

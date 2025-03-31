@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Skimmer zur automatischen Reinigung der Wasseroberfläche</li><li>geeignet für Filteranlagen mit einer Leistung von mindestens 2.006 l/h</li><li>robuster, rostfreier Kunststoffkorpus</li><li>leicht zu reinigender Schmutzkorb</li><li>einfache Montage am Poolrand</li></ul>"
-}

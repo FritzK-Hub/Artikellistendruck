@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Anzuchtschale aus robustem Kunststoff</li><li>ideal zum Vortreiben von Pflanzen und Blumen</li><li>die Maßen 38 x 24 cm bieten ausreichend Platz</li><li>mit integrierten Belüftungslöchern im Deckel</li><li>ideales Klima für deine Setzlinge<br/></li></ul>"
-}

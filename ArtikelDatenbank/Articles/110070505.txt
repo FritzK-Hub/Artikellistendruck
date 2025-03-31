@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>besonders langlebige Konstruktion</li><li>perfekte Anpassung an vorhandenen Kamin</li><li>einfache Installation</li><li>mit schwarzer Senotherm-Lackierung</li><li>verbesserte Sicherheit und Effizienz<br/><br/></li></ul>"
-}

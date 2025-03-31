@@ -1,4 +1,0 @@
-{
-    "uvp": 42.12,
-    "attributes": "<ul><li>Abschleppstange aus vollverzinktem Vierkantrohr</li><li>zum sicheren Abschleppen von Fahrzeugen bis 2 Tonnen</li><li>stabil und bruchfest, einfach anzubringen</li><li>3-teilig, leicht verstaubbar</li><li>ausreichend Abstand zwischen dem ziehendem und gezogenem Fahrzeug</li></ul>"
-}

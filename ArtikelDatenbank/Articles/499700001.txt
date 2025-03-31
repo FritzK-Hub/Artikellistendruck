@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>garantiert eine gleichmäßige Lastverteilung und sorgt für stabilere Konstruktionen</li><li>besonders langlebig und stabil, aus rostfreiem Edelstahl gefertigt</li><li>vielseitig als Abstandhalter oder Unterlage für eine Vielzahl von Bauteilen verwendbar</li><li>in der Bauindustrie einsetzbar, bei der Montage von Fenstern oder der Befestigung von Fassadenverkleidungen</li><li>besonders Materialschonend, schützt vor Feuchtigkeit und minimiert das Risko von Beschädigungen</li></ul>"
-}

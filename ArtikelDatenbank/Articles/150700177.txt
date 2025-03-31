@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Nachfüller für Pattex® Aero 360°</li><li>gegen Feuchtigkeit und schlechte Gerüche</li><li>frischer Duft mit ätherischen Ölen</li><li>innovative Luftentfeuchtung  </li><li>wirksamer durch patentierte Wellenform </li></ul>"
-}

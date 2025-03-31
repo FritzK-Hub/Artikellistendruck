@@ -1,4 +1,0 @@
-{
-    "uvp": 139.95,
-    "attributes": "<ul><li>Wasserdichte Nähte</li><li>Innentaschen zum Verstauen von persönlichen Gegenständen</li><li>feuerhemmendes Material</li><li>Fluoreszierende Abspannseile</li><li>mit transparentem PVC-Fenster</li></ul>"
-}

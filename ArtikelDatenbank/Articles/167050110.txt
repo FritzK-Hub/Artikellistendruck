@@ -1,4 +1,0 @@
-{
-    "uvp": 1.39,
-    "attributes": "<ul><li>verzinktes Stahldrahtseil 6 x 7-FC</li><li>nach DIN EN 12385-4:2002</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1m bis 220m</li><li>Belastbarkeit: max. 45 kg</li></ul><p><br/></p>"
-}

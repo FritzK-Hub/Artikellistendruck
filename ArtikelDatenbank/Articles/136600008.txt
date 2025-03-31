@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Abbrechmesser-Set 18 mm mit Kunststoff-Korpus</li><li>Set beinhaltet 6 Cuttermesser</li><li>passender Helfer im Haushalt oder bei Renovierungsarbeiten</li><li>zum Öffnen von Kartons, Schneiden von Papier und Tapeten</li><li>mit ausschiebbarer Abbrechklinge versehen<br/></li></ul>"
-}

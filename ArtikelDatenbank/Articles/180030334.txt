@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>100% Naturbast</li><li>vielseitig einsetzbar</li><li>schonend für Pflanzen</li><li>leicht und handlich</li><li>natürliche Optik und Haptik</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Taschenrechner mit angewinkelter 12-stelliger LCD-Anzeige</li><li>4 Grundrechenarten, Quadratwurzelrechnung, Prozentrechnung</li><li>Speicher- und +/- Funktion</li><li>Taschenrechner mit Batterie- und Solarbetrieb</li><li>inkl. Bedienungsanleitung und Batterie<br/></li></ul>"
-}

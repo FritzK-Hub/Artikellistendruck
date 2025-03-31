@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schutzkupplungskappe soft in schwarz</li><li>aus weichem PVC gefertigt</li><li>ideal für alle PKW-Anhängerkupplungen</li><li>dient zum Schutz vor Verschmutzung und Rost</li><li>universal passend<br/></li></ul>"
-}

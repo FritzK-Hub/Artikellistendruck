@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Markerbsen Remus für ca. 12 laufende Meter</li><li>besitzt gleichmäßiges und dunkelgrünes Korn</li><li>ist eine sehr ertragreiche, mittelfrühe Erbsensorte</li><li>geringe Anfälligkeit gegen Fuß- und Welkekrankheiten</li><li>verfügt über eine Probefeldgetestete Qualität<br/><br/></li></ul>"
-}

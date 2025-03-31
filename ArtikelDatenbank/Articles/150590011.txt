@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Tischdeckenklammer im Set (4 Stück)</li><li>unerlässlich an windigen Tagen</li><li>mit 4 Motiven, Sonne, Biene, Blatt und Besteck sortiert<br/></li><li>aus Edelstahl</li><li>die Tischdecke liegt stets sauber und ordentlich</li></ul>"
-}

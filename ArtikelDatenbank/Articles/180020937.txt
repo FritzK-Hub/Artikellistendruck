@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>3-teilige Schlauchverschraubung aus Messing</li><li>zur Verbindung eines 1/2\" mit einem 3/4\" Schlauch</li><li>Montage mittels Schlauchschellen</li></ul>"
-}

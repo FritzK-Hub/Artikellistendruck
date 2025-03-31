@@ -1,4 +1,0 @@
-{
-    "uvp": 119.0,
-    "attributes": "<ul><li>werkzeugloser Bürstenwechsel für alle Aufsätze</li><li>Teleskopstange höhenverstellbar von 980-1280 mm</li><li>Spritzschutz für sauberes Arbeiten</li><li>integrierter Sicherheitsschalter</li><li>verstellbarer Zusatzhandgriff 180°</li></ul>"
-}

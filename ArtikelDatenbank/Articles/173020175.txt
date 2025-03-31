@@ -1,4 +1,0 @@
-{
-    "uvp": 11.2,
-    "attributes": "<ul><li>Bits-Steckschlüssel-Winkelschrauber mit 21 Aufsätzen</li><li>im praktischen Aufbewahrungskasten</li><li>handlicher Helfer für die Werkzeugkiste</li><li>kleine praktische Ratsche für Standard-Bits &amp; Nüsse</li><li>die schnelle Lösung für viele schlecht erreichbare Stellen<br/></li></ul><p></p>"
-}

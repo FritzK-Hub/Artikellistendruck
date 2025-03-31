@@ -1,4 +1,0 @@
-{
-    "uvp": 3.9,
-    "attributes": "<ul><li>vielseitige Gewindeschrauben 4x16 mit M4 Muttern</li><li>praktische Sichtbox für ordentliche Aufbewahrung</li><li>leicht zu installieren dank Schlitzantrieb</li><li>verzinktes Metall gemäß DIN 84 Norm</li><li>langlebig und korrosionsbeständig<br/></li></ul>"
-}

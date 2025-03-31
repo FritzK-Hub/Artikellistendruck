@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Druckkugelschreiber blauschreibend</li><li>2 Stück im Set</li><li>mit auswechselbarer A3-Mine</li><li>Kugelschreiber mit einer 1,0 mm Spitze</li><li>angenehmes und leichtes Schreiben<br/></li></ul>"
-}

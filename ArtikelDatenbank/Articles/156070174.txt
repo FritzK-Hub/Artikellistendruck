@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Ersatz-Farbwalze Premium</li><li>für alle Wand-und Deckenfarben</li><li>bestens geeignet für leicht strukturierte Untergründe</li><li>sehr hohe Farbaufnahme und gleichmäßige Farbabgabe</li><li>gute Materialabdeckung für mittlere bis große Flächen</li></ul>"
-}

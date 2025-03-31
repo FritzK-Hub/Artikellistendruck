@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Saatgut Stangenbohnen Neckarkönigin für ca. 15 Stangen</li><li>grüne, dickfleischige, 28 cm lange und runde Hülsen, ohne Fäden</li><li>verfeinere sämtlichen Gerichte oder Bohneneintöpfe</li><li>bringt selbst bei ungünstigen Bedingungen gute Erträge</li><li>verfügt über eine Probefeldgetestete Qualität<br/><br/></li></ul>"
-}

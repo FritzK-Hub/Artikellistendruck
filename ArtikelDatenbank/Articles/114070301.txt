@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>authentisches Eichenholz-Optik-Design</li><li>schlankes und modernes Rahmenprofil</li><li>hochwertiger Kunststoff, langlebig und pflegeleicht</li><li>klarer Blick auf deine Bilder, das Normalglas sorgt für eine klare und unverfälschte Darstellung</li><li>vielseitig einsetzbar, passt zu verschiedenen Einrichtungsstilen</li></ul>"
-}

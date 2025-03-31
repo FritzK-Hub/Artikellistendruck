@@ -1,4 +1,0 @@
-{
-    "uvp": 57.95,
-    "attributes": "<ul><li>zur Vermeidung von Marderschäden im Motorraum</li><li>mit pulsierenden Ultraschallton und Schalldruck bis zu 95 dB</li><li>dank Batteriebetrieb im Haus, Garage oder Scheune einsetzbar</li><li>vertreibt die Marder, ohne diese dabei zu verletzen</li><li>einfache Montage dank flacher, platzsparender Bauweise<br/></li></ul>"
-}

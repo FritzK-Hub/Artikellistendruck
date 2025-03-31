@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Parkscheibe mit Eiskratzer</li><li>mit Eisbrecher- und Schabkante</li><li>integrierte Gummilippe</li><li>mit 24-Stunden Anzeige</li><li>zulässig nach Straßenverkehrsordnung<br/></li></ul>"
-}

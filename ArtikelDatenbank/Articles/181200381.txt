@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Stabtomate Idyll GS für ca. 80 Pflanzen</li><li>mit vielen, süßen und aromatischen Früchten</li><li>ist eine ertragreiche, beliebte Tomatensorte</li><li>für den Frischverzehr oder zum Garnieren geeignet</li><li>verfügt über eine Probefeldgetestete Qualität<br/><br/></li></ul>"
-}

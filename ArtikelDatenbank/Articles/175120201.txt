@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>Kohlendioxid (Co2)</li><li>Inhalt 390 g</li><li>zum MAG-Schweißen von unlegierten und niedriglegierten Stählen</li><li>für Schutzgasschweißgerät SSG 145 (CFH-No. 52860)</li><li>Druck 165 bar</li></ul>"
-}

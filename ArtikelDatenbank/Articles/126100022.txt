@@ -1,4 +1,0 @@
-{
-    "uvp": 92.99,
-    "attributes": "<ul><li>Gartenpflege-Set Akku-Gras- und Strauchschere</li><li>präzisionsgeschliffene Messer mit Antihaftbeschichtung</li><li>für exakten Rasenkanten-Schnitt und Buchsbaum-Formschnitt</li><li>leistungsstarker Lithium-Ionen-Akku</li><li>schneller Messerwechsel ohne Werkzeug</li></ul>"
-}

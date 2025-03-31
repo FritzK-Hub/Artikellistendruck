@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>10 Unterlegscheiben Ø 10 mm für Türscharniere</li><li>zum Anheben von schleifenden Türen</li><li>verhindern das Verkratzen von Böden</li><li>universell einsetzbar</li><li>Fitschenringe, vermessingt für Zimmertüren<br/></li></ul>"
-}

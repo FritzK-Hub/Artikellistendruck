@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Windlicht solarbetrieben mit 6 cm Durchmesser</li><li>aus robustem Edelstahl gefertigt</li><li>ein passendes Zubehör für innen und außen</li><li>schafft eine entspannte Atmosphäre</li><li>eine umweltfreundliche Tischbeleuchtung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>batterieunabhängig jederzeit nutzbar</li><li>kompakte Größe, ideal für unterwegs</li><li>Dynamo-Funktion zum umweltfreundlichen Aufladen</li><li>robustes Design mit praktischer Handschlaufe</li><li>klare LED-Beleuchtung für jede Situation</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 499.95,
-    "attributes": "<ul><li>Pool im komfortablen Komplett-Set<br/></li><li>Auskleidung aus robustem DuraPlus-Material in Kieselstein-Optik<br/></li><li>extrem stabile Rahmenkonstruktion mit Korrosionsschutz</li><li>FrameLink System mit Kunststoff-T-Verbindern verhindert Rostschäden</li><li>PVC-Band sorgt für zusätzliche Stabilität</li></ul>"
-}

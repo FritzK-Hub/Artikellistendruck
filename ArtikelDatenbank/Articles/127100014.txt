@@ -1,4 +1,0 @@
-{
-    "uvp": 21.9,
-    "attributes": "<ul><li>hochwertiges Eschenholz für maximale Stabilität</li><li>ergonomische Form bietet sicheren Griff</li><li>zwei Stiele zur doppelten Einsatzbereitschaft</li><li>optimale Länge für kraftvolle Schläge</li><li>einfache Montage zum schnellen Austausch</li></ul>"
-}

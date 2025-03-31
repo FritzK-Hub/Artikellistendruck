@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Spezialstahl</li><li>verchromt</li><li>6-fach vernietet</li><li>halbrunde Backen</li></ul>"
-}

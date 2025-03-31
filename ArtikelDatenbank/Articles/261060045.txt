@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>sicher und stabil in verschiedenen Untergründen</li><li>effektive Spreizung und Verknotung</li><li>einfache Handhabung dank Kragen an Ankerhülse</li><li>spannungsfrei für einfache Dübelmontage</li><li>universell einsetzbar für verschiedene Baustoffe<br/></li></ul>"
-}

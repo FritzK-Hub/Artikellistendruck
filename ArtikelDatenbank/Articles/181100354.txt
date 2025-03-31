@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Obstbäume für den Hausgarten oder der Terrasse im Eimer</li><li>verschiedene Sorten auswählbar</li><li>150 - 200 cm hohe Bäume</li><li>optimal für Kuchen oder Marmelade geeignet</li><li>schnellster Weg um die ersten Früchte ernten zu können</li></ul>"
-}

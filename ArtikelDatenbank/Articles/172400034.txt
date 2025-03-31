@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>leistungsfähige Alkaline Batterien</li><li>Typ LR06 AA</li><li>nicht wiederaufladbar</li><li>im 24-er Pack</li><li>ideal zur Bevorratung</li></ul>"
-}

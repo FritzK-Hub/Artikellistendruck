@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Paprika Feher für den frühen Freilandanbau</li><li>aufrecht stehende, spitzkegelige Früchte</li><li>können schnell geerntet werden</li><li>rot abreifend auch gut für Salate oder Gemüsebeilagen</li><li>Paprika mit hohem Gesundheitswert</li></ul>"
-}

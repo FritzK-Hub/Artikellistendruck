@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>universal Gartenbrause zur Gartenbewässerung</li><li>Wasserdruck stufenlos regulierbar</li><li>Handhebel zum Bewässern feststellbar</li><li>Griffstück gerippt und ergonomisch geformt</li><li>1/2\" Anschluss passt zu allen gängigen Schnellkupplungen<br/></li></ul>"
-}

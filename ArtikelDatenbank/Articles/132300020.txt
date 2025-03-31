@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>kompakter und handlicher Schwingschleifer mit 200 W</li><li>erleichtert das Schleifen von Ecken, Flächen und Kanten</li><li>ergonomische Grifffläche für einwandfreie Schleifergebnisse</li><li>schnelles Blattwechsel dank Klemmvorrichtung</li><li>staubfreie Schleifarbeit durch integrierte Staubabsaugung<br/></li></ul>"
-}

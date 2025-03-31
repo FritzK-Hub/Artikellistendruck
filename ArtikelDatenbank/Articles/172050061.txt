@@ -1,4 +1,0 @@
-{
-    "uvp": 10.79,
-    "attributes": "<ul><li>Verlängerungskabel mit Flachstecker</li><li>zur Verwendung im Innenbereich,nicht wassergeschützt</li><li>5 m Verlängerungskabel</li><li>geeignet für Euro- und Schutzkontaktstecker</li><li>Stromkabel in weiß</li></ul>"
-}

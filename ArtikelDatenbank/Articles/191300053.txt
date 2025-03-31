@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Hängematte für zwei Personen zur Entspannung im Garten</li><li>wurde aus einer Mischung aus Baumwolle und Polyester angefertigt.</li><li>hat eine Tragefähigkeit von bis zu ca. 200 kg</li><li>ist durch seine Streifen eine schöne Sommerergänzung</li><li>bei Nichtgebrauch platzsparend aufbewahrbar<br/></li></ul>"
-}

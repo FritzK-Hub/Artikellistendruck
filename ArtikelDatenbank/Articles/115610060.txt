@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>stilvolle Holzoptik trifft auf robuste Stabilität</li><li>werkzeuglose Montage für mühelosen Aufbau</li><li>individuell anpassbare Ablagen zur flexiblen Nutzung</li><li>hohe Tragkraft für schwere Lasten</li><li>Industrial Design bietet vielseitige Einsatzmöglichkeiten</li></ul>"
-}

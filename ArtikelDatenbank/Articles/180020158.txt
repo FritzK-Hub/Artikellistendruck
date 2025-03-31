@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>flexibler Gartenschlauch 20 m</li><li>UV-beständig</li><li>3-lagige Ausführung</li><li>Anti-Algen Ausstattung</li><li>ganzjährig einsetzbarer Wasserschlauch 3/4''</li></ul><div></div>"
-}

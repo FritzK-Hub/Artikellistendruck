@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>schonender Kleber für empfindliche Untergründe</li><li>Innen- und Außentauglichkeit</li><li>hohe UV-Beständigkeit</li><li>mit einseitiger Klebung</li><li>Umweltfreundlich und FSC-zertifiziert</li></ul>"
-}

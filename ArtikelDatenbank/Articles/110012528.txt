@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>als Austausch von unansehnlichen, porösen Duschstangen</li><li>besonders stabil und robust, aus Metall verchromt</li><li>höhenverstellbarer Konusgleiter für die Handbrause</li><li>schneller und kostengünstiger Ersatz mit klassischer Optik</li><li>mitgeliefertes Befestigungsmaterial erleichtert die Wandmontage<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Servierpfanne aus massivem Gusseisen</li><li>für unvergessliche Geschmackserlebnisse beim Grillen</li><li>mit gleichmäßiger Hitzeverteilung und guten Brateigenschaften</li><li>für Herdarten Induktion, Elekro-, Gas-, Glaskeramik- oder Ceranherdflächen geeignet</li><li>passendes Zubehör für den nächsten Campingausflug<br/></li></ul>"
-}

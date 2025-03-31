@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>hoher Reinigungseffekt auch ohne Chemie</li><li>Wabenstruktur für besonders hohe Schmutzaufnahme</li><li>entfernt jede wasserlösliche Verschmutzung</li><li>besonders für die streifenfreie Reinigung von glatten und strukturierten Flächen</li><li>hervorragend geeignet zur Trocken- und Nassreinigung von Hartbodenbelägen<br/></li></ul>"
-}

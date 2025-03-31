@@ -1,4 +1,0 @@
-{
-    "uvp": 19.09,
-    "attributes": "<ul><li>LIQUI MOLY Motorenöl für Benzin- und Dieselmotoren</li><li>basierend auf HC-Syntheseölen</li><li>speziell entwickelt für Fahrzeuge aus dem GM Konzern nach Anforderung dexos 2™</li><li>modernes Leichtlaufmotoröl für Turbomotoren und Dieselpartikelfilter (DPF)</li><li>mit exzellentem Verschleißschutz<br/></li></ul><p></p>"
-}

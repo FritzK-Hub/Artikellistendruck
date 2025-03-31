@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Schlauchverbinder Reduzierung 3/4\"-1/2\" aus Kunststoff</li><li>zur schnellen Verbindung von 2 Schläuchen</li><li>für Reduzierungen 3/4\"-1/2\" von Gartenschläuchen</li><li>wird zwischen zwei Schlauchenden montiert<br/></li></ul>"
-}

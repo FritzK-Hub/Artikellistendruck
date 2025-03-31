@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>passend für Standventil-Oberteile in den Größen ½\" und ⅜\"</li><li>geeignet für den Einsatz in Haushalt und Industrie</li><li>hochwertiger Gummi für zuverlässige Abdichtung</li><li>einfache Installation dank präziser Passform</li><li>enthält O-Ringe für beide Größen</li></ul><p></p>"
-}

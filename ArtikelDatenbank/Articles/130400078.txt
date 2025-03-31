@@ -1,4 +1,0 @@
-{
-    "uvp": 79.99,
-    "attributes": "<ul><li>elektrischer Heizstrahler Amara mit bis 2 kW</li><li>zwei Heizstufen sorgen für individuelle Wärmeoptionen</li><li>robustes Metall-Gehäuse mit Gitter für zusätzliche Stabilität</li><li>geeignet für Wohnräume bis 16 m²</li><li>einfache Montage an der Decke oder Wand möglich<br/></li></ul>"
-}

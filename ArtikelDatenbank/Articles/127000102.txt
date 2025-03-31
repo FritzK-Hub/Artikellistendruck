@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>praktischer Sensenbaum mit gebogener Form</li><li>aus langlebigen verzinkten Stahlrohr</li><li>mit Stahlschale und Drahtgriff</li><li>zwei verstellbare Holzgriffe</li><li>für Rechts- und Linkshänder geeignet<br/></li></ul>"
-}

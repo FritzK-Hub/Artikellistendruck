@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Blechschraube mit angepresster Scheibe am Kopf</li><li>mit Blechgewinde</li><li>passend für Bohrergröße 3,0 mm und PH2 Bit</li><li>für die Montage von Blech- und Kunststoffteilen</li><li>galvanisch verzinkte Linsenblechschraube</li></ul>"
-}

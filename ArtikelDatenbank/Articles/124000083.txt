@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Kupplungsstück mit Regulierventil</li><li>Zur stufenlosen Regulierung und Absperrung des Wasserdurchflusses</li><li>2 Schnellverschlüsse zum einfachen Schlauchanschluss</li><li>einfache Verbindung deiner Gartenschläuche mit Schnellkupplung</li><li>getrennte Regulierung nach Y-Stücken sehr einfach möglich<br/></li></ul>"
-}

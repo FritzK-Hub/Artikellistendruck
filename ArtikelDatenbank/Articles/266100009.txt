@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Tragkraft pro Möbelrolle ca. 25 kg</li><li>schwenkbares Rad mit Bremse</li><li>PVC Räder</li><li>das Gehäuse aus PVC</li><li>die Anschraubplatte ist gesteckt</li></ul>"
-}

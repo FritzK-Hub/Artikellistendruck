@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>vielseitige Pinselauswahl</li><li>langlebige Materialien</li><li>anpassungsfähig für verschiedene Farben</li><li>praktische Größenvielfalt</li><li>stabile Konstruktion</li></ul>"
-}

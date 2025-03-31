@@ -1,4 +1,0 @@
-{
-    "uvp": 299.0,
-    "attributes": "<ul><li>hoher Wirkungsgrad für maximale Stromausbeute</li><li>direkte Stromweitergabe dank USB-Ports</li><li>wetterfest für zuverlässigen Outdoor-Einsatz</li><li>kompakte Bauweise mit sicherem Magnetverschluss</li><li>flexible Befestigung durch integrierte Metallringe</li></ul>"
-}

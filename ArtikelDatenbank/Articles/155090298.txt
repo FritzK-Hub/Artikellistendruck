@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>wirksamer Schutz für elektrische Anlagen</li><li>mit einer Sicherung mittlerer Leistung</li><li>besonders kurzschlusssicher</li><li>leichte Integration in bestehende Verteilersysteme</li><li>einfache und schnelle Installation<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Abdichtung für verschiedenste Wasser-Verschraubungen</li><li>Sortiment Haus &amp; Hof mit vielen verschiedenen Größen</li><li>hochwertiges Material für eine lange Lebensdauer</li><li>auch geeignet für viele Sanitär-Verschraubungen</li><li>aus Faser und Gummi-Material<br/></li></ul>"
-}

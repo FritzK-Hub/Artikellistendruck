@@ -1,4 +1,0 @@
-{
-    "uvp": 5.08,
-    "attributes": "<div class=\"spb--product-details mtop_mittel\"><ul><li>U-Profil aus eloxiertem Aluminium</li><li>z. B. zur Anfertigung von Rahmen, als Abschlussleiste und Kantenschutz </li><li>Länge: ca. 100 cm</li><li>Maße Profil (HxB): 10 x 11,5 mm</li><li>Materialstärke: 1,5 mm</li></ul></div><div class=\"bs-row\"> </div>"
-}

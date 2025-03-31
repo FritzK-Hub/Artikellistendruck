@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Schneeschaufel ILTEV aus recyceltem Kunststoff</li><li>komfortabler Halt trotz Handschuhe dank des D-Griffes</li><li>passende Helfer für den kalten Winter<br/></li><li>leichtes Räumen durch die scharfe Kunststoffkante</li><li>teleskopierbarer Stiel, von 34 auf 47,5 cm ausziehbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>Universal-Ersatzdach für Pavillons</li><li>aus stabilem PVC-beschichteten Polyester</li><li>wasserundurchlässig, dadurch nutzbar bei Regen</li><li>passt auf alle handelsüblichen 3 x 3 m Pavillons</li><li>Befestigung mittels Klettverschlüssen</li></ul>"
-}

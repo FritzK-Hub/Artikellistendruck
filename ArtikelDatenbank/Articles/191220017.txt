@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Grillzange aus rostfreiem Edelstahl</li><li>gute Handhabung für einen sicheren Halt</li><li>schützt deine Hände vor Hitze</li><li>gezahnter Kopf für optimalen Halt ob bei Fleisch, Fisch oder Gemüse</li><li>ideales Werkzeug für jede Grillparty<br/></li></ul>"
-}

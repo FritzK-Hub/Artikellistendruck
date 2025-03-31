@@ -1,4 +1,0 @@
-{
-    "uvp": 23.29,
-    "attributes": "<ul><li>Gardena Classic Bewässerungsbrause, 3 verschiedene Sprühbilder</li><li>liegt durch die griffigen Weichkunststoff-Elemente angenehm in der Hand</li><li>mit stufenloser, regulierbarer Strahlart regulierbar</li><li>ergonomischer Impulsauslöser mit Dauerarretierung</li><li>die Dauerarretierung ermöglicht bequeme, permanente Bewässerung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>PKW Anhänger LED-Rückleuchten<br/></li><li>4 Anschlusskabel für 12 V Anschlüsse</li><li>4 Funktionen: Schlusslicht, Bremslicht, Blinker, Kennzeichenbeleuchtung</li><li>langlebig und energiesparend durch LED</li><li>schnelle und sichere Montage</li></ul><p><br/><br/></p>"
-}

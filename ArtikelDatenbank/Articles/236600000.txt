@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>GERMANIA® Messer zum Schneiden von Dämmstoff</li><li>mit einem 2-Komponenten Softgriff</li><li>Klinge mit Doppelzahnung</li><li>Klingenspitze ist geeignet zum Bohren in Dämmstoffen</li><li>Dämmstoffmesser mit einer gehärteten und polierten Klinge<br/></li></ul>"
-}

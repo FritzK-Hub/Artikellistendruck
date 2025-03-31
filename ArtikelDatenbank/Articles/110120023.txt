@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Einweg-Gasfeuerzeuge aus Kunststoff</li><li>mit Reibrad-Zündung </li><li>Brennstoff Butangas</li><li>farbig sortiert</li><li>3 Stück im Set<br/></li></ul>"
-}

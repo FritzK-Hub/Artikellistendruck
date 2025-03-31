@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Rollkultivator mit scharfen 9 Doppelklingen</li><li>aus massivem Stahl mit verzinkter Oberfläche</li><li>zur Oberflächenlockerung in verschiedenen Beeten</li><li>sichere Stielverbindung durch eine 28 mm Stieldülle</li><li>unverzichtbares Werkzeug zur Bodenbearbeitung</li></ul>"
-}

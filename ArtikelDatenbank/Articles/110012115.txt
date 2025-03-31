@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>einfache Installation inkl. Anschlüsse und Abdeckklappen</li><li>mühelose Temperatur-Justierung bietet Komfort</li><li>pflegeleicht und beständig</li><li>zeitloses Design für jedes Badezimmer</li></ul>"
-}

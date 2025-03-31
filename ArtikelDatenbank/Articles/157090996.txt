@@ -1,4 +1,0 @@
-{
-    "uvp": 5.95,
-    "attributes": "<ul><li>transparentes U-Profil 16 mm x 98 m aus Polycarbonat</li><li>zum sicheren Abdecken von Profil- und Hohlkammerplatten </li><li>verhindert das Eindringen von Wasser, Staub und Schmutz</li><li>deckt unauffällig scharfe Kanten ab</li><li>schnelle und werkzeuglose Montage durch Klemmen<br/></li></ul>"
-}

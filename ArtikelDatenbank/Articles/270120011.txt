@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Drahtbürstensatz universal von GERMANIA® Qualitätswerkzeuge</li><li>3-teiliges Set bestehend aus drei Drahtbürsten mit 2-K Griff</li><li>für verschiedene Einsatzgebiete</li><li>die Drahtbürsten sind 3-reihig</li><li>ergonomischer Griff zur leichteren Handhabung</li></ul>"
-}

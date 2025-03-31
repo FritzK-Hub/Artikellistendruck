@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Mehrbereichs-Öl für Otto- und Dieselmotoren</li><li>für moderne Pkw Otto- und Dieselmotoren</li><li>geeignet für Motoren mit Abgasnachbehandlung (Dieselpartikelfilter) und Turboaufladung</li><li>auf Basis ausgesuchter HC-Synthese-Grundöle</li><li>erfüllt die Anforderungen der GM dexos 2™ Spezifikation</li></ul>"
-}

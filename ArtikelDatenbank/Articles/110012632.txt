@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>ermöglicht leichtes und sauberes Entlüften</li><li>optimale Passform für 1/2\" Ventil</li><li>schützt Umgebung vor Verschmutzung</li><li>universell passend für alle gängigen Ventile</li><li>robuster Kunststoff bietet lange Nutzungsdauer</li></ul>"
-}

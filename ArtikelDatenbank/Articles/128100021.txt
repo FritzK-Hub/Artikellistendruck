@@ -1,4 +1,0 @@
-{
-    "uvp": 499.95,
-    "attributes": "<ul><li>hochwertiger Ausziehtisch</li><li>ausziehbar von 180 auf 260 cm</li><li>aus Eukalyptus-Holz, geölt</li><li>witterungsbeständig</li><li>mit Schirmloch</li></ul>"
-}

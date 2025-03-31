@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>starke Leistung bei jedem Wetter</li><li>langlebig durch moderne Technologie</li><li>kompakt und vielseitig einsetzbar</li><li>einfache Kontrolle mit Ladeanzeige</li><li>hohe Startkraft bei Kälte</li></ul>"
-}

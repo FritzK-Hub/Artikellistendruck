@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>verhindert effektiv Zugluft, Lärm, Staub, Kälte oder Wärme</li><li>einfach in der Handhabung, aus selbstklebenden PU-Schaum gefertigt</li><li>vielseitig für veraltete Abdichtungen anwendbar, spart Kosten und Zeit</li><li>universell auf Fenster- und Türspalten von 1 -5 mm geeignet</li><li>besonders witterungsbeständig und geräuschdämmend<br/></li></ul>"
-}

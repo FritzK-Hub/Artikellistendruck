@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>10 Gelbsticker im Set</li><li>gelber Farbton lockt fliegende Insekten an, welche kleben bleiben</li><li>einfache Anwendung, fix und fertig beleimt, durch Trennblätter einfach abzuziehen</li><li>dauerhafte Wirkung, lang anhaltende Klebefähigkeit</li><li>flexibel, ganzjährig einsetzbar, wirkt sicher und zuverlässig, insektizidfrei<br/><br/></li></ul>"
-}

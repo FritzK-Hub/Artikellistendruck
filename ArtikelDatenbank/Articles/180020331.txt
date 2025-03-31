@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li><div>Teleskop Gartenbrause ausziehbar von ca. 70 cm bis 100 cm</div></li><li><div>zur Gartenbewässerung auch an schwer zugänglichen Stellen</div></li><li><div>Brausekopf um 180° drehbar, mit 6 Wasserstrahleinstellungen</div></li><li>Wasserdruck am Handgriff stufenlos regulierbar</li><li>Griffstück Gummi-ummantelt, gerippt und ergonomisch geformt</li></ul>"
-}

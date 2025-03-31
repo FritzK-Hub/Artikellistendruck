@@ -1,4 +1,0 @@
-{
-    "uvp": 26.18,
-    "attributes": "<ul><li>Heizungs-Notschalter mit Kontrollleuchte</li><li>mit Beschriftung und \"Aus\" Markierung</li><li>klassisches Design mit weißer Oberfläche</li><li>für die Unterputz-Montage</li><li>Schutzklasse IP 44 - spritzwassergeschützt</li><li>für Unterputz-Montage - für Feuchträume geeignet</li><li>nur mit Rahmen der Serie AquaKombi zu verwenden<br/></li></ul>"
-}

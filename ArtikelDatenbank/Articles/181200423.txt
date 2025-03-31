@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Mittagsblume Prachtmischung, für ca. 100 Pflanzen</li><li>bodendeckende Sorte, für Beet- oder Gruppenpflanzungen</li><li>die Prachtmischung liefert eine wunderschöne Blütenpracht</li><li>seine Blüten öffnen sich nur bei Sonnenschein</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Knieschutz Größe L von Wundmed</li><li>ideal zur Verhütung von Verletzungen</li><li>Kniebandage lindert Schmerzen</li><li>klinisch getestet und mehrmals verwendbar</li><li>für Männer und Frauen geeignet</li></ul>"
-}

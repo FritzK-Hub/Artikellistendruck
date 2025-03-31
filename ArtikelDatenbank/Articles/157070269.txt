@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Fensterkitt auf Leinölbasis für Reparatur und Sanierung</li><li>universell einsetzbar, insbesondere bei Einfachscheiben</li><li>für die Verglasung von Fenstern und Türen</li><li>gute Verarbeitungseigenschaften, gut knetbar, geschmeidig</li><li>für den Innen- und Außenbereich</li></ul>"
-}

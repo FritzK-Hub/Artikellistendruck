@@ -1,4 +1,0 @@
-{
-    "uvp": 28.85,
-    "attributes": "<ul><li>individuell anpassbar durch herausnehmbare Trennwände</li><li>wasserdichtes, kratzfestes Oxford 1680D Gewebe</li><li>isoliert – Lebensmittel bleiben länger frisch</li><li>stabile MDF-Wände, bis 25kg belastbar</li><li>rutschfest durch Klett an der Unterseite</li><li>auf halbe Größe oder ganz zusammenfaltbar</li></ul>"
-}

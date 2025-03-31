@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Fuß-Tretschalter 1-polig weiß</li><li>mit Verbindungsklemmen für Null- und Schutzleiter</li><li>mit schraubbarer Zugentlastung</li><li>für zwei oder drei-adrige Anschlussleitungen</li><li>1-poliger Ausschalter 250 V</li></ul>"
-}

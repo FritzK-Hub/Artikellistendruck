@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>leuchtender Farbtupfer</li><li>Selbstaussaat und Nachhaltigkeit</li><li>Bienenweide und Hummelmagnet</li><li>einfache Pflege</li><li>Blütenflor durch richtigen Schnitt<br/></li></ul>"
-}

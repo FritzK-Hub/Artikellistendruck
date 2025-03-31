@@ -1,4 +1,0 @@
-{
-    "uvp": 5.59,
-    "attributes": "<ul><li>für halbrunde Dachrinnen geeignet<br/></li><li>dichtet zuverlässig Enden ab</li><li>aus stabilem Kunststoff</li><li>für Dachrinnen RG 125</li><li>Montage ohne Werkzeug möglich</li></ul>"
-}

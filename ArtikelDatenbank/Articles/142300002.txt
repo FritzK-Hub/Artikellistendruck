@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Anzündhilfe für Grill, Kamin Ofen</li><li>32 ökologische Grillanzünder</li><li>Grill Anzündhilfe in Würfelform</li><li>aus nachwachsenden Rohstoffen</li><li>lange und gleichmäßige Brenndauer<br/></li></ul>"
-}

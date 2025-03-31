@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>Seifenstäbchen im 10-er Set</li><li>einzeln entnehmbar<br/></li><li>zur wirksamen Reinigung von Lack- und Kunststoffoberfächen</li><li>für Handwaschbürsten und Handschrubbern</li><li>biologisch abbaubar<br/></li></ul>"
-}

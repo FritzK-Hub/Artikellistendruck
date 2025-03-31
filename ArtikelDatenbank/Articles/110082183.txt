@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Filter für jede Abzugshaube geeignet</li><li>verhindert Fettablagerungen auf Möbeln</li><li>Dunstabzugshauben-Filter ist waschbar</li><li>für ein angenehmes Raumklima</li><li>einfache und saubere Handhabung</li></ul>"
-}

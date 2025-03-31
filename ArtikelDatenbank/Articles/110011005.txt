@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Vlies-Isolierschlauch zum Schutz deiner Wasserleitungen</li><li>eignet sich zum Abisolieren von Kupfer- und Eisenleitungen</li><li>schützt vor aggressiven Stoffen im Mauerwerk</li><li>dämmt zusätzlich die Fließgeräusche</li><li>einfach in der Handhabung, leicht zu verwenden<br/></li></ul>"
-}

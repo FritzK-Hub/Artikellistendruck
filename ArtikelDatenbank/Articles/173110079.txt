@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>kerzenförmige LED-Lampe mit 2,9 W, E14 Sockel</li><li>vielseitig einsetzbare LED-Beleuchtung in verschiedenen Räumen</li><li>besitzt eine längere Lebensdauer als herkömmliche Glühbirnen</li><li>mit einem höheren Energieersparnis gegenüber Standardlampen</li><li>einfach in der Handhabung, lässt sich leicht Austauschen<br/></li></ul>"
-}

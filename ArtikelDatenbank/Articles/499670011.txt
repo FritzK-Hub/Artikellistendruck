@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Durchmesser Kopf: ca. 19,0mm</li><li>Höhe Kopf: ca. 7,5mm</li><li>Durchmesser Schraube: ca. 12,0mm (M12)</li><li>Länge: ca. 50mm</li></ul>"
-}

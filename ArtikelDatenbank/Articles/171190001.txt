@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>MSL Spezial-Haftgrundfarbe von Alpina in Weiß</li><li>gewährleistet eine hervorragende Haftung auf allen Nichteisenmetallen</li><li>Grundierung sorgt für zuverlässige Haftung der nachfolgenden Beschichtung</li><li>ist schnell trocknend und kann direkt auf Rost eingesetzt werden</li><li>Untergrund sollte tragfähig, fest, sauber, trocken und fettfrei sein<br/></li></ul>"
-}

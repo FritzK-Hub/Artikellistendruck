@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Hahnanschluss, Wasseranschlussverbinder</li><li>Hahnanschluss für Wasserhahn, mit Außengewinde (1/2“)</li><li>kompatibel mit anderen Systemen</li><li>zum Verbinden von einem Gartenschlauch mit einem Wasserhahn</li><li>schnelles Abkoppeln und Umstecken des Schlauches<br/></li></ul>"
-}

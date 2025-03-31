@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li><strong>Schleifstreifen </strong>Set 20 Stück mit K40 - 120</li><li>für Klemmbefestigung geeignet</li><li>überzeugt mit Langlebigkeit und gleichmäßigem Schleifbild</li><li>für GERMANIA® Schwingschleifer passend</li><li>für das Abschleifen von größeren Flächen bei Holz, Metall und Farbe</li></ul>"
-}

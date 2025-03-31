@@ -1,4 +1,0 @@
-{
-    "uvp": 1.19,
-    "attributes": "<ul><li>Saatscheiben Petersilie-Mix in verschiedenen Sorten</li><li>zur Verfeinerung von Salaten, Eintöpfen oder Soßen</li><li>enthält viel Vitamin-C mit leckerem Geschmack</li><li>ist ganzjährig im Innenbereich anbaubar</li><li>lässt sich leicht trocken, einfrieren oder in Öl einlegen</li></ul>"
-}

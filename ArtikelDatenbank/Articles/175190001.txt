@@ -1,4 +1,0 @@
-{
-    "uvp": 139.95,
-    "attributes": "<ul><li>stabiles Kaminholzregal ohne Rückwand</li><li>perfekte Aufbewahrung von Brennholz</li><li>wetterfest und langlebig</li><li>mit Dach und Vollwandverstrebung  </li><li>sehr guter Schutz vor Nässe<br/></li></ul>"
-}

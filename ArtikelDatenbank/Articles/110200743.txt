@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>Terrassendiele aus unbehandeltem, gehobeltem Douglasieholz 1. Wahl</li><li>zum Verlegen auf Terrassen oder anderen Außenflächen</li><li>durch natürliche Inhaltsstoffe resistent gegenüber Pilz- und Insektenbefall</li><li>kann zum besseren Schutz vor Nässe imprägniert bzw. geölt werden</li><li>ideale Unterkonstruktion für Terrassen<br/></li></ul>"
-}

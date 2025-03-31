@@ -1,4 +1,0 @@
-{
-    "uvp": 28.75,
-    "attributes": "<ul><li>Halbmaske mit Filter</li><li>entspricht EN 140, EN 141 und EN 14387</li><li>Schutz vor organischen Gasen und Dämpfen mit Siedepunkt &gt; 65 °C</li><li>geeignet für den Einsatz bei verschmutzer Luft mit einem Sauerstoffgehalt von mehr als 17%</li><li>inklusive 1 Filter Schutzklasse A1 (Filter mit geringer Leistung)</li></ul>"
-}

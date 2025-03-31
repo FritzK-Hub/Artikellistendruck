@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>100 Wasserbomben in verschiedenen Farben</li><li>aus Naturkautschuklatex gefertigt</li><li>für Gartenpartys und Wasserschlachten</li><li>lassen sich leicht mit Wasser befüllen</li><li>einfache Handhabung<br/></li></ul>"
-}

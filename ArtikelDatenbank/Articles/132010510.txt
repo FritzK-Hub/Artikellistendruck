@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Gitterbox für Vogelfutter zum Nachfüllen</li><li>aus stabilem Metall in gefertigt</li><li>passend für Winterfutter z.B. Vogel-Buffet (in unserem Shop erhältlich)</li><li>kann problemlos an Ästen oder ähnliches aufgehängt werden</li><li>inklusive Kette<br/></li></ul>"
-}

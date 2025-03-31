@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Lackier-Ringpinsel mit geradem Pinselkopf</li><li>bestens geeignet für Abschlüsse und Kanten</li><li>bester Materialauftrag auch bei starken Vetiefungen</li><li>Spezialborstenmischung, stabiler Holzgriff</li><li>geeignet für alle Lacke</li></ul>"
-}

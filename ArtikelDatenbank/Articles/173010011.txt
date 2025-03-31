@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>aus Chrom-Vanadium Stahl geschmiedet</li><li>nach DIN-Normen</li><li>stabiler Kunststoffkoffer</li><li>mit Super Lock System</li></ul>"
-}

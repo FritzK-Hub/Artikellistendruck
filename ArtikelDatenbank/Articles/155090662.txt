@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li> 3-adrige Gummi-Schlauchleitung mit Gummi-Mantel </li><li> zum Anschluss von Geräten bis maximal 500 V geeignet </li><li>unzulässig für die Verwendung an Heizgeräten oder größeren Elektrowerkzeugen</li><li> z. B. für den Anschlusss leichter Elektrogeräte wie Rasenmäher, Rasentrimmer und Vertikutierer<br/></li><li> Verwendung in trockenen Räumen und zur kurzfristigen Verwendung im Freien</li></ul><p></p>"
-}

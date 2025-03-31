@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Klarsichtfolie auf Rolle</li><li>zum Verpacken von Geschenken</li><li>auch für Blumensträuße geeignet</li><li>lässt sich gut drapieren</li><li>unbedruckt</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>3 stabile Vorhängeschlösser</li><li>ideal zum Absperren von Türen, Schuppen, Gartentoren, Kisten u.v.m.</li><li>Größen: 25mm, 30mm und 40mm</li><li>gehärtetes Metall</li><li>je 3 Schlüssel</li></ul>"
-}

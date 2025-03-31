@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>robuster Kunststoff für hohe Haltbarkeit</li><li>staubfreier Schutz durch stabilen Deckel</li><li>cleveres Design für sicheres Stapeln</li><li>vielseitige Nutzung in jedem Raum</li><li>einfacher Transport für flexible Aufbewahrung</li></ul>"
-}

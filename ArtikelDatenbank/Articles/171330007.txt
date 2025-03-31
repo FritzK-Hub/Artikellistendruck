@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Bauschaum Genius Gun 750 ml von Soudal</li><li>ist ein gebrauchsfertiger, einkomponentiger Polyurethanschaum</li><li>verfügt über die innovative GENIUS GUN®-Technologie</li><li>zum Ausschäumen von Hohlräumen oder in der Elektroinstallation einsetzbar</li><li>sorgt für optimales Füllvolumen in einfacher Handhabung<br/></li></ul>"
-}

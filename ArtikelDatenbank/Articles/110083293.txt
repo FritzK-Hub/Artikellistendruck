@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Digital Thermometer zur Kontrolle von Innen<em>-</em> und Außentemperatur</li><li>Außentemperatur wird mit einem Sensorkabel übertragen</li><li>speichert Minimal- und Maximal-Werte, mit manueller Rückstellung</li><li>zum Aufstellen oder Wandmontage</li><li>großer Messbereich</li></ul>"
-}

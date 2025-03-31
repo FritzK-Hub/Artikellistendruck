@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>UL &amp; CSA Zulassungen</li><li>hohe Temperaturbeständigkeit</li><li>effizientes Schrumpfverhältnis</li><li>umfassende Größenauswahl</li><li>vielseitig einsetzbar</li></ul>"
-}

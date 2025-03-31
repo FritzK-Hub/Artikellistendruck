@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    mit Schraubklemmen,/nNennspannung: 240 V~,/nAnschlussleistung: 20 - 400 W,/nfür Glühlampen und 230 V Halogenlampen,/nPhasenanschnittdimmer ( R ),/nmit Dreh-Ausschalter,/nnicht für Wechselschaltung geeignet\"\"/n/n/n                "
-}

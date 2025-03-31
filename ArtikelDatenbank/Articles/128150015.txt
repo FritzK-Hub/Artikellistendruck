@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Schutzhülle Komfort für Stapel- und Relaxstühle</li><li>aus robustem Oxford 420D Polyestergewebe gefertigt</li><li>schützt Gartenstühle vor Feuchtigkeit, Schmutz &amp; UV-Strahlung</li><li>hohe Flexibilität auch bei großer Belastung</li><li>bei Nichtgebrauch platzsparend in der Tragetasche <br/></li></ul>"
-}

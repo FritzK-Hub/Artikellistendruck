@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>T-Profil Winkelschlüssel-Satz von GERMANIA®</li><li>9 gängige Größen enthalten</li><li>mit Stirnlochbohrung für T-Schrauben mit Sicherungsstift</li><li>im Handklapphalter für leichte Entnahme</li><li>geeignet auch für schwer zugängliche Stellen</li></ul>"
-}

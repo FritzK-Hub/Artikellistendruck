@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>flexibel positionierbar dank Batteriebetrieb</li><li>automatischer Timer für wiederkehrenden Lichterglanz</li><li>wetterfest - ideal zum Außeneinsatz</li><li>festliche Designs mit 60 LEDs</li><li>einfaches Befestigen mittels Bodenstecker</li></ul>"
-}

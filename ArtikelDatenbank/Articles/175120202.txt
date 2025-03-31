@@ -1,4 +1,0 @@
-{
-    "uvp": 26.99,
-    "attributes": "<ul><li>für präzises Schweißen</li><li>maximale Effizienz</li><li>60 bar Argon-Druck</li><li>zuverlässige Versorgung</li><li>hochwertige Schweißergebnisse</li></ul>"
-}

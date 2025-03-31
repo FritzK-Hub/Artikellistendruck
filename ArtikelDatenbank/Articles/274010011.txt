@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>hoher Anpressdruck</li><li>geringes Gewicht</li><li>Nylonverstärkt</li><li>Schnelllöseknopf</li></ul>"
-}

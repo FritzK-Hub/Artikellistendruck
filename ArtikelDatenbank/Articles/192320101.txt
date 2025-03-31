@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Fensterdekoration „Ski“ aus Holz</li><li>in verschiedenen Farben erhältlich</li><li>schafft in Wohnräumen eine weihnachtliche Atmosphäre</li><li>dank Aufhängung leicht am Fenster aufhängbar</li><li>auch passende Geschenkidee zu Nikolaus <br/></li></ul>"
-}

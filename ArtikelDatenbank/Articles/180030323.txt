@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>zum Verbinden, Befestigen oder Zusammenhalten</li><li>in der Gartenarbeit oder im Haushalt einsetzbar</li><li>schnell und einfach in der Handhabung</li><li>ideal zum Festbinden von Kabeln oder für Bastelprojekte</li><li>25 m Länge bietet ausreichend Draht für viele Projekte</li></ul>"
-}

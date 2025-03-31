@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Flachstange aus kaltgewalztem Stahl</li><li>verzinkt und somit vor Rost geschützt</li><li>leicht mit handelsüblicher Metallsäge abzulängen</li><li>Materialstärke (b) 1,2 mm</li><li>Flach-Profil 23,5 x 1,2 mm</li></ul>"
-}

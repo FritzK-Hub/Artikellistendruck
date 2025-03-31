@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>hohe Bruchfestigkeit</li><li>Kälte- und UV-Beständigkeit</li><li>einfache Montage</li><li>flexibles Design</li><li>stilvolles Holzdekor<br/></li></ul>"
-}

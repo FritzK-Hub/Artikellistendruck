@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>10 O-Ringe aus Gummi</li><li>Dichtringe für herkömmliche 1/2\" Wasserstecksysteme</li></ul>"
-}

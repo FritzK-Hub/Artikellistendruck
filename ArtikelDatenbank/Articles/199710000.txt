@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>2 Kauschen aus Edelstahl</li><li>auch Seilöse, Seilauge, Seilkausche oder Drahtseilkausche genannt</li><li>zur Verstärkung von Seilendschlaufen</li><li>rostfrei</li><li>schont das Seil vor Reibung</li></ul>"
-}

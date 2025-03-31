@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<p>- kordiert<br/>- matt verchromt</p>"
-}

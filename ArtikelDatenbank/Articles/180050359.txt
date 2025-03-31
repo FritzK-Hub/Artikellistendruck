@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Auflagenbox 305 Liter für Sitzkissen, Auflagen oder Polster</li><li>aus wetterfestem Polyrattan in anthrazit gefertigt</li><li>dank kleinen Räder überall transportierbar</li><li>bietet ausreichend Stauraum für Kissen oder Sitzbezüge</li><li>Vorrichtung für ein Vorhängeschloss für mehr Sicherheit</li></ul>"
-}

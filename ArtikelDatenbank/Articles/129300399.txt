@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>die botanische weiße Variante der klassichen Narzisse mit kleinerer Blüte und markant gelber Blütenmitte<br/></li><li>ein Blickfang in deinem Gartenbeet<br/></li><li>sind pflegeleichte Frühjahrsblüher</li><li>in Kombination für farbige Blütenpracht</li><li>besonders starkleuchtende Blüten</li></ul><p></p>"
-}

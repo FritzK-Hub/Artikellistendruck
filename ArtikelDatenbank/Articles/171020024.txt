@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Abtönkonzentrat in Pirol</li><li>dient zum Abtönen fast aller Materialien</li><li>äußerst farbintensiv, ergiebig und frostbeständig </li><li>hat hervorragende Mischeigenschaften </li><li>verfügt über sehr gute Lichtbeständigkeit<br/></li></ul>"
-}

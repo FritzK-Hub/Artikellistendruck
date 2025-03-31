@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul> <li>französische Kofferstaffelei aus Echtholz</li> <li>mit großer Mischpalette aus Holz</li> <li>bequemer Transport durch Schulterriemen und Tragegriff</li> <li>im praktischen Koffer lassen sich Malutensilien wie Pinsel und Farben transportieren</li> <li>für Leinwände bis 100 cm geeignet</li></ul>"
-}

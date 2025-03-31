@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li> ideal für die Reinigung Kunststoffoberflächen</li><li>verhindert elektrostatische Aufladungen</li><li>wirkt staubabweisend</li><li>schützt vor neuen Verschmutzungen</li><li>hinterlässt einen angenehmen Duft</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>10-teiliges Set - 3 verschiedenen Größen</li><li>geringes Gewicht</li><li>starke Feder</li><li>nylonverstärkt</li><li>bewegliche Spannbacken</li></ul>"
-}

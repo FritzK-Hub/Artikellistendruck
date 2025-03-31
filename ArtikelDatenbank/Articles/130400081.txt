@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>intelligentes Smart-Heizkörperthermostat mit App-Steuerung</li><li>Sprachsteuerung (Google Assistant, Amazon Alexa, Siri)</li><li>benutzerfreundlich &amp; energiesparend</li><li>zeitgesteuerte Programmierung</li><li>effizente ZigBee-Technologie</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 98.0,
-    "attributes": "<ul><li>hochwertige Steckschlüsseleinsätze für Profis</li><li>Schraubeinsätze für E-Profil, TX, TX mit Loch und TX-PLUS</li><li>Bit-Klingen aus S2-Siliziumstahl</li><li>Aufnahmeschächte aus Chrom Vanadium Stahl</li><li>hohe Stabilität und beste Qualität</li></ul>"
-}

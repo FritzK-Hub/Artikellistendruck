@@ -1,4 +1,0 @@
-{
-    "uvp": 48.95,
-    "attributes": "<ul><li>feinverzahnt mit 72 Zähnen</li><li>380 mm lang</li><li>rutschfester ergonomisch geformter 2-Komponenten-Griff</li></ul>"
-}

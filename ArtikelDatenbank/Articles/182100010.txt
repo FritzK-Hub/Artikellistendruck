@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "                    NIGRIN Reifen-Dicht ist die schnelle und einfache Pannenhilfe bei platten Fahrradreifen.   NIGRIN Reifen-Dicht verschließt Löcher in Sekundenschnelle und pumpt den Reifen gleichzeitig wieder auf. In der Regel ist  kein Nachflicken erforderlich und sollte auf keiner Tour fehlen.    • für alle gängigen Ventile geeignet  • ausreichend für bis zu 2 Reifenfüllungen  /n                "
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Vogelfutterstation aus Kunststoff</li><li>ideal zum Füttern von freilebenden Vögeln</li><li>bietet ausreichend Platz für Streufutter</li><li>Kunststoff-Röhre schützt das Futter vor Nässe</li><li>leichtes Aufhängen durch Metall-Bügel</li></ul><p></p>"
-}

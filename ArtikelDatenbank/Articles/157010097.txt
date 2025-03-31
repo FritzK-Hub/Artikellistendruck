@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>DecoPro Wandweiß für den Innenbereich</li><li>atmungsaktive Innen-Dispersionsfarbe</li><li>hoher Weißgrad und waschbeständig</li><li>kann mit Vollton- und Abtönfarben eingefärbt werden</li><li>für einfache, rationelle Renovierungs- und Neuanstriche</li></ul>"
-}

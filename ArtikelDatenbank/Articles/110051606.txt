@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Stoffhauben Set 5 Stück für Einmachgläser mit Ø 15 cm</li><li>dazugehörige Gummibänder für einfaches Befestigen</li><li>ideal für selbst gemachte Marmelade, Konfitüre oder Gelee</li><li>überrasche deine Freunde mit bezaubernden Marmeladengläsern</li><li>in verschiedenen Farben erhältlich</li></ul>"
-}

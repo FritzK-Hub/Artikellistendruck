@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Weihnachtskonifere im Weihnachtssack</li><li>erhältlich mit einer Mütze oder Weihnachtsstern</li><li>erschafft ein weihnachtliches Ambiente</li><li>vielseitig einsetzbare im Innen- und Außendekoration</li><li>ideal als Winterzeit Dekoration sowie als Geschenkidee<br/></li></ul>"
-}

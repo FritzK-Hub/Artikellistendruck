@@ -1,4 +1,0 @@
-{
-    "uvp": 5.69,
-    "attributes": "<ul><li>Ersatz-Oberteil für Schrägsitzventil mit Entleerung ½\"</li><li>einfacher Austausch der Dichtungseinheit bei bereits verbauten Ventilen</li><li>ermöglicht eine schnelle Reparatur deines defekten Ventils</li><li>ideal für den Hauswirtschaftsraum oder  deinen Keller</li><li>Ersatzteil für das Schrägsitzventil 110012275</li></ul>"
-}

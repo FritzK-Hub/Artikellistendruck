@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Durchmesser: Ø ca. 6 mm</li><li>Länge: ca. 55 mm</li><li>Menge: 180 Stück</li><li>mit Kragen</li><li>Farbe: grau</li></ul>"
-}

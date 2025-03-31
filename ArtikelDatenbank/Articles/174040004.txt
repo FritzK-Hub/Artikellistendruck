@@ -1,4 +1,0 @@
-{
-    "uvp": 5.85,
-    "attributes": "<ul><li>für Kupfer-, Messing- und Leichtmetallrohre</li><li>für die Installation von Rohren im Wasser und Heizungsbereich</li><li>einfache Handhabung</li><li>3 - 28 mm Durchmesser</li><li>mit Entgratungsmesser</li></ul>"
-}

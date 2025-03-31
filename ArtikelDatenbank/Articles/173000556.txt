@@ -1,4 +1,0 @@
-{
-    "uvp": 8.95,
-    "attributes": "<ul><li>strapazierfähige Drahtseilaufhängung</li><li>passend für die Deckenbefestigung von LED-Panels</li><li>die Beleuchtung kann flexibel bis zu 80 cm von der Decke hängen</li><li>einfache Handhabung </li><li>inklusive Montagezubehör für die Deck-Montage<br/></li></ul>"
-}

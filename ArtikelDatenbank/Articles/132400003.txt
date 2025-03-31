@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>GERMANIA® Multitool 300 W zum Schaben oder Trennen</li><li>mit Schnellwechselsystems schnelles Wechseln der Werkzeuge möglich</li><li>lässt sich universell für jede Arbeit einsetzen</li><li>der Staubabsaugadapter sorgt für einen sauberen Arbeitsplatz</li><li>inklusive Koffer, Schaberklinge und Sägeblatt<br/></li></ul>"
-}

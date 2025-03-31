@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>superflaches Übergangsprofil aus eloxiertem Aluminium in messing<br/></li><li>zum Verbinden zweier gleich- oder verschiedenartiger Bodenbeläge</li><li>speziell in Eingangsbereichen oder in Fluren um Beläge dezent zu verbinden</li><li>besonders geeignet, wenn die örtlichen Gegebenheiten (z. B. unter einer Türe) keinen höheren Auftrag zulassen</li><li>einfache Montage durch spezielles superhaftendes Doppelklebeband</li></ul>"
-}

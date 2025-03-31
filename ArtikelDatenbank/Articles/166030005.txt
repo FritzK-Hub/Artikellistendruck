@@ -1,4 +1,0 @@
-{
-    "uvp": 4.9,
-    "attributes": "<ul><li>vielseitig für den Transport von Möbeln oder andern schweren Gegenständen geeignet</li><li>sorgt für eine reibungslose Fahrt auf verschiedenen Untergründen</li><li>verhindert ungewollte Kratzer auf dem Boden</li><li>lassen sich schnell und einfach mittels Stiftführung montieren</li><li>besonders robust und langlebig, einfach in der Handhabung<br/></li></ul>"
-}

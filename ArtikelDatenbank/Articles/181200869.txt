@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatband Hainblume, ca. 2 laufende Meter</li><li>leuchtend mit weißen Blüten, violett befleckt</li><li>blühen von Frühjahr bis in den Spätherbst</li><li>wunderscöner Bodendecker, nur max. 20 cm hoch</li><li>ideal für Balkonkästen, Kübel und Steingärten<br/></li></ul>"
-}

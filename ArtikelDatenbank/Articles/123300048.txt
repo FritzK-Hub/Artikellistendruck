@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>perfekt zur Anzucht von Gewächsen</li><li>regulierbare Belüftung für gesundes Wachstum</li><li>kompakte Größe, passt in jedes Zuhause</li><li>robustes Design zur langfristigen Nutzung</li><li>einfache Handhabung und Pflege</li></ul>"
-}

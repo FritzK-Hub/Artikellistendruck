@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>exotisch-elegantes Design aus Arizona-Zypresse</li><li>natürlicher, frischer Duft für dein Zuhause</li><li>individuell dekorierbar nach deinem Geschmack</li><li>vielseitig einsetzbar als festliche Dekoration</li><li>langlebig und robust für die gesamte Adventszeit</li></ul>"
-}

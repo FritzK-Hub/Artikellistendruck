@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>10 Trinkbecher aus Biokunststoff</li><li>aus nachwachsenden Rohstoffen</li><li>für Getränke bis max. 40°C</li><li>kompostierbar und extra stabil</li><li>mit einem Fassungsvermögen von ca. 0,3 Liter</li></ul>"
-}

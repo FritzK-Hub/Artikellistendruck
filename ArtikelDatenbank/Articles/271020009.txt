@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Schnellspann-Bohrfutter mit Ø 0,8 - 10 mm</li><li>Abmessung: 3/8''</li><li>24 UNF Gewinde</li><li>für Rechts- und Linkslauf</li><li>geeignet für Bohrmaschinen und Akkuschrauber</li></ul>"
-}

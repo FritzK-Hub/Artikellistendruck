@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Farbwanne für Farb- und Lackierroller</li><li>für Maler- und Streicharbeiten</li><li>mit Abstreifvorrichtung für Farbroller und Pinsel</li><li>aus schlagfestem Kunststoff</li><li>idealer Helfer bei Lackierarbeiten</li></ul>"
-}

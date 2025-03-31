@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>leichtes Einhängen für mühelose Anwendung</li><li>Komplettset ermöglicht sofortige Gardinenverschönerung</li><li>langlebiges Material bietet anhaltende Zuverlässigkeit</li><li>schnelle Befestigung zur zeitersparenden Dekoration</li><li>unauffälliges Design erlaubt stilvolle Gardinenpräsentation</li></ul><p></p>"
-}

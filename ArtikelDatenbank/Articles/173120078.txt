@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>LED Lampe E27 in Birnenform im Retro-Look</li><li>keine UV- und IR-nahen Anteile im Licht</li><li>sehr geringer Energieverbrauch</li><li>LED Birne mit innovativer LED-Filament-Technologie</li><li>ohne Aufwärmzeit, sofort 100 % Licht</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>einfacher Anschluss von Anhängern mit 13-poligen Steckdosen an Fahrzeuge mit 7-poligem Stecker</li><li>robuste Konstruktion für eine lange Lebensdauer und zuverlässige Verbindung</li><li>kompatibel mit einer Vielzahl von Fahrzeugen und Anhängergrößen</li><li>schnelle und einfache Installation ohne Werkzeug oder besondere Kenntnisse</li><li>kann als Reserveadapter für den Notfall oder als Ersatz für defekte Kabel verwendet werden<br/></li></ul>"
-}

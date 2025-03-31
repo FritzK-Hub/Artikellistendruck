@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>perfekt für Verbindungen mit Gussrohren</li><li>ideal für Sanitär- und Heizungsanwendungen</li><li>minimiert Ablagerungen und Verstopfungen</li><li>geeignet für Abwässer bis 90°C</li><li>resistent gegen haushaltsübliche Salze, Laugen und Säuren</li></ul>"
-}

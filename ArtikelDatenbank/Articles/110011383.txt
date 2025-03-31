@@ -1,4 +1,0 @@
-{
-    "uvp": 9.29,
-    "attributes": "<ul><li>ermöglicht eine schnelle und einfache Montage eines Kaltwassersystems</li><li>simples Klemm-Schraub-Verbindungssystem erleichtert die Installation</li><li>sorgt für eine bequeme Wasserentnahme an der Garage, am Gartenteich oder Springbrunnen</li><li>universell und vielseitig rund um Haus, Garten oder Hof einsetzbar</li><li>Anschlussverschraubungen sind für Trinkwasser zugelassen und besonders langlebig<br/></li></ul>"
-}

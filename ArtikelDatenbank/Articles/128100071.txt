@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>Camping Küchenschrank mit viel Stauraum für Küchenzubehör &amp; mehr</li><li>leicht, robust und einfach transportierbar</li><li>höhenverstellbar zur individuellen Anpassung</li><li>platzsparend zusammenklappbar für einfache Lagerung</li><li>strapazierfähige Materialien ermöglichen langanhaltende Nutzung</li></ul>"
-}

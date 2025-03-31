@@ -1,4 +1,0 @@
-{
-    "uvp": 225.95,
-    "attributes": "<ul><li>4-teiliges Gartensessel-Set</li><li>Klappstühle mit Armlehnen</li><li>Akazienholz geölt</li><li><span class=\"modal_lexicon\">wetterfest und robust<br/></span></li><li>platzsparend verstaubar</li></ul>"
-}

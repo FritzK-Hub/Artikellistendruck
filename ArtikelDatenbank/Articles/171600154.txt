@@ -1,4 +1,0 @@
-{
-    "uvp": 15.49,
-    "attributes": "<ul><li>nachhaltiger Schutz inklusive, da biologisch &amp; vegan</li><li>lang anhaltende Brillanz: wasserabweisend und fleckenbeständig</li><li>effiziente Anwendung mit einfacher Verarbeitung</li><li>vielseitig einsetzbar auf Holzoberflächen im Haushalt</li><li>dauerhafte Belastbarkeit durch optimalen Schutz</li></ul>"
-}

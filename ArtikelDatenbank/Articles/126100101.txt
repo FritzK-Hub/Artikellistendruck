@@ -1,4 +1,0 @@
-{
-    "uvp": 359.95,
-    "attributes": "<ul><li>vielseitig einsetzbarer Ikra Akku-Multitool ICMT 2/20 4in1 </li><li>Kettensägenaufsatz zum Schneiden von höher liegenden Ästen in Bäumen </li><li>Heckenscherenaufsatz für die Hecken- und Strauchpflege</li><li>3-Zahn-Dickichtmesser oder eine Fadenspule für die Rasenpflege</li><li>inklusive 2 x 20 V Akkus und Doppel-Schnellladegerät<br/></li></ul>"
-}

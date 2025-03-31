@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Tür-Spion mit schützender Klappe</li><li>mit Weitwinkel von 180° ausgestattet</li><li>Einbaudurchmesser von nur Ø14 mm</li><li>passend für Türblattstärken von 35 bis 60 mm</li><li>verchromter Look für zusätzliche Eleganz</li></ul>"
-}

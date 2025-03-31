@@ -1,4 +1,0 @@
-{
-    "uvp": 64.95,
-    "attributes": "<ul><li>quadratischer Holztisch</li><li>aus massiven Akazienholz</li><li>einfach zusammenklappbar</li><li>witterungsbeständig und robust</li><li>schlichtes Design</li></ul>"
-}

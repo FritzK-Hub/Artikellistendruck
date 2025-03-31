@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": ""
-}

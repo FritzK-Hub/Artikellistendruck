@@ -1,4 +1,0 @@
-{
-    "uvp": 17.79,
-    "attributes": "<ul><li>Funk-Thermometer zur Kontrolle von Innen<em>-</em> und Außentemperatur</li><li>Außensender überträgt kabellos an die Basisstation</li><li>speichert Minimal- und Maximal-Werte</li><li>zum Aufstellen oder Wandmontage</li><li>mit praktischer Uhrzeitanzeige</li></ul>"
-}

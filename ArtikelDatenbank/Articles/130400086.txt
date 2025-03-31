@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>elektrischer Keramik- Heizlüfter mit 2 Heizstufen</li><li>zum Aufheizen von Räumen bis 45 m³</li><li>ausgestattet mit einstellbarem Thermostat und Überhitzungsschutz </li><li>Tragegriffe erleichtern den Transport des Heizgerätes</li><li>inklusive Bedienungsanleitung und einer 150 cm langen Zuleitung</li></ul>"
-}

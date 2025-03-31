@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Kartuschen-Düse im 5er Set</li><li>von FISHBULL Qualitätswerkzeuge</li><li>transparent</li><li>kein aufwendiges Säubern von eingetrockneten Spitzen</li><li>Spitzen können individuell an Fugenbreite angepasst werden</li></ul>"
-}

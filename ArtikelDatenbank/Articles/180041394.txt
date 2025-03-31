@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Kleinfeger 36,5 cm mit 7 Zinken</li><li>aus stabilem, verzinktem Stahl gefertigt</li><li>zum Harken oder Einsammeln von Laub</li><li>angenehme Gartenarbeit dank 2-Komponenten Kunststoffgriff</li><li>bei Nichtgebrauch dank Aufhängöse aufhängbar</li></ul>"
-}

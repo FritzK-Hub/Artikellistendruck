@@ -1,4 +1,0 @@
-{
-    "uvp": 6.95,
-    "attributes": "<ul><li>2-teiliges Set von Güde</li><li>vielseitig einsetzbar</li><li>sehr langlebig und robust</li><li>bestehend aus Einhand-Schnellkupplung und Stecknippel mit Tülle</li><li>Tüllen Durchmesser von 9 mm <br/></li></ul>"
-}

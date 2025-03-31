@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Hohlraumdübel für die Befestigungen in Gipskarton</li><li>gleichmäßige Verteilung von Lasten durch die besondere Bauart</li><li>hohe Stabilität und zuverlässige Verankerung</li><li>auch für die Befestigung schwerer Lasten geeignet</li><li>ideal für die Befestigung von Regalen, Bilderrahmen oder Lampen<br/></li></ul>"
-}

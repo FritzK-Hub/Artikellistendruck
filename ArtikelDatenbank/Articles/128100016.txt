@@ -1,4 +1,0 @@
-{
-    "uvp": 460.95,
-    "attributes": "<ul><li>Gartentisch ausziehbar auf bis zu ca. 240 cm</li><li>bietet bis zu 12 Personen Platz</li><li>mit robustem Aluminiumgestell</li><li>3-teilige Glasplatte mit Rahmen, Grau bedruckt<br/></li><li>schlichtes Design für zeitloses Aussehen</li></ul>"
-}

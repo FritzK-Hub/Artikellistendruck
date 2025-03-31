@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Universalkleber 100 g auf Wasserbasis von Stylex</li><li>klebt schnell, sauber und dauerhaft</li><li>geeignet u.a. für Papier, Pappe, Fotos, Filz, Kork und Holz</li><li>ideal für kreative Bastelarbeiten</li><li>lösungsmittelfrei und kalt auswaschbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>plastische, pastös eingestellte Bitumen-Dichtmasse</li><li>korrosionshemmend auf Metallen</li><li>sofort regenfest</li><li>sehr gute Bitumenhaftung</li><li>ideal zum Verkleben und Abdichten</li></ul>"
-}

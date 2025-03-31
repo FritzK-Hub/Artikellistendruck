@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Fliegenklatsche aus Kunststoff in Tennisschläger-Design</li><li>zur Bekämpfung von Mücken oder Fruchtfliegen</li><li>batteriebetrieben, Funktionskontrolle mittels Knopfdrucks zuschaltbar</li><li>ungefährlich für Menschen oder Haustieren</li><li>bei Nichtgebrauch platzsparend aufhängbar<br/></li></ul>"
-}

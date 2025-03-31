@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>speziell gefertigtes Alleinfuttermittel für alle Teichfische</li><li>enthält alle lebenswichtigen Nähr- und Aufbaustoffe</li><li>fördert die Vitalität der Fische</li><li>das Wasser wird durch das Futter nicht getrübt</li><li>wurde speziell für Freilandteiche entwickelt</li></ul>"
-}

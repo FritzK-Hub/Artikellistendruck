@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Pappbecher in Schwarz-Rot-Gelb</li><li>die ideale Dekoration die nächste Fußballparty</li><li>hochwertige Einweg-Becher</li><li>ideal für unterwegs, da leicht und unzerbrechlich</li><li>farbige Trinkbecher im Deutschland-Look</li></ul>"
-}

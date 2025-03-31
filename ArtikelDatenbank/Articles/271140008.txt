@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>zum Bohren von Löchern oder zum Fräsen von präzisen Konturen</li><li>vielseitig für den privaten oder professionellen Einsatz geeignet</li><li>besonders langlebig uns robust, aus massivem Hartmetall gefertigt</li><li>einfache und schnelle Bearbeitung von verschiedenen Materialen</li><li>erleichtert die Arbeit selbst unter anspruchsvollen Bedingungen<br/></li></ul>"
-}

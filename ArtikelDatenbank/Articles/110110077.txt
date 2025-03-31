@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Kokosbesen</li><li>reine Naturfaserborsten</li><li>1-Loch Stielaufnahme</li><li>aus massivem Holz</li><li>universell einsetzbar im Innen- und Aussenbereich</li></ul>"
-}

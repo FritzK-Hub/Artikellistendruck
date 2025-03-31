@@ -1,4 +1,0 @@
-{
-    "uvp": 3.59,
-    "attributes": "<ul><li>4-teiliges Dunlop-Ventil-Set</li><li>für Dunlop-Ventile</li><li>Ventileinsätze mit Überwurfmuttern</li><li>einfacher Austausch</li><li>inklusive Ventilkappen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Knopfzellen Batterien LR44 von Sonderpreis Baumarkt</li><li>Set beinhaltet 4 Knopfzellen</li><li>geeignet für Taschenrechnern, Fernbedienungen und Armbanduhren</li><li>sind langlebig und stark</li><li>nicht wiederaufladbar<br/></li></ul>"
-}

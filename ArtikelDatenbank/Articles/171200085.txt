@@ -1,4 +1,0 @@
-{
-    "uvp": 54.49,
-    "attributes": "<ul><li>BONDEX Holzlasur für den Außenbereich</li><li>für alle Holz- und Holzbauteile geeignet</li><li>schützt vor Feuchtigkeit, UV-Strahlung und Umwelteinflüssen</li><li>ist feuchtigkeitsregulierend, sehr sparsam und problemlos zu verarbeiten</li><li>witterungsbeständig, schützt vor Vergrünung und bewahrt natürliche Holzmaserung<br/></li></ul>"
-}

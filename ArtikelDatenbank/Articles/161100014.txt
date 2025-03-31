@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Lesehilfe verschiedene Modelle aus Kunststoff</li><li>zur einfachen Korrektur der Altersweitsichtigkeit</li><li>mit Dioptrien von + 1,5 ausgestattet</li><li>in verschiedenen Farben erhältlich<br/></li><li>für Männer und Frauen geeignet</li></ul><p></p>"
-}

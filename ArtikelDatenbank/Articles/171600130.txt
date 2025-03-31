@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>aus rein natürlichen Wachsen</li><li>hochwirksamer Oberflächenschutz</li><li>vielseitig verwendbar</li><li>Holzveredelung und -versiegelung</li><li>einfache Anwendung<br/><br/></li></ul>"
-}

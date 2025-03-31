@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Steckfitting, universell einsetzbar für die Sanitär- und Heizungsinstallation</li><li>einfache Installation, keine Spezialwerkzeuge erforderlich</li><li>bis zu 85% Zeitersparnis gegenüber Löten</li><li>Verbindung mit speziellem Werkzeug wieder lösbar</li><li>geeignet zur Unterputzmontage<br/><br/></li></ul>"
-}

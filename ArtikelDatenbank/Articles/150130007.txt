@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Sägekettenöl für alle Kettensägen</li><li>hoher Verschleißschutz</li><li>gut haftend und universell einsetzbar</li><li>zur Schmierung von Motorsägen namhafter Hersteller empfohlen</li><li>mineralisch und verharzungsfrei</li></ul>"
-}

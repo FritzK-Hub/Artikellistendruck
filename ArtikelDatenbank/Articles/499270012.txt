@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Linsenblechschraube mit Bohrspitze (auch Bohrschraube genannt) </li><li>Scheibe: angepresste Scheibe am Kopf</li><li>Gewinde: Blechgewinde</li><li>Kopf: Linsenkopf / Kreuzschlitz</li><li>Material: Stahl, galvanisch verzinkt</li></ul>"
-}

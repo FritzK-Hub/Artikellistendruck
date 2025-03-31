@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Winkel aus Messing</li><li>mit Innen- und Außengewinde 3/4\"</li><li>für effektive, sichere und stabile Rohrverbindungen</li></ul>"
-}

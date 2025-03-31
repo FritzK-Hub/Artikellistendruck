@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>perfektes Strahlbild durch Marken-Mischdüse</li><li>herausziehbare Geschirrbrause bietet Extra-Komfort</li><li>einfache Installation mit flexiblen Anschlussschläuchen</li><li>schwenkbarer Auslauf 360° schafft Flexibilität</li></ul>"
-}

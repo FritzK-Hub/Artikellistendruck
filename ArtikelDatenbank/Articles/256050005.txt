@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Malerabdeckvlies, wiederverwendbar und individuell zuschneidbar</li><li>mit rutschhemmender Unterseite</li><li>fester Halt auch auf Treppen und Leitern</li><li>saugfähige Oberseite aus Baumwollvlies</li><li>undurchlässige Folienunterseite mit rutschhemmender PE-Folie</li></ul>"
-}

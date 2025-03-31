@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>dekorative Feuerschale aus schwarzem, hitzefesten Stahl</li><li>verwendbar als Wärmefeuer für kuschlige Stunden</li><li>Griffe erleichtern das Transportieren</li><li>für einen sicheren Stand sorgen 3 anschraubbare Standfüße</li><li>ideal für Balkon, Terrasse oder Garten<br/></li></ul>"
-}

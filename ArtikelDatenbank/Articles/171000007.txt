@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>zum schnellen Ausbessern von Wandflächen</li><li>hoch strapazierfähige, matte Wandfarbe</li><li>in der praktischen Tube mit Auftragsschwamm<br/></li><li>hohe Deckkraft, deckt in einem Anstrich</li><li>frei von Konservierungsmitteln<br/></li></ul>"
-}

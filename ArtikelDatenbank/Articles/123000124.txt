@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>kompakte 50 cm Länge bietet Platzersparnis</li><li>hochwertiges Material aus Aluminium und Carbonstahl</li><li>sichere Halterung durch 4 Anti-Rutsch-Haken</li><li>schnelle Montage mit nur 2 Schrauben</li><li>vielseitige Nutzung für Werkstatt, Garage, und Zuhause</li></ul>"
-}

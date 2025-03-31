@@ -1,4 +1,0 @@
-{
-    "uvp": 11.5,
-    "attributes": "<ul><li>umfangreicher Bit-Satz für Heimwerker und Profis</li><li>passend für Schraub- und Montagearbeiten rund um deinen Haushalt</li><li>mit den gängigsten Größen für die unterschiedlichsten TX-Antrieb-Schrauben</li><li>inklusive Bithalter zur einfachen Arbeitsunterstützung</li><li>Kunststoffbox erleichtert den Transport und die Aufbewahrung</li></ul>"
-}

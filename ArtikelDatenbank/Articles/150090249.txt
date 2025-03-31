@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>für Anhänger oder Wohnwagen</li><li>handlich und gut versteckbar</li><li>für Kupplungen mit Ø 5 cm</li><li>inklusive 2 Schlüsseln und Sechskantschlüssel</li><li>witterungsbeständig<br/><br/></li></ul>"
-}

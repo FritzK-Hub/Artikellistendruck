@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>praktisches Käsebrett aus Bambusholz 26 cm</li><li>präsentiere deine besonderen Käsesorten mit Stil</li><li>Set besteht aus Holzbrett, Käsegabel, Käsemesser und Käsespachtel</li><li>bietet ausreichend Platz für deine Snacks und Getränke</li><li>bei Nichtgebraucht platzsparend dank Schlaufe aufhängbar<br/></li></ul>"
-}

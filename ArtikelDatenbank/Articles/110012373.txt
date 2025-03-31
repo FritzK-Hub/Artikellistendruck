@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>geeignet zum Hart- und Weichlöten für einfache Handhabung</li><li>perfekt für Heizungs-, Gas- und Sanitärprojekte geeignet</li><li>selbst in anspruchsvollen Umgebungen zuverlässig</li><li>hohe Qualität für zuverlässige Verbindungen</li><li>1 mm Materialstärke für robuste Stabilität</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 15.79,
-    "attributes": "<ul><li>Elektrolötkolben in Bleistiftform 15 Watt</li><li>mit Sicherheitsablegeständer</li><li>vernickelte CU-Lötspitze</li><li>kurze Anheizzeit</li><li>ideal für die Mikroelektronik<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Pinselset für Schule und Hobby</li><li>10 Stück im Set</li><li>mit Kunststoffgriffen und Metallzargen</li><li>verschiedene Pinsel Arten</li><li>Pinsel in unterschiedlichen Größen</li></ul>"
-}

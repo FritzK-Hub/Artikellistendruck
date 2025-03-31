@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>hohe Abriebfestigkeit</li><li>atmungsaktiv und wasserdampfdurchlässig</li><li>robust und langlebig</li><li>frei von Lösungsmitteln </li><li>frei von schädlichen Verbindungen</li></ul>"
-}

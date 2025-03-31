@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Balkonkastenhalterung \"Hangplast\" in terracotte</li><li>ist ein zuverlässiges Hilfsmittel, das für jeden Balkon- oder Terrassenbesitzer unverzichtbar ist</li><li>in der Lage eine Vielzahl an Balkonkästen unter die Arme zu greifen</li><li>die Breite kann man von 20 bis 25 cm verstellen</li><li>aus einer verstärkten Konstruktion<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 47.99,
-    "attributes": "<ul><li>punktgenaue Bewässerung von Rasenflächen</li><li>stufenlos verstellbare Reichweite</li><li>integrierter Mengenregler</li><li>Extra große Füße</li><li>frost-, witterungsbeständig und robust</li><li>eingebauter Metallfilter</li></ul>"
-}

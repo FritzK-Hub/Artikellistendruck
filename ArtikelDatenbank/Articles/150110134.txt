@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>schnelle Kaltstarthilfe für Benzin- und Dieselmotoren</li><li>hilft schnell und zuverlässig bei Kälte und Nässe</li><li>Starterspray lässt Motoren sofort anspringen</li><li>Start-Pilot schont Motor und Batterie</li><li>enthält Schmier- und Korrosionsschutz-Additive für Motoren, auch für Rasenmäher- und Außenbordmotoren geeignet</li></ul>"
-}

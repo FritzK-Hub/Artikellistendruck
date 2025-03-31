@@ -1,4 +1,0 @@
-{
-    "uvp": 9.82,
-    "attributes": "<ul><li>für den Anschluss an Regentonne oder Regenfass</li><li>Anschlussgröße 19,05 mm (3/4\")</li><li>Drehmechanismus für mühelose Bedienung </li><li>einfache Installation </li><li>aus hochwertigem Kunststoff</li></ul>"
-}

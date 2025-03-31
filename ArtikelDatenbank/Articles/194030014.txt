@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>hergestellt aus 100 % Naturprodukten</li><li>bietet eine optimale Schnabelpflege</li><li>eignet sich für eine Vielzahl von Vogelarten</li><li>mit Muschelgritpartikel für einen gesunde Verdauung</li><li>natürliche und gesunde Ergänzung für die Ernährung von Vögeln</li></ul>"
-}

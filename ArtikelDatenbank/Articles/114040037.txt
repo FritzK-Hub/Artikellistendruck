@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Tischdecke 110 x 250 cm</li><li>besonders pflegeleicht und abwaschbar</li><li>für jede Veranstaltung geeignet</li><li>passend für rechteckige Tischplatten</li><li>in verschieden Motiven erhältlich<br/></li></ul>"
-}

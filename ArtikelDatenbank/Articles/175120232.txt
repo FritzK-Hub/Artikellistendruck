@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Elektroniklot EL 324 bleifrei von CFH</li><li>flussmittelgefüllt für Feinlötungen</li><li>im Elektronik- und Elektrotechnik-Bereich einsetzbar</li><li>enthält Kolophonium</li><li>mit EN ISO 9453 Zertifizierung<br/></li></ul>"
-}

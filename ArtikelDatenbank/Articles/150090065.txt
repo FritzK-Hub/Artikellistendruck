@@ -1,4 +1,0 @@
-{
-    "uvp": 7.39,
-    "attributes": "<ul><li>Autoantenne aus Aluminium</li><li>Sockel-Durchmesser (Ø) von ca. 1,4 cm</li><li>Stabantenne in silber</li><li>inklusive 3 Gewindeadapter</li><li>Adaptergrößen: M4, M5, M6</li></ul>"
-}

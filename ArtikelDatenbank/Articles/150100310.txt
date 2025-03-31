@@ -1,4 +1,0 @@
-{
-    "uvp": 25.89,
-    "attributes": "<ul><li>für optimale Wischqualität</li><li>für Fahrzeugfront</li><li>bessere Aerodynamik</li><li>4in1 Multiadapter</li><li>hochwertige Qualität von Unitec<br/></li></ul>"
-}

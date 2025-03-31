@@ -1,4 +1,0 @@
-{
-    "uvp": 64.95,
-    "attributes": "<ul><li>leistungsstarke Doppelschleifmaschine mit stabilem Metallgehäuse und robustem Kondensatormotor</li><li>kugelgelagerte Schleifachsen für lange Lebensdauer</li><li>stabiles Metallgehäuse mit seitlich geschlossenen Schutzhauben und verstellbaren Arbeitsauflagen</li><li>großer einstellbarer Funkenschutz</li><li>ideal für Werkstätten sowie für den Heim- und Handwerker</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>XXL-LED-Laterne batteriebetrieben mit drei LED-Kerzen<br/></li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>vielseitig einsetzbare Innendekoration</li><li>mit einer Timerfunktion von sechs Stunden versehen</li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul> <li>Drucklufttacker zur Verarbeitung von Klammern und Stiften</li> <li>mit integrierter Sicherheitsschlagsperre</li> <li>im praktischen Kunststoff-Tragekoffer</li> <li><span class=\"a-list-item\">rutschfester Handgriff ermöglicht sicheres Arbeiten</span></li> <li>geringer Luftverbrauch</li></ul>"
-}

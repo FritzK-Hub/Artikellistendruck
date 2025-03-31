@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Sicherheits-Vorhängeschloss</li><li>Block und Bügel aus Stahl</li><li>mit 3 Schlüsseln<br/></li></ul>"
-}

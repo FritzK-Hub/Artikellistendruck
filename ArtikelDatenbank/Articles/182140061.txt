@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Fahrrad Sattelbezug für Touren- und Cityräder</li><li>optimale Körperanpassung und Dämpfung</li><li>Memory Foam Schaumeinlage</li><li>mit Zugkordel für einen perfekten Sitz</li><li>genoppte Unterseite für besseren Halt</li></ul>"
-}

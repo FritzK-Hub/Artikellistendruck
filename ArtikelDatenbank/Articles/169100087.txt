@@ -1,4 +1,0 @@
-{
-    "uvp": 2.19,
-    "attributes": "<ul><li>Vorhängeschloss \"Keller\" 20 mm</li><li>Schlosskörper aus Messing, Bügel aus Stahl</li><li>inklusive 3 Schlüsseln<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>reinigt und entfettet durch spezielle Lösemittel</li><li>Gummi, Kunststoff und lackierte Flächen werden nicht angegriffen</li><li>entfernt hartnäckige Verschmutzungen gründlich und schonend</li><li>Reiniger für alle Motorradkettenarten</li><li>löst selbst verharzte Rückstände<br/></li></ul>"
-}

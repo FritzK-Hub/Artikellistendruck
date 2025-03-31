@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Gartenhacken mit angeschliffenen Stahlblatt</li><li>aus hochwertigem, verzinktem Stahl gefertigt</li><li>für sämtliche Bodenarbeiten im heimischen Garten </li><li>ideal zum Jäten, Häufeln, Hacken oder Auflockern</li><li>rückendschonende Arbeit dank 140 cm langem Holzstiel<br/></li></ul>"
-}

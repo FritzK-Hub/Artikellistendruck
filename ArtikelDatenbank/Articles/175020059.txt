@@ -1,4 +1,0 @@
-{
-    "uvp": 6.0,
-    "attributes": "<ul><li>geeignet zum Schärfen von Rasenmähermessern, Sensen usw.</li><li>mit 6mm Aufnahmeschaft</li><li>4500 U/min max. Drehzahl</li></ul>"
-}

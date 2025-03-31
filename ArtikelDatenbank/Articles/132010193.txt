@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>robuster Hundekotbeutel Spender aus langlebigem Polypropylen</li><li>praktischer Karabinerhaken für einfache Befestigung an Leine oder Gürtelschlaufe</li><li>reißfeste und auslaufsichere Beutel für hygienische Entsorgung von Hundekot</li><li>zeitloses Design in Schwarz oder Silber, passend zu jedem Hundebesitzer</li><li>unverzichtbarer Begleiter für Hundehalter</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Handfeger mit Polymex-Kunstfaserborsten</li><li>Besenrücken aus lackiertem Holz in Teak-Optik</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>hochwertiges, 18-teiliges Präzisions-Bit-Set</li><li>inklusive Schraubendreher mit gummiertem Griff</li><li>eignet sich für feine Schraubarbeiten</li><li>aus galvanisch-verzinktem Chrom-Vanadium-Stahl</li><li>in praktischer Aufbewahrungsbox</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.09,
-    "attributes": "<ul><li><strong>3/8\"</strong></li><li><strong>matt verchromt</strong></li></ul>"
-}

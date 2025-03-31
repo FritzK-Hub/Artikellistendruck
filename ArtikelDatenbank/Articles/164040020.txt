@@ -1,4 +1,0 @@
-{
-    "uvp": 2.09,
-    "attributes": "<ul><li>Wirbelkarabiner 50 mm</li><li>Zinkdruckguss, vernickelt</li><li>mit 360° drehbarem, hufeisenförmigem Wirbel</li><li>bis 20 kg belastbar</li><li>für Seile bis 7 mm Durchmesser</li></ul>"
-}

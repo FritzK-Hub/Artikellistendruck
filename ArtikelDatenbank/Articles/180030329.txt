@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>vielseitig einsetzbar</li><li>ideale Stabilität</li><li>witterungsbeständig und langlebig</li><li>einfache Handhabung</li><li>universelle Anwendbarkeit</li></ul>"
-}

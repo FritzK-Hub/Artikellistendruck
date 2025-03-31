@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Zitronenmelisse für ca. 80 - 120 Pflanzen</li><li>mit einem zitronenähnlichen Geruch und Geschmack</li><li>zur leckeren Verfeinerung von verschiedenen Gerichten</li><li>als Teeaufguß wirkt es belebend und krampflösend</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

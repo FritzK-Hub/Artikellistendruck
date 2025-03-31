@@ -1,4 +1,0 @@
-{
-    "uvp": 3.79,
-    "attributes": "<ul><li>Schneidbrett aus Kunststoff</li><li>mit Aufhängeöse</li><li>handliches und leichtes Küchenbrett</li><li>spülmaschinenfest und einfach zu reinigen</li><li>praktisch und robust</li></ul>"
-}

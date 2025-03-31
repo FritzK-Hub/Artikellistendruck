@@ -1,4 +1,0 @@
-{
-    "uvp": 31.99,
-    "attributes": "<ul><li>Gardena Impuls-, Kreis- und Sektorenregner für große Flächen</li><li>Reihenschaltung von mehreren Gardena Regner möglich</li><li>Sprengbereich liegt bei einem Durchmesser 5 bis von maximal 12,5 m</li><li>feinstufige Einstellung des zu bewässernden Bereichs</li><li>eignet sich für Flächen von 75 bis maximal 490 m²<br/></li></ul>"
-}

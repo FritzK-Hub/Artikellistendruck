@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>großer BBQ Gemüsekorb 35,5 x 30,5 x 5,5 cm </li><li>aus Edelstahl gefertigt</li><li>für die Zubereitung von Gemüse auf dem Grill</li><li>mit zwei Handgriffen</li><li>besonders langlebig und temperaturbeständig<br/></li></ul>"
-}

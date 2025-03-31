@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>hochwertiges Leder</li><li>zeitloses Design</li><li>stilvolle Eleganz</li><li>Sicherheit und Schutz</li><li>einfach zu handhaben<br/></li></ul>"
-}

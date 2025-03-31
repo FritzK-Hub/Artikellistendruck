@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    mit Schraubklemmen,                                                   /nNennspannung: 240V~,                                                                /nAnschlußleistung: 20 - 300 W,  /nfür Glühlampen, 230 V Halogenlampen und /nelektronische Trafos,                                               /nPhasenabschnittdimmer ( R, C ),                                                           /nmit Druck-Wechselschalter,  /nAchtung: Wechselschaltung mit 2 Dimmern nicht möglich/n\"\"/n                "
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 18.0,
-    "attributes": "<ul><li>vielseitige Anwendung in Löten, Brennschneiden, Flammstrahlen</li><li>liefert effiziente Wärme für Löten oder Brennschneiden</li><li>praktischer Gasbehälter für einfachen Tausch, kein aufwendiges Befüllen</li><li>zuverlässige Energiequelle für Gasgrills und Heizanwendungen</li><li>flexibler Einsatz in Garage, Werkstatt und beim Camping</li></ul>"
-}

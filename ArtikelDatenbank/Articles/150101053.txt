@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Felgen- und Räder Wandhalter aus Metall</li><li>4 Felgenhalter zur Wandmontage</li><li>platzsparende Aufbewahrung für Reifen</li><li>verfügt über eine Belastbarkeit von 25 kg</li><li>inkl. Montagematerial und Montageanleitung<br/></li></ul>"
-}

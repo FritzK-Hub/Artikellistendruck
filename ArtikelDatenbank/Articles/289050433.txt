@@ -1,4 +1,0 @@
-{
-    "uvp": 8.39,
-    "attributes": "<ul><li>Winkelprofil gleichschenklig 100 x 2 cm</li><li>aus warmgewalztem, eisengrauem Stahl gefertigt</li><li>zum Abdecken von unsauberen Abschlüssen oder empfindlichen Schnittkanten</li><li>lässt sich mit einer handelsüblichen Metallsäge kürzen</li><li>ideal im Haushalt, Möbelbedarf oder zum Basteln<br/></li></ul>"
-}

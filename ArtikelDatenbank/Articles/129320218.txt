@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>frühe Reife und Hoher Ertrag</li><li>vielseitige Verwendung</li><li>robuste Anbaueigenschaften</li><li>einfache Pflege</li><li>Bodenaufbesserung durch Stickstoffsammlung<br/></li></ul>"
-}

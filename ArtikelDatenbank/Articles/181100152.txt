@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Kletterpflanzen in verschiedenen Sorten für den Hausgarten</li><li>begrünen Hausfassaden, verdecken Mauern oder dienen als Schattenspender</li><li>auch für kleine Gärten und Balkons geeignet</li><li>können als Sicht- und Sonnenschutz im Sommer dienen</li><li>eignen sich hervorragend zur Hintergrundgestaltung im eigenen Garten</li></ul>"
-}

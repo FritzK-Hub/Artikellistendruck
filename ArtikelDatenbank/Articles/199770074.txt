@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>10 Federringe aus federhartem Stahl Ø 8 mm</li><li>rechteckiger Querschnitt, einseitig aufgeschnitten</li><li>die Schnittkanten sind nach DIN 127 A nicht entgratet</li><li>gute Sicherung bei leichten bis mittelfesten Schraubverbindungen</li><li>verzinkt, beständig gegen Korrosion<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>    Ersatzleuchte für Anhänger oder Heckträger    </li><li>rechteckige Form    </li><li>inklusive Leuchtmitteln    </li><li>6 Funktionen    </li><li>Aspöck System</li></ul>"
-}

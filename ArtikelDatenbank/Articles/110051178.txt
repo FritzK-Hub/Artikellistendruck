@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Grillhandschuh zum Schutz vor Verbrennungen</li><li>aus hochwertiger Baumwolle</li><li>waschbar, mit Aufhängelasche</li><li>auch als Ofenhandschuh einsetzbar</li><li>extralanger Schaft zum Schutz vom Unterarm<br/></li></ul>"
-}

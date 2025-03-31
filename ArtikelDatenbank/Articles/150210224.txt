@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>transparente Vorratsdose mit luftdichtem Deckel</li><li>Deckel mit kleiner Lasche zur einfachen Entnahme</li><li>Vorratsbehälter aus Kunststoff</li><li>modernes und minimalistisches Design</li><li>einfach zu reinigen</li></ul>"
-}

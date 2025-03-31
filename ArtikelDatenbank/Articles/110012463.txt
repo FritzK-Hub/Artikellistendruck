@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>sicherer Halt für 1'' Rohre</li><li>vielseitig in verschiedenen Anwendungen einsetzbar</li><li>Korrosionsschutz für lange Lebensdauer</li><li>einfache Montage mit Einschlagstift-Design</li><li>Demontage ohne Spezialwerkzeug, wiederverwendbar</li></ul>"
-}

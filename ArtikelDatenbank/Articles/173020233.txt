@@ -1,4 +1,0 @@
-{
-    "uvp": 5.69,
-    "attributes": "<ul><li>präzises Arbeiten mit optimaler Klingenlänge von 100 mm</li><li>Schutz garantiert durch VDE- und GS-zertifizierte Sicherheit</li><li>fester Halt dank 2-Komponenten-Antirutschgriff</li><li>praktischer Sechskantabrollschutz verhindert Wegrollen</li><li>Aufhängbohrung für schnellen Zugriff und einfache Aufbewahrung</li></ul>"
-}

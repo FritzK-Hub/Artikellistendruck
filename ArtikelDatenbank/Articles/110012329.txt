@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>10 x T-Stück mit 3 Muffen geeignet für Hart- und Weichlöten</li><li>langlebig: korrosionssicher durch Kupfermaterial</li><li>zuverlässig: Handwerkerqualität schafft sichere Verbindungen</li><li>vielseitig: für Heizungs-, Gas- und Sanitärinstallationen konzipiert</li><li>passend: einsetzbar bei Rohren mit 15 mm Durchmesser</li></ul>"
-}

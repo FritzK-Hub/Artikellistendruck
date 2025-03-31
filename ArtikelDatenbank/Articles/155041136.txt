@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>heller Lichtstrom von 2550 Lumen</li><li>robustes Aluminiumdruckguss-Gehäuse</li><li>IP44-Schutz für Außenbereich</li><li>einfache Montage zur schnellen Installation</li><li>mit Bewegungsmelder energie- und kostensparend</li></ul>"
-}

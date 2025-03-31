@@ -1,4 +1,0 @@
-{
-    "uvp": 379.0,
-    "attributes": "<ul><li>kraftvoller 2-Takt-Motor für vielseitige Arbeiten</li><li>vier Geräte in einem Multifunktionstool</li><li>ergonomisches Design ermöglicht ermüdungsfreies Arbeiten</li><li>schwenkbare Heckenschere für präzise Schnitte</li><li>werkzeugloser, schneller Wechsel zwischen allen Funktionen</li></ul>"
-}

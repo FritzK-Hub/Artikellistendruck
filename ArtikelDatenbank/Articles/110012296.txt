@@ -1,4 +1,0 @@
-{
-    "uvp": 5.89,
-    "attributes": "<ul><li>glänzendes, modernes Design</li><li>passend für 38,5mm Abflüsse</li><li>bequeme Hebelbedienung zum Öffnen und Schließen</li><li>leicht zu reinigen, hält das Badezimmer makellos</li><li>einstellbare Tiefe für verschiedene Abflussarten</li></ul><p></p>"
-}

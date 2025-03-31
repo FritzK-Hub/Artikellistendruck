@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Stumpenkerze Rustic 7 x 7,5 cm </li><li>aus Echtwachs in Petrol hergestellt</li><li>schafft eine wohlfühlende Atmosphäre</li><li>für Tisch- oder Weihnachtsdekoration einsetzbar</li><li>auch zur die Bestückung von Weihnachtskränzen<br/></li></ul>"
-}

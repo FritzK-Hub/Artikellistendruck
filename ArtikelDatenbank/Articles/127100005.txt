@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>ideal für Garten- und Heimwerkerarbeiten</li><li>maximale Flexibilität von 80 auf 130 cm verstellbar</li><li>für Geräteköpfe mit einer Aufnahmedülle von 20 mm</li><li>einfaches Verschrauben mit konischem Stielende</li><li>bei Nichtgebrauch dank Öse aufhängbar<br/></li></ul>"
-}

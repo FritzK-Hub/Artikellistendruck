@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul> <li>Sockelfarbe<strong> </strong>für witterungsbeständige Fassadenanstriche</li> <li>Kunstharz-Dispersionsfarbe in einem 5 Liter Kanister</li> <li>dient zur dekorativen und farbigen Gestaltung</li> <li>für stark beanspruchte Außenflächen geeignet</li> <li>scheuerbeständige, hochdeckende und wetterbeständige Farbe</li></ul>"
-}

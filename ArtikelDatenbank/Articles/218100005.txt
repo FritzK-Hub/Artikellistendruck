@@ -1,4 +1,0 @@
-{
-    "uvp": 37.95,
-    "attributes": "<ul><li>Lenk-Sackkarrenrad mit Metallfelge für verschiedene Beanspruchungen</li><li>besonders widerstandfähig und belastbar, aus stabilem Polyurethan gefertigt</li><li>auch geeignet als Anbaurad für schwere Kisten oder Transportboxen<br/></li><li>vielseitige Einsatzmöglichkeiten, garantiert eine reibungslose Arbeit</li><li>einfach in der Handhabung, lässt sich schnell und unkompliziert montieren</li></ul>"
-}

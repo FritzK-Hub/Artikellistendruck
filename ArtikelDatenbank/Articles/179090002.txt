@@ -1,4 +1,0 @@
-{
-    "uvp": 11.39,
-    "attributes": "<ul><li>6-tlg.</li><li>140mm</li><li>flach, rund, vierkant dreikant, halbrund, flach-spitz</li><li>isolierte 2 Komponenten-Griffe</li></ul>"
-}

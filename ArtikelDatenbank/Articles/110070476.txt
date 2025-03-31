@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Ofenrohr gerade Ausführung in silbergrau</li><li>aus feueraluminiertem Stahlblech gefertigt</li><li>für den Anschluss von Kaminöfen</li><li>für den Innenbereich</li><li>Ø 150 x 250 mm mit 0,6 mm Materialstärke<br/></li></ul>"
-}

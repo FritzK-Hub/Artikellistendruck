@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Pop-up Strandmuschel aus 100% Polyester 170T</li><li>atmungsaktiv und idealer Sonnen- wie Windschutz</li><li>stabiles Eisendrahtgestänge sorgt für die Stabilität</li><li>ist in verschiedenen Farben erhältlich</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Riesenkürbis für ca. 3 – 5 Pflanzen</li><li>besonders große zwischen 3 bis 10 kg schwere Früchte</li><li>besitzt viel orangenes Fruchtfleisch und ist lange haltbar</li><li>ideal für Kürbisbrot, Kürbismus, Suppen oder als Gemüse</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

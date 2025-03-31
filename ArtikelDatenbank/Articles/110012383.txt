@@ -1,4 +1,0 @@
-{
-    "uvp": 4.29,
-    "attributes": "<ul><li>Klemmringe aus Kupfer</li><li>auf Klemmfittinge abgestimmt</li><li>lassen sich mühelos und ohne spezielles Werkzeug montieren</li><li>gewährleisten eine zuverlässige Rohrverbindung</li><li>speziell für die Verarbeitung mit Kupferrohren konzipiert<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Kalibrierdorn für Metallverbundrohre</li><li>zum kalibrieren von Verbundrohren nach dem Ablängen</li><li>zur Gewährleistung einer dauerhaft dichten Verbindung</li><li>robuste Verarbeitung<br/></li><li>Für Rohr-Ø: 16, 20 und 26 mm<br/><br/></li></ul>"
-}

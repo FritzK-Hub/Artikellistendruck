@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>flexibler HT Dunstrohranschluss</li><li>für Verbindung von Abwasserleitung mit Dunstrohr</li><li>für die Verbindung mit dem Entlüftungsziegel</li><li>durch Steckmontage einfach zu verlegen</li><li>hochtemperaturbeständig</li></ul>"
-}

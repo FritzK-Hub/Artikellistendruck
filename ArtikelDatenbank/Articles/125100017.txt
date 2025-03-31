@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Grundstoff Natriumhydrogencarbonat-Konzentrat von Solabiol</li><li>unterstützt die Pflanzenabwehr durch Stärkung der Pilzabwehr</li><li>auch als Fungizid gegen Mehltaupilz und Schorf einsetzbar</li><li>schonend für Haustiere, Kinder oder Bienen</li><li>ideal für den ökologischen Landbau geeignet<br/></li></ul>"
-}

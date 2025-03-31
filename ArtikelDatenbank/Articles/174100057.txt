@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>bruchsicherer und kratzfester WC-Sitz aus Duroplast mit Neon Paint-Motiv<br/></li><li>Komfort dank Absenkautomatik</li><li>hohe Belastbarkeit bis 150 kg</li><li>inklusive Befestigungsmaterial zur mühelosen Montage</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
-}

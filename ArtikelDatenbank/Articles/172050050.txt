@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Steckdosenadapter mit zwei Eurostecker</li><li>aus stabilem, weißem Kunststoff gefertigt </li><li>ideal zur Erweiterung der einfachen Steckdose</li><li>ermöglicht es mehre Geräte gleichzeitig mit Strom zu versorgen</li><li>für den Heimgebrauch oder Wohnräumen geeignet<br/></li></ul>"
-}

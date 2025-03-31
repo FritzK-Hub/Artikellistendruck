@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Holzbohrersatz</li><li>Bohrer geeignet für Holzmaterialien</li><li>hohe Qualität</li><li>große Stabilität und Festigkeit</li><li>für Profis und Hobbyheimwerker</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>2-teiliger Arbeitsplatten-Verbindungsschraubenset</li><li>sorgt für feste Verbindung von Arbeitsplatten</li><li>Material der Eckverbinder: Stahl verzinkt</li><li>Arbeitsplattenverbinder in Profi Qualität</li><li>Sparset bestehend aus 2 x Arbeitsplattenverbinder<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Anti-Freeze-Formel gegen Einfrieren der Scheibenreinigungsanlage</li><li>Scheiben werden schlierenfrei und optimal gesäubert</li><li>unverdünnt bis zu einer Temperatur von -52 °C einsetzbar</li><li>besonders schonend zu Scheiben</li><li>mit Gletscherfrische-Duft</li></ul>"
-}

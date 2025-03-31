@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Klappbock aus naturbelassenem, unbehandeltem Kiefernholz</li><li>praktischer Unterstellbock, erleichtert viele Arbeiten</li><li>passend für Maler-, Heimwerker- und Renovierungsarbeiten</li><li>dient als beim Schleifen und Streichen von Türen </li><li>leichter Klappmechanismus für schnellen Einsatz</li></ul>"
-}

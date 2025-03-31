@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>schützt das Auto vor Schneefall, Vereisung oder Sonneneinstrahlungen</li><li>besonders widerstandsfähig, aus blauem Polyester</li><li>verhindert ungewollte Kratzer oder Beschädigungen auf der Oberfläche</li><li>Kordelzug und elastischer Saum erleichtert die Befestigung</li><li>bei Nichtgebrauch platzsparend im Beutel verstaubar</li></ul>"
-}

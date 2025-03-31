@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>tragbarer Bluetooth-Lautsprecher von Dunlop </li><li>der ideale Lautsprecher mit einem schönen Klang</li><li>mit LED-Leuchten ausgestattet</li><li>sehr einfach und schnell zu koppeln mit Bluetooth </li><li>kompakte Größe, überall einsetzbar</li></ul>"
-}

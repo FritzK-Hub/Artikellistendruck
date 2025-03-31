@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li><strong>Schraubendreher-Bitsatz Set</strong> 11-teilig</li><li>Bits mit verschiedenen Abtriebsprofilen</li><li>aus robustem Chrom-Vanadum-Stahl gefertigt</li><li>robuster Koffer vereinfacht den Transport und die Lagerung</li><li>das Set sorgt für Ordnung in der Werkstatt</li></ul>"
-}

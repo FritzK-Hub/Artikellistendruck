@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>großes Windrad 8,50 x 24 cm</li><li>in vier verschiedenen Farben erhältlich (Farbauswahl nicht möglich)<br/></li><li>eine tolle Dekoration für Garten oder Balkon</li><li>naturbelassener und Stab aus Rundholz</li><li>auch zwischen Blumen im Vorgarten geeignet<br/></li></ul>"
-}

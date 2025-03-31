@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>für Winkelprofile, Schienen, Konsolen, Holzbalken als Durchsteckmontage</li><li>zeichnet sich durch die schnelle Montage und geringen Bohraufwand aus</li><li>besonderer Halt durch das Anziehen einer Bauscheibe und Mutter in den Spreizclip</li><li>ist vielseitig in der Fassadenkonstruktion einsetzbar</li><li>langlebig aus massivem, verzinktem Stahl gefertigt</li></ul>"
-}

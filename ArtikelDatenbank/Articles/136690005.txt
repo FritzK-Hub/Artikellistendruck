@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>unverzichtbares Werkzeug beim Verlegen von Laminatböden</li><li>zum Zuschneiden von Vinyl- oder Laminatböden bis zu 200 mm</li><li>flexible in der Werkstatt oder bei Renovierungsarbeiten einsetzbar</li><li>rutschfester Softgriff sorgt für sichere Handhabung</li><li>mitgelieferte Auflagestütze zum waagerechte Halten der Bodenplatte<br/></li></ul>"
-}

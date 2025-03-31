@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>verwendbar im Garten als Vogel- oder Laubschutznetz für Gartenteiche oder Bäume</li><li>inklusive 10 x Plastiknägel zur Befestigung des Netzes</li><li>Abmessung: ca. 5x4m</li><li>Maschengröße: ca. 20x20mm</li><li>robust und mehrjährig einsetzbar</li></ul>"
-}

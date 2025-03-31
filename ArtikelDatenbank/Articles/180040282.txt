@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>hochwertiger Gerätestiel aus Holz</li><li>für verschiedene Gartengeräte geeignet</li><li>leicht zu montieren</li><li>vielseitig einsetzbar</li><li>hohe Robustheit und optimale Handhabung<br/></li></ul>"
-}

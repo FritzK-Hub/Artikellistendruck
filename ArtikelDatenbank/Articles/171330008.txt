@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Bauschaum B1 Genius Gun 500 ml von Soudal</li><li>ist ein gebrauchsfertiger, einkomponentiger Polyurethanschaum</li><li>passend für Bereiche mit besonderem Anspruch an den Brandschutz</li><li>verfügt über die innovative GENIUS GUN®-Technologie</li><li>zum Ausschäumen von Hohlräumen oder abdichten aller Öffnungen bei der Dachkonstruktion<br/></li></ul>"
-}

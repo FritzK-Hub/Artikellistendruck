@@ -1,4 +1,0 @@
-{
-    "uvp": 10.89,
-    "attributes": "<ul><li>Schweiß-Schutzschild HS528 aus PE-Kunststoff</li><li>mit angeschraubtem Griff</li><li>für Glasgröße 90 x 110 mm</li><li>zugelassen nach EN 175</li><li>ohne Gläser (Vorsatz/Spritzschutz und Schweißglas)<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 129.0,
-    "attributes": "<ul><li>Grundgestell aus massivem Stahlguss</li><li>mit Nullspannungsschalter</li><li>Tisch 45° schwenkbar, Motordrehzahl regelbar</li><li>für die Tischmontage vorbereitet</li><li>mit Gebläsevorrichtung und Ein/Aus-Schalter</li></ul>"
-}

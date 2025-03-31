@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>formfeste Faszien-Massagerolle </li><li>aus hochwertigem Kunststoff</li><li>wird zur effektiven Massage eingesetzt </li><li>passt sich perfekt den Anforderungen des Körpers an </li><li>besonders hautfreundlich, geruchslos und problemlos abwischbar<br/></li></ul>"
-}

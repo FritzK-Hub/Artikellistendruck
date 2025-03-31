@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>GERMANIA® Mehrzweckdraht mit 10 m Länge</li><li>lässt sich individuell einsetzen</li><li>zum Anbinden von Pflanzen oder im Haushalt</li><li>auch als Rankhilfe verwendenbar</li><li>hält zusammen, verbindet und befestigt</li></ul>"
-}

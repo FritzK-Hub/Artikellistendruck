@@ -1,4 +1,0 @@
-{
-    "uvp": 10.59,
-    "attributes": "<ul><li>Übergangsprofil superflach aus eloxierten Aluminium in silber</li><li>zur dauerhaften Verbindung zweier gleich- oder verschiedenartigen Bodenbelägen</li><li>unsaubere Schnittkanten werden verdeckt</li><li>auf Stoß verlegte Übergänge werden dauerhaft geschützt</li><li>Stolperfallen werden vermieden</li></ul>"
-}

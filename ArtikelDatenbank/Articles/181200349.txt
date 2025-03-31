@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Katzengras</li><li>hilft der Katze bei der Verdauung ihrer Nahrung</li><li>fördert den Stoffwechsel, enthält eine Vielzahl an Mineralien</li><li>dient zur Entfernung der Haarballen im Magen</li><li>kann auch für Ziervögel verwendet werden<br/></li></ul>"
-}

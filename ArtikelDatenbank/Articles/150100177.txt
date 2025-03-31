@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>hervorragende Qualität und Langlebigkeit</li><li>erfüllt höchste Sicherheitsstandards</li><li>einfache und schnelle Montage</li><li>Vielseitig und flexibel einsetzbar</li><li>geeignet für 50 mm Zugrohr<br/></li></ul>"
-}

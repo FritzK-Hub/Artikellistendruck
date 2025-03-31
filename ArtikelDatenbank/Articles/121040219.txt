@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Acrylfarben-Set von The Wall</li><li>12 Farben je 12 ml auf Acrylbasis</li><li>für alle Künstler und jene die es noch werden wollen</li><li>Acrylfarben Set mit guter Deckkraft<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 199.99,
-    "attributes": "<ul><li>Größe: 40 mm x 1000 mm</li><li>zum Bohren in Mauerwerk, Beton, Dachziegeln, Klinker u.ä.Materialien</li><li>mit Zentrierspitze (für leichteres Ansetzen des Bohrers)</li><li>für max Aufnahme</li><li>4-fach Schneide</li><li>Doppelspirale (zum besseren Abtransport des Bohrmehls)</li></ul>"
-}

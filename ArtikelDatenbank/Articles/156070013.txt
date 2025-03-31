@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Ersatzbügel für Steck-Farbwalzen</li><li>für Farbwalzen von 10-12 cm Breite</li><li>6 mm Drahtstärke</li><li>stabiler Griff aus Kunststoff</li><li>schneller Wechsel der Farbwalzen</li></ul>"
-}

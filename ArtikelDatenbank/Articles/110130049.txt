@@ -1,4 +1,0 @@
-{
-    "uvp": 10.5,
-    "attributes": "<ul><li>aus strapazierfähigem Edelstahl, langlebig und rostbeständig</li><li>zeitloses Design, fügt sich nahtlos in verschiedene Einrichtungsstile ein</li><li>ergonomische Form, um ein komfortables und angenehmes Griffgefühl zu gewährleisten</li><li>einfache und schnelle Montage mit den mitgelieferten Befestigungsmaterialien</li><li>vielseitige Anwendungsmöglichkeiten, für Schranktüren und Schubladen, Kommoden, Schränke und andere Möbelstücke</li></ul>"
-}

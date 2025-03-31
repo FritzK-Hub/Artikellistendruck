@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>GERMANIA® Bit-Satz 32-teilig für Heimwerker und Handwerker</li><li>mit den gängigsten Größen versehen</li><li>für Schraub- und Montagearbeiten rund um den Haushalt</li><li>inklusive magnetischen Bithalter und 1/4\" Hex-Adapter</li><li>Aufbewahrungsbox mit transparentem Deckel für besseren Überblick</li></ul>"
-}

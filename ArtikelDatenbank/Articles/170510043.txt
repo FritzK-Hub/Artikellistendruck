@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Bürstenleiste 100 x 4,6 cm aus hartem PVC in weiß</li><li>zum Abdichten der Spalte zwischen Türblatt und Bodenbelag</li><li>verhindert das Eindringen von Zugluft, Insekten und Staub </li><li>schützt den Bodenbelag vor Kratzer oder Beschädigungen</li><li>einfache Montage mittels Klebestreifen, ganz ohne Bohrungen<br/></li></ul>"
-}

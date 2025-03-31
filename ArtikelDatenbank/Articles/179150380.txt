@@ -1,4 +1,0 @@
-{
-    "uvp": 5.95,
-    "attributes": "<ul><li>dickummantelte Qualitätselektrode</li><li>geeignet für alle Schweißpositionen</li><li>besondere Faltnahteignung</li><li>gute Spaltüberbrückung</li><li>hochwertige Markenelektrode<br/><br/></li></ul>"
-}

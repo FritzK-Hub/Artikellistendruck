@@ -1,4 +1,0 @@
-{
-    "uvp": 169.0,
-    "attributes": "<ul><li>Akku-Bohrschrauber GSR 120 12 V von BOSCH</li><li>passendes Werkzeug für Schraub- und Bohrarbeiten</li><li>integriertes LED-Licht sorgt in dunklen Bereichen für klare Sicht</li><li>20-fache Drehmomenteinstellung plus Bohrstufe</li><li>inklusive zwei Akkus, Ladegerät und Transportkoffer<br/></li></ul>"
-}

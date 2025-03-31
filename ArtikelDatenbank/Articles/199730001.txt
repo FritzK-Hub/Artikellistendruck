@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Kettenglied mit Schraubverschluss</li><li>zum einfachen Verbinden und Verlängern von Ketten</li><li>aus rostfreiem Edelstahl</li><li>nicht zulässig in statischen Systemen und Hebezeugen</li><li>Kettenschnellverschluss mit einer Öffnungsweite von 6 mm</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>nützliches Bad-Accessoire mit Deckel</li><li>robuste Konstruktion</li><li>großzügiger Stauraum</li><li>vielseitige Verwendung</li><li>modernes Design<br/></li></ul>"
-}

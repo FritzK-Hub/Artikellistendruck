@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>große Wachs-Teelichter</li><li>in der Farbe Weiß</li><li>für eine gemütliche Atmosphäre</li><li>innen und außen verwendbar</li><li>geeignet für Gestecke und Deko-Teller</li></ul>"
-}

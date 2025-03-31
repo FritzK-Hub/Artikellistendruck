@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Quelltabletten Set aus Kokosfasern<br/></li><li>Set besteht aus 20 runden Quelltabs</li><li>ideal für die Anzucht von Sämereien</li><li>zum Vortreiben von Keimlingen <br/></li><li>das Netz ist biologisch abbaubar</li></ul>"
-}

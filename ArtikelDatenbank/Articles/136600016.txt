@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Hochwertiges 7-teiliges Messer-Set</li><li>für Schneidegut aller Art (Fleisch, Käse, Gemüse)</li><li>scharfes Messerset aus rostfreiem Edelstahl</li><li>ergonomisch geformte Griffe</li><li>fugenlose Verarbeitung für höchste</li></ul>"
-}

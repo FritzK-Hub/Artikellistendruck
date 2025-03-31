@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Blindniete (auch Popniete genannt) </li><li>Kopf: Flachkopf</li><li>Form: A-Form</li><li>Material: Aluminium</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 429.0,
-    "attributes": "<ul><li>stilvolles Design mit Satteldach und dunkelgrauem Finish</li><li>robustes Stahlgestell für langanhaltende Stabilität</li><li>witterungsbeständiges Dach aus Stahl-Profilplatten</li><li>großzügige Maße für ausreichend Platz im Freien</li><li>vielseitige Nutzungsmöglichkeiten für gesellige Zusammenkünfte<br/></li></ul>"
-}

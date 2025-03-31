@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Porutscher FREE Slider grün</li><li>einfache Handhabung</li><li>Winterspaß für Jung und Alt</li><li>Lenkung durch Gewichtverlagerung</li><li>großer Haltegriff für einfache und sichere Positionierung</li></ul><p></p>"
-}

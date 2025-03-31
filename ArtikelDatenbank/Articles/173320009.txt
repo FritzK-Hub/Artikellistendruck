@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>strombetriebene LED-Lichterkette 20 m und 152 LEDs</li><li>ideal als Partybeleuchtung oder für Sonnenschirme </li><li>ermöglicht unterschiedliche, beeindruckende Deko-Effekte</li><li>setzt Büsche, Freisitzen oder Gartenwege gekonnt in Szene</li><li>universell im Innen- und Außenbereich einsetzbar</li></ul>"
-}

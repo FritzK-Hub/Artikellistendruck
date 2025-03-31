@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>Kinder-Fahrradwimpel 1- teilig</li><li>für ein frühzeitiges Erkennen im Straßenverkehr</li><li>bruchsicherer Mast in Gelb<br/></li><li>Flagge mit Bären-Dekor</li><li>Sicherheitswimpel für Kinderfahrrad</li></ul>"
-}

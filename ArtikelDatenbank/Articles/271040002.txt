@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>SDS Mauerbohrer, Kernbohrer Bohrkrone von GERMANIA®</li><li>geeignet für Rohrdurchbrüche oder zum setzen von Unterputzdosen</li><li>geeignet für Mauerwerk, Beton, Leichtbeton oder Naturstein</li><li>Hartmetall bestückte Mauerbohrer Bohrkrone für lange Haltbarkeit</li><li>Kernbohrer Bohrkrone mit Förderwendel zur besseren Bohrmehlabfuhr</li></ul>"
-}

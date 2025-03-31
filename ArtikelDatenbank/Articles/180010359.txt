@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Düngestäbchen 30 Stück für Blühpflanzen</li><li>besondere Bindungsform der Nährstoffe (Depotdünger)</li><li>sorgt für kräftigen und gesunden Wachstum</li><li>fördert die Widerstandkraft deiner Pflanzen</li><li>gleichmäßige Nährstoffstruktur ohne Überdüngungsgefahr<br/></li></ul>"
-}

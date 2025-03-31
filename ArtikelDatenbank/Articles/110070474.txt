@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>praktischer Feuerhaken mit handlichem Holzgriff</li><li>aus vernickeltem Stahl gefertigt</li><li>Öse am Holzgriff zum einfachen Aufhängen</li><li>ideal als hilfreiches Zubehör für deinen Holzkamin</li><li>Stocheisen zum Neuentfachen der Glut<br/></li></ul>"
-}

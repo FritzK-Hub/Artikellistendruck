@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>WiFi-Deckenleuchte rund Ø 30 cm mit Glitzereffekt</li><li>sorgt in Wohnräumgen, Küchen oder Schlafzimmern für eine klare Sicht</li><li>Farbtemperatur nach Belieben von warmweiß bis tageslichtähnlich einstellbar</li><li>auch über „Amazon Alexa“ oder „Google Assistant“ sprachsteuerbar</li><li>inklusive einer Schnellstartanleitung<br/></li></ul>"
-}

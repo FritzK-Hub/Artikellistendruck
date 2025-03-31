@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>besonders flexibel formbares Glasfaser-Gewebe</li><li>für großflächige Anpassungen und Modellierungen</li><li>ideal für den Modell- und Formenbau</li><li>sehr stabil, verfügt über optimale Hafteigenschaften</li><li>für Fahrzeug-Karosserien, Motorrad-Verkleidungen, Wohnwagen, Booten, Modellbau</li></ul>"
-}

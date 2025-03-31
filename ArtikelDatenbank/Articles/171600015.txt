@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Terrassenboden-Holzöl für Douglasieholz</li><li>für den Außenbereich geeignet</li><li>beugt Austrocknung, Rissbildung und Vergrauung vor</li><li>imprägniert und ist UV-beständig</li><li>gute Betonung der natürlichen Holzmaserung<br/></li></ul>"
-}

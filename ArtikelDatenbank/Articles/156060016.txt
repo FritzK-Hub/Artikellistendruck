@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Malerspachtel mit Holzgriff und Stahlblatt</li><li>prakisches Hilfsmittel bei Renovierungsarbeiten</li><li>zum Verfüllen und Verspachteln von Rissen oder Fugen</li><li>hochflexibles Blatt</li><li>Griff mit Aufhängeloch</li></ul>"
-}

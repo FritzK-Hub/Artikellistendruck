@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>weiche Hautfreundlichkeit</li><li>pflegeleicht und formstabil</li><li>unkomplizierte Handhabung</li><li>wollartiger Charakter</li><li>einfache Verarbeitung<br/></li></ul>"
-}

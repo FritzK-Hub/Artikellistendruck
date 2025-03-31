@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>selbsthaftende Antirutsch Matte</li><li>ideal als Sicherheitsunterlage für Teppiche</li><li>verhindert das Verrutschen von Teppichen auf glatten Böden</li><li>praktisch und pflegeleicht</li><li>Weichschaum mit Polyestergewirke <br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.1,
-    "attributes": "<ul><li>zum Aufhängen von leichten Objekten</li><li>aus robustem, verzinktem Stahl gefertigt</li><li>vielseitige Montage an Decke oder Wand möglich</li><li>zur Befestigung in Holz oder Mauerwerk</li><li>Holzgewinde erleichtert das Eindrehen der Schraube<br/></li></ul>"
-}

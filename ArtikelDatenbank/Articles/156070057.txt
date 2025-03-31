@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Walzen für alle Wand- und Deckenfarben</li><li>für ein feines Oberflächenfinish</li><li>spritzarmer Farbroller</li><li>gute Farbaufnahme und Abgabe</li><li>für glatte bis leicht strukturierte Untergründe</li></ul>"
-}

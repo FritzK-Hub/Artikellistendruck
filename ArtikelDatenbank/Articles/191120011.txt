@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>verhindert Kalkausfällungen und Kalkablagerungen </li><li>schützt gegen Verfärbungen des Wassers</li><li>schutz von Filteranlagen und anderem Zubehör</li><li>einfache Anwendung</li><li>stabilisiert die Wasserhärte<br/></li></ul>"
-}

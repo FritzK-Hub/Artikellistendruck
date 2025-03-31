@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Geschenkband auf Rolle aus Kunstfaser</li><li>dekoratives Geschenkband für verschiedene Anlässe</li><li>halb-transparent mit Borten in gleicher Farbe und Draht</li><li>universell einsetzbar</li><li>für DIY-Handarbeiten</li></ul>"
-}

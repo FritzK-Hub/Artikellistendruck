@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Federsplinte 92 x 5 mm aus verzinktem Stahl</li><li>zur Sicherung von Bolzen, Rohren, Gestängen</li><li>einfaches, schnelles Anbringen und Lösen</li><li>beliebig wiederverwendbar</li><li>doppelt gebogen mit zweifacher Öse<br/></li></ul>"
-}

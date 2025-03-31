@@ -1,4 +1,0 @@
-{
-    "uvp": 3.5,
-    "attributes": "<ul><li>aus hochwertigem Edelstahl gefertigt</li><li>besonders langlebig</li><li>extrem vielseitig</li><li>profilzylinderfreundlich</li><li>für den Innenbereich geeignet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Lebensbaum Thuja Occidentalis Smaragd</li><li>sehr dichter, kompakter Wuchs</li><li>wenig bis kein Schneiden notwendig</li><li>standorttolerant, sehr frosthart</li><li>hervorragend als Sicht-, Wind- und Lärmschutz geeignet<br/></li></ul>"
-}

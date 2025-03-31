@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>Sonnenschirm Ø 250 cm mit Polyesterbezug 160 g/m²</li><li>robustes Aluminiumgestell für einen sicheren Stand</li><li>dank Kurbelmechanismus öffnen und schließen möglich</li><li>hält selbst leichte Schauer aus, bei Bedarf imprägnieren</li><li>ideal für den Garten, Strand, Balkon oder Terrasse</li></ul>"
-}

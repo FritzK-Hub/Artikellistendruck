@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>transparente Frischhaltedose mit blauem Deckel</li><li>zur Verwendung in Kühl- und Gefrierschrank</li><li>stapelbarer Vorratsbehälter aus Kunststoff</li><li>für die Aufbewahrung von Speiseresten und Lebensmitteln</li><li>einfach zu reinigen</li></ul>"
-}

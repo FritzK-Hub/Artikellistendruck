@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>moderner Toilettenpapierhalter </li><li>Modell \"London\" mit Deckel</li><li>aus verchromtem Metall</li><li>Abdeckung schützt das Klopapier vor Staub und Schmutz</li><li>inklusive Befestigungsmaterial<br/></li></ul>"
-}

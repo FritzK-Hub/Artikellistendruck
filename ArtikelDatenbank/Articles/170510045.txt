@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Türbodendichtung 90 cm leicht und schnell anbringbar</li><li>kein Kleben und Schrauben erforderlich</li><li>individuell in der Länge zuschneidbar</li><li>hält Kälte, Staub, Gerüche und Insekten draußen</li><li>spart Energie und Heizkosten<br/></li></ul>"
-}

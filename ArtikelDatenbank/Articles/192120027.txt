@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Schlitten Race S sledge mit 79 cm Länge</li><li>starke Kontrastfarben sorgen für gute Sichtbarkeit</li><li>sorgt für viel Spaß und Bewegung im Schnee</li><li>aus robustem Kunststoff gefertigt</li><li>inklusive Leine mit Zuggriff</li></ul><p></p>"
-}

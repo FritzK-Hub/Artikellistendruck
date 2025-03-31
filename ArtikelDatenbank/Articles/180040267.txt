@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>GERMANIA® Axtstiel für 1 kg Axtköpfe</li><li>aus hochwertigem Eschenholz hergestellt</li><li>Beilstiel in Kuhfußform für einfache Handhabung</li><li>perfekt als Ersatzstiel bei Bruch oder Verschleiß</li><li>macht deine Axt wieder fit und sicher für den nächsten Spalteinsatz<br/></li></ul>"
-}

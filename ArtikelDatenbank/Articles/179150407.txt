@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Werkzeughalter für Handgewindebohrer</li><li>geeignet für Gewindebohrer M3 bis M10</li><li>mit umschaltbarer Ratsche</li><li>für Rechts- und Linksgang</li><li>Spannfutter mit gehärteten Backen<br/></li></ul>"
-}

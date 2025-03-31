@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>stilvolles Design für drinnen und draußen</li><li>leichtes Bepflanzen dank herausnehmbaren Einsatz</li><li>UV-beständiger, wetterfester Kunststoff</li><li>ansprechendes Lichtspiel durch Rillenstruktur</li><li>kompakt und vielseitig einsetzbar</li></ul>"
-}

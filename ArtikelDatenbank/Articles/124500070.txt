@@ -1,4 +1,0 @@
-{
-    "uvp": 189.0,
-    "attributes": "<ul><li>Wassertank Tower Stone aus schlagfestem Kunststoff </li><li>auffälliges Design, inspiriert von der Struktur von Schiefergestein</li><li>350 Litern Fassungsvermögen bietet ausreichend Kapazität</li><li>ideal zum Sammeln von Regenwasser, eine umweltfreundliche Alternative</li><li>mit vier Abflussöffnungen für Wasserhähne oder Schnellkupplungen<br/></li></ul>"
-}

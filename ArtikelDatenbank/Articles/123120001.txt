@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>zerlegbare Schubkarre</li><li>für die Bau-, Gartenbau- und Viehwirtschaft</li><li>150kg Tragfähigkeit</li><li>verzinkt</li><li>spezielle Kantenfalte<br/></li></ul>"
-}

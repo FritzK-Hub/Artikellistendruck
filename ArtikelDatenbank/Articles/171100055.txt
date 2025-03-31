@@ -1,4 +1,0 @@
-{
-    "uvp": 25.95,
-    "attributes": "<ul><li>Silikat-Grundierung 5 Liter farblos von DecoPro</li><li>ist ein Grundier- und Verdünnungsmittel auf Silikat-Basis</li><li>dient zur Grundierung von sandenden Untergründen</li><li>für Vorbereitung mineralischer Untergründe im Innen- und Außenbereich </li><li>ist allergikerfreundlich, ohne Zusatz von Konservierungsmittel und gut verfestigend<br/></li></ul>"
-}

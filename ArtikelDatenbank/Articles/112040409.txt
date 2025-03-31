@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Satellitenspiegel aus Aluminium</li><li>für Ein- / Mehrteilnehmer LNB geeignet</li><li>formgeschmiedete Reflektor-Halterung (Rückenteil)</li><li>extra breiter Feedarm mit Klappmechanismus zum Einrasten</li><li>einfache Montage und Installation</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>speziell für Zwergkaninchen, Meerschweinchen oder andere Nagetiere</li><li>für eine artgerechte Ernährung</li><li>vielseitig einsetzbar, Hauptmahlzeit und kleiner Snack in einem</li><li>enthält eine ausgewogene und vitaminreiche Mischung</li><li>ein kleiner Leckerbissen zum Verwöhnen deines Haustieres<br/></li></ul>"
-}

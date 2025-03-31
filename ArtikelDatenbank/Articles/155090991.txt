@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Einzelrahmen aus Kunststoff</li><li>klassisches Design mit glänzender Oberfläche</li><li>für Unterputz-Steckdosen und -Schalter aus der Serie PrimaLuxe</li><li>für waagrechte oder senkrechte Montage</li><li>einfache Montage<br/></li></ul>"
-}

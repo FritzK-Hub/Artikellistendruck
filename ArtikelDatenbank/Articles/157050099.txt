@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Silikon-Öl für Industrie, Auto, Haus und Garten</li><li>für Metall, Kunststoff, Gummi</li><li>Silikonanteil 100% im Schmierfilm</li><li>macht leichtgängig, pflegt und schützt</li><li>nicht fettendendes Silikonspray</li></ul><p><br/></p>"
-}

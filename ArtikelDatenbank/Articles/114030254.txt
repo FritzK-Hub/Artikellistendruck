@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>20 Messer im Set</li><li>aus nachwachsenden Rohstoffen wie Holz, Mais und Zuckerrohr</li><li>für kalte und heiße Speisen bis 80°C</li><li>kompostierbar und extra stabil</li><li><span class=\"a-list-item\">hohe Produktqualität</span></li></ul>"
-}

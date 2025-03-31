@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Geschirr-Abtropfbrett für einfaches Wohnen</li><li>Tellerablage aus Kunststoff</li><li>funktionales, abnehmbares Tablett</li><li>leicht zu pflegen</li><li>schnelles Entleeren vom Spülwasser</li></ul>"
-}

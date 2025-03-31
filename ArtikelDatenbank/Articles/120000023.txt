@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>20 Liter Bio Tomaten- und Gemüseerde mit GUANO</li><li>für Gemüsepflanzen im Außenbereich</li><li>torffrei, organischer Stickstoff</li><li>Pflanzenerde mit nachwachsenden Rohstoffen</li><li>zum Wachsen, Blühen, Ernten und Schützen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 89.9,
-    "attributes": "<ul><li>Güde® Akku-Regenfasspumpe</li><li>wechselbarer Akku und Ladegerät</li><li>Akkuladezustandsanzeige</li><li>Absperrhahn und Teleskopverstellung</li><li>Anschluss passend für handelsübliche Schlauchkupplungen</li></ul><p><br/></p>"
-}

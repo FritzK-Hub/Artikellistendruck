@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>einfache und schlichte Eleganz</li><li>mit Rastbuchse für sicheren Halt</li><li>deutliche Markierungen</li><li>aus hochwertigem Material</li><li>vielseitig einsetzbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>leistungsfähige Alkaline Batterien</li><li>Typ LR 03 AAA</li><li>nicht wiederaufladbar</li><li>im 4-er Pack</li><li>ideal zur Bevorratung<br/></li></ul>"
-}

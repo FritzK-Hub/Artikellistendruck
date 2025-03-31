@@ -1,4 +1,0 @@
-{
-    "uvp": 3.59,
-    "attributes": "<ul><li>hochwertige Ersatzlötspitze für präzises Löten</li><li>passend für CFH LS 128 und ähnliche Lötkolben</li><li>Spitz zulaufende Form für filigrane Arbeiten</li><li>einfacher und schneller Wechsel möglich</li><li>perfekt für Elektronikbastler und Profis</li></ul>"
-}

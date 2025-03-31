@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>für sauberes und kristallklares Poolwasser</li><li>aus Polyesterpapier und ABS-Kunststoff</li><li>besonders leicht zu reinigen und wechseln</li><li>zum Einsatz in Kartuschenfilterpumpen</li><li>wirksam gegen Verunreinigungen im Pool<br/></li></ul>"
-}

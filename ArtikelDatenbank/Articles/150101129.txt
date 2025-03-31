@@ -1,4 +1,0 @@
-{
-    "uvp": 799.0,
-    "attributes": "<ul><li>Güde® Montagerampe GMR560 für Zweiräder bis 560 kg</li><li>Montagerampe mit Scherenhubtechnik</li><li>mittels Fußhebel Heben und Ablassen</li><li>Motorrad Hebebühne ist durch 2 Lenk- und 2 Bockrollen fahrbar</li><li>Feststellbacken für Vorderräder durch Handkurbel fixierbar</li></ul><p><br/></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>rutschfester Griff mit Halteclip</li><li>Magnetstab mit LED Licht</li><li>inklusive 3 LR 44 Knopfbatterien</li></ul>"
-}

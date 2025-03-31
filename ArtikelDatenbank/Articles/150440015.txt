@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>Heißluft-Fritteuse aus PP-Kunststoff in Schwarz</li><li>geeignet zum Backen, Rösten, Erhitzen, Warmhalten und Auftauen</li><li>mit automatischem Ausschalter und Indikatorlicht</li><li>Cool Touch Bedienung und einstellbarer Timer</li><li>Temperaturbereich zwischen 80-200°C</li></ul>"
-}

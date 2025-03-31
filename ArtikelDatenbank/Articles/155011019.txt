@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Whiteboardmarker 3 Stück im Set</li><li>trocken abwischbar ohne Rückstände</li><li>Rundspitze mit 4 mm Strichstärke</li><li>perfekt für Präsentationen, Unterricht und Büro</li><li>3 Farben: Rot, Blau, Grün</li></ul>"
-}

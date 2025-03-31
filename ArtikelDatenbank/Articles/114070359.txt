@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>hochwertiger Kunststoff-Bilderrahmen</li><li>für 12 Bilder im Format 10 x 15 cm</li><li>elegante schwarze Farbe für optimale Präsentation</li><li>Schutz vor Staub und Schmutz dank Kunstglasfenster</li><li>stilvolle Präsentation persönlicher Erinnerungen<br/></li></ul>"
-}

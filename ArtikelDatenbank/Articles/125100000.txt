@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>Solabiol Brennnessel-Sud für vitale, gesunde Pflanzen</li><li>Stärkungsmittel für schädlingsanfällige Pflanzen</li><li>als Spritz- und Gießmittel verwendbar</li><li>wirkt vorbeugend und regenerierend</li><li>für bis zu 20 Liter Spritzanwendung</li></ul>"
-}

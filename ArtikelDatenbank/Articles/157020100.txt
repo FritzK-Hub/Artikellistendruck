@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Vollton- und Abtönfarbe für Untergründe im Innen- und Außenbereich</li><li>zum Abtönen wässriger Farben und Putze</li><li>bestmögliche Deckkraft und Lichtechtheit</li><li>alkali- und wetterbeständig, wasserverdünnbar</li><li>für moderne Wandgestaltung und kreative Anstrichtechniken</li></ul>"
-}

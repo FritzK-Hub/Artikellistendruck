@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>50 Kabelbefestigung in weiß</li><li>mit eingestecktem 30 mm Nagel</li><li>hochwertiges Kunststoffmaterial</li><li>schnelle und einfache Verwendung</li><li>geeignet für Kabeldurchmesser von ca. 4 - 7 mm<br/></li></ul>"
-}

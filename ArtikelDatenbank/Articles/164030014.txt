@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Materialkarabiner 8 x 80 mm</li><li>aus hochwertigem, rostfreien Edelstahl</li><li>bis 230 kg belastbar</li><li>für Seile bis 8 mm Durchmesser</li><li>birnenförmig (C-Form)</li></ul>"
-}

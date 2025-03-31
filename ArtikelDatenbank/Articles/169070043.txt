@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Pattex® 2K Kleber \"Stabilit Express\" 30 g schnellhärtend</li><li>ein Löffel des Härterpulvers reicht für die Harzmischung aus</li><li>geeignet für Porzellan, Glas, Metalle, Stein, Holz oder Gummi</li><li>spaltfüllender Klebstoff gleicht auch Materialunebenheiten aus</li><li>für anspruchsvolle Verklebungen bei Belastungen von bis zu 150 kg<br/></li></ul>"
-}

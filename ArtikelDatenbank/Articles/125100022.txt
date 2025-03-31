@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>3 Liter Grundstoff Acetum von Solabiol </li><li>zur Unterstützung des Unkrautjätens</li><li>besonders ergiebig und schnell wirkend</li><li>aus 100% natürlichem Ursprung</li><li>auch zur Desinfektion von Schneidwerkzeugen einsetzbar<br/></li></ul>"
-}

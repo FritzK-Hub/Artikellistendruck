@@ -1,4 +1,0 @@
-{
-    "uvp": 17.5,
-    "attributes": "<ul><li>alle gängigen Größen mit Schrauben</li><li>insgesamt 170 Teile</li><li>in Kunststoffbox</li></ul>"
-}

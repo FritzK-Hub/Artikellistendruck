@@ -1,4 +1,0 @@
-{
-    "uvp": 8.75,
-    "attributes": "<ul><li>Vorhangschloss 60 mm mit gehärtetem Bügel</li><li>Schlosskörper aus Messing gefertigt</li><li>einfache Ausführung, einseitig verriegelt</li><li>ideal für Reisekoffer geeignet</li><li>inklusive 3 Schlüssel<br/></li></ul>"
-}

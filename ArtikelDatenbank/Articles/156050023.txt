@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>wird zum Fixieren von Tapeten</li><li>zum Ausbessern von kleineren Tapezierfehler</li><li>verfügt über weiche PU-Schaumstoffwalze</li><li>hat eine Walzenbreite von ca. 15 cm</li><li>besitzt Kunststoffgriff für einen hohen Arbeitskomfort<br/></li></ul>"
-}

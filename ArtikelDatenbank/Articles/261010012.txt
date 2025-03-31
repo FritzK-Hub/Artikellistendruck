@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Durchmesser: Ø 10 mm</li><li>Menge: 55 Stück</li><li>mit Kragen</li><li>Farbe: grau</li></ul>"
-}

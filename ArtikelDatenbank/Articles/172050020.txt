@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>2 Meter lange Euro-Zuleitung für flexible Stromversorgung deiner Geräte<br/></li><li>max. 4 A Belastbarkeit und 250 V Spannung für sicherern Betrieb</li><li>integrierter Schnurschalter für bequemes Ein- und Ausschalten</li><li>geeignet für Geräte der Schutzklasse II mit Schutzisolierung</li><li>stilvolles weißes Design passt zu jeder Umgebung</li></ul><p></p>"
-}

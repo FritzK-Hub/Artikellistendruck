@@ -1,4 +1,0 @@
-{
-    "uvp": 30.69,
-    "attributes": "<ul><li>Alublech-Tafel</li><li>aus rohem Aluminium unbehandelt</li></ul>"
-}

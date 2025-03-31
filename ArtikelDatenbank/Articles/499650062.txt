@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Spanplattenschrauben mit Senkkopf und T-Profil IVZ TX-Antrieb</li><li>aus rostfreiem Edelstahl mit Vollgewinde gefertigt</li><li>zur Anwendung in Holz mit Standard-Holz-Spitze</li><li>passend für Bohrergröße 3 mm und TX10-Profil</li><li>mit einem verstärkten Kopf und Gleitbeschichtung versehen</li></ul>"
-}

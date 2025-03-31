@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Auto-Shampoo mit Aprikosenduft<br/></li><li>entfernt hartnäckige Verschmutzungen wie Schmierstoffe</li><li>reinigt, pflegt und schützt den Lack</li><li>für Auto und Motorrad geeignet<br/></li><li>ergiebig da Konzentrat</li></ul><p><br/></p>"
-}

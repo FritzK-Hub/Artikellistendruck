@@ -1,4 +1,0 @@
-{
-    "uvp": 5.69,
-    "attributes": "<ul><li>Sicherheit durch VDE- und GS-Prüfung</li><li>komfortabler 2-Komponenten-Antirutschgriff</li><li>Präzision dank 80 mm Klingenlänge</li><li>langlebig und robust konstruiert</li><li>Aufhängebohrung für bequeme Aufbewahrung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Cosmos bipinnatus für ca. 40 Pflanzen</li><li>Sensations-Mischung für eine schöne Blütenpracht</li><li>leuchtende, große Blütenblätter sorgen fürs Staunen</li><li>ist besonders starkwüchsig und verzweigt sich kräftig</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 169.95,
-    "attributes": "<ul><li>aus hochwertigem geöltem Eukalyptusholz</li><li>mit großzügigem Stauraum</li><li>mit integriertem grauen Sitzkissen</li><li>witterungsbeständig und pflegeleicht</li><li>in einem attraktiven Design<br/></li></ul>"
-}

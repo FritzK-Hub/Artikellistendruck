@@ -1,4 +1,0 @@
-{
-    "uvp": 25.95,
-    "attributes": "<ul><li>Schale für verschiedene Arten von Vorspeisen</li><li>eine schöne Ergänzung für den Serviertisch</li><li>6 quadratische Keramikschalen </li><li>stabiler Griff, spülmaschinenfest </li><li>elegantes Design</li></ul>"
-}

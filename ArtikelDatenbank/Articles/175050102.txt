@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Druckluftstifte 40 mm 5000 Stück von Güde</li><li>aus verzinktem Stahl gefertigt</li><li>für viele gängige Druckluftnaglergeräte geeignet</li><li>dringen mühelos in verschiedenen Werkstoffen ein</li><li>Verwendung im Modellbau oder Haushalt<br/></li></ul>"
-}

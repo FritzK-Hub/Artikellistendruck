@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Saatgut Gurkenkraut Borretsch für ca. 80 Pflanzen</li><li>mit schönen, stahlblauen und sternenförmigen Blüten</li><li>Blätter verfügen über ein gurken ähnliches Aroma</li><li>ideal zur Verfeinerung von Salaten oder Quakspeisen</li><li>ein fester Bestandteil der „Frankfurter Grünen Soße“<br/></li></ul>"
-}

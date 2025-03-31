@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>Abdeckung für TAE-Dosen (Telefondosen)</li><li>aus hochwertigem Kunststoff in weiß</li><li>klassisches Design mit hochglänzender Oberfläche </li><li>nur in Verbindung mit TAE-Dose der Serie EverLuxe</li><li>nur in Kombination mit Rahmen der Serie EverLuxe<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>zur Steuerung von elektrischen Verbrauchern über WLAN</li><li>auch für den Außenbereich geeignet (IP44)</li><li>funktioniert ganz ohne Gateway (Hub)</li><li>beliebig erweiterbar um weitere Hama-Geräte</li><li>Steuerung über die hama® Smart-Home-App<br/></li></ul>"
-}

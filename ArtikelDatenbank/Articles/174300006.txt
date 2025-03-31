@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>energiesparend dank Cold-Start-Funktion</li><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>perfektes Strahlbild durch Marken-Mischdüse</li><li>einfache Installation mit flexiblen Anschlussschläuchen</li><li>schwenkbarer Auslauf 360° bietet Flexibilität</li></ul>"
-}

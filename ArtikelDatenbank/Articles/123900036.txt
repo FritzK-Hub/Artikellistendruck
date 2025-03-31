@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Bodenfliesen zum Zusammenstecken</li><li>aus recyceltem, schwarzem Kunststoff gefertigt</li><li>lassen sich nach Belieben miteinander verbinden</li><li>es werden keine Schrauben oder Kleber benötigt</li><li>wetterbeständig, geeignet fuer Innen- und Außenbereiche<br/></li></ul>"
-}

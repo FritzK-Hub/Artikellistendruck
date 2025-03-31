@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Duschsäule aus hochglanzverchromtem Edelstahl</li><li>mit integriertem Umsteller für Kopfbrause und Handbrause</li><li>Handbrause mit 150 cm Edelstahlbrauseschlauch, doppelt gewickelt</li><li>Design Handbrause in der Höhe verstellbar</li><li>mit Anschlussschlauch zur Armatur (ohne Armatur)</li></ul>"
-}

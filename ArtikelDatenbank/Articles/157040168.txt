@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>für den Innen- und Außenbereich</li><li>haftvermittelnde Grundierung</li><li>geeignet für Holz und grundiertes Metall</li><li>hohes Füll- und Deckvermögen</li><li>leicht schleifbar und guter Verlauf</li></ul>"
-}

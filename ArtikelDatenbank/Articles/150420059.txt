@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>einzigartiges 16-teiliges Besteckset in Kupferoptik</li><li>aus hochwertigen Edelstahl gefertigt</li><li>für 4 Personen geeignet</li><li>spülmaschinenfest</li><li>schönes Geschenk für Freunde oder Familie<br/></li></ul>"
-}

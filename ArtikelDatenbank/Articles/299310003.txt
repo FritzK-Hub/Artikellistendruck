@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Länge: ca. 10 m</li><li>Breite: ca. 25 mm</li><li>Materialstärke: ca. 0,75 mm</li><li>Bohrlöcher Ø: ca. 8,0 mm</li><li>Lochabstand: ca. 6,0 mm</li></ul>"
-}

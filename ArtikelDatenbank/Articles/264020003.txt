@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Schäkel, Rundschäkel mit Bolzen</li><li>gerade Form</li><li>galvanisch verzinkt</li><li>max. Tragkraft 400kg</li><li>anwendbar bis 22mm</li></ul>"
-}

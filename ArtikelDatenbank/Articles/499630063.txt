@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>hergestellt aus A2 Edelstahl für maximale Korrosionsbeständigkeit</li><li>Senkkopf ermöglicht eine bündige Versenkung ins Holz</li><li>Teilgewinde für eine sichere und stabile Verbindung</li><li>PZ Kreuzschlitz Antrieb für schnelle und einfache Installation</li><li>erhältlich in verschiedenen Längen und Durchmessern</li></ul>"
-}

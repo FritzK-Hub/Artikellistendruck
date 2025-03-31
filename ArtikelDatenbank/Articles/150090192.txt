@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Sockel: H7 PX26d</li><li>Inhalt: 2 Stück</li><li>Spannung: 12 V</li><li>Leistung: 55 W</li><li>entspricht E4<br/></li></ul>"
-}

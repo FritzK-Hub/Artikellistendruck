@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>leistungsstarke HD-Endoskop-Kamera mit 2600 mAh Akku</li><li>zur Erkundung schwer zugänglicher Stellen und Bergung von Kleinteilen</li><li>200 cm langer Schwanenhals zum Erreichen von schwer zugänglichen Stellen</li><li>in Werkstätten, Sanitäranlagen und bei Autoreparaturen einsetzbar</li><li>2,4-Zoll-IPS-Display ermöglicht eine genaue Untersuchung in Echtzeit<br/></li></ul>"
-}

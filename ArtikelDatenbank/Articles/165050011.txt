@@ -1,4 +1,0 @@
-{
-    "uvp": 3.19,
-    "attributes": "<ul><li>Schraubklemme für Drahtseile mit metrischem Gewinde</li><li>aus hochwertigem Edelstahl</li><li>geeignet für Drahtseile bis 4 mm</li><li>für innen und außen geeignet</li><li>rostfrei und salzwasserbeständig</li></ul>"
-}

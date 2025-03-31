@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Trittleiter 3-stufig aus Aluminium, beidseitig begehbar</li><li>praktischer Helfer für den Einsatz im Haushalt</li><li>Belastbarkeit von ca. 150 kg</li><li>rutschfeste Standfüße aus Kunststoff für den nötigen Halt</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

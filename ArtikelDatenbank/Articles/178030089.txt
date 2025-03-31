@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Schlosserwinkel aus verzinktem Stahl</li><li>mit Anschlag</li><li>für einfache Richt- und Anreißarbeiten</li><li>sehr hohe Winkelgenauigkeit</li><li>präzise geschliffene Messkanten</li></ul>"
-}

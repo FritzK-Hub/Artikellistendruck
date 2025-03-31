@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Pflanzkelle breit aus schwarzem Kunststoff</li><li>mit einer Gesamtlänge von ca. 27 cm</li><li>mit Höhenanzeige von bis zu 10 cm</li><li>ideal zum Pflanzen, Umtopfen oder ähnliche Arbeiten</li><li>bei Nichtgebrauch dank Aufhänghöse aufhängbar</li></ul>"
-}

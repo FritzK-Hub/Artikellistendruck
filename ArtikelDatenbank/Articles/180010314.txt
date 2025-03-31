@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Seramis Gemüse/Hochbeet-Bioerde ohne Torf im 40 Liter Sack</li><li>geeignet für alle Gemüse- oder Kräuterarten im Hochbeet</li><li>sorgt für einen optimalen Pflanzenwachstum</li><li>liefert die idealen Voraussetzungen für eine intensivere Aromabildung</li><li>bestehend aus Seramis Pflanzgranulat und torffreier Erde in Bio-Qualität<br/></li></ul>"
-}

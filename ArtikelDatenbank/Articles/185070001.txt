@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Vogelhaus aus Kiefernholz mit vier offenen Seiten</li><li>stabiles Fußkreuz für den nötigen Halt</li><li>Futterort für verschiedene Wildvögel</li><li>Überdachung mit Kupfer-/Teerdach bedeckt</li><li>großes Futtersilo schützt die Nahrung vor Nässe<br/></li></ul>"
-}

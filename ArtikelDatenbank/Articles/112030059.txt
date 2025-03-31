@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>USB 3.0 Anschlusskabel SuperSpeed</li><li>Datenübertragungen bis zu 5 Gbit/s</li><li>10-mal schneller als USB 2.0</li><li>UL-Zertifiziert</li><li>zum Anschluss von Druckern, Scannern oder externen Speichermedien<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>für den stabilen Halt</li><li>zur sauberen Abdeckung</li><li>einfache Installation</li><li>aus robustem Material</li><li>harmonische Wohnraumgestaltung<br/><br/></li></ul>"
-}

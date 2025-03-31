@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>60 cm Länge für präzise Messungen</li><li>vier Libellen (180°, 90°, 45°) für Vielseitigkeit</li><li>robuste Konstruktion für eine lange Lebensdauer</li><li>klappbares Design für einfache Aufbewahrung und Transport</li><li>magnetische Unterseite für schnelle Befestigung an magnetischen Oberflächen</li></ul><p></p>"
-}

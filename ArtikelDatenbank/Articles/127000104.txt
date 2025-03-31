@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>zum Streuen von Saatgut, Düngemittel, Streusalz, uvm.</li><li>aus Kunststoff mit pulverbeschichtetem Stahlgriff</li><li>bietet vielseitige Einsetzmöglichkeiten</li><li>großes Fassungsvermögen von ca. 15 Litern</li><li>große Kunststoffräder zum mühelosen Transportieren<ul></ul></li></ul>"
-}

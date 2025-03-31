@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Servietten 20 Stück mit dekorativem Sternen-Motiv</li><li>schafft ein weihnachtliches Ambiente</li><li>als Deko für Teller oder für kreative Bastelprojekte</li><li>mit strapazierfähiger, saugfähiger und 3-lagiger Qualität</li><li>Ergänzung für gemütliche Abende und festliche Anlässe</li></ul>"
-}

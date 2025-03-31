@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>5 Luftballons \"Smile\"</li><li>in der Farbe gelb</li><li>schöne Geburtstags-Dekoration</li><li>lassen sich leicht mit einer Ballonpumpe aufblasen</li><li>hochwertiges Material</li></ul>"
-}

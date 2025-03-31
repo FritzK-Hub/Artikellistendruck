@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>besonders robuste Verzinkung</li><li>vielseitige Anwendung</li><li>für eine zuverlässige Abdichtung</li><li>schnelle und einfache Montage</li><li>lang anhaltende Leistung<br/><br/></li></ul>"
-}

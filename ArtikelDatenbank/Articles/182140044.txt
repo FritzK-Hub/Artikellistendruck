@@ -1,4 +1,0 @@
-{
-    "uvp": 9.29,
-    "attributes": "<ul><li>flexibles Faltwerkzeug</li><li>zur Fahrrad Reparatur</li><li>kompakt und handlich</li><li>passt in jede Fahrradtasche</li><li>Multitool für die Wartung des Rades</li></ul>"
-}

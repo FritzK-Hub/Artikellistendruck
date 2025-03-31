@@ -1,4 +1,0 @@
-{
-    "uvp": 139.95,
-    "attributes": "<ul><li>    Holzkohle BBQ Grillwagen Smoker, inklusive Ablagetisch    </li><li>separater Grillraum zum Räuchern und American Barbecue    </li><li>Grill mit Temperaturanzeige im Deckel    </li><li>für direktes und indirektes Grillen geeignet    </li><li>fahrbar und hitzebeständig lackiert</li></ul>"
-}

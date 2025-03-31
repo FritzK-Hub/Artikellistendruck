@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Ersatzbügel für 25 cm Farbwalzen</li><li>passend für Walzen mit 8 mm Aufnahme</li><li>ergonomischer 2K-Griff für ermüdungsfreies Arbeiten</li><li>Bügeldraht aus stabilem Metall</li><li>einfaches Stecksystem</li></ul>"
-}

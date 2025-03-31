@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>leuchtendes Rot in Gruppenpracht</li><li>vielseitige Verwendungsmöglichkeiten</li><li>pflegeleicht und anspruchslos</li><li>attraktiver Bienenmagnet</li><li>hohe Leuchtkraft <br/></li></ul>"
-}

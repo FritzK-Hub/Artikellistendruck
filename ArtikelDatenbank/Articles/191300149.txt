@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Füllmenge 900 ml </li><li>hält 12 Stunden lang heiß und 24 Stunden kalt<br/></li><li>mit Henkel und Aluminium-Trinkhalm</li><li>auslaufsicher</li><li>spülmaschinengeeignet</li></ul>"
-}

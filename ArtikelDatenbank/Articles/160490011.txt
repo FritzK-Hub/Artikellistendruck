@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Einweg Maleroverall in der Größe XL</li><li>aus strapazierfähigem Polypropylen gefertigt</li><li>mit Schutzhaube und Reißverschluss</li><li>Hand-, Fuß- und Kopfbund für mehr Tragekomfort</li><li>bietet idealen Schutz vor Farbspritzern</li></ul>"
-}

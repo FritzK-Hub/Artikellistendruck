@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Massage Gun akkubetrieben mit leistungsstarken 4,5 W</li><li>besitzt zwei Intensitätsstufen und bis zu 3500 Vibrationen pro Minute</li><li>zur Lockerung von Verspannungen und schnellere Regeneration der Muskeln</li><li>ideal für den Nacken-, Rücken-, Schulterbereich-, Arm- und Beinbereich</li><li>inklusive drei Massageaufsätze und USB-Ladekabel<br/></li></ul>"
-}

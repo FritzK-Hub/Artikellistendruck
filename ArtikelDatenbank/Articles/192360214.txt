@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Nussknacker 16 cm bemalbar aus Holz</li><li>in verschiedenen Ausführungen erhältlich</li><li>Standfuß sorgt für den nötigen Halt</li><li>fördert die Feinmotorik und Phantasie von Kindern</li><li>sechs Farben und Pinsel sind inklusive<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Hammerschlaglack auf Kunstharzbasis in Grün </li><li>aktive Rostschutzpigmente (Rost wird zuverlässig versiegelt und erneute Rostbildung verhindert)</li><li>für Eisen und Stahl geeignet</li><li>keine Grundierung erforderlich</li><li>innen und außen verwendbar (z. B. Metallzäune, Balkongeländer oder Handläufe)<br/></li></ul>"
-}

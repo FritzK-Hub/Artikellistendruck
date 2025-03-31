@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>sehr kurze Kulturzeit</li><li>köstlich in Salaten oder auf einer Pizza</li><li>ganzjährige Sprossenanzucht möglich</li><li>relativ anspruchslos</li><li>erdnussartiger Geschmack<br/></li></ul>"
-}

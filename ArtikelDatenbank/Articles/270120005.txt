@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Material Draht: Stahl, mit Messing beschichtet</li><li>Drähte: gewellt</li><li>Geschwindigkeit: max. 4500 U/min</li></ul>"
-}

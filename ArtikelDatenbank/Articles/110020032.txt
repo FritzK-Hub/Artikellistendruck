@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Lebensmittel-Mottenfallen-Set 2 Stück</li><li>zur schnellen Befallsermittlung von Motten, für ca. 30 m²</li><li>extra langlebiger Köder mit Lockwirkung für bis zu 3 Monate</li><li>effektiv gegen Dörrobst-, Mehl-, Kakao- und Dattelmotten</li><li>lässt sich einfach an den gewünschten Ort anbringen</li></ul>"
-}

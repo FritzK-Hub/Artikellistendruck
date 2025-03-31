@@ -1,4 +1,0 @@
-{
-    "uvp": 13.98,
-    "attributes": "<ul><li>Campinggrill BBQ aus emailliertem Stahlblech</li><li>mit 29,5 cm verchromtem Grillrost</li><li>mit Windschutz und verchromtem Grillrost</li><li>drei stabile Beine sorgen für den nötigen Halt</li><li>Grillrost in der Höhe zweifach verstellbar<br/></li></ul>"
-}

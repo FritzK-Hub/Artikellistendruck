@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>NYM-J Kabelring für den Feuchtraum</li><li>3-aderige PVC-Mantelleitung NYM-J</li><li>für Verlegung auf, in, unter Putz, in Mauerwerk geeignet</li><li>Verwendung in trockenen und feuchten Räumen oder im Freien (wenn vor direkter Sonneneinstrahlung geschützt)</li><li>Feuchtraumleitung mit grün/gelb gekennzeichneter Schutzleiter-Ader</li></ul>"
-}

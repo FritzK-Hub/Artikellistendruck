@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Zahnkelle aus Edelstahl</li><li>mit lackiertem Holzgriff</li><li>zum Auftragen von Putz, Spachtelmasse, Fliesenkleber</li><li>zwei Seiten verzahnt, zwei glatt</li><li>ideal für Renovierungsarbeiten</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>runder Blumenkübel mit matter Oberfläche</li><li>stabiler Pflanztopf für innen und außen</li><li>mit Einsatz zum einfacheren Bepflanzen</li><li>aus hochwertigem Kunststoff</li><li>UV- und frostbeständig</li></ul>"
-}

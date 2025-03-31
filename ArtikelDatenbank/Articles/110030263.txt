@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>zur gründlichen Reinigung von Pfannen, Töpfen oder Grillrost</li><li>löst effektiv groben Schmutz und hartnäckige Verkrustungen</li><li>besonders langlebig und stabil, aus rostfreiem Edelstahl gefertigt</li><li>vielseitig gegen angebranntes Essen oder hartnäckiges Fett einsetzbar</li><li>einfach in der Handhabung, lässt sich nach Gebrauch leicht auswaschen<br/></li></ul>"
-}

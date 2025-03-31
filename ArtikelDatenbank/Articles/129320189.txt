@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Saatgut Rucola Venetia für ca. 2-3 lfd. Meter</li><li>ist ein sehr ertragreiches, schnellwüchsiges Kraut</li><li>Blätter mit nussähnlich, pikantem Geschmack</li><li>ideal zur Verfeinerung von Pizzen oder Salaten</li><li>lässt wie Kresse auch in Schalen züchten<br/><br/></li></ul>"
-}

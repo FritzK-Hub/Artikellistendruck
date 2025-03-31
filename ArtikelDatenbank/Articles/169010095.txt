@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Teppich-Verlegeband gewebeverstärkt</li><li>doppelseitiges Klebeband mit sehr hoher Klebekraft</li><li>zur dauerhaften Fixierung und permanenten Verklebung</li><li>ideal für schwere Bodenbelägen mit strukturiertem Rücken</li><li>mit Kunstharzkleber</li></ul>"
-}

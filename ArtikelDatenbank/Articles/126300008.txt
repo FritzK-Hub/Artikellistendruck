@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>leuchtendes Orange um leicht erkannt zu werden</li><li>aus 100% Baumwolle gefertigt</li><li>fester Schirm als Sonnenschutz</li><li>ideal für Waldarbeiten oder zur Drückjagd</li><li>mit abklappbaren Ohrenwärmern</li></ul><p><br/></p><p><br/></p>"
-}

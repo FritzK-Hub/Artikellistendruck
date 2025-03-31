@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Schnittpetersilie Gigante Di Napoli</li><li>großblättrige Kraut mit hohen Vitamin-C-Gehalt</li><li>verfügt über einen stark aromatischen Geschmack</li><li>ideal zur Verfeinerung von Fleisch oder Salaten</li><li>auf dem Balkon oder in Wohnräumen züchtbar<br/></li></ul>"
-}

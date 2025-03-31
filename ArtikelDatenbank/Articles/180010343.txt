@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>neutralisiert schädliche Säuren im Boden</li><li>reduziert Moos im Rasen</li><li>für den Streuwagen geeignet</li><li>für tiefgrünen Rasen</li><li>verbessert den Rasenboden<br/></li></ul>"
-}

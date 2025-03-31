@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Spülkasten-Anschlussschlauch 200 mm</li><li>mit edelstahlumflochtener Ummantelung zum Schutz</li><li>einfache Montage, sichere Verbindung</li><li>hochflexibel und druckfest, für den Dauereinsatz geeignet</li><li>einseitig mit 90° Bogen, beidseitig mit 3/8\" Mutter</li></ul>"
-}

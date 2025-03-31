@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>langer Seifenblasenstab aus Kunststoff</li><li>sorgt für den richtigen Spielspaß</li><li>großes Fassungsvermögen von 238 ml</li><li>für Kinder ab 3 Jahren</li><li>in verschiedenen Farben erhältlich<br/></li></ul>"
-}

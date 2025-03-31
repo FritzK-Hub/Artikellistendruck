@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>Streckmetall in Tafelform</li><li>aus rohem Stahl unbehandelt</li><li>ideal als Putzträger, Kompostsieb oder Zaun</li><li>die Maschen sind nicht verschweißt, sie sind aus einem Stück gefertigt</li><li>besonders hohe Haltbarkeit und Formstabilität</li></ul>"
-}

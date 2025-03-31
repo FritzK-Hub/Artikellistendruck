@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>zur Aufbereitung aller stumpfen und stark verwitterten Lacke</li><li>glättet, reinigt und poliert mit Mikroschleifpartikeln</li><li>Reinigungs-Politur entfernt leichte Kratzer</li><li>reinigt besonders porentief, glättet materialschonend</li><li>frischt die Originalfarbe und Glanz wieder auf</li></ul>"
-}

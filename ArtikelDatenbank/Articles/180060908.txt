@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>Solarleuchte mit LED</li><li>sorgt für schöne Lichtakzente an deinen Gartenwegen</li><li>auch geeignet für die Terrasse oder in Blumenkübeln</li><li>mit Dämmerungs-Sensor</li><li>inklusive Knopfzellen-Batterie</li></ul>"
-}

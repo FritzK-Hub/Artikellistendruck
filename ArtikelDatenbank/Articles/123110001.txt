@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>Komposter in leichter und robuster Konstruktion</li><li>Deckelverschluss mit Windsicherung</li><li>Bequemer Zugang über eine untere Öffnung mit Schiebeklappe</li><li>mit simplen Stecksystem für eine werkzeuglose Montage</li><li>Lieferung zerlegt und ohne Bodenplatte</li></ul>"
-}

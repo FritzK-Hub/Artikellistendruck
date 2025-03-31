@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>zeitlose Designs für individuellen Stil</li><li>maximaler Komfort mit weichem Schaumkern</li><li>einfache Befestigung dank verstellbarem Halteband</li><li>praktische Bindebänder für sicheren Halt</li><li>hochwertige Masterialien, pflegeleicht und robust</li></ul>"
-}

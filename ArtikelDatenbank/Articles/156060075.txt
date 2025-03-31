@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>Glättkelle aus Edelstahl</li><li>langer, stabiler Holzgriff</li><li>zum Auftragen von Putz, Estrich, Beton, Fliesenkleber</li><li>geeignet für Fliesenleger, Gipser oder Stuckateure</li><li>glatte Kanten </li></ul>"
-}

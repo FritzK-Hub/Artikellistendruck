@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Wand / Deckenleuchte Farica Starry 36 Watt</li><li>hohe Leuchtkraft besonders in mittleren und kleinen Räumen</li><li>der Sterneffekt sorgt immer wieder für einen Blickfang</li><li>mit sparsamer und fest integrierter LED-Technik</li><li>sehr leichte und flache Bauform</li></ul>"
-}

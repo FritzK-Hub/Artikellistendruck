@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>aus PVC</li><li>Inhalt: 200 Stück</li><li>Größe: 5,0 mm<br/></li></ul>"
-}

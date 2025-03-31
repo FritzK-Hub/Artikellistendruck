@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>robuste Konstruktion</li><li>modernes Design</li><li>einfache Installation</li><li>sichere Aufbewahrung</li><li>vielseitige Anpassung<br/></li></ul>"
-}

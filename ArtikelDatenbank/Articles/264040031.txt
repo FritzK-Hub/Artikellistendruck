@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Art: Manschettenhaken, Schaukelhaken, Schaukelmanschette</li><li>Maße Manschette: (ØxB) ca. 50 x 30 mm</li><li>Materialstärke: (t) ca. 3 mm</li><li>Maße Karabiner: (LxB) ca. 10 x 4,7 cm</li><li>Materialstärke: (Ø) ca. 10 mm</li><li>Gesamthöhe: ca. 20 cm</li><li>Material: Stahl verzinkt</li><li>Belastbarkeit max.: 175 kg</li><li>Lagerung Karabiner: Kunststoffbuchse</li></ul>"
-}

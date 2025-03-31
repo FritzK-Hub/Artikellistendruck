@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>bereits vorgeladen und sofort einsatzbereit</li><li>speziell für leistungshungrige Geräte</li><li>besonders auch für Action-Spielzeuge geignet</li><li>hunderte Male wiederaufladbar ohne Memory-Effekt</li><li>auch zur Verwendung in Taschenlampen und Radios</li></ul><p></p>"
-}

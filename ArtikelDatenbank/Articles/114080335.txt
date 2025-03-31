@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Öllicht-Grabkerze Ø 6,5 x 14,2 cm in Weiß</li><li>verfügt über einen Ölgehalt von bis zu 30 %</li><li>bringt Grabschmuck oder Dekorationen zur Geltung</li><li>das Gehäuse der Grabkerze ist aus Kunststoff</li><li>besitzt eine Brenndauer von bis zu 60 Stunden<br/></li></ul>"
-}

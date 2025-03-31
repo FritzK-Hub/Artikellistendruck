@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>SOS-Tube zum Ausbessern Unebenheiten und Rissen</li><li>hochfüllender Leichtspachtel auf Acrylat-Dispersion-Basis</li><li>leicht zu verarbeiten, besitzt eine hohe Füllkraft </li><li>für Wände und Decken aus Beton, Putz oder Mauerwerk</li><li>lässt sich einfach mit Dispersionsfarben überstreichen<br/></li></ul>"
-}

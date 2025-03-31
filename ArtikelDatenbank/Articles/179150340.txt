@@ -1,4 +1,0 @@
-{
-    "uvp": 5.45,
-    "attributes": "<ul><li>massives Holzlaubsägebrett zur zusätzliche Stabilität bei Schneidarbeiten</li><li>eignet sich besonders für unterschiedliche, feine Laubsägearbeiten</li><li>integrierte Spannhilfe erleichtert das Einspannen des Sägeblattes in das Werkzeug</li><li>ist vielseitig für verschiedene DIY-Projekte oder im Modellbau einsetzbar</li><li>mitgelieferte Tischzwinge erleichtert die Befestigung des Brettes<br/></li></ul>"
-}

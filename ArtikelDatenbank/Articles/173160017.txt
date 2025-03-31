@@ -1,4 +1,0 @@
-{
-    "uvp": 28.5,
-    "attributes": "<ul> <li>Ratschen Ringschlüsselsatz 5-teilig</li> <li>Rechts- und Linkslauf umschaltbar</li> <li>gekröpfte Ausführung</li> <li>doppelseitiger Kopf</li> <li>10 verschiedene Schlüsselweiten</li></ul>"
-}

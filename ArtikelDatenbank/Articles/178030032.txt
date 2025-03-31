@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>Spannungsprüfer mit 140 mm Länge</li><li>gewährleistet ein gefahrloses Schrauben</li><li>mit Linse und Metallclip</li><li>dient zur Spannungsanzeige auf einer Leitung</li><li>besonders leicht und handlich<br/></li></ul>"
-}

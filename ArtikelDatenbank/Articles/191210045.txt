@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>Terrassenofen aus pulverbeschichtetem Stahlblech</li><li>mit Schornstein</li><li>kräftige, feuer- und hitzebeständige Farbe in Rostoptik </li><li>ganzjährig nutzbar</li><li>für eine angenehme Wärme und ein stimmungsvolles Ambiente<br/></li></ul>"
-}

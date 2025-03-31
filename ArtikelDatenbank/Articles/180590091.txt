@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>robuste Kofferraummatte mit zusätzlichem Ladekantenschutz</li><li>schützt den Kofferraum vor Schmutz und Beschädigungen</li><li>dank Schnittkonturen an gängigste Fahrzeugtypen anpassbar </li><li>rutschhemmende Oberfläche bietet einen sicheren Halt</li><li>leicht zu reinigen für eine einfache Pflege<br/></li></ul>"
-}

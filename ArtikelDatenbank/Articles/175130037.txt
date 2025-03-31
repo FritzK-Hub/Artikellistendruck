@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Brenn- und Lötkolben-Set von Kraftmann</li><li>ideal geeignet für Holz, Leder und Kork</li><li>arbeitet mit einer Temperatur von ca. 180°C</li><li>austauschbare Spitzen</li><li>ideal für den Hobby-Heimwerker</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>2 Stück H4 Scheinwerfer-Ersatzlampen im Set</li><li>mit H4 P43t Sockel</li><li>entspricht E1, gemäß ECE R 37</li><li>bis zu 30% mehr Licht und Ausleuchtung</li><li>geringer Gelbanteil</li></ul>"
-}

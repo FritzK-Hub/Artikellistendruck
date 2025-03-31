@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>äußerst vielseitig und für verschiedene Zwecke</li><li>sichere Befestigung und zusätzliche Sicherheit für Gegenstände</li><li>ideal fürs Camping, Fahrräder oder Schlafsäcke</li><li>mit stabile Haken mit Schutzkappen versehen</li><li>schnell und einfach in der Handhabung</li></ul>"
-}

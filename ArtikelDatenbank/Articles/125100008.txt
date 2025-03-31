@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>spezieller Lockstoff mit hoher Lockwirkung</li><li>naturidentischen Lockstoffkombination</li><li>fängt Falter ab und reduziert den Befall</li><li>doppelt effektiv: Gelbtafel und Pheromongel</li><li>für ca. 30 Tage Lockwirkung<br/></li></ul>"
-}

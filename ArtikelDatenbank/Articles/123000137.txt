@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>langlebiger Kunststoff bietet zuverlässigen Halt</li><li>ideale Befestigung für Gartenfolien und Netze</li><li>perfekte Länge zur sicheren Verankerung</li><li>Ankerdesign verhindert Verrutschen</li><li>einfache und schnelle Handhabung</li></ul><p></p>"
-}

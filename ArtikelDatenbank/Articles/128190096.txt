@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>hochwertige Hochlehnerauflage</li><li>guter Halt durch seitliche Kordeln</li><li>bequemer Sitzkomfort</li><li>schöne, zeitlose Designs</li><li>Kreisheftung im Rücken- und Sitzbereich<br/></li></ul>"
-}

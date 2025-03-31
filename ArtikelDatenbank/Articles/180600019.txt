@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>für verschiedenste Anwendungen im Hobbybereich</li><li>vielseitige Messbereiche wie Gleich- und Wechselspannung</li><li>beleuchtetes LCD-Display erleichtert die Überprüfung</li><li>auch als Voltmeter, Amperemeter oder Ohmmeter einsetzbar</li><li>Sicherheitsbuchsen und -stecker bieten Berührungsschutz<br/></li></ul>"
-}

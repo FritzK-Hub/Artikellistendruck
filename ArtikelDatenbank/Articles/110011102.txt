@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>beidseitiger Anschluss für Rohr-Ø 100 mm</li><li>optimale Abluftförderung</li><li>effiziente Ableitung von Kochdämpfen</li><li>aus haltbarem Kunststoff</li><li>einfache und schnelle Installation</li></ul>"
-}

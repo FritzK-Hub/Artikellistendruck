@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li><div>Gießstab zur einfachen Gartenbewässerung</div></li><li>mit 4 Wasserstrahleinstellungen</li><li>ergonomisch geformt und gut lesbare Markierungen</li><li>mit regulierbarer Neigung des Kopfes im Bereich 0-180°</li><li>hochklassige, regulierbare Gieß-Lanze</li></ul>"
-}

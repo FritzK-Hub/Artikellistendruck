@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Schlossschraube mit Vierkantansatz DIN 603 (auch Flachrundschraube genannt)</li><li>Maße: 8,0 x 70 mm<br/></li></ul>"
-}

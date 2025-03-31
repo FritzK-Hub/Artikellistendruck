@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Hundespielzeug mit Hantel-Optik</li><li>mit Quietsch-Effekt und Noppen</li><li>Zahnpflege auf spielerische Weise</li><li>beugt Zahnstein und Zahnbelag vor</li><li>ideal zum Apportieren und Trainieren</li></ul>"
-}

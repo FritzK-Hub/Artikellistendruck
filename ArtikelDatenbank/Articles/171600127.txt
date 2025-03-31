@@ -1,4 +1,0 @@
-{
-    "uvp": 7.55,
-    "attributes": "<ul><li>für die Oberflächenveredelung</li><li>wasserabweisende Schutzschicht</li><li>antistatische Eigenschaften</li><li>langanhaltender Schutz und Pflege</li><li>für verschiedenen Holzarten<br/></li></ul>"
-}

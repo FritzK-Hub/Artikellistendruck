@@ -1,4 +1,0 @@
-{
-    "uvp": 26.95,
-    "attributes": "<ul><li>transparente Polycarbonat H-Profil mit 16 mm Stärke</li><li>zur vertikalen Verbindung oder zur Montage von Platten </li><li>für Hohlkammerpaneele oder als Windschutz einsetzbar</li><li>schnelle und werkzeuglose Montage durch Klemmen</li><li>lässt sich bei Bedarf einfach zuschneiden<br/></li></ul>"
-}

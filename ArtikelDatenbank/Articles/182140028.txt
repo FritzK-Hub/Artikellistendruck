@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>batteriebetriebenes Fahrrad LED Beleuchtungs-Set</li><li>2-fach verstellbare Leuchtkraft der Frontleuchte</li><li>inkl. Schnellbefestigungen und Batterien</li><li>weniger Verbrauch gegenüber Leuchten mit herkömmlichen Glühlampen</li><li>LED Lebensdauer bis zu 50.000 Std.</li></ul>"
-}

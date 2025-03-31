@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Seitenschneider zum Durchtrennen von weichen und harten Drähten</li><li>ergonomischer 2-Komponenten-Griff</li><li>schlanke Bauform, liegt gut in der Hand</li><li>ermöglicht präzise Schnitte</li><li>hohe Schnittleistung bei geringem Kraftaufwand</li></ul>"
-}

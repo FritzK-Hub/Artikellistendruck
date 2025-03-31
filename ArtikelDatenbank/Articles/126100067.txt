@@ -1,4 +1,0 @@
-{
-    "uvp": 99.9,
-    "attributes": "<ul><li>verstellbarer Tragegurt</li><li>zum Blasen, Saugen und Zerkleinern</li><li>einfache Bedienung, große Füllmenge</li><li>mit Dachrinnen-Funktion</li><li>Blasrohr ist trennbar</li></ul>"
-}

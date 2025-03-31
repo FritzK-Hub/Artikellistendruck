@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>digitales Thermo Hygrometer mit ultraflachem Gehäuse</li><li>Kontrolle von Innentemperatur und Luftfeuchtigkeit</li><li>speichert Minimal- und Maximal-Werte</li><li>zum Aufstellen oder Wandmontage</li><li>mit Anzeige der Komfortstufe und Höchst- und Tiefstwerte</li></ul>"
-}

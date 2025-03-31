@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>matter Tischler- und Schreinerlack auf Urethanalkydbasis</li><li>für hochbeanspruchte Flächen wie Treppen, Parkett, Tischplatten, Türen oder Sitzmöbel</li><li>vielseitig im Innen- und Außenbereich einsetzbar, gibt den Holzoberflächen einen neuen Look</li><li>beständig gegen Wasser, Öl, Fett, Handcreme und Trinkalkohol</li><li>lässt sich auch für Kinderspielzeug universell verwenden</li></ul>"
-}

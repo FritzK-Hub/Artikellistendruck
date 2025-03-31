@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Textilreiniger für alle PKW-Textilien</li><li>entfernt rückstandslos Flecken und Verschmutzungen von Polstern und Teppichen</li><li>reinigt wirksam mit kraftvoller, schonender Schaumformel</li><li>hinterlässt keine Rückstände</li><li>bleicht nicht aus, wirkt farbauffrischend</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>Mehrfach-Steckdosenleiste 6-fach mit Schalter und Kindersicherung</li><li>versorgt bis zu sechs verschieden Geräte gleichzeitig mit Strom</li><li>besonders langlebig, aus bruchfestem Kunststoff gefertigt</li><li>durch 45°-Anordnung behindern sich die Stecker nicht gegenseitig</li><li>1,4 m lange Zuleitung bietet genug Spielraum beim Verlegen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 299.99,
-    "attributes": "<ul><li>beeindruckendes Flammenspiel hinter Glas</li><li>modernes Design passt in jede Umgebung</li><li>nachhaltiger Pelletbetrieb</li><li>kompakte Größe für platzsparende Nutzung</li><li>einfache Handhabung und leichte Reinigung</li></ul>"
-}

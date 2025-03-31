@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>    zum Anschluss eines 13-poligen Steckers an einer 7-poligen Fahrzeugdose</li><li>    für die Stromversorgung des Anhängers    </li><li>praktische Größe, ohne Kabel    </li><li>aus schlagfestem Kunststoff    </li><li>mit Schutzdeckel</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>Halbgarage Größe XL für Pkws aus blauem Nylon</li><li>bei Nichtgebrauch platzsparend im Aufbewahrungsbeutel verstaubar</li><li>optimaler Schutz gegen Eis, Schnee, Schmutz oder Sonnenstrahlen</li><li>einfache und schnelle Befestigung dank Gummizüge<br/></li><li>in weiteren verschiedenen Größen erhältlich</li></ul><p></p>"
-}

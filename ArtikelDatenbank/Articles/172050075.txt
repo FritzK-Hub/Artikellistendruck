@@ -1,4 +1,0 @@
-{
-    "uvp": 43.99,
-    "attributes": "<ul><li>10 m CEE-Verlängerungskabel</li><li>mit 5-poligen CEE-Stecker und -Kupplung</li><li>Schutzart IP 44, spritzwassergeschützt</li><li>zur kurzfristigen Verwendung im Freien</li><li>Verlängerungskabel mit Gummi-Leitung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>hochwertiges Stahlmaterial</li><li>beidseitig gesenkte Bohrungen</li><li>Rostschutz durch Gelbverzinkung</li><li>vielseitige Anwendung</li><li>präzise Abmessungen<br/><br/></li></ul>"
-}

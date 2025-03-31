@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>zuverlässige Abdichtung</li><li>für kleine Projekte </li><li>für den Innenbereich geeignet</li><li>vielseitige Anwendung</li><li>einfache Handhabung<br/></li></ul>"
-}

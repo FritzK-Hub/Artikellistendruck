@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Einsteckschloss für Profil-Schließzylinder (nicht im Lieferumfang)</li><li>hohe Widerstandsfähigkeit für langfristige Nutzung<br/></li><li>für viele Türvarianten geeignet</li><li>für links-hängende Türen</li><li>DIN 92 mm Wohnungstür<br/></li></ul>"
-}

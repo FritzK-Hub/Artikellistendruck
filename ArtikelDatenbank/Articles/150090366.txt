@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>hohe Lichtausbeute für eine hervorragende Sichtbarkeit</li><li>einfache Installation dank des P43t-Sockels</li><li>langlebige Leistung für eine zuverlässige Beleuchtung</li><li>kompatibel mit gängigen Fahrzeugmodellen</li><li>erfüllt hohe Sicherheitsstandards für eine sichere Fahrt</li></ul>"
-}

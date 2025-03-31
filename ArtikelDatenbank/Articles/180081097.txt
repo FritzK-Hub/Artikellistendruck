@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>optimaler Schutz</li><li>besonders atmungsaktiv</li><li>für bis zu 5 Pflanzen</li><li>Lichtreflektion für besseres Wachstum</li><li>individuell zuschneidbar</li></ul>"
-}

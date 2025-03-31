@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>zur Verwendung beim Einmachen von Marmelade und anderen Lebensmitteln</li><li>breite Öffnung für einfaches und sauberes Befüllen</li><li>wärmeisolierte und rutschfeste Griffe für angenehmes Arbeitsgefühl</li><li>aus hygienischem und langlebigem Edelstahl, spülmaschinengeeignet</li><li>passendes Zubehör für Hobbyköche und für die Gastronomie<br/></li></ul>"
-}

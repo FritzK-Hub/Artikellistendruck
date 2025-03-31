@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<ul><li>Schlauchverbinder aus Messing für ½\" Gartenschläuche</li><li>hohe Korrosionsbeständigkeit, auch bei regelmäßigem Kontakt mit Wasser und Witterungseinflüssen</li><li>einfache Schlauchmontage durch Klemm-Verschraubung ohne Werkzeug</li><li>hochwertiges Messingmaterial für zuverlässige Stabilität</li><li>zum schnellen Verbinden von zwei ½\" Gartenschläuchen</li></ul>"
-}

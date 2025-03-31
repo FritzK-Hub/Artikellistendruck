@@ -1,4 +1,0 @@
-{
-    "uvp": 9.52,
-    "attributes": "<ul><li>Kreuzschalter inkl. Kunststoffwippe in Cremeweiß</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>fügt sich in viele Einrichtungskonzepte ein</li><li>für die Unterputzmontage in der Schalterdose (min. 45mm Tiefe)</li><li>nur in Kombination mit Rahmen der REV Serie Standard Quadro zu verwenden<br/></li></ul>"
-}

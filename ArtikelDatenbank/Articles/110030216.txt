@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>7 Reinigunsschwämmeim Sortimentsbeutel </li><li>verschiedene Ausführungen, Formenund Farben </li><li>aus Polyester-Schaumstoff mit Scheuerseiteaus Spezialvlies</li><li>beseitigt grobe und feine Verschmutzungen oder Angebranntes</li><li>gute Saugleistung und schonende Reinigung<br/></li></ul>"
-}

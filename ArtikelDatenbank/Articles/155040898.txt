@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Strahler mit LED Leuchtmittel</li><li>auf stabilem Stativ, höhenverstellbar</li><li>IP44 spritzwassergeschützt</li><li>zur Verwendung im Außenbereich geeignet</li><li>ideal für Haus und Garten<br/></li></ul>"
-}

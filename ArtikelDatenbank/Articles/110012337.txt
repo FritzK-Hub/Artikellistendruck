@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>beidseitig mit Lötfittings für Kupferrohre mit einem Durchmesser von 15 mm</li><li>besonders kompakt, benötigt nur wenig Raum und eignet sich daher ideal für Wandnahe Rohrleitungen</li><li>ein abnehmbares Fitting mit Verschraubung für besonders einfache Montage</li><li>Schrägsitzventil ohne Entleerung</li><li>zur Absperrung von Rohren</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Motorenöl für moderne Pkw Otto- und Dieselmotoren</li><li>entwickelt für Motoren mit Dieselpartikelfilter und Turboaufladung</li><li>für verlängerte Wartungsintervalle geeignet</li><li>Zusammensetzung aus HC-Syntheseölen und vollsynthetischen PAO´s (Poly-Alpha-Olefinen)</li><li>in Kombination mit modernster, aschearmer Additivtechnologie</li></ul>"
-}

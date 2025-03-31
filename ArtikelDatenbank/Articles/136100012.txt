@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>sichere Handhabung dank genoppter Griffe</li><li>haltbarer Stahl bietet Langlebigkeit</li><li>sechs Lochpfeifen passend für jeden Bedarf</li><li>vielseitig einsetzbar für Leder, Textilien und Bastelprojekte</li><li>präzise Locherweiterung erlaubet individualisierte Anpassungen</li></ul><p> </p><p></p>"
-}

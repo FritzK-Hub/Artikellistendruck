@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>ideal zum Pflanzen und Umtopfen aller Orchideenarten</li><li>Pflanzgerechte Nährstoff-Formel</li><li>hochwertige Pinienrinde, Kokosfasern und Weißtorf</li><li>verbesserte Wasserspeicherfähigkeit und Durchlüftung</li><li>1 - 2 Tage vor dem Umtopfen ausreichend gießen<br/><br/></li></ul>"
-}

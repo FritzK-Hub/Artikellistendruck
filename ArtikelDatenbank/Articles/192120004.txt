@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>Lenkschlitten Snow Fox mit Lenkrad für Kinder ab 6 Jahren </li><li>aus robustem HPE-Kunststoff in Anthrazit gefertigt</li><li>seitlich angebrachte Einhandbremse für sicheres Bremsen</li><li>besitzt eine Belastbarkeit von bis zu 65 kg</li><li>hochwertige Qualität, made in Germany<br/></li></ul>"
-}

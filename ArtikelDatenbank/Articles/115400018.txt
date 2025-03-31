@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>stabile Werkbank mit Metallgestell</li><li>massive 3 cm starke Holzplatte als Arbeitsfläche</li><li>zwei Metall-Ablageböden für Werkzeuge</li><li>pulverbeschichtete Oberfläche<br/></li><li>bis zu 300 kg belastbar</li></ul>"
-}

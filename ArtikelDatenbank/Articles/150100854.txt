@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>2m langes Reflektorband</li><li>zur Markierung ua. von Anhängern für mehr Sicherheit</li><li>aus flexiblen PVC</li><li>selbstklebend</li><li>mit E-Zulassung</li></ul>"
-}

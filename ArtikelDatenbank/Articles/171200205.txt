@@ -1,4 +1,0 @@
-{
-    "uvp": 18.49,
-    "attributes": "<ul><li>schnelle Holzauffrischung liefert sofortige Ergebnisse</li><li>gelartige Konsistenz erleichtert Anwendung</li><li>universelle Eignung für diverse Holzarten</li><li>effektive Entgrauung mit sparsamer Produktformel</li><li>ideale Vorbereitung für langfristigen Schutz</li></ul><p></p>"
-}

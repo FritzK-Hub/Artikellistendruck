@@ -1,4 +1,0 @@
-{
-    "uvp": 139.99,
-    "attributes": "<ul><li>geringer Lärmpegel und Wartungsaufwand</li><li>integriertes Kettenschärfen mit PowerSharp®</li><li>werkzeugloses Spannen der Kette</li><li>automatische Ketten-Ölung</li><li>kompakt und handlich</li></ul>"
-}

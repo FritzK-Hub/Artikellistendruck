@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>selbstklebender LED-Streifen 4,3 W mit Farbwechsel </li><li>zur individuellen Gestaltung deiner Innenräume</li><li>integrierter Musiksensor passt die Beleuchtung dem Beat an</li><li>50 cm USB-Netzkabel erleichtert die Installation</li><li>ist bei Bedarf individuell kürzbar, einfach in der Handhabung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>faszinierender Farbkontrast</li><li>hochwertige Schnittblume</li><li>vielseitiger Standort</li><li>nützlich für die Umwelt</li><li>lang anhaltende Blütenpracht<br/></li></ul>"
-}

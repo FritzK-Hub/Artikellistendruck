@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>LED Lampe in Birnenform, E27</li><li>warmweißes, angenehmes Licht</li><li>geringer Energieverbrauch</li><li>LED Birne im kompaktem Design</li><li>Lampenwechsel durch einfaches Austauschen</li></ul>"
-}

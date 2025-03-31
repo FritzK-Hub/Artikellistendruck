@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Saatgut Stangenbohnen Blauhilde für ca. 15 Stangen</li><li>ist eine ertragreiche Bohnensorte, ohne Fäden</li><li>mit langen, dickfleischigen tiefblauen Hülsen</li><li>ideal für den Frischverzehr oder zur Konservierung</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

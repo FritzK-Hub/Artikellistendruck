@@ -1,4 +1,0 @@
-{
-    "uvp": 129.99,
-    "attributes": "<ul><li>fahrbarer, gasbetriebener Terrassenheizstrahler</li><li>vielseitig im Garten, Festzelt oder Balkon einsetzbar</li><li>Heizleistung ist stufenlos von 5 bis 13 kW regulierbar</li><li>Heizpilz mit mechanischer Piezozündung und Kippschutz</li><li>für 11 kg Propan oder Propan/Butan Gasflaschen</li></ul>"
-}

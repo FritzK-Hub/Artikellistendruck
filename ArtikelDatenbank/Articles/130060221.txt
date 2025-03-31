@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>große Kalt / Warm Kompresse von Wundmed</li><li>effektiv gegen Prellungen oder Muskelkater</li><li>tiefkühlfähig und mikrowellengeeignet</li><li>Wirkung der Kompresse ist vielfältig</li><li>Gel aus reinen Naturstoffen hergestellt</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Eckenroller für alle Wand- und Deckenfarben</li><li>für ein feines Oberflächenfinish</li><li>spritzarmer Roller</li><li>gute Farbaufnahme und Abgabe</li><li>für alle Untergründe</li></ul>"
-}

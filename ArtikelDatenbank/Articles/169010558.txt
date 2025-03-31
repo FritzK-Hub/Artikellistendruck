@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>hohe Klebkraft</li><li>extreme Reißfestigkeit</li><li>einfache Handhabung</li><li>vielseitige Anwendung</li><li>großzügige Länge</li></ul>"
-}

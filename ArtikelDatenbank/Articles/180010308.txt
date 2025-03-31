@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>runde Quelltabletten 20 Stück je 3,5 cm</li><li>zum Vortreiben von Keimlingen</li><li>dient zur Wachstumsförderung</li><li>erleichtert die Anzucht von Sämereien</li><li>sorgt für ausgewogenem Nährstoff-Mix und schnelle Wurzelbildung</li></ul>"
-}

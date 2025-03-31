@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>solarbetriebene LED-Stabbeleuchtung mit 30 Kupferdrähten<br/></li><li>mit Insgesamt 90 warmweißen LEDs versehen</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>stabiler Halt dank mitgeliefertem Erdspieß</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.39,
-    "attributes": "<ul><li>Sortimentsbox mit fünf unterschiedlich großen Fächern</li><li>vielseitig in der Werkstatt, Garage oder auf der Baustelle einsetzbar</li><li>stabile Ausführung mit sicheren Klemmverschlüssen</li><li>bietet ausreichend Stauraum für Werkzeug und Zubehör</li><li>durchsichtige Bauweise für einen schnellen Überblick des Inhalts<br/></li></ul>"
-}

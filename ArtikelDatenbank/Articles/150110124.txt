@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Teer- und Baumharz Entferner vereinfacht die Fahrzeugreinigung</li><li>entfernt wirksam und schonend besonders hartnäckige Flecken</li><li>wirkt selbstaktiv und besonders schnell</li><li>reinigt Lackflächen von Verschmutzungen durch Baumharz, Teer und Asphalt</li><li>geeignet für Lack- und lackierte Kunststoff-Oberflächen</li></ul>"
-}

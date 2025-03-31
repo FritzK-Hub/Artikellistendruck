@@ -1,4 +1,0 @@
-{
-    "uvp": 249.95,
-    "attributes": "<ul><li>hochwertiger 18/10 Edelstahl für Langlebigkeit</li><li>flexible Grillhöhe durch 5-fach Verstellung</li><li>schnelle Reinigung dank Ascheschubkästen</li><li>kompakt verstaubar nach jedem Einsatz</li><li>zusätzlicher Stauraum für Grillzubehör</li></ul>"
-}

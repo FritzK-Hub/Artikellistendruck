@@ -1,4 +1,0 @@
-{
-    "uvp": 368.95,
-    "attributes": "<ul><li>Gartenschaukel für bis zu 4 Personen</li><li>massives Stahlgestell, dunkelgrau pulverbeschichtet</li><li>Polsterauflagen und Dachplane aus 100% Polyester</li><li>mit braunen Kedern</li><li>Rückenlehne als Liege umklappbar</li></ul>"
-}

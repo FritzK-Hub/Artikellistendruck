@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>2 Gummidichtungen für Schnellkupplungen</li><li>Dichtringe für Schnellkupplungen mit 40mm Klauenabstand</li></ul>"
-}

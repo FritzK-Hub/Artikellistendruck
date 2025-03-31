@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>perfekte Fixierung für präzise 90 Grad Verbindungen</li><li>müheloses Arbeiten durch einfache Handhabung</li><li>robuste Materialien für langlebige Nutzung</li><li>sicherer Halt durch starken Spannfeder-Mechanismus</li><li>vielseitig einsetzbar für verschiedene Holzprojekte</li></ul>"
-}

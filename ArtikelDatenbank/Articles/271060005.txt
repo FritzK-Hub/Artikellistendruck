@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Spitzmeißel mit SDS max Aufnahme</li><li>für schlagende und drehende Elektrowerkzeuge, wie leichte bis mittelschwere Bohrmaschinen oder Bohrhämmer</li><li>für Stemmarbeiten in Beton, Mauerwerk, Stein usw.</li><li>werkzeugloser und schneller Wechsel</li><li>hochwertige Qualität<br/><br/></li></ul>"
-}

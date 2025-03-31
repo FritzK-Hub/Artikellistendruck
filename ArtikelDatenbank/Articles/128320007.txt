@@ -1,4 +1,0 @@
-{
-    "uvp": 169.95,
-    "attributes": "<ul><li>Markise mit Auszug links und Fotodruck „Südsee“ rechts<br/></li><li>schützt vor seitlichem Wind und Sonnenstrahlen</li><li>ideal für Balkon, Garten oder Terrasse geeignet</li><li>verhindert unerwünschte Blicke von Passanten und Nachbarn</li><li>einfache und schnelle Montage und Bedienung</li></ul>"
-}

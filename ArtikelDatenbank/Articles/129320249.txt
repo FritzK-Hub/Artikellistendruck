@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>vielfältige Farbenpracht</li><li>einfache Pflege</li><li>natürliche Anziehungspunkte</li><li>neue Blütenkomposition</li><li>unkomplizierte Aussaat<br/></li></ul>"
-}

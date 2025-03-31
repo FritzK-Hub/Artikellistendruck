@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Warnweste geprüft nach EN ISO 20471</li><li>fluoreszierendes Material mit 2 reflektierenden Signal-Streifen</li><li>mit Klettverschluss für sicheres Tragen</li><li>Sicherheitsweste aus Polyester in orange</li><li>Pflicht in den meisten europäischen Ländern</li></ul>"
-}

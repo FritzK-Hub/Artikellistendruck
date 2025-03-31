@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>8 mm Vierkantprofil aus Zinkdruckguss</li><li>perfekt für professionelle Anwendungen und Zuhause</li><li>ideal für innenliegende Vierkantschösser</li><li>häufig verwendet für Schaltschränke</li><li>GD-Zn Verzinkung gegen Korrosion</li></ul><p></p>"
-}

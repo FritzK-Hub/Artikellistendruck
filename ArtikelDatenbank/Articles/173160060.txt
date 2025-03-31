@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Halogen Stiftsockellampe G9</li><li>tageslichtähnliche Lichtfarbe mit UV-Filter</li><li>G9-Stecksockel-Fassungssystem</li><li>integrierte Sicherungsfunktion</li><li>innovative, einzigartige Noppentechnik</li></ul>"
-}

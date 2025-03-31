@@ -1,4 +1,0 @@
-{
-    "uvp": 5.9,
-    "attributes": "<ul><li>hergestellt aus Chrom-Vanadium-Stahl</li><li>robuste 40er Verzahnung (grob)</li><li>einfache rechts/links Umschaltung über Drehscheibe</li><li>ergonomisch geformter Hartgummigriff</li><li>ideal für Handwerker und Heimwerker geeignet<br/></li></ul>"
-}

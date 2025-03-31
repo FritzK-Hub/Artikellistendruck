@@ -1,4 +1,0 @@
-{
-    "uvp": 25.49,
-    "attributes": "<ul><li>Steckdosenleiste 6-fach mit Schalter und Überspannungsschutz</li><li>aus bruchsicherem, schwarzem Aluminium-Gehäuse gefertigt</li><li>Stecker im 45° Winkel angeordnet, behindern sich nicht gegenseitig</li><li>ist vielseitig im Innenbereich einsetzbar</li><li>bei Nichtgebrauch platzsparend aufhängbar</li></ul>"
-}

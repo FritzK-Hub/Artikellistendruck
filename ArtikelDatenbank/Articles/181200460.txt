@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Knollensellerie Monarch für ca. 200 Pflanzen</li><li>mit großen, glatten Knollen und wenig Wurzelboden</li><li>der Sellerie lässt sich gut einlagern und konservieren</li><li>besitzt eine Widerstandfähigkeit gegenüber Blattkrankheiten</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
-}

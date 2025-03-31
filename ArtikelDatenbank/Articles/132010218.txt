@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>100% natürliches Einzelfuttermittel für Hunde</li><li>ermöglicht die gezielte Pflege der Zähne</li><li>harte Oberfläche wirkt wie eine Zahnbürste</li><li>als Belohnung oder zum Verfeinern des Futters</li><li>stärkt die Kaumuskulatur und reduziert Zahnbelag</li></ul>"
-}

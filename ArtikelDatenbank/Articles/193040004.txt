@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>nachhaltiges Igelhaus aus Holz für Umweltbewusste</li><li>perfekter Schutz vor Fressfeinden mit Zwischenwand</li><li>einfache Reinigung dank abnehmbarem Dach</li><li>vielseitig nutzbar als Futterhaus und Winterquartier in Einem</li><li>kompakt, aber geräumig für Igelwohlbefinden</li></ul>"
-}

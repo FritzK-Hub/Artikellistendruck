@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Zwischensteckdose mit Ein/Aus Schalter</li><li>aus stabilem, weißem Kunststoff gefertigt</li><li>zum Ein-/Ausschalten von Endgeräten direkt an der Steckdose</li><li>das lästige Einstecken und Herausziehen des Steckers entfällt</li><li>auch für Geräte ohne eigenen Schalter geeignet<br/></li></ul>"
-}

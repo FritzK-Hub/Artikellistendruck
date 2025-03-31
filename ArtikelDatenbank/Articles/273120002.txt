@@ -1,4 +1,0 @@
-{
-    "uvp": 1.39,
-    "attributes": "<ul><li>zum Lösen und Festziehen von Schrauben und Muttern</li><li>besonders langlebig, aus Chrom-Vanadium-Stahl</li><li>für die gängigen Muttern und Bolzen dieser Größe</li><li>lange Lebensdauer im täglichen Werkstatteinsatz</li><li>schlanker Schaft ermöglicht leichtere Handhabung<br/></li></ul>"
-}

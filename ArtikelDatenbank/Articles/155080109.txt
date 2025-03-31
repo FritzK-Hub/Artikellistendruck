@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>45 Watt starker Standventilator mit 3 Geschwindigkeitsstufen</li><li>sorgt an heißen Sommertagen für kühle Luft</li><li>ideal für den Arbeitsplatz oder eigenen Wohnräumen</li><li>oszillierenden von 90 ° und fixierbar</li><li>inklusive ein 1,5 m langes Netzkabel<br/></li></ul>"
-}

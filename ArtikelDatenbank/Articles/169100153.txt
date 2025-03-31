@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>robustes Gehäuse aus Edelstahl</li><li>gehärteter Stahlbügel für erhöhte Sicherheit</li><li>inkl. 3 Schlüsseln</li></ul>"
-}

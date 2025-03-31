@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>geschlossener Toilettenbürstenhalter</li><li>taillierte Form</li><li>aus rostfreiem, satiniertem Edelstahl</li><li>inkl. WC-Bürste mit auswechselbarem Bürstenkopf von Ø 7,5 cm und Edelstahl-Stiel</li><li>ideal für Bad und Gäste-WC</li></ul>"
-}

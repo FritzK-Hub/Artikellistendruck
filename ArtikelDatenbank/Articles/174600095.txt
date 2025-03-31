@@ -1,4 +1,0 @@
-{
-    "uvp": 18.99,
-    "attributes": "<ul><li>praktische Badregal aus robustem Kunststoff</li><li>platzsparende Aufbewahrungsmöglichkeit für Bad oder Dusche</li><li>mit zwei Ablageflächen und vier Haken</li><li>besonders einfache Montage</li><li>Befestigungmaterial im Lieferumfang enthalten<br/></li></ul>"
-}

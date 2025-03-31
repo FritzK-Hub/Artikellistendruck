@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Fugenglätter 4 Stück</li><li>16 Fugenvariationen</li><li>aus flexiblem Kunststoff</li><li>für schnelles, sauberes Glätten ohne Abkleben</li><li>geeignet für Dehnfugen Waschbecken, Aquarien, etc.</li></ul>"
-}

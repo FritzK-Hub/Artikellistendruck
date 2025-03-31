@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>90° Schreinerwinkel mit Stahlzunge</li><li>metrische Maßeinteilung in Zentimeter<br/></li><li>Schenkel aus stabilem Aluminium gefertigt</li><li>mit einer Gehrung versehen</li><li>einfach in der Handhabung <br/></li></ul>"
-}

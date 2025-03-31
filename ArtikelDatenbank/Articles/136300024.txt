@@ -1,4 +1,0 @@
-{
-    "uvp": 349.95,
-    "attributes": "<ul><li>qualitativ hochwertige Ausführung</li><li>2 kugelgelagerte Schubladen, 100% ausziehbar</li><li>geeignet für den harten Werkstatt-Einsatz im Dauerbetrieb</li><li>unbestückt, zum selbst Bestücken </li><li>mit gelochter Ablage, Rollenhalter und seitlichem Griff<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>flexibel einsetzbar mit Innen- und Aussengewinde</li><li>kompatibel mit gängigen Wasserleitungen und Armaturen</li><li>robustes Messingmaterial für langanhaltende Haltbarkeit</li><li>sichere und dichte Verbindung dank präziser Gewinde</li><li>verchromte Oberfläche für einen glänzenden Look</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Bauschaum Mini 150 ml champagner von Soudal</li><li>ist ein gebrauchsfertiger, einkomponentiger Polyurethanschaum</li><li>ideal für Modelbau- und Bastelarbeiten</li><li>zum Ausfüllen von kleinen Löchern und Durchbrüchen</li><li>sorgt für optimales Füllvolumen mit schneller Durchhärtung</li></ul>"
-}

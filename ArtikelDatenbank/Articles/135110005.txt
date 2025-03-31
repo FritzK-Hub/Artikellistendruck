@@ -1,4 +1,0 @@
-{
-    "uvp": 4.95,
-    "attributes": "<ul><li>optimale Dunkelstufe DIN 12</li><li>ideal für Güde® Schweißschutzschilde</li><li>aus hochwertigen, robusten Materialien</li><li>einfacher Austausch im Bedarfsfall</li><li>zuverlässiger Schutz vor schädlicher Strahlung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>hochtemperaturbeständiges Edelstahl schafft Langlebigkeit</li><li>vielseitige Grillfläche für unterschiedliche Gerichte</li><li>einfache Reinigung dank pflegeleichter Oberfläche und Auffangrille</li><li>sicheres Grillen durch erhöhte Seitenwände</li><li>perfekte Wärmeverteilung über Kohle- und Gasgrills</li></ul>"
-}

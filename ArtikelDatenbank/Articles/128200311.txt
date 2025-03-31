@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>robuste und langlebige Konstruktion</li><li>mit großzügiger Sitzbank</li><li>zeitlose Eleganz und ansprechendes Design</li><li>praktische Nutzung als Rankhilfe</li><li>für eine malerische Kulisse<br/></li></ul>"
-}

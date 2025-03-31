@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>pollenfreie Blüten</li><li>fleckenfreie Eleganz</li><li>blühfreudige Pracht</li><li>vielseitige Nutzung</li><li>geringer Pflegeaufwand<br/></li></ul>"
-}

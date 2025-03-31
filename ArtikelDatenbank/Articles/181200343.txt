@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Staudenmischung halbhohe Sorten</li><li>ist eine sorgfältig ausgesuchte Mischung</li><li>ideal für Gemüsebeete, Schalen oder Gräber</li><li>in Kombination für farbige Blütenpracht</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

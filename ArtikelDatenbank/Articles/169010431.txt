@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>sehr hohe Soforthaftung</li><li>extrem anpassungsfähig</li><li>für innen und außen</li><li>hohe UV-Beständigkeit, wasserfest</li><li>überlackierbar<br/></li></ul>"
-}

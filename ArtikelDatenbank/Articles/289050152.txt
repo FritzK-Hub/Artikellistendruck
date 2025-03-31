@@ -1,4 +1,0 @@
-{
-    "uvp": 3.69,
-    "attributes": "<ul><li>Flachstange aus eloxiertem Aluminium</li></ul>"
-}

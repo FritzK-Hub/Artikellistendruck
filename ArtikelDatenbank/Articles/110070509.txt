@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>aus hochwertigem feueraluminiertem Stahlblech</li><li>besonders robust und langlebig</li><li>zusätzliche Stabilität und Sicherheit dank 1 mm Wandstärke</li><li>einfache Montage für sichere Ofenrohr-Kamin-Verbindung</li><li>Sicherheitsgarantie für bedenkenloses Heizen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Achse für Schubkarrenräder</li><li>Gesamtlänge: (L) ca. 128 mm</li><li>Durchmesser Welle: (Ø) ca. 20 mm</li><li>Nabenbreite: ca. 75 mm</li><li>Breite Distanzhülsen: (B) ca. 26 mm</li><li>Distanzhülsen aus Kunststoff</li><li>Material Welle: Stahl verzinkt</li><li>Material Schrauben/Unterlegscheiben: Stahl verzinkt</li><li>Qualität von GERMANIA® Qualitätswerkzeuge</li></ul>"
-}

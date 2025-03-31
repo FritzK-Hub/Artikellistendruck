@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Stichsägeblätter 75 mm HCS Kurven mit T-Schaft</li><li>passend für AEG, Bosch, Elu, Festool, Hitachi, Kress, Makita oder Metabo</li><li>ideal für Kurvenschnitte und Feinschnitte</li><li>leise, vibrationsarm und langlebig</li><li>geeignet für Weichholz, Sperrholz und beschichtete Platten<br/></li></ul>"
-}

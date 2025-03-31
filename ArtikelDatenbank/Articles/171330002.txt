@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Soudal PU-Ersatzröhrchen 5 Stück</li><li>für alle Adapterschaumdosen (außer Megaschaum) geeignet</li><li>für präzise Arbeiten</li><li>flexibler Schlauch</li><li>Material: Kunststoff</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>20 Möbelgriffschrauben 4,0 x 15 mm</li><li>aus verzinktem Stahl gefertigt</li><li>mit PZ-Pozidrive-Antrieb versehen</li><li>mit Tellerkopf</li><li>für die Montage von Möbelgriffen<br/></li></ul>"
-}

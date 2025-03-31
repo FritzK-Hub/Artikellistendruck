@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>hochwertiges Material</li><li>praktische Aufbewahrung</li><li>stilvolles Design</li><li>mit schwerer Bodenplatte</li><li>besonders robust und langlebig<br/></li></ul>"
-}

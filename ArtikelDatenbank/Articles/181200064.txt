@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Gewürzkräuter, 2 Meter Saatband</li><li>ist eine Bereicherung in jeder Küche</li><li>wertvolle Kräuter mit speziellem Aroma</li><li>zur Verfeinerung jeglicher Art von Speisen</li><li>auf dem Balkon oder Fensterbrett anbaubar<br/><br/></li></ul>"
-}

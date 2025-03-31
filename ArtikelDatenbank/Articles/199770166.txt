@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>zum Justieren und Ausrichten von Schränken</li><li>besonders strapazierfähig, aus Kunststoff gefertigt</li><li>für Regale, Kommoden oder Möbelstücke einsetzbar</li><li>lassen sich bei Bedarf entsprechend zuschneiden</li><li>sorgen für den Ausgleich von Unebenheiten<br/></li></ul>"
-}

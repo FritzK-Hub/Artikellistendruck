@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>universell einsetzbarer Gips</li><li>zum Fixieren von Elektroinstallationen</li><li>zum Gießen, Formen und Modellieren</li><li>schnelltrocknend</li><li>für den Innenbereich geeignet</li></ul>"
-}

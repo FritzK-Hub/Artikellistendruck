@@ -1,4 +1,0 @@
-{
-    "uvp": 169.0,
-    "attributes": "<ul><li>Hauswasserwerk mit integriertem Wasserfilter </li><li>Pumpengehäuse aus schlagfestem Kunststoff</li><li>Ein-/Ausschalter, Druckschalter und Wasserablassschraube</li><li>Thermoschutz und Motorschutzschalter</li><li>Laufrad aus Noryl und ergonomischer Tragegriff</li></ul>"
-}

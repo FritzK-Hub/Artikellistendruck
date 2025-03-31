@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Nigrin Gummipflegestift, flüssig</li><li>mit Schwamm zum gezielten Auftragen</li><li>hält alle Gummiteile weich, geschmeidig und farbenfrisch</li><li>pflegt, schützt und beugt vorzeitige Alterung vor</li><li>verhindert das Festfrieren von Dichtungen</li></ul>"
-}

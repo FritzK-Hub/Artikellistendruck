@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>    verschiedene Größen und Ausführungen</li><li>hHochwertige Materialien</li><li>einfache Handhabung    </li><li>geeignet für Anfänger und Fortgeschrittene </li><li>ein Muss für jeden Angler</li></ul>"
-}

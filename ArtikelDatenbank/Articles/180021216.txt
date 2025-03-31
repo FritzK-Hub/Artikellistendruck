@@ -1,4 +1,0 @@
-{
-    "uvp": 7.2,
-    "attributes": "<ul><li>Universalschlauch für Rohrabgänge DN75 bis DN 125</li><li>Regenwasser wird sicher abgeleitet</li><li>schnelle Montage als Not-Fallrohr</li><li>Mauer- und Putzarbeiten werden nicht behindert</li><li>Fixierung mit Schelle am Ablaufstutzen</li></ul>"
-}

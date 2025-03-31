@@ -1,4 +1,0 @@
-{
-    "uvp": 6.96,
-    "attributes": "<ul><li>Schutzkontaktsteckdose Trend mit Kindersicherung</li><li>nur in Kombination mit Rahmen der Serie Trend zu verwenden</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>mit Spreizkrallenbefestigung</li><li>für die Unterputz-Montage<br/></li></ul>"
-}

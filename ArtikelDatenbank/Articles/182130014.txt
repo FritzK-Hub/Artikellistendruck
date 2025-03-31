@@ -1,4 +1,0 @@
-{
-    "uvp": 37.95,
-    "attributes": "<ul><li>Alarm-Spiralschloss in schwarz</li><li>mit hoher Sicherheitsstufe</li><li>mehr Schutz dank ca. 110 dB lauter Alarm</li><li>4 Batterien, 2 Schlüssel und Halterung inklusive</li><li>bei Nichtgebrauch platzsparend transportierbar</li></ul>"
-}

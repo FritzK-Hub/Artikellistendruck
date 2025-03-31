@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>5 Stück Papierfilterbeutel für Trockensauger GNTS 12L</li><li>formstabile Pappaufnahme</li><li>mit Gummidichtung</li><li>hohe Reißfestigkeit</li><li>geeignet für Staub und Grobschmutz <br/></li></ul>"
-}

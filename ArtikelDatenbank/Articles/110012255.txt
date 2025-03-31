@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Tauchrohr gerade Ausführung für Waschbecken-Siphons</li><li>aus stabilem Metall gefertigt, verchromt</li><li>mit Geräteanschluss 3/4\" versehen</li><li>einfach in der Handhabung, leicht zu montieren</li><li>inklusive Tülle für 3/4\" Schlauch<br/></li></ul>"
-}

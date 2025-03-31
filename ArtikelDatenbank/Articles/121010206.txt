@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Druckkugelschreiber mit Gummigriffzone für einen rutschfesten Griff</li><li>4 Stück im Set</li><li>je einer blauschreibend, rotschreibend, grünschreibend, schwarzschreibend</li><li>Einweg-Kugelschreiber mit einer 1,0 mm Spitze medium</li><li>angenehmes und leichtes Schreiben</li></ul>"
-}

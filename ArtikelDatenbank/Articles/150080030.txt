@@ -1,4 +1,0 @@
-{
-    "uvp": 16.31,
-    "attributes": "<ul><li>hochwertige Verchromung</li><li>ergonomischer Kunststoff-Handgriff</li><li>vielseitige Anwendung</li><li>robuste Konstruktion</li><li>effizientes Arbeiten</li></ul>"
-}

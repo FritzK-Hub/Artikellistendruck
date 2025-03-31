@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>Steuerung per Smartphone von überall</li><li>Sprachsteuerung durch Google Home und Alexa</li><li>vielfältige Farben und Lichteffekte</li><li>Musiksynchronisation für lebendige Lichteffekte</li><li>flexibel und einfache Stromversorgung via USB</li></ul>"
-}

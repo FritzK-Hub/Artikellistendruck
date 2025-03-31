@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>CEE Kupplung 3-polig mit 250 V</li><li>aus schlagfestem Poyamid gefertigt</li><li>werkzeugloses Öffnen und Schließen des Gehäuses</li><li>ist ein praktischer Kraftstromstecker für Wohnwägen</li><li>besitzt eine zentrale Leitungseinführung</li></ul>"
-}

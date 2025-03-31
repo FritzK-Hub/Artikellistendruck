@@ -1,4 +1,0 @@
-{
-    "uvp": 3.7,
-    "attributes": "<ul><li>stabile Isolierung und zuverlässige Steckverbindungen</li><li>besonders langlebig und korrosionsbeständig</li><li>teilisolierte Konstruktion für mehr Sicherheit</li><li>große Auswahl an Kabelquerschnitten</li><li>schnelle und bequeme Montage<br/><br/></li></ul>"
-}

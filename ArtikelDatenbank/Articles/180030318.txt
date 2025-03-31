@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>zum Befestigen von Pflanzen im Garten</li><li>aus witterungsbeständigem Kunststoff</li><li>Einhandverschluss</li><li>schnelle und einfache Handhabung</li><li>schonend für Pflanzen</li></ul>"
-}

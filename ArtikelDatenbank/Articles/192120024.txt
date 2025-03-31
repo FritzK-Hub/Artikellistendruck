@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>hohe Haltbarkeit und Verarbeitung</li><li>aus flexiblem kältebeständigem Kunststoff gefertigt</li><li>mit zwei robusten Griffen</li><li>bis zu 40 kg belastbar</li><li>mit Rillen an Unterseite zum leichten Lenken<br/></li></ul>"
-}

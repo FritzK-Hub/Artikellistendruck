@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Durchmesser Kopf (dk): ca. 24,65mm</li><li>Höhe Kopf (k): ca. 5,38mm</li><li>Vierkanthöhe (f): ca. 6,6mm</li><li>Vierkantbreite (v): ca. 10,58mm</li><li>Gewindelänge bis 125mm (b): 26mm</li><li>Gewindelänge bis 200mm (b): 32mm</li><li>Gewindelänge über 200 mm (b): 45mm</li><li>Durchmesser Schraube (d): ca. 10,0mm (M10)</li><li>Länge (l): ca. 60mm</li></ul>"
-}

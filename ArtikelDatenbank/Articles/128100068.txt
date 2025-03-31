@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>3-teiliges Beistelltisch-Set mit Mangoholz-Tischplatte und Metallrahmen</li><li>ideal für Wohnräume oder Garten geeignet</li><li>bietet ausreichend Platz für Deko, Pflanzen oder Snacks</li><li>lässt sich gut mit anderen Möbelstücken kombinieren</li><li>bei Nichtgebrauch platzsparend ineinanderschiebbar<br/></li></ul>"
-}

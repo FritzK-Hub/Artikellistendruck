@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Düngestäbchen 30 Stück für Grünpflanzen</li><li>besondere Bindungsform der Nährstoffe (Depotdünger)</li><li>sorgt für kräftige Entwicklung deiner Pflanzen</li><li>fördert die sattgrüne Ausfärbung der Blätter</li><li>gleichmäßige Nährstoffstruktur ohne Überdüngungsgefahr<br/></li></ul>"
-}

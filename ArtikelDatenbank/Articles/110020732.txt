@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>universell zuschneidbares Insektenschutzgitter </li><li>reißfest und witterungsbeständig</li><li>individuell kürzbare Rahmenelemente aus Aluminium</li><li>einfache Montage durch Steckverbinder mit Schnittkantenüberdeckung</li><li>Befestigung mittels patentierter easyCLIP-Feder<br/></li></ul>"
-}

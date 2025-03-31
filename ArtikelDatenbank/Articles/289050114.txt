@@ -1,4 +1,0 @@
-{
-    "uvp": 1.26,
-    "attributes": "<ul><li>einseitiges Einfassprofil aus Hart-PVC</li><li>zur Anfertigung von Rahmen für z. B. Abdeckungen, Schilder, Tafeln, etc.</li><li>als Abschlusleiste und Kantenschutz</li><li>zum Verdecken unsauberer Schnittkanten</li></ul>"
-}

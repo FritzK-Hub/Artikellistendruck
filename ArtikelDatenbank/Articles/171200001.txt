@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>wasserbasierende Holzlasur für innen und außen</li><li>für dekorative und schmutzabweisende Anstriche</li><li>mit guter Witterungsbeständigkeit</li><li>betont die Holzmaserung</li><li>geruchsarm und tropfgehemmt</li></ul>"
-}

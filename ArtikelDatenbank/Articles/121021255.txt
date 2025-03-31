@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Pfeifenreiniger zum Basteln</li><li>10 Stück im Set</li><li>in 10 verschiedenen Farben</li><li>50 cm lang</li><li>Pfeifenputzer für DIY-Arbeiten<br/></li></ul>"
-}

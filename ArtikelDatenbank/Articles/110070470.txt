@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li> Kohleschaufel aus Metal</li><li>für Grill und Kamin<br/></li><li>verzinktmit Holzstiel<br/></li><li>hilfreiches Zubehör im Haushalt</li><li>universell einsetzbar<br/></li></ul>"
-}

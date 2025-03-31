@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Ringschrauben im Set</li><li>mit selbstschneidendem Gewinde</li><li>aus verzinktem Stahl</li><li>mit geschlossenem Ring<br/></li><li>zum Aufhängen von leichten Gegenständen</li></ul>"
-}

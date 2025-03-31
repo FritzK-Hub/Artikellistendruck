@@ -1,4 +1,0 @@
-{
-    "uvp": 29.9,
-    "attributes": "<ul><li>vielseitig einsetzbar in jeder Werkstatt</li><li>ergonomische Griffe für komfortable Nutzung</li><li>präzise Schneidleistung durch gehärtete Klingen</li><li>langlebig und widerstandsfähig bei intensiver Nutzung</li><li>robuste Qualität für professionelle Ansprüche</li></ul>"
-}

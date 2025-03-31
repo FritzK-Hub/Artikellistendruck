@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>einfache Montage</li><li>schlichtes Design </li><li>individuell zu kürzen oder verlängern</li><li>2-läufige Schiene<br/></li><li>langlebig<br/></li></ul><p><br/><br/></p>"
-}

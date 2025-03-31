@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Solar Gartenstecker 96 cm aus Aluminium</li><li>in drei verschiedenen Designs erhältlich</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung</li><li>inklusive Regenmesser aus Glas mit 250 ml Fassungsvermögen<br/></li></ul>"
-}

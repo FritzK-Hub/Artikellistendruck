@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    mit Klappdeckel,/nmit Steckklemmen/nNennspannung: 250 V~,/nNennstrom: 16 A,/nSchutzart: IP54 (spritzwassergeschützt)\"\"/n                "
-}

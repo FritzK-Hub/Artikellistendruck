@@ -1,4 +1,0 @@
-{
-    "uvp": 1999.0,
-    "attributes": "<ul><li>vielseitige Anschlüsse für maximale Gerätekompatibilität</li><li>robuster Akku mit extrem langer Lebensdauer</li><li>unabhängig dank Solarpanel-Ladeoption</li><li>integrierte Lampe für Not- und Outdoor-Einsätze</li><li>gratis Starthilfekabel im Wert von 29,95 €</li></ul>"
-}

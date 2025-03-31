@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Pharbitis Purpuea Prachtmischung, für ca. 20 Pflanzen</li><li>ist eine frühblühende Schlingpflanze mit leuchtend trichterförmigen Blüten</li><li>gut zum Beranken von Spalieren, Mauern, Lauben, Hauswänden und Balkon</li><li>ihre schönen Einzelblüten öffnen sich vom Vormittag bis zum Nachmittag</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

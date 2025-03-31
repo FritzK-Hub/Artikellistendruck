@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Isolierrohr alterungsbeständig, hohe Fäulnisfestigkeit</li><li>kinderleicht und schnell angebracht</li><li>optimale Dämmeigenschaften</li><li>spart Warmwasser- und Heizkosten</li><li>schwer entflammbar nach DIN 4102-B1<br/></li></ul>"
-}

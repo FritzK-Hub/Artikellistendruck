@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>3-teiliges Universalpinselset</li><li>optimal für Ausbesserungsarbeiten geeignet (nicht für Streicharbeiten)<br/></li><li>geeignet für alle Lacke</li><li>Rundpinsel, drei verschiedene Größen</li><li>Holzgriffe und Nickelzwinge</li></ul>"
-}

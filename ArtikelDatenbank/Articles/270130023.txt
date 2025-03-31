@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>universal Multi Kreissägeblatt für z.B. AEG, Bosch, Festo, Einhell, Kress usw.</li><li>für Zuschnitte in fast allen Materialien</li><li>ideal für härteste Beanspruchung</li><li>mehrfach höhere Standzeit für problematische Werkstoffe</li><li>hohe Schnittqualität und extrem niedrige thermische Belastung des zu schneidenden Materials</li></ul>"
-}

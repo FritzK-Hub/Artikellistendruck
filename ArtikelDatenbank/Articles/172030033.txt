@@ -1,4 +1,0 @@
-{
-    "uvp": 4.39,
-    "attributes": "<ul><li>Kabelkanal aus PVC</li><li>schwer entflammbar, selbstverlöschend</li><li>temperaturbeständig bis +60° C</li><li>für Aufputzmontage, mit Bodenlochung</li><li>mit abnehmbarem Deckel</li></ul>"
-}

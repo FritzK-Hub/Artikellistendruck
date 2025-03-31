@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>für sauberes Wasser im Pool</li><li>kontinuierlicher Filterkreislauf</li><li>fachgerechten Installation dank Anleitung</li><li>Förderleistung von 1.249 l/h</li><li>für 1.100-8.300 Liter Pools geeignet<br/></li></ul>"
-}

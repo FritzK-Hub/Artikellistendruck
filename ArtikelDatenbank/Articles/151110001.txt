@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>20 Verband-Klammern im Set</li><li>für Bandagen und Mullbinden</li><li>elastisch da mit Gummizug</li><li>einfache und schnelle Anwendung</li><li>wiederverwendbar und zum effektiven Verschließen</li></ul>"
-}

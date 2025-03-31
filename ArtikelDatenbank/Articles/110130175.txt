@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>besonders langlebig und stabil, aus robustem Metall gefertigt</li><li>individuell einstellbar von 40 – 60 cm, an die Fenstergröße anpassbar</li><li>einfache Montage durch die vier mitgelieferten Schrauben</li><li>passend für verschiedene Gardinenarten, einschließlich Panneaux Gardinen</li><li>modernes und zeitloses Design, vielseitig in jeder Raumgestaltung einsetzbar<br/></li></ul>"
-}

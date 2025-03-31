@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Lackierpinsel mit geradem Pinselkopf</li><li>bestens geeignet für ein gutes Oberflächenfinish</li><li>gute Farbaufnahme und Abgabe</li><li>stabiler Kunststoffgriff</li><li>bestens geeignet für alle Lacke</li></ul>"
-}

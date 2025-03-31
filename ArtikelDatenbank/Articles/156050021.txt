@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>6-reihige Tapezierbürste mit Stirnbart</li><li>leichtes Andrücken von Tapetenbahnen in Eckbereichen</li><li>gestanzte Kunststoffborsten</li><li>Rumpf aus Holz</li><li>zum Fixieren von Tapetenbahnen an der Wand</li></ul>"
-}

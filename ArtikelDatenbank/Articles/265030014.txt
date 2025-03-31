@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>stabil, robust und vielseitig einsetzbar</li><li>für Scheune, Garagentor, Gartentor</li><li>massiver Torgriff blau verzinkt</li><li>Befestigungslöcher angesenkt</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>ideales Zubehör für Hand- und Ständerbohrmaschinen</li><li>mit Zentrierdorn für ein punktgenaues Ansetzen</li><li>zum Bohren in Holz, Sperrholz und Furniere </li><li>präzise Ergebnisse selbst bei schwierigen Maserungen</li><li>rechtschneidend mit hervorragender Wärmeabfuhr</li></ul>"
-}

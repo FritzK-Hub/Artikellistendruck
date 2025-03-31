@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Falten-Versandtaschen B4</li><li>ohne Fenster</li><li>Haftklebeverschluss mit Abdeckstreifen</li><li>3 Versandtaschen in weiß</li><li>mit 4 cm Boden- / Seitenfalte<br/></li></ul>"
-}

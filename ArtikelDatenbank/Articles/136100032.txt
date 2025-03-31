@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>vielseitiges Werkzeug zum Schneiden, Abisolieren und Crimpen</li><li>schnelle und präzise Verarbeitung von Kabelschuhen</li><li>ideal für den Einsatz in verschiedenen Bereichen</li><li>der PVC-Griff bietet einen bequemen und sicheren Halt</li><li>für schnelle, effektive und sichere Verkabelungen</li></ul>"
-}

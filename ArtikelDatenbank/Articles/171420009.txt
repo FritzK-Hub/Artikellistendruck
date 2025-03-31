@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Hamburger Putzkelle mit scharf zulaufender Spitze</li><li>präzises verputzen von Kanten und Ecken möglich</li><li>für Ausbesserungsarbeiten mit Mörtel, Putz und Gips</li><li>sorgt für glatte Oberflächen</li><li>leicht zu reinigen</li></ul>"
-}

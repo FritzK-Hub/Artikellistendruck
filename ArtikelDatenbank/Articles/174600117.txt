@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>praktischer Papierrollenhalter aus hochwertigem Edelstahl</li><li>mit Absenkdämpfung </li><li>für jedes Badezimmer geeignet <br/></li><li>sehr gut kombinierbar dank zeitlosen Design</li><li>inklusive Befestigungsmaterial und Montageplatte<br/></li></ul>"
-}

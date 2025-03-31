@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>fördert die Gesundheit und das Wachstum der Pflanze</li><li>stärkt die Abwehr gegen Milben und Pilzkrankheiten</li><li>aus natürlichen, nachwachsenden Rohstoffen gefertigt</li><li>besonders umweltfreundlich und nicht schädlich</li><li>lässt sich im Bio-Landbau vielseitig verwenden<br/></li></ul>"
-}

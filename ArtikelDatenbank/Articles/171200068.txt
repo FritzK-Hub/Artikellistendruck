@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>DecoPro 2in1 Holzschutzlasur-Spray 500 ml in palisander</li><li>ein klassischer Allwetterschutz und Verschönerung in einem</li><li>für sämtliche Hölzer im Außenbereich geeignet</li><li>wasserabweisend und wetterbeständig mit UV-Schutz </li><li>mit bis zu 4 Jahre Langzeitschutz<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1459.9,
-    "attributes": "<ul><li>Gewächshaus Merkur mit 9,9 m² von Vitavia</li><li>Hohlkammerplatten aus 4 mm UV-stabilisiertem Polycarbonat</li><li>solides, zeitloses Design und einen leichten Stil</li><li>2 Fenster und leichtgängige, kugelgelagerte Schiebetür</li><li>inklusive Stahlfundamentrahmen</li></ul>"
-}

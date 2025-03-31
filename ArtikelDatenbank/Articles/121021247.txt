@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Notizblock blanko</li><li>ca. 1000 Blatt</li><li>weißes Papier</li><li>umweltfreundlich</li><li>Notizzettel geleimt<br/></li></ul>"
-}

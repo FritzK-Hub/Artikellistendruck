@@ -1,4 +1,0 @@
-{
-    "uvp": 28.95,
-    "attributes": "<ul><li>flexibler Funkenschutz für sicheren Kaminfeuergenuss</li><li>pulverbeschichtetes Metall, feines Drahtgeflecht zur Hitzeminderung</li><li>3-teiliges, faltbares Design, sicherer Stand, leicht verstaubar</li><li>passend für verschiedene Kamine dank praktischer Klappfunktion</li><li>elegantes Design, behindert nicht den Blick</li></ul><p></p>"
-}

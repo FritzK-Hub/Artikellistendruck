@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Löwenmaul Halbhohe für ca. 200 Pflanzen</li><li>in Kombination für farbige Blütenpracht</li><li>zur Erschaffung von Pflanzenteppichen</li><li>verfügt über eine Probefeldgetestete Qualität</li><li>besonders prachtvolle Blütenfarben<br/><br/></li></ul>"
-}

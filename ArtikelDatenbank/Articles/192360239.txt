@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Kerzenhalter-Set 4 Stück je 8 cm tellerförmig</li><li>aus stabilem, goldfarbigem Metall gefertigt</li><li>schafft eine entspannte Atmosphäre in Wohnräumen</li><li>vielseitig einsetzbare Dekoration</li><li>eignet sich auch zum Dekorieren vom Weihnachtskranz<br/></li></ul>"
-}

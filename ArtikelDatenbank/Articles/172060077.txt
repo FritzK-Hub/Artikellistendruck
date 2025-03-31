@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>25 Stück Kabelbefestigung</li><li>mit eingestecktem 30 mm Nagel</li><li>hochwertiges Kunststoffmaterial</li><li>schnelle und einfache Verwendung</li><li>geeignet für Kabeldurchmesser von ca. 10 - 14 mm</li></ul>"
-}

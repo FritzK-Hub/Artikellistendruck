@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>zuverlässige Energiequelle für elektronische Geräte</li><li>für Rauchmelder, Fernbedienungen oder Spielzeug</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>für Geräte mit hoher Spannung und geringer Leistung</li><li>zur kleinen Bevorratung in der dunklen Jahreszeit</li></ul>"
-}

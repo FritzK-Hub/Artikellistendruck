@@ -1,4 +1,0 @@
-{
-    "uvp": 3.39,
-    "attributes": "<ul><li><em>Thermometer </em>für Kühlschrank und Gefriergeräte</li><li>aus Kunststoff gefertigt</li><li>im klassischen runden Design</li><li>Temperaturanzeige von - 40° bis + 30°C</li><li>mit praktischer Gefriergut-Skala</li></ul>"
-}

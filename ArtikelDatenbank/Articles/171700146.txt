@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>einfache Anwendung und Verarbeitung</li><li>vielseitig einsetzbar auf verschiedenen Untergründen</li><li>fertig gemischt, sofort einsatzbereit, gut haftend</li><li>schafft glatte, professionelle Oberflächen</li><li>ideal für nachfolgende Beschichtungen</li></ul>"
-}

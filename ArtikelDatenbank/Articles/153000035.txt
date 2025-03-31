@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>zum Abstellen von schmutzigen Schuhen oder Stiefeln</li><li>besonders langlebig, aus schwarzem Kunststoff</li><li>bietet ausreichend Stauraum für bis zu 3 Paar Schuhe</li><li>schützt den Untergrund vor Schmutz und Beschädigungen</li><li>auch für Blumentöpfe oder Auffangschale für Öl verwendbar<br/></li></ul>"
-}

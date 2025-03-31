@@ -1,4 +1,0 @@
-{
-    "uvp": 29.9,
-    "attributes": "<ul><li>100-teiliges Komplettset für alle Schraubaufgaben</li><li>kippbare Fächer zur schnellen Bit-Entnahme</li><li>robuster Chrom-Vanadium-Stahl schafft Langlebigkeit</li><li>ergonomische Griffe zum kraftsparenden Arbeiten</li><li>übersichtlicher Aufsteller erlaubt optimale Organisation</li></ul>"
-}

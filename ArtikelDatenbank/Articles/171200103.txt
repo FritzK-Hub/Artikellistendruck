@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>ultraelastischer halbdeckender Anstrich</li><li>Holzmaserung bleibt sichtbar<br/></li><li>bis zu 12 Jahre Wetterschutz</li><li>Stay-Clean Technologie für saubere Oberflächen<br/></li><li>zuverlässiger Nässeschutz, beugt Pilz- und Algenbefall vor</li></ul>"
-}

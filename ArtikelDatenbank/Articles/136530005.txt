@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Stechbeitel 25 mm, mit geschliffener Klinge</li><li>zur Bearbeitung von Holz</li><li>Chrom-Vanadium Stahl</li><li>Kunststoffgriff rot &amp; schwarz</li><li>Griffform verhindert das hinunterrollen von der Arbeitsfläche</li></ul>"
-}

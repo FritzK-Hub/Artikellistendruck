@@ -1,4 +1,0 @@
-{
-    "uvp": 32.73,
-    "attributes": "<ul><li>Phasenanschnitt-Helligkeitsregler (Dimmer) für Unterputz-Montage</li><li>klassisches Design mit moderner Oberfläche</li><li>geeignet für Niedervolt-Halogenlampen mit konventionellem Trafo und Glühlampen</li><li>kann anstelle jedes Aus- / Wechselschalters eingesetzt werden</li><li>nur in Kombination mit Rahmen der Serie Trend zu verwenden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>22 federnde Zinken</li><li>verstellbare Breite</li><li>hochwertiges Material</li><li>inklusive Stiel</li><li>vielseitig einsetzbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Japansäge für schnelle, feine Schnitte</li><li>sägt mit geringem Kraftaufwand auf Zug</li><li>3-fach geschliffene und gehärtete Zähne</li><li>Sägeblatt durch Schnellspannvorrichtung fix auswechselbar</li><li>Japansäge mit handgearbeiteten Rattan-Handgriff</li></ul>"
-}

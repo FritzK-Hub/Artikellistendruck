@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>unverzichtbares Hilfsmittel</li><li>hervorragende Reißfestigkeit</li><li>aus grün gefärbter Jute</li><li>Großzügige Länge</li><li>vielseitige Anwendungsmöglichkeiten</li></ul>"
-}

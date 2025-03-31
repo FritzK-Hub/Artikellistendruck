@@ -1,4 +1,0 @@
-{
-    "uvp": 209.0,
-    "attributes": "<ul><li>GERMANIA® Hochdruckreiniger für den mobilen Einsatz</li><li>verfügt über  Quick-Connect-System, zum schnellen wechseln der Aufsätze </li><li>weist einen sicheren Stand und leichten Transport auf</li><li>integrierte Halterung für Düsenaufsätze und Schlauch</li><li>durch hochwertige und zuverlässige Aluminiumpumpe besonders langlebig<br/></li></ul>"
-}

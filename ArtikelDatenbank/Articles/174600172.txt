@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>hochwertige Edelstahl-Oberfläche</li><li>integrierte Absenkautomatik</li><li>platzsparendes Design</li><li>leicht zu reinigen</li><li>strapazierfähiges Material<br/><br/></li></ul>"
-}

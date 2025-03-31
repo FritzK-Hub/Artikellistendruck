@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>aufrechter Wuchs</li><li>gute Widerstandsfähigkeit</li><li>vielseitige Anpassungsfähigkeit</li><li>langanhaltende Ernteperiode</li><li>einfache Pflege<br/></li></ul>"
-}

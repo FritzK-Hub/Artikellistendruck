@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Zwiebelart: Steckzwiebel Stuttgarter Riesen</li><li>Pflanzzeit: März bis Mai</li><li>Pflanztiefe: 1 bis 3 cm, bei schweren Böden hoch pflanzen und häufeln</li><li>Ernte: Laub Ende Juli umknicken, im August rausmachen, 2-3 Tage trocknen lassen, luftig und trocken lagern.</li><li>lagerfähig bis ins Frühjahr<br/></li></ul>"
-}

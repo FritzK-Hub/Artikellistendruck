@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Kristall-Diamant Design bietet Eleganz</li><li>vielseitige Farb- und Helligkeitseinstellungen erlauben Flexibilität</li><li>vier dynamische Lichtmodi schaffen Abwechslung</li><li>einfache Bedienung per Touch und Fernbedienung</li><li>robustes Material für Innen- und Außennutzung</li></ul>"
-}

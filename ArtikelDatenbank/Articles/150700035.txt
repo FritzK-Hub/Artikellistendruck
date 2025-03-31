@@ -1,4 +1,0 @@
-{
-    "uvp": 49.99,
-    "attributes": "<ul><li>faltbarer Bollerwagen mit Metallgestell</li><li>Zugstange am Wagengestell einrastbar</li><li>mit zwei kleinen Taschen im Vorderbereich</li><li>strapazierfähiges Polyestergewebe in grau</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

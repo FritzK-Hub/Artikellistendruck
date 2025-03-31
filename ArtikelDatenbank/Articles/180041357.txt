@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Schleifstein von GERMANIA®</li><li>für scharfe Schnitte rund um Haus und Garten</li><li>altbewährt und immer noch gut</li><li>Verwendung mit Wasser</li><li>auf Eigenschutz achten!</li></ul>"
-}

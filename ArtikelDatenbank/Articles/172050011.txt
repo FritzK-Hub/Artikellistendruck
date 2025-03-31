@@ -1,4 +1,0 @@
-{
-    "uvp": 59.99,
-    "attributes": "<ul><li>Kabeltrommel mit 40 m Kabel 3G x 1,5 mm²</li><li>aus schlagfestem Kunststoff mit Überhitzungsschutz</li><li>4 Schutzkontaktsteckdosen mit Klappdecken</li><li>extra drehbarer Wickelgriff und robustes Gestell</li><li>Kabeltrommel für kurzfristigen Einsatz im Freien</li></ul>"
-}

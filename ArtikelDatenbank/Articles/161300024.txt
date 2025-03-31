@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Polyester-Rucksack extra leicht</li><li> in grau oder blau (Farbwahl nicht möglich)</li><li>seitliche Netztaschen für kleine Utensilien oder Getränke<br/></li><li>Rollverschluss mit Clipriemen für leichtes Öffnen und dichtes Schließen</li><li>Feuchtigkeitsgeschütztes Frontfach für Dokumente, Handy, Tablet, etc.</li></ul><p></p>"
-}

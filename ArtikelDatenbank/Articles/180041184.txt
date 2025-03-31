@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Niederschlagsmesser</li><li>aus wetterfestem Kunststoff</li><li>für Regenmengen bis zu 35 l/m²</li><li>1 Teilstrich entspricht 1 mm Niederschlag pro m²</li><li>mit angespitzem Ständer aus Holz</li></ul>"
-}

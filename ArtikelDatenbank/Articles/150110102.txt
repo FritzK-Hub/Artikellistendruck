@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Kettenreiniger für O-, Z- und X-Ring Antriebsketten</li><li>reinigt und entfettet alle Motorradketten und erhöht den Verschleißschutz</li><li>beseitigt verunreinigtes Kettenfett und den darin gebundenen Schmutz</li><li>beugt dem erhöhten Verschleiß des Kettensatzes durch Verschmutzung vor</li><li>verbessert die Leichtlaufeigenschaften</li></ul>"
-}

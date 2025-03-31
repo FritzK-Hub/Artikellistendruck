@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Vorhangschloss Gera 39 von ISEO</li><li>Schlosskörper aus Messing</li><li>Innenteile aus korrosionfreien, hochwertigen Materialien</li><li>einfache Ausführung, einseitig verriegelt</li><li>mit gehärtetem Bügel</li></ul>"
-}

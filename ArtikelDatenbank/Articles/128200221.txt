@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Frosch aus Magnesium</li><li>dient als Dekoration in deinen Garten</li><li>besonders witterungsbeständig</li><li>sowohl für den Garten, die Terrasse als auch für den Balkon geeignet</li><li>verfügt über Steinoptik<br/></li></ul>"
-}

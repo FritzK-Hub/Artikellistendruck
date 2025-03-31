@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Nordic-Walking-Stöcke aus Aluminium in Schwarz</li><li>unterstützt dich bei Spaziergängen oder Wanderungen</li><li>in der Länge von 110 – 140 cm teleskopierbar</li><li>Gummipads eignen sich ideal für den Asphalt </li><li>Spitzen sorgen auf Wald- und Feldwegen für guten Halt<br/></li></ul>"
-}

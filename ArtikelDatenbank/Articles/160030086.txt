@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Arbeitshandschuh ''Multi Flex''</li><li>verfügt über Robustheit, Tragekomfort und Atmungsaktivität</li><li>besitzt Nitril-Mikroschaum-Beschichtung und Nitril-Noppen auf der Handinnenfläche</li><li>ideal für Arbeiten wie Reparaturen, Montagen, Tischlerarbeiten uvm.</li><li>schützt angenehm und leicht<br/></li></ul>"
-}

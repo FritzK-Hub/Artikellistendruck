@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Ersatzmesser für Elektrorasenmäher »ERM 1844-2«</li><li>Arbeitsbreite: ca. 44 cm</li><li>inklusive Schraube</li><li>1 zu 1 Ersatzteil<br/></li></ul>"
-}

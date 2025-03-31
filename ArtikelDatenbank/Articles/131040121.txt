@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>WC-Duftspüler lemon</li><li>angenehme Frische für Ihr WC</li><li>Frische und Duft bei jedem Spülgang</li><li>langanhaltender und angenehmer Duft</li><li>Halter zum Einhängen mit 3 Nachfüllkartuschen 55ml</li></ul>"
-}

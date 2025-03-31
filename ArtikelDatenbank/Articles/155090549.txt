@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li> für Kabel-TV, Sat oder Antennenempfang </li><li>für die Verlegung in Räumen und im Aussenbereich<br/></li><li> hochwertiges KOAX-Antennenkabel <br/></li><li> geeignet für digital und analog TV</li><li>doppelt geschirmt</li></ul><p></p>"
-}

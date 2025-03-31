@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Stuckateurkelle aus rostfreiem Edelstahl</li><li>mit lackiertem Holzgriff</li><li>Länge Griff 115 mm</li><li>Breite Blatt vorne 95 mm</li><li>Breite Blatt hinten 125 mm</li></ul>"
-}

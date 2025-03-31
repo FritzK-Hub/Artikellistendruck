@@ -1,4 +1,0 @@
-{
-    "uvp": 10.31,
-    "attributes": "<ul><li>Tester für Ethylen und Glycol Lösungen</li><li>Prüfung bei heißer und kalter Flüssigkeit</li><li>optische Kontrolle auf Rost und Sedimente</li><li>für alle Fahrzeugtypen geeignet</li><li>aus transparentem Kunststoff<br/></li></ul>"
-}

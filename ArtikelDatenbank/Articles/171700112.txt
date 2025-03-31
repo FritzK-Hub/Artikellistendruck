@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>speziellen Formel, die eine nahtlose Anpassung an die Holzfarbe ermöglicht</li><li>handliche und kompakte Größe für einfachen Transport und Anwendung auch an schwer zugänglichen Stellen</li><li>einfach zu handhaben und erfordert keine besonderen Kenntnisse oder Fähigkeiten</li><li>feine Spitze des Stiftes ermöglicht eine präzise Anwendung</li><li>unauffällige und schnelle Reparatur</li></ul>"
-}

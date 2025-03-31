@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>vielseitig für Umbau- und Renovierungsarbeiten einsetzbar</li><li>mit Teflonbeschichtung für eine geringere Reibung </li><li>zum Schneiden von Holz oder anderen Materialien</li><li>mit gehärteten Zahnspitzen für eine lange Lebensdauer</li><li>2-K-Griff garantiert sicheren Halt, für leichte Sägebewegung<br/></li></ul>"
-}

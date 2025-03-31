@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Steckdosenleiste 3-fach mit 1,4 Meter Kabellänge</li><li>aus robustem, schwarzem Kunststoff gefertigt</li><li>Stecker im 45° Winkel angeordnet</li><li>zum Anschluss verschiedenster Geräte</li><li>für den Innenbereich geeignet<br/></li></ul>"
-}

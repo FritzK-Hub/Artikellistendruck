@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>vielseitiger Einsatz in verschiedenen Umgebungen</li><li>kompakt, transportabel und sofort einsatzbereit</li><li>rückstandsfrei zur einfachen Reinigung</li><li>sicher bei Elektrogeräten bis 1000 Volt</li><li>effektive Brandbekämpfung mit AR-AFFF-Löschmittel</li></ul>"
-}

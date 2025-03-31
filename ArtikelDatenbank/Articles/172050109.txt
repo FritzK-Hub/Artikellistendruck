@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>15 m Kabeltrommel mit 4 Schutzkontaktsteckdosen und Überhitzungsschutz</li><li>besonders langlebig und robust, aus schlagfestem Kunststoff</li><li>stabiles Gestell für einen sicheren Stand, ideal auf Baustellen oder in Werkstätten</li><li>integrierte Feststellbremse verhindert ein versehentliches Abwickeln des Kabels</li><li>zusätzlicher Tragegriff erleichtert den Transport der Trommel<br/></li></ul>"
-}

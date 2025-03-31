@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>hochwertiger Balkonkasten 40 cm in Anthrazit </li><li>aus schlagfestem, frostsicheren Kunststoff gefertigt</li><li>lässt sich schnell und einfach direkt bepflanzen</li><li>vielseitig im Innen- oder Außenbereich einsetzbar</li><li>mit Halterung und abnehmbarem Untersetzer<br/></li></ul>"
-}

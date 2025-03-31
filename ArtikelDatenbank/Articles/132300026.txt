@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>3-in-1 Multischleifer für vielseitige Anwendungen</li><li>drei austauschbare Schleifplatten für unterschiedliche Einsatzbereiche</li><li>ergonomisches &amp; kabelloses Design für komfortables Arbeiten</li><li>kompatibel mit der GERMANIA® 20V Akku-Plattform G2.0</li><li>stufenlos regelbare Geschwindigkeit<br/></li></ul>"
-}

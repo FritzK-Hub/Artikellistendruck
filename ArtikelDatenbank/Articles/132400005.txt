@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>praktisches Multi-Tool-Taschenmesser aus Edelstahl</li><li>25 nützliche Funktionen</li><li>robuste Multifunktionszange für unterwegs</li><li>besonders massiv und langlebig</li><li>inklusive Aufbewahrungstasche<br/></li></ul>"
-}

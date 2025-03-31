@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Biofolien-Müllbeutel kompostierbar nach DIN EN 13432</li><li>verrottet zu 100% schadstofffrei</li><li>reißfest und flüssigkeitsdicht</li><li>für feuchte Bio-Abfälle geeignet</li><li>hitzebeständig bis 35°C</li></ul>"
-}

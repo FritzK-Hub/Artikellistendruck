@@ -1,4 +1,0 @@
-{
-    "uvp": 4.59,
-    "attributes": "<ul><li>Beilstiel von GERMANIA®<br/></li><li>für 800 g Beilköpfe</li><li>aus massiven Eschenholz</li><li>Ersatz-Stiel in Kuhfußform</li><li>mit einem Gewicht von ca. 780 g</li></ul>"
-}

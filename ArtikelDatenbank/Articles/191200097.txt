@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>vielseitig einsetzbarer Eckboden für innen oder außen</li><li>aus massivem 18/10 Edelstahl gefertigt</li><li>als Ergänzung oder Verbindung der Outdorrküchenteile „Country Life“</li><li>inklusive massivem Standfuß für sicheren Halt</li><li>bei Nichtgebrauch platzsparend abbaubar<br/></li></ul>"
-}

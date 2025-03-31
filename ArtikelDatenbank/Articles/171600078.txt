@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Außenbodenfarbe auf Kunstharzbasis 2,5 Liter in Betongrau</li><li>zum Beschichten von Beton- und Zementfußböden, sowie Stahl- und Holzuntergründen</li><li>passend für Balkone, Terrassen, Treppen oder Gartenwegen</li><li>ist Abperleffekt, Tritt- wie Abriebfestigkeit und Wetterbeständigkeit</li><li>unempfindlich gegenüber Wasser und haushaltsübliche Reinigungsmittel</li></ul>"
-}

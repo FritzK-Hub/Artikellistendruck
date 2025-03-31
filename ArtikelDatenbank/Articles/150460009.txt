@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>praktische und hygienische Lösung für die Müllentsorgung</li><li>für Küchenabfälle, Verpackungen und Haushaltsabfälle einsetzbar</li><li>30 Liter Fassungsvermögen bietet ausreichend Platz</li><li>mit angenehmem Duft versehen, neutralisiert unangenehme Gerüche</li><li>eignen sich besonders für Tret- oder Schwingdeckel-Mülleimer<br/></li></ul>"
-}

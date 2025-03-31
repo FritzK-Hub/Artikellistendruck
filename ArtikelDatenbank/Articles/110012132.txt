@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Handbrause PARMA von eisl mit 8 Strahlvarianten </li><li>mit Antikalksystem für eine leichtere Reinigung</li><li>aus verchromtem Kunststoff gefertigt</li><li>passendes Zubehör für die Dusche</li><li>mit einem 1/2“ Brauseanschluss versehen<br/></li></ul>"
-}

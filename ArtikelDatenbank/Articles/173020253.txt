@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>BGS® 2in1 Multifunktionsadapter</li><li>Steckschlüssel Adapter für Stecknüsse mit 1/4\"</li><li>Bithalter für Bits mit 1/4\"<br/></li><li>verschiebbare Hülse zum Wechseln zwischen den Antrieben</li><li>besonders langlebig, aus Chrom-Vanadium Stahl</li></ul>"
-}

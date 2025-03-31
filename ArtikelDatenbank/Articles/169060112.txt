@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Holzleim \"Ponal Wasserfest\" transparent für Feuchtraumverleimung</li><li>wasserfester Kunstharzleim mit hoher Anfangshaftung</li><li>für schnelle und saubere Anwendungen ohne Werkzeug</li><li>für das Verleimen in der Küche, im Bad oder für das Fertigparkett</li><li>ca. 10 Minuten Verarbeitungszeit und handfest nach ca. 20 Minuten</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>Regulierventil bietet mehr Flexibilität bei der Bewässerung</li><li>zur stufenlosen Regulierung und Absperrung des Wasserdurchflusses</li><li>einfache Verlängerung deiner Gartenschläuche mit Schnellkupplung</li><li>erleichtert den Achnlusswechsel, ohne das Wasser am Wasserhahn abzustellen</li><li>auch für Anschlussgeräte mit individueller Wassereinstellung nutzbar<br/></li></ul>"
-}

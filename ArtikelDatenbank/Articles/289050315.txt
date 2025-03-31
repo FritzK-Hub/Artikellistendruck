@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Winkel-Abschluss-Profil 100 x 2,5 x 0,6 cm in bronze</li><li>aus eloxiertem Aluminium gefertigt</li><li>sauberer, dauerhafter und trittfester Abschluss</li><li>unsaubere Schnittkanten werden verdeckt</li><li>Stolperfallen werden vermieden</li></ul>"
-}

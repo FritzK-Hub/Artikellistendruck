@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>passende Zubehör zum GERMANIA® HEPA-Filter (175100115)</li><li>erleichtert die Filterreinigung des Filters im Kaminsauger </li><li>für längere Lebensdauer und hohe Saugleistung</li><li>einfach in der Reinigung, ist wiederverwendbar</li><li>elastischer Bund für einfaches Anbringen und Entfernen<br/></li></ul>"
-}

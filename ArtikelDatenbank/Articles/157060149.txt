@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>zum Entfernen silikonhaltiger Rückstände und Trennmittel</li><li>einfache und zuverlässige Reinigung und Entfettung</li><li>mit Pinsel oder Lappen aufzutragen</li><li>kurze Einwirkzeit</li><li>ideal geeignet für Vorbereitungen zum Neuverfugen</li></ul>"
-}

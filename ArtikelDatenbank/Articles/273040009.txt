@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Innensechskantschlüssel-Satz von GERMANIA®</li><li>9 Größen enthalten</li><li>mit Kugelkopf für Arbeiten bis 25 Grad Neigung</li><li>im Handklapphalter</li><li>Kugelkopf Stiftschlüssel Satz auch für schwer zugängliche Stellen</li></ul>"
-}

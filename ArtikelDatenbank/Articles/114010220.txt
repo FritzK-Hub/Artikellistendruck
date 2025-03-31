@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>Geschenkband mit Motiv</li><li>Schleifenband mit Sprüchen</li><li>für DIY Handarbeiten</li><li>hochwertiges Material</li><li>zurkreativen Gestaltung von Geschenkverpackungen</li></ul>"
-}

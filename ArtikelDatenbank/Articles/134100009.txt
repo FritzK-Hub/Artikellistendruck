@@ -1,4 +1,0 @@
-{
-    "uvp": 315.0,
-    "attributes": "<ul><li>stärker, leichter, leiser, schneller</li><li>Antrieb: 3/4\" Vierkant</li><li>Betriebsdruck: 6-8 BAR (90 PSI)</li><li>mit Doppelschlagwerk</li><li>Rechts- und Linkslauf stufenweise umschaltbar<br/></li></ul>"
-}

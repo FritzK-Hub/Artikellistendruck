@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Etiketten für Gefrierbeutel und -Dosen</li><li>selbstklebend, beschreibbar</li><li>starke Haftung</li><li>auch für Einmachgläser und Vorratsbehälter</li><li>lassen sich gut wieder ablösen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Rukola Salatrauke, 2 Meter Saatband</li><li>ist ein sehr ertragreiches, schnellwüchsiges Kraut</li><li>mit radiesähnlichen Blättern versehen</li><li>besitzt einen nussähnlichen, pikantem Geschmack</li><li>ideal zur Verfeinerung von Pizzen oder Salaten<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>robuste Stahlkonstruktion</li><li>bequemer T-Griff</li><li>vielseitige Verwendung</li><li>mit Pulverbeschichtung</li><li>langlebige Konstruktion</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Ersatzdeckel für Sturzgläser</li><li>im dekorativen Obstdekor</li><li>Spülmaschinen geeignet</li><li>passen perfekt und sind sauber verabeitet</li><li>für 230 ml und 435 ml Gläser</li></ul>"
-}

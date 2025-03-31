@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>zarter Geschmack</li><li>vielseitig verwendbar</li><li>einfache Pflege</li><li>Bodenverbesserung</li><li>ertragreiche Ernte<br/></li></ul>"
-}

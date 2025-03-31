@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Abdeckhaube aus Polyethylen</li><li>formstabil und temperaturbeständig</li><li>verstärkter Rand mit Metallösen zur Befestigung</li><li>optimaler Schutz gegen Witterungseinflüsse</li><li>reißfeste Schutzhülle</li></ul>"
-}

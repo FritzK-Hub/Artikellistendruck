@@ -1,4 +1,0 @@
-{
-    "uvp": 3.19,
-    "attributes": "<ul><li>BGS® M6 Bit-Einsatz mit Rändelung</li><li>aus hochwertigem Chrom-Vanadium-Stahl</li><li>geeignet für alle gängigen 1/4\" Umschaltknarren</li><li>matt verchromte Oberfläche</li><li>zum Befestigen von XZN-Schrauben</li></ul>"
-}

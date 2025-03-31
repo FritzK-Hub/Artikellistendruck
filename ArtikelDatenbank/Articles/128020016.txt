@@ -1,4 +1,0 @@
-{
-    "uvp": 69.9,
-    "attributes": "<ul><li>Wandregal aus Aluminium</li><li>für Gewächshäuser geeignet</li><li>bietet Stauraum für Thermometer, Samentüten, Pflanztöpfe, uvm.</li><li>einfache Befestigung</li><li>verfügt über Winkel und Rombusschrauben<br/></li></ul>"
-}

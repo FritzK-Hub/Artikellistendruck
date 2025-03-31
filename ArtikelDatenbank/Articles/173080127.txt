@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>5-teiliger Schraubendreher Satz</li><li>Kreuzschlitz PH und Schlitz SZ Antrieb</li><li>ergonomische 2-Komponenten-Griffe</li><li>schwarze Spitzen magnetisiert</li><li>nach DIN 5264</li></ul>"
-}

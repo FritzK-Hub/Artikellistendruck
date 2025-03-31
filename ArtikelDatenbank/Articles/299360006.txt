@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Art: Ringschraube (auch Augenschraube oder Ösenschraube genannt) DIN 580</li><li>Belastbarkeit: maximal 340kg</li><li>Material: Stahl, verzinkt</li></ul>"
-}

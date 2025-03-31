@@ -1,4 +1,0 @@
-{
-    "uvp": 57.95,
-    "attributes": "<ul><li>Ethernet Switch mit 5x 10/100/1000Mps Auto-Negotiation RJ45 Ports</li><li>Übertragungsmethode \"store and forward\"</li><li>Status-LEDs für alle Ports</li><li>Plug &amp; Play Anwendung</li><li>inklusive Netzteil<br/></li></ul>"
-}

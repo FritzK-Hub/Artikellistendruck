@@ -1,4 +1,0 @@
-{
-    "uvp": 3.79,
-    "attributes": "<ul><li>zur einfachen Bewässerung des Rasens oder Blumenbeets</li><li>ermöglicht das schnelle Verbinden oder Verlängern von Gartenschläuchen</li><li>besonders langlebig und witterungsbeständig, aus stabilem Kunststoff </li><li>universell mit unterschiedlichen Schläuchen kombinierbar z.B. 3/4\" auf 1/2\"</li><li>einfach in der Handhabung, lässt sich ohne Werkzeug miteinander verbinden<br/></li></ul>"
-}

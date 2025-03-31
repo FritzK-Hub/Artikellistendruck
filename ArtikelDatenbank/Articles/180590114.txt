@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>universelle Passform für alle gängigen PKWs</li><li>schnelle Befestigung und einfache Handhabung</li><li>wasserabweisend sowie leicht zu reinigen</li><li>vielseitig für jeden Transport</li><li>zuverlässiger Schutz vor Schmutz und Feuchtigkeit</li></ul>"
-}

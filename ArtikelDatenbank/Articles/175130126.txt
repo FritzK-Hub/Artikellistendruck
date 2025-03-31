@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>idealer Ventilator für Kaminöfen<br/></li><li>Kaminventilator wärmebetrieben mit 4 Flügeln</li><li>sorgt für effektivere  Wärmeverteilung in Wohnräumen</li><li>die Drehzahl passt sich der aktuellen Temperatur automatisch an</li><li>Tragegriff erleichtert den Transport des Ventilators<br/></li></ul>"
-}

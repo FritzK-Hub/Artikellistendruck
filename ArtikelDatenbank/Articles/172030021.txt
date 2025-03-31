@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>5 ISO Steckmuffen EN16 im Set</li><li>einfache Kabelführung</li><li>für feste Verbindung zweier Leerrohre /  Isolierrohre</li><li>hochwertiges Kunststoffmaterial</li><li>schnelle und einfache Verwendung</li></ul>"
-}

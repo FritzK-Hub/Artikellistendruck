@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Schlüsselanhänger im Zollstockformat</li><li>Schlüsselring aus Metall</li><li>Verbindungsstück aus Metall</li><li>beidseitig bedruckt</li><li>Zollstock aus Kunststoff</li></ul>"
-}

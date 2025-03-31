@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Packung Saatgut für ca. 60 Pflanzen</li><li>Mischung aus kräftig leuchtenden Blüten</li><li>kompakter, buschiger Wuchs</li><li>für Kübel-, Balkon- und Gartenbepflanzung geeignet</li><li>anspruchslos, für nährstoffreiche Böden</li></ul>"
-}

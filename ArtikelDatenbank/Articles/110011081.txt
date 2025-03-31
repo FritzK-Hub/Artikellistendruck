@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Lüftungsgitter weiß mit Ø 100 mm Rohranschluss</li><li>für den Innen- und Außenbereich geeignet</li><li>mit Fliegengaze aus Fiberglas</li><li>langlebig, UV-beständig und wetterresistent</li><li>regenabweisende Lamellen verhindern Wasserspuren<br/></li></ul>"
-}

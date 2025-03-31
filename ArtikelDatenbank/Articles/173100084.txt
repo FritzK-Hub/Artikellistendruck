@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>SMD-LEDs für höchste Qualität</li><li>    LED-Alternative zu klassischen Glühlampen    </li><li>80% geringerer Energieverbrauch zu Standardglühlampen </li><li>extrem lange Lebensdauer,    flackerfreies Licht ohne Aufwärmzeit    </li><li>keine UV- und Nah-IR-Strahlung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Balkonklemme für Sonnenschirme jeglicher Art</li><li>ideal für Sonnenschirmstangen bis zu 48 mm Durchmesser</li><li>aus stabilem, pulverbeschichtetem Metall gefertigt</li><li>schafft auch bei wenig Platz ein schattiges Plätzchen</li><li>ein Adapterring und Schrauben sind mit inklusive</li></ul>"
-}

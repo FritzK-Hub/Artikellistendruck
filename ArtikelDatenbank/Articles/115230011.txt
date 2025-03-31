@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>Knauf Uniflott zum Verspachteln von Gipsplatten</li><li>kommt ohne einen Bewehrungsstreifen aus</li><li>dank geschmeidiger Konsistenz gut zu verarbeiten</li><li>trocknet schnell und haftet sehr gut </li><li>für die Anwendung im Innenbereich</li></ul>"
-}

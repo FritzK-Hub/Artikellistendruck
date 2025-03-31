@@ -1,4 +1,0 @@
-{
-    "uvp": 0.99,
-    "attributes": "<ul><li>liebevoll gestaltete Glückwunschkarte zur Taufe</li><li>als Glückwunschkarte oder Dankeskarte verwendbar</li><li>niedliches Design und hochwertige Ausführung</li><li>inklusive passenden Briefumschlag</li><li>aufklappbar und geprägt</li></ul>"
-}

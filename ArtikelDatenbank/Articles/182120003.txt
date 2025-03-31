@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>batteriebetriebenes LED Rücklicht</li><li>mit Batterieindikator</li><li>geringer Batterieverbrauch</li><li>StVZO zugelassen<strong> <br/></strong></li><li>Fahrradschlussleuchte mit Schnellbefestigung</li></ul>"
-}

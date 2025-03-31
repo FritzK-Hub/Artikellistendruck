@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>rustikale Ringschraube mit Holzgewinde</li><li>zum Aufhängen von leichten Objekten</li><li>aus robustem brüniertem Stahl gefertigt</li><li>zur Montage an Decke oder Wand</li><li>zur Befestigung in Holz oder Mauerwerk<br/></li></ul>"
-}

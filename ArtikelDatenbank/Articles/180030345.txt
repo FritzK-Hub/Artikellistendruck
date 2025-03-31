@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>zuverlässige Befestigung</li><li>hochwertiges Material</li><li>optimale Größe und Stärke</li><li>ausreichende Menge<br/></li><li>vielseitiger Schutz</li></ul>"
-}

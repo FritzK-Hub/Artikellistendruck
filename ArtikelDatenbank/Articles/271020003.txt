@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>SDS-plus Aufnahmeschaft für einfache Bohrkronen-Aufnahme</li><li>ermöglicht große Bohrungen mittels Diamant-Bohrkronen</li><li>Feststellschraube für einfache Montage des Führungsbohrers</li><li>hochwertige Stahl-Ausführung für hohe Arbeitssicherheit</li><li>für  viele Bohrhämmer dank SDS plus Aufnahme geeignet<br/></li><li>metrisches Aussengewinde für festen Sitz der Bohrkrone</li></ul><p></p>"
-}

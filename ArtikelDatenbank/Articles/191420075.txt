@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>formfeste Faszien-Massagerolle </li><li>aus hochwertigem Schaumstoff</li><li>dient für intensive Massage während des Faszientrainings oder Pilates</li><li>vielseitig einsetzbar, um Verspannungen zu lösen </li><li>besonders hautfreundlich, geruchslos und problemlos abwischbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>multifunktional in verschiedenen Alltagssituationen</li><li>immer griffbereit durch kompaktes Design</li><li>auffällige Farbe für einfachen Wiedererkennungswert</li><li>hochwertige Materialien bieten Langlebigkeit</li><li>ideal für Outdoor- und Reisenutzung</li></ul>"
-}

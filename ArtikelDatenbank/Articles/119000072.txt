@@ -1,4 +1,0 @@
-{
-    "uvp": 99.99,
-    "attributes": "<ul><li>Mehrzweckleiter mit 12 Stufen</li><li>4 mögliche Aufbauvarianten</li><li>maximale Arbeitshöhe 360 cm</li><li>aus solidem Aluminium </li><li>belastbar bis 150 kg<br/></li></ul>"
-}

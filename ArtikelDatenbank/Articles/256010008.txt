@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Flachpinsel-Set 10-teilig</li><li>White Line Ausführung</li><li>spezielle Splitborsten für streifen-freies Streichen</li><li>formstabile, flexible Borsten für alle Streicharbeiten</li><li>einfach zu reinigen</li></ul>"
-}

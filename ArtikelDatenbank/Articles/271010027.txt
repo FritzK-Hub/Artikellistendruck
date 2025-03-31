@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Steinbohrersatz-Set 8-teilig</li><li>Bohrer geeignet für Steine, Beton, Putz und mineralische Werkstoffe</li><li>hohe Qualität</li><li>große Stabilität und Festigkeit</li><li>für Profis und Hobbyheimwerker<br/></li></ul>"
-}

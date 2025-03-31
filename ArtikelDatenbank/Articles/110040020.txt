@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Kaffeefilter Größe 2 für Standard-Kaffeemaschinen</li><li>100 geschmacksneutrale Kaffeefilter</li><li>aus 100% ungebleichtem Zellstoff hergestellt</li><li>mit extra stabiler Prägenaht</li><li>benutzte Kaffeefilter können kompostiert werden</li></ul>"
-}

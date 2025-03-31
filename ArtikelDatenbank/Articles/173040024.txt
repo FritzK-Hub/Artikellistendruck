@@ -1,4 +1,0 @@
-{
-    "uvp": 52.36,
-    "attributes": "<ul><li>Hergestellt aus Chrom-Vanadium-Stahl</li><li>gehärtet und verchromt</li><li>Knarre mit “Quick-Out System“</li><li>alle Steckschlüsseleinsätze mit “Super Lock System“ (Schraubenschonend und bessere Kraftübertragung)</li><li>im Werkzeugkoffer</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>praktischer Türkeil 121 x 31 mm</li><li>aus schwarzem Gummi gefertigt</li><li>verhindert ungewolltes An- oder Zuschlagen von Türen</li><li>ist besonders rutschfest und schützt die Tür vor Schäden</li><li>praktischer Edelstahlgriff erleichtert das Entfernen des Türstoppers<br/></li></ul>"
-}

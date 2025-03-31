@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Mehrbereichs-Öl für Otto- und Dieselmotoren</li><li>bestens geeignet für Ford-Fahrzeuge</li><li>sehr gute Kaltstarteigenschaften</li><li>niedriger Ölverbrauch</li><li>verringerte Emissionswerte</li></ul>"
-}

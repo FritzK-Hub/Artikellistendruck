@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Nachsaatmischung, 750 g</li><li>besondere Mischung zur Ausbesserung lückenhafter, schadhafter, sowie kahler Rasenflächen</li><li>sorgt für Regeneration des Rasens</li><li>Keimung erfolgt schneller, je höher die Bodentemperatur ist</li><li>für einen dauerhaft schönen Rasen ist ein regelmäßiges Düngen und Vertikutieren empfehlenswert<br/></li></ul>"
-}

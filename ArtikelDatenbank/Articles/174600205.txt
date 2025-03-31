@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>geschlossener WC-Garnitur 2-teilig aus Edelstahl</li><li>sorgt für strahlende Sauberkeit in deiner Toilette</li><li>bestehend aus einem Bürsten-Topf und WC-Bürste</li><li>durch geschlossenen Form dringen keine Gerüche nach außen</li><li>der Bürsten-Kopf kann je nach Bedarf ausgewechselt werden<br/></li></ul>"
-}

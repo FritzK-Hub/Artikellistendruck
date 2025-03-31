@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Kabeltrommel mit 25 m Kabel 3 x 1,5 mm²<br/></li><li>aus schlagfestem Kunststoff mit Überhitzungsschutz</li><li>robustes Gestell für einen sicheren Halt</li><li>extra Tragegriff für einen leichteren Transport</li><li>4 Schutzkontaktsteckdosen</li></ul>"
-}

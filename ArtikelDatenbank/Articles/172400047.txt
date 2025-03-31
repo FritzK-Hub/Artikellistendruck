@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>leistungsstarke LR20 D-Mono Alkaline-Batterien</li><li>Set beinhaltet 2 nicht wiederaufladbare Monozellen </li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>passend für Spielzeuge, Taschenlampen oder Radios</li><li>zur kleinen Bevorratung in der dunklen Jahreszeit<br/></li></ul>"
-}

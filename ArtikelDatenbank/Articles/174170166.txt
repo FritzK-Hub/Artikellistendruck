@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Universalmesser 3-teilig aus Kunststoff </li><li>ideal zum Schneiden von Teppichen oder zum Öffnen von Paketen</li><li>zuverlässiger Helfer bei sämtlichen Renovierungsarbeiten</li><li>Klinge kommt nur durch Vorschieben des Schiebers zum Vorschein</li><li>ergonomischer Griff erleichtert die Handhabung der Messer<br/></li></ul>"
-}

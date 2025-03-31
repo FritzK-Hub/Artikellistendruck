@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>dichtet präzise ab</li><li>für Dehnungs- und Anschlussfugen</li><li>ausgehärtet wetterfest und überstreichbar</li><li>gebrauchsfertig</li><li>sehr ergiebig</li></ul>"
-}

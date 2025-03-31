@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>rostfreier Edelstahl bietet Langlebigkeit</li><li>vielseitig für Fleisch und Gemüse</li><li>Abdeckung sichert Grillgut während des Garvorgangs</li><li>zylindrisches Design ermöglicht gleichmäßiges Garen</li><li>einfache Handhabung und spülmaschinengeeignet</li></ul><p></p>"
-}

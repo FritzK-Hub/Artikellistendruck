@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Eckregulierventil 1/2\"AG x 10 mm</li><li>aus verchromtem Pressmessing gefertigt</li><li>mit selbstdichtendem Anschlussgewinde</li><li>Quetschverschraubung mit Längenausgleich</li><li>mit einer Schubrosette versehen<br/></li></ul>"
-}

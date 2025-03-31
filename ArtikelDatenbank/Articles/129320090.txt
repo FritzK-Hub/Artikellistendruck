@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>reinweiße Farbe</li><li>schnelle Erntezeiten</li><li>vielseitige Anwendung</li><li>leichte Pflege</li><li>stabile Knollenqualität<br/></li></ul>"
-}

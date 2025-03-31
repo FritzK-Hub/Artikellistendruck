@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>JY(ST)Y Telefonkabel</li><li>als Installationsleitung für feste Verlegung, auf und unter Putz</li><li>verwendbar in trockenen und feuchten Räumen sowie im Freien</li><li>zum Anschluss von Telefonen und Telefonanlagen</li><li>Aderisolation auf PVC-Basis</li></ul>"
-}

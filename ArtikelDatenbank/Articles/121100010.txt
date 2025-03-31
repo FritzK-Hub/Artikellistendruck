@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Blumenkasten witterungsbeständig und robust</li><li>Flexibilität beim Einsatz außen oder innen<br/></li><li>modernes Design in Terracotta für mediterane Akzente</li><li>UV-geschützt erhält Farbintensität gegenüber Sonneneinstrahlung</li><li>Überlaufdornen zur Vorbereitung für Wasserablauf vorhanden</li></ul><p></p>"
-}

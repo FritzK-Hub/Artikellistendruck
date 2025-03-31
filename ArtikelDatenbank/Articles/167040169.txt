@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>hochwertige LDPE-Folie</li><li>\"L\"-Förmig angebrachter Reißverschluss</li><li>einfache Montage</li><li>großzügige Maße</li><li>staubfreies Arbeiten</li></ul>"
-}

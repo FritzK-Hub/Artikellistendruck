@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Ringschraube, Augenschraube, Ösenschraube</li><li>Maße: (ØxL) ca. 12 x 190 mm</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Vogelfutter 1 kg speziell für Meisen</li><li>aus Sonnenblumenkernen und hochwertigen Saaten</li><li>ist auch für alle anderen Vogelarten verwendbar</li><li>in kalten Jahreszeiten für zusätzliche Energie</li><li>hält Stoffwechsel und Körpertemperatur aufrecht<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>atmungsaktives Schutzvlies</li><li>licht- und wasserdurchlässig</li><li>UV - stabiles Gartenvlies</li><li>schützt auch bei leichtem Frost</li></ul>"
-}

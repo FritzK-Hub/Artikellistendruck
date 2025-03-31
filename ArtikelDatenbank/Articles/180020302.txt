@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>kompakte Bauform</li><li>effiziente Filtration</li><li>zuverlässiger Schutz</li><li>für eine gesunde Luftqualität</li><li>hochwertige Materialien<br/></li></ul>"
-}

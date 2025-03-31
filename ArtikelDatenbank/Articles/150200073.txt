@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Allzwecktonne Smooth mit Deckel</li><li>aus schlagfestem Kunststoff gefertigt</li><li>zum Sammeln von Müll oder Regenwasser geeignet</li><li>als Regenfass spart die Tonne Kosten und Trinkwasser </li><li>Mülltrennung mit mehreren Tonnen sehr einfach und für Tiere unzugänglich möglich</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 69.99,
-    "attributes": "<ul><li>automatisches Bewässerungs-Set für Blumentöpfe</li><li>zur Bewässerung von bis zu 10 Pflanztöpfen</li><li>mit digitaler Anzeige und eingebauter Pumpe</li><li>einstellbare Häufigkeit und Laufzeit</li><li>inkl. Montagematerial und zuschneidbarem 5 m Schlauch</li></ul>"
-}

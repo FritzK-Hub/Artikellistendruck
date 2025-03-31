@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Sägebogen aus Metall</li><li>klassische Bauform</li><li>einfaches Wechseln des Sägeblattes</li><li>für Sägeblätter mit einer Länge von 150 mm geeignet</li><li>inklusive einem Sägeblatt</li></ul>"
-}

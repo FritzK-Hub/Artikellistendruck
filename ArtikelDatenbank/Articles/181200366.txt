@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Schnittknoblauch für ca. 3 – 4 laufende Meter</li><li>eine Kreuzung aus Knoblauch und Schnittlauch</li><li>zum Verfeinern von Salaten oder Quakspeisen</li><li>reicht an Vitaminen und Mineralien</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

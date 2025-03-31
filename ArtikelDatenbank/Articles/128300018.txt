@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Sonnenschirmständer aus schwarzem Metall</li><li>für 40 x 40 cm Bodenplatten geeignet</li><li>ideal für Sonnenschirme, Wäschespinnen oder Fahnen</li><li>passend für Gestänge bis zu Ø 48 mm</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

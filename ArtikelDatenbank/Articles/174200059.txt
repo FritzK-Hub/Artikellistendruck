@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Handbrause Set 4-teilig</li><li>drei Strahlarten für individuelles Duscherlebnis</li><li>leichte Reinigung dank Antikalk-Noppen</li><li>langer Brauseschlauch zum flexiblen Gebrauch</li><li>inklusive Abzieher - perfekt für die Dusche</li></ul>"
-}

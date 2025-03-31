@@ -1,4 +1,0 @@
-{
-    "uvp": 229.95,
-    "attributes": "<ul><li>massive Bauweise, robust und stabil</li><li>witterungsbeständig dank kammergetrocknetem, imprägniertem Holz</li><li>pflegeleicht, nur mit einem feuchten Baumwolltuch zu reinigen</li><li>hellbraun imprägniert, für eine natürliche Optik des Kiefernholzes</li><li> eignet sich perfekt für gemütliche Abende im Garten</li></ul><p><br/></p>"
-}

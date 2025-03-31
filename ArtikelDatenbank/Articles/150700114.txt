@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>praktisches 10-teiliges Kleiderbügel Set in Grau</li><li>für mehr Ordnung im Kleiderschrank</li><li>besonders stabil</li><li>mit Kerben zum Aufhängen von Blusen, Jacken, uvm.</li><li>mit Steg zum Aufhängen von Accessoires<br/></li></ul>"
-}

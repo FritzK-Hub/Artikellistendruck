@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>umfangreiches, rollgewalztes Metallbohrer-Set mit den gängigsten Größen</li><li>besonders langlebig und widerstandfähig, aus Schnellschnittstahl<br/></li><li>höhere Schnittgeschwindigkeit als herkömmliche Metallbohrer</li><li>besonders Anlassbeständig mit Verschleißfestigkeit und Wärmebeständigkeit bis ca. 600°C</li><li>einfache Aufbewahrung und sicherer Transport dank stabiler Kunststoffbox<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.23,
-    "attributes": "<ul><li>Werkzeug zum Bearbeiten von Silikon-Eckfugen</li><li>zum Entfernen oder Nachbearbeiten von Fugen</li><li>das ideale Werkzeug für elastische Fugen</li><li>spezielle Klingenform für Arbeiten in Ecken</li><li>einfache und saubere Anwendung<br/></li></ul>"
-}

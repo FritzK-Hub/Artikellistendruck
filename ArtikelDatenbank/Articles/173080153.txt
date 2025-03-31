@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Schraubendreher und Haken-Satz 12-teilig<br/></li><li>2 x Schlitz-Schraubendreher: 2,5mm - 3,5mm</li><li>2 x Kreuzschlitz-Schraubendreher: PH0 - PH00</li><li>4 x T-Profil-Schraubendreher: TX6-TX7-TX8-TX10</li><li>4 x Haken: 45° - 90° - 135° - 180°</li></ul>"
-}

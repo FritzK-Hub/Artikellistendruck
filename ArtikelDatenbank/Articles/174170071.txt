@@ -1,4 +1,0 @@
-{
-    "uvp": 9.6,
-    "attributes": "<ul><li>Profimesser mit ergonomischem Griff</li><li>ideal zum Schneiden von Teppichen, Leder oder Stoffen </li><li>zuverlässiger Helfer bei sämtlichen Renovierungsarbeiten</li><li>Klinge kommt nur durch Vorschieben des Schiebers zum Vorschein</li><li>inklusive 5 Klingen<br/></li></ul>"
-}

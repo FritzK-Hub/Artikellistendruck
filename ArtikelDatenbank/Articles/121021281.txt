@@ -1,4 +1,0 @@
-{
-    "uvp": 4.29,
-    "attributes": "<ul><li>vielseitig für verschiedene Materialien geeignet</li><li>umweltfreundlich dank natürlicher Inhaltsstoffe</li><li>kein Austrocknen durch luftdichte Kappe</li><li>einfaches Auswaschen bei 20°C</li><li>ideal und sicher für Kinder</li></ul>"
-}

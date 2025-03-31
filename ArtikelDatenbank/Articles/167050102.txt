@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>3-schäftig gedrehtes Polyester-Seil</li><li>nach DIN EN ISO 1141</li><li>zum Befestigen und Verzurren</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1 bis 50 m<br/></li></ul>"
-}

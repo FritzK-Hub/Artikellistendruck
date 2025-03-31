@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>stabiler Halt auch auf schwierigen Untergründen</li><li>schnelle Befestigung ohne Stolperfallen</li><li>langlebiges Material zum Outdoor-Einsatz</li><li>vielseitig für Pavillons, Zelte und mehr</li><li>einfacher Transport dank Tragelasche</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 329.0,
-    "attributes": "<ul><li>Schwanenhals als Zubehör für Abwassertank</li><li>für die Entleerung des Behälters Grundstücksgrenze</li><li>verzinkte Abpumpvorrichtung für Übergang zu Muffenstück</li><li>Absaugleitung kann mit geeignetem Rohr verlegt werden</li><li>S-Haken inklusive Endstopfen</li></ul>"
-}

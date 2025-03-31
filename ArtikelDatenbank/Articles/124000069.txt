@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>solarbetriebener Bewässerungscomputer</li><li>manuelle oder einstellbare Start - Stop - Automatik</li><li>intuitive Bewässerungseinstellung <br/></li><li>eingebaute Lithium-Batterie mit 3-jähriger Lebensdauer</li><li>für Wasserhähne mit G3/4\" und G1\" Gewinde</li></ul>"
-}

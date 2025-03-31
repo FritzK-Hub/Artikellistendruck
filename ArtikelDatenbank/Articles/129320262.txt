@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>leuchtende Farbenpracht</li><li>lang anhaltende Blütenfreude</li><li>Bienen- und Hummelmagnet</li><li>einfache Pflege</li><li>vielseitige Verwendung<br/><br/></li></ul>"
-}

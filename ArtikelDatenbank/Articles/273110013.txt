@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Größen: 8 und 9 (auch komplettes Set erhältlich)</li><li>Stärke Schlüssel: ca. 4 mm</li><li>Material: Chrom Vanadium Stahl, satiniert</li><li>Gewicht: ca. 44 g<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.69,
-    "attributes": "<ul><li>Schweißer-Schutzhandschuhe mit 5 Finger-Design</li><li>aus Spaltleder mit langer Stulpe gefertigt</li><li>Stulpen schützen vor Schweißspritzern</li><li>bietet besonderen Tragekomfort</li><li>gute Griffeigenschaften erleichtern die Arbeit<br/></li></ul>"
-}

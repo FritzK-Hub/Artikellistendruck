@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<ul><li>Anzündhilfe aus Holz und Wachs</li><li>72 Grillanzünder in Würfelform</li><li>umweltfreundlich und ungiftig</li><li>unbegrenzt haltbarer Anzünder</li><li>geruchlose Grill Anzündhilfe</li></ul>"
-}

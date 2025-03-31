@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>echter Nordmanntannenkranz für natürliche Weihnachtsstimmung</li><li>vielseitig individualisierbar ergibt einzigartigen Look</li><li>weiche Nadeln erleichtern das Dekorieren</li><li>langanhaltender frischer Tannenduft im Raum</li><li>Ideal für Tür- und Tischdekoration</li></ul>"
-}

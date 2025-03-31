@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Isolier-Bogen 90° alterungsbeständig, hohe Fäulnisfestigkeit</li><li>kinderleicht und schnell angebracht</li><li>optimale Dämmeigenschaften</li><li>spart Warmwasser- und Heizkosten</li><li>schwer entflammbar nach DIN 4102-B1<br/></li></ul>"
-}

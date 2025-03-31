@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Kugelfangkasten ohne Zielscheibe</li><li>geeignet für alle Luftdruckwaffen bis 7,5 Joule</li><li>Scheibenkasten hängend oder stehend verwendbar</li><li>geeignet für Zielscheiben bis 14 x 14 cm</li><li>mit Hammerschlag-Lackierung</li></ul>"
-}

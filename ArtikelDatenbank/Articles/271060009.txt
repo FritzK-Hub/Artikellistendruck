@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Breitmeißel aus Stahl</li><li>zur Verwendung mit dem Hammer</li><li>Handmeißel schwarz lackiert</li><li>ideal für Stemmarbeiten</li><li>Handwerkzeug für Bauarbeiten am Mauerwerk</li></ul>"
-}

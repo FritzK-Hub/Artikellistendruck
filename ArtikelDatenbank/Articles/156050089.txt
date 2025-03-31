@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Farbwanne mit strukturierter Abrollfläche</li><li>ideal für dünnflüssige Materialien (Lasuren)</li><li>für alle Maler- und Lackierarbeiten</li><li>stabiler Handgriff</li><li>für alle gängigen Lackierroller bis 13 cm Breite</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 15.19,
-    "attributes": "<ul><li>Bewässerungskasten mit Wasserstandanzeige</li><li>ideal für Pflanzenliebhaber, die nicht jeden Tag zu Hause sind</li><li>mit großem Wasserspeicher, eine Überwässerung ist ausgeschlossen</li><li>einfache Demontage für eine leichtere Reinigung</li><li>einfacher Transport des Kastens möglich<br/></li></ul>"
-}

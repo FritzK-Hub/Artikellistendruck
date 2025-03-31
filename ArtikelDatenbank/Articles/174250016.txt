@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>VDE Seitenschneider zum Durchtrennen von weichen und harten Drähten</li><li>Induktiv gehärtete Präzisionsschneide</li><li>Spezial Werkzeugstahl, gesenkgeschmiedet</li><li>sauberer Schnitt auch an den Schneidenspitzen, auch bei dünnen Drähten</li><li>Kraftgewerbe mit optimaler Hebelübersetzung</li></ul>"
-}

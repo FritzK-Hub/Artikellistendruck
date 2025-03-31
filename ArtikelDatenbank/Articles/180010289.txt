@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>zum Wachstum und zur Reifung</li><li>für eine reichhaltige Ernte</li><li>mit einem hohen Kaliumgehalt</li><li>100 % natürliche Inhaltsstoffe</li><li>für den ökologischen Landbau<br/></li></ul>"
-}

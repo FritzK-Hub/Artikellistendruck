@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>elegante Farbvielfalt</li><li>zweifach verzwirnte Fäden</li><li>natürliche Wärme mit 20 % Wolle</li><li>angenehm auf der Haut</li><li>pflegeleichter Komfort<br/><br/></li></ul>"
-}

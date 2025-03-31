@@ -1,4 +1,0 @@
-{
-    "uvp": 109.0,
-    "attributes": "<ul><li>WiFi Türsprechanlage mit Echtzeit-Benachrichtigungen</li><li>via Audioübertragung auf dem Mobiltelefon mit dem Besuch sprechen</li><li>bequemer Zugriff von unterwegs über das Smartphone<br/></li><li>mit Sabotagealarm und Nachritchtenaufzeichnung</li><li>kostenlose App für Android und iOS</li></ul><p></p>"
-}

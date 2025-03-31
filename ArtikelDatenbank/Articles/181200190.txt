@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Edelwicken Spencer Mischung bunt für ca. 30 Pflanzen</li><li>herrlich duftende und zahlreiche Blüten</li><li>buntes Farbspektrum von weiß über rosa bis violett</li><li>hitzetolerant, die ideale Sommerblume</li><li>auch in der Vase ein haltbarer, dekorativer Schmuck</li></ul>"
-}

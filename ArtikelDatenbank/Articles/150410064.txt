@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li> halten Lebensmittel für lange Zeit frisch und haltbar</li><li>eignet sich gut für Kompott oder Konfitüre</li><li>passend für kleine Portionen von selbstgemachter Wurst, Obst, Dips und Desserts</li><li>ideal zum Aufbewahren und Konservieren</li><li>rot/weiß karierte Deckel sind im Lieferumfang enthalten<br/></li></ul>"
-}

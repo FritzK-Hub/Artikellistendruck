@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>Flachverbinder aus rostfreiem Edelstahl</li><li>ideal für Holz- oder Holz/Beton-Verbindungen</li><li>für den Innen- und Außenbereich geeignet</li><li>Montage mit Edelstahl-Ankernägeln (Kammnägeln)</li><li>für alle Holzkonstruktionen geeignet</li></ul>"
-}

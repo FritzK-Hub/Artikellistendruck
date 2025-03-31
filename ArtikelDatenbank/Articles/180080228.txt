@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Dachrinnenhalter aus PVC</li><li>hochwertige Verarbeitung</li><li>halbrunde Form</li><li>zur Befestigung von Cellfast Regenrinnen</li><li>witterungsbeständig, UV-beständig, hochbelastbar</li></ul>"
-}

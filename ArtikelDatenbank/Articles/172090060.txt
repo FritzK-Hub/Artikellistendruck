@@ -1,4 +1,0 @@
-{
-    "uvp": 6.19,
-    "attributes": "<ul><li>Abisolierzange für Flach- und Rundkabel</li><li>Abisolieren von flexiblen und massiven Leitern 0,5 - 6,0 mm²</li><li>zum Schneiden bis 2,5 mm²</li><li>Isolierzange mit Millimeterskala</li><li>Einstellschraube für den Klingenandruck</li></ul>"
-}

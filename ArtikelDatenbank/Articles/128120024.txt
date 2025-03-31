@@ -1,4 +1,0 @@
-{
-    "uvp": 385.95,
-    "attributes": "<ul><li>Gartensitzgruppe im Jugendstil-Design</li><li>2 Gartensessel mit Armlehnen</li><li>aus wetterfestem Aluguss in Bronze-antik</li><li>zaubert ein nostalgisches, romantisches Flair in den Garten</li><li>auch zur Dekoration geeignet</li></ul>"
-}

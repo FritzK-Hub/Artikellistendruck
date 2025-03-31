@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>umfangreiches 9-teiliges Wein-Set in stilvoller Holzbox</li><li>sorgfältig zusammengestelltes Zubehör für den perfekten Weingenuss<br/></li><li>Weinthermometer sorgt für die perfekte Trinktemperatur</li><li>stilvolle Geschenkidee für Wein Liebhaber</li><li>mitgelieferte Holzbox für einfache Aufbewahrung und elegante Präsentation</li></ul>"
-}

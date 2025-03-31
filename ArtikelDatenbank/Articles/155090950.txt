@@ -1,4 +1,0 @@
-{
-    "uvp": 26.78,
-    "attributes": "<ul><li>Jalousie-Schalter für Unterputz-Montage</li><li>klassisches Design mit moderner Oberfläche</li><li>Die mechanische Verriegelung verhindert das versehentliche gleichzeite Betätigen beider Wippen</li><li>Pfeilrichtungsaufdruck für eine einfache Bedienung</li><li>Nur in Kombination mit Rahmen der Serie Trend zu verwenden<br/></li></ul>"
-}

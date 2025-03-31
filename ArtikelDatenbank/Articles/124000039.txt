@@ -1,4 +1,0 @@
-{
-    "uvp": 16.49,
-    "attributes": "<ul><li>Adapter für verschiedene Armaturen</li><li>leicht zu montieren</li><li>mit Perlstrahl-Einsatz ausgestattet</li><li>problemloses Anbringen ohne Zerkratzen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 54.99,
-    "attributes": "<ul><li>LED-Solarwandleuchte rund 4,4 W in silber</li><li>ist aus robustem Aluminium gefertigt</li><li>sorgt für klare Sicht in Garagen oder Außenbereichen</li><li>verfügt über 3 verschiedene Einstellungen</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung<br/></li></ul>"
-}

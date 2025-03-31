@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>drei unterschiedliche Kreppbänder für die verschiedensten Anwendungsbereichen</li><li>vielseitig für Renovierungsarbeiten oder zum Verpacken einsetzbar</li><li>zum effektiven Abkleben von Fußleisten und Türrahmen</li><li>universell für Maler- oder Lackierarbeiten im Innenbereich einsetzbar</li><li>einfach in der Handhabung, lässt sich leicht mit der Hand abreißen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>filtrierende Halbmaske ohne Ventil</li><li>Schutz vor ungiftigen Stäuben bis zu einer Partikelgröße von 0,6 µm</li><li>flexibler Nasenbügel für optimalen Sitz</li><li>auch für Brillenträger geeignet</li></ul>"
-}

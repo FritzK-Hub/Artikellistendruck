@@ -1,4 +1,0 @@
-{
-    "uvp": 6.03,
-    "attributes": "<ul><li>flaches Übergangsprofil aus eloxiertem Aluminium in messing<br/></li><li>zur dauerhaften Verbindung zweier gleich- oder verschiedenartigen Bodenbelägen</li><li>unsaubere Schnittkanten werden verdeckt</li><li>auf Stoß verlegte Übergänge werden dauerhaft geschützt</li><li>Stolperfallen werden vermieden</li></ul>"
-}

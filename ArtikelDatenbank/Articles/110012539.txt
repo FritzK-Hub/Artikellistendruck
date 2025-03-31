@@ -1,4 +1,0 @@
-{
-    "uvp": 3.69,
-    "attributes": "<ul><li>Übergangsnippel universell einsetzbar für die Sanitär-, Heizungs-, Gas-, Öl-und Druckluftinstallation</li><li>einfache und sichere Verbindung zwischen Kupferrohren mit Gewinde und Rotgussarmaturen <br/></li><li>korrosionsbeständiges Material für zuverlässige Leistung in verschiedenen Umgebungen</li><li>präzise Gewinde für eine einfache Installation ohne Leckagen</li><li>einfache Installation keine Spezialwerkzeuge erforderlich</li></ul><p></p>"
-}

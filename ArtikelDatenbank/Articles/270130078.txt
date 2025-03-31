@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>CRV Tauchsägeblatt 28 x 48 mit gehärteten Zähnen</li><li>ideal für Holz, Plastik, Gipskarton oder Kunststoffrohre</li><li>auch Ausschnitte in Möbelstücke, für Kabel oder Steckdosen</li><li>aufgrund guter Qualität ein langlebiges Werkzeug</li><li>es ist ein vielfach einsetzbares Werkzeug<br/></li></ul>"
-}

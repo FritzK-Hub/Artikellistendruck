@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>3 Hygien-Masken für Kinder im Set</li><li>vorgeformt für einen besseren Tragekomfort</li><li>schützen vor Tröpfchenübertragungen</li><li>ausschließlich für hygienische Zwecke geeignet</li><li>weiße Maske mit pinken Sternen</li></ul>"
-}

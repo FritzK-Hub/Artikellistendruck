@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Heizlüfter 2000 Watt mit drei Leistungsstufen</li><li>besonders langlebig und robust, aus schwarzem Kunststoff<br/></li><li>zwischen zwei Heizstufen und einer kühlenden Stufe auswählbar</li><li>automatische Abschaltung bei Überhitzung für mehr Sicherheit</li><li>praktischer Tragegriff erleichtert den Transport</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 159.0,
-    "attributes": "<ul><li>LED-Deckenleuchte vielseitig für verschiedene Räume</li><li>blendfreies Licht schafft angenehme Beleuchtung</li><li>energieeffizient und langlebig dank LED-Technik</li><li>individuelle Anpassung von Helligkeit und Farbtemperatur</li><li>RGB-LEDs für Farbwechsel und Effektbeleuchtung</li></ul>"
-}

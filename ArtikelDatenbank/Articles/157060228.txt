@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>gebrauchsfertige, extrem flexible Universalabdichtung</li><li>auf neuester Polymer-Bitumentechnologie</li><li>schnell trocknend, UV-Beständig und rissüberbrückend</li><li>besonders resistent gegen witterungsbedingte Umwelteinflüsse</li><li>ideal geeignet für Dächer mit Regenwassersammlung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 25.95,
-    "attributes": "<ul><li>rechts und gerade schneidend</li><li>gezahnte Schneiden aus Chrom-Vanadium-Stahl</li><li>geschmiedet</li><li>blaue Griffe</li><li>260mm</li></ul>"
-}

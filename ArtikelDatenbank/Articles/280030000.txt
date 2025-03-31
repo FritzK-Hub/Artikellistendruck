@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Eisendraht zur Montage und Sicherung von Zäunen</li><li>leicht zu verarbeitender Eisendraht</li><li>Eisendraht ca. 1mm Durchmesser</li><li>Eisendraht in einer 24m Rolle</li><li>verzinkter Eisendraht</li></ul>"
-}

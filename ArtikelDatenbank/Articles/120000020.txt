@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>torfreduzierte BIO Hochbeet-Spezialerde</li><li>fördert das Wachstum von gesundem Salat und Gemüse</li><li>ideal als Füllsubstrat für alle Hochbeete</li><li>beste Humusbildung beim Unterarbeiten im Garten</li><li>beste Ernte für alle Kulturen im Hochbeet <br/></li></ul>"
-}

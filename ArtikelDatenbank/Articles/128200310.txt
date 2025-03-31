@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>robuste Stahlkonstruktion</li><li>exquisite Blumenverzierungen an Seitenteilen</li><li>mit einer Doppel-Torpforte</li><li>vielseitige Nutzungsmöglichkeiten</li><li>widerstandsfähig und langlebig<br/></li></ul>"
-}

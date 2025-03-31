@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Bärlauch mehrjährig für ca. 30 Pflanzen</li><li>mit einem knoblauchähnlichen Duft versehen</li><li>ideal zur Verfeinerung von Salaten oder Suppen</li><li>die Inhaltsstoffe sind zudem verdauungsfördernd</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

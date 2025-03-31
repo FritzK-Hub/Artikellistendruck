@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>ideal für Gartentore, Zäune und Pfosten</li><li>zum Aufschrauben<br/></li><li>aus robustem Stahl, verzinkt und verchromt<br/></li><li>besonders hohe Korrosionsbeständigkeit <br/></li><li>komplett mit Klinkhaken</li><li>links und rechts verwendbar</li></ul>"
-}

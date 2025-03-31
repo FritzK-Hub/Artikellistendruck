@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>kontrastreiche Eleganz</li><li>Bienenweide und Hummelmagnet</li><li>anpassungsfähig und robust</li><li>lang anhaltende Blütenpracht</li><li>perfekte Schnittblume<br/></li></ul>"
-}

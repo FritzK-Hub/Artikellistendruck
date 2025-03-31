@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>GERMANIA® Premium Schlauchwagen</li><li>mit Metallrohrgestell und Kunststoffgehäuse</li><li>passendes Zubehör für die Gartenbewässerung</li><li>20 m Schlauch, Spritze und Anschlussset inklusive</li><li>dank Laufräder leicht zu handhaben</li></ul>"
-}

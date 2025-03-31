@@ -1,4 +1,0 @@
-{
-    "uvp": 84.95,
-    "attributes": "<ul><li>Akku-Zyklon-Staubsauger mit 100 - 120 W</li><li>hohe Saugkraft und saubere Raumluft dank Zyklon-Technologie</li><li>auswaschbarer Filter, keine Staubsaugerbeutel mehr notwendig</li><li>einfache Handhabung, geringes Eigengewicht</li><li>inklusive einem 2in1 Fugen-Polsteraufsatzes und Netzteil</li></ul>"
-}

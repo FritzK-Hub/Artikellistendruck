@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Schaschlikspießen Set 4 Stück je 38,5 x 1,5 cm</li><li>aus verchromtem Edelstahl gefertigt</li><li>für unvergessliche Geschmackserlebnisse beim Grillen</li><li>Holzgriff schützt vor Verbrennungen</li><li>wiederverwendbar, lässt sich einfach reinigen</li></ul>"
-}

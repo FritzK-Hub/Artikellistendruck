@@ -1,4 +1,0 @@
-{
-    "uvp": 89.99,
-    "attributes": "<ul><li>Full-HD Überwachungskamera mit Tag- und Nachtmodus</li><li>zur Aufnahme und Beobachtung von Wildtieren</li><li>auch für die Heimüberwachung geeignet</li><li>staubdicht und strahlwassergeschützt (IP56)</li><li>für den Innen- und Außeneinsatz geeignet</li><li>lange Laufzeit im Bereitschaftsmodus</li></ul>"
-}

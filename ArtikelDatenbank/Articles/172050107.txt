@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>CEE-Verlängerungskabel mit 45 cm länge</li><li>mit 3-poligen CEE-Stecker und -Kupplung</li><li>direkt an der CCE-Dose einsetzbar</li><li>zur Verwendung von haushaltsüblichen Geräten</li><li>widerstandsfähiges H07RN-F Kabel mit 3 x 2,5 mm²<br/></li></ul>"
-}

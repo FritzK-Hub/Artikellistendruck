@@ -1,4 +1,0 @@
-{
-    "uvp": 8.29,
-    "attributes": "<ul><li>feuerfester Zement im 2 kg Sack</li><li>zur Ausbesserung an Schornsteinen</li><li>zum Einsetzen von Wandfuttern / Kaminhülsen</li><li>Reparaturen in Herden und Öfen</li><li>ideal für innen und außen</li></ul>"
-}

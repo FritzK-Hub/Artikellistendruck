@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Rohrreinigungswelle aus Federstahldraht</li><li>zur Reinigung von fast jedem haushaltsüblichen Abfluss</li><li>umweltfreundliche und chemiefreie Reinigung</li><li>einfache und wirkungsvolle Anwendung</li><li>integrierte Handkurbel<br/></li></ul>"
-}

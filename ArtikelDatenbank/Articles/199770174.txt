@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>hochwertiges 20-teiliges Paneelstifte-Set von FISHBULL</li><li>aus robustem Metall gefertigt</li><li>zum Einschlagen in Holzleisten</li><li>ideal zur Befestigung von Zierleisten an Möbeln</li><li>mit gerillter Oberfläche <br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.79,
-    "attributes": "<ul><li>flexible Gummilippe für perfekte Sauberkeit</li><li>vielseitig im gesamten Haushalt einsetzbar</li><li>handlicher Besen für leichte Handhabung</li><li>platzsparend und einfach zu verstauen</li><li>langlebiges Design für den Alltag</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>2 Verschlusskarabiner 4 x 40 mm</li><li>aus verzinktem Stahl</li><li>bis 10 kg belastbar</li><li>für Seile bis 4 mm Durchmesser</li><li>birnenförmig (C-Form)</li></ul>"
-}

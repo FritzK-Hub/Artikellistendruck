@@ -1,4 +1,0 @@
-{
-    "uvp": 189.95,
-    "attributes": "<ul><li>robuster Edelstahl für Innen- und Außenbereich</li><li>multifunktional und vielseitig einsetzbar</li><li>schnelle Wasseranschlussmöglichkeit inklusive</li><li>höhenverstellbar für individuellen Komfort</li><li>einfache Montage und platzsparende Lagerung</li></ul><p></p>"
-}

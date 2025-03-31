@@ -1,4 +1,0 @@
-{
-    "uvp": 45.3,
-    "attributes": "<ul><li>Ersatzrad auf Metallfelge für verschiedene Beanspruchungen bei Schubkarren</li><li>besonders widerstandfähig und belastbar, aus stabilem Polyurethan gefertigt</li><li>besitzt eine Größe von 400 mm, passend für handelsüblichen Schubkarren</li><li>vielseitige Einsatzmöglichkeiten, Kugellager garantiert eine reibungslose Arbeit</li><li>einfach in der Handhabung, lässt sich schnell und unkompliziert austauchen<br/></li></ul>"
-}

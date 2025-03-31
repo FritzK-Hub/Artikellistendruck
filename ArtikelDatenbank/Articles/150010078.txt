@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Fassadenbesen in Grün mit Teleskopstiel</li><li>aus stabilem Kunststoff gefertigt</li><li>teleskopierbar von 129 bis 240 cm</li><li>mit praktischen Gelenkadapter</li><li>zum Entfernen von Spinnweben in hohen Räumen <br/></li></ul>"
-}

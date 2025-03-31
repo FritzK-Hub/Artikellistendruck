@@ -1,4 +1,0 @@
-{
-    "uvp": 29.0,
-    "attributes": "<ul><li>Ersatzkette für GERMANIA® Gehölzschneider 126320012</li><li>mehrmaliges schärfen möglich (Hand oder Maschine)</li><li>besonders gute Schnittleistung</li><li>robust und pflegeleicht </li><li>sehr widerstandsfähig</li></ul>"
-}

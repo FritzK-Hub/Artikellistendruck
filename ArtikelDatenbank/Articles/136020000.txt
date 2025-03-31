@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Brecheisen 600 mm mit Klaue und Meißel</li><li>aus gehärtetem Sechskant-Stahl gefertigt</li><li>zum Herausziehen von eingeschlagenen Nägeln</li><li>auch als Brechstange bei Renovierungs- oder Abrissarbeiten einsetzbar</li><li>ovale Form überträgt höhere Kräfte auf die Klaue<br/></li></ul>"
-}

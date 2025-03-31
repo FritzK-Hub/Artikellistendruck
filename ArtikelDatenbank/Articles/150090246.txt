@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>robustes Kunststoffgehäuse, langlebig und witterungsbeständig</li><li>13-polige Konfiguration ermöglicht eine größere Bandbreite an Anhängerfunktionen</li><li>einfache Installation in die meisten Anhängeranschlüsse</li><li>drehbar mit Einrastfunktion für mehr Sicherheit</li><li>ideal für PKW-Anhänger und Campingfahrzeuge geeignet<br/></li></ul>"
-}

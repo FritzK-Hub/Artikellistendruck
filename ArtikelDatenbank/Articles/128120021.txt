@@ -1,4 +1,0 @@
-{
-    "uvp": 699.95,
-    "attributes": "<ul><li>Gartensitzgruppe im klassischen Kurgartendesign</li><li>mit zwei Armlehnensesseln</li><li>aus robustem und witterungsbeständigem Robinienholz</li><li>Gestell aus massivem Flach- und Rundstahl</li><li>Flachstahl mossgrün pulverbeschichtet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>flexible Lichtfarbwahl bequem über Lichtschalter</li><li>spart effizient Energie und Kosten</li><li>einfache Montage in vorhandene Öffnungen</li><li>schlankes Design für nahtlose Integration</li><li>langlebige Bauweise für dauerhaften Einsatz</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li><strong>Kardangelenkset </strong>3 teilig mit Feder</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>mit Innenvierkant-Antrieb und Außenvierkant(Wellenprofil)</li><li>verfügten über eine hochglänzende, verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li></ul>"
-}

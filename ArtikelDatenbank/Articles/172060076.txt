@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>200 Stück Kabelbefestigung</li><li>mit eingestecktem 30 mm Nagel</li><li>hochwertiges Kunststoffmaterial</li><li>schnelle und einfache Verwendung</li><li>geeignet für Kabeldurchmesser von ca. 7 - 12 mm</li></ul>"
-}

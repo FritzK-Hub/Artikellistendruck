@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>effektive Schädlingsbekämpfung</li><li>schnelle sichtbare Wirkung</li><li>Langzeitschutz bis zu 4 Monaten</li><li>einfache Anwendung</li><li>inklusiver Premium Dünger<br/></li></ul>"
-}

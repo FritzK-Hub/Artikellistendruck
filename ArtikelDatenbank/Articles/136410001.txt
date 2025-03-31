@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Leimzwinge 150 mm mit rutschfestem Griff</li><li>aus verzinktem Stahl gefertigt</li><li>ideal Klemmen, Halten und Verbinden von Werkstoffen</li><li>zuverlässiger Helfer für Bastler oder Heimwerker</li><li>starke Feder und beweglichen Backen sorgen für problemlose Nutzung</li></ul>"
-}

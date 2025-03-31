@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>effektiver Schutz</li><li>pflanzenschonende Formel</li><li>einfache Anwendung</li><li>umfassende Bekämpfung</li><li>speziell für Orchideen und Zierpflanzen<br/></li></ul>"
-}

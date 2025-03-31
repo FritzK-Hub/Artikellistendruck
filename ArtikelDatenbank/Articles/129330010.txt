@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>hochwertige Trocken- und Schattenrasen-Saatgutmischung</li><li>Aussaat und Düngung in Einem</li><li>für sehr trockene, sonnige und schattige Standorte</li><li>80% Rasensamen und 20% Dünger</li><li>zur Nachsaat und Revitalisierung geeignet<br/></li></ul>"
-}

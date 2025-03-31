@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatband Monatserdbeere Rügen ca. 2 Meter Saatband</li><li>eine rankenlose, immertragende Erdbeersorte</li><li>Widerstandsfähigkeit gegenüber Witterungseinflüssen</li><li>kann selbst im Balkonkasten angebaut werden</li><li>ideal für den Frischverzehr oder auf Torten geeignet<br/></li></ul>"
-}

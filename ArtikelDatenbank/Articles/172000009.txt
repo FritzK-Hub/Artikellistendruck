@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    Für die Unterputz-Montage und den Anschluss zweier/nNetzwerk-Verlegekabel./n/nKontaktwiderstand = 20mO/nIsolationswiderstand = 500 MO/n/nKombinierbar mit allen TAE Abdeckungen!\"\"/n                "
-}

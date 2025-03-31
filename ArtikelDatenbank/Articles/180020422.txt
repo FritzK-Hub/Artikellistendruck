@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Dreikanalbewässerungsschlauch 7,5 m von Cellfast</li><li>sorgt für gleichmäßige Bewässerung von Hecken oder Rasenflächen</li><li>ist UV-beständig, wasser- wie zeitsparend, als auch Cadmium- und Bariumfrei</li><li>lässt sich einfach bis auf max. 22,5 m erweitern</li><li>inklusive der benötigten 1/2“ Zoll Verbindungsstücke<br/></li></ul>"
-}

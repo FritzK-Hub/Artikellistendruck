@@ -1,4 +1,0 @@
-{
-    "uvp": 27.84,
-    "attributes": "<ul><li>hohe Langlebigkeit</li><li>vielseitig einsetzbar</li><li>einfache Handhabung</li><li>präzise Verbindung</li><li>optimaler Schutz</li></ul>"
-}

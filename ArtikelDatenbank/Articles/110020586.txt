@@ -1,4 +1,0 @@
-{
-    "uvp": 16.49,
-    "attributes": "<ul><li>biologische Formel</li><li>effektiver Schutz</li><li>umweltfreundlich und nachhaltig</li><li>einfache Anwendung</li><li>rückstandslose Verwendung<br/></li></ul>"
-}

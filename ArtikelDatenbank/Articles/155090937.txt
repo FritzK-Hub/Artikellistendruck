@@ -1,4 +1,0 @@
-{
-    "uvp": 9.76,
-    "attributes": "<ul><li>Abdeckung für ISDN-Dosen</li><li>hochwertiger Kunststoff in Chrom-Optik</li><li>klassisches Design mit matter Oberfläche</li><li>nur in Verbindung mit ISDN-Dose der Serie Arcada</li><li>nur in Kombination mit Rahmen der Serie Arcada<br/></li></ul>"
-}

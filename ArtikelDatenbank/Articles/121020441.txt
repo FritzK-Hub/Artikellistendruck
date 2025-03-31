@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Hefthülle aus Kunststoff</li><li>mit praktischem Hefteinband</li><li>der ideale Schutz für Schulhefte</li><li>passend für Hefte der Größe DIN A5</li><li>mit aufgeklebtem Namensetikett</li></ul>"
-}

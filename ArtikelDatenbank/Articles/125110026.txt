@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Protect Garden Curamat AZ Rosen-Pilzfrei</li><li>schützt Rosen, Zierpflanzen und Gemüse von innen</li><li>fördert kräftigen Wuchs und grünere Blätter</li><li>vorbeugend und heilend</li><li>kurze Wartezeiten</li></ul>"
-}

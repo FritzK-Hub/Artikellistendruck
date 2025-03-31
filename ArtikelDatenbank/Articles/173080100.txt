@@ -1,4 +1,0 @@
-{
-    "uvp": 55.6,
-    "attributes": "<ul><li>müheloses Lösen von beschädigten Schrauben</li><li>hochwertiger Chrom-Molybdän-Stahl für maximale Haltbarkeit</li><li>konisches Spiralprofil für sicheres Lösen von rundgedrehten Schrauben</li><li>vielseitigkeit dank Einsätzen in verschiedenen Größen sowie Adapter</li><li>bequemer Transport durch kompakten Stoffbeutel<br/></li></ul>"
-}

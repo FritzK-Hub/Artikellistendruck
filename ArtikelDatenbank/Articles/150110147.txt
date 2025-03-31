@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Aktivschaum - ohne Nacharbeiten wirksam</li><li>wirkt Farbauffrischend und sorgt für eine neuwertige Oberfläche</li><li>verleiht eine gepflegte, seidenmatte Optik</li><li>schützt bei regelmäßiger Anwendung vor vorzeitiger Alterung und Versprödung</li><li>bildet einen wasser- und schmutzabweisenden Schutz<br/></li></ul>"
-}

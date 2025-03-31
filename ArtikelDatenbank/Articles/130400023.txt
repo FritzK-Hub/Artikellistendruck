@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Heizlüfter 2000 Watt mit drei Leistungsstufen </li><li>zwischen zwei Heizstufen und einer kühlenden Stufe auswählbar</li><li>verfügt über eine Ventilatorfunktion</li><li>inklusive Überhitzungsschutz und praktischem Tragegriff</li><li>mit Thermostat, Kontrolleuchte und Kipp-Schutzknopf</li></ul>"
-}

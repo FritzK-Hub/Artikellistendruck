@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>lang anhaltende Wirkung</li><li>regeneriert geschwächte Pflanzen</li><li>kein Dosieren notwendig</li><li>für mehr Blüten</li><li>starke, kräftige Blätter<br/></li></ul>"
-}

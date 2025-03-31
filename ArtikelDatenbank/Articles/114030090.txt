@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>10 Trinkbecher aus Kunststoff</li><li>mit bayrischer Raute</li><li>der ideale Trinkbecher für ein bayrisches Fest</li><li>lebensmittelecht</li><li>praktisch und hygienisch</li></ul>"
-}

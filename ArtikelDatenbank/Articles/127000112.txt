@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>Bügelrechen aus stabilem Stahl mit 16 Zinken</li><li>eignet sich zum Harken und Lockern des Bodens</li><li>auch zum Entfernen von Moos auf Rasenflächen einsetzbar</li><li>sichere Stielverbindung durch eine 28 mm Stieldülle</li><li>unverzichtbares Werkzeug bei der Gartenpflege<br/></li></ul>"
-}

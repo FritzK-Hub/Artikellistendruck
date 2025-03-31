@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Barend Palm Arbeitsplatten Top-Öl für Arbeitsplatten und Möbel etc.</li><li>anfeuerungsfrei</li><li>erhält die natürliche Rohholzoptik</li><li>stark abriebfest und antistatisch</li><li>anwendbar im Innenbereich</li></ul>"
-}

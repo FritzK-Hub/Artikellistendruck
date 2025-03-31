@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>ideal für PE Isolierrohre und Kautschukisolierungen</li><li>selbsthaltende Verschlussklammern</li><li>Isolierrohrclips zur einfachen Handhabung</li><li>hält zuverlässig und sorgt für Dichtheit der Isolierung</li><li>Anwendungsempfehlung alle 20 cm</li></ul>"
-}

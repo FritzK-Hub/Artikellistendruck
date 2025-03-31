@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Vorschlaghammer 5 kg aus Stahl</li><li>robuster Hickorystiel 73,3 cm mit Stielschutz</li><li>ideal für Abbruch- und Renovierungsarbeiten</li><li>zuverlässiges Werkzeug im Garten- oder Wegebau</li><li>hohe Belastbarkeit und Härte zeichnen den Stiel aus</li></ul>"
-}

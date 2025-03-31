@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>2K-Epoxidharz-Bodenbeschichtung</li><li>verhindert das Eindringen von Ölen, Fetten und anderen Verschmutzungen</li><li>leichte Reinigung und Pflege</li><li>verbessert das Aussehen und die Farbgebung des Bodens</li><li>verringert die Staubbildung durch Abrieb</li></ul>"
-}

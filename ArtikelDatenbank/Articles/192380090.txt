@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Kordelband aus Jute</li><li>zum Verpacken von Geschenken</li><li>für Handarbeiten geeignet</li><li>in 5 Farben und 2 Größen</li><li>aus nachwachsendem Rohstoff</li></ul>"
-}

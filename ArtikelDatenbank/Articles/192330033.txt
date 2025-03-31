@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Windlicht-Set 3-teilig auf Metallständer mit Glaseinsatz</li><li>schafft eine gemütliche Atmosphäre </li><li>als dekorativer Orientierungslicht einsetzbar</li><li>auch für die Gestaltung im Innenbereich geeignet</li><li>für LED- und normale Kerzen geeignet<br/></li></ul>"
-}

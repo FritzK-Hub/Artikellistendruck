@@ -1,4 +1,0 @@
-{
-    "uvp": 34.99,
-    "attributes": "<ul><li>für Feinlötarbeiten in den verschiedensten Anwendungsbereichen</li><li>vielseitig für DIY-Hobbyprojekte oder Elektronikreparaturen</li><li>für Schmelzarbeiten an Glas, unterschiedlichen Metallen oder Kunststoff</li><li>kleiner Nachfülltank zum Auffüllen mit herkömmlichen Feuerzeuggas</li><li>bei Nichtgebrauch platzsparend in der Aufbewahrungsbox verstaubar</li></ul>"
-}

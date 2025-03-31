@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>praktisches Forst- und Gartenwerkzeug</li><li>zum Greifen von Hölzern, Ästen und Stämmen</li><li>rückenschonendes Heben und Packen von Holz</li><li>solider Stahl mit rutschfestem Kunststoffgriff</li><li>als Handpackzange und auch als kleine Handsappie nutzbar (zum Einschlagen ins Holz)</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Besen mit Kunststoffborsten und Stiel</li><li>Borsten sind in verschiedenen Farben erhältlich</li><li>sorgt in Wohnräumen für mehr Sauberkeit</li><li>stabile Kunststoff-Borsten für höheren Reinigungseffekt</li><li>rückenschonende Arbeit dank ca. 120 cm langem Stiel<br/></li></ul>"
-}

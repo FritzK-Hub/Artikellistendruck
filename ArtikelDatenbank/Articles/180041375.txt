@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>hochwertiger verzinkter Stahl</li><li>stabile Ausführung</li><li>effiziente Arbeitsweise</li><li>anpassbarer Stiel</li><li>breite Arbeitsfläche</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 25.95,
-    "attributes": "<ul><li>    Gartendusche mit Standfuß    </li><li>mit 6 verschiedenen Funktions--Einstellungen</li><li>    leicht und korrosionsbeständig    </li><li>schnell und einfach aufgebaut</li><li>höhenverstellbar bis zu 220 cm<br/></li></ul>"
-}

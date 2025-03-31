@@ -1,4 +1,0 @@
-{
-    "uvp": 21.79,
-    "attributes": "<ul><li>Digital-Multimeter zur Messung von elektrischen Größen</li><li>4-stellige Digitalanzeige</li><li>mit Messwertspeicher</li><li>Diodentest und Rechteck-Testsignal</li><li>inklusive Batterie 9 V-Block</li></ul>"
-}

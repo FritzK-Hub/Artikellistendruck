@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>dank kompakten Größe sehr leicht zu verstauen und immer griffbereit</li><li>handliches Design erleichtert die Handhabung</li><li>aus robustem Zink-Druckguss</li><li>ist universell einsetzbar</li><li>dank Vielzahl von Schlüsselprofilen für verschiedene Aufgaben geeignet</li></ul>"
-}

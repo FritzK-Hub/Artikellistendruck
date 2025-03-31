@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Gartenhandschuhe Größe 8 mit Blumenmotiv in Grün</li><li>Handinnenfläche mit Nitril-Beschichtung versehen</li><li>ermöglicht eine reibungslose Gartenarbeit</li><li>besitzt eine gute Feinfühlig- wie Rutschfestigkeit</li><li>besonders belastbar mit angenehmem Komfort</li></ul>"
-}

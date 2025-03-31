@@ -1,4 +1,0 @@
-{
-    "uvp": 1.19,
-    "attributes": "<ul><li>Saatscheiben Pizza-Kräuter-Mix in verschiedenen Sorten</li><li>enthält vielseitige Gewürze für das charakteristische Pizzagewürz</li><li>ideal für den Anbau auf Fensterbank oder Balkon geeignet</li><li>zur Verfeinerung von unterschiedlichsten Gerichten</li><li>schnelle und einfache Handhabung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Locher mit Ansatzschiene</li><li>einstellbar auf alle gängigen Formate</li><li>in verschiedenen Farben</li><li>Bürolocher mit Kunststoffgehäuse</li><li>stanzt 20 Blätter gleichzeitig<br/></li></ul>"
-}

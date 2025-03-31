@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>dekorativer LED-Lichtschlauch mit 9 m Länge</li><li>ist mit 80 warmweißen LEDs versehen</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>vielfältig einsetzbar Innen- und Außendekoration</li><li>inklusive einer ca. 3 m langen Zuleitung<br/></li></ul>"
-}

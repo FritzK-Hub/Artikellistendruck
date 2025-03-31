@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Vogelfutterstation säulenförmig Ø 14 x 28 cm</li><li>aus stabilem Edelstahl mit Gitteröhre gefertigt</li><li>ideal zum Füttern von freilebenden Vögeln</li><li>bietet Platz für Meisenknödel oder Streufutter</li><li>leichtes aufhängen an Bäumen, Dachbalken, Gartenhäuschen oder Holzpfählen</li></ul>"
-}

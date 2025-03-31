@@ -1,4 +1,0 @@
-{
-    "uvp": 42.95,
-    "attributes": "<ul><li>Ersatzkette von Güde</li><li>passend für die Elektro Kettensäge KS 450 B</li><li>besitzt eine Kettenlänge von 56 cm</li><li>liefert eine besonders gute Schnittleistung</li><li>schneller Ersatz für die stumpfe Kette<br/></li></ul>"
-}

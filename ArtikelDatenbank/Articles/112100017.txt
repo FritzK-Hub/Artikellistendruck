@@ -1,4 +1,0 @@
-{
-    "uvp": 2.0,
-    "attributes": "<ul><li>Betonflachstahlanker für einfache Montage</li><li>für die Verbindung von Betonteilen mit Holzbalken<br/></li><li>robust, langlebig, korrosionsbeständig durch Verzinkung</li><li>optimierte Materialstärke von 2 mm für hohe Stabilität</li><li>großes Bohrloch für den Einsatz von Betondübeln<br/></li></ul>"
-}

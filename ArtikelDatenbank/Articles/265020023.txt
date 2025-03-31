@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Kreuzgehänge aus Stahl, blau verzinkt</li><li>benötigen bei der Montage keine Kloben</li><li>zum direkten Anschrauben geeignet</li><li>stabile Ausführung, Materialstärke ca. 2 mm</li><li>wetterfeste, robuste Bauweise</li></ul>"
-}

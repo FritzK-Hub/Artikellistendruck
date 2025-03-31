@@ -1,4 +1,0 @@
-{
-    "uvp": 8.95,
-    "attributes": "<ul><li>universelle Multitool- Spachtel</li><li>starre Ausführung</li><li>scharf geschliffen</li><li>zum Entfernen von Lack-, Klebstoff-, und Farbreste</li><li>geeignet für die meisten handelsüblichen Multifunktionswerkzeuge<br/></li></ul>"
-}

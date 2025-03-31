@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>Fahrrad-Kabelschloss mit Gelenkkapseln aus Spezialstahl</li><li>Abdeckung am Schließkörper</li><li>mit beleuchtetem Schlüssel für bessere Sicht bei Dunkelheit</li><li>inkl. Klettband zur universellen Befestigung</li><li>mit hoher Sicherheitsstufe</li></ul>"
-}

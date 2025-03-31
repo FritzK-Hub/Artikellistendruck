@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Anhängernetz, dehnbar 2 x 3 m grün</li><li>für die reißfeste Abdeckung von offenen PKW-Anhänger</li><li>ideal zur Ladungsicherung geeignet</li><li>weiche Struktur, dehnbar, passt sich der Ladung optimal an</li><li>umlaufendes Gummiseil für noch mehr Sicherheit</li></ul>"
-}

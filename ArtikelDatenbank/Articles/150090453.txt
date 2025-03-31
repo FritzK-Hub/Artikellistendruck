@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Glühlampen-Ersatzkasten H 7, 8-teilig</li><li>alle Lampen für 12 Volt geeignet</li><li>alle nötigen Glühlampen für dein Fahrzeug</li><li>immer gleich passende Ersatzlampen zur Hand</li><li>platzsparend im Handschuhfach aufbewahrbar<br/></li></ul>"
-}

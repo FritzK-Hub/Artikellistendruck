@@ -1,4 +1,0 @@
-{
-    "uvp": 13.49,
-    "attributes": "<ul><li>Kinder Fahrrad-Kabelschloss</li><li>4-fach Zahlenwalze</li><li>10.000 frei wählbaren Zahlenkombinationen</li><li>leicht und platzsparend</li><li>mit Sicherheitsstufe</li></ul>"
-}

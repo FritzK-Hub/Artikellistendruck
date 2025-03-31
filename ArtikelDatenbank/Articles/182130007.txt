@@ -1,4 +1,0 @@
-{
-    "uvp": 20.49,
-    "attributes": "<ul><li>Fahrrad-Stahlkettenschloss mit Sicherheitsstufe</li><li>Abdeckung am Schließkörper</li><li>mit beleuchtetem Schlüssel für bessere Sicht bei Dunkelheit</li><li>inkl. Klettband zur universellen Befestigung</li><li>Schutz vor Lackschäden durch Textilschlauch</li></ul>"
-}

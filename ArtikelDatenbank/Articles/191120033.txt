@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Flockmittel Tabletten zur Entfernung kleiner Partikel</li><li>nur für Sandfilter geeignet</li><li>bildet um Trübungs- sowie Schmutzpartikel Flocken</li><li>das Wasser wird wieder kristallklar</li><li>Poolreinigungs-Mittel mit Langzeitwirkung<br/></li></ul>"
-}

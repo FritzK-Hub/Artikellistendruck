@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>Grubber mit 3 Zinken und Holzstiel</li><li>Zinken aus stabilem Metall gefertigt</li><li>passendes Werkzeug für Bodenarbeiten</li><li>lockert leichter den Boden auf</li><li>rückenschonende Arbeit dank 140 cm Holzstiel</li></ul>"
-}

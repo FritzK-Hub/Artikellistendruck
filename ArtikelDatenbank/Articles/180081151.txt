@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>zusammenfaltbarer und selbstaufstellbarer Pop-up Gartenabfallsack</li><li>praktisch und platzsparend</li><li>leichte Handhabung, 2 integrierte Tragegriffe</li><li>unverzichtbar für Arbeiten im Garten</li><li>selbststehend durch Verstärkungsring</li></ul>"
-}

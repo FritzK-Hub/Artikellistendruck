@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Wechselschaltung in grau</li><li>aus robustem Kunststoff hergestellt</li><li>für die Aufputz Montage</li><li>zum Unterbrechen von Stromkreisen</li><li>Schraubklemmen sind mit inklusive</li></ul>"
-}

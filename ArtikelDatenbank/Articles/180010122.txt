@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Hornspäne im 2,5 kg Beutel</li><li>Stickstoffdünger auf organischer Basis</li><li>erhöht die biologische Aktivität im Boden</li><li>für Balkon-, Kübelpflanzen und alle Gartenkulturen</li><li>Inhalt ist ausreichend für ca. 50 m²<br/></li></ul>"
-}

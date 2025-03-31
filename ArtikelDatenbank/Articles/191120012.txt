@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>entfernt zuverlässig Verfärbungen des Wassers</li><li>schnelle Beseitigung von Ablagerungen</li><li>im gefüllten und leeren Becken einsetzbar<br/></li><li>einfache Handhabung</li><li>nach dem Einsatz Flockmittel verwenden<br/></li></ul>"
-}

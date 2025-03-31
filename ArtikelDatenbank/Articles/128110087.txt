@@ -1,4 +1,0 @@
-{
-    "uvp": 109.95,
-    "attributes": "<ul><li>robuster Gartensessel aus Holz</li><li>Rückenlehne 5-fach verstellbar</li><li>geöltes Akazienholz</li><li>nachhaltig angebautes Holz</li><li>witterungsbeständiger Hochlehner-Gartenstuhl</li></ul>"
-}

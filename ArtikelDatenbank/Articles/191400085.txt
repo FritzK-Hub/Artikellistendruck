@@ -1,4 +1,0 @@
-{
-    "uvp": 26.95,
-    "attributes": "<ul><li>Fußballtor-Set 3-teilig mit Fußball und Pumpe</li><li>für riesigen Spaß im Garten oder auf Reisen</li><li>Anschlussstücke erleichtern das Zusammenbauen des Tors</li><li>fördert die Koordination und Ausdauer der Kinder</li><li>lässt sich bei Nichtgebrauch platzsparend auseinanderbauen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 44.99,
-    "attributes": "<ul><li>schnelle Installation dank 3/4\" Außengewinde-Anschluss</li><li>für handelsübliche Flach- und Tiefspülbecken geeignet</li><li>automatische 6-Liter-Spülung nach DIN EN 12541</li><li>leichte Hebelbetätigung für einfache Nutzung</li><li>robustes und attraktives verchromtes Design</li></ul><p></p>"
-}

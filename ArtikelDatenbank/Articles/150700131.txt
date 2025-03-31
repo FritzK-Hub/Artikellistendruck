@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>dekorative Geschenktüte mit Hirschmotiv</li><li>aus Filz in Hellgrau gefertigt</li><li>ihre Maße 30 x 15 cm bietet ausreichend Stauraum</li><li>ideal für kleine Geschenke oder Aufmerksamkeiten</li><li>lässt sich auch für Einkäufe verwenden<br/></li></ul>"
-}

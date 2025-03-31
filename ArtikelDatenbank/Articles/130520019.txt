@@ -1,4 +1,0 @@
-{
-    "uvp": 79.99,
-    "attributes": "<ul><li>Staubsauger Zyklon 850 W aus ABS-Kunststoff </li><li>inklusive HEPA Filter, Reinigungsbürste und Düsenaufsatz</li><li>5 Meter langes Kabel mit automatischer Kabelaufwicklung</li><li>360° drehbarer Schlauch</li><li>ist einfach und sauber zu entleeren<br/></li></ul>"
-}

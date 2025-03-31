@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul> <li>Dickschichtlasur für außen</li> <li>für maßhaltige Hölzer wie Fenster und Holztüren</li> <li>bis zu 7 Jahre Langzeitschutz erprobt</li> <li>extrem witterungs- und UV-beständig</li> <li>tropfgehemmt und blockfest</li></ul>"
-}

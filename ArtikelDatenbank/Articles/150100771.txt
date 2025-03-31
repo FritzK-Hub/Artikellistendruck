@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Zuglast bis 2 Tonnen</li><li>E-Zulassung</li><li>M22 Gewinde</li><li>Federring und Sechskantmutter inklusive</li><li>einfache Montage</li><li>langlebig und zuverlässig</li></ul>"
-}

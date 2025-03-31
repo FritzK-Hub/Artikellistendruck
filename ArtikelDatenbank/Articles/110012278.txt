@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>erhöht die Lebensdauer von Schläuchen</li><li>pratisches zweier-Set für die Befestigung von 2 Schlauchenden</li><li>einfache Montage mit einem Schlitzschraubendreher</li><li>hohe Korrosionsbeständigkeit</li><li>Profi-Qualität aus Edelstahl</li></ul><p></p>"
-}

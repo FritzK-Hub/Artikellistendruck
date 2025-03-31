@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Doppelhacke mit 3 Zinken und 1 Blatt in Einem</li><li>aus hochwertigem, verzinktem Stahl gefertigt</li><li>für sämtliche Bodenarbeiten im heimischen Garten </li><li>ideal zum Jäten, Häufeln, Hacken oder Auflockern</li><li>rückendschonende Arbeit dank 140 cm langem Holzstiel<br/></li></ul>"
-}

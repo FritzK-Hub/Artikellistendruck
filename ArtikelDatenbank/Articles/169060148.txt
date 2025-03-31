@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Pattex® Sekundenkleber „Matic flüssig“ schnell-trocknend</li><li>bereits nach ca. 5 - 60 Sekunden haftet der Alleskleber</li><li>füllt Ecken und Spallten und lässt sich präzise dosieren</li><li>ist zudem spülmaschinen- und wasserbeständig</li><li>sehr hohe Anfangshaftung, lösemittelfrei</li></ul>"
-}

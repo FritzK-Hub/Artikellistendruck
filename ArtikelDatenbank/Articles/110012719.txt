@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Wannengriff \"London\" 37,4 cm</li><li>aus verchromtem Metall gefertigt</li><li>bietet sicheren Halt beim Ein- und Aussteigen</li><li>dank der acht Befestigungspunkte besonders belastbar</li><li>inklusive Befestigungsmaterial<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Präzise Einstellung des Bewässerungsbereichs von 20° bis 360°</li><li>Kreisförmige Sprühform für gleichmäßige Wasserverteilung</li><li>Robuster Erdspieß mit Schenkeln für zusätzliche Stabilität</li><li>Maximale Bewässerungsfläche von bis zu 530 m²</li><li>Hergestellt aus Metall für hohe Langlebigkeit</li></ul>"
-}

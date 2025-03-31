@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul> <li>Kabel NYM-J für den Feuchtraum mit 10 m Länge</li><li>Adern und der Mantel sind aus biegsamen PVC gefertigt</li><li>für Verlegung auf, in oder unter Putz, in Mauerwerk geeignet</li><li>sowohl in Trocken- als auch Feuchträumen einsetzbar</li><li>unter Schutz vor direkter Sonneneinstrahlung auch im Freien verwendbar<br/></li></ul>"
-}

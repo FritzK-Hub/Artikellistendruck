@@ -1,4 +1,0 @@
-{
-    "uvp": 34.99,
-    "attributes": "<ul><li>dekorative LED-Lichterkette 17,9 m mit 180 Kugeln</li><li>LED-Beleuchtung ist in bunt erhältlich</li><li>ideal als Partybeleuchtung oder für Sonnenschirme geeignet</li><li>setze Büsche, Pflanzen oder Lauben dekorativ in Szene</li><li>ist für den Innen- als auch Außenbereich einsetzbar<br/></li></ul>"
-}

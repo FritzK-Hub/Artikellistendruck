@@ -1,4 +1,0 @@
-{
-    "uvp": 5.29,
-    "attributes": "<ul><li>Mischdüse mit Gummidichtung</li><li>formt einen weichen Strahl ohne Spritzer</li><li>hygienisches Ersatzteil für Armaturen</li><li>einfaches Auswechseln von verkalkten Mischdüsen</li><li>chemisch und mikrobiologisch geprüft</li></ul>"
-}

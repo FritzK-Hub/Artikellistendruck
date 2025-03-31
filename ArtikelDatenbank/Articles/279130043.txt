@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>hochwertiges Leder</li><li>strapazierfähiges Textilgewebe</li><li>hohe Langlebigkeit und Bewegungsfreiheit</li><li>robuster Schutz und Komfort</li><li>stilvolles Design</li></ul>"
-}

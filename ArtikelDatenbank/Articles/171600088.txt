@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>MEM Gum Dicht passt sich perfekt an verschiedene Untergründe an</li><li>haftet auf verschiedenen Materialien wie Dachpappe, Schiefer, Beton, Fliesen, Kunststoffen und Holz<br/></li><li>sofort wasserdicht - Schützt effektiv vor Schäden durch Wasser</li><li>kann auch auf nassen Untergründen aufgetragen werden</li><li>einfache Anwendung durch Lieferung in Kartusche</li></ul><p></p>"
-}

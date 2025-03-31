@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>praktischer Schwingdeckel</li><li>großzügiges Fassungsvermögen</li><li>langlebiges Material</li><li>vielseitige Nutzung</li><li>modernes Design<br/></li></ul>"
-}

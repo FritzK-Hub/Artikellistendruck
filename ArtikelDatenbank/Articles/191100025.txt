@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li> hohe Stabilität dank 3-Lagen SUPER TOUGH-Material</li><li>extra großes Luftventil</li><li> Anschlussmöglichkeit für Filterpumpe</li><li>einfache und schnelle Montage</li><li>einfache Entleerung über eine Ablassvorrichtung</li></ul>"
-}

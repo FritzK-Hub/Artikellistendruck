@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schraubendreher T20 aus S2 Stahl</li><li>mit magnetischem Kopf, T-Profil und 100 mm Klingenlänge</li><li>einfaches Einsetzen von Schrauben</li><li>Griff rutschfest gummiert für gute Handhabung</li><li>Qualität von GERMANIA® Qualitätswerkzeuge</li></ul>"
-}

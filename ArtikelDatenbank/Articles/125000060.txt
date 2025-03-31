@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>flüssiger Blumendünger 7-3-5 in der 1 Liter Flasche</li><li>ideal für Blüh- und Zierpflanzen für innen oder im Garten</li><li>begünstigt ein gesundes, kräftiges Wachstum der Pflanze</li><li>unterstützt eine langanhaltende Blütenpracht</li><li>verleiht üppiges und gesundes Blattwerk<br/></li></ul>"
-}

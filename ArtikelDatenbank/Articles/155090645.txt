@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>2-aderige Schlauchleitung mit 5 m Länge</li><li>mit PVC-Ummantelung in Weiß und flacher Ausführung</li><li>für den Anschluss von geringen, mechanischen Geräten</li><li>passend für Tischleuchten oder Rundfunkgeräten</li><li>ungeeignet für Heizgeräte oder Elektrowerkzeug<br/></li></ul>"
-}

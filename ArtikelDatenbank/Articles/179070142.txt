@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>handlicher Werkzeugkoffer aus der Titan-Serie</li><li>mit herausnehmbarem Ablagefach im Koffer</li><li>stabile Ausführung mit sicheren Clipverschlüssen</li><li>mit praktischen versenkbaren Griffen und Kantenschutz</li><li>im Deckel integrierte Organizer für Kleinteile</li></ul>"
-}

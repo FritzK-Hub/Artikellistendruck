@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Waschhandschuh 2in1 in blau</li><li>erleichtert die Autopflege</li><li>für empfindliche Glas und Chromflächen</li><li>optimierte Mikrofasern nach Einsatzbereich</li><li>umweltfreundlich<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>klassische Vorhangschlösser in 3 Größen</li><li>aus stabilem Stahl gefertigt</li><li>universal einsetzbar, robust und wetterbeständig</li><li>ideal zur Sicherung von Kellertüren, Spinden, Werkzeugkisten, Koffer usw.</li><li>inklusive 2 Schlüssel je Vorhangschloss<br/></li></ul>"
-}

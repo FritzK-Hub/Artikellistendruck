@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>gebrauchsfertige Fugendichtmasse<br/></li><li>geeignet als Abdichtungsmaterial für viele Untergründe</li><li>besonders für das Abdichten von Anschlussfugen geeignet.<br/></li><li>überstreichbar und gebrauchsfertig<br/></li><li>plastoelastisch und pilzhemmend</li></ul><p></p>"
-}

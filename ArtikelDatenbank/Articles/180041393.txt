@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>GERMANIA® Gartenhacke mit ca. 14,0 cm Arbeitsbreite</li><li>mit angeschliffenem Stahlblatt aus verzinktem Stahl</li><li>zur Bodenauflockerung und zur Entfernung von Unkraut</li><li>Stieldülle mit einem Durchmesser von ca. 2,8 cm</li><li>rückenschonende Arbeit dank 140 cm Holzstiel</li></ul>"
-}

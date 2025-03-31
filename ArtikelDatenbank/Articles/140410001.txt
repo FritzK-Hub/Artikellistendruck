@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>für präzise Modellbau-Arbeiten</li><li>glatte, widerstandsfähige Oberfläche</li><li>leicht zu bearbeiten</li><li>stabil trotz geringer Dicke</li><li>einfach zu bekleben, zu beschichten und zu lackieren</li></ul>"
-}

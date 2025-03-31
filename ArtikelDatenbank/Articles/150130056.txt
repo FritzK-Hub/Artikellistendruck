@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Mehrbereichs-Öl für Otto- und Dieselmotoren</li><li>für moderne Otto- und Dieselmotoren entwickeltes Motorenöl</li><li>auf Basis ausgesuchter HC-Synthese-Grundöle</li><li>erfüllt die Anforderungen der PSA Spezifikation PSA B71 2290</li><li>erfüllt unter anderem die Anforderungen der ACEA C2 Spezifikation</li></ul>"
-}

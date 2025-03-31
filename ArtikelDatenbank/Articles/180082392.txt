@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Rasenkante aus witterungsbeständigem Kunststoff</li><li>zur Begrenzung des Rasens</li><li>dekorative Abgrenzung für Wege und Beete</li><li>einfache Montage, muss nur in den Boden gedrückt werden</li><li>mehrere Beet-Einfassungen lassen sich miteinander verbinden<ul></ul></li></ul>"
-}

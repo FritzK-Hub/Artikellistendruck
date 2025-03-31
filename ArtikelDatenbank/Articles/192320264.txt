@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>setzt Gartenwege oder Gärten gekonnt in Szene</li><li>schafft ein weihnachtliches, entspanntes Ambiente</li><li>als dekoratives Orientierungslicht einsetzbar</li><li>mit einer Timerfunktion von sechs Stunden</li><li>schnell und einfach mit dem Erdspieß aufstellbar<br/></li></ul>"
-}

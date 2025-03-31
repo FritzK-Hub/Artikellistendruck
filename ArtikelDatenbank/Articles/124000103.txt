@@ -1,4 +1,0 @@
-{
-    "uvp": 79.99,
-    "attributes": "<ul><li>smarte Steuerung für effiziente Gartenbewässerung</li><li>zwei Zonen unabhängig programmierbar</li><li>einfache Bedienung per App oder Tasten</li><li>flexible Zeitpläne für automatische Bewässerung</li><li>werkzeugfreie Installation in wenigen Sekunden</li></ul>"
-}

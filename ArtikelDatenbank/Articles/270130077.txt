@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>CRV Tauchsägeblatt für Holz</li><li>zum Sägen in Holz: z.B. Austrennen von Lüftungsgittern</li><li>für Aussschnitte in Möbelstücke: z.B. Aussparungen für Kabel oder Steckdosen</li><li>für bündiges Kürzen von Holzdübeln und Zapfen</li><li>Aufnahme passend für FEIN Multimaster und BOSCH PMF Serie u.v.a.<br/></li></ul>"
-}

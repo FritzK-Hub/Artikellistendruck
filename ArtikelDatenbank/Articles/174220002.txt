@@ -1,4 +1,0 @@
-{
-    "uvp": 20.64,
-    "attributes": "<ul><li>feststehende Saugköpfe</li><li>für gerade Scheiben</li><li>maximale Hebekraft ca. 60kg</li><li>Arbeitslast ca. 30kg</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 47.99,
-    "attributes": "<ul><li>Abflammgerät mit Gasschlauch und Regulierungsventil</li><li>Brennerkopf abschraubbar</li><li>leichte Bedienung durch ergonomischen Handgriff</li><li>mit Sparflammengriff zur Energieeinsparung</li><li>inklusive Stativ, sparsam im Verbrauch</li></ul>"
-}

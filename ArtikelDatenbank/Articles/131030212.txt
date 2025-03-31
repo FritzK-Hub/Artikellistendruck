@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>perfekte Reinigung und Pflege von Glaskeramik-Kochfeldern</li><li>müheloses Entfernen von Fett-, Kalk- und Wasserflecken</li><li>auch für Edelstahlgegenstände, Chrom, Nickel</li><li>für die Behandlung der Laufflächen von Bügeleisen</li><li>für neuen strahlenden Glanz <br/></li></ul>"
-}

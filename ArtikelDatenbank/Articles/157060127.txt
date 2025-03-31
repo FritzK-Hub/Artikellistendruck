@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Pinselreiniger speziell zum Reinigen von Pinseln und Farbrollern</li><li>löst Lacke, Öl, Fett, Wachs und Teer</li><li>auch zum Reinigen von Maschinen und Motoren</li><li>hervorragende Reinigungswirkung</li><li>einfach mit Wasser abspülen</li></ul>"
-}

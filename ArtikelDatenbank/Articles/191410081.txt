@@ -1,4 +1,0 @@
-{
-    "uvp": 249.95,
-    "attributes": "<ul><li>aufblasbares Kajak St. Croix aus stabilem PVC</li><li>eignet sich für Seen und seichte Flüsse</li><li>für bis zu zwei Personen mit einem Gesamtgewicht von 160 kg</li><li>breite Bauart und zwei Sitze sorgen für Stabilität und Komfort</li><li>inklusive Fußpumpe und Kajakpaddel<br/></li></ul>"
-}

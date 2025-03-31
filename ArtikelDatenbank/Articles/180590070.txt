@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>für Motor-Kettensägen, Rasenmäher und Kleingeräte geeignet</li><li>passend für gängige Kraftstoffkanister/Kombikanister bis 10 Liter</li><li>gluckerfreies Ausgießen für problemloses Betanken</li><li>exakte Positionierung bei kleinen Tanköffnungen</li><li>automatischer Füllstopp verhindert Überlaufen</li></ul>"
-}

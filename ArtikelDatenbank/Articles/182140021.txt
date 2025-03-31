@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Fahrradkette 1/2 x 1/8 Zoll</li><li>für Fahrräder mit Nabenschaltung</li><li>auch geeignet für Fahrräder ohne Schaltung</li><li>inkl. wieder verschließbarem Verschlussglied</li><li>Kette mit 112 Glieder</li></ul>"
-}

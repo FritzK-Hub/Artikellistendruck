@@ -1,4 +1,0 @@
-{
-    "uvp": 26.75,
-    "attributes": "<ul><li>wohlige Wärme an kalten Tagen</li><li>einfache Montage auf allen Standardsitzen</li><li>sicher mit Seitenairbags kompatibel</li><li>zwei einstellbare Heiztemperaturstufen</li><li>hochwertiger Textilbezug für langlebigen Komfort</li></ul>"
-}

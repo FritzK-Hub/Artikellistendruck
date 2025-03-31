@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Sicherungsmutter M14 nach DIN 985</li><li>mit einseitig eingebördeltem Klemmring aus Kunststoff</li><li>aus galvanisch verzinktem Stahl gefertigt</li><li>gute Schweißbarkeit</li><li>vielseitig einsetzbar</li></ul>"
-}

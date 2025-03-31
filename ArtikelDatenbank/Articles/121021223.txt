@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Bastelschere mit robusten Klingen</li><li>mit Kunststoff-Komfortgriff für bessere Griffigkeit</li><li>abgerundete Spitze und cm-Skala</li><li>in verschiedenen Farben</li><li>Schere aus rostfreiem Edelstahl<br/></li></ul>"
-}

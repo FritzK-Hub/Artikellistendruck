@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>effiziente Reinigung beidseitiger Gummiriemenantrieb</li><li>komfortable Kehrbreite von 70 cm</li><li>robustes, langlebiges Kunststoffgehäuse</li><li>flexibel einstellbarer Anpressdruck</li><li>hohe Kehrleistung von 2000 m²/h</li></ul>"
-}

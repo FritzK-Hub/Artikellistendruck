@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>PKW Anhänger Beleuchtungsset</li><li>mit extra starkem Haftmagneten</li><li>mit 7-poligem Stecker, inklusive Kabel und 12 Volt Leuchtmittel</li><li>anschlussfertig konfektioniert</li><li>4 Funktionen: Schlusslicht, Bremslicht, Blinker, Kennzeichenbeleuchtung</li></ul><br/>"
-}

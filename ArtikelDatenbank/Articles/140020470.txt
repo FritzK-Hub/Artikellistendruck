@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>hochwertiges Material</li><li>für akkurate Strickprojekte</li><li>vielseitige Anwendbarkeit</li><li>einfache Handhabung</li><li>komfortables Strickerlebnis<br/></li></ul>"
-}

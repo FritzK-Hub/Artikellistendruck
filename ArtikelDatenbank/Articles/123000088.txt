@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>Staketenzaun aus stabilen Holz</li><li>eignet sich zur Umzäunung kleinerer Flächen </li><li>mit dreifach verzinkter Drahtverspannung befestigt</li><li>zuverlässige und umweltfreundliche Holzkonstruktion</li><li>auch als dekorative Kletterhilfe für Klettergewächse einsetzbar<br/></li></ul>"
-}

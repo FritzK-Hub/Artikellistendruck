@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Schlauchverbinder aus Messing</li><li>2 Schlauchtüllen 1\"</li><li>zum Verbinden von zwei 1\" Gartenschläuchen</li><li>Montage mit Schlauchschellen</li></ul>"
-}

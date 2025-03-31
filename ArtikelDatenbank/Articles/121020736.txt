@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>selbstklebendes Warnschild</li><li>mit Beschriftung \"Vorsicht Hund\"</li><li>schwarz-rotes Symbol \"Hund\"</li><li>auf weißem Hintergrund</li></ul>"
-}

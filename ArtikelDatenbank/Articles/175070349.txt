@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>hochwertiger und leistungsstarker Akku</li><li>schnelle und effektive Ladezeiten</li><li>handliche Ausführung</li><li>robust und langlebig</li><li>hergestellt nach höchsten Qualitätsstandards</li></ul>"
-}

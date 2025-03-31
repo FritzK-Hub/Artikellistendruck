@@ -1,4 +1,0 @@
-{
-    "uvp": 317.0,
-    "attributes": "<ul><li>    Gartentor aus Metall    </li><li>für Maschendrahtzaun und Fix-Clip Pro®-Zaun    </li><li>Wellengitter-Einzeltor inklusive Pfosten    </li><li>mit Türdrücker, Profilzylinder und 2 Schlüssel    </li><li>zinkphosphatiert und kunststoffbeschichtet</li></ul>"
-}

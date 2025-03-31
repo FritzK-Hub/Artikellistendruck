@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>einzigartige Blütenform</li><li>vielseitige Verwendung</li><li>lang anhaltende Schönheit</li><li>einfache Pflege</li><li>perfekte Kombinierbarkeit<br/></li></ul>"
-}

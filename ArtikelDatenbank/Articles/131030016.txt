@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Mini-Duftspray Starterset</li><li>verbreitet einen angenehmen Duft</li><li>bis zu 100 Anwendugen pro Kartusche</li><li>entfernt schnell und wirkungsvoll Gerüche</li><li>in vier verschiedenen Sorten verfügbar (Zitrone, Lavendel, Ocean, Orange)</li></ul>"
-}

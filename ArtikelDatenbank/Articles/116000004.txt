@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Seil aus Polypropylen</li><li>Orange mit Reflektionsstreifen</li><li>multifile Kunststoffseil</li><li>Belastbarkeit bis ca. 15 kg</li><li>Nachts gut sichtbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Beistelltisch Rafael rund Ø 45 cm aus Metall</li><li>geeignet für Wohnräume oder Garten</li><li>robustes Metallgestell mit drei Beinen für mehr Stabilität</li><li>große Ablagefläche bietet ausreichend Platz</li><li>auch ideal für Dekorationen oder Pflanzen<br/></li></ul>"
-}

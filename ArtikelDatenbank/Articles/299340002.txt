@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Stuhlwinkel (Winkelverbinder) aus Edelstahl</li><li>mit innen versenkten Löchern</li><li>für die Montage unterschiedlicher Holzkonstruktionen</li><li>für leichte bis mittelschwere Lasten</li><li>Montage durch Anschrauben</li></ul>"
-}

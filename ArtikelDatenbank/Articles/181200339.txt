@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Sommerblumenmischung, für ca. 100 Pflanzen</li><li>sorgt über ganzen Sommer für ein blühendes Beet</li><li>sind viele bekannte Blumenarten für Sträuße enthalten</li><li>verwandle Beete oder Rabatte in ein buntes Spektakel</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

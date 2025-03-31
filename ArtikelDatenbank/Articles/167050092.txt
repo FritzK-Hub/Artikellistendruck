@@ -1,4 +1,0 @@
-{
-    "uvp": 2.89,
-    "attributes": "<ul><li>Absperrkette aus Polyethylen</li><li>glatte, riefen- und angussfreie Oberfläche</li><li>UV-beständig</li><li>Meterware auf Spule</li><li>Länge individuell von 1m bis 30m</li></ul>"
-}

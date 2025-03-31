@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Geschenkband aus Kunstfaser</li><li>Schleifenband in bordeaux</li><li>verschiedene Dekore zur Auswahl</li><li>zur kreativen Gestaltung von Geschenkverpackungen</li><li>für Handarbeiten geeignet</li></ul>"
-}

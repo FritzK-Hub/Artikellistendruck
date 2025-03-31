@@ -1,4 +1,0 @@
-{
-    "uvp": 269.95,
-    "attributes": "<ul><li>Güde® Rangierwagenheber GRH 2,5/460 AL</li><li>für den Einsatz in Werkstätten oder Garagen</li><li>verfügt über eine Tragfähigkeit von 2,5 Tonnen</li><li>leichte Handhabung dank 2 Lenk und 2 Laufrollen</li><li>Ventilsteuerung sichert einen präzisen Arbeitsablauf<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Nasenpflaster im Set 10 Stück</li><li>verbessert Nasenatmung bei Sport, Erkältung und beim Schlafen</li><li>öffnet sanft die Nasenflügel für leichteres Atmen</li><li>reduziert das Schnarchen</li><li>hervorragende alternative zu Nasensprays</li></ul>"
-}

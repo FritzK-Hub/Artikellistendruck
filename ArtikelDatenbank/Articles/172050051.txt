@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schutzkontakt Kupplung in schwarz</li><li>Schutzart IP 20, nicht wassergeschützt</li><li>aus Gummi mit PVC-Einsatz</li><li>mit Knickschutz</li><li>Stecker Kupplung mit zentraler Kabeleinführung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.5,
-    "attributes": "<ul><li>Schaber-Satz 2-teilig</li><li>40 mm breite Klinge</li><li>Klinge auswechselbar</li><li>universell verwendbar</li><li>extra kleine Bauform<br/></li></ul>"
-}

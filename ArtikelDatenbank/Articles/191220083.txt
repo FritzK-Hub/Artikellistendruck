@@ -1,4 +1,0 @@
-{
-    "uvp": 69.99,
-    "attributes": "<ul><li>authentisches Steinofenerlebnis im eigenen Garten</li><li>einfache Handhabung durch Edelstahlgriffe</li><li>integriertes Thermometer zur präzisen Kontrolle</li><li>Pizzastein für perfekten Steinofengeschmack</li><li>verchromter, pflegeleichter Grillrost inklusive</li></ul>"
-}

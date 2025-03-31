@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>hochwertiges Edelstahlmaterial</li><li>sichere Unterstützung</li><li>zeitlose Eleganz</li><li>einfache Installation</li><li>langlebige Konstruktion<br/></li></ul>"
-}

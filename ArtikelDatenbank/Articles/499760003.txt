@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Federringe B-Form aus rostfreiem A2 Edelstahl gefertigt</li><li>auch bekannt als Spaltring, Biegering oder Federscheibe</li><li>gute Sicherung bei leichten bis mittelfesten Schraubverbindungen</li><li>verhindert bei Schraubverbindungen eine ungewollte Auflockerung</li><li>rechteckiger Querschnitt, einseitig aufgeschnitten</li></ul>"
-}

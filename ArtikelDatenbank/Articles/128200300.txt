@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>solarbetriebenes Teelichter-Set 4 Stück</li><li>die moderne Alternative zu echten Teelichtern</li><li>bietet vielseitige Dekorationsmöglichkeiten</li><li>sichere Nutzung da keine offene Flamme</li><li>Teelichter versorgen sich selbstständig mit Strom<br/></li></ul>"
-}

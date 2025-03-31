@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Untersetzer für Balkonkasten mit Bewässerungseinsatz</li><li>aus hochwertigem Kunststoff gefertigt</li><li>sehr robust und bruchsicher</li><li>verhindert das Auslaufen von Wasser</li><li>schützt Fensterbänke vor Beschädigungen<br/></li></ul>"
-}

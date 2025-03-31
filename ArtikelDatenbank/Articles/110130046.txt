@@ -1,4 +1,0 @@
-{
-    "uvp": 12.1,
-    "attributes": "<ul><li>hochwertiger Möbelknopf für lange Lebensdauer</li><li>modernes Design mit nickelmatter Optik</li><li>passend für die meisten Schränke und Schubladen</li><li>einfache Montage dank mitgeliefertem Befestigungsmaterial</li><li>aus massivem Zinkdruckguss gefertigt<br/></li></ul>"
-}

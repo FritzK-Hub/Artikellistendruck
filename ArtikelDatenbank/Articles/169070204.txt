@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>einseitige Bedienung von Innen</li><li>zuverlässiger Schutz vor Diebstahl</li><li>leichte Installation, mit 2 Türzylinderschrauben</li><li>ideal für Garagen und Tore geeignet</li><li>5 Schlüssel sind im Lieferumfang enthalten </li></ul>"
-}

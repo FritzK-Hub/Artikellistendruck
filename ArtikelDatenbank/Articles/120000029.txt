@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Gärtnererde im 40-Liter-Sack für Balkon, Terrasse und Garten</li><li>gebrauchsfertig zum Töpfern und Umtopfen</li><li>mit Strukturton für gute Wurzelbildung</li><li>Langzeitdünger für kräftiges Wachstum</li><li>fördert die biologische Aktivität und Fruchtbarkeit des Bodens<br/></li></ul>"
-}

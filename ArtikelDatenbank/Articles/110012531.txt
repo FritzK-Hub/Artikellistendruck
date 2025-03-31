@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Gelenkstück aus Kupfer-Zinklegierung mit 1/2“ Anschluss</li><li>geeignet für handelsübliche Handbrausen</li><li>lässt sich leicht an der Brausestange befestigen</li><li>beweglicher Arm zwischen Handbrause und Brauseschlauch</li><li>inklusive zwei Dichtungsringen<br/></li></ul>"
-}

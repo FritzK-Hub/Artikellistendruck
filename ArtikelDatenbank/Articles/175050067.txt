@@ -1,4 +1,0 @@
-{
-    "uvp": 4.95,
-    "attributes": "<ul><li>schraubbarer Ventilstecker</li><li>mit 6mm Schlauchtülle</li><li>passend für Reifenfüller und Reifenventile PKW, Traktor, LKW</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>HTEM-Abwasserrohr für Verlegung in Gebäuden</li><li>mit Steckmuffe für einfache Verarbeitung        </li><li>geprüft nach DIN EN 1451-1</li><li>DN 75 mit 2000 mm Länge</li><li>integrierte Dichtung</li></ul>"
-}

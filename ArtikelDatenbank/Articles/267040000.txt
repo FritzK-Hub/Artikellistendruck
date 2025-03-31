@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>extrem reißfeste und robuste Baufolie</li><li>zum Abdecken von Baumaterialien wie Steine, Zement oder Sand</li><li>kann mehrmalig verwendet werden</li><li>ein Multitalent für Haus, Hof und Garten</li><li>auch als schützende Unterlage einsetzbar</li></ul>"
-}

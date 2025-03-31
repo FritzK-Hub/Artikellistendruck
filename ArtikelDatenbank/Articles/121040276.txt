@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>besonders langlebig dank hochwertiger Qualität</li><li>Vielseitigkeit für verschiedene Malstile und -techniken</li><li>elegantes Design für verbessertes Malerlebnis</li><li>praktische Aufbewahrung und einfacher Transport</li><li>für Anfänger und Fortgeschrittene geeignet<br/></li></ul>"
-}

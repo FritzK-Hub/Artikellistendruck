@@ -1,4 +1,0 @@
-{
-    "uvp": 12.45,
-    "attributes": "<ul><li>für Innen- und Außenbereich</li><li>geflochten</li><li>stabil und robust</li><li>universell einsetzbar</li><li>Widerstandsfähig</li><li>Witterungsbeständig</li><li>Ideal z.B. als:<ul><li>Abspannleine</li><li>Zeltleine</li><li>Wäscheleine</li><li>Bootssicherung</li></ul></li></ul>"
-}

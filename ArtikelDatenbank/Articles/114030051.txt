@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>6 Stück Herzballons</li><li>in der Farbe rot</li><li>schöne Valentinstags- und Hochzeitsdekoration</li><li>lassen sich leicht mit einer Ballonpumpe aufblasen</li><li>hochwertiges Material</li></ul>"
-}

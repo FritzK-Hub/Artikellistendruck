@@ -1,4 +1,0 @@
-{
-    "uvp": 35.95,
-    "attributes": "<ul><li>Fahrradständer 24 - 28 Zoll</li><li>besonders für E-Bikes und Oversize-Rahmen geeignet</li><li>mit rutschfestem Gummifuß</li><li>durch beigefügte Gegenplatte universell verwendbar</li><li>höhenverstellbarer Zweibeinständer</li></ul>"
-}

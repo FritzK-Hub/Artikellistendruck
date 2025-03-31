@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>perfekte, kompakte Passform für Sofa oder Sessel mit breiterer Armlehne</li><li>strapazierfähiges Non-Woven Vlies Material schafft robuste Langlebigkeit</li><li>sofort einsatzbereit durch einfaches Über-die-Lehne-Legen</li><li>vielseitig einsetzbar mit Staufächern und Tablettauflage</li></ul><p></p>"
-}

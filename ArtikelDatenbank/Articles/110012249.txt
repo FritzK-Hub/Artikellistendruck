@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Eckfix-Ventil mit stylischem Designgriff</li><li>einfacher Längenausgleich in 10 mm Ø Quetschverschraubung</li><li>Geräteanschluss: 3/4\" via Schlauchverschraubung</li><li>Montage an vorhandenem 3/8\" Eckventil</li><li>langlebiges Pressmessing für Qualität<br/></li></ul>"
-}

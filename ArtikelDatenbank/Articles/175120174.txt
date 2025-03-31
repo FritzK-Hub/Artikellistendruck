@@ -1,4 +1,0 @@
-{
-    "uvp": 15.79,
-    "attributes": "<ul><li>qualitativ hochwertiges Hartlot von CFH</li><li>im Einzelpack, 33cm lang mit 1,5mm Durchmesser<br/></li><li>zur Verarbeitung von Kupfer, Kupferlegierungen und Stähle<br/></li><li>geeignet für die Gas-Wasserinstallation im Trinkwasserbereich</li><li>verbindet durch Spalt- und Fugenlöten bei 670°C Arbeitstemperatur</li></ul><p></p>"
-}

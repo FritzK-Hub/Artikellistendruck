@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>ökologischer Feueranzünder aus ausschließlich reinen Naturprodukten</li><li>Feueranzünder aus Holzwolle und Wachs</li><li>geruchslos, verbrennt ohne jeglichen Rückstand</li><li>Kaminanzünder ohne schädliche Ruß-Entwicklung</li><li>trocknen auch bei längerer Lagerung nicht aus</li></ul>"
-}

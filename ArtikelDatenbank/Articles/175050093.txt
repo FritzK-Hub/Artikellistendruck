@@ -1,4 +1,0 @@
-{
-    "uvp": 5.95,
-    "attributes": "<ul><li>Betriebsdruck: max. 12 bar</li><li>Material Pistole: Aluminium Druckguss</li><li>kurze Düse aus Metall</li><li>montiertes Stecknippel</li></ul>"
-}

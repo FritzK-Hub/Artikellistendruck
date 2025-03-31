@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>batteriebetriebenes LED-Fahrradlicht</li><li>extrem spritzwassergeschützt</li><li>2-fach verstellbare Leuchtkraft</li><li>Lenkerhalter mit Schnellbefestigung</li><li>inkl. Batterieindikator</li></ul>"
-}

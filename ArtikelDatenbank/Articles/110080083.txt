@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>20 Liter Eimer für verschiedene Einsatzgebiete</li><li>aus zäh-elastischem Kunststoff</li><li>massiver, integrierter Metallhenkel</li><li>integrierte Ausgusstülle</li><li>bruchfest</li></ul>"
-}

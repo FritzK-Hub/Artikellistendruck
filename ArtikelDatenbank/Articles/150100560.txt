@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>handlich, robust und einfache Bedienung</li><li>auch angekuppelt verschließbar</li><li>ideal für Wohnwagen und Anhänger</li><li>mit abgeschrägten Ecken als Stoßstangenschutz</li><li>inklusive Schloss 70mm mit 3 Schlüsseln</li></ul>"
-}

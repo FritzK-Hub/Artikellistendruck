@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Original Pritt Klebestift 22 g</li><li>ideal für Bastelarbeiten mit z.B. Papier, Pappe, Fotos </li><li>lösemittelfrei und kalt auswaschbar</li><li>können über mehrere Jahre verwendet werden</li><li>sicher und geeignet für Kinder</li></ul>"
-}

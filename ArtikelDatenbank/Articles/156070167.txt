@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>hochwertiger, saugfähiger und tropfarmer Mikrofaserbezug</li><li>für alle Holzschutzmittel und dünne Lackschichten geeignet</li><li>verstellbarer Plüschring für rationelles Streichen</li><li>hohe Deckkraft und effizienter Anstrich</li><li>für glatte und leicht strukturierte Untergründe<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 20.29,
-    "attributes": "<ul><li>zeitloses Design für jedes Zuhause</li><li>große Ziffern ermöglichen einfache Lesbarkeit</li><li>präzise Zeitangabe dank Quarz-Technologie</li><li>perfekte Größe für jedes Zimmer</li><li>unkomplizierte Wandmontage</li></ul>"
-}

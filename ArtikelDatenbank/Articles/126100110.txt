@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>leistungsstarke GERMANIA® Heckenschere mit 20 V</li><li>die Dual-Action-Klinge liefert optimale Schnittergebnisse</li><li>ideal für die Hecken- und Strauchpflege geeignet</li><li>Rundum-Frontgriff erleichtert das waagerechte und senkrechte Schneiden</li><li>2-Hand-Sicherheitsschalter und Softgriff für angenehmen Komfort</li></ul>"
-}

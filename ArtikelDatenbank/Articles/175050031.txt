@@ -1,4 +1,0 @@
-{
-    "uvp": 259.47,
-    "attributes": "<ul><li>handlich und vielseitig einsetzbar</li><li>verschiedenes Zubehör für jede Aufgabe</li><li>garantiert einfaches Lösen und Festziehen von Schrauben</li><li>Betriebsdruck zwischen 6-8 Bar für hohe Leistung </li><li>robuste Bauweise und hochwertige Verarbeitung für eine lange Lebensdauer</li></ul>"
-}

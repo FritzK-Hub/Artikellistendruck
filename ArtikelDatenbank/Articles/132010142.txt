@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Kunststoffmaus mit Sisalschnur umwickelt</li><li>passendes Spielzeug zum Herumhüpfen</li><li>in verschiedenen Farben erhältlich</li><li>weckt dem Jagdtrieb deiner Katze</li><li>fördert den natürlichen Spieltrieb des Tieres<br/></li></ul>"
-}

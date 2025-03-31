@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Knotenkette</li><li>aus verzinktem Stahl</li><li>Meterware auf Spule</li><li>Länge individuell von 1m bis 80m</li></ul>"
-}

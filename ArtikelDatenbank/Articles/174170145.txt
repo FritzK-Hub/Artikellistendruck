@@ -1,4 +1,0 @@
-{
-    "uvp": 11.79,
-    "attributes": "<ul><li>Metallführung</li><li>automatisches Klingenspender-System</li><li>mit Stellrad</li><li>mit 2-K Softgriff</li><li>zum Öffnen von Kartons, Schneiden von Papier und Tapeten und zum Trennen von Bastelmaterial</li></ul>"
-}

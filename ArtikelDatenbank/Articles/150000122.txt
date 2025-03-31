@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>effektiv gegen hartnäckige Flecken</li><li>für weiße und farbechte Textilien</li><li>einfache Anwendung durch Sprayflasche</li><li>erspart manuelle Vorwäsche</li><li>praktische 500 ml Vorratsgröße</li></ul>"
-}

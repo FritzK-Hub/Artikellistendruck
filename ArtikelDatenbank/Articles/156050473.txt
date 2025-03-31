@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>dekorative Wandrosette in Weiß</li><li>ermöglicht Dreidimensionalität in Wohnräumen</li><li>hergestellt aus hochwertigem Polystyrol</li><li>besonders einfache Montage</li><li>überstreichbar, dank hochqualitativer Grundierung<br/></li></ul>"
-}

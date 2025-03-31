@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>zum Aufhängen von Bilderrahmen und Dekorationen</li><li>besonders robust, aus Metall vermessingt</li><li>gestalte deine Wohnräume mit Charakter und Stil</li><li>lassen sich leicht mit dem Hammer einschlagen</li><li>mitgelieferte Stifte erleichtern die Wandmontage<br/></li></ul>"
-}

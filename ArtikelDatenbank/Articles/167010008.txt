@@ -1,4 +1,0 @@
-{
-    "uvp": 16.91,
-    "attributes": "<ul><li>Seillänge: 20 m</li><li>sechsfache Umlenkung</li><li>maximale Hebehöhe: 3 m</li><li>maximales Hebegewicht: 180 kg<br/> </li></ul>"
-}

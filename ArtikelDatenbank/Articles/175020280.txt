@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Umfangreiches Feinwerkzeug-Set für Minischleifer</li><li>geeignet zum Fräsen, Polieren, Trennen, Bürsten und Schleifen</li><li>geeignet für unser GERMANIA® Compacttool</li><li>in einer praktischen Aufbewahrungsbox</li><li>vielseitig einsetzbar<br/></li></ul>"
-}

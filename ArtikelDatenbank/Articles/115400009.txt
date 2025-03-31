@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>eintürige Werkbank aus Metall</li><li>mit massiver Arbeitsplatte</li><li>integrierte Schublade für Kleinteile</li><li>ein Schrank ist verschließbar</li><li>stabiles Tischgestell pulverbeschichtet</li></ul>"
-}

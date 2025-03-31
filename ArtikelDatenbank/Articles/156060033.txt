@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Reibebrett aus Kunststoff mit Schwammgummibelag</li><li>zum Glätten von Putz und Estrich</li><li>für eine größere Festigkeit</li><li>sorgt für glatte, gleichmäßige Obeflächen</li><li>leicht, einfach zu reinigen</li></ul>"
-}

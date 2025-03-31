@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>Flickbox für Fahrradreifen</li><li>für die Reparatur von Fahrradschläuchen</li><li>auch für Artikel aus Weich-PVC, Gewebe und Kunstleder</li><li>inklusive Vulkanisierlösung und PVC Flicken</li><li>Reparaturset in praktischer Hartbox</li></ul>"
-}

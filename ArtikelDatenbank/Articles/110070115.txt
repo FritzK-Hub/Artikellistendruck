@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Schaufelblatt aus Metall</li><li>Schaufel mit Holzgriff </li><li>aus stabilem Metall</li><li>ideal als hilfreiches Zubehör für deinen Holzkamin</li><li>stabile Ausführung<br/></li></ul>"
-}

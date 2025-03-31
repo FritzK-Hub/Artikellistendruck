@@ -1,4 +1,0 @@
-{
-    "uvp": 4.76,
-    "attributes": "<ul><li>Dachrinnenhalter für Kastendachrinnen NW 70</li><li>fixiert die Dachrinne sicher an Dach oder Fassade</li><li>verstellbar in der Neigung um 25°</li><li>aus stabilem Kunststoff</li><li>witterungs- und UV-beständig</li></ul>"
-}

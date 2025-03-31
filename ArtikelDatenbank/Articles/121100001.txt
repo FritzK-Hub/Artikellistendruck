@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Blumentopf aus Kunststoff mit 3 vorgestanzten Abflusslöcher</li><li>zum Befestigen an allen gängigen Regenfallrohren</li><li>universell einstellbares Kunststoffband</li><li>einfach Montage ohne Werkzeug</li><li>UV-beständig und stabil<br/><br/></li></ul>"
-}

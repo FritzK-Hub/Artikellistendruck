@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Gartenrechen aus stabilem Stahl mit 16 Zinken</li><li>zum Feinkrümeln der Erde oder Ebnen des Bodens</li><li>ideal zum Entfernen von Moos auf Rasenflächen</li><li>sichere Stielverbindung durch eine 28 mm Stieldülle </li><li>unverzichtbares Werkzeug bei der Rasenpflege<br/></li></ul>"
-}

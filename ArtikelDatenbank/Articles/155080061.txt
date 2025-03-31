@@ -1,4 +1,0 @@
-{
-    "uvp": 129.0,
-    "attributes": "<ul><li>Edelstahlbrenner komplett mit Schlauch (1,5 m)</li><li>mit Druckminderer und Piezozündung ausgestattet</li><li>lässt sich mit Propan- oder Butangas betreiben</li><li>zum Heizen in der Bauindustrie oder Lagerräumen</li><li>stabiler Tragegriff für leichteren Transport</li></ul>"
-}

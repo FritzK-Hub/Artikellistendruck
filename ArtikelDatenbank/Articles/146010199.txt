@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>3-Loch Planenhaken Set 5 Stück</li><li>aus stabilem, verzinktem Metall gefertigt</li><li>zur Halterung von Anhängernetzen</li><li>als Führung von Expanderseilen an Hängern einsetzbar</li><li>lässt sich auch als normalen Wandhaken verwenden<br/></li></ul>"
-}

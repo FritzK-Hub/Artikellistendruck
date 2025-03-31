@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Fettlöser in praktischer Pumpsprühflasche</li><li>löst Fett und Schmutz schnell und mühelos</li><li>reinigt strahlend sauber und schont die Oberfläche</li><li>für fast alle glatten Oberflächen</li><li>nicht für geölte, gewachste, gemalte und lackierte Oberflächen geeignet<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.79,
-    "attributes": "<ul><li>ermöglicht die Verbindung von Bewässerungsgeräten mit Innengewinde</li><li>hergestellt aus strapazierfähigem Kunststoff</li><li>passt zu Bewässerungsgeräten mit 3/4\" (26,5 mm) Innengewinde</li><li>bietet eine einfache und sichere Verbindung</li><li>optimale Bewässerung von Pflanzen und Rasenflächen<br/></li></ul>"
-}

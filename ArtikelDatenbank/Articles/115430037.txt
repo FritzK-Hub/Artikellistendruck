@@ -1,4 +1,0 @@
-{
-    "uvp": 699.0,
-    "attributes": "<ul><li>qualitativ hochwertige Ausführung für den Werkstatteinsatz</li><li>7 kugelgelagerte Schubladen, 100% ausziehbar</li><li>geeignet für den harten Werkstatt-Einsatz im Dauerbetrieb</li><li>bestückt mit 70 hochwertigen Werkzeugen</li><li>Arbeitsplatte mit einer Belastbarkeit von ca. 450 kg</li></ul>"
-}

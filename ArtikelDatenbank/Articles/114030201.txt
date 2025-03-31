@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Luftschlangen in Bayrisch Blau</li><li>3 Rollen á 18 Stück</li><li>die ideale Dekoration für dein nächstes \"Oktoberfest\"</li><li>Partyzubehör für Geburtstagsfeiern im bayrischen Stil</li><li>wertet jedes bayrische Fest auf</li></ul>"
-}

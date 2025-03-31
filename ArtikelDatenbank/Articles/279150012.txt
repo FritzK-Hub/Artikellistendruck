@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Magnetschale aus rostfreiem Edelstahl</li><li>Neodym-Magnet mit starker Anziehungskraft</li><li>ideal für Schrauben und Kleinteile aus Metall</li><li>kann an jeder magnetischen Oberfläche angebracht werden</li><li>mit gummiertem Unterboden</li></ul>"
-}

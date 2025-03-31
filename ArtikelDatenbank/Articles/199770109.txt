@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Senkschrauben nach DIN 965</li><li>mit Kreuzschlitz-Antrieb</li><li>aus verzinktem Stahl </li><li>mit metrischem Gewinde<br/></li><li>für die flächenbündige Montage</li></ul>"
-}

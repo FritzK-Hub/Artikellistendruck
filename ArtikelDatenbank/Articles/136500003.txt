@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Schleifvlies mit K120 Körnung besonders praktisch bei Unebenen Flächen</li><li>ideal für den Zwischenschliff bei Lackierarbeiten<br/></li><li>für Arbeiten an Kfz, Motorrad, Boot usw.</li><li>zur Bearbeitung von Holz und Metall</li><li>praktische Abmessung und flexibel</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Wasserwaage mit magnetischem Boden</li><li>UV-Beständig und stoßfest</li><li>mit Horizontal-, Vertikal- und Diagonallibelle</li><li>Enden mit Gummikappen</li><li>aus leichtem Aluminium</li></ul>"
-}

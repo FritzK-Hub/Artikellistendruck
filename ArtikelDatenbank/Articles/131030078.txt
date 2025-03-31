@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Universal Kraftreiniger in praktischer Sprühflasche</li><li>reinigt Glas und glatte Oberflächen</li><li>reinigt gründlich und schonend</li><li>müheloses Entfernen von hartnäckigen Rückständen </li><li>vielseitig einsetzbar<br/></li></ul>"
-}

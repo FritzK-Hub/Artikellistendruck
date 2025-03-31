@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>ermöglicht eine zuverlässige Abdichtung und minimiert somit das Risiko von Leckagen oder unerwünschten Flüssigkeitsverlusten</li><li>ideal für den Hauswirtschaftsraum, Keller und die Absperrung des Aussenanschlusses deines Gartens über die Winterzeit</li><li>besonders kompakt, benötigt nur wenig Raum und eignet sich daher ideal für Wandnahe Rohrleitungen</li><li>ermöglicht eine einfache präzise Regulierung des Flüssigkeitsflusses</li><li>beidseitig mit ¾\" Innengewinde für einfache Schraubmontage</li></ul>"
-}

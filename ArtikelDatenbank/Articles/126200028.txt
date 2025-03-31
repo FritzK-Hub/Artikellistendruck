@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Regenfass- Tauchpumpe GFP 5201 von Güde</li><li>das Gehäuse ist aus schlagfestem Kunststoff gefertigt</li><li>zur Gartenbewässerung aus Regenfässern oder im Gartenbereich</li><li>zum Einhängen am Wasserfass oder ähnlichen Behältnissen geeignet</li><li>mit variabel einstellbarem Schwimmerschalter<br/></li></ul>"
-}

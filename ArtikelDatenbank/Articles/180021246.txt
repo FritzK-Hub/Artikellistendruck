@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>klassische Regentonne 210 Liter in Grün</li><li>mit Deckel und Auslaufhahn</li><li>einfache Lösung zum Sammeln von Regenwasser</li><li>spart Kosten und kostbares Trinkwasser</li><li>Regenfass für eine günstige und effiziente Bewässerung des Gartens</li></ul>"
-}

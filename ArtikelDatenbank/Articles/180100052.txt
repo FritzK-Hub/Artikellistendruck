@@ -1,4 +1,0 @@
-{
-    "uvp": 51.39,
-    "attributes": "<ul><li>LIQUI MOLY Motorenöl Leichtlauf 10W-40 für Benzin- und Dieselmotoren</li><li>gut geeignet für Turbomotoren und Fahrzeuge ohne Rußpartikelfilter</li><li>senkt den Kraftstoffverbrauch und reduziert den Schadstoffausstoß</li><li>leichter Motorlauf und optimale Motorleistung</li><li>basierend auf HC-Syntheseölen<br/></li></ul>"
-}

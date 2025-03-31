@@ -1,4 +1,0 @@
-{
-    "uvp": 34.29,
-    "attributes": "<ul><li>Steckschlüssel-Einsatz 1\"</li><li>mit Vierkant-Aufnahme</li><li>Sechskant-Profil<br/></li><li>für Handbetätigung geeignet</li><li>kurze Bauweise</li></ul><p><br/></p>"
-}

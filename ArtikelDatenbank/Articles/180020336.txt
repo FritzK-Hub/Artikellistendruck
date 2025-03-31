@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Anschluß-Set für Gartenschläuche mit 1/2''</li><li>zur Verbindung von Schlauchwagen und Wasserhahn</li><li>frei von Cadmium und Barium</li><li>komplett mit Anschlusskupplungen (Durchlauf und Stop)</li><li>vierschichtiger, UV- beständiger Schlauch<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Bohnenkraut einjähriges Blatt für ca. 4 - 5 laufende Meter)</li><li>ist würzig und aromatisch im Geschmack</li><li>bestens zum Einlegen von Gurken geeignet</li><li>Folgesaaten sind noch im Juli möglich</li><li>bevorzugt leichten, lockeren, humusreichen Boden</li></ul>"
-}

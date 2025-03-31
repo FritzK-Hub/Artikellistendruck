@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>dekoratives Windlicht für die Winterzeit</li><li>in verschiedenen Tiermotiven und Farben<br/></li><li>schafft eine weihnachtliche Atmosphäre</li><li>vielseitig einsetzbare Innendekoration</li><li>für LED und normale Teelichter geeignet<br/></li></ul>"
-}

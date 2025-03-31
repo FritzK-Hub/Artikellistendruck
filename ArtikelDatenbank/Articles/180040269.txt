@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Axtstiel von GERMANIA®</li><li>für 1,6 kg Axtköpfe</li><li>aus massiven Eschenholz</li><li>Ersatz-Axtstiel in Kuhfußform</li><li>mit einem Gewicht von ca. 700 g</li></ul>"
-}

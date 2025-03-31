@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Karabiner verzinkt 6 x 60 mm</li><li>belastbar bis 120 kg</li><li>nach DIN 5299</li><li>birnenförmig (C-Form)</li><li>auch Feuerwehr Karabinerhaken genannt</li></ul>"
-}

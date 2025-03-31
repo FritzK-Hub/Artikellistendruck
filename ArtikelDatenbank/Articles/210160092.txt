@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>gebogener Türgriff</li><li>mattsatin Ausführung</li><li>für einen Lochabstand von ca. 6,5 cm</li><li>für eine Türstärke von max. 20 mm</li><li>Gesamtlänge 7,4 cm<br/><br/></li></ul>"
-}

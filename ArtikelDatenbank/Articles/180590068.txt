@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>universelle Auto Gummimatten-Set Spartakus 4-teilig</li><li>für alle gängigen Fahrzeuge geeignet</li><li>schützt vor Schmutz, Wasser und Abnutzung</li><li>besitzt rutschhemmende Spikes auf der Rückseite</li><li>die Passform lässt sich je nach Bedarf zuschneiden<br/></li></ul>"
-}

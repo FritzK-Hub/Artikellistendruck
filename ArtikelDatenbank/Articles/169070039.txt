@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Pattex® Kraftkleber \"Kontakt Classic\" auf Basis der FlexTex-Technologie</li><li>hohe Haftkraft wie Scher- und Temperaturfestigkeit</li><li>ohne Lösungsmittel</li><li>starke Anfangsfestigkeit der Klebung</li><li>für unmittelbare maschinelle Weiterbearbeitung</li></ul>"
-}

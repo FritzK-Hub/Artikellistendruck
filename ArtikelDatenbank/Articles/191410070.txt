@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Wassersprinkler zum Durchlaufen ab 2 Jahren</li><li>mehr Stabilität dank Standfuß</li><li>aus strapazierfähigem PVC gefertigt</li><li>einfacher Anschluss an einen Gartenschlauch</li><li>mit integrierten Ablass- und Sicherheitsventilen<br/></li></ul>"
-}

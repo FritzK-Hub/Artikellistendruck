@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>kompakter, leichter Elektro-Gehölzschneider mit 230 V</li><li>zum Entasten, Stutzen von Büschen und Sträuchern</li><li>kleiner handlicher Problemlöser bei der Baumpflege</li><li>15 cm Schnittstärke auch für dickere Äste geeignet</li><li>effizientes Arbeiten mit Schnittgeschwindigkeiten bis 7,1 m/s<br/></li></ul>"
-}

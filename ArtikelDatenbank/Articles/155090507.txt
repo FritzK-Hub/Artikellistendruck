@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>hochwertiger Scart-Verbinder</li><li>passend für Kabel mit Scart-Stecker</li><li>aus Kunststoff, gerade</li><li>für die Verbindung/Verlängerung von Scartkabel</li><li>leichte Handhabung<br/></li></ul>"
-}

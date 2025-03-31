@@ -1,4 +1,0 @@
-{
-    "uvp": 219.95,
-    "attributes": "<ul><li>Güde® Rangierwagenheber GRH 2,5/510L</li><li>für den Einsatz in Werkstätten oder Garagen</li><li>mit schmaler Konstruktion und 2,5 Tonnen Tragfähigkeit<br/></li><li>ideal für tiefergelegte Fahrzeuge geeignet</li><li>leichte Handhabung dank 2 Lenk und 2 Laufrollen<br/></li></ul>"
-}

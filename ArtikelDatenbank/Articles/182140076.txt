@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Maxi Fahrradglocke komplett mit Befestigungsmaterial</li><li>für mehr Sicherheit im Straßenverkehr</li><li>Lenkerklingel im Sonnenblumendekor</li><li>Zweiton-Glocke</li><li>Glocke im Retrolook</li></ul>"
-}

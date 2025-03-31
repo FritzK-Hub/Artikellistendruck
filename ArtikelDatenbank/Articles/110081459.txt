@@ -1,4 +1,0 @@
-{
-    "uvp": 1.89,
-    "attributes": "<ul><li>Rollladengurt aus Polypropylen</li><li>multifil (Endlosgarn), UV-beständig</li><li>für Rollläden und Jalousien</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1 m bis 50 m</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>Regentonne Smooth mit Deckel</li><li>aus schlagfestem Kunststoff gefertigt</li><li>spart Kosten und kostbares Trinkwasser </li><li>einfache Lösung zum Sammeln von Regenwasser</li><li>perfekt für eine günstige und effiziente Bewässerung des Gartens</li></ul><p></p>"
-}

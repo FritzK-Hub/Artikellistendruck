@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>5-teiliges Universalroller-Set</li><li>Schaumwalze für lösemittelhaltige Lacke</li><li>Flockwalze für wasserlösliche Acryl-Lacke</li><li>Microfaserwalze für Lasuren und dünnflüssige Materialien</li><li>Polyacrylwalze für Dispersions-, Latex- und Fassadenfarben</li></ul>"
-}

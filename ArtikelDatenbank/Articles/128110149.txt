@@ -1,4 +1,0 @@
-{
-    "uvp": 199.95,
-    "attributes": "<ul><li>2-Sitzer Gartenbank aus pulverbeschichtetem Eisen</li><li>Rückenfläche mit stilvoller Mosaik-Verzierung in verschiedenen Grautönen</li><li>Sitzfläche mit klassischem Kreuzmuster-Design</li><li>stilvoll und robust für deinen Außenbereich</li><li>inklusive bequemem Sitzpolster in grau<br/></li></ul>"
-}

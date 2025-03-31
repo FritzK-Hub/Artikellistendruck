@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Unkrautstecher von FISKARS® mit Alurohrstiel</li><li>Greifarme umschließen das Unkraut von drei Seiten</li><li>rückenschonendes Arbeiten, ohne sich selbst die Hände schmutzig zu machen</li><li>leichte Reinigung des Produktes und einfache Ausführung</li><li>das Trittpedal sorgt für mehr Stabilität bei der Unkrautvernichtung<br/></li></ul>"
-}

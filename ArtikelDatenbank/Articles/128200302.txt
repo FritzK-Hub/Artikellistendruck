@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Solarfackel mit authentischer LED-Flamme für romantische Atmosphäre</li><li>kinder- und haustierfreundlich als sichere Alternative</li><li>langlebiges Polypropylen bietet zuverlässige Outdoor-Nutzung</li><li>unkomplizierte Platzierung mit mitgeliefertem Bodenstecker</li><li>umweltfreundlich dank Solarbetrieb für nachhaltiges Vergnügen</li></ul>"
-}

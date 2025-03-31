@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Ringschraube mit Holzgewinde</li><li>zur Befestigung von Gerüsten</li><li>aus verzinktem Stahl</li><li>passend für Bohrergröße 11 mm</li><li>Gerüstöse mit Teilgewinde zur Befestigung in Beton </li></ul>"
-}

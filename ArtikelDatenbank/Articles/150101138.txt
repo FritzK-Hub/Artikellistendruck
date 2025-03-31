@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Dachrinnenreiniger in Grün mit Teleskopstiel</li><li>aus stabilem Kunststoff gefertigt</li><li>Dachrinnenbesen teleskopierbar von 129 bis 240 cm</li><li>mit praktischen Gelenkadapter</li><li>perfekt zur Reinigung deiner Dachrinne am Haus<br/></li></ul>"
-}

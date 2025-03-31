@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Klebefilm transparent</li><li>Set mit 5 Klebefilmen</li><li>einfaches Abreißen durch Abroller oder per Hand</li><li>Größe 18 mm x 33 m</li><li>ideal für Haushalt, Schule und Büro<br/></li></ul>"
-}

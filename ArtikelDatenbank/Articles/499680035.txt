@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>aus robustem und korrosionsbeständigem A2-Edelstahl gefertigt</li><li>sichere Verbindung durch Vierkantansatz </li><li>das Vollgewinde sorgt für einen starken Halt und eine feste Verbindung</li><li>breites Anwendungsspektrum, für verschiedene Anwendungen</li><li>ideal für den Einsatz in anspruchsvollen Umgebungen wo Korrosion ein Problem darstellt</li></ul>"
-}

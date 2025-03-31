@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Fahrradreifen 20 x 1,75 Zoll aus Nylon</li><li>für 20\" Mountainbikes</li><li>schneller und einfacher Wechsel</li><li>passend für Felgen 17-27 mm</li><li>auch für 47 bis 54-559</li></ul>"
-}

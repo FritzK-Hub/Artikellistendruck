@@ -1,4 +1,0 @@
-{
-    "uvp": 20.99,
-    "attributes": "<ul><li>Hightech-Leichtlaufmotoröl mit Synthesetechnologie</li><li>optimaler Schutz bei Verwendung von E10-Kraftstoff</li><li>reduziert Verbrauch und Betriebskosten</li><li>hervorragender Kaltstart und Motoreffizienz</li><li>längere Ölwechselintervalle für weniger Wartung</li></ul>"
-}

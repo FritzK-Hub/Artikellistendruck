@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>Heftklammern für Güde-Druckluftnagler</li><li>aus verzinktem Stahl</li></ul>"
-}

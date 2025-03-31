@@ -1,4 +1,0 @@
-{
-    "uvp": 117.95,
-    "attributes": "<ul><li>leichte und komfortable Gartenliege</li><li>hochwertig verarbeitet und wetterfest</li><li>mit stabilem Aluminiumgestell</li><li>Bespannung aus Textilgewebe</li><li>hervorragenden Liegekomfort<br/></li></ul>"
-}

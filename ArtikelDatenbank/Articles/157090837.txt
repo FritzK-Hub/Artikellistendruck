@@ -1,4 +1,0 @@
-{
-    "uvp": 21.12,
-    "attributes": "<ul><li>passend für nach außen gerichtete Dachecken</li><li>für zuverlässige Dachentwässerung</li><li>mit Nocke-Nut-System für sicheren Halt</li><li>kein Verrutschen oder Verformen<br/></li><li>aus stabilem Kunststoff</li></ul>"
-}

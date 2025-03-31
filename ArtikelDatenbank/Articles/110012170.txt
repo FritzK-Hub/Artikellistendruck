@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>passend für viele Dichtungsaufgaben in verschiedenen Größen<br/></li><li>geeignet für den Einsatz in Haushalt und Industrie</li><li>hochwertiger Gummi für zuverlässige Abdichtung</li><li>einfache Installation dank präziser Passform</li><li>enthält sechs O-Ringe<br/></li></ul><p></p>"
-}

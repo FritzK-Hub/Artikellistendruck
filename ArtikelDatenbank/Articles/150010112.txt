@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>hochsaugfähige Mikrofasertücher für effektive Reinigung</li><li>schonend und weich, ideal bei empfindlichen Oberflächen</li><li>16 Tücher bieten vielseitige Reinigungsoptionen</li><li>tauglich für Nass- und Trockenreinigung</li><li>Farbcodierung erlaubt hygienische Anwendung</li></ul>"
-}

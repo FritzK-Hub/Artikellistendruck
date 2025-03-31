@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Maße: 125 x 22,23</li><li>Höchstdrehzahl: max. 12.200 RPM</li><li>Geschwindigkeit: 80 m/sec</li><li>Form: bombiert (gewölbt)</li><li>geignet für Metall, Holz und Kunststoff</li><li>Körnung: NK 40</li><li>Industriequalität</li><li>EN 13 743</li><li>geprüft nach BGV D 12</li></ul>"
-}

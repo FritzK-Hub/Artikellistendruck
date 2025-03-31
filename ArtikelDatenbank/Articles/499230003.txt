@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Schnellbauschraube / Gipsplattenschraube </li><li>Gewinde: Vollgewinde grob </li><li>Gewindeart: Doppelganggewinde </li><li>Kopf: Trompetenkopf - H </li><li>Antrieb: Kreuzschlitz PH2 </li></ul>"
-}

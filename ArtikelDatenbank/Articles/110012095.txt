@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>WC-Sitz aus Duroplast - mit Motiv</li><li>verchromter ABS-Zylinder mit Absenktechnik</li><li>mit Schnellverschluss - zum Reinigen auf Knopfdruck abnehmbar</li><li>inklusive Montagematerial</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
-}

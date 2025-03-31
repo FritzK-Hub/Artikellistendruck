@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>GERMANIA® Grillanzünder auf Paraffinbasis</li><li>Packung beinhaltet 36 Anzünder in Würfelform</li><li>passend für Kamin, Ofen oder Grill</li><li>mit einer langen und gleichmäßigen Brenndauer<br/></li><li><span style=\"font-weight: bold;\">Mindestabnahme 10 Stück</span></li></ul>"
-}

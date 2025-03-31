@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>langanhaltende Leistung dank geräuscharmer Kartusche</li><li>einfache Installation mit flexiblen Anschlussschläuchen</li><li>schwenkbarer Auslauf 360° bietet Flexibilität</li><li>mühelose Temperatur-Justierung schafft Komfort</li><li>nur geeignet für drucklose Untertischgeräte</li></ul>"
-}

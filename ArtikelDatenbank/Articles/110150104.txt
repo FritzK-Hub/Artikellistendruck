@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Patronengürtel aus hochwertigen, reissfesten 600D Polyestergarn</li><li>zur Aufnahme von bis zu 30 Patronen der Flintenkaliber 12 (ca. Ø 18,53 mm) und 16 (ca. Ø 16,84 mm)</li><li>ideal für den Wettkampf oder für die Entenjagd</li><li>Universalgröße, verstellbar von ca. 108 bis 136 cm</li><li>Patronengurt mit Schnappverschluss</li></ul>"
-}

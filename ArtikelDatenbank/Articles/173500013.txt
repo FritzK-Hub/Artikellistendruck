@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>LED Solarlampe 34,5 cm aus Edelstahl</li><li>stabiler Halt dank mitgeliefertem Erdspieß</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>erschafft eine wohlfühlende Atmosphäre</li><li>die benötigte Batterie ist mit inklusive<br/></li></ul>"
-}

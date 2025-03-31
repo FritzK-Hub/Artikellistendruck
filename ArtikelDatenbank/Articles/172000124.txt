@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    mit Schhraubklemmen,                                                                /n3 x 6 NFN-Anschlussdose,                                                                               /nfür 1 Telefon und 2 Zusatzgeräte/n\"\"/n                "
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 59.85,
-    "attributes": "<ul><li>Spaltkeil-Set 3000 g aus Stahl besonders langlebig</li><li>unverzichtbares Spaltwerkzeug für die Brennholzherstellung</li><li>zum Spalten von Holzscheiten und kleineren Holzstücken</li><li>eignet sich für kaltes oder gefrorenes Holz</li><li>auffällige Farbe erleichtert die Auffindbarkeit im Schnee<br/></li></ul>"
-}

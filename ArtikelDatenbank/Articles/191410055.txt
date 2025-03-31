@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>ideal für den Pool oder Whirlpool</li><li>mit 6 Getränkehaltern</li><li>2 integrierte Getränke-Kühler </li><li>Ablagefläche für Snacks<br/></li><li>aus strapazierfähigem PVC</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "                    Inhalt:/n1 Rolle PVC-Isolierband 0,15 mm x 15 mm, 4,5 m,/n1 Phasenprüfer, 110-250 V~, Länge 140 mm/n1 Lüsterklemme, 12-polig, 1,5-2,5 mm²/n1 Lüsterklemme, 12-polig, 4,0-6,0 mm²\"\"/n                "
-}

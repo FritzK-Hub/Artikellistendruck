@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>dekorativer LED-Lichtervorhang aus Silberdraht</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>mit 400 warmweißen Mini-LEDs versehen</li><li>vielfältig einsetzbare Leuchtdekoration</li><li>LED-Beleuchtung für den Innen- und Außenbereich<br/></li></ul>"
-}

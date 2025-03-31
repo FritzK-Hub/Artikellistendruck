@@ -1,4 +1,0 @@
-{
-    "uvp": 26.99,
-    "attributes": "<ul><li>Gartensteckdose 4-fach mit 2 m Netzwerkkabel</li><li>speziell für den Außenbereich geeignet</li><li>robust und spritzwassergeschützt gemäß IP 44 Standard</li><li>Befestigung im Erdreich durch Bodendübel</li><li>Steckdose mit praktischen Klappdeckeln zum Schutz</li></ul>"
-}

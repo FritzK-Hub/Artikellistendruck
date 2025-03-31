@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>robuste Konstruktion</li><li>präzise Maße</li><li>einfache Montage</li><li>bequemer Griff</li><li>langlebige Qualität</li></ul>"
-}

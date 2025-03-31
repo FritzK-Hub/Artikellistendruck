@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Autoschampoo mit integriertem Glanztrockner - Glanz fast ohne Abledern</li><li>reinigt besonders effektiv und zeitsparend</li><li>reinigt kraftvoll schonend und porentief alle lackierten Oberflächen, Metall, Glas und Kunststoff</li><li>entfernt mühelos starke Verschmutzungen wie Vogelkot, Öl und Fett</li><li>erhält die schützende Hartwachskonservierung</li></ul>"
-}

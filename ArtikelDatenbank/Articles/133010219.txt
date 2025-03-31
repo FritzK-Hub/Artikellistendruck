@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Ergänzungsfuttermittel für freilebende Vögel</li><li>aus Sonnenblumenkernen, Weizen, Hafer und Hirse</li><li>nahrhaftes Fettfutter für Weichfresser</li><li>in kalter Jahreszeit für zusätzliche Energie</li><li>hält Stoffwechsel und Körpertemperatur aufrecht<br/></li></ul>"
-}

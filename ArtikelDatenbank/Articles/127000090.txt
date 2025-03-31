@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>ca. 30 - 50 % Kraftersparnis</li><li>mit Ratschenfunktion</li><li>kombinierte Getriebetechnik</li><li>gehärtete Klingen</li><li>mit einer Antihaftbeschichtung<br/></li></ul>"
-}

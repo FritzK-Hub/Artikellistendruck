@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><p></p></ul><ul><li>Universalwandplatte für Sichtlagerkästen<br/></li><li>für Sichtlagerkästen NP4, NP6 und NP8</li><li>für bis zu 5 Reihen Lagerkästen (größenabhängig)</li><li>mehrere Wände können miteinader kombiniert werden</li><li>schnelle Umgestaltung ganz ohne Werkzeug</li></ul><ul><p><br/></p></ul>"
-}

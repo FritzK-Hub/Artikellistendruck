@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<div><div id=\"feature-bullets\"><ul class=\"a-vertical a-spacing-none\"><li>Gartenbrause mit 8 Funktionen über einen Ring einstellbar</li><li>Feineinstellung mittels Drehregler möglich - Wassermenge mittels Drehknopf regulierbar</li><li>perfekt für die Gartenbewässerung, Autowäsche usw.</li><li>mit geriffeltem Gummigriff, rutschfest und liegt gut in der Hand</li><li>Anschluss (Stecksystem) zum Schlauch sitzt perfekt und ist dicht</li></ul></div></div>"
-}

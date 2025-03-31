@@ -1,4 +1,0 @@
-{
-    "uvp": 3.59,
-    "attributes": "<ul><li>Flickbox für Fahrradreifen</li><li>für die Reparatur von Fahrradschläuchen</li><li>inklusive Vulkanisierlösung</li><li>passt in jede Satteltasche</li><li>Fahrradschlauch Reparaturset in praktischer Hartbox</li></ul>"
-}

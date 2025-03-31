@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>drei Heizstufen für eine individuelle Wärmeeinstellung</li><li>zum vielseitigen Erwärmen im Freien einsetzbar</li><li>mehr Sicherheit durch automatischen Kippschutz</li><li>lässt sich mit Propan- oder Butangas bis 15 kg betreiben</li><li>vier Laufrollen erleichtern den Transport der Heizung</li></ul>"
-}

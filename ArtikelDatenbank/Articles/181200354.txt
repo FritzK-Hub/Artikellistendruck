@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Kohlrabi Giant weiß für ca. 60 Pflanzen</li><li>eine späte Sorte mit butterzarten Knollen</li><li>ist langsam wachsend und besonders Schossfest</li><li>roh, gekocht oder gedünstet verwendbar</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

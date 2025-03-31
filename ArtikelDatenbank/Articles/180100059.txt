@@ -1,4 +1,0 @@
-{
-    "uvp": 18.99,
-    "attributes": "<ul><li>Hightech-Leichtlaufmotoröl für höchste Anforderungen</li><li>Turbo- und Kat-getestet</li><li>ideal bei Opel-Fahrzeugen bis Modelljahr 2010</li><li>minimiert Verschleiß und Ablagerungen</li><li>bietet schnelle Durchölung, maximiert Motorlebensdauer</li></ul>"
-}

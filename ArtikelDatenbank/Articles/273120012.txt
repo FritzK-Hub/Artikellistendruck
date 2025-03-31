@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Größen: 8 und 9 (auch komplettes Set erhältlich)</li><li>doppelt gekröpft</li><li>Ausführung: 12kant</li><li>Material: Chrom Vanadium satiniert</li><li>Gewicht: ca. 80gr.</li></ul>"
-}

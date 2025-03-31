@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Holzbriketts 10 kg aus Weichholz</li><li>hoher Heizwert mit ca. 4,89 kWh pro Kg</li><li>Klimaschutz durch CO² Neutralität</li><li>einfache und platzsparende Lagerung</li><li>kaum Asche, weniger als 1%<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Beistelltisch mit Ø 40,5 cm Metall-Tischplatte in gold</li><li>geeignet für Wohnräume oder im Garten</li><li>robustes Metallgestell mit vier Beinen für mehr Stabilität</li><li>große Ablagefläche bietet ausreichend Platz</li><li>ideal für Dekorationen oder Pflanzen<br/></li></ul>"
-}

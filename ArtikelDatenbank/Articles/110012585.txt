@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>höchster Komfort</li><li>robuste Materialien</li><li>mühelose Handhabung und Flexibilität</li><li>mit 5 verschiedenen Strahlvarianten</li><li>für alle Wasserdrucksysteme geeignet<br/></li></ul>"
-}

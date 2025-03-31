@@ -1,4 +1,0 @@
-{
-    "uvp": 7.9,
-    "attributes": "<ul><li>hohe Widerstandsfähigkeit gegen Witterungseinflüsse</li><li>langlebig und robust zum jahrelangen Einsatz</li><li>perfekte Passform für Artikel 124900014 und 124900015</li><li>schnelle und einfache Installation</li><li>sicherer Wasserablauf ohne Leckagen</li></ul>"
-}

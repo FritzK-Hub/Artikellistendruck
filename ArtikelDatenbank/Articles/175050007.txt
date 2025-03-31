@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Länge: 330 mm</li><li>aus nahtlosem, verchromten Stahlrohr</li><li>Griff aus blauem Nylon Fiber</li><li>1/4\" PT Messinganschluss</li></ul>"
-}

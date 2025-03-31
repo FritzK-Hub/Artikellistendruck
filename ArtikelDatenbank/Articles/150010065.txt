@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Putzeimer aus blauem Kunststoff</li><li>besitzt ein Fassungsvermögen von ca. 5 Liter</li><li>vielseitig einsetzbares Hilfsmittel</li><li>ideal auf dem Bau, im Haushalt oder zum Putzen</li><li>Metallhenkel erleichtert den Transport<br/></li></ul>"
-}

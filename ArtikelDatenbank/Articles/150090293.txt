@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Reflektoren Set 2 Stück Ø 60 mm in rot</li><li>ideal für Anhängern, Caravan oder Autos</li><li>lässt sich festschrauben oder festkleben</li><li>erhöhen einfach und effektiv die Sichtbarkeit</li><li>besitzt eine E-Zulassung<br/></li></ul>"
-}

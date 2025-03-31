@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>praktische Gerätehalterungen 50 x 46,5 x 50 mm</li><li>aus verzinktem, gummiertem Blech gefertigt</li><li>sorgt für mehr Ordnung in der Werkstatt oder Haushalt</li><li>zum Aufhängen von Werkzeug oder Haushaltsgeräten</li><li>einfache Montage an der Wand</li></ul>"
-}

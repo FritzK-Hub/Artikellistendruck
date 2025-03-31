@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>großes Fassungsvermögen für gesellige Anlässe</li><li>leistungsstark zum schnellen Aufheizen</li><li>präzise Temperaturkontrolle bis 100°C</li><li>sicheres, komfortables Abfüllen dank Ablaßhahn</li><li>integrierter Überhitzungsschutz für maximale Sicherheit</li></ul>"
-}

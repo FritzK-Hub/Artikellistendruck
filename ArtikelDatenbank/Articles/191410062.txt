@@ -1,4 +1,0 @@
-{
-    "uvp": 349.95,
-    "attributes": "<ul><li>Stand-up-Paddleboard-Set für Einsteiger</li><li>verfügt über eine Belastbarkeit von bis zu 105 kg</li><li>mit EVA-Schaumstoff-Deckpolster für einen sicheren Stand</li><li>3-teiliges stufenlos verstellbares Paddel von 165 – 215 cm</li><li>inklusive Hochdruckpumpe, Reparaturset und Rucksack <br/></li></ul>"
-}

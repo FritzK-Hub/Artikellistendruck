@@ -1,4 +1,0 @@
-{
-    "uvp": 10.79,
-    "attributes": "<ul><li>offen und geschlossen</li><li>verzinkt</li><li>Größen: 2,5x2,5</li><li>6x50</li><li>6x45</li><li>5x75</li><li>5x65</li><li>3x40 mm Im Sortimentskasten</li></ul>"
-}

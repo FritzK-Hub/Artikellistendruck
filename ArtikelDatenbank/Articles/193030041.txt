@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Vogelfutterhaus mit Acrylglasfuttersilo</li><li>aus naturbelassenem Holz gefertigt</li><li>überdachte Vogelfutterstelle für verschiedene Wildvögel</li><li>dekoratives Dach ist mit Rinde gedeckt</li><li>mit Metallhacken für ein einfaches aufhängen</li></ul>"
-}

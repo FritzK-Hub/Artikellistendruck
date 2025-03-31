@@ -1,4 +1,0 @@
-{
-    "uvp": 999.0,
-    "attributes": "<ul><li>leistungsstarker 5,2 kW Elektro-Motor mit hoher Schnittgeschwindigkeit von 1420 U/min.</li><li>erleichtert das sichere Ablängen von Brennholz auf Ofenlänge</li><li>elektronisch gesteuerte Motorbremse und Wippenverriegelung für maximale Sicherheit</li><li>verwindungsarme Ganzstahlkonstruktion ist besonders gut für den harten und längeren Einsatz</li><li>bei Nichtgebrauch platzsparend zusammenklappbar, Räder erleichtern den Transport<br/></li></ul>"
-}

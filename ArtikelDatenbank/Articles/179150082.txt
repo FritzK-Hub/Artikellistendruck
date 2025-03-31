@@ -1,4 +1,0 @@
-{
-    "uvp": 7.31,
-    "attributes": "<ul><li>hohe Belastbarkeit</li><li>vielseitige Länge</li><li>präzise Schmierung</li><li>hochwertiges Material</li><li>einfache Handhabung</li></ul>"
-}

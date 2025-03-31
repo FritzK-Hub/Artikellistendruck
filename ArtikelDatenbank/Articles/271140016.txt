@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Abrundfräser 32 mm von Drillcraft</li><li>aus stabilem Hartmetall gefertigt</li><li>für den privaten oder professionellen Einsatz</li><li>besitzt eine Frästiefe von ca. 22 mm</li><li>maximal bis 30.000 Umdrehungen/Min. zugelassen<br/></li></ul>"
-}

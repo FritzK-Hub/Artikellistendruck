@@ -1,4 +1,0 @@
-{
-    "uvp": 3.39,
-    "attributes": "<ul><li>Schutztülle für F-Stecker</li><li>2 Stück im Set</li><li>aus Neopren gefertigt</li><li>für 8 mm Kabeldurchmesser</li><li>zum Schutz vor Witterungseinflüssen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.19,
-    "attributes": "<ul><li>Flachstange aus Aluminium</li><li>mit einzigartiger Bohr-Kennrille zum perfekten Zentrieren von Bohrungen</li></ul>"
-}

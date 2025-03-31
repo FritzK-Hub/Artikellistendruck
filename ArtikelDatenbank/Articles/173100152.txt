@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>LED-Reflektor-Lampe, GU5.3 Sockel</li><li>warmweißes, angenehmes Licht</li><li>längere Lebensdauer im Vergleich zu normalen Halogenlampen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Halogen-Leuchtmitteln</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
-}

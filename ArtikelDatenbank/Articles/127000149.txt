@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>robuste Glasfaserverbundmaterialien für höchste Langlebigkeit</li><li>ergonomische Griffe erlauben müheloses Arbeiten</li><li>nahtloses Design zur einfachen Reinigung</li><li>vielseitiges Set für alle Gartenarbeiten</li><li>inklusive praktischer Öse zur Aufhängung</li></ul>"
-}

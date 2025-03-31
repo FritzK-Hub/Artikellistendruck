@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>niedriger Wuchs, große Wirkung</li><li>vielseitige Verwendung</li><li>duftende Blütenpracht</li><li>lang anhaltende Blütezeit</li><li>natürliche Anziehung für Insekten<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 94.99,
-    "attributes": "<ul><li>CFH Schutzgas-Schweißdraht Ø 0,8 mm 15 kg</li><li>Universal-Schweißdraht, verkupfert</li><li>für un- und niedriglegierten Stahl</li><li>auf Kunststoffspule aufgewickelt</li><li>für Fülldrahtschweißen<br/></li></ul>"
-}

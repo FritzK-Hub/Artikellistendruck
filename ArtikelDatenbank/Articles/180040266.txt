@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>handlicher Besenstiel aus massivem Holz</li><li>auch für verschiedene Gartengeräte geeignet</li><li>für sämtliche Besenköpfe mit Innengewinde</li><li>einfacher Austausch defekter Stiele</li><li>besitzt eine Stiellänge von ca. 120 cm<br/></li></ul>"
-}

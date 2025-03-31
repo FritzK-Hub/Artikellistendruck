@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>verhindert Knicken und Verdrehen des Schlauches</li><li>dreh- und schwenkbares Anschlussstück</li><li>passt zu gängigen Wasserhahngrößen und Gewinden</li><li>hergestellt aus hochwertigem Material</li><li>einfache Handhabung, problemlose Installation<br/></li></ul>"
-}

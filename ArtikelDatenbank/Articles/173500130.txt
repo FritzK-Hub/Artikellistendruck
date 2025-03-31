@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>warm-weiße LEDs sorgen für sanfte Akzente im Garten, auf Balkon &amp; Terrasse</li><li>Solarbetrieben - Lädt tagsüber, leuchtet automatisch bei Dunkelheit</li><li>robustes Metall &amp; Kunststoff für jede Witterung</li><li>passt harmonisch in jedes Gartenambiente</li><li>kein Stromanschluss erforderlich</li></ul>"
-}

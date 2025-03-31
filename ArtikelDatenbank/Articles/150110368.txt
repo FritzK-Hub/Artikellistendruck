@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>schnell wirkender Felgenreiniger</li><li>hervorragende Reinigungskraft</li><li>für Felgen aus Alu, Stahl, Legierungen und Radkappen</li><li>beseitigt Schmutz und Ablagerungen</li><li>in praktischer Flasche mit Pumpzerstäuber</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Schäkel</li><li>gerade Form</li><li>galvanisch verzinkt</li><li>max. Tragkraft 800 kg</li><li>anwendbar bis 32mm</li></ul>"
-}

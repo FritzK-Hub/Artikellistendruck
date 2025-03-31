@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>besonders langlebig für härteste Arbeitsbedingungen</li><li>zuverlässige und stabile Befestigung für den Meißel</li><li>die Haltefeder ist einfach zu montieren und kann schnell ausgetauscht werden</li><li>für den professionellen Einsatz als auch für den Heimwerkerbedarf geeignet </li><li>passt auf alle Güde® Druckluft-Meißel</li></ul>"
-}

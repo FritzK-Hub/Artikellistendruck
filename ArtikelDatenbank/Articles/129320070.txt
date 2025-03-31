@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>historisches italienisches Erbe</li><li>langanhaltender Genuss</li><li>vielseitige Verwendung</li><li>einfache Pflege</li><li>kontinuierliche Ernten<br/><br/></li></ul>"
-}

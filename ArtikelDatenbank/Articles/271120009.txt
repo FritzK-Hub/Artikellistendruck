@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Länge: 230mm</li><li>Durchmesser: 22mm</li><li>Spiralnut</li><li>Gewindespitze</li><li>für Weich- und Hartholz</li></ul>"
-}

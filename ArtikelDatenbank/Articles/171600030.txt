@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>effektive Pflege von strapazierten und bereits geölten Holzmöbeln im Wohn-, Ess- und Schlafbereich</li><li>bestehend aus schnelltrocknenden, pflanzlichen Ölen, sind gesundheitlich unbedenklich</li><li>bildet einen wasserabweisenden und imprägnierenden Schutzfilm auf der Oberfläche</li><li>lässt sich auch für Kinderspielzeug universell verwenden</li><li>sorgt mit langanhaltendem Schutz vor äußeren Einflüssen<br/></li></ul>"
-}

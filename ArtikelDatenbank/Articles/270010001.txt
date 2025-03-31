@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Größe Sägeblatt: 460mm</li><li>schneidet auf Zug und Stoß</li><li>Soft Griff</li><li>mit Handschutz</li><li>Schnellspannhebel für einen schnellen Sägeblattwechsel</li><li>Material Sägeblatt: 65 MN Stahl</li><li>Rohrgröße: Ø 15 x 25 x 1,2mm</li></ul>"
-}

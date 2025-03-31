@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Selbstklebendes Dichtungsband</li><li>UV- und witterungsbeständig</li><li>Ideal für verschiedene Materialien</li><li>Robust und langlebig</li><li>Einfach zu verwenden und anzupassen</li></ul><p></p>"
-}

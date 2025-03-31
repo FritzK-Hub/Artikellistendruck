@@ -1,4 +1,0 @@
-{
-    "uvp": 8.79,
-    "attributes": "<ul><li>Fahrrad-Kabelschloss mit Halterung</li><li>mit schraubbarem Rahmenhalter</li><li>nicht spiralisiertes Stahlseil</li><li>inkl. 2 Schlüssel</li><li>für Fahrräder, Motorroller oder universell einsetzbar</li></ul>"
-}

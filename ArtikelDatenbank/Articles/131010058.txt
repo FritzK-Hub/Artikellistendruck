@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>WC-Reiniger in Pulverform</li><li>löst hartnäckige Ablagerungen wie Kalk und Urinstein</li><li>reinigt selbsttätig, gründlich und hygienisch</li><li>angenehmer Duft</li><li>einfache Anwendung</li></ul>"
-}

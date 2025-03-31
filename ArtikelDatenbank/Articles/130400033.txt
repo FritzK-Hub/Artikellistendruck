@@ -1,4 +1,0 @@
-{
-    "uvp": 199.95,
-    "attributes": "<ul><li>Elektroheizer GH 9 EV mit integriertem Thermostat von Güde® </li><li>besitzt 2 Heizstufen und eine Ventilatorfunktion</li><li>eignet sich zum Heizen und Trocknen in der Bauindustrie </li><li>maximale Sicherheit dank integriertem Überhitzungschutz</li><li>Tragegriffe auf beiden Seiten erleichtern den Transport</li></ul>"
-}

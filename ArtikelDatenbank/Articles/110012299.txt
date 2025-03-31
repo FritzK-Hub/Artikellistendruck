@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Klemmringverbinder universell einsetzbar für die Sanitär-, Heizungs-, Gas-, Öl-und Druckluftinstallation</li><li>rein metallisch dichtend</li><li>einfache Installation keine Spezialwerkzeuge erforderlich</li><li>können mit Kupferrohren verarbeitet werden</li><li>für Kupferrohre geeignet</li></ul>"
-}

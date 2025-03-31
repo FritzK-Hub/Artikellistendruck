@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Gartenliege aus witterungsbeständigem Textil und Aluminiumgestell</li><li>ist dank elegantem und zeitlosem Design ein echter Blickfang</li><li>für erholsame Stunden in deinem Garten, Balkon oder Terrasse</li><li>mehrfach verstellbare Rückenlehne sorgt für mehr Komfort</li><li>bei Nichtgebrauch platzsparend zusammenklappbar</li></ul>"
-}

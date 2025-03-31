@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>wendbare Warnschutz Pilotenjacke, Schutzklasse gemäß EN 471</li><li>mit abnehmbaren Ärmeln (verwendbar als Jacke oder Weste)</li><li>3M Scotchlite Reflexstreifen umlaufend an Rumpf und Ärmeln</li><li>kräftiger Reißverschluss auch an den Taschen</li><li>wasserdicht, winddicht, atmungsaktiv<br/></li></ul><p></p>"
-}

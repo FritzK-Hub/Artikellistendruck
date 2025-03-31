@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Gabelschlüssel 6x7mm</li><li>gehärtet und verchromt</li><li>Werkzeug in qualitativ hochwertigster Ausführung</li><li>für eine lange Lebensdauer im täglichen Werkstatteinsatz</li></ul>"
-}

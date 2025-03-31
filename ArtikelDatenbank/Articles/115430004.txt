@@ -1,4 +1,0 @@
-{
-    "uvp": 499.0,
-    "attributes": "<ul><li>Werkstattwagen mit seitlichen Lochblechen für Werkzeugaufbewahrung</li><li>2 Lenkrollen für den einfachen Transport</li><li>7 kugelgelagerte Schubladen, 100% ausziehbar</li><li>bestückt mit hochwertigen Werkzeugen</li><li>abschließbar über Zentralschlossverriegelung</li></ul>"
-}

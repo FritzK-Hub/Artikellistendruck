@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>handliche Kofferraumtasche für mehr Ordnung im Auto</li><li>aus pflegeleichtem, grauem Nadelfilz gefertigt</li><li>zur Aufbewahrung von Werkzeug, Warndreieck oder Autopflege-Artikel</li><li>rutschsichere Befestigung durch Klettverschluss</li><li>praktische Trapezform zur Nutzung an der Rücksitzbank<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Klappspaten mit Holzstiel</li><li>Blatt aus Metall</li><li>3-fach verstelllbar</li><li>zusammenklappbar</li><li>ideal für Camping und Haushalt </li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 749.0,
-    "attributes": "<ul><li>Akku-Mähroboter für Rasenflächen bis 900 m²</li><li>bewältigt Steigungen von bis zu 35%</li><li>stufenlose Schnitthöheneinstellung von 20-60 mm</li><li>Software-Update per USB-Stick</li><li>inklusive Kabelstecker, Ersatzklingen, und Begrenzungsmaterial<br/></li></ul>"
-}

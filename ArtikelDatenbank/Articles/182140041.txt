@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>Knochenschlüssel zur Fahrradreparatur</li><li>für 10 verschiedene Schraubengrößen</li><li>Schlüsselweite von 6 bis 15 mm</li><li>praktisch und kompakt</li><li>passt in jede Satteltasche</li></ul>"
-}

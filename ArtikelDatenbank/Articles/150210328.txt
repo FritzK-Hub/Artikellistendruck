@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>klappbarer Tritthocker mit integriertem Tragegriff</li><li>vielseitiger Helfer für den Einsatz im Haushalt.</li><li>verfügt über eine Belastbarkeit von max. 100 kg</li><li>Gummifüße und Antirutsch-Trittfläche sorgen für nötigen Halt</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

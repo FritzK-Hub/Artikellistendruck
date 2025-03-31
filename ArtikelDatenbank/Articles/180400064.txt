@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Drehmomentschlüssel mit Umschaltknarre</li><li>1/2\" Vierkant Antrieb, einstellbar von 40 bis 200 Nm</li><li>zum Anziehen auf Drehmoment bei Verschraubungen mit Rechtsgewinde</li><li>präzise Einstellmöglichkeit mit automatischer Auslösung</li><li>inklusive eines Prüfzertifikates</li></ul>"
-}

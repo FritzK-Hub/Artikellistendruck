@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>LED Strahler mit Li-Ionen Akku</li><li>nur 4 Stunden Akku-Ladezeit</li><li>mit 3 verschiedenen Lichtstufen</li><li>aus Aluminium und Sicherheitsglas</li><li>niedriger Energieverbrauch</li></ul>"
-}

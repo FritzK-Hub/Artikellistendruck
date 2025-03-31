@@ -1,4 +1,0 @@
-{
-    "uvp": 769.0,
-    "attributes": "<ul><li>Güde® Kurzholzspalter GHS 500/8 TE, kompakt und robust</li><li>erzeugt eine Spaltkraft von ca. 8 Tonnen</li><li>ergonomisch angeordneter Spalttisch</li><li>zwei große Transportrollen für maximale Mobilität</li><li>stufenlos einstellbarer Spalthub<br/></li></ul>"
-}

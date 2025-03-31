@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Größe: 115mm</li><li>5er Set</li><li>Korn: 60</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 379.95,
-    "attributes": "<ul><li>Güde® Ölheizgebläse GD 20 TI mit Thermostat</li><li>ideal zum Heizen von gut belüfteten Räumen</li><li>auch zum Trocknen im Bauwesen, Landwirtschaft oder Lagerräumen geeignet</li><li>automatische elektronische Zündung bei Absenkung der Umgebungstemperatur</li><li>automatischer Stopp bei Überschreitung der eingestellten Temperatur</li></ul>"
-}

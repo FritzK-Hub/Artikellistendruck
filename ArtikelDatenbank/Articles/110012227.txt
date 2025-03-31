@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Mischdüse mit Gummidichtung</li><li>verringert die Wasserdurchflussmenge  um bis zu 70%</li><li>Verringerung auf bis zu 2,5l/min bei 3bar Wasserdruck</li><li>Einsatz aus Polyacetal</li><li>kalk- und bakterienrestistent, geruchsfrei, geschmacksneutral und sterilisierbar</li></ul>"
-}

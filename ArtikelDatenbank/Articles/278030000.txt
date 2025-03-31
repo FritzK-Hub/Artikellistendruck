@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>90° Schreinerwinkel 250 x 170 mm</li><li>Skala in Zentimeter und Millimeter</li><li>Material: aus Aluminium</li><li>Farbe: silber</li><li>schwarze Skalierung</li></ul>"
-}

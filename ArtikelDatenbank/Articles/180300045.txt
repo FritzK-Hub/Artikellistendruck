@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>maximale Sicht in jeder Umgebung</li><li>lang anhaltender Antibeschlagseffekt bietet klare Sichtverhältnisse</li><li>erfrischender Duft gestaltet Nutzung angenehm</li><li>einfache Anwendung durch praktischen Feinzerstäuber</li><li>vielseitig einsetzbar für zahlreiche Oberflächen</li></ul>"
-}

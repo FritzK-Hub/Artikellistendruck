@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>wasserabweisendes Schutzschild</li><li>natürliche Holzpräsenz</li><li>beeindruckender Glanz</li><li>hohe Ergiebigkeit</li><li>vielseitige Anwendung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>schnell montiert, sofort einsatzbereit</li><li>wetterfest und langlebig im Außenbereich</li><li>effektiver Schutz vor Sonne und Blicken</li><li>stabiler Metall-Fächer als Grundkonstruktion</li><li>modernes, unaufdringliches Design in Grau</li></ul>"
-}

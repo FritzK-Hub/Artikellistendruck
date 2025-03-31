@@ -1,4 +1,0 @@
-{
-    "uvp": 1.9,
-    "attributes": "<ul><li>Kantenprofil 2,5 m für Wanddecken</li><li>aus stabilem, verzinktem Stahlblech gefertigt</li><li>um saubere, gerade Kante auszubilden</li><li>für eine Putzdicke von 12 mm geeignet</li><li>einfache Anwendung im Innenbereich</li></ul>"
-}

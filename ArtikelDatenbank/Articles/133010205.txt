@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Ergänzungsfuttermittel für freilebende Vögel</li><li>aus natürlichen Rohstoffen hergestellt</li><li>zum Aufhängen oder Streuen</li><li>in der 1000 g Vorratspackung</li><li>sorgt vor allem zur kalten Jahreszeit für notwendige Energien</li></ul>"
-}

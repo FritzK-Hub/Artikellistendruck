@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>leistungsfähige Alkaline Batterien</li><li>Typ LR20 D Mono</li><li>nicht wiederaufladbar</li><li>im 2-er Pack</li><li>ideal für größere tragbare Geräte geeignet<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.9,
-    "attributes": "<ul><li>Flachstange aus harten PVC gefertigt </li><li>mit einzigartiger Bohr-Kennrille zum genauen Zentrieren von Bohrungen</li><li>mit handelsüblicher Stichsäge abzulängen</li><li>Materialstärke 2 mm</li><li>Flach-Profil 19,5 x 2 mm in weiß</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Abdeckplane 4 x 6 m 90 g/m² in grün</li><li>aus wetterbeständigen Bändchengewebe gefertigt</li><li>zum Abdecken von Gartenmöbeln, Baumaterial oder Holz</li><li>auch als Wind-, Sonnen- oder Sichtschutz einsetzbar</li><li>ist mit 20 stabilen Metallösen versehen</li></ul>"
-}

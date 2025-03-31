@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Maße Schraube: (LxBxH) ca. 120x40x12mm</li><li>Gewinde: M 12</li><li>Gewindelänge: (L) ca. 60mm</li><li>inklusive Seckskantmutter</li><li>Ring aussen: (Ø) ca. 62mm</li></ul>"
-}

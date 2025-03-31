@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>2 teiliges Spanngummi Set</li><li>hochwertiger Gummi mit Gewebe</li><li>ideal für Camping oder Fahrrad</li><li>stabile Haken mit Schutzkappen</li><li>einfach in der Handhabung, vielseitig einsetzbar<br/></li></ul>"
-}

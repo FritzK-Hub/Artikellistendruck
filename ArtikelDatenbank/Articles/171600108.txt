@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>ideal zur Ausbesserung von Mauerwerksfugen, Putz und zum Verschließen von Bohrlöchern</li><li>exzellente Haftung auf mineralischen Untergründen</li><li>körnige Struktur passt sich dem Fugenbild ideal an</li><li>für den Innen- und Außenbereich geeignet</li><li>gebrauchsfertiger Mörtel auf Acrylatbasis</li></ul>"
-}

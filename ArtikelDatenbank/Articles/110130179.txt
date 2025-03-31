@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Zubehör zum Abschließen der Gardinen oder Vorhänge </li><li>besonders stabil und langlebig, aus robustem Kunststoff gefertigt</li><li>verhindert ein ungewolltes Herausrutschen der Gardinengleiter</li><li>einfach in der Handhabung, Stopper in den Innenlauf der Vorhangschiene einsetzen</li><li>schlichtes und unauffälliges Design, vielseitig in jeder Raumgestaltung einsetzbar<br/></li></ul>"
-}

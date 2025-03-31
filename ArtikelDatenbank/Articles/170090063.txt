@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Diamant-Trennscheibe, segmentiert</li><li>Grundkörper aus Metall, diamantbestückt</li><li>als Ersatz-Trennscheibe für Mauernutfräse MD 1700</li><li>auch passend für Winkelschleifer / Fliesenschneider mit einer 22 mm Aufnahme</li><li>Durchmesser Bohrung ca. 22 mm</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Ergänzungsfuttermittel für freilebende Vögel</li><li>aus Weizenflocken, Pflanzenöl, Rosinen und Erdnüssen</li><li>nahrhaftes Fettfutter für Weichfresser</li><li>in kalten Jahreszeiten für zusätzliche Energie</li><li>hält Stoffwechsel und Körpertemperatur aufrecht<br/></li></ul>"
-}

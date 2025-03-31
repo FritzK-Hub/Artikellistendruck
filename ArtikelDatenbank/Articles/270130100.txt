@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>dient zum Austrennen von Trass- und Marmorfugen</li><li>ideal für alle gängigen Handkreissägen mit 10 mm Aufnahme</li><li>besonders langlebig und widerstandsfähig, aus hochwertigen Materialien </li><li>gefertigt</li><li>vielseitig an Stein, Beton, oder Fliesen anwendbar</li><li>einfach zu handhaben, ermöglicht schnelle und präzise Schnittergebnisse<br/></li></ul>"
-}

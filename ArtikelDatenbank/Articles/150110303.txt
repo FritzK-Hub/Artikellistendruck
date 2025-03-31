@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Autoschampoo mit Carnauba-Wachs</li><li>waschen und wachsen in einem Arbeitsgang</li><li>reinigt kraftvoll schonend und porentief</li><li>entfernt mühelos starke Verschmutzungen wie Vogelkot, Öl und Fett</li><li>konserviert und schützt, wirkt schmutzabweisend</li></ul>"
-}

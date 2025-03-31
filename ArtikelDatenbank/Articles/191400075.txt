@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>5-teiliges Sandspielzeug Set aus Kunststoff</li><li>Set beinhaltet ein Rechen, Schaufel, Sand-Sieb und Form</li><li>ideal für den Strand oder im Sandkasten</li><li>stabiler Eimer für den Transport von Sand</li><li>lasse die Kreativität der Kinder freiem Lauf<br/></li></ul>"
-}

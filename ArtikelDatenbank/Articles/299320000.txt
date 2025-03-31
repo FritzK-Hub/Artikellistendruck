@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Balkenschuh aus verzinktem Stahlblech</li><li>ideal für verschiedenste Holzkonstruktionen</li><li>für den Innen- und Außenbereich geeignet</li><li>für den Anschluss von Balken-Nebenträger an Hauptträger oder an Stützen</li><li>für Anschlüsse von Holz/Holz, Holz an Beton, Mauerwerk und Stahl <br/></li></ul>"
-}

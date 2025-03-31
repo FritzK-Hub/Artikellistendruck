@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Güde® Hydraulischer Stempelwagenheber GSH 5 T </li><li>verfügt über eine Tragfähigkeit von 5 Tonnen</li><li>nützlicher Helfer zum Heben, Drücken und Pressen</li><li>für den Einsatz in Werkstatt, Garage oder Garten</li><li>große Fußplatte aus Spezialguss sorgt für sicheren Stand<br/></li></ul>"
-}

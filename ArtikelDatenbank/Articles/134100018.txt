@@ -1,4 +1,0 @@
-{
-    "uvp": 10.43,
-    "attributes": "<ul><li>entfernt Verunreinigungen wie Staub, Schmutz und Ablagerungen schnell und effektiv</li><li>der Auslöseknopf gewährleistet eine präzise und komfortable Bedienung</li><li>extra kurze Ausführung für schwer zugängliche Bereiche</li><li>der Haltering zum Aufhängen ermöglicht eine praktische Mitnahmemöglichkeit</li><li>eignet sich für eine Vielzahl von Anwendungen in vielen Bereichen</li></ul>"
-}

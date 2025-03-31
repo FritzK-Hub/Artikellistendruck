@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Radies Korund, für ca. 6-8 laufende Meter</li><li>mit großen, runden intensiv roten Knollen</li><li>speziell für den Frühjahrs- und Herbstanbau</li><li>ist unter Glas als auch im Freiland anbaubar</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

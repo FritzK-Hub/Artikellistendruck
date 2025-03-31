@@ -1,4 +1,0 @@
-{
-    "uvp": 4.29,
-    "attributes": "<ul><li>Pritt Alleskleber transparent Klebestift</li><li>Schiebe-Funktion für Flächen-,Punkt- oder Strichverklebungen</li><li>aus 90 % natur-basierten Inhaltsstoffen, lösemittelfrei</li><li>ist kindersicher und bei 20°C auswaschbar</li><li>kraftvoller, schnelltrocknender Klebestift mit hoher Anfangshaftung</li></ul>"
-}

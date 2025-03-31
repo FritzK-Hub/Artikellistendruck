@@ -1,4 +1,0 @@
-{
-    "uvp": 169.95,
-    "attributes": "<ul><li>GERMANIA® Plattform Akku-Rasenmäher mit starkem Motor<br/></li><li>ideal für kleine und mittelgroße Gärten</li><li>effizient beim Schneiden und Sammeln</li><li>ergonomischer, faltbarer Griff</li><li>zentrale Höhenverstellung<br/></li></ul>"
-}

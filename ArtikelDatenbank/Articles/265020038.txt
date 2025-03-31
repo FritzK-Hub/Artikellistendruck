@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Gesamtbreite: ca. 370 mm</li><li>Riegel Materialstärke: ca. 9 mm</li><li>Grundfläche der Grundbeschläge: ca. 185 x 71 mm</li><li>Länge des Überwurfriegels: ca. 365 mm</li></ul>"
-}

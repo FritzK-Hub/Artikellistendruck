@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Verbindungsstücke für Dekorelemente</li><li>4 Stück im Set</li><li>aus Edelstahl</li><li>passend für Modelle Eleganz,  Oslo, Nexus und Bergen</li><li>zum Befestigen von Zierstreifen am Metallzaun</li></ul><p><br/></p>"
-}

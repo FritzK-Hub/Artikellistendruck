@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>Türgarderobe aus Bambus mit sechs Haken</li><li>sorgt für mehr Ordnung im Eingangsbereich oder Bad</li><li>zum Aufhängen von Jacken oder Handtüchern</li><li>einfach am Türrahmen einhängbar</li><li>modernes Design passt zu jedem Raum<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>Filterpumpe 300gal für klares Wasser im Schwimmbecken<br/></li><li>verfügt über eine Leistung von 1.136 Liter pro Stunde</li><li>speziell für Pool mit etwa 8000 Liter Fassungsvermögen konzipiert.</li><li>sein 230 V Trafo reguliert den benötigten Strom aus der Steckdose auf nur 12 V</li><li>inklusive 2 Verbindungsschläuche mit 32 mm Durchmesser und Filterpatrone<br/></li></ul>"
-}

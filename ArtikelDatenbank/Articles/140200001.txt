@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Terrassendiele aus unbehandeltem Kiefernholz</li><li>zum Verlegen für Terrassen oder anderen Außenflächen</li><li>einseitig feine Riffelung für eine Anti-Rutschhaftung</li><li>kann zum Schutz vor Nässe imprägniert bzw. geölt werden</li><li>z. B. für Terrassen und sonstige begehbare Außenflächen<br/></li></ul>"
-}

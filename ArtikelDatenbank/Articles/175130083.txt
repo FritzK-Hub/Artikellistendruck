@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul> <li>für Beschriftungen und kreative Brandmalerei auf Holz, Leder und Kork</li> <li>Schreib- und Malspitzen für unterschiedliche Strichstärken sowie ein Stempel-Set mit 7 verschiedenen Mustern sind als Zubehör enthalten</li> <li>inkl. Ablageständer</li></ul>"
-}

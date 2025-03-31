@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Elektro-Unkrautvernichter</li><li>entfernt schnell und effizient Unkraut, Moos und kleine Pflanzen auf Gehwegen, Terrassen usw.</li><li>ganz ohne Chemie</li><li>hat 2 Temperaturstufen: Stufe 1 = 50° C und Stufe 2 = 600° C</li><li>ausklappbare Standfuß ermöglicht ein sicheres Arbeiten<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Saatgut XXL-Fleischtomate Rally F1 für ca. 8 Pflanzen</li><li>für den Anbau auf dem Freiland oder unter dem Glas</li><li>mit flachrunden bis zu 500 g schweren Früchten versehen</li><li>verfügt zudem über ein hohes Resistenzniveau</li><li>ideal für den Frischverzehr oder für Salate geeignet<br/></li></ul>"
-}

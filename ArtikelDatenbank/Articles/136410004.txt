@@ -1,4 +1,0 @@
-{
-    "uvp": 19.9,
-    "attributes": "<ul><li>komfortable Einhandbedienung für effizientes Arbeiten</li><li>ergonomisches Design bietet angenehme Handhabung</li><li>Schutzkappen zum Schonen von Werkstücken</li><li>präzise Spannkraft schafft optimale Kontrolle</li><li>schnelles Entriegeln ermöglicht zeitsparendes Arbeiten</li></ul>"
-}

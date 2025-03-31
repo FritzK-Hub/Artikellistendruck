@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>hochwertiges Material</li><li>großzügige Blattgröße</li><li>rote Pulverbeschichtung</li><li>vielseitige Anwendung</li><li>passende Stieldülle</li></ul>"
-}

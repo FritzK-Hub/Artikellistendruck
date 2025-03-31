@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Tür- und Fensteralarm zum Schutz vor Einbrecher</li><li>extrem lautes Alarmsignal von ca. 90 dB</li><li>einfache Montage mit Klebefolie</li><li>alarmiert sobald Tür oder Fenster geöffnet wird</li><li>geeignet für die Wohnung, Garage oder Gartenhaus<br/></li></ul>"
-}

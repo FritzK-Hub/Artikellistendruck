@@ -1,4 +1,0 @@
-{
-    "uvp": 8.59,
-    "attributes": "<ul><li>250mm</li><li>1/2\"</li><li>matt verchromt</li><li>kordiert</li></ul>"
-}

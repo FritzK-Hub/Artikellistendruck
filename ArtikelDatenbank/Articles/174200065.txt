@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>sparsame Handbrause mit schwarzem Brausekopf</li><li>das ideale Zubehör für deine Dusche</li><li>mit Antikalk-Noppen bestückt</li><li>aus verchromtem Kunststoff gefertigt</li><li>universell passend, mit Standard-Gewinde<br/></li></ul>"
-}

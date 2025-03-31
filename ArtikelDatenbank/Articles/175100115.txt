@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>universell einsetzbarer HEPA–Feinfilter für Kaminsauger</li><li>Ersatzfilter für GERMANIA® Aschesauger 20 Liter (130510003)</li><li>einfach in der Reinigung, ist widerverwendbar</li><li>filtert Grobschmutz und Asche</li><li>dank feinen Poren besonders allergikerfreundlich<br/></li></ul>"
-}

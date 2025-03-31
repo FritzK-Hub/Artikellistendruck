@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>schnelle Montage</li><li>robuster Kunststoff</li><li>vielseitige Anwendung <br/></li><li>einfache Handhabung</li><li>Effizienzsteigerung</li></ul>"
-}

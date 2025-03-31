@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Packung Saatgut für ca. 35 Pflanzen</li><li>Gartensonnenblume mit Riesenblumen</li><li>reingelb mit dunkler Mitte</li><li>stark- und schnellwachsend</li><li>ideal als Blickfang oder als Sichtschutz am Zaun</li></ul>"
-}

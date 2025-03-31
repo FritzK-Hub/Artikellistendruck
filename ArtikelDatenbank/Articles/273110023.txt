@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Größen: 30 und 32 (auch komplettes Set erhältlich)</li><li>Stärke Schlüssel: ca. 9mm</li><li>Material: Chrom Vanadium satiniert</li><li>Gewicht: ca. 482gr.</li></ul>"
-}

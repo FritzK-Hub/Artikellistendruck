@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>ideal für den Schaltschrankbau oder Erweiterungen</li><li>maximale Kapazität für deine Installationen</li><li>einfache Montage durch Gabelform</li><li>hochwertige Materialien</li><li>Zuverlässige Sicherheit<br/></li></ul>"
-}

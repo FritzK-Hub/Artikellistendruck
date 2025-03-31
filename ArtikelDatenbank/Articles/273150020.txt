@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Bezeichnung: PH3 x 150mm</li><li>Kopf: Kreuzschlitz Phillips</li><li>magnetische Spitze</li><li>Griff: Kunststoff - rutschfest gummiert</li><li>Qualität von GERMANIA® Qualitätswerkzeuge</li></ul>"
-}

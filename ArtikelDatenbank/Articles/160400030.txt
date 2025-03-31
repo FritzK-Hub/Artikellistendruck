@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>FFP2 Maske zum Eigen- und Fremdschutz</li><li>schützt vor Krankheitserregern wie Bakterien oder Viren</li><li>flexibler Nasenbügel für angenehmen Tragekomfort</li><li>für den sofortigen, einmaligen Einsatz geeignet</li><li>einfache und schnelle Handhabung</li></ul>"
-}

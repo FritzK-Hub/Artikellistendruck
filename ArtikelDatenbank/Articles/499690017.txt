@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Sechskantmutter M14 mit Außensechskant-Gewinde</li><li>besonders langlebig und korrosionsbeständig, aus rostfreiem Edelstahl</li><li>zur stabilen Verbindung von unterschiedlichsten Werkstoffen </li><li>einfach in der Handhabung, Werkzeug rutscht beim Montieren nicht ab</li><li>vielseitig im Automobilbereich oder Maschinen- und Holzbau einsetzbar<br/></li></ul>"
-}

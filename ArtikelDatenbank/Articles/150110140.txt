@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Cockpit-Spray pflegt und bringt seidenmatten Glanz</li><li>erleichtert mit seiner speziellen Schaumtextur die wirksame und schonende Reinigung und Pflege aller Kunststoffe im Fahrzeug-Innenraum</li><li>reinigt wirksam und schonend auch feingenarbte Oberflächen</li><li>wirkt farbauffrischend</li><li>bildet einen wasserfesten, seidenmatten, schmutzabweisenden und antistatischen Schutzfilm auf dem Kunststoff</li></ul>"
-}

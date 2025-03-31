@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>praktischer Spanngurt einteilig aus Metall und Polyester</li><li>besitzt eine Belastbarkeit von bis zu 200 kg</li><li>ideal für Camping, Freizeit, Haus und Garten</li><li>robustes Gurtmaterial, vielseitig einsetzbar</li><li>mit Klemmschloß und Schutzplatte versehen<br/></li></ul>"
-}

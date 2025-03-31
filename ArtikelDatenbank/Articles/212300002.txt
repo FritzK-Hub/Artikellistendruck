@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>dient als Stoßschutz von Holzkisten oder Aufbewahrungsboxen </li><li>für mehr Stabilität beim Transport, Stapeln und Lagern</li><li>verhindert ungewolltes Absplittern, Eindrücken oder Verformungen</li><li>Hilfsmittel in der Logistik, Transportbranche oder Kistenbau</li><li>einfach in der Handhabung, lässt sich schnell und leicht montieren<br/></li></ul>"
-}

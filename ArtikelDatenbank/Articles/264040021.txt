@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Länge Haken: ca. 140 mm</li><li>Höhe Haken: ca. 43 mm</li><li>Maße Öffnung: ca. 10 mm</li><li>Innendurchmesser Haken: ca. 23 mm</li><li>Materialstärke: Ø ca. 10 mm</li><li>Gewindelänge: ca. 54 mm</li><li>Gewinde: Holzgewinde</li></ul>"
-}

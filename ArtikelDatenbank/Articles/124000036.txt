@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li><div>4-Wege Verteilerstück mit 4 Absperrhähnen</div></li><li><div>aus Glasfaserverbundwerkstoff</div></li><li><div>zur Installation an Wasserhahn oder Rohrleitung</div></li><li>G1/2\", G3/4\" und G1\" Gewinde</li><li><div>Ausgänge unabhängig voneinander stufenlos regulierbar</div></li></ul>"
-}

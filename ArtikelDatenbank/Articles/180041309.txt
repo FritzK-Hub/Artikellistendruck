@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>praktische Hakenleiste zum Aufhängen von Geräten</li><li>mit 5 verzinkten Haken</li><li>Haken mit Kunststoffummantelung</li><li>aus robustem und rostfreiem Aluminium</li><li>inkl. Montage-Material</li></ul>"
-}

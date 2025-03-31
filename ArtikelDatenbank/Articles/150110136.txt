@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Rostumwandler stoppt selbsttätig jeden Rost</li><li>besonders ergiebig, ausreichend für ca. 4 m²</li><li>durchdringt und passiviert den Rost</li><li>verhindert das Weiterrosten wirksam und dauerhaft</li><li>Nigrin Rost-Stopp bildet einen doppelten Schutz</li></ul>"
-}

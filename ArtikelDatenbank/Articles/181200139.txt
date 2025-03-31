@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Feldsalat für ca. 4 - 6 laufende Meter</li><li>vitaminreich, ideal für den Herbstanbau</li><li>mit großen, langen, dunkelgrünen Blättern</li><li>Probefeldgetestete Qualität</li><li>wichtiger Vitamin-C- und -A-Spender</li></ul>"
-}

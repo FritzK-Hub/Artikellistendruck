@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Kleinfeger mit 9 Zinken</li><li>aus stabilem Kunststoff in schwarz</li><li>mt einer Gesamtlänge von ca. 31 cm</li><li>ideal zum Harken oder sammeln von Laub</li><li>bei Nichtgebrauch dank Aufhänghöse aufhängbar</li></ul>"
-}

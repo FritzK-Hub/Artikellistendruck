@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    für SAT-Antennendose Art.-Nummer 43771, /nmit Befestigungsschraube\"\"/n                "
-}

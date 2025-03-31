@@ -1,4 +1,0 @@
-{
-    "uvp": 29.15,
-    "attributes": "<ul><li>Jalousie-Schalter für Unterputz-Montage</li><li>klassisches Design mit moderner matter Oberfläche</li><li>Die mechanische Verriegelung verhindert das versehentliche gleichzeite Betätigen beider Wippen</li><li>Pfeilrichtungsaufdruck für eine einfache Bedienung</li><li>nur in Kombination mit Rahmen der Serie Arcada zu verwenden<br/></li></ul>"
-}

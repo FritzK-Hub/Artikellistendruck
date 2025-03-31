@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li> Brikettzange aus Metall</li><li>verzinke Ausführung</li><li>hilfreiches Zubehör für deinen Holzkamin</li><li>ohne Gelenk</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>LED-Stiftsockellampe 3,5 Watt, G9 Sockel</li><li>Set beinhaltet 2 LED-Lampen von Avalux</li><li>längere Lebensdauer im Vergleich zu normalen Lampen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen<br/></li></ul><p></p>"
-}

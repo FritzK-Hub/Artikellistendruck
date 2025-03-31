@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>Übergangsprofil gewölbt aus eloxiertem Aluminium in messing</li><li>zur Verbindung zweier gleich- oder verschiedenartigen Bodenbelägen</li><li>unsaubere Schnittkanten werden verdeckt</li><li>auf Stoß verlegte Übergänge werden dauerhaft geschützt</li><li>Stolperfallen werden vermieden</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>hochwertige Holz-Auswahl</li><li>kompakte Einheiten erlauben mühelose Handhabung</li><li>universelle Nutzung in verschiedenen Öfen</li><li>bequemes Heizen mit ofenfertigen Scheiten</li><li>platzsparend lagern, mehr Raum nutzen</li></ul>"
-}

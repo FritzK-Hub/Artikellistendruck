@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>eisl Handbrause Set 3-teilig</li><li>Handbrause aus verchromtem Kunststoff</li><li>ein ideales Zubehör für die Dusche</li><li>Handbrause mit Antikalk-Noppen und 7 Strahlarten</li><li>Brauseschlauch ca. 150 cm und Wandhalterung sind inklusive<br/></li></ul>"
-}

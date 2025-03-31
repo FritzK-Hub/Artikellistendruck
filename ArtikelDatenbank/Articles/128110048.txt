@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>3-Sitzer Hockerbank</li><li>Eukalyptusholz</li><li>geölte Oberfläche</li><li>Holzbank für 3 Personen</li><li>ohne Rückenlehne</li></ul>"
-}

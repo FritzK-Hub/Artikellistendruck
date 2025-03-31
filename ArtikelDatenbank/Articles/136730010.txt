@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>besonders langlebig und stabil, aus Buchenholz gefertigt</li><li>mit FC Bayern-Logo, ein Muss für jeden Fan des Fußballclubs</li><li>2 Meter lang und bietet präzise Messungen für alle Projekte</li><li>vielseitig einsetzbar, ob in der Werkstatt oder zu Hause</li><li>widerstandsfähig gegenüber harte Arbeitsbedingungen, mit stahlverstärkten Kanten<br/></li></ul>"
-}

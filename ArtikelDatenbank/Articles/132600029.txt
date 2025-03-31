@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>leistungsstarke Heißluftpistole mit 1800 Watt</li><li>vielseitig in Heim- und Handwerksprojekte einsetzbar</li><li>zum Einpassen von verschiedenen Kunststoffteilen</li><li>erleichtert das Ablösen von alter Farbe oder Lacken</li><li>einstellbarer Temperaturbereich von 50 – 550 °C</li></ul>"
-}

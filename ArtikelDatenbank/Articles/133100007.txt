@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Werkzeug für jeden Profi- oder Hobbyhandwerker</li><li>erstklassige Schnittergebnisse und schneiden sauber und präzise</li><li>besonders langlebig mit hoher Schnittqualität</li><li>für Werkstoffe wie Kupfer, Aluminium, Weichholz oder Laminate<br/></li><li>lassen sich schnell und problemlos an Maxx-Saw-Sägen montieren</li></ul>"
-}

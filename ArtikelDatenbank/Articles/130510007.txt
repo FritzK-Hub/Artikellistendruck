@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>kraftvolle 1300 W Leistung</li><li>zum Nasssaugen, Trockensaugen und Ausblasen</li><li>großer Arbeitsradius</li><li>mit 20 Liter Edelstahl-Auffangbehälter</li><li>4 leichtgängige 360° Rollen<br/></li></ul>"
-}

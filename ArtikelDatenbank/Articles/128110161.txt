@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>besonders langlebiges und wetterfestes Design</li><li>stufenlose Verstellbarkeit für individuellen Komfort</li><li>robustes Stahlgestell mit grauer Beschichtung</li><li>für einen optimalen Sitzkomfort</li><li>graue Ästhetik für zeitloses Design<br/></li></ul>"
-}

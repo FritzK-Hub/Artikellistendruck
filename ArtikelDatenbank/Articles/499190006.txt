@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Sicherungsmutter nach DIN 985</li><li>mit einseitig eingebördeltem Klemmring aus Kunststoff</li><li>galvanisch verzinkt</li><li>Schlüsselweite (s) ca. 19,0 mm</li><li>Sechskanthöhe (m1) ca. 9,0 mm</li></ul>"
-}

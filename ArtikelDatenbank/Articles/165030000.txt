@@ -1,4 +1,0 @@
-{
-    "uvp": 5.4,
-    "attributes": "<ul><li>stabiler und robuster Türriegel aus Edelstahl</li><li>vielseitig einsetzbarer Schubriegel</li><li>aus hochwertigem, rostfreiem Edelstahl</li><li>Befestigungslöcher angesenkt</li><li>für den Innen- und Außenbereich geeignet<br/></li></ul>"
-}

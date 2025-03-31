@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Glasfaser-Spachtel für alle Untergründe</li><li>repariert kleinere Deformationen, Löcher und Risse an KFZ-Karosserien</li><li>ist elastisch und beständig gegen Vibrationen und Schwingungen</li><li>bietet optimale Haftfestigkeit, styrolreduziert</li><li>auch zur Verstärkung angerosteter Bleche geeignet</li></ul>"
-}

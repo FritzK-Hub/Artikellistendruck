@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>passendes Werkzeug für Renovierungsarbeiten</li><li>Cuttermesser für präzise Schnitte</li><li>Rakel erleichtert das Glätten von Klebefolien</li><li>für saubere Klebefolien ohne Luftblasen</li><li>Klingenarretierung im Schieber<br/></li></ul>"
-}

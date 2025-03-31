@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Schwimmhilfe in verschiedenen Farben für mehr Badespaß</li><li>aus robustem, strapazierfähigem Vinyl angefertigt</li><li>für Kinder von 3 bis 6 Jahren geeignet<br/></li><li>der Doppelring sorgt für den notwendigen Halt</li><li>so gewöhnt sich das Kleinkind langsam an das Wasser</li></ul><p></p>"
-}

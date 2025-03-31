@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>schützt dein Autobezug vor Fett, Öl, Wasser oder Essensresten</li><li>besonders strapazierfähig und wasserfest, aus Kunstleder</li><li>vielseitig für die Werkstatt oder bei verschiedenen Hobbys einsetzbar</li><li>schnell und einfach mit den Gummischlaufen und Haken montierbar</li><li>lässt sich leicht mit einem Schwamm oder Feuchttuch reinigen <br/></li></ul>"
-}

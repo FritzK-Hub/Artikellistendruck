@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>aus 100% natürlichen Materialien</li><li>umweltbewusst &amp; nachhaltig</li><li>lange &amp; gleichmäßige Brenndauer</li><li>schnelles Anzünden</li><li>gleichmäßige Hitzeentwicklung<br/></li></ul>"
-}

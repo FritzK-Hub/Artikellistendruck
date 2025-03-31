@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>lebendige Farbvielfalt</li><li>beliebte Sommerblumen</li><li>vielseitige Standortanpassung</li><li>einfache Pflege</li><li>attraktive Schnitteignung<br/><br/></li></ul>"
-}

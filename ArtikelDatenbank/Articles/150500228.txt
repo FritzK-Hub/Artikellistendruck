@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>20 runde Pappteller aus Frischfaser</li><li>aus nachwachsenden Rohstoffen hergestellt</li><li>mit einer Grammatur von 220 g/m² </li><li>der ideale Einwegteller für die nächste Grillparty</li><li>praktisch und hygienisch</li></ul>"
-}

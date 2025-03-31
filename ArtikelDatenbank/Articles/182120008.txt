@@ -1,4 +1,0 @@
-{
-    "uvp": 10.29,
-    "attributes": "<ul><li>Seitenläuferdynamo</li><li>mit Überspannungsschutz</li><li>StVZO zugelassen</li><li>langlebig und lichtstark</li><li>Fahrraddynamo rechtsklappend</li></ul>"
-}

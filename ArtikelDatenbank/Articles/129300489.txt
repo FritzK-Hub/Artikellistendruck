@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>elegante Blüten für edles Ambiente</li><li>vielseitig im Garten und Topf einsetzbar</li><li>einfach zu pflanzen und zu pflegen</li><li>perfekt als duftende Schnittblume geeignet</li><li>farbige Blütenpracht in Weiß und Rosa-Tönen</li></ul>"
-}

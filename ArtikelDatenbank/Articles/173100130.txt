@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>LED-Lampe 6,1 Watt in Tropfenform, E14-Sockel</li><li>Set beinhaltet 3 LED-Glühbirnen</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
-}

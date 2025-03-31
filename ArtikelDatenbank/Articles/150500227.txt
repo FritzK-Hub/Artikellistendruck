@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>10 recyclingfähige Pappbecher im Set</li><li>hitzebeständig bis zu 90°C</li><li>je ca. 0,473 Liter (16 oz) Fassungsvermögen</li><li>ideal für unterwegs, da leicht und unzerbrechlich</li><li>geeignet für Heißgetränke wie Kaffee, Schokolade und Tee</li></ul>"
-}

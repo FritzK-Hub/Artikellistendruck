@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>zwei Luftentfeuchterkissen je 400 g aus Granulat</li><li>wiederauffüllbar Kunststoffbox in weiß-blau</li><li>verhindert Schimmel- und Kondenswasserbildung</li><li>für weniger gelüftete Räume wie Keller geeignet</li><li>Granulat-Kissen ist ganzjährig einsetzbar<br/></li></ul>"
-}

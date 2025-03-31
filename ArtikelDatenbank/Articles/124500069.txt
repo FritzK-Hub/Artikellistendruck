@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>moderne Gießkanne Jug mit 1,8 Liter Fassungsvermögen</li><li>aus grünem Kunststoff gefertigt, besonders robust</li><li>durch dekoratives Design ein echter Hingucker</li><li>breite Öffnung für leichtes Befüllen</li><li>kann auch als Blumenvase verwendet werden<br/></li></ul>"
-}

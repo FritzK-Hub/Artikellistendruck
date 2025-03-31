@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>T-Stück für Kaltwasser-HDPE-Rohr</li><li>DVGW-geprüft, höchste Hygiene bei der Trinkwasserinstallation</li><li>druckfest bis 10 bar bei 20°C</li><li>langlebig und sicher, da aus robustem Polypropylen gefertigt</li><li>einfache und flexible Montage ohne Spezialwerkzeuge</li></ul>"
-}

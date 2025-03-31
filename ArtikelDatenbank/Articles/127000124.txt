@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>Gartenrechen aus verzinktem Stahl mit 14 Zinken</li><li>zum Feinkrümeln der Erde oder Ebnen des Bodens</li><li>ideal zum Entfernen von Moos auf Rasenflächen</li><li>unverzichtbares Werkzeug bei der Rasenpflege</li><li>rückenschonende Arbeit dank 140 cm Holzstiel<br/></li></ul>"
-}

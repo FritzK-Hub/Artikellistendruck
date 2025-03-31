@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Doppelmaulschlüssel für Heim-und Handwerker </li><li>das ideale Werkzeug für Schraubarbeiten</li><li>überzeugt durch seine Spitzenqualität </li><li>gehört in jeden Werkzeugkasten </li><li>schlanker Kopf, Schaft mit extra stabilem Profil</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 129.0,
-    "attributes": "<ul><li>hama® WiFi Heizungssteuerungs-Set</li><li>mit App- und Sprachsteuerung</li><li>komfortabel Heizkosten sparen</li><li>mit automatischen Programmen</li><li>kompatibel mit Smart-Home-Produkten anderer Hersteller</li></ul>"
-}

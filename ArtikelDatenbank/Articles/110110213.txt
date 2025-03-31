@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Saalbesen 60 cm aus massivem Holz</li><li>mit Arenga-Borsten aus der Zuckerpalme versehen</li><li>passend für grobe, trockenen oder feuchte Untergründe</li><li>zur Reinigung von feuchten Schmutz- und Ölresten</li><li>universell einsetzbar im Innen- und Außenbereich<br/></li></ul>"
-}

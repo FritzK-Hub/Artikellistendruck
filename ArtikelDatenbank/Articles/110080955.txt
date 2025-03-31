@@ -1,4 +1,0 @@
-{
-    "uvp": 3.5,
-    "attributes": "<ul><li>erstklassige Materialien sorgen für eine langlebige Nutzung</li><li>die Rosetten sind für alle Türstärken geeignet</li><li>ästhetisch ansprechende Optik und zeitloser Akzent</li><li>einfache Montage, inklusive aller Befestigungsmaterialien</li><li>speziell für Buntbartschlüssel geeignet</li></ul>"
-}

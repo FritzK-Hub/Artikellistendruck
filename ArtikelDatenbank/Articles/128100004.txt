@@ -1,4 +1,0 @@
-{
-    "uvp": 349.95,
-    "attributes": "<ul><li>Gartentisch „Arezzo“ für 6 Personen mit Aluminiumgestell</li><li>ein echter Blickfang im Garten oder Balkon</li><li>hochwertige Nonwood Tischplatte in Teakoptik</li><li>robuster und pflegeleichter Terrassentisch</li><li>besonders witterungsbeständig &amp; lichtecht<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>aromatische Blätter für asiatische Gerichte</li><li>schnelle Ernte, vielseitig einsetzbar</li><li>fördert gesunde Gartenmischkulturen</li><li>ganzjährig anbaubar im geschützten Bereich</li><li>umweltfreundlich, zieht Nützlinge an</li></ul>"
-}

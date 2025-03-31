@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>lange, Weiße Pracht</li><li>aromatische Geschmacksexplosion</li><li>vitaminreicher Genuss</li><li>unkomplizierte Pflege</li><li>optimale Erntezeit<br/></li></ul>"
-}

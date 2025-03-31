@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>Gärtnerspaten mit rundem Blatt</li><li>mit runder Einstechkante</li><li>zum sicheren Ausgraben, Einpflanzen, Graben und Entfernen von Wurzeln</li><li>Spatenblatt aus gehärtetem Borstahl</li><li>integrierter Trittschutz aus Metall</li></ul>"
-}

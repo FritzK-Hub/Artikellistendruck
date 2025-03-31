@@ -1,4 +1,0 @@
-{
-    "uvp": 479.95,
-    "attributes": "<ul><li>mit hochklappbarem Soft Touch-Display</li><li>Außenwände aus robustem DuraPlus-Material</li><li>Frostwächter macht Whirlpool ganzjährig nutzbar</li><li>mit Heizautomatik</li><li>einfaches Bedienen der digital gesteuerten Pumpe<br/></li></ul>"
-}

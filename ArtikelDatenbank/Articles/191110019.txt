@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>müheloses Verbinden der Platten durch Stecksystem</li><li>8 zusammensteckbare Platten (ca. 2 m²)</li><li>schont den Pool- oder Schwimmbeckenboden</li><li>widerstandsfähig und weich</li><li>universell einsetzbar für Pools und Schwimmbecken aller Art<br/></li></ul>"
-}

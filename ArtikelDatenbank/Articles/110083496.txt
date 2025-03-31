@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>effektiver Bodenschutz</li><li>langlebige Qualität</li><li>einfache Verwendung</li><li>unauffälliges Design</li><li>vielseitige Anwendung<br/></li></ul>"
-}

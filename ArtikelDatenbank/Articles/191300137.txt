@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>hält Getränke bis zu 5 Stunden kühl und stets transportbereit</li><li>innenliegende Trennwand für sicheren Transport von 2 Flaschen à 0,75L</li><li>antimikrobielle Innenverkleidung gegen Geruch und Schimmelbildung</li><li>praktische Fronttasche für Korkenzieher und Accessoires</li><li>gute Kühlleistung von +/- 1° C<br/></li></ul>"
-}

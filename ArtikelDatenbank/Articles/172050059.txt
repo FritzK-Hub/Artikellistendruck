@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Verlängerungskabel mit Schutzkontakt Stecker</li><li>zur Verwendung im Innenbereich</li><li>3 m Verlängerungskabel</li><li>mit abgewinkeltem Schutzkontaktstecker</li><li>ideal als Verlängerung für Haushaltsgeräte</li></ul>"
-}

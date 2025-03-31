@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>dekorative LED-Lichterkette mit 8,5 m Länge</li><li>mit 96 warmweißen LED’s versehen </li><li>LED-Beleuchtung für den Innenbereich</li><li>für Innen und Außen vielfältig einsetzbar</li><li>inklusive Timer-Funktion und mit 8 Funktionen ausgestattet<br/></li></ul>"
-}

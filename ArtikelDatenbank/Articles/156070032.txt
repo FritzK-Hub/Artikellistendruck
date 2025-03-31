@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Lackierwalze mit sehr saugfähigem, tropfarmem Flockbezug  </li><li>sehr gute Farbaufnahme und -abgabe, dadurch hohe Reichweite</li><li>geeignet für alle Lacke, konvex abgerundet<br/></li><li>glatte und leicht strukturierte Untergründe</li><li>beste Materialabdeckung</li></ul>"
-}

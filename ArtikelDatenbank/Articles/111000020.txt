@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Sortimentsbox mit Elektrobefestigungen</li><li>bestehend aus verschiedenen Universal-Dübel mit Schrauben, Kabelbinder und Nagelschellen</li><li>ideal für z.B. Elektrokabel-Verlegung</li><li>in praktischer, transparenter Kunstoff-Aufbewahrungsbox</li><li>mit Klarsichtdeckel und drei flexibel einsteckbaren Trennwänden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>kann bis Oktober geerntet werden</li><li>Anzucht im Balkonkasten zur Blattgewinnung</li><li>eignet sich als Einlegegewürz und Fischgerichten</li><li>für lockere, kalkhaltige, nicht zu trockene Böden geeignet </li><li>kein großer Pflegeaufwand notwendig<br/></li></ul>"
-}

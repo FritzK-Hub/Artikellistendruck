@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>robustes Design</li><li>vielseitige Verwendung</li><li>einfache Handhabung</li><li>stabile Stäbe</li><li>ausreichend Platz <br/></li></ul>"
-}

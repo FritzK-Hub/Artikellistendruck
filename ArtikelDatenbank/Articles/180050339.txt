@@ -1,4 +1,0 @@
-{
-    "uvp": 137.95,
-    "attributes": "<ul><li>XL-Hockerbank</li><li>Eukalyptusholz</li><li>geölte Oberfläche</li><li>Holzbank für 4 Personen</li><li>ohne Rückenlehne</li></ul>"
-}

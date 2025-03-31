@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Müllsackständer Eco erleichtert das Mülltrennen</li><li>aus robustem Aluminium-Rohgestell für einen sicheren Halt</li><li>Klemmvorrichtung des Deckels kann Müllsacke von bis zu 120 Liter aufnehmen</li><li>leicht zu reinigendes Gestell überall einsetzbar</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

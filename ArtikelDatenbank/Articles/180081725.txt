@@ -1,4 +1,0 @@
-{
-    "uvp": 26.95,
-    "attributes": "<ul><li>universal Fußplatte für Gartenzäune</li><li>aus feuerverzinktem Metall</li><li>zum Aufdübeln auf Betonfundament</li><li>mit 4 Löchern in der Grundplatte</li><li>4 Bolzenanker sind notwendig (nicht im Lieferumfang, bitte zusätzlich bestellen)</li></ul>"
-}

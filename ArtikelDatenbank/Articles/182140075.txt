@@ -1,4 +1,0 @@
-{
-    "uvp": 4.69,
-    "attributes": "<ul><li>Mini Fahrradglocke in weiß</li><li>für mehr Sicherheit im Straßenverkehr</li><li>Lenkerklingel drehbar um 360 °</li><li>individuell einstellbare Unterschale</li><li>Glocke mit optimaler Griffposition</li></ul>"
-}

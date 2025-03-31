@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>12-teiliger Schraubendreher Satz</li><li>Kreuzschlitz PH und Schlitz SZ Antrieb</li><li>durchgehende Klinge mit Aussen-6-kant</li><li>mit ergonomischem Softgriff</li><li>Längenangabe jeweils ohne Griff und 6-kant</li></ul>"
-}

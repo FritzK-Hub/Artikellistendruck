@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Sitzkissen 40 x 40 cm in verschiedenen Farben</li><li>sorgt für einen angenehmeren Sitzkomfort</li><li>ideal für Gartenbestuhlung oder als Deko-Kissen</li><li>ein pflegeleichtes Kissen für innen- und außen</li><li>lässt sich einfach reinigen<br/></li></ul>"
-}

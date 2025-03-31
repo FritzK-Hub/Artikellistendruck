@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Grillrost-Reinigungswanne quadratisch 67 x 67 cm</li><li>aus robustem, schwarzem Kunststoff gefertigt</li><li>ideal für die Reinigung vom Grillrost nach dem Grillen</li><li>Innenmaß ca. 60 x 60 cm bietet ausreichend Platz</li><li>anhand Öse platzsparend aufhängbar </li></ul>"
-}

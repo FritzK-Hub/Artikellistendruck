@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>ökologische Anzündwolle aus ausschließlich reinen Naturprodukten</li><li>Anzünder aus Holzwolle und pflanzlichem Wachs</li><li>geruchlos und verbrennt ohne jeglichen Rückstand</li><li>Kaminanzünder ohne schädliche Ruß-Entwicklung</li><li>ideal für Kamin, Lagerfeuer oder Grill<br/></li></ul>"
-}

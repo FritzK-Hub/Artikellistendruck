@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>6 Verstellwinkel im Set</li><li>aus galvanisch verzinktem Stahl</li><li>1 Rundloch und 1 Langloch / einseitig gesenkt</li><li>stabile und haltbare Montagewinkel</li><li>Bauwinkel mit 17 cm Schenkelbreite</li></ul>"
-}

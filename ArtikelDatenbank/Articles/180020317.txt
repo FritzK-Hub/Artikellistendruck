@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Stufenlos regulierbarer Wasserdruck für individuelle Bewässerung</li><li>vielseitige Möglichkeit von Punktstrahl bis leichtem Dunst</li><li>robuster, langlebiger Kunststoff<br/></li><li>praktische Schnellkupplung für einfache Handhabung<br/></li><li>ein BASIC-Tool für jeden Gärtner</li></ul>"
-}

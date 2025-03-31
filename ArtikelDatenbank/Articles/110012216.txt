@@ -1,4 +1,0 @@
-{
-    "uvp": 6.59,
-    "attributes": "<ul><li>Wasserhahnleistung optimieren</li><li>komfortabler Wasserstrahl</li><li>beeindruckende Wassereinsparungen</li><li>hochwertige Materialien</li><li>höchste Hygienestandards<br/></li></ul>"
-}

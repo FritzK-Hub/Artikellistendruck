@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Hammerstiel von GERMANIA® Qualitätswerkzeuge</li><li>für 800 g Hammerköpfe</li><li>aus Eschenholz</li><li>ovale Form</li><li>ideal als Ersatzstiel<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Gartenstecker mit \"Willkommen\" Schriftzug</li><li>in drei verschiedenen Motiven erhältlich</li><li>eine tolle Dekoration für Garten oder Balkon</li><li>auch zwischen Büschen und Blumen geeignet</li><li>in schöner Rost-Optik<br/></li></ul>"
-}

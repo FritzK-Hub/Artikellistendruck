@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Einlegegurke Libelle für ca. 50 m²</li><li>walzenförmige Sorte mit gleichmäßiger Fruchtsortierung</li><li>besonders Widerstandsfähig gegen Krätze und Mehltau</li><li>verfügt über ein geringes Kerngehäuse und bleibt grün</li><li>lässt sich sehr gut als Gewürzgurke verwenden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Textmarker 4 Stück</li><li>Set aus leuchtenden Farben: Gelb, Grün, Pink</li><li>für präzises Markieren und Unterstreichen </li><li>mit praktischem Clip </li><li>ideal für Schule, Büro und Studium</li></ul>"
-}

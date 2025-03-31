@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>    LED Begrenzungsleuchte für optimale Ausleuchtung und Sicherheit des Anhängers    </li><li>3 leistungsstarke LEDs sorgen für eine helle und klare Beleuchtung</li><li>vielseitig, kompatibel mit 12 V und 24 V Bordnetz </li><li>anschlussbereit, Flachkabel mit Endkappe vormontiert </li><li>einfache Befestigung mit nur zwei Schrauben</li></ul>"
-}

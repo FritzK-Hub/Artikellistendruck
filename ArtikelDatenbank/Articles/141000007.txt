@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>25 kg Quarzsand im PVC-Sack mit 0,5-1,25 mm Körnung</li><li>geeignet für Sandfilteranlagen und Wasseraufbereitung</li><li>Material: mehrfach gewaschener und kassierter feiner Quarzsand</li><li>frei von organischen Verunreinigungen, kantengerundete Form</li><li>hochwertige Qualität durch modernste Aufbereitungstechnik<br/></li></ul>"
-}

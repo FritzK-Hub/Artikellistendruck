@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>    fertig abgetönte, matte Wandfarbe</li><li>    geeignet für Neu- und Renovierungsanstriche    </li><li>gut deckend und leicht zu verarbeiten </li><li>waschbeständig, streichfertig und tropfgehemmt    </li><li>für moderne Wandgestaltung und kreative Anstrichtechniken</li></ul>"
-}

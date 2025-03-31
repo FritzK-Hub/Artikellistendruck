@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Kelle in Katzenzungenform</li><li>aus rostfreiem Stahl</li><li>mit lackiertem Holzgriff</li><li>Länge Blatt 140 mm</li><li>Länge Griff 120 mm</li></ul>"
-}

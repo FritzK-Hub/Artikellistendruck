@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>passendes Schuhwerk für den kleinen Helfer</li><li>für die Gartenarbeiten oder Abenteuern im Freien geeignet</li><li>in verschiedenen Größen für gute Passform erhältlich</li><li>grobstolliges Profil für sicheren Stand</li><li>geringes Eigengewicht gegen schnelles ermüden<br/></li></ul>"
-}

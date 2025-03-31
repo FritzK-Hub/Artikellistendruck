@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Set beinhaltet 12 feine Ersatzsägeblätter aus stabilem Metall</li><li>einseitige, gehärtete Schneide ermöglicht präzise Schnitte und saubere Ergebnisse</li><li>vielseitig für die verschiedensten Holz- oder Kunststoffprojekte einsetzbar </li><li>das perfekte Zubehör für jeden Bastler und Handwerker</li><li>einfach in der Handhabung, lässt sich schnell und unkompliziert auswechseln<br/></li></ul>"
-}

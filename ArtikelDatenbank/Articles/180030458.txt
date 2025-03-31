@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>ideale Stütze für Orchideen oder hohen Blumen</li><li>greift den Pflanzen sanft \"unter die Arme\"</li><li>in verschiedenen transparenten Farben</li><li>lässt sich leicht in die Erde einbringen</li><li>Orchideenstab rückt nicht in den Vordergrund<br/></li></ul>"
-}

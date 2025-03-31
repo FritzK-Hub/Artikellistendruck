@@ -1,4 +1,0 @@
-{
-    "uvp": 23.49,
-    "attributes": "<ul><li>Langzeitschutz für Holz bis zu 8 Jahre</li><li>transparente Textur betont natürliche Holzmaserung</li><li>UV-Schutz verhindert Holzvergrauung effektiv</li><li>tropfgehemmt für einfache und saubere Anwendung</li><li>schnelltrocknende Formel für rasche Ergebnisse</li></ul><p></p>"
-}

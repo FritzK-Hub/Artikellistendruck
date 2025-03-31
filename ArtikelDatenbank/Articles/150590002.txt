@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Trinkglas mit 450 ml Fassungsvermögen</li><li>stets ein erfrischendes Getränk parat<br/></li><li>Schraubdeckel mit Durchführung für Trinkhalm</li><li>bietet effektiven Insektenschutz</li><li>großzügige Öffnung erleichtert das Befüllen<br/></li></ul>"
-}

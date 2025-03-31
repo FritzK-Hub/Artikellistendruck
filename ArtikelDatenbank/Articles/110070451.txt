@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>ideales Reinigungsmittel für Öl-, Kachel- und Kaminöfen</li><li>entfernt Ruß und Rückstände schnell und gründlich</li><li>sofortige Wirkung bei besonders einfacher Anwendung</li><li>effektive Reinigung für einen sauberen und hygienischen Ofen</li><li>langlebiges Reinigungsmittel für mehrmalige Anwendungen<br/></li></ul>"
-}

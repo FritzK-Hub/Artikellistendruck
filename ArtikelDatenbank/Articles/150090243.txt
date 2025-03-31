@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Anhänger Rückleuchte (ohne Glühlampe)<br/></li><li>rechts oder links verwendbar</li><li>Funktionen: Brems-, Rücklicht, Kennzeichenleuchte und Blinker</li><li>Spannung Bordnetz: 12 V</li><li>E4 Prüfziffer</li></ul>"
-}

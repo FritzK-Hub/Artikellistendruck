@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>leistungsfähige Panasonic Akku Batterien 2 Stück</li><li>vorgeladene Batterie direkt aus Verpackung einsatzbereit</li><li>passende Ersatzbatterien für verschiedenen Elektrogeräte</li><li>für den Einsatz in Fernbedienungen, Fotoapparaten oder Spielzeugautos</li><li>sind bis zu 1000 mal wiederaufladbar<br/></li></ul>"
-}

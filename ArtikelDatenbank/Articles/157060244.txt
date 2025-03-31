@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>geruchsneutraler Tapetenlöser</li><li>für Tapeten aller Art und Leimfarben</li><li>entfernt schnell und sicher alte Tapeten</li><li>ausgezeichnete Penetrationsfähigkeit</li><li>sehr gute Löseeigenschaften<br/></li></ul>"
-}

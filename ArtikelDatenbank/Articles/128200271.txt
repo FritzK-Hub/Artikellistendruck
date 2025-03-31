@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>dekorative LED-Kerze batteriebetrieben 10 x 10 cm im Betontopf</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>erhältlich in runder oder quadratischer Form</li><li>täuschend echte Kerzenflamme durch warmweißes Licht</li><li>passende Tischdekoration im Innen– und Außenbereich<br/></li></ul>"
-}

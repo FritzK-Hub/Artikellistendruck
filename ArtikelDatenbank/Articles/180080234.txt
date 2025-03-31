@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Fallrohrschelle für Regenrinnen-Fallrohre</li><li>zum Verankern der Fallrohre an der Hausfassade</li><li>aus braunem PVC </li><li>für Rohrdurchmesser von ca. 90 mm</li><li>wetterfest und UV-beständig</li></ul>"
-}

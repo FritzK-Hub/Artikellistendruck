@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Textilkleber, lösemittelfrei</li><li>transparent auftrocknend</li><li>gebrauchsfertig</li><li>leicht zu verarbeiten</li><li>mit sehr hoher Klebekraft</li></ul>"
-}

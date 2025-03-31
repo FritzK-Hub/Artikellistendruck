@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<ul><li>Zuverlässiger Schutz vor Vogelfraß </li><li>UV-beständig </li><li>aus robustem Polyethylen HDPE </li><li>engmaschiges Netz </li><li>Maschenweite ca. 10 x 10 mm</li></ul>"
-}

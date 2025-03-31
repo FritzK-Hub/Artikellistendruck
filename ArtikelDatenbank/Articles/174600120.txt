@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>praktische Teleskop-Handtuchstange aus Edelstahl </li><li>vielseitig einsetzbar</li><li>stufenlos verstell- und fixierbar</li><li>zeitloses Design</li><li>inklusive Befestigungsmaterial und Montageplatte<br/></li></ul>"
-}

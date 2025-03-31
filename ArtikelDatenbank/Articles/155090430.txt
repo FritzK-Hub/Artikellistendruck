@@ -1,4 +1,0 @@
-{
-    "uvp": 2.19,
-    "attributes": "<ul><li> hochwertiger F-Stecker aus Metall </li><li> zum Aufschrauben auf ein Koaxial-Kabel </li><li>2 Stück in der Packung </li><li> ideal für DVB-Sat </li><li> leichte Handhabung </li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.26,
-    "attributes": "<ul><li>Fahrrad Kerzen-Sattelstütze aus Stahl</li><li>zur Montage des Sattels</li><li>solide Ausführung</li><li>Kerzen-Sattelstütze</li><li>ohne Sattelkolben</li></ul>"
-}

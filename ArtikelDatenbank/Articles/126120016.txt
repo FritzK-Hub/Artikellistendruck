@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Ersatzfadenspulen 2 Stück je 1,2 mm x 6 m</li><li>passender Ersatzfaden für Güde® Rasentrimmer GRT 251 P</li><li>für das Trimmen von Rasenkanten und schwer zugänglichen Stellen</li><li>einfache Montage an den Schneidkopf</li><li>Fadenspule besitzt ein rundes Profil<br/></li></ul>"
-}

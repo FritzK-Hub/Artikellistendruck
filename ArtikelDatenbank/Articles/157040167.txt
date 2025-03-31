@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>Spezial-Weißlack auf Acrylatbasis für innen und außen</li><li>blockfest, vergilbungsfrei und wetterbeständig</li><li>leicht zu verarbeiten und geruchsarm</li><li>Der Blaue Engel Siegel</li><li>PU-verstärkt und besonders widerstandsfähig</li></ul>"
-}

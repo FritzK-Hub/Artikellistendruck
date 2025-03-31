@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Kopfsalat „Attractie“ für ca. 200 Pflanzen</li><li>eignet sich gut für den Sommeranbau</li><li>feste, große und gelbgrüne Köpfen und kleinem Umblatt</li><li>ist eine besonders schoßfeste Sorte</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

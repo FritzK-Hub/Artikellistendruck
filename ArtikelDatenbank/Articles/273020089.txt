@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Phillips Kreuz Spezial-Bit in der Größe PH2</li><li>mit Tiefenanschlag für schnelles, effektives und materialschonendes Arbeiten</li><li>zum bündig Verschrauben von Trockenbau-Materialien</li><li>aus stabilem S2 Stahl</li><li>passt zu allen Standard-Bit-Aufnahmen von Hand- und Maschinenwerkzeugen</li></ul>"
-}

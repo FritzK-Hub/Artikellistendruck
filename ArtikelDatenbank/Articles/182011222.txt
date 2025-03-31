@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Räucherbox für geschmackvolle Grillvariationen</li><li>aus robustem Edelstahl gefertigt</li><li>einfach mit Holzspänen, Rauchpellets, aromatischen Hölzern oder Kräutern befüllen</li><li>für jeden Holzkohle- als auch Gasgrill geeignet</li><li>sorge für neue aromatische Grillideen und begeistere damit deine Gäste</li></ul>"
-}

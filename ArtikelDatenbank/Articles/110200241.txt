@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Leimholzplatte aus Fichtenholz</li><li>Massivholzplatte aus aneinandergeleimten Riegeln</li><li>mit geschliffener Oberfläche und gefasten Kanten</li><li>vielseitig einsetzbar für den Innenausbau</li><li>zur Herstellung dekorativer Elemente oder zum Basteln</li></ul>"
-}

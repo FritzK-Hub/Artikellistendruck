@@ -1,4 +1,0 @@
-{
-    "uvp": 0.59,
-    "attributes": "<ul><li>sehr kurze Kulturzeit</li><li>relativ anspruchslos</li><li>kurze Früchte</li><li>reifen gelb ab</li><li>lässt sich sehr gut als Gewürzgurke verwenden</li></ul>"
-}

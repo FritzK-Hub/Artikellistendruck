@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Toilettenbürste aus massivem Edelstahl</li><li>passende Ersatzbürste für die WC-Garnitur</li><li>ist besonders hygienisch und pflegeleicht</li><li>sorgt für mehr Sauberkaut auf dem WC</li><li>Bürstenkopf ist auswechselbar<br/></li></ul>"
-}

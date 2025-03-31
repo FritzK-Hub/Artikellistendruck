@@ -1,4 +1,0 @@
-{
-    "uvp": 499.0,
-    "attributes": "<ul><li>hohe Schnittleistung bei maximaler Sicherheit</li><li>patentierte Schutzklappe bietet zusätzlichen Schutz</li><li>robuste Konstruktion für lange Lebensdauer</li><li>Betrieb über 230 Volt Steckdose</li><li>einfache Handhabung durch ergonomisches Design</li></ul>"
-}

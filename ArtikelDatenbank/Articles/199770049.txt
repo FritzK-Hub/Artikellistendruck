@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>dienen zur Befestigung von Einlege- und Regalböden</li><li>besonders strapazierfähig, aus weißem Kunststoff</li><li>in Schränken oder anderen Möbelstücken einsetzbar</li><li>garantieren eine dauerhafte und zuverlässige Unterstützung</li><li>mitgelieferte Nagelstifte erleichtern die Montage der Regalböden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 24.9,
-    "attributes": "<ul><li>vielseitig einsetzbar im Haushalt, Garten und Werkstatt</li><li>präzise Schneidleistung durch gehärtete, geschliffene Zähne</li><li>langlebig und widerstandsfähig bei intensiver Nutzung</li><li>robuste Qualität für professionelle Ansprüche</li><li>ergonomische Soft-Griffe für komfortable Nutzung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>elegantes Design</li><li>vielseitige Montageoptionen</li><li>hochwertige Materialien</li><li>einfach zu reinigen</li><li>leichte Installation<br/></li></ul>"
-}

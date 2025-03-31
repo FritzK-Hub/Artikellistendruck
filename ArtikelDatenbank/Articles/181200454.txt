@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Runkelrübe Brigadier für ca. 600 Pflanzen</li><li>eine wertvolle und leistungsstarke Futterpflanze</li><li>liefert schnell und große Futtermassen</li><li>Knolle dient als Saftfutter für die Tiernahrung</li><li>ihre Blätter werden als Frischfutter ganzjährig genutzt<br/></li></ul>"
-}

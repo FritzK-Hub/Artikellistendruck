@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>für Wand- und Deckenflächen im Innenbereich</li><li>vielseitige Anwendbarkeit</li><li>effizientes Spachteln und Glätten</li><li>zuverlässiges Füllen von Rissen und Löchern</li><li>hohe Verbrauchseffizienz</li></ul>"
-}

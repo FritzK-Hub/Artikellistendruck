@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Gartenkalk gekörnt im 20 kg Beutel</li><li>für eine nachhaltige Krümelstruktur des Bodens</li><li>beugt Moosbildung vor</li><li>ideal für Rasen, Ziergärten, Gemüse und Obst</li><li>Inhalt ist ausreichend für ca. 200 m²<br/></li></ul>"
-}

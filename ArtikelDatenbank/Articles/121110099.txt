@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>hochwertiger Pflanztopf für den Innenbereich</li><li>besticht durch ein Riffelmuster in Anthrazit</li><li>aus hochwertigem Kunststoff im modernen Design</li><li>inklusive herausnehmbarem Einsatz mit 2 Griffen</li><li>erleichtert eine flexible Bepflanzung oder Reinigung<br/></li></ul>"
-}

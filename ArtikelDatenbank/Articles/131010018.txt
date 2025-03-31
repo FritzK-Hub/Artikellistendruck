@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Urinsteinlöser für Sanitäranlagen</li><li>entfernt Urinstein, Kalk, Rostflecken, Wasserstein</li><li>anwendbar 1:10 verdünnt oder unverdünnt</li><li>nicht für säureempfindliche Materialien geeignet</li><li>enthält Salzsäure</li></ul>"
-}

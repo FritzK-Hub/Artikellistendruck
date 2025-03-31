@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>zum Binden von Gestecken oder Kränzen</li><li>30 m langer Draht mit Kunststoff-Beschichtung</li><li>besonders biegsam und leicht zuschneidbar</li><li>ist auch als Steckdraht vielseitig einsetzbar</li><li>auf ein Holzstäbchen gewickelt, erleichtert das Abwickeln</li></ul>"
-}

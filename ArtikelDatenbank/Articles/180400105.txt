@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>Drehmomentschlüssel mit Umschaltknarre 1/4\"</li><li>Vierkant Antrieb, einstellbar von 5 bis 25 Nm</li><li>zum Anziehen auf Drehmoment bei Verschraubungen</li><li>gut lesbare, kontrastreiche Skala <br/></li><li>präzise Einstellmöglichkeit mit automatischer Auslösung</li></ul>"
-}

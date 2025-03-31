@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>3er Pack LED-Einbaustrahler mit 38° Spot-Beleuchtung</li><li>perfekt um einzelne Gegenstände oder Bilder präzise zu beleuchten</li><li>durch LED-Technologie äußerst langlebig und wartungsarm</li><li>mit 3 Stufen Dimmung einfach über deinen Wandschalter</li><li>einfach schwenkbar bis 45° für flexible Ausleuchtung</li></ul><p></p>"
-}

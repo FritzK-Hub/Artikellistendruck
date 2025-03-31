@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>analoge Zeitschaltuhr für Elektrogeräte und Beleuchtung</li><li>mechanischer Drehschalter für einfache Uhrzeiteinstellung</li><li>flexible Steuerung der Schaltintervalle durch Kipphebel</li><li>spritzwassergeschützt (IP44) für Innen- und geschützten Außenbereich</li><li>kleinste Schaltzeit beträgt 30 Minuten</li></ul>"
-}

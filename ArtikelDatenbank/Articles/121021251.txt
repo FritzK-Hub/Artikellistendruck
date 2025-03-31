@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Knete für Kinder</li><li>10 Stangen im Set</li><li>in verschiedenen Farben</li><li>in Faltschachtel</li><li>Knetmasse zum Spielen und Modellieren<br/></li></ul>"
-}

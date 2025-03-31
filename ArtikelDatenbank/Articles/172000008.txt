@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Schutzkontakt Aufputz Steckdose 1-fach in grau</li><li>aus schlagfestem Kunststoff IP44 hergestellt</li><li>für den Einsatz in Feuchträumen geeignet</li><li>ist mit einem Klappdeckel versehen</li><li>Aufputz-Montage erfolgt waagerecht</li></ul>"
-}

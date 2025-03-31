@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>festliche Designs unterstreichen weihnachtliche Stimmung</li><li>wiederverwendbar und umweltschonend</li><li>Trinköffnung erlaubt komfortables Unterwegs-Trinken</li><li>robust und langlebig im täglichen Gebrauch</li><li>ideal für heiße Getränke überall</li></ul>"
-}

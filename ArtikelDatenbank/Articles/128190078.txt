@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>witterungsbeständiges Zierkissen Outdoor Butterfly </li><li>wasserabweisend, speziell für den Einsatz im Freien konzipiert </li><li>auffälliges Schmetterlings-Design in kräftigen Farben </li><li>angenehmes Sitzgefühl dank weicher Füllung</li><li>dekoratives Element für Terrassen, Balkone oder andere Außenbereiche</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>2 Ersatzbezüge für Bodenwischer mit Klapphalter</li><li>entfernen mühelos und kraftvoll Schmutz von allen Bodenbelägen</li><li>aus Microfaser für schonende Reinigung auch ohne Chemie</li><li>passend für viele handelsübliche Klapphalter von 40 bis 42 cm</li><li>beide Microfasertücher sind bis zu 60°C waschbar<br/></li></ul>"
-}

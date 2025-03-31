@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Smoothiemaker mit zwei Kombi-Trinkbechern</li><li>Becherdeckel mit praktischer Trinköffnung</li><li>auslaufsichere Dichtung</li><li>mit hochwertigem Edelstahlmesser</li><li>rutschfester Stand, einfach zu reinigen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Polierscheibe Ø 125 mm mit 6 mm Spanndorn von BGS</li><li>aus weicher Baumwolle gefertigt</li><li>für Polierarbeiten auf lackierten Oberflächen</li><li>auch für unlackierten Metallen wie Aluminium oder Stahl geeignet</li><li>zur Verwendung in Bohrmaschinen, Akkuschrauber und Druckluftschleifer<br/></li></ul>"
-}

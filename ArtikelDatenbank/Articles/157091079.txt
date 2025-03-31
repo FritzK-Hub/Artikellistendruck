@@ -1,4 +1,0 @@
-{
-    "uvp": 3.51,
-    "attributes": "<ul><li>für Dachrinnen Ø 75 - 105 mm</li><li>verhindert Verstopfungen des Regenwasser-Ablaufs</li><li>einfache und schnelle Montage per Nocke-Nut-System</li><li>aus stabilem Kunststoff</li><li>witterungsbeständig</li></ul>"
-}

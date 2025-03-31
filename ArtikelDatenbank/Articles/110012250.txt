@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>zuverlässiges Geräte-Wandventil</li><li>hochwertiges Pressmessing für Haltbarkeit</li><li>Anschluss: 1/2\", Schlauchanschluss: 3/4\"</li><li>effektiver Rückflussverhinderer</li><li>stilvolle, verchromte Optik<br/></li></ul>"
-}

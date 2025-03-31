@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Schäkel aus hochwertigem Edelstahl</li><li>max. Tragkraft 625 kg</li><li>Ausführung gerade Form</li><li>rostfrei</li><li>Rundschäkel mit Loch für Schäkelschlüssel</li></ul>"
-}

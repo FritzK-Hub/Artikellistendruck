@@ -1,4 +1,0 @@
-{
-    "uvp": 84.95,
-    "attributes": "<ul><li>Kreissäge mit HM - Sägeblatt</li><li>Anti-Rutsch-Handgriff für sicheres Arbeiten</li><li>Sicherheitsschalter mit Einschaltsperre</li><li>Schnitttiefe und Gehrungswinkel einstellbar</li><li>Anschluss für externes Absaugsystem</li></ul>"
-}

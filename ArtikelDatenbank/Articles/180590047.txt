@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>kleines, handliches Warndreieck in Rot</li><li>bietet auch bei Nacht und Nebel eine gute Sichtbarkeit</li><li>Metallgestell verhindert versehentliches umkippen</li><li>ist geprüft und zugelassen</li><li>bei Nichtgebrauch in Aufbewahrungsköcher verstaubar<br/></li></ul>"
-}

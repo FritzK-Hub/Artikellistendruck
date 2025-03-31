@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>spezielle gefertigte, schwimmfähige Futtersticks</li><li>Hauptfutter für alle Kaltwasser- und große Warmwasserfische</li><li>enthält alle lebenswichtigen Nähr- und Aufbaustoffe</li><li>optimal für den Freilandteich entwickelt</li><li>das Wasser wird durch das Futter nicht getrübt</li></ul>"
-}

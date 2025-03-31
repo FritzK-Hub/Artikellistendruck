@@ -1,4 +1,0 @@
-{
-    "uvp": 849.0,
-    "attributes": "<ul><li>leise Mähleistung mit nur 55 Dezibel</li><li>bewältigt bis zu 35% Steigung</li><li>automatische Rückkehr bei Regen</li><li>einfache Bedienung über App-Steuerung</li><li>schnelle Ladezeit von nur 120 Minuten</li></ul>"
-}

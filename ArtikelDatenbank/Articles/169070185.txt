@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Vorhangschloss Gera 42 von ISEO</li><li>gering freiliegender Bügel</li><li>extra robuste Ausführung</li><li>mit gehärtetem Bügel</li><li>inklusive zwei Schlüssel<br/></li></ul>"
-}

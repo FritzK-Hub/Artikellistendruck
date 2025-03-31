@@ -1,4 +1,0 @@
-{
-    "uvp": 2.39,
-    "attributes": "<ul><li>zweiseitiges Einfassprofil in weiß</li><li>aus stabilem Hart-PVC gefertigt</li><li>zur Abdeckung von Stoßfugen</li><li>als Abschlussleiste und Kantenschutz</li><li>zum Verdecken unsauberer Schnittkanten</li></ul>"
-}

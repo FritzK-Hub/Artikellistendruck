@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>für den Einsatz in elektrischen Verteilern und Schaltschränken</li><li>benutzerfreundlich dank Ein- und Ausschaltfunktion per Kurzimpuls</li><li>steuert Leuchten von mehr als zwei Schaltpunkten</li><li>besonders nützlich in Treppenhäusern und großen Räumen</li><li>kompakte Bauform erleichtert die Montage auf Hutschienen in Verteilern<br/></li></ul>"
-}

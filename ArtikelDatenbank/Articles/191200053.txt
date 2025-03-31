@@ -1,4 +1,0 @@
-{
-    "uvp": 169.95,
-    "attributes": "<ul><li>Räucherofen XXL mit Thermometer zum Räuchern und Garen</li><li>zur Konservierung und Geschmacksveredelung</li><li>große Fronttür, 3 Etagen und ausreichend Platz</li><li>verfügt über ein hitzebeständiges Glasfenster</li><li>inklusive 12 Räucherhaken<br/></li></ul>"
-}

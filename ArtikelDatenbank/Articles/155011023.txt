@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Standardgröße passt in viele Kugelschreiber</li><li>langlebige Messinghülle bietet hohe Stabilität</li><li>satte blaue Tinte erlaubt beste Lesbarkeit</li><li>praktisches Set mit fünf Minen</li><li>ideal für geschäftliche und private Zwecke</li></ul>"
-}

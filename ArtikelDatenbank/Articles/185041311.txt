@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Teelichthalter aus robustem Metall</li><li>in vier verschiedenen Motiven erhältlich</li><li>schafft eine entspannte Atmosphäre</li><li>ist eine vielseitig einsetzbare Dekoration</li><li>für LED- und normale Teelichter geeignet<br/></li></ul>"
-}

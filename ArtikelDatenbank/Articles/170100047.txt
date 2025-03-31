@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>selbstklebend für mühelose Anwendung</li><li>rückstandslos entfernbar bei Bedarf</li><li>pflegeleicht abwischbar</li><li>vielseitig für Möbel und Dekoration einsetzbar</li><li>natürliches Holzdesign erzeugt modernes Ambiente</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Biegefeder für Metallverbundrohre</li><li>Spezialstahl aus Rundprofil</li><li>zum leichten Biegen enger Radien</li><li>verhindert Stauchungen im Biegeradius</li><li>keine Gefahr der Verletzung des O-Ring Abdichtbereiches<br/></li></ul>"
-}

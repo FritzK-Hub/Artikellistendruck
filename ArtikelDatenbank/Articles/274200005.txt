@@ -1,4 +1,0 @@
-{
-    "uvp": 0.99,
-    "attributes": "<ul><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>Zollgröße 4\"</li><li>bis 35mm Klemmbereich</li><li>starke Feder</li><li>geringes Gewicht</li></ul>"
-}

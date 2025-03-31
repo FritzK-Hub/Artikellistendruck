@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>LED-Glaskuppel batteriebetrieben für die Herbstzeit<br/></li><li>zeigt verschieden große Pilze mit warmweißer LED-Beleuchtung</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>zur Gestaltung in Wohnräumen oder Treppenhäusern</li><li>vielseitig einsetzbare Herbstsdekorationen<br/></li></ul>"
-}

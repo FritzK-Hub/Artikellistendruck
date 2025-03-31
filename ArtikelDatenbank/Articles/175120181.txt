@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Gaskartusche mit Butan</li><li>für die meisten handelsüblichen Campingkocher, Kartuschenbrenner oder Lötlampen</li><li>ergiebig und schnell austauschbar</li><li>Stechkartusche ist nicht wieder befüllbar</li><li>ideal für den Campingurlaub oder Angelausflug</li></ul>"
-}

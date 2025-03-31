@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>analoge, mechanische Zeitschaltuhr für den Außenbereich</li><li>Zeitzyklus von min. 30 min. bis max. 24 h manuell einstellbar</li><li>verfügt über einen erhöhten Berührungsschutz, spritzwassergeschützt</li><li>spannungsfrei bei gezogenem Stecker</li><li>Einstellung der Schaltzeit mit Kipphebel</li></ul>"
-}

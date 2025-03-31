@@ -1,4 +1,0 @@
-{
-    "uvp": 5.15,
-    "attributes": "<ul><li>Zündkerzeneinsatz 3/8 Zoll Antrieb</li><li>Antriebsprofil Vierkant<br/></li><li>aus Chrom-Vanadium-Stahl</li><li>geschmiedet verchromt poliert</li><li>mit Gummi-Einsatz zur Fixierung</li></ul>"
-}

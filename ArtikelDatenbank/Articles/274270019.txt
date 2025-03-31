@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Größe 200 mm </li><li>Kopf poliert</li><li>2-Komponenten Griffhülle</li><li>GS geprüft</li></ul>"
-}

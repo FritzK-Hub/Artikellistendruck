@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Regentonnen-Verbinder 3/4 Zoll</li><li>mit 25 cm Schlauch und zwei Schlauchstutzen</li><li>komplett montiert, einfache Montage</li><li>Regentonnen Verbindungsset aus Kunststoff</li><li>inklusive Kontermutter<br/></li></ul>"
-}

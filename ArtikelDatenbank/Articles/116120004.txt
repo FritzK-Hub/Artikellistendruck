@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>belastbar bis max. 120 kg</li><li>aus verzinktem Stahl</li><li>korrosionsbeständig</li><li>gefertigt nach DIN 5299</li><li>für Feuerwehr, Handwerk und Haushalt</li></ul>"
-}

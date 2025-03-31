@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>LED Solarleuchte 6 cm zum Aufhängen</li><li>mit echter Glaskugel und weißem Licht</li><li>für schöne Lichtakzente im Garten oder Balkon</li><li>schaltet sich bei Dämmerung automatisch ein</li><li>Glaskugel mit Crackle-Effekt (Bruchglas)</li></ul>"
-}

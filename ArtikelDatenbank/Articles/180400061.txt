@@ -1,4 +1,0 @@
-{
-    "uvp": 559.95,
-    "attributes": "<ul><li>Drehmomentschlüssel mit Umschaltknarre</li><li>3/4\" Vierkant Antrieb, einstellbar von 140 bis 980 Nm</li><li>für Rechts- und Linksbetrieb für Steckschlüsseleinsätze 3/4\"</li><li>präzise Einstellmöglichkeit mit automatischer Auslösung</li><li>inklusive Kunststoffkoffer und Kalibrierungszertifikat</li></ul>"
-}

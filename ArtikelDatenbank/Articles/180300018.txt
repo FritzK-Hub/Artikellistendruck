@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>leistungsstarkes Hochdruckreiniger-Konzentrat mit wohlriechendem Apfelduft</li><li>ideale Lösung für die Reinigung von Außenbereichen</li><li>passend für Treppen, Wegen oder Terrassen</li><li>entfernt effektiv Öle, Fette und mineralischen Schmutz</li><li>vielseitig, für Kalt- oder mit Heißwassergeräte geeignet<br/></li></ul>"
-}

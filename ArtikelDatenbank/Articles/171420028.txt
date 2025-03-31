@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>maximale Belastbarkeit von 30 kg</li><li>perfekt für Gipskarton und OSB-Platten</li><li>einfache und sichere Montagehilfe</li><li>robuste A3 Stahlkonstruktion</li><li>komfortabler Nylongriff</li></ul>"
-}

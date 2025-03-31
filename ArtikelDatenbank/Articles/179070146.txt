@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Werkzeugkoffer \"Multicase\" mit schlagfestem Kunststoffrahmen</li><li>6 verschiedene Fächer sorgen für mehr Ordnung</li><li>Arretier-Griffe an Schubladen verhindern ungewolltes Herausziehen</li><li>mit Löchern an der Rückseite für die Wandbefestigung</li><li>für deine Werkstatt, Garage oder Keller geeignet</li></ul>"
-}

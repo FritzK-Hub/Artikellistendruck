@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>zwei Helligkeitsstufen für flexible Beleuchtung</li><li>Ventilator sorgt für angenehme Abkühlung</li><li>vielseitige Befestigung dank Magnet und Haken</li><li>USB-Aufladung mit LED-Ladestatus-Anzeige</li><li>Powerbank-Funktion als Notfall-Energiequelle</li></ul>"
-}

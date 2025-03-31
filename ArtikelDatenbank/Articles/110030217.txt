@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>sanfte und schonende Reinigung für empfindliche Oberflächen</li><li>aus hochwertiger Lurex-Faser ohne Metall</li><li>vielseitig einsetzbar für verschiedene Oberflächen</li><li>kratzfreie Reinigung, selbst bei hartnäckigem Schmutz</li><li>effektive Reinigungslösung für den täglichen Gebrauch<br/></li></ul>"
-}

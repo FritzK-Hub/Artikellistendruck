@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>die schnelle Hilfe zur Kühlerreparatur</li><li>dichtet schnell und dauerhaft alle Arten von Kühlsystemen ab</li><li>repariert kleine Leckagen und Haarrisse ohne Beeinträchtigung des Kühlsystems</li><li>kann auch vorsorglich angewandt werden</li><li>enthält Korrosionsschutzmittel</li></ul>"
-}

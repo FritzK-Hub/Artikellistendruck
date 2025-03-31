@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Einfache Installation mit Schnellkupplung und Stecknippel</li><li>Robuste PVC-Konstruktion mit Gewebeeinlage</li><li>10 Meter Schlauchlänge für Flexibilität</li><li>Maximaler Arbeitsdruck: 15 bar</li><li>Leichtgewicht: ca. 1100 g<br/><br/></li></ul>"
-}

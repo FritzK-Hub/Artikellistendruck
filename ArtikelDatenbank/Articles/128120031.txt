@@ -1,4 +1,0 @@
-{
-    "uvp": 104.95,
-    "attributes": "<ul><li>Essgruppe \"Köln\" bestehend aus Esstisch und zwei Stühlen</li><li>stabile Tischplatte und Sitzfläche aus MDF</li><li>Gestell aus solidem Stahlrohr, pulverbeschichtet</li><li>für den Innenbereich geeignet</li><li>optimal für kleine Küchen und Flächen<br/></li></ul>"
-}

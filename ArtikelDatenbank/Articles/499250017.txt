@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Hutmutter M5 nach DIN 1587</li><li>aus galvanisch verzinktem Stahl gefertigt</li><li>schützt die Schraubverbindung vor Dreck und Feuchtigkeit</li><li>verhindert eine mögliche Verletzungsgefahr</li><li>vielseitig einsetzbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>praktisches Gefäß zur Verarbeitung von z.B. Gips</li><li>einsetzbar im Trockenbau, Spachtelarbeiten usw.</li><li>elastischer Becher, mühelos zu reinigen</li><li>konische Form für bessere Handhabung</li><li>hohe Ausführung</li></ul>"
-}

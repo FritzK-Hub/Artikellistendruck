@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>modernes Design setzt stilvolle Akzente</li><li>leicht und dennoch robust</li><li>wetterfest zum ganzjährigen Einsatz</li><li>vielseitig für drinnen und draußen geeignet</li><li>langlebig durch hochwertigen Kunststoff</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>dekorativer Beistelltisch Ø 50 cm in Dunkelgrau</li><li>ideal für Wohnräume oder im Garten</li><li>robustes, mattes Metallgestell für mehr Stabilität</li><li>große Ablagefläche bietet ausreichend Platz</li><li>lässt sich gut mit anderen Möbelstücken kombinieren<br/></li></ul>"
-}

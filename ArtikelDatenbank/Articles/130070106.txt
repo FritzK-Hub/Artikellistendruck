@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Kühlschrank-Deo extra stark</li><li>absorbiert Gerüche</li><li>Wirkungsdauer ca. 3 Monate</li><li>einfache Handhabung</li><li>Wirkungsstoff: 100 % Aktivkohle<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Deckel aus robustem Kunststoff</li><li>in ovaler Form</li><li>ideal zum Abdecken von unserem ovalen 10 Liter Kunststoffeimern</li><li>schützt vor Auslaufen und Austrocknen der Farbe</li><li>schnelle und einfache Verwendung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>selbstklebende Dekorationsfolie 210 x 90 cm</li><li>mit schönen Nussbaum-Motiv versehen</li><li>für verschiedene Anwendungen einsetzbar</li><li>lässt sich einfach aufkleben und ist abwaschbar</li><li>kann ohne Kleberückstände entfernt werden<br/></li></ul>"
-}

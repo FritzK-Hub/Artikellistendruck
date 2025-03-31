@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>handliche Kartuschenpresse, für präzise Arbeit</li><li>aus stabilem Aluminium gefertigt</li><li>für einfaches Auspressen einer Kartusche</li><li>einfache Klickbewegung wird Druck ausgeübt</li><li>ideal für Baukleber, Komponentenkleber und Silikonkartuschen<br/></li></ul>"
-}

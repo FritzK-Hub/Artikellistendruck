@@ -1,4 +1,0 @@
-{
-    "uvp": 49.99,
-    "attributes": "<ul><li>1,2m Endoskopkamera batteriebetrieben mit TFT-Monitor 50x35mm<br/></li><li>zur Erkundung von schwer zugänglichen Stellen geeignet</li><li>drei Aufsätze zur Bergung von verlorenen Gegenständen</li><li>ideal zur Fehlersuche von spannungslosen Systemen</li><li>überträgt die Bilder Live und in Farbe</li></ul><p></p>"
-}

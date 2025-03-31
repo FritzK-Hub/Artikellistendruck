@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>flexible Kronkorken aus Silikon im Set</li><li>bunt gemischt für die einfache Getränkezuordnung</li><li>auch für kohlensäurehaltige Getränke geeignet</li><li>schützt Getränke auch vor Insekten und Schmutz</li><li>einfach zu reinigen, spülmaschinengeeignet <br/></li></ul>"
-}

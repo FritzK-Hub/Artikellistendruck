@@ -1,4 +1,0 @@
-{
-    "uvp": 6.3,
-    "attributes": "<ul><li>vielseitig einsetzbares Set, bestehend aus Spitz- und Flachmeißel</li><li>passend zu leichten bis mittelschweren Bohrmaschinen oder Bohrhämmern</li><li>nützliches Werkzeug für Stemmarbeiten in Beton, Mauerwerk oder Gestein</li><li>werkzeugloser und schneller Wechsel, durch SDS Plus-Aufnahme</li><li>passendes Zubehör für jeden Handwerker, egal ob für Profi oder Hobbyheimwerker<br/></li></ul>"
-}

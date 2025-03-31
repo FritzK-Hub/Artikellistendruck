@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>tiefwurzelnde, strapazierfähige Trockenrasensamenmischung</li><li>auch zur Ausbesserung von reparaturbedürftige Rasenflächen</li><li>besonders ressourcenschonend, benötigt wenig Wasser</li><li>auch für trockene Standorte geeignet</li><li>reicht für ca. 40 m²<br/></li></ul>"
-}

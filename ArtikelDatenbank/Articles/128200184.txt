@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>inklusive Glaseinfassung</li><li>unterer Teil beschichtet</li><li>ca. 9 Stunden Brenndauer</li><li>besonders sicherer Docht</li><li>rauch- und geruchsneutral<br/></li></ul>"
-}

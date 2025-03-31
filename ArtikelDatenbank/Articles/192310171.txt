@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>dekoratives Lichternetz mit 2 m Länge</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>mit 160 warmweißen LEDs versehen</li><li>vielseitig einsetzbare Innen- und Außenbeleuchtung</li><li>inklusive 3 m langes Netzkabel</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.59,
-    "attributes": "<ul><li>Pfostenträger in U-Form</li><li>aus feuerverzinktem Stahl</li><li>mit Betonanker aus Riffelstahl</li><li>für Holzzäune und Holzkonstruktionen</li><li>schnelle Montage durch einbetonieren</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Langzeitbetrieb dank 10-Jahres-Batterie</li><li>kompaktes Design für unauffällige Platzierung</li><li>zuverlässiger Alarm mit hoher Lautstärke</li><li>einfache Installation ohne Fachkenntnisse</li><li>automatische und manuelle Möglichkeit zur Funktionsprüfung<br/></li></ul>"
-}

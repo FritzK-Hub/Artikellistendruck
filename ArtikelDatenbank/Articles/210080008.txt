@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Einfülltrichter aus Kunststoff für Öl, Benzin, Diesel</li><li>mit eingebautem Sieb für mehr Sauberkeit</li><li>für den schnellen und sauberen Ölwechsel</li><li>Öl und säurebeständig, flexibler Rüssel</li><li>Einfülltrichter ist auch für Wasser geeignet</li></ul>"
-}

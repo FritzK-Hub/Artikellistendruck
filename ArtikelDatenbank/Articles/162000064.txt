@@ -1,4 +1,0 @@
-{
-    "uvp": 49.99,
-    "attributes": "<ul><li>kuschelweiche Wohndecke in Creme</li><li>aus Flanell 260 g/m² gefertigt</li><li>ideal für Wohnzimmer, Schlafzimmer oder Garten</li><li>stilvolles Accessoire für deine Couch</li><li>wärmendes und pflegeleichtes Produkt<br/></li></ul>"
-}

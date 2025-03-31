@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>dekoratives Pflanzgefäß für innen</li><li>Übertopf mit geringem Gewicht</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>aus hochwertigem Kunststoff</li><li>runder Blumentopf mit Bordüre<br/></li></ul>"
-}

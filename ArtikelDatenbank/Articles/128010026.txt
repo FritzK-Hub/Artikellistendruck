@@ -1,4 +1,0 @@
-{
-    "uvp": 769.9,
-    "attributes": "<ul><li>das perfekte Einstiegsmodell für Anfänger</li><li>leichter Aufbau mit Federklammern</li><li>Verglasung aus leichten Hohlkammerplatten (HKP)</li><li>Aluminiumprofile für dauerhaften Schutz vor Korrosion</li><li>inklusive Dachfenster, Regenrinnen und Öse für Vorhängeschloss<br/></li></ul>"
-}

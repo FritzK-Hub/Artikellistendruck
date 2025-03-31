@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>lösemittelfreier Hartschaumkleber</li><li>für Styropor-, Depron-, Dekorplatten und Untertapeten</li><li>für den Innenbereich</li><li>gebrauchsfertig</li><li>leicht zu verarbeiten</li></ul>"
-}

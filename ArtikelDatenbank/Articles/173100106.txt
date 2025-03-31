@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>LED Lampe mit Stiftsockel G4</li><li>warmweißes, angenehmes Licht</li><li>lange Lebensdauer</li><li>LED Birne mit guter Farbwiedergabe</li><li>Lampenwechsel durch einfaches Austauschen</li></ul><p><br/></p>"
-}

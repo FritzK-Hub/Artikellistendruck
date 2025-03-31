@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Vorhängeschloss \"Keller\" 50 mm</li><li>Schlosskörper aus Messing, Bügel aus Stahl</li><li>inklusive 3 Schlüsseln</li></ul>"
-}

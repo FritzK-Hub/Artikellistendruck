@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>passendes Ergänzungsfuttermittel mit Honig</li><li>für Zwergkaninchen, Meerschweinchen, Hamster und andere Nager</li><li>enthalten alle lebenswichtigen Vitamine</li><li>köstlicher Leckerbissen zum Verwöhnen</li><li>ohne künstliche Farbstoffe gefertigt</li></ul>"
-}

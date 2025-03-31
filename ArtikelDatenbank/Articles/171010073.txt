@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>HSS Spiralbohrersatz - rollgewalzt</li><li>Bohrer geeignet für Metalle</li><li>hohe Qualität, geschliffen, Schneidenwinkel 118°</li><li>große Stabilität und Festigkeit</li><li>für Profis und Hobbyheimwerker</li></ul>"
-}

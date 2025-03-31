@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Brokkoli „Calabrese Natalino“ für ca. 40 Pflanzen</li><li>ist eine mittelspät erntefähige Brokkoli-Sorte</li><li>besitzt dunkelgrüne, mittelgroße als auch feste Köpfe</li><li>ideal zur Verfeinerung von Eintöpfen, Aufläufe oder Salate</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

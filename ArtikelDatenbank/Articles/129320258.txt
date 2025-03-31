@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>riesige Kerne, köstlicher Geschmack</li><li>vielseitige Verwendungsmöglichkeiten</li><li>imposante Größe und Schönheit</li><li>pflegeleicht und anpassungsfähig</li><li>nachhaltige Naturfreundlichkeit<br/></li></ul>"
-}

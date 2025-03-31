@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Pfostenverbinderschraube blau/gelb verzinkt</li><li>Tellerkopfschraube mit CUT-Spitze</li><li>passend für Bohrergröße 7 mm und T40 Bit</li><li>Kein Vorbohren erforderlich</li><li>Großer Kopf verdeckt die Löcher</li></ul>"
-}

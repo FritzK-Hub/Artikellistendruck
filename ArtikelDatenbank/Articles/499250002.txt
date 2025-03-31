@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Hutmutter mit M8 Gewinde nach DIN 1587</li><li>aus massivem, rostfreiem A2 Edelstahl gefertigt</li><li>schützt Schraubenenden vor Rost und Verschmutzung</li><li>verhindert Verletzungsgefahr am Schraubenende</li><li>wird bei Fahrrädern oder Seilen verwendet</li></ul>"
-}

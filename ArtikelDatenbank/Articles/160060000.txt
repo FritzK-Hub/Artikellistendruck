@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Klebeband für Kinesiologietherapie</li><li>zur Unterstützung und Stabilisierung von Muskel- und Gelenkpartien <br/></li><li>bei Muskel- und Gelenkbeschwerden</li><li>zur äußeren Anwendung</li><li>aus hypoallergenen Materialien gefertigt</li></ul>"
-}

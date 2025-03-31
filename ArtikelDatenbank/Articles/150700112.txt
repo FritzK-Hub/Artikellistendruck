@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Aufbewahrungsdose aus stabilem Kunststoff in Schwarz</li><li>7 Liter Fassungsvermögen bietet ausreichen Stauraum</li><li>sorgt für mehr Ordnung in deinen Wohnräumen</li><li>geeignet für Spielzeug oder Haushaltsutensilien</li><li>im zeitlosem, klassischem Design<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>klassischer Universal-Aufbewahrungskorb<br/></li><li>aus widerstandsfähigem Kunststoff</li><li>kleiner Haushaltskorb mit Loch-Design</li><li>abwaschbar und leicht zu reinigen</li><li>praktische Aufbewahrungsbox für verschiedene Utensilien</li></ul>"
-}

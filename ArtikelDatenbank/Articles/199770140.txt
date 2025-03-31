@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>zur präzisen Justierung von verschiedenen Messingteilen</li><li>besonders langlebig und belastbar, aus Stahl gefertigt</li><li>im Maschinenbau, Elektrik oder Automobilindustrie einsetzbar</li><li>Innensechskantantrieb erleichtert die Befestigung</li><li>vordere Spitze und Vollgewinde garantieren eine präzise Einstellung<br/></li></ul>"
-}

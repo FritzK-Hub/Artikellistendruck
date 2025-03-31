@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Markerbsen Gloriosa für ca. 8 laufende Meter</li><li>robust mittelstarkem Wuchs und großem Grünkern</li><li>eine ertragreiche und frühreifende Sorte</li><li>selbst unter schlechten Bedingungen bringt sie Ertrag</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

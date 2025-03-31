@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>Phasenanschnitt-Helligkeitsregler (Dimmer) für Unterputz-Montage</li><li>klassisches Design mit hoch-glänzender Oberfläche</li><li>geeignet für dimmbare LED-, Glüh- und Halogenlampen (HV+NV mit Trafo)</li><li>kann anstelle jedes Aus- / Wechselschalters eingesetzt werden</li><li>mit Druck-Wechselschalter</li></ul>"
-}

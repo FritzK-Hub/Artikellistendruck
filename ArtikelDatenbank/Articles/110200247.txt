@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>sägeraue Holzlatte aus Fichte oder Kiefer</li><li>unbehandeltes, kammergetrocknetes Holz</li><li>für die Montage von Gipskarton- oder OSB-Platten </li><li>für Renovierungsarbeiten und Ausbauten</li><li>vielseitig einsetzbare Latte für Holzkonstruktionen<br/></li></ul>"
-}

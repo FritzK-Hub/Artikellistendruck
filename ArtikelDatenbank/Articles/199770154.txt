@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>praktische Abdeckkappen in Schwarz</li><li>zum Abdecken unansehnlicher Schraubenköpfe</li><li>einfache Montage</li><li>halten selbständig</li><li>ideal für den Möbelbau<br/><br/></li></ul>"
-}

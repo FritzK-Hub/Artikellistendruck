@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>einfache und schnelle Montage</li><li>praktische selbstklebende Rückseite</li><li>elegantes weißes Design</li><li>Metallstift sorgt für sicheren Halt</li><li>einfach zu entfernen</li></ul>"
-}

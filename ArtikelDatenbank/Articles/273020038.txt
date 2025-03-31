@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>speziell für die Befestigung von Schlitzschrauben</li><li>aus hochwertigem S2-Stahl für Robustheit und Langlebigkeit</li><li>passt zu Ratschenschraubern und Akkuschraubern für zahlreiche Anwendungen</li><li>einfache Montage und Demontage, spart Zeit und Mühe</li><li>dank 1/4\" Sechskantschaft für alle gängigen Bithalter geeignet<br/><br/></li></ul>"
-}

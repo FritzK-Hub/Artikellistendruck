@@ -1,4 +1,0 @@
-{
-    "uvp": 224.95,
-    "attributes": "<ul><li>vielseitig einsetzbarer Arbeitstisch Country Life mit zwei Schubladen</li><li>aus massivem 18/10 Edelstahl nach DIN 430</li><li>zur Vorbereitung für Grillabende oder Aufbewahrung vom Pflanzenbedarf</li><li>Tischbeine sind in der Höhe verstellbar</li><li>bei Nichtgebrauch platzsparend abbaubar<br/></li></ul>"
-}

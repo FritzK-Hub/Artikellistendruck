@@ -1,4 +1,0 @@
-{
-    "uvp": 29.9,
-    "attributes": "<ul><li>hochwertiges Min-Max-Thermometer von Vitavia mit analoger Anzeige</li><li>höchste, niedrigste und aktuelle Temperatur ablesbar</li><li>gut zwischen Pflanzen versteckbar</li><li>Temperaturbereich -50°C bis 50°C</li><li>ideal fürs Gewächshaus<br/></li></ul>"
-}

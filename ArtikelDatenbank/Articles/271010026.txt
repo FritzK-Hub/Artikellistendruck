@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>umfangreiches Kombi-Bohrersatz mit den gängigsten Größen</li><li>zum Bohren von verschiedenen Materialien wie Holz, Gestein oder Metall</li><li>besonders langlebig und widerstandfähig, aus Chrom-Vanadium-Stahl<br/></li><li>unverzichtbares Zubehör für jeden, egal ob für Profi- oder Hobbyhandwerker</li><li>bei Nichtgebrauch platzsparend in der Kunststoffbox aufbewahrbar<br/></li></ul>"
-}

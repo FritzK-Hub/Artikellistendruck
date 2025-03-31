@@ -1,4 +1,0 @@
-{
-    "uvp": 36.99,
-    "attributes": "<ul><li>vielseitige Anwendung</li><li>mit zwei Libellen</li><li>für präzise Ausrichtungen</li><li>robuste Konstruktion</li><li>besonders langlebig</li></ul>"
-}

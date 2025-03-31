@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Rheinkies im 25 kg Sack</li><li>Korngröße 8 bis 16 mm</li><li>reiner Naturstein</li><li>z. B. für Gartenwege und Beeteinfassungen</li><li>multifunktional<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>Spezial-Hohlraumdübel aus massivem Metall mit Haken</li><li>durch einen Federmechanismus klappen die Schenkel selbstständig in jeder Lage im Hohlraum auf</li><li>lange Gewindestange für große Wandstärke</li><li>zur Befestigung von Bildern, Lampen, Sockelleisten, Schlüsselkästchen oder kleinen Wandregalen</li><li>gute Haltekraft und einfache Montage<br/></li></ul>"
-}

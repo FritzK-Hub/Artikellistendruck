@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Batterieclip für 9 V Blockbatterien</li><li>2 Stück im Set </li><li>mit Anschlussdrähte in Rot-Schwarz</li><li>mit Drucksockel für eine Zelle</li><li>in Standard- I-Ausführung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>erleichtert das Greifen ohne Bücken</li><li>integrierter Magnet für kleine Metallteile</li><li>leicht und handlich zur komfortablen Nutzung</li><li>vielseitig einsetzbar im Haushalt und draußen</li><li>bietet Unabhängigkeit und Komfort im Alltag</li></ul>"
-}

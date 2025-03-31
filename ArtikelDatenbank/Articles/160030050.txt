@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Handschuhe aus Thermolite Hohlfaser</li><li>PPU-Nitril-Schaumbeschichtung mit Noppen</li><li>nahtloser, leichter Montagehandschuh</li><li>atmungsaktiv, hoher Tragekomfort</li><li>ideal für Garten- und Landschaftsgestaltung</li></ul>"
-}

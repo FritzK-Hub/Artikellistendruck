@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>schnelles, müheloses Aufblasen</li><li>optimale Stabilität auf unebenem Untergrund</li><li>perfekte Unterstützung für Kopf und Nacken</li><li>vielseitig einsetzbar in verschiedenen Umgebungen</li><li>platzsparendes Zusammenfalten für einfachen Transport</li></ul>"
-}

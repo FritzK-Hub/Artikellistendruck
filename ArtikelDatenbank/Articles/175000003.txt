@@ -1,4 +1,0 @@
-{
-    "uvp": 1499.0,
-    "attributes": "<ul><li>Pelletofen mit Easy Start System zur schnellen Zündung</li><li>raumluftunabhängig, ohne Entzug von Sauerstoff</li><li>Tages- und Wochenprogrammierung über Display</li><li>Anschluss an einem Raumthermostat möglich</li><li>schnelle, effiziente Raumerwärmung<br/></li></ul>"
-}

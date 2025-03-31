@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Spitz-Diabolos, glatte Luftgewehr-Munition</li><li>Kaliber 177 / 4,5 mm</li><li>mittelschwerer Spitzdiabolo 4,5 mm</li><li>geeignet für mittlere Distanzen bis 30 m</li><li>Gewicht pro Diablo ca. 0,56 g</li></ul>"
-}

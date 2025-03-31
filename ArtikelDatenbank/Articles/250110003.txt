@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Polierscheibe \"Lammfell\" für Freihand-Winkelschleifer und Poliermaschinen</li><li>mit Klettunterseite zur Aufnahme auf Polierteller</li><li>gut geeignet für das Oberflächen-Finish</li><li>auch zur Entfernung eingetrockneter Poliermittelresten</li><li>passend für Klett-Teller von 125 mm Durchmesser</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>passend für Überwurfmuttern in der Größe ⅜\"</li><li>geeignet für den Einsatz in Haushalt und Industrie</li><li>hochwertiges Fasermaterial für zuverlässige Abdichtung</li><li>einfache Installation dank präziser Passform</li><li>enthält vier Dichtringe</li></ul><p></p>"
-}

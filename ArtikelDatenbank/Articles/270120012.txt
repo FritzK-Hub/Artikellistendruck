@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Drahtbürste von GERMANIA® Qualitätswerkzeuge</li><li>4-reihig mit 25 mm Stahldrahtborsten</li><li>mit einem ergonomischen 2-K Griff</li><li>gebogene Ausführung</li><li>universal für verschiedene Einsatzgebiete</li></ul>"
-}

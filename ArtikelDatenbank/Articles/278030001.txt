@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>90° Schreinerwinkel 400 x 600 mm</li><li>beidseitig Skala in Zentimeter und Millimeter</li><li>Zimmermannswinkel aus Metall</li><li>schwarz lackiert</li><li>weiße Skalierung</li></ul>"
-}

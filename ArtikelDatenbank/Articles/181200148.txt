@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Kopfsalat Maiwunder für ca. 200 Pflanzen</li><li>qualitativ hochwertiger Butterkopfsalat</li><li>für den Winteranbau gut geeignet</li><li>Probefeldgetestete Qualität</li><li>zarte, hellgrüne Außenblätter mit gelben Innenkopf</li></ul>"
-}

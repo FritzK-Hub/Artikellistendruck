@@ -1,4 +1,0 @@
-{
-    "uvp": 20.69,
-    "attributes": "<ul><li>Wischerblätter Unitec Multi 450/450 mm</li><li>passend für fast alle gängigen Fahrzeugmodelle</li><li>optimale Wischqualität für die Fahrzeugfront</li><li>bessere Aerodynamik mit 4in1 Multiadapter</li><li>kein zusätzlicher Adapterwechsel mehr nötig<br/></li></ul>"
-}

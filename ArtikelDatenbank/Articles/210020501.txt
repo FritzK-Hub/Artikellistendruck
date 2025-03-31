@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>hochwertige Schlagfalle aus Holz</li><li>klassiche Falle mit Wippe</li><li>extra starke Klemmvorrichtung</li><li>schnell und effektiv <br/></li></ul>"
-}

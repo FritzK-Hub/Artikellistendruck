@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Grassamen Saatgut für den Sport- und Spielrasen</li><li>reicht für ca. 100 m² Rasenfläche</li><li>sorgt für eine Grasfläche, die dem alltäglichen Bedarf trotzt</li><li>Mischung für robusten, widerstandsfähigen und regenerationsfähigen Rasen</li><li>eignet sich auch zur Nachbesserung bzw. Übersaat für ausbesserungsbedürftigen Rasenflächen</li></ul>"
-}

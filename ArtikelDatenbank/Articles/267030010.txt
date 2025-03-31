@@ -1,4 +1,0 @@
-{
-    "uvp": 23.99,
-    "attributes": "<ul><li>nach DIN EN 1492-2 genormt</li><li>8-fache Sicherung</li><li>ideal für Baustellen, Freizeit, Haus und Garten</li><li>aus Polyester</li><li>säurebeständig</li></ul>"
-}

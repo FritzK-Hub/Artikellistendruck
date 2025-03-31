@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>leistungsstarke Hebelübersetzung</li><li>antihaftbeschichtete Klinge</li><li>langlebige Stahlschenkel</li><li>sicherer Halt</li><li>vielseitig und leicht</li></ul>"
-}

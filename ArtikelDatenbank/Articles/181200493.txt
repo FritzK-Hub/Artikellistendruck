@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Buschbohnen Jutta, ohne Fäden</li><li>eine mittelfrüh reifende Bohnensorte</li><li>für alle Anbaugebiete geeignet</li><li>eignet sich ideal zum Einfrieren</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

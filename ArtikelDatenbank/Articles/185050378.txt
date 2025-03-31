@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>dekorative LED-Beleuchtung aus Silberdraht</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>Lichterkette mit insgesamt 100 LEDs</li><li>vielfältig einsetzbar als Leuchtdekoration</li><li>LED-Lichterkette geeignet für den Innenbereich<br/></li></ul>"
-}

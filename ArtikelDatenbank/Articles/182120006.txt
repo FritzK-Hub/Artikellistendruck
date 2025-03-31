@@ -1,4 +1,0 @@
-{
-    "uvp": 3.69,
-    "attributes": "<ul><li>Reflektor für das Fahrradheck</li><li>StVZO zugelassen</li><li>Passend für Sattelstützen und Rahmenteile</li><li>einfache Montage</li><li>Heckreflektor für mehr Sicherheit</li></ul>"
-}

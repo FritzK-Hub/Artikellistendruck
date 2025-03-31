@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Schmutzfangmatte für intensiv genutzte Räume</li><li>für den Innen- und Außenbereich geeignet</li><li>gute Reinigungswirkung durch bürsten-ähnliche Oberfläche</li><li>die Fußmatte ist wetterbeständig und leicht zu reinigen</li><li>erweiterbar durch Zusammenstecken</li></ul>"
-}

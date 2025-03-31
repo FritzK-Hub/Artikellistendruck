@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Fallrohrbogen für den Regenrinnen-Ablauftrichter aus PVC</li><li>hochwertige Verarbeitung</li><li>abgestuft, 3 Stufen</li><li>zum Verbinden des Regenrinnenablauftrichters mit dem Regenrinenfallrohr</li><li>abgewinkelte Ausführung</li></ul>"
-}

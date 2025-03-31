@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Steckschaum-Block 20 x 10 x 7,5 cm in Grün</li><li>für frische Schnittblumen</li><li>für Gestecke und Grabschmuck</li><li>kann einfach mit einem Messer zugeschnitten werden</li><li>zuverlässiger Helfer<br/></li></ul>"
-}

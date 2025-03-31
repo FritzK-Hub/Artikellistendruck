@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>UV-beständiger Balkonkasten in Rattan-Optik</li><li>zum direkten Bepflanzen geeignet</li><li>aus hochwertigem Kunststoff</li><li>mit abnehmbarem Untersetzer</li><li>Überlauflöcher können nach Belieben gebohrt werden</li></ul>"
-}

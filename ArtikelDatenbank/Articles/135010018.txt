@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>2 Gasgeräte gleichzeitig anschließbar</li><li>robuste, langlebige Materialien</li><li>präzise, zuverlässige Leistung</li><li>unabhängige Gasregulierung</li><li>einfache Installation</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 41.99,
-    "attributes": "<ul><li>mit Antikalk-Noppen</li><li>3-fach verstellbare Strahlarten</li><li>bequeme Strahlartenumstellung</li><li>mit Samtstrahltechnologie </li><li>Wasserspardichtung mit 50 % Wasserersparnis<br/></li></ul>"
-}

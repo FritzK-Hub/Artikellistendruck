@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Stockschraube für Fallrohrschelle</li><li>hochwertige Verarbeitung</li><li>wetterbeständig, verzinkt</li><li>zum Verankern der Regenrinenfallrohren an der Hausfassade<br/></li><li>mit Gewindemuffe und Dübel</li></ul><p><br/></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Weihnachtsdeko Schlitten aus Holz</li><li>schafft eine weihnachtliche Atmosphäre</li><li>besitzt einen stabilen Stand</li><li>vielseitig einsetzbare Weihnachtsdekoration</li><li>auch passende Geschenkidee zu Nikolaus<br/></li></ul>"
-}

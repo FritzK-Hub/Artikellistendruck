@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Fahrradcomputer mit abnehmbarem Tachokopf</li><li>mit Mehrfachfunktionsanzeige mit gut lesbarem Display</li><li>inkl. rutschfestem Halter, Batterien und Befestigungsmateriel</li><li>Spritzwassergeschützt und rutschfest</li><li>für viele Fahrräder geeignet</li></ul>"
-}

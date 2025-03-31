@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Deichselschutzhaube aus Polyester</li><li>stabile Ausführung</li><li>einfache Befestigung</li><li>universelle Größe, passend für gängige Anhänger und Wohnwagen</li><li>inklusive 2 Spanngummis mit Haken</li></ul>"
-}

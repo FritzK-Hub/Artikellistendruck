@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>runder Blumentopf mit matter Optik in Anthrazit</li><li>aus strapazierfähigem, robustem Kunststoff gefertigt</li><li>Pflanzgefäß 60 cm für innen und außen</li><li>zum direkten Bepflanzen geeignet</li><li>Überlauflöcher können nach Belieben gebohrt werden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 58.29,
-    "attributes": "<ul><li>LIQUI MOLY Motorenöl Leichtlauf High Tech 5W-40 für Benzin- und Dieselmotoren</li><li>senkt den Kraftstoffverbrauch und reduziert den Schadstoffausstoß</li><li>leichter Motorlauf und optimale Motorleistung</li><li>gut geeignet für Turbomotoren</li><li>basierend auf HC-Syntheseölen<br/></li></ul>"
-}

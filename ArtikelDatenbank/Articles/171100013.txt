@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>matter Metallschutzlack in weiß<br/></li><li>direkt auf Rost anwendbar, mit 3in1 Rostschutz-Technologie </li><li>extrem witterungs- und UV-beständig</li><li>lösemittelhaltiger, schnell trocknender Metallschutz-Lack</li><li>Grundierung, Rostschutz und Lackierung in einem</li></ul>"
-}

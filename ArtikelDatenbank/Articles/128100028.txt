@@ -1,4 +1,0 @@
-{
-    "uvp": 109.95,
-    "attributes": "<ul><li>robuster Gartentisch</li><li>mit Stahlgestell</li><li>Glasplatte aus mit Strukturoptik</li><li>abgerundete Ecken</li><li>bietet ausreichend Platz für Gäste</li></ul>"
-}

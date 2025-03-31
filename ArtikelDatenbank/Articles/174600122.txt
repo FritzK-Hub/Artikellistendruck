@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>rechteckiger Duschkorb aus hochwertigem Edelstahl</li><li>perfekte Aufbewahrungsmöglichkeit für Bad und Dusche</li><li>für jede Badeinrichtung dank schlichten Design</li><li>hohe Standfestigkeit der Badutensilien</li><li>inklusive Montagematerial und Montageplatte<br/></li></ul>"
-}

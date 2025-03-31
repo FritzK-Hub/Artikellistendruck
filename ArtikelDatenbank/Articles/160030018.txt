@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>robuste Arbeitshandschuhe aus Leder</li><li>gefütterte Innenhand</li><li>schützen vor Schmutz und mechanische Risiken</li><li>Stulpe und Handrücken aus strapazierfähigem Canvas-Gewebe</li><li>gummierte Stulpe ca. 7 cm</li></ul>"
-}

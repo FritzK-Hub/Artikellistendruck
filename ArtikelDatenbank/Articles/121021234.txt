@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Lupe mit LED-Beleuchtung</li><li>3-fach Vergrößerung</li><li>extra helles Licht</li><li>inkl. Batterie</li><li>praktische Leselupe für Arbeit und Haushalt<br/></li></ul>"
-}

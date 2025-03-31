@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>hochwertiges Verbindungsstück aus langlebigem Temperguss</li><li>beständig gegen Korrosion, Druck und Temperaturschwankungen</li><li>präzise gefertigte Gewinde für sichere und dichte Verbindungen</li><li>verfügbar in verschiedenen Größen für vielfältige Anwendungen</li><li>einfache Installation und minimale Wartungsanforderungen</li></ul><p></p>"
-}

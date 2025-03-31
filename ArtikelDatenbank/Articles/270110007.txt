@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Länge: (L) ca. 910 mm</li><li>Material: Metall</li><li>Zähne: gehärtet</li><li>für Bügelsägen</li><li>Inhalt: 1 Stück</li></ul>"
-}

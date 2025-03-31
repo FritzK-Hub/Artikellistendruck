@@ -1,4 +1,0 @@
-{
-    "uvp": 44.49,
-    "attributes": "<ul><li>Plattform Akku-Heckenschere 20 V von GERMANIA®</li><li>mit einer Dual-Action-Klinge versehen</li><li>ideal für die Hecken- und Strauchpflege geeignet</li><li>Rundum-Frontgriff erleichtert das waagerechte und senkrechte Schneiden</li><li>2-Hand-Sicherheitsschalter und Softgriff für angenehmen Komfort<br/></li></ul>"
-}

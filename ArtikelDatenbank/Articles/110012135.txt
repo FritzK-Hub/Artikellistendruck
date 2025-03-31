@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Design-Flaschensiphon</li><li>aus hochglanzverchromtem Messing</li><li>für jedes Waschbecken passend</li><li>einfache Reinigung durch Entleerungsschraube</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>BGS® Bithalter mit Sechskant-Antrieb</li><li>universal einsetzbare Verlängerung für Bohrmaschinen und Akkuschrauber</li><li>mit einer 1/4\" Aufnahme</li><li>automatische Bitfreigabe</li><li>auch zur Verwendung per Hand mit T-Griff</li></ul>"
-}

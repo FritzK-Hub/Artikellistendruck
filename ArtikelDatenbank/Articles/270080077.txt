@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>Schleifteller ideal für Winkelschleifer</li><li>geeignet für Trockenschleifpapier mit Klett</li><li>Schleifteller für M14 Aufnahme</li></ul>"
-}

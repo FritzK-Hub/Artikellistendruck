@@ -1,4 +1,0 @@
-{
-    "uvp": 52.9,
-    "attributes": "<ul><li>zum Schutz der Pflanzen vor dem Brennglaseffekt</li><li>besonders robuste Beschaffenheit</li><li>sonnen-, schmutz- und feuchtigkeitsresistent</li><li>zum Einklemmen in Profile des Gewächshausdaches</li><li>Lieferung inklusive Befestigungsmaterial <br/></li></ul>"
-}

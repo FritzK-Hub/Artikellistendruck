@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Seitenschneider von GERMANIA®</li><li>mit poliertem Kopf</li><li>zwei-Komponenten Griffhülle</li><li>kann Drähte oder Saiten durchtrennen</li><li>ideal für Werkstatt und Haushalt geeignet</li></ul>"
-}

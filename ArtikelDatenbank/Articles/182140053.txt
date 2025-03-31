@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Minipumpe mit Anschluss-Schlauch</li><li>mit Schlauch für komfortable Bedienung</li><li>passend für alle gängigen Ventilarten durch Adapter</li><li>Gewinde an Schlauchende zur Fixierung</li><li>Verstaufach für Adapter</li></ul>"
-}

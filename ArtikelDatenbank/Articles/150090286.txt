@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Dreiecksreflektoren-Set 2 Stück </li><li>aus stabilem, rotem Kunststoff gefertigt</li><li>sorgt für die optimale Sicherheit</li><li>passend für Anhänger und Caravanen</li><li>einfache Montage dank Schraubbefestigung<br/></li></ul>"
-}

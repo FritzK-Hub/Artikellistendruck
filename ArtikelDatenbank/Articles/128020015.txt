@@ -1,4 +1,0 @@
-{
-    "uvp": 34.9,
-    "attributes": "<ul><li>Vitavia Regenfallrohr-Set aus PVC</li><li>ideales Zubehör für die Vitavia Gewächshäuser</li><li>damit das Regenwasser kontrolliert abfließen kann</li><li>stabil und wetterbeständig<br/></li><li>mittels Klammer direkt am Gewächshaus zu befestigen<br/></li></ul>"
-}

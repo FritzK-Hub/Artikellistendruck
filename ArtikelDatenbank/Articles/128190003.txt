@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Hängematte 200 x 80 cm aus Polyester für eine Person</li><li>in verschiedenen Farben erhältlich</li><li>ist durch fröhliche Farben eine tolle Sommerergänzung</li><li>ideal zur Entspannung nach einem anstrengenden Tag</li><li>verfügt über eine Tragfähigkeit von bis zu 120 kg</li></ul>"
-}

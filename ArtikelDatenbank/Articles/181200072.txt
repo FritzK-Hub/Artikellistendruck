@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>2 Meter Saatband Landhaus-Harmonie-Mischung</li><li>mit unterschiedlichen Sommerblumen versehen</li><li>verleiht Beeten eine romatisch-ländliche Ausstrahlung</li><li>gezielte Artenauswahl für Blütenpracht von Jun. – Okt.</li><li>eignet sich für die Dekorierung von Blumenvasen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>mobiler Luftkompressor Dunlop mit 12 V</li><li>ideal zum Aufblasen und Ablassen geeignet</li><li>für Gästebetten, Wasserbällen oder Fahrradreifen</li><li>vielseitig einsetzbares Outdoor-Zubehör</li><li>inklusive drei Aufsätze und Adapter fürs Auto<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Erste-Hilfe-Setvon Wundmed</li><li>in praktischer wiederverschließbaren Aufbewahrungsbox</li><li>besonders hautfreundlich, verkleben nicht mit der Wunde</li><li>luftdurchlässig durch Mikro-Perforation</li><li>einzeln verpackt, in 5 verschiedenen Größen</li></ul>"
-}

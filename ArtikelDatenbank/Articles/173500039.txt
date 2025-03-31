@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>LED-Tierfigur Schnecke 14,3 cm solarbetrieben</li><li>aus robustem Kunstharz gefertigt</li><li>ideal als Dekoration im Vorgarten oder auf der Terrasse</li><li>wetterfestes Material für den Innen- und Außenbereich</li><li>auch zwischen Büschen und Blumen ein echter Blickfang<br/></li></ul>"
-}

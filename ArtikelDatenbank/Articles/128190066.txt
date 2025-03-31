@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Gartenschaukel mit massivem Stahlgestell</li><li>Für bis zu 3 Personen</li><li>Gestell weiß pulverbeschichtet</li><li>Sitzbespannung aus wetterfestem Kunstgewebe</li><li>Auflage und Dachplane aus 100% Polyester</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Kettenglied mit Schraubverschluss</li><li>zum einfachen Verbinden und Verlängern von Ketten</li><li>aus Edelstahl</li><li>rostfrei</li></ul>"
-}

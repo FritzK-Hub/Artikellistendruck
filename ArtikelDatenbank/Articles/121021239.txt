@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Klebefilm-Abroller in transparent</li><li>Set mit 3 Klebefilmen, 1 Rolle im Handabroller enthalten</li><li>2 Ersatzrollen zum Nachfüllen</li><li>Größe 18 mm x 33 m</li><li>ideal für Haushalt, Schule und Büro<br/></li></ul>"
-}

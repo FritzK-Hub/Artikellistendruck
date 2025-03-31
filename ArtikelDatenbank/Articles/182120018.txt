@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>Reflektorbänder für Sicherheit in mittleren Risikosituationen</li><li>auf Baustellen, beim Wandern oder Joggen einsetzbar</li><li>leuchtendes Orange und Reflektorstreifen für mehr Sichtbarkeit</li><li>sichtbar bei Nacht und schlechten Licht- oder Wetterverhältnissen</li><li>lassen sich einfach und unkompliziert am Arm anzubringen<br/></li></ul>"
-}

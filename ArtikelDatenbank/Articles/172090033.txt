@@ -1,4 +1,0 @@
-{
-    "uvp": 45.0,
-    "attributes": "<ul><li>Profiqualität von Normex</li><li>ergonomischer Stil aus bruchfestem Fiberglas</li><li>Carbonstahlklinge mit Teflonbeschichtung</li><li>perfekte Gewichtsbalance</li><li>untrennbare Verbindung zwischen Stiel und Schlagkopf</li></ul>"
-}

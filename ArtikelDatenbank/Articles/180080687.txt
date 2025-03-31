@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Pool aus robustem, vorgetestetem Vinyl<ul><ul></ul></ul></li><li>bewährte Qualität von BESTWAY</li><li>3 gleichgroße Ringe mit Sicherheitsventilen</li><li>große Wasserkapazität von 140 Liter</li><li>Lieferung erfolgt inklusive Reparaturflicken<br/></li></ul>"
-}

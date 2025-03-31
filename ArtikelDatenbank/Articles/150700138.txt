@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Duschstuhl höhenverstellbar mit 120 kg Belastbarkeit</li><li>passend für jedes Alter geeignet</li><li>5-fach in der Höhe von 42 bis 52 cm verstellbar</li><li>Gummikappen sorgen für sicheren Halt und Stabilität</li><li>mit integrierten Griffen für einen leichteren Transport</li></ul>"
-}

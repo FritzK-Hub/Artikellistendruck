@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Sechskantschlüssel mit 3 Größen</li><li>für die Fahrrad-Wartung</li><li>Größen 4 / 5 / 6 mm</li><li>kompakt und stabil, passt in jede Fahrradtasche</li><li>sternförmiger Innensechskantschlüssel aus gehärtetem Stahl</li></ul>"
-}

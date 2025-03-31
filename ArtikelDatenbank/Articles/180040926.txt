@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>individuell nutzbarer Schutzvlies für ca. 5 Pflanzen</li><li>besonders atmungsaktiv</li><li>licht- und wasserdurchlässig</li><li>ideal für Tomaten</li><li>schützt vor Frost und Trockenheit<br/></li></ul>"
-}

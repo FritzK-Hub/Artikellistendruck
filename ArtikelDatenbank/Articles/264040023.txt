@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>stark haftender Magnethaken</li><li>hochwertiger Permanent Magnet</li><li>haftet auf allen metallischen und magnetischen Oberflächen</li><li>flexibel einsetzbar, ganz ohne Bohren, Schrauben oder Kleben</li><li>ideal für Kühlschränke, Aktenschränke und andere Metallkonstruktionen</li></ul>"
-}

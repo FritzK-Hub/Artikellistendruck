@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Sprühflasche zum Versprühen von Wasser oder Reinigungsmitteln</li><li>einfache Handhabung, leicht zu sprühen</li><li>besitzt ein Fassungsvermögen von 1,2 Litern</li><li>aus stabilem Kunststoff gefertigt</li><li>Sprühkopf ist abschraubbar<br/></li></ul>"
-}

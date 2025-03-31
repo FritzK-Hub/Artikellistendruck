@@ -1,4 +1,0 @@
-{
-    "uvp": 4.59,
-    "attributes": "<ul><li>flüssiger Lufterfrischer von Wunder-Baum®</li><li>in pfiffiger Flakon-Form</li><li>hochwertiger Parfümduft</li><li>lang anhaltende Wirkung</li><li>zum Aufhängen <br/></li></ul>"
-}

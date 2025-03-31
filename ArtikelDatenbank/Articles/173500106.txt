@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>realistischer, sicherer Fackeleffekt</li><li>automatische Aufladung und Lichtabgabe bei Dämmerung</li><li>lange Leuchtdauer von bis zu 8 Stunden</li><li>robust und wetterfest für Außeneinsatz</li><li>vielseitig als Beleuchtung und Dekoration einsetzbar</li></ul>"
-}

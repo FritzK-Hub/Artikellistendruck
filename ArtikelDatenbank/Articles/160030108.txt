@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>universelle Handschuhe in Größe 6</li><li>vielseitig in verschiedenen Bereichen einsetzbar</li><li>ermöglicht eine reibungslose Arbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>atmungsaktives Strickmaterial für angenehmen Tragekomfort<br/></li></ul>"
-}

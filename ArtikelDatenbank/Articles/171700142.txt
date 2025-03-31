@@ -1,4 +1,0 @@
-{
-    "uvp": 2.35,
-    "attributes": "<ul><li>ein vielseitiges Werkzeug für Holzreparaturen </li><li>stabil und gleichzeitig flexibel</li><li>für präzises Arbeiten</li><li>besonders leichte Reinigung</li><li>besonders robust und langlebig<br/></li></ul>"
-}

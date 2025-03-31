@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>4 Pfostenverbinderschrauben im Set mit T40 Biteinsatz</li><li>T- Profil Tellerkopf, blau verzinkt, besonders korrosionsgeschützt</li><li>durch spezielle Spitzengeometrie verringerte Spaltwirkung</li><li>ideal für den Einsatz im Zaun- und Pergolabau</li><li>es ist kein Vorbohren erforderlich</li></ul>"
-}

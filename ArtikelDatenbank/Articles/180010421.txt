@@ -1,4 +1,0 @@
-{
-    "uvp": 37.95,
-    "attributes": "<ul><li>Batterieladegerät 6 V und 12 V zum Aufladen von Auto- oder Motorradbatterien</li><li>geeignet für Bleisäure-, Gel-. Nass-, AGM und Lithium-Batterien</li><li>verfügt über einen Überhitzungs- wie Verpolungssschutz und eine Kurzschlusssicherung</li><li>LCD-Anzeige mit Hintergrundbeleuchtung zeigt stets den aktuellen Ladezustand an</li><li>inklusive Schnellkontaktkabel mit Batterieklemmen</li></ul>"
-}

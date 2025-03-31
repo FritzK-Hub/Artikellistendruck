@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Backofen und Kaminglasreiniger</li><li>in praktischer Spraydose</li><li>reinigt selbstständig, schnell und sauber</li><li>für Backöfen, Kamingläser uvm.</li><li>aktiv Schaum</li></ul>"
-}

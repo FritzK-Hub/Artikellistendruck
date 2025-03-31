@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Schnittsalat Lollo Bionda, 2 Meter Saatband</li><li>ist eine italienische Spezialität</li><li>mit knackigen, fein gezahnten Blättern</li><li>verfügt über einen angenehmen, kräftigen Geschmack</li><li>ideal für den Frischverzehr oder für Salate<br/></li></ul>"
-}

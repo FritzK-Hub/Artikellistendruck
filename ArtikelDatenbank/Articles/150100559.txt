@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Maße: (BxHxT) ca. 9 x 10 x 22 cm</li><li>Belastbarkeit: max. 1600 kg</li><li>Farbe: sortiert - schwarz oder weiss (nicht wählbar)</li><li>Halter: Schraubbefestigung</li><li>Inhalt: 1 Stück mit Klipphalter</li><li>Material: Kunststoff</li><li>universell einsetzbar</li><li>Lieferung erfolgt ohne Montagematerial</li></ul>"
-}

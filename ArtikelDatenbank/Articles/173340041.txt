@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Laterne mit Glaseinsatz und Teelichthalter</li><li>perfekte Dekoration in Garten oder Balkon</li><li>stabiler Henkel ermöglicht das Aufhängen</li><li>sorgt für eine gemütliche Atmosphäre</li><li>für echte und LED-Teelichter geeignet<br/><br/></li></ul>"
-}

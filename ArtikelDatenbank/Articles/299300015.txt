@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Flachwinkel 120 x 120 x 20 mm aus rostfreiem Edelstahl</li><li>zum Verbinden von zwei Elementen über eine Ecke</li><li>für alle Holzkonstruktionen, im Holz- und Kistenbau</li><li>mit beidseitig versenkte Schraublöcher versehen</li><li>für den Innen- und Außenbereich geeignet</li></ul>"
-}

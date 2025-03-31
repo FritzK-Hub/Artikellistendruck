@@ -1,4 +1,0 @@
-{
-    "uvp": 1798.0,
-    "attributes": "<ul><li>leistungsstarker 6,5 kW Generator mit AVR, in der Silent Ausführung mit einer Dauerleistung von 3 / 4,2 KW<br/></li><li>vielseitig für den Einsatz im Garten, auf Baustellen oder beim Camping einsetzbar </li><li>robuster Griff und stabile Räder erleichtern den Transport des Generators</li><li>mit 14,5 Liter Tank und geringem Verbrauch von 6,5 bis zu ca. 11 Stunden Betriebslaufzeit</li><li>Elektrostart und Überlastungsschutz sorgen für einfache und sichere Handhabung<br/></li></ul>"
-}

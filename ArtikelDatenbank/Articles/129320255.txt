@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>pollenfreie Perfektion</li><li>Farbenpracht im Kontrast</li><li>vielseitiger Schnittblumenliebling</li><li>einfache Pflege</li><li>bodenfreundliche Eigenschaften<br/></li></ul>"
-}

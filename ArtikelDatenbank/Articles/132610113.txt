@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>GERMANIA® Plattform 2.0 Einzel-Ladegerät 4,5 A<br/></li><li>handliche und einfache Ausführung</li><li>zum Aufladen aller GERMANIA® Akkus der 2. Generation<br/></li><li>für die gesamte Plattform 2.0 Collection geeignet</li><li>Ladezustand ist per LED-Anzeige ablesbar<br/></li></ul>"
-}

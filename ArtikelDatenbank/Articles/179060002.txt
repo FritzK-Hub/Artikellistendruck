@@ -1,4 +1,0 @@
-{
-    "uvp": 20.1,
-    "attributes": "<ul><li>vielseitige Bit-Auswahl</li><li>langlebige Qualität</li><li>praktische Aufbewahrung</li><li>magnetischer Bithalter</li><li>vielseitig einsetzbar</li></ul>"
-}

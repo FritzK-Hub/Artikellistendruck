@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>BGS® technic LED Akku-Werkstattlampe mit Befestigungs-Magneten </li><li>ideal zum Ausleuchten des Motors während der Wartung von Kraftfahrzeugen</li><li>dank Magneten im Fuß ist eine senkrechte oder waagerechte Nutzung möglich</li><li>LED-Röhre verfügt über 120 LEDs und zwei Helligkeitsstufen</li><li>inklusive 230 V Ladegerät und ein 12 V Pkw-Ladekabel</li></ul>"
-}

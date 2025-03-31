@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>einzigartige Farbvielfalt für kreative Projekte</li><li>hochwertiger Filz für langlebige Verwendung</li><li>vielseitig einsetzbar für Dekoideen aller Art</li><li>praktische Aufbewahrung im Polybeutel</li><li>schneller Zugriff für spontane Kreativität</li></ul><p></p>"
-}

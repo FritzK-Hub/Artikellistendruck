@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>GERMANIA® Arbeitshandschuhe in der Größe 9</li><li>universell einsetzbar, auch unter kalten Bedingungen geeignet</li><li>Handinnenfläche und Fingerspitzen mit Latex-Beschichtung</li><li>ideal zum Tragen von scharfkantigen Gegenständen</li><li>Griff- und Rutschfest mit elastischem Strickbündchen<br/></li></ul>"
-}

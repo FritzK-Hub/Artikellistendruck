@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>USB 3.1 Kabel für mobile Geräte mit USB-C Anschluss</li><li>zum Synchronisieren und Laden geeignet</li><li>dient zur Datenübertragung von bis zu 5 Gbit/s</li><li>abwärtskompatibel auf USB 2.0 und 1.1</li><li>passend z. B. für Handys, Smartphones, Tablets, MP3-Player<br/></li></ul>"
-}

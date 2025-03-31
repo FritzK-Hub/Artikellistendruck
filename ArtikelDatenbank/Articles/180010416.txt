@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>KFZ-Stromprüfer mit interner Glassockelsicherung</li><li>zum einfachen Überprüfen der Elektrik in 12V Bordspannungsnetzen</li><li>Prüfnadel sticht präzise in die Stromleitung</li><li>bei Nichtgebraucht einfach die Nadel mit der Kappe schützen</li><li>inklusive Krokodilsklemme<br/></li></ul>"
-}

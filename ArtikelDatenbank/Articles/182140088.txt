@@ -1,4 +1,0 @@
-{
-    "uvp": 13.29,
-    "attributes": "<ul><li>Fahrradflasche 350 ml, mit Halter</li><li>rostfreier, Edelstahl doppelwandig</li><li>geeignet für kalte und warme Getränke</li><li>Fahrradtrinkflasche mit verschließbarer Trinköffnung</li><li>Vakuum-Thermo-Becher mit Schraubverschluss</li></ul>"
-}

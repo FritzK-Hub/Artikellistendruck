@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Grillwagen eckig aus Metall in rot-schwarz</li><li>Seiten- und Bodenablage als Stauraum für dein Grillzubehör</li><li>in der Höhe verstellbare Grillfläche von 49,5 x 24,2 cm<br/></li><li>seine zwei Räder und Griff erleichtern den Transport</li><li>ein echter Blickfang auf jeder Großveranstaltung, Gartenparty, oder Geburtstagsfeier<br/></li></ul>"
-}

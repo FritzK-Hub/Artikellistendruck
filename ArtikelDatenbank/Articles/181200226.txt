@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Langendijker Dauer für ca. 120 Pflanzen</li><li>eine der besten Sorten zur Überwinterung</li><li>bildet feste Köpfe mit dunkelblauer Farbe</li><li>ist hervorragend zur Lagerung geeignet</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Streusalz, Auftausalz im 10 kg-Eimer</li><li>fördert den Tauprozess und ist langanhaltender</li><li>bestens gegen Eisglätte geeignet</li><li>besonders riesel- und streufähig</li><li>einfache Handhabung, leichtes Verteilen<br/></li></ul>"
-}

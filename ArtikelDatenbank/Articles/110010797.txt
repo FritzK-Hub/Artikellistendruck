@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<div class=\"flex max-w-full flex-col flex-grow\"><div class=\"min-h-[20px] text-message flex w-full flex-col items-end gap-2 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto\" data-message-author-role=\"assistant\" data-message-id=\"b13bad06-dd0f-4004-8970-8dc234b51568\" dir=\"auto\"><div class=\"flex w-full flex-col gap-1 empty:hidden first:pt-[3px]\"><div class=\"markdown prose w-full break-words dark:prose-invert light\"><ul><li>perfekt für Verbindungen mit Metallrohren </li><li>ideal für Sanitär- und Heizungsanwendungen</li><li>minimiert Ablagerungen und Verstopfungen</li><li>geeignet für Abwässer bis 90°C</li><li>beugt Korrosion vor</li></ul></div></div></div></div><div class=\"mt-1 flex gap-3 empty:hidden -ml-2\"><div class=\"items-center justify-start rounded-xl p-1 flex\"><div class=\"flex items-center\"> </div></div></div>"
-}

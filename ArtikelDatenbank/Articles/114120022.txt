@@ -1,4 +1,0 @@
-{
-    "uvp": 76.99,
-    "attributes": "<ul><li>wetterfeste Weitwinkel-Farbkamera von Stabo</li><li>digitale 2,4 GHz WLAN-Technik</li><li>kabellose Bild-Übertragung auf Smartphone/Tablet</li><li>sichere Funkübertragung IEE 802.11 b/g/n</li><li>Nachtsichtfunktion 15 - 20 Meter mit 2 weiße LEDs für Bewegungserkennung<br/></li></ul>"
-}

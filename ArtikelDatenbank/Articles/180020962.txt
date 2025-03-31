@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Blindkappe für Schnellkupplungen</li><li>aus Messing</li><li>verhindert das Eindringen von Schmutz und Insekten in Schläuche</li><li>kein selbstständiges Lösen auch in drucklosem Zustand</li><li>bei allen Schnellkupplungen beträgt der Klauenabstand einheitlich 40mm</li></ul>"
-}

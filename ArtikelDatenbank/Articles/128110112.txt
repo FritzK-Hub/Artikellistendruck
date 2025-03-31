@@ -1,4 +1,0 @@
-{
-    "uvp": 109.95,
-    "attributes": "<ul><li>Stapelstuhl mit Aluminiumgestell und Holzoptiklehne</li><li>auch für schlechte Witterungsverhältnisse geeignet</li><li>mit robuster Bespannung in schwarz</li><li>ein echter Blickfang dank schlichten und zeitlosen Designs</li><li>bei Nichtgebrauch platzsparend aufeinander stapelbar<br/></li></ul>"
-}

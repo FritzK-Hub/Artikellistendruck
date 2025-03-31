@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Gartensitzgruppe 4-teilig mit Metallrahmen in schwarz</li><li>Set bestehend aus 2-Sitzer Bank, Tisch und zwei Stühlen</li><li>bietet Sitzplätze für bis zu 4 Personen</li><li>geeignet für Garten, Balkon oder Terrasse</li><li>Schlichtes und stabiles Design wird dich begeistern</li></ul>"
-}

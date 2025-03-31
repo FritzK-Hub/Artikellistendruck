@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Insektenvernichter elektrisch mit robustem Gehäuse</li><li>effektive Beseitigung von Mücken und Fruchtfliegen</li><li>passend für Innenräume bis zu 80 m²</li><li>schnelles und einfaches aufstellen oder aufhängen</li><li>arbeitet mit UV-Licht, ist dabei absolut chemiefrei<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>Pendelhubstichsäge mit 800 Watt Aufnahmeleistung</li><li>Stichsäge verfügt über einen integrierten Laser</li><li>einstellbarer Neigungswinkel der Grundplatte 0° bis 45°(links und rechts)</li><li>Schnittgeschwindigkeit elektronisch stufenlos einstellbar</li><li>Griffe der Pendelhubstichsäge sind rutschfest gummiert</li></ul>"
-}

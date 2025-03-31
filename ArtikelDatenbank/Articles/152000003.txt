@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>ideal geeignet für das Aufladen von Quads, Rasenmähern, Rollstühlen usw.</li><li>maximale Auffahrhöhe von ca. 34 cm</li><li>mit praktischem Tragegriff<br/></li><li>klein zusammenklappbar und platzsparend<br/></li><li>belastbar bis max. 225 kg<br/></li></ul>"
-}

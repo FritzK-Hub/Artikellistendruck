@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Gärtnererde im 40 Liter Sack von Seramis® für Balkon, Terrasse und Garten</li><li>gebrauchsfertig zum Ein- und Umtopfen</li><li>sorgt für eine gute Luft- und Wasserführung</li><li>erhöht die Speicherkapazität von Wasser und Nährstoffen</li><li>fördert die biologische Aktivität und Fruchtbarkeit des Bodens</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>giftfreie Insektenbekämpfung bis 50 m²</li><li>effizienter Elektroschock</li><li>sichere Montage an Wand oder Decke</li><li>hygienische Reinigung dank herausnehmbarer Auffangschale</li><li>geringer Stromverbrauch</li></ul>"
-}

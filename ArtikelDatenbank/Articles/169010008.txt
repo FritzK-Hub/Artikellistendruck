@@ -1,4 +1,0 @@
-{
-    "uvp": 6.59,
-    "attributes": "<ul><li>3-teiliges Flach-Kreppband-Set</li><li>mit der Hand einreißbar</li><li>geeignet für den kurzfristigen Einsatz im Innenbereich</li><li>für scharfe Farbabgrenzungen und Kanten</li><li>ideal zum Abkleben von Fußleisten und Türrahmen</li></ul>"
-}

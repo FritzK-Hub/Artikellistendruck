@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Radies Cherry Belle, 2 Meter Saatband</li><li>Ganzjahresanbau, mild-würziger Geschmack</li><li>raschwüchsig mit dünner, leuchtend roter Schale</li><li>ideal für bunte Salate</li><li>für den Freilandanbau und Gewächshaus<br/></li></ul>"
-}

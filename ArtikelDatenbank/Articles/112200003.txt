@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>witterungsbeständig durch Verzinkung</li><li>flexible Höheneinstellung nach Bedarf</li><li>robuste Konstruktion für hohe Belastung</li><li>kompatibel mit Holz und Beton</li><li>langlebiger Helfer für Außenanlagen</li></ul>"
-}

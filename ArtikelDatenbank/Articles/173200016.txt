@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>leistungsstarke COB-LEDs mit 200/400 Lumen und 2x 5 Watt</li><li>drei Leuchtmodi zur individuellen Helligkeitsanpassung</li><li>vielseitig einsetzbar in Werkstatt, Garten und Camping</li><li>auch zur Ausleuchtung an der Decke geeignet</li><li>flexibel aufstellbar für optimale Ausleuchtung</li><li>Batteriebetrieben mit 3 Stunden Betriebszeit</li></ul><p></p>"
-}

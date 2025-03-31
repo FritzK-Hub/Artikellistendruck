@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Auftausalz im 10 kg Vorrats-Sack</li><li>langanhaltend, beschleunigt den Auftauprozess<br/></li><li>bestens gegen Eisglätte geeignet</li><li>besonders riesel- und streufähig</li><li>einfache Handhabung, leichtes Verteilen<br/></li></ul>"
-}

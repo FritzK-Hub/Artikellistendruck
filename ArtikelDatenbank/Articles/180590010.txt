@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Kfz Verbandskasten in der Farbe blau</li><li>Inhalt entspricht nach der Norm DIN 13164:2022</li><li>aus bruchsicherem Kunststoff gefertigt</li><li>ideal für das Auto oder dem Haushalt geeignet</li><li>zusätzlich eine Broschüre mit Erste-Hilfe-Hinweisen<br/></li></ul>"
-}

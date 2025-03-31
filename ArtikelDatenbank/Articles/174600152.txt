@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>einfache Montage</li><li>rückstandsfreie Entfernung</li><li>großzügiger Stauraum</li><li>hochwertige Materialien</li><li>elegantes Design<br/></li></ul>"
-}

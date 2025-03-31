@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>30 Brillenputztücher für klare Sicht</li><li>mit Antibeschlag-Wirkung für glasklaren Durchblick</li><li>weiche Feuchttücher zur Reinigung und Pflege</li><li>streifenfreie Sauberkeit, fettlösend und fusselfrei</li><li>besonders schonend</li></ul>"
-}

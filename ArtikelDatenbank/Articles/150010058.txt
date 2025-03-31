@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Fusselroller in schwarz-grün</li><li>zum Entfernen von Fusseln oder Haaren</li><li>nach der Anwendung einfach abwaschbar</li><li>einfache und schnelle Handhabung</li><li>dank Aufhängöse platzsparend aufhängbar<br/></li></ul>"
-}

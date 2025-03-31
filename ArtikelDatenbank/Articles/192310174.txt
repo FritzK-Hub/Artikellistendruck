@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>dekorative LED-Lichterkette mit 11 m Gesamtlänge</li><li>ist mit 400 warmweißen LEDs versehen</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>vielfältig einsetzbar Innen- und Außendekoration</li><li>inklusive einer ca. 3 m langen Zuleitung<br/></li></ul>"
-}

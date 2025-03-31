@@ -1,4 +1,0 @@
-{
-    "uvp": 6.47,
-    "attributes": "<ul><li>vielseitige Anwendung</li><li>doppelt isolierten Spitze</li><li>breiter Spannungsbereich</li><li>Zuverlässigkeit und Präzision</li><li>einfache Handhabung</li></ul>"
-}

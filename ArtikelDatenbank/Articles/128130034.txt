@@ -1,4 +1,0 @@
-{
-    "uvp": 329.95,
-    "attributes": "<ul><li>mit einer Wendeauflage</li><li>aus hochwertigen Materialien</li><li>ausreichend Platz zum Entspannen</li><li>äußerst robuste Bauweise</li><li>für maximalen Komfort <br/></li></ul>"
-}

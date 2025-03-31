@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>hochtransparenter Montagekleber für viele Materialien</li><li>spannungsfreies und dauerelastisches Verkleben und Verfugen</li><li>dichtet Fugen nahezu schrumpffrei</li><li>haftet auf feuchten, unebenen oder rauen Untergründen</li><li>säure-, laugen-, silikon-, isocyanat- und lösemittelfrei</li></ul>"
-}

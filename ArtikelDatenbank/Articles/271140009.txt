@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Zinkenfräser 12,7 mm von Drillcraft</li><li>aus stabilem Hartmetall gefertigt</li><li>Frästiefe von ca. 12,7 mm</li><li>maximal bis 30.000 Umdrehungen/Min. zugelassen</li><li>für den privaten oder professionellen Einsatz<br/></li></ul>"
-}

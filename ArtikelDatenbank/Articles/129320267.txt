@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>explosives Blütenreichtum</li><li>vielseitige Anwendungsmöglichkeiten</li><li>schnelles Wachstum</li><li>einfache Pflege</li><li>faszinierende Blütenpracht ab Juni<br/></li></ul>"
-}

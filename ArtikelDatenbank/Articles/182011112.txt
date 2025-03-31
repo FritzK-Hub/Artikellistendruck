@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Einschraub-Bodenhülse aus Stahl</li><li>mit 5 Kunststoff-Reduzierringen</li><li>einfache und schnelle Montage</li><li>mit seitlicher Stellschraube</li><li>ideal für Sonnenschirme und Fahnenmäste</li></ul>"
-}

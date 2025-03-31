@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>kraftvoller Kalklöser</li><li>löst auch hartnäckige Ablagerungen</li><li>für Armaturen und Flächen in Bad und Küche</li><li>in praktischer Pumpsprühflasche</li><li>nicht für säureempfindliche Materialien geeignet<br/></li></ul>"
-}

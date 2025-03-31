@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Holzfliese 30x30 cm aus Akazienholz</li><li>lässt sich nach Belieben mit anderen Fliesen verbinden</li><li>sehr standfest und präzise dank Kunststoffgitter</li><li>es werden keine Schrauben oder Kleber benötigt</li><li>Kunststoffgitter schützt effektiv vor direktem Bodenkontakt<br/></li></ul>"
-}

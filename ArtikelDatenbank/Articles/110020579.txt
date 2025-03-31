@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>effektiver Schutz</li><li>speziell für Rosen entwickelt</li><li>benutzerfreundliche Anwendung</li><li>lang anhaltender Schutz</li><li>Erhalt der Schönheit<br/></li></ul>"
-}

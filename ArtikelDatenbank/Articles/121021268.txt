@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Farbkasten mit 12 Wasserfarben</li><li>Deckel zum Abnehmen</li><li>6 integrierte runde Mischfelder</li><li>Malkasten mit auswechselbaren, eckigen Farbnäpfen</li><li>Tuschkasten mit 1 Tube Deckweiß<br/></li></ul>"
-}

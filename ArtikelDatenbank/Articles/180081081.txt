@@ -1,4 +1,0 @@
-{
-    "uvp": 12.89,
-    "attributes": "<ul class=\"mill-article-advantages--list list--unordered is--checked\"><li class=\"mill-article-advantages-list--item\">Boden bleibt frisch </li><li class=\"mill-article-advantages-list--item\">Schützt vor Austrocknung</li><li class=\"mill-article-advantages-list--item\">Form- und Windstabil</li><li class=\"mill-article-advantages-list--item\">Hecken oder Weggestaltung</li><li class=\"mill-article-advantages-list--item\">verrottet nicht</li></ul>"
-}

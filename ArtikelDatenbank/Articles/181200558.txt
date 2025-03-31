@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Zucchini mit glattschaligen, gestreiften Früchten</li><li>mit weißlichem, festem Fleisch</li><li>frühreifend, nicht rankend und sehr haltbar</li><li>mittelspät im Ertrag</li><li>im Freiland als auf im Gewächshaus pflanzbar<br/><br/></li></ul>"
-}

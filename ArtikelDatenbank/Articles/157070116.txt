@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>selbsthaftende Zellulose-Spachtel für innen</li><li>zum Füllen, Glätten, Spachteln</li><li>haftet fest und dauerhaft</li><li>schnell trocknend</li><li>ergibt glatte Oberflächen</li></ul>"
-}

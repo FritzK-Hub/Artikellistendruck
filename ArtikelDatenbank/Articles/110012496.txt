@@ -1,4 +1,0 @@
-{
-    "uvp": 7.19,
-    "attributes": "<ul><li>Anschlussschlauch 200 mm</li><li>sicher: stabile Verbindung &amp; Verlängerung bestehender Sanitärleitungen</li><li>widerstandsfähig: mit edelstahlumflochtener Ummantelung gegen Korrosion</li><li>hochflexibel und druckfest</li><li>mit beidseitiger 3/8\" Mutter<br/></li></ul>"
-}

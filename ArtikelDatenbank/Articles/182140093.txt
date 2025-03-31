@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>leichter Kinder-Fahrradhelm</li><li>besonders gute Passform verstellbares Innenring-System</li><li>hochfeste EPS-Innenschale für optimale Dämpfung</li><li>mit Insektengitter</li><li>Schutzhelm mit beleuchtbarem Innenring-System</li></ul>"
-}

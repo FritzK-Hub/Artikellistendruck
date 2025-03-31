@@ -1,4 +1,0 @@
-{
-    "uvp": 4.59,
-    "attributes": "<ul><li>    Schamottensteinplatte feuerfest bis 1100 °C    </li><li>für die Isolierung von Kaminöfen</li><li>der Kontakt mit Lebensmitteln ist unbedenklich</li><li>hervorragende Wärmespeicherfähigkeit</li><li>vielseitige Anwendungsmöglichkeiten<br/></li></ul>"
-}

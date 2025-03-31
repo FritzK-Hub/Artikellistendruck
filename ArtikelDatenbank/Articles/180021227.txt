@@ -1,4 +1,0 @@
-{
-    "uvp": 11.49,
-    "attributes": "<ul><li>Schlauchverbinder zum Anschluss am Wasserschlauch</li><li>in hochwertiger Metall-Kunststoff-Ausführung </li><li>integrierter Knickschutz gegen das Herausrutschen des Schlauches</li><li>Griffmulden aus Weichkunststoff </li><li>Klemmmutter aus Metall für eine hohe Schlauchhaltekraft<br/></li></ul>"
-}

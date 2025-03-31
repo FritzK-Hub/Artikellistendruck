@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>gasbetriebener Unkrautbrenner mit Piezozündung</li><li>zur Beseitigung von Unkraut oder Moos</li><li>einstellbare Flammentemperatur von 800 bis 1200 °C</li><li>auch als Grill- oder Kaminanzünder einsetzbar</li><li>ergonomischer Griff für sichere Handhabung<br/></li></ul>"
-}

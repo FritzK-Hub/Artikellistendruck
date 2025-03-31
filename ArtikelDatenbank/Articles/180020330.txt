@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li><div>für Flächen bis 200 m²</div></li><li><div>für 1/2\" Gartenschläuche</div></li><li><div>verschiedene Flächenbereiche einstellbar</div></li><li><div>15 Auslaufdüsen</div></li><li><div>aus Kunststoff</div></li></ul>"
-}

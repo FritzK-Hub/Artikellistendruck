@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Spitzzange ermöglicht optimale Erreichbarkeit</li><li>sichere Handhabung durch Griffhülle</li><li>hochwertiger Stahl für Robustheit</li><li>präziser Einsatz mit poliertem Kopf</li><li>integrierte Schneide für mühelose Anwendungen</li></ul><p></p>"
-}

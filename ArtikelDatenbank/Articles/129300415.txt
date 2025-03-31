@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Blumenzwiebeln Botanische Krokusse<br/></li><li>farbenfrohe Mischung aus farbigen botanischen Krokussen</li><li>zaubert einen wunderschönen Blütenteppich gleich nach dem Winter</li><li>besonderes atrraktive Wirkung in Kombination mit anderen Frühblühern</li><li>10 Stück in der Packung für Aussaat von September bis November</li></ul><p><br/></p>"
-}

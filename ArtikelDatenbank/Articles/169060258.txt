@@ -1,4 +1,0 @@
-{
-    "uvp": 9.79,
-    "attributes": "<ul><li>Pattex® Kraftkleber \"Transparent\" auf Basis der FlexTex-Technologie</li><li>ohne Lösungsmittel und weichmacher-beständig</li><li>besonders hohe Festigkeit bei Hart- und Weichkunststoffen</li><li>bei Aushärtung tranparent auftrocknend</li><li>hohe Anfangshaftung und Alterungsbeständigkeit</li></ul>"
-}

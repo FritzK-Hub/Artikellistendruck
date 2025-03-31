@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>6 teiliges Set</li><li>ideal für Kleinbohrmaschinen</li><li>geeignet zum Schleifen, Polieren und Glätten</li><li>universell einsetzbar</li><li>Profiqualität<br/></li></ul>"
-}

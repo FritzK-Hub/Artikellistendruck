@@ -1,4 +1,0 @@
-{
-    "uvp": 4.59,
-    "attributes": "<ul><li>universelle Kompatibilität</li><li>hochwertige Konstruktion</li><li>einfache Handhabung</li><li>mehrere Zapfen-Durchmesser</li><li>für eine Vielzahl von Marken</li></ul>"
-}

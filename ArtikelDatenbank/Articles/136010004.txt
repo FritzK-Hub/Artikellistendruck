@@ -1,4 +1,0 @@
-{
-    "uvp": 19.9,
-    "attributes": "<ul><li>vielseitige Axt für Camping und Jagd</li><li>integrierte Maulschlüssel sparen zusätzliches Werkzeug</li><li>kompakte Größe - handlich und transportabel</li><li>ergonomischer Griff bietet sicheren Halt</li><li>praktischer Gurtschneider für Notfallsituationen</li></ul>"
-}

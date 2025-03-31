@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>hochwertige Citronellakerze im Topf</li><li>aus echtem Wachs hergestellt</li><li>in verschiedenen Farben erhältlich</li><li>ideal zur Tischdekoration im Garten oder Balkon</li><li>hält Mücken auf natürliche Art und Weise fern<br/></li></ul>"
-}

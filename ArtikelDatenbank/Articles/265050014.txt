@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Drahtspanner aus Metall</li><li>für Draht bis zu 3,8 mm Durchmesser</li><li>ideal zum Zaunspannen</li><li>Zaunspanner in grün</li><li>Seilspanner mit einer Länge von 100 mm</li></ul>"
-}

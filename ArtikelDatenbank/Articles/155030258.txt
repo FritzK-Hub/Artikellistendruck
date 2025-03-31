@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li> Mignonzellen mit hoher Langlebigkeit </li><li> umweltfreundlich und energieeffizient </li><li>sorgt für die richtige Beleuchtung im Garten </li><li> hunderte Male wiederaufladbar, ohne Memory-Effekt </li><li> speziell für solarbetriebene Gartenleuchten geeignet </li></ul><p></p>"
-}

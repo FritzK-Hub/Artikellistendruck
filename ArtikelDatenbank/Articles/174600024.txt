@@ -1,4 +1,0 @@
-{
-    "uvp": 13.49,
-    "attributes": "<ul><li>recyceltes Material aus Gummi</li><li>nicht verrottend </li><li> wasserfest</li><li>ideal als Waschmaschinenunterlage</li><li>10 mm starkes Material<br/></li></ul>"
-}

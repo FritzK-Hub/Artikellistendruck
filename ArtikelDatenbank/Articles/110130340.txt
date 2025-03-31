@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Regalbodenträger 300 mm in weiß</li><li>aus pulverbeschichtetem Stahl gefertigt</li><li>für 1- und 2-reihige Wandschienen geeignet</li><li>passend für Wandschienen mit einem Schlitzabstand / Rastermaß von 50 mm</li><li>2 Träger sind bis 110 kg belastbar (pro Regal)<br/></li></ul>"
-}

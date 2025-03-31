@@ -1,4 +1,0 @@
-{
-    "uvp": 169.95,
-    "attributes": "<ul><li>Gartenbank Berlin 2-Sitzer aus wetterfestem Kunststoff<br/></li><li>für erholsame Momente in deinem Garten</li><li>einfacher und schneller Auf- wie Abbau dank Stecksystem</li><li>erhöhte Stabilität durch integrierte Pflanzkästen</li><li>hochwertige Qualität, made in Germany<br/></li></ul>"
-}

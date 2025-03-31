@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>ideal auch für Eriken, Azaleen und Beerensträucher<br/></li><li>speziell auf alle Rhododendron-Pflanzen abgestimmt</li><li>besonders hohe Wasser- und Nährstoffspeicherkapazität</li><li>torfreduziert, perfekt für kräftige Blütenbildung</li><li>aus nachwachsenden Rohstoffen</li></ul><p></p>"
-}

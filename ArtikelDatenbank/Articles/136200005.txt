@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>vielseitig einsetzbar, ob als Schlitz- oder Flachschraubendreher</li><li>lässt sich schnell, einfach und unkompliziert, je nach Bedarf, umstecken</li><li>ideal für jeden Handwerker, egal ob Anfänger oder Profihandwerker</li><li>rutschfester Griff sorgt für einen angenehmen Halt, auch bei längeren Arbeiten</li><li>abgeflachte Kanten verhindern das versehentliche Wegrollen<br/></li></ul>"
-}

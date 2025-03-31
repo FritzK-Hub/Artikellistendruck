@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Schutzhülle für Partyschirme von Ø 200 - 410 cm</li><li>strapazierfähiges Gewebe aus Polyethylen 100g/m²</li><li>schützt Schirme zuverlässig vor Feuchtigkeit, Schmutz und UV-Strahlung</li><li>witterungsbeständig, mit Bändern zum Festschnüren</li><li>inklusive Tragetasche zum Einfachen verstauen<br/></li></ul>"
-}

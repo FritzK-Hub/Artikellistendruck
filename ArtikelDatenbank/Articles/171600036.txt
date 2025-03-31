@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>hochglänzender Boots- &amp; Yachtlack </li><li>ist seewasserfest, wetterbeständig und abriebfest</li><li>ist glanzstabil und beständig gegen Alkohol und Haushaltsreiniger</li><li>Farblosigkeit bewahrt das natürliche Aussehen des Holzes</li><li>dient zur Neulackierung und Renovierung von Holz auf Yachten und Booten<br/></li></ul>"
-}

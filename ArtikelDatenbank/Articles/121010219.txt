@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Jumbo Buntstifte Dreikant</li><li>12 Stück im Set</li><li>Farbstifte in einer Faltschachtel</li><li>holzfrei und lackiert</li><li>Schaft in Strichfarbe<br/></li></ul>"
-}

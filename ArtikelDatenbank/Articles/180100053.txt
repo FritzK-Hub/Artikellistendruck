@@ -1,4 +1,0 @@
-{
-    "uvp": 54.29,
-    "attributes": "<ul><li>LIQUI MOLY Motoröl 5W-40 für Otto- und Dieselmotoren</li><li>Hochleistungs-Leichtlaufmotoröl für den ganzjährigen Einsatz</li><li>ist mit handelsüblichen Motorenölen mischbar</li><li>gewährleistet niedrigen Ölverbrauch</li><li>Turbo- und Kat-getestet</li></ul>"
-}

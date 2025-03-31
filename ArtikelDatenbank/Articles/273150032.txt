@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Schraubendreher PH2 Kreuzschlitz</li><li>lange Ausführung</li><li>magnetischer Schraubkopf</li><li>aus Chrom Vanadium Stahl</li><li>Griff rutschfest gummiert</li></ul>"
-}

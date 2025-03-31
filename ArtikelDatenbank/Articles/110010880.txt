@@ -1,4 +1,0 @@
-{
-    "uvp": 5.19,
-    "attributes": "<ul><li>KG-Übergangsrohr zum Verlegen von KG-Rohren</li><li>passgenaue und problemlose Anschlussmöglichkeiten</li><li>zum Verbinden von KG-Kanalrohren und HT-Rohren</li><li>Doppeldichtungs-Set für KGUG erforderlich</li><li>Sicherheit durch Rückstauverschlüsse</li></ul>"
-}

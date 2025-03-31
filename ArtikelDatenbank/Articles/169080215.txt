@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>6 Keile für Axt- und Beilstiele</li><li>aus stabilem Holz</li><li>gibt Axt- und Beilköpfen wieder festen Halt</li><li>einfach einzutreiben</li><li>3 verschiedene Größen</li></ul>"
-}

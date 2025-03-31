@@ -1,4 +1,0 @@
-{
-    "uvp": 7.79,
-    "attributes": "<ul><li>Regalsystem-Träger für Kleiderstange</li><li>aus pulverbeschichtetem Stahl</li><li>zum Einhängen in 1- und 2-reihige Wandschienen geeignet</li><li>passend für Wandschienen mit einem Schlitzabstand / Rastermaß von 50 mm</li><li>für Standardkleiderbügel (B 450 mm) und einer Regaltiefe von 500 mm</li></ul>"
-}

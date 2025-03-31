@@ -1,4 +1,0 @@
-{
-    "uvp": 3.79,
-    "attributes": "<ul><li>Grillreiniger in praktischer Pumpsprühflasche</li><li>für hartnäckige Verkrustungen und Eingebranntes</li><li>für Backöfen, Grillgeräte und Herdplatte</li><li>sehr kraftvoll und effektiv</li><li>einfache Anwendung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.95,
-    "attributes": "<ul><li>Multifunktions-Spray</li><li>hohe Haft- und Kriechfähigkeit</li><li>Langzeitwirkung, antistatisch</li><li>mit Graphitzusatz</li><li>in handlicher 50 ml Sprühflasche</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Nigrin Auto-Blitzkleber für Schnellreparaturen</li><li>klebt sekundenschnell</li><li>aus Cyanacrylat Klebstoff</li><li>wasserfest, kälte- und hitzebeständig</li><li>auch für 2 unterschiedliche Komponenten</li></ul>"
-}

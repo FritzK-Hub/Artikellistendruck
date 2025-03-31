@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Wundnahtstreifen von Wundmed</li><li>Spezialklebepflaster um die Schnittstellen einer Wunde aneinander zu drücken</li><li>natürliche Vernarbung gefördert</li><li>aus Textilgewebe gefertigt</li><li>frei von Lösungsmitteln und Latax- und PVC-frei<br/><br/></li></ul>"
-}

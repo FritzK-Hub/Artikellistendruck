@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Handbrause-Set 3-teilig in Schwarz</li><li>Handbrause aus verchromtem Kunststoff</li><li>universal passend für alle Duscharmaturen <br/></li><li>Handbrause mit fünf verschiedenen Strahlarten</li><li>inklusive Brauseschlauch ca. 150 cm und Wandhalterung<br/></li></ul>"
-}

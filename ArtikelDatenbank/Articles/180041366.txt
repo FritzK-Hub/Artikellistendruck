@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>robuste Stahlkonstruktion</li><li>beeindruckende Tragfähigkeit</li><li>vielseitige Anwendung</li><li>einfache Montage</li><li>schützende Kunststoffummantelung</li></ul>"
-}

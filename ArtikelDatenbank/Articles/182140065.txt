@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Lenkergriffe mit Grip</li><li>universell verwendbare Fahrradgriffe</li><li>einkürzbar auf ca. 65, 80 95 mm</li><li>geeignet für Drehgriffschaltungen</li><li>mit einem Innendurchmesser von ca. 22 mm</li></ul>"
-}

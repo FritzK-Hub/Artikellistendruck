@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Durchmesser Ø: ca. 5 mm</li><li>Dübellänge: ca. 25 mm</li><li>Menge: 250 Stück</li><li>mit Kragen</li><li>für Schrauben mit Durchmesser Ø 2,5 - 4 x 29 mm Länge geeignet</li><li>benötigter Bohraufsatz: Ø Durchmesser 5 mm</li></ul>"
-}

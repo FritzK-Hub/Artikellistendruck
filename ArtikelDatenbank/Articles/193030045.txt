@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Vogelfutterstation Ø 14 x 28 cm aus Edelstahl</li><li>ideal zum Füttern von freilebenden Vögeln</li><li>bietet Platz für Meisenknödel oder Streufutter</li><li>Acryl-Kunststoff-Röhre schützt das Futter vor Nässe</li><li>leichtes aufhängen an Bäumen, Dachbalken, Gartenhäuschen oder Holzpfählen<br/></li></ul>"
-}

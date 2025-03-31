@@ -1,4 +1,0 @@
-{
-    "uvp": 388.0,
-    "attributes": "<ul><li>massives Einzeltor im Doppelstab-Gittermatten Design<br/></li><li>klassisches Rechteck-Design, inklusive Pfosten</li><li>komplett mit Türdrücker und Befestigungsmaterial</li><li>langlebig durch Feuerverzinkung und Kunststoffbeschichtung</li><li>das perfekte Zauntor für alle Doppelstab-Gittermatten-Zaunsysteme</li></ul>"
-}

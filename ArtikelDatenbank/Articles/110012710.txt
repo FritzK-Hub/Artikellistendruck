@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Mehrschicht-Verbundrohr - Kombination aus Polyethylen und Aluminium</li><li>erfüllt höchste Ansprüche an Hygiene sowie Trinkwasserqualität</li><li>durch die Biegsamkeit des Rohres werden sehr wenige Fittings benötigt</li><li>für Trinkwasser- und Heizungs-Installation bis 95°C verwendbar</li><li>extrem einfache, saubere und schnelle Montage </li></ul>"
-}

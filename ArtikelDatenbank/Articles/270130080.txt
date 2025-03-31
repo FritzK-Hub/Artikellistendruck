@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Bi-Metall Tauchsägeblatt für Holz und Metall</li><li>breite Anwendungspalette durch HSS gehärtete Zähne</li><li>geeignet für Holz, Kunststoff und Blech, sowie Kupfer-, Aluminiumrohre- und Profile</li><li>für tiefes Tauchsägen in Holz, Rauhholz oder Kunststoff</li><li>Schneiden von Nägeln, Schrauben und Stahlprofilen<br/></li></ul>"
-}

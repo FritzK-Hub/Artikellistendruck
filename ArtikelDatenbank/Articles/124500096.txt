@@ -1,4 +1,0 @@
-{
-    "uvp": 299.95,
-    "attributes": "<ul><li>robust und UV-beständig für Langlebigkeit</li><li>zwei unterschiedliche Seiten zur individuellen Gestaltung</li><li>einfache Wasserentnahme durch Hahnvorbereitung</li><li>praktischer Entleerungsauslass ermöglicht Frostschutz</li><li>erweiterbar für größeren Wasserspeicher</li></ul>"
-}

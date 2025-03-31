@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Futterzichorie, für 12–15 lfd. Meter</li><li>sehr ertragreich an Blattmasse</li><li>ideal als Tierfutter für Kleintiere</li><li>auch zum Treiben oder Verzehr geeignet</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
-}

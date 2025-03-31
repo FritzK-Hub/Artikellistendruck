@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>bruchsicherer und kratzfester WC-Sitz aus Duroplast mit Stone-Motiv<br/></li><li>Komfort &amp; Funktion dank Absenkautomatik und Schnellverschluss</li><li>verrrutschfreie Befestigung mit zusätzlichem Klebepad</li><li>inklusive Befestigungsmaterial zur mühelosen Montage</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
-}

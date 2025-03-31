@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Standstaffelei 152 cm aus Buchenholz</li><li>Höhenverstellung über eine Schraubenfixierung</li><li>für Keilrahmengrößen bis 100 x 100 cm geeignet</li><li>leicht zu transportieren</li><li>platzsparend zusammenklappbar<br/></li></ul>"
-}

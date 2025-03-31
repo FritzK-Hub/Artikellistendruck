@@ -1,4 +1,0 @@
-{
-    "uvp": 4.09,
-    "attributes": "<ul><li>5-teiliges Schraderventil-Ventil-Set</li><li>für Schraderventile</li><li>für Auto-Ventile</li><li>einfacher Austausch</li><li>inklusive Ein- / Ausbauwerkzeug</li></ul>"
-}

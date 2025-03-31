@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>ideal zum Entlacken, Entrosten, Glätten, Mattieren und Reinigen von Holz, Metall und PVC</li><li>für kleinere bis mittelgroße Flächen geeignet</li><li>geeignet für Bohrmaschinen, Aufnahmedorn ca. 6 mm</li><li>Topfbürste: ca. Durchmesser Ø 75 mm</li><li>aus gewellten, harten Kunststoffborsten</li></ul>"
-}

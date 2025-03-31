@@ -1,4 +1,0 @@
-{
-    "uvp": 4.19,
-    "attributes": "<ul><li>Flachstange aus gezogenem Stahl</li><li>Oberfläche durch Spezialbehandlung vom Zunder befreit</li><li>mit handelsüblicher Metallsäge abzulängen</li><li>Materialstärke 2 mm</li><li>Flach-Profil 20 x 2 mm in eisengrau</li></ul>"
-}

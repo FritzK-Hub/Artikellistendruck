@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>elektrische Fliesenschneidemaschine</li><li>mit Diamant-Trennscheibe</li><li>mit Parallelanschlag für exakte Längsschnitte</li><li>Winkelanschlag für Diagonalschnitte</li><li>Sägetisch von 0-45º schwenkbar</li></ul>"
-}

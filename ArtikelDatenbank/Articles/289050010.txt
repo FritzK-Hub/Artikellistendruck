@@ -1,4 +1,0 @@
-{
-    "uvp": 16.89,
-    "attributes": "<ul><li>Alublech Tafel</li><li>aus rohem Aluminium</li><li>unbehandelt</li><li>Plattenstärke 0,8 mm</li><li>Alublech 100 x 30 cm <br/></li></ul>"
-}

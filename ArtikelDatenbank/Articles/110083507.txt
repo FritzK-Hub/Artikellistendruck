@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Sodafixx Gasflasche Leerzylinder</li><li>für die gängigsten Trinkwassersprudler geeignet</li><li>für bis zu 60 Liter sprudelnde Getränke mit einer Füllung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>doppelte Stabilität</li><li>verzinkter Schutz</li><li>präzise Verarbeitung</li><li>einfache Installation</li><li>5 Schellen im Set<br/></li></ul>"
-}

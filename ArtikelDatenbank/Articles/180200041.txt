@@ -1,4 +1,0 @@
-{
-    "uvp": 9.69,
-    "attributes": "<ul><li>effektive Reinigung von Vergaser, Ventilen, Zündkerzen und Brennraum</li><li>einfache Anwendung direkt im Kraftstofftank, Wirkung bis zu 2.000 Kilometer</li><li>vorbeugende oder problembehandelnde Anwendung möglich</li><li>Schutz der gesamten Kraftstoffanlage vor Korrosion</li><li>Kraftstoffsparend und Leistungsverbessernd</li></ul>"
-}

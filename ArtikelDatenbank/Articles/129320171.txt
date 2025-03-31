@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>intensives Aroma</li><li>vielseitige Verwendung</li><li>leichte Pflege</li><li>frühe Ernte</li><li>bienenfreundlich und Hummelmagnet<br/><br/></li></ul>"
-}

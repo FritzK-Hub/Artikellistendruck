@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>gebrauchsfertiger Reiniger 1 Liter</li><li>zum Säubern von Pflastersteinen uvm.</li><li>für mineralische und keramische Untergründe</li><li>einfache Anwendung, verdünnbar bis zu 1:20</li><li>zur Entfernung von Grünbelag ohne Nachbürsten<br/></li></ul>"
-}

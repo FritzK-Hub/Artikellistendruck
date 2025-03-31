@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>NYM-J Kabelring 10 m für den Feuchtraum</li><li>5-aderige PVC-Mantelleitung NYM-J</li><li>für Verlegung auf, in, unter Putz, in Mauerwerk oder Beton geeignet</li><li>Verwendung in trockenen und feuchten Räumen oder im Freien (wenn vor direkter Sonneneinstrahlung geschützt)</li><li>Nicht für Verlegung in Schüttel-, Rüttel- oder Stampfbeton geeignet<br/></li></ul>"
-}

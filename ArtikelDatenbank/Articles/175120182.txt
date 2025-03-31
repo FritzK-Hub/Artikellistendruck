@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<ul><li>universal Druckgasdose mit 330 g Inhalt</li><li>Universalgas mit Propan-Butan Mischung</li><li>besteht aus 30 % Propan und 70 % Butan</li><li>passend zu Artikel 175130081 Unkrautbrenner PZ4000 Bio-Gärtner</li><li>passend zu Artikel 175130080 Turbo-Lötbrenner-Set LM1750</li></ul>"
-}

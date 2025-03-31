@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>passendes Ergänzungsfuttermittel aus Waldbeeren</li><li>für Zwergkaninchen, Meerschweinchen, Hamster und andere Nager</li><li>enthalten allen lebenswichtigen Vitaminen</li><li>köstlicher Leckerbissen zum Verwöhnen</li><li>ohne künstliche Farbstoffe gefertigt</li></ul>"
-}

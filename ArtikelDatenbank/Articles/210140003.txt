@@ -1,4 +1,0 @@
-{
-    "uvp": 5.0,
-    "attributes": "<ul><li>Zielscheiben mit 11er Ring-Motiv</li><li>aus bedrucktem Karton</li><li>Schießscheiben für Kugelfang 14 x 14 cm</li><li>passend für unseren Kugelfang 210140001</li><li>klassische Luftgewehr-Zielscheibe</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>triangelförmige Schleifpapiere mit 12-Loch-Absaugung</li><li>passend für den Deckenschleifer MDS oder DWS 710</li><li>Set, bestehend aus verschiedenen Schleifblättern</li><li>hervorragendes Schleifbild und effizienter Materialabtrag</li><li>schnelles Wechseln der Schleifblätter dank Klettverschluss<br/></li></ul>"
-}

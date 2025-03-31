@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li>Steckdosenleiste mit Überspannungsschutz</li><li>Steckdose für den Innenbereich</li><li>Mehrfachsteckdose mit integrierter Kindersicherung</li><li>Steckerleiste mit beleuchtetem Ein- / Ausschalter</li><li>6-fach Steckdosenleiste mit LED-Funktionsanzeige</li></ul>"
-}

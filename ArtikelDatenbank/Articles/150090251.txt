@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Stecker aus robustem Metall gefertigt</li><li>widerstandsfähig gegenüber äußeren Einflüssen</li><li>geeignet für 12 Volt Bordnetze</li><li>für die Verwendung an PKW- oder Campinganhängern</li><li>einfache Installation dank Schraubanschlüssen<br/></li></ul>"
-}

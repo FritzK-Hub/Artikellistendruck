@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>mit starker Feder</li><li>leicht und kompakt</li><li>bequeme Einhandbedienung</li><li>robuste Klingen</li><li>komfortable Aluminiumgriffe <br/></li></ul>"
-}

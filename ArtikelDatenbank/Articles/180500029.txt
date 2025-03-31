@@ -1,4 +1,0 @@
-{
-    "uvp": 7.9,
-    "attributes": "<ul><li>Eiskratzer mit Schneebesen aus Kunststoff</li><li>zum Entfernen des Eises Autoscheiben</li><li>sicherer Halt durch weichem Softgriff</li><li>lange Borsten erleichtern das Räumen von Schnee </li><li>Eisbrecher entfernt effektiv das hartnäckige Eis<br/></li></ul>"
-}

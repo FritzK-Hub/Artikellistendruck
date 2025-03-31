@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>rankenlose Variante der Zucchini</li><li>langhaltbare Frucht</li><li>universell einsetzbar ob Auflauf, gebraten oder für Salate</li><li>mittelspät im Ertrag</li><li>im Freiland als auf im Blumentopf pflanzbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>FISHBULL Motorenöl 10W-40</li><li>ein auf Basis von HC-Syntheseöl hergestelltes Hochleistungs-Motorenöl</li><li>ausgesuchte Grundöle und moderne Additive für hohes Leistungsniveau</li><li>für Otto- und Dieselmotoren mit und ohne Turboaufladung geeignet</li><li>Erstraffinat</li></ul>"
-}

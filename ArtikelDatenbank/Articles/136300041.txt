@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>10-teiliges Winkelschraubendreher-Set von Normex</li><li>extra lange Stiftschlüssel, alle gängigen Größen</li><li>in der praktischen Kunststoffbox</li><li>hohe Qualität von Normex</li><li>mit Kugelkopf am langen Schenkel<br/></li></ul>"
-}

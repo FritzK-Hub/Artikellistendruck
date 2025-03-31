@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>dekoratives Katzenzelt Ø 49x47cm aus Filz</li><li>ein kuscheliger Rückzugsort für dein Haustier</li><li>optimal zum Verstecken, Entspannen oder Schlafen</li><li>isoliert die Wärme, somit ist es im Zelt noch kuscheliger</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

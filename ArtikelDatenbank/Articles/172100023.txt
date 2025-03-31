@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>nahtlose Integration verschiedener Smart-Home-Geräte</li><li>extrem geringer Energieverbrauch</li><li>hohe Sicherheit durch Verschlüsselung</li><li>einfache Installation ohne Ethernet-Kabel</li><li>unterstützt die Steuerung von bis zu 40 Geräten<br/></li></ul>"
-}

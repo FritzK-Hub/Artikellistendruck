@@ -1,4 +1,0 @@
-{
-    "uvp": 44.98,
-    "attributes": "<ul><li>Drehmomentschlüssel mit Umschaltknarre</li><li>1/2\" Vierkant Antrieb, einstellbar von 28 - 210 Nm</li><li>inklusive 125 mm Verlängerung und Reduzierstück</li><li>im praktischen Kunststoffkoffer</li><li>aus hochwertigem Chrom-Vanadium-Stahl, hochglanzpoliert</li></ul>"
-}

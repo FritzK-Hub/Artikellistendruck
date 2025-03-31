@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Holzschraube DIN 571 (auch Schlüsselschraube oder Wienerschraube genannt)</li><li>Kopf: Sechskant / 6-kant</li><li>Oberfläche: galvanisch verzinkt</li><li>Maße: 10,0 x 140 mm<br/></li></ul>"
-}

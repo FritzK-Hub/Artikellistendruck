@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>leistungsfähige Alkaline Flachbatterie</li><li>erhöhte Stromkapazität</li><li>bessere Raumausnutzung</li><li>Plus-Pol an der kurzen Anschluss-Zunge</li><li>handlich, statt drei Mignon nur eine Flachbatterie</li></ul>"
-}

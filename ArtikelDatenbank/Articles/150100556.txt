@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>    robustes Material, aus hochwertigem Stahl gefertigt</li><li>verzinkt für eine hohe Korrosionsbeständigkeit</li><li>einfach zu installieren, zuverlässige Verankerung</li><li>sicher und stabil mit einem Durchmesser von ca. 7 mm </li><li>zur Montage rechtsseitig an einem PKW-Anhänger</li></ul>"
-}

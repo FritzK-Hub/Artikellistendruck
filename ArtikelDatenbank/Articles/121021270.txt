@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Fotokartonblock mit 10 Blatt</li><li>in 10 Farben</li><li>Fotokarton mit einer Grammatur von 300 g/m²</li><li>Abmessungen 22 x 33 cm</li><li>auch geeignet zum Basteln von Grußkarten</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>altbewährte Hybridsorte</li><li>mittelgroße Früchte</li><li>frühe Erntereife</li><li>sehr aromatische Früchte</li><li>bevorzugt nährstoffreichen, humosen Boden<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Raspel mit auswechselbarem Blatt</li><li>Raspelkörper aus Aluminiumdruckguss </li><li>mit Kunststoff-Girffschale</li><li>ideal zur Bearbeitung von Gipskartonplatten</li></ul>"
-}

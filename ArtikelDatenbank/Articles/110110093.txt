@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>universell einsetzbarer Gartenbesen in Grün</li><li>mit langlebigen Elaston-Borsten</li><li>Universalstielhalter aus Metall</li><li>aus massivem Holz gefertigt</li><li>besonders robust und stabil<br/></li></ul>"
-}

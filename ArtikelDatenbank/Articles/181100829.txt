@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li><div>sehr dichter, kompakter Wuchs</div></li><li><div>wenig bis kein Schneiden notwendig</div></li><li><div>standorttolerant, sehr frosthart</div></li><li><div>hervorragend als Sicht-, Wind- und Lärmschutz geeignet</div></li><li>voll durchgewurzelt<br/></li></ul>"
-}

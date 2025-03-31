@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Reinigungsbürste für Rostzwischenräumen der Grillfläche</li><li>dreieckige Form, ergonomisch geformter Handgriff</li><li>schwer zugängliche Stellen können einfach erreicht werden</li><li>Borsten aus hochwertigem, rostfreiem Edelstahl</li><li>mit Aufhängemöglichkeit aus Leder</li></ul>"
-}

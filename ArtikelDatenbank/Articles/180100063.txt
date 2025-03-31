@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Motorenöl 0W-20 Longlife 1 Liter von FISHBULL</li><li>ein teilsynthetisches Hochleistungsmotorenöl mit optimiertem Temperatur-Viskositätsverhalten</li><li>geeignet für moderne Pkw Otto- und Dieselmotoren</li><li>für Motoren mit Abgasnachbehandlung (Dieselpartikelfilter) und Turboaufladung</li><li>bestens für verlängerte Wartungsintervalle geeignet</li></ul>"
-}

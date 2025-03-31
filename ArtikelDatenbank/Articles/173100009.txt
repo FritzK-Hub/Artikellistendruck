@@ -1,4 +1,0 @@
-{
-    "uvp": 10.29,
-    "attributes": "<ul><li>14-teiliges Set für Stecknüsse</li><li>mit Sechskant Antrieb</li><li>eignet sich fürs einfache Verschrauben von Sechskantschrauben</li><li>einfaches Einspannen in Akkuschrauber und Bohrmaschine</li><li>verschiedene Größen</li></ul>"
-}

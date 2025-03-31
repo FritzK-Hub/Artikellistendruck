@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatband Schnittpetersilie ca. 2 laufende Meter</li><li>mit feingekräuselten, dichtgefüllten Blättern versehen</li><li>ist eine ertragreiche Sorte mit starker Würzkraft</li><li>zur Verfeinerung von Salaten oder zur Garnierung</li><li>wirkt harntreiben als auch verdauungsfördernd</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Güde® Rangierwagenheber GRH 2/330 L</li><li>für den Einsatz in Werkstätten oder Garagen</li><li>verfügt über eine Tragfähigkeit von 2 Tonnen</li><li>leichte Handhabung dank 2 Lenk und 2 Laufrollen</li><li>Ventilsteuerung sichert einen präzisen Arbeitsablauf<br/></li></ul>"
-}

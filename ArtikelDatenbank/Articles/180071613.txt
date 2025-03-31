@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>robuster Pflanztopf für innen und außen</li><li>im traditionellen Strickmuster</li><li>aus hochwertigem Kunststoff</li><li>UV-beständig und stabil</li><li>runder Blumenkübel in matter Optik</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.79,
-    "attributes": "<ul><li>Bremsschuhe für Alu- und Stahlfelgen</li><li>passend für V- / Cantilever-Bremsen</li><li>nach DIN EN 14766</li><li>hohe Lebensdauer</li><li>schraubbare Bremsschuhe mit Gewinde</li></ul>"
-}

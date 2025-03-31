@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>extra Länge</li><li>hochwertiges Material</li><li>universelle Anwendung</li><li>vielseitige Bit-Auswahl</li><li>hohe Kompatibilität</li></ul>"
-}

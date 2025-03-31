@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>präzise Stanzung für exakte Kreationen</li><li>vielseitig mit 8 einzigartigen Formen</li><li>langlebiges Metallstanzwerk für dauerhafte Nutzung</li><li>leichte Handhabung durch robustes Kunststoffgehäuse</li><li>kreativer Freiraum auf maximal 180 g/m² Papier</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>zur zuverlässigen Wasserabsaugung</li><li>mit hochwertigen Spiralschlauch</li><li>aus robusten Materialien</li><li>langlebige und sichere Verbindung</li><li>einfache Installation<br/></li></ul>"
-}

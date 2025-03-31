@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>schnelles und einfaches Verbinden von Leitungen</li><li>drei Größen für vielseitige Einsatzmöglichkeiten</li><li>Farbcodierung zur einfachen Größenidentifikation</li><li>Schutz vor Feuchtigkeit und äußeren Einflüssen</li><li>wiederverschließbare Box zur ordentlichen Aufbewahrung</li></ul>"
-}

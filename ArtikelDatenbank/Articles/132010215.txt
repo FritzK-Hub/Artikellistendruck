@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>100% natürliches Einzelfuttermittel für Hunde</li><li>getrocknete Schweineohren in Streifen geschnitten</li><li>als Belohnung oder zum Verfeinern des Futters</li><li>stärkt die Kaumuskulatur und reinigt die Zähne</li><li>ist wichtig für die Gesundheit von Knochen und Gelenken</li></ul>"
-}

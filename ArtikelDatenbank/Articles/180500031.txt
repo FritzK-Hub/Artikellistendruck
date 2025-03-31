@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>gewährleisteter Frostschutz bis max. - 35°C</li><li>für eine effektive Kühlung, schützt vor Überhitzung</li><li>gegen Rostbefall und Frostschäden der Motorkühlung</li><li>für eine längere Lebensdauer des Kühlsystems</li><li>lässt sich mit Wasser 1:1 mischen<br/><ul></ul></li></ul>"
-}

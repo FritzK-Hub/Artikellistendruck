@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul> <li>XXL LED Echtwachs Kerze</li> <li>ein optisches Highlight</li> <li>inklusive 3 flackernden Lichtern</li> <li>für eine stimmungsvolle Umgebung</li> <li>mit Ein-/Aus-Schalter</li></ul>"
-}

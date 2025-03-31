@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Spitzkerzen-Set Rustic 4 Stück je Ø 25 x 2 cm</li><li>in sieben verschiedenen Farben erhältlich</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>für die Bestückung von Weihnachtskränzen geeignet</li><li>lässt sich für den dekorativen Zweck beliebig platzieren<br/></li></ul>"
-}

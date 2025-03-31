@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Spezial-Grundierung mit Rostinhibitoren für nachfolgende Decklackierungen</li><li>anwendbar für Eisen und Stahl</li><li>sehr gute Haftvermittlung</li><li>temperaturbeständig bis 90°C</li><li>für innen und außen</li></ul>"
-}

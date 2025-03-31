@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>Bi-Metall Tauchsägeblatt für Holz und Metall</li><li>breite Anwendungspalette durch HSS gehärtete Zähne</li><li>wellenartig gefräste Zähne für feine glatte Schnitte</li><li>geeignet für Hart- und Weichholz, Aluminium, Kunststoff und Metall</li><li>Aufnahme passen für FEIN Multimaster BOSCH PMF Serie u.v.a.<br/></li></ul>"
-}

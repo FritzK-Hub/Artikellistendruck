@@ -1,4 +1,0 @@
-{
-    "uvp": 14.19,
-    "attributes": "<ul><li>weißer Feinspachtel als Oberflächenfinish</li><li>trocknet besonders schnell</li><li>auch als Flächenspachtel geeignet</li><li>gebrauchsfertig</li><li>leicht schleifbar  </li></ul>"
-}

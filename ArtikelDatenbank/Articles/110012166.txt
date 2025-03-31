@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>effektive Abdichtung für Armaturoberteile</li><li>präziser Lochdurchmesser für zuverlässige Leistung</li><li>verhindert Undichtigkeiten und lästiges Tropfen</li><li>langlebiges und korrosionsbeständiges Material</li><li>reibungsloser Wasserfluss und Komfort</li></ul><p></p>"
-}

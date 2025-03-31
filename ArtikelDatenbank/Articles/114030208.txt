@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>30 selbstklebende Etiketten</li><li>in verschiedenen Dekoren</li><li>vielseitig verwendbar</li><li>ideal für die Beschriftung von Einmachgläsern</li><li>zum Kennzeichnen von Selbstgemachtem, Gläsern und Dosen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Cerankochfeldschaber zum Entfernen von hartnäckigen Verschmutzungen</li><li>mit auswechselbarer Klinge</li><li>handelsübliche Rasierklingen als Ersatz geeignet</li><li>ideal zum Entfernen von eingebrannten Rückständen</li><li>aus stabilem Metall</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 34.49,
-    "attributes": "<ul><li>Verlängerungskabel mit Schutzkontakt Stecker</li><li>nur zur Verwendung im Innenbereich</li><li>25 m Verlängerungskabel</li><li>mit abgewinkeltem Schutzkontaktstecker</li><li>Stromkabel in orange</li></ul>"
-}

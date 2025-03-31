@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>sorgt für eine dauerhafte Befestigung von Fensterrahmen</li><li>der Kunststoff-Konus spreizt auf und verkeilt sich für eine sichere Befestigung</li><li>verhindert das Heranziehen des Rahmens an den Untergrund</li><li>mit PZ Prozidriv-Kreuzschlitzantrieb versehen</li><li>aus massivem Stahl, galvanisch verzinkt gefertigt<br/></li></ul>"
-}

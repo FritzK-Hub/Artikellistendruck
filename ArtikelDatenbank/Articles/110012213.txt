@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>effiziente Lösung für Niederdruck-Armaturen</li><li>geringerer Wasserverbrauch, volle Leistung</li><li>einfache Installation mit M24 Aussengewinde</li><li>komfortabler, gleichmäßiger Wasserstrahl</li><li>stilvolles, verchromtes Design</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 199.0,
-    "attributes": "<ul><li>Nonwood ist eine langlebige Kunststoffalternative zu echtem Holz</li><li>besonders witterungsbeständig, kann das ganze Jahre draußen stehen</li><li>bietet ausreichend Platz für Beisammensitzen mit Freunden oder Familie</li><li>im Vergleich zu Holz resistent gegen Haarrisse, Verformungen oder Splitterbildungen</li><li>besitzt ein geringes Eigengewicht, lässt sich leichter bewegen</li></ul>"
-}

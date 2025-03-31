@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>LED Glühbirne E27 mit Switch Stufen-Dimmer</li><li>für eine stimmungsvolle Beleuchtung</li><li>3-stufig dimmbar über Lichtschalter</li><li>LED Birne mit guter Farbwiedergabe</li><li>dimmen ganz ohne Dimmer<br/></li></ul>"
-}

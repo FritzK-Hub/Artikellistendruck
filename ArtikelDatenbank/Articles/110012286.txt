@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>einfache Verbindung von ¾\" Schläuchen<br/></li><li>pratisches Set für die Verbindung von 2 Schlauchenden</li><li>einfache Montage mit einem Schlitzschraubendreher</li><li>Profi-Qualität aus hochwertigen Metallen</li><li>hohe Korrosionsbeständigkeit</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 31.09,
-    "attributes": "<ul><li>stabile Gardena Premium Metall-Spritze, frostsicher</li><li>sie liegt durch die griffigen Weichkunststoff-Elemente angenehm in der Hand</li><li>Strahlart stufenlos regulierbar vom Vollstrahl bis zum feinen Sprühnebel</li><li>eignet sich sowohl mit kraftvollem Strahl zur Reinigung als auch zur fein sprühenden Bewässerung</li><li>die Dauerarretierung ermöglicht bequeme, permanente Bewässerung<br/></li></ul>"
-}

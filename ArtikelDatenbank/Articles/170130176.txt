@@ -1,4 +1,0 @@
-{
-    "uvp": 2.95,
-    "attributes": "<ul><li>Sägeblatt für Holz</li><li>10 Zähne  je Zoll</li><li>aus hochwertigem Stahl</li><li>perfekt passend für deine Güde® GDS 16 Dekupiersäge</li><li>für Längsschnitte und Kurvenschnitte bestens geeignet.<br/></li></ul><p></p>"
-}

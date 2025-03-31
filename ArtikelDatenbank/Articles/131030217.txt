@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Klarspüler für alle Geschirrspülmaschinen</li><li>spült dein Geschirr fleckenlos und glänzend</li><li>verhindert Kalkablagerungen in der Spülmaschine</li><li>schont Dekor und Glasur</li><li>mit erfrischendem Zitronenduft<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>hochwirksames Schmieröl von Nigrin</li><li>kunststoffverträgliches Kriechöl</li><li>leistungsstarkes Schmiermittel für Kunststoff, Holz, Gummi und Metall</li><li>wirkt intensiv und langanhaltend, macht leichtgängig</li><li>harz- und säurefrei, farb- und geruchlos</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.19,
-    "attributes": "<ul><li>Saatscheiben „einfache Gartenkresse“ 5 Stück</li><li>schnellwachsend, aromatisch, vitaminreich</li><li>ideal für Salate, Nudel- und Fleischgerichte</li><li>hellgrün-blau gefärbte Blätter zur Garnierung</li><li>reich an Vitamin C, Provitamin A oder Kalium</li></ul>"
-}

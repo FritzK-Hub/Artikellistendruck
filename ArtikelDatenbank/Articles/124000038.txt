@@ -1,4 +1,0 @@
-{
-    "uvp": 9.29,
-    "attributes": "<ul><li>mit verlängertem Gewinde</li><li>passend für verschiedene Armaturen</li><li>passend zum Gardena - System</li><li>für Küche und Bad geeignet</li><li>leichte Montage<br/></li></ul><p><br/></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Sitzauflage mit attraktiven und zeitlosen Designs</li><li>passend für die meisten handelsüblichen Hochlehnstühle</li><li>in verschiedenen Motiven erhältlich</li><li>seitlichen Kordeln sorgen für optimaler Halt</li><li>mit 6 cm dicker Füllung für bequemen Sitzkomfort</li></ul>"
-}

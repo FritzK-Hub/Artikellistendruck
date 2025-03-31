@@ -1,4 +1,0 @@
-{
-    "uvp": 38.49,
-    "attributes": "<ul><li>Verlängerungskabel in Schwarz mit 20 m Länge</li><li>zur Verwendung im Außenbereich</li><li>Verlängerungskabel zur kurzfristigen Verwendung im Freien</li><li>Stromkabel mit leichter Gummi-Leitung</li><li>ideal als Verlängerung für Haushaltsgeräte oder im Außenbereich<br/></li></ul>"
-}

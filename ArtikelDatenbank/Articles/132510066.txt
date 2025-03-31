@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>20 V Plattform Schlagschrauber Generation 2.0 im Set<br/></li><li>eignet sich zum Anziehen und Lösen von Schrauben/Radmuttern</li><li>im Bereich der Fahrzeugwartung und Reparatur einsetzbar</li><li>flexibler Anschluss durch Vierkant-Antriebswelle von 1/2\"<br/></li><li>inklusive eines 2.0 Ah Akkus und Ladegeräts<br/></li></ul>"
-}

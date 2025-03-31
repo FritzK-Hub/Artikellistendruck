@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>100 bunte Büroklammern</li><li>kunststoffummantelt</li><li>in praktischer Aufbewahrungsbox</li><li>farblich sortierte Briefklammern</li><li>Länge 32 mm<br/></li></ul>"
-}

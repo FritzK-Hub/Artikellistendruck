@@ -1,4 +1,0 @@
-{
-    "uvp": 199.95,
-    "attributes": "<ul><li> zum Bohren in Mauerwerk, Beton, Dachziegeln, Klinker und ähnlichen Materialien </li><li> Doppelspirale (zum besseren Abtransport des Bohrmehls) </li><li>mit Zentrierspitze (für leichteres Ansetzen des Bohrers) </li><li>hochwertige 4-fach Schneide </li><li> für SDS-MAX Aufnahme </li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>solarbetriebene Tischleuchte mit Flammeneffekt</li><li>für entspannte Atmosphäre im Garten oder Balkon </li><li>auch als dekoratives Orientierungslicht einsetzbar</li><li>setzt Gartenwege, Beete oder Gärten gekonnt in Szene</li><li>nachhaltige Beleuchtung ohne Stromanschluss</li></ul>"
-}

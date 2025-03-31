@@ -1,4 +1,0 @@
-{
-    "uvp": 9.09,
-    "attributes": "<ul><li>alle notwendigen Ersatzglühlampen</li><li>für zuverlässige Beleuchtung im Straßenverkehr</li><li>kompakte und leichte Box für einfache Aufbewahrung</li><li>verwendbar in jedem herkömmlichen Auto dank 12V-Spannung</li><li>im Falle einer Panne immer das richtige Ersatzteil zur Hand<br/></li></ul>"
-}

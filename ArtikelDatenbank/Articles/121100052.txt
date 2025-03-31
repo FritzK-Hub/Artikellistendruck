@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>stabiles Pflanzgefäß für innen und außen</li><li>eckiger Blumenkasten mit Wellenmuster</li><li>geeignet für Direktbepflanzung<br/></li><li>aus hochwertigem Kunststoff</li><li>UV- und frostbeständig</li></ul><p></p>"
-}

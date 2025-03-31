@@ -1,4 +1,0 @@
-{
-    "uvp": 2.39,
-    "attributes": "<ul><li>Einmachglas mit 555 ml Fassungsvermögen</li><li>zum Einkochen selbstgemachter Marmeladen</li><li>eignet sich gut für Kompott oder Konfitüre</li><li>mit rot/weiß kariertem Deckel aus Weißblech</li><li>geeignet für Spülmaschinen</li></ul>"
-}

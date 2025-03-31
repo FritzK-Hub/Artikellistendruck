@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Leitergerüst 3in1 aus Aluminium mit 150 kg Traglast</li><li>für den Einsatz als Arbeitsbühne, Anlege- und Stehleiter</li><li>mit Zweikomponenten-Kunststoffstützen</li><li>auch auf Treppen oder Absätzen stabil einsetzbar</li><li>fixierende Räder und rutschhemmende Füße</li></ul>"
-}

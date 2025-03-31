@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Maschinenschraube 6-kant</li><li>aus A2 Edelstahl</li><li>rostfreie Oberläche</li><li>metrisches Gewinde</li><li>optimal für den Einsatz im Außenbereich</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>klassischer Gartenzwerg mit liebevollen Details</li><li>wetterfest und langlebig für jede Jahreszeit</li><li>UV-beständig – Farben bleiben lange erhalten</li><li>perfekte Größe für vielseitige Platzierung</li><li>charmanter Blickfang mit humorvoller Note</li></ul>"
-}

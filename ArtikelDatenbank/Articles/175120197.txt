@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Universal-Schweißdraht für un- und niedriglegierten Stahl</li><li>verkupferte Oberfläche für optimale Schweißbarkeit und Spritzerreduzierung</li><li>vielseitig einsetzbar in Maschinenbau, Metallbau und Fahrzeugindustrie</li><li>auf Kunststoffspule für einfache Handhabung und Aufbewahrung</li><li>hohe Schweißnahtfestigkeit und präzise Schweißergebnisse</li></ul>"
-}

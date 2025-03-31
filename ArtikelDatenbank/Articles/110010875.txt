@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>KG-Bogen für KG-Rohre DN 110</li><li>passgenaue und problemlose Anschlussmöglichkeiten</li><li>vormontierte Lippendichtringe</li><li>zum Verbinden von KG-Kanalrohren und HT-Rohren</li><li>Sicherheit durch Rückstauverschlüsse</li></ul>"
-}

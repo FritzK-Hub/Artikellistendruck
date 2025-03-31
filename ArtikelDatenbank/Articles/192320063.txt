@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>LED Laterne batteriebetrieben aus Kunststoff</li><li>st mit einer Timer-Funktion ausgestattet</li><li>als dekorativer Orientierungspunkt einsetzbar</li><li>ideal geeignet für den Außen- und Innenbereich</li><li>dank klappbaren Henkel auch als Hängelaterne verwendbar<br/></li></ul>"
-}

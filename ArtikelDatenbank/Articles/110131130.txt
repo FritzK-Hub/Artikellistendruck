@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>dekorative <em>Konsole</em> \"Ornament\" in schwarz</li><li>gefertigt aus pulverbeschichtetem Stahl</li><li>sorgt für die notwendige Stabilität des Wandregales</li><li>verfügt über eine Belastbarkeit von 12,5 kg</li><li>elegantes Design ist ein echter Blickfang</li></ul>"
-}

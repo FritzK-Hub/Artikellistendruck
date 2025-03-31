@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>praktischer Flaschenkastenständer aus pulverbeschichtetem Stahl</li><li>sorgt schnell für besseren Überblick deiner Getränke</li><li>ideal für den Keller, Garage oder im Abstellraum</li><li>bietet Stauraum für bis zu sechs genormten Kästen</li><li>inklusive Befestigungsmaterial und Wandhalterung<br/></li></ul>"
-}

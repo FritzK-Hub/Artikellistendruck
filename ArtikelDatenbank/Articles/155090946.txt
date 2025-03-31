@@ -1,4 +1,0 @@
-{
-    "uvp": 10.23,
-    "attributes": "<ul><li>Taster für Unterputz-Montage</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>Krallen- und Schraubbefestigung möglich<br/></li><li>z. B. zum Betätigen von Klingeln, Türöffnern, etc.</li><li>nur in Kombination mit Rahmen der Serie EverLuxe zu verwenden<br/></li></ul>"
-}

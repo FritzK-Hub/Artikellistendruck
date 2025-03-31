@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>30 Möbelschrauben 4,0 x 30 mm</li><li>mit PZ Pozidrive Antrieb versehen</li><li>aus verzinktem Stahl gefertigt</li><li>für die Befestigung von Hartfaserplatten an Möbelstücken</li><li>Holzschrauben mit Tellerkopf<br/></li></ul>"
-}

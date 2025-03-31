@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>Alpinaweiß Wandfarbe im 11 Liter Eimer</li><li>sehr ergiebig, mit Spritzschutzformel </li><li>zur dekorativen Gestaltung, erzeugt stumpfmatte Oberflächen</li><li>strapazierfähig, geruchsneutral und atmungsaktiv</li><li>ist eine scheuerbeständige und hochdeckende Farbe<br/></li></ul>"
-}

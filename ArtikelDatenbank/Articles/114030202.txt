@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>4 Kreppbänder in Bayrisch Blau</li><li>die ideale Dekoration für dein nächstes \"Oktoberfest\"</li><li>zum Basteln und Dekorieren</li><li>universell einsetzbar</li><li>nicht wasserfest</li></ul>"
-}

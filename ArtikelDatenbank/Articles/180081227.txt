@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Aufsatz für Gießkannen</li><li>abnehmbar</li><li>für 5 Liter 10 Liter Gießkannen</li><li>aus schwarzem Kunststoff</li><li>Ideal für Haus und Garten</li></ul>"
-}

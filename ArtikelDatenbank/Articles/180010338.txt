@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>umfassende Nährstoffversorgung</li><li>für tiefgrünen Rasen</li><li>verbessert den Rasenboden</li><li>versorgt den Rasen intensiv mit Eisen</li><li>nach Wirkzeit lässt sich Moos leichter ausharken<br/></li></ul>"
-}

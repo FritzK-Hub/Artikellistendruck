@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>erhöht die Heizleistung des Ölofens</li><li>senkt den Ölverbrauch</li><li>mit innovativem Design </li><li>einfache Bedienung und Installation</li><li>robuste und langlebige Konstruktion<br/></li></ul>"
-}

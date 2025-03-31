@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>geringer Stromverbrauch im Vergleich zu herkömmlichen Glühlampen</li><li>langlebig dank LED-Technik</li><li>einfach zu installieren, 4 vorinstallierte Anschlußkabel</li><li>4 Funktionen: Schlusslicht, Bremslicht, Blinker und Kennzeichenbeleuchtung</li><li>sorgt für eine optimale Beleuchtung deines Anhängers<br/></li></ul>"
-}

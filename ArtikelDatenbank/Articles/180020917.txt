@@ -1,4 +1,0 @@
-{
-    "uvp": 36.49,
-    "attributes": "<ul><li>zum schonenden und gezielten Bewässern deiner Pflanzen</li><li>90 cm langer Stab erleichtert das Erreichen von schwerzugänglichen Bereichen</li><li>Wasserdurchfluss stufenlos über dem Griff einhändig regulierbar</li><li>1/2\"-Anschluss ermöglicht das Anschließen verschiedenster Gartenschläuche</li><li>bei Nichtgebrauch platzsparend aufhängbar, nimmt nicht viel Platz ein<br/></li></ul>"
-}

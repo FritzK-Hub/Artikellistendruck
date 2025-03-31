@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>3-teilige Schlauchverschraubung aus Messing</li><li>passend für 3/4\" Wasserschläuche</li><li>Montage mittels Schlauchschellen</li></ul>"
-}

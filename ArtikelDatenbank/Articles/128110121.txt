@@ -1,4 +1,0 @@
-{
-    "uvp": 79.99,
-    "attributes": "<ul><li>Schaukel-Hängesessel im Makramee Design</li><li>inklusive Sitz- und Rückenkissen</li><li>besitzt eine Belastbarkeit bis 120 kg<br/></li><li>ideal zur Entspannung nach einem anstrengenden Tag</li><li>für den Innen- als auch Außenbereich geeignet</li></ul>"
-}

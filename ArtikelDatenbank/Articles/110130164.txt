@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>ausziehbare Gardinenstange aus Metall</li><li>individuell einstellbar </li><li>einfache Montage durch Schrauben oder Klebepads</li><li>geeignet für verschiedene Gardinenarten, einschließlich Panneaux Gardinen</li><li>modernes und zeitloses Design</li></ul>"
-}

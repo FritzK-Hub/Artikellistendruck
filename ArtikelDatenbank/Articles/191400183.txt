@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Tauchringe geeignet für Kinder ab 3 Jahren</li><li>leuchtende Farben ermöglichen einfaches Auffinden</li><li>schwimmen aufrecht für realistisches Taucherlebnis</li><li>verbessert räumliches Bewusstsein und Koordination</li><li>langlebiges Material bietet anhaltenden Spielspaß</li></ul>"
-}

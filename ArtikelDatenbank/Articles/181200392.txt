@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Zuckererbse für ca. 12 laufende Meter</li><li>eine violettblühende, mittelspäte Erbsensorte</li><li>zum kompletten Frischverzehr geeignet</li><li>gute Resistenz gegenüber Krankheiten</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

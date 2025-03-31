@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Ballenschutz Box von Wundmed</li><li>sofortige Schmerz- und Drucklinderung</li><li>schnelle Wundheilung und Schutz vor erneuter Reibung</li><li>eindringen von Bakterien und Schmutz wird verhindert</li><li>trägt zur effektiven Polsterung bei</li></ul>"
-}

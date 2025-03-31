@@ -1,4 +1,0 @@
-{
-    "uvp": 99.0,
-    "attributes": "<ul><li>hochwertiger Werkzeugsatz von Normex</li><li>müheloses Entfernen festgefressener Diesel-Injektoren</li><li>mit verschiedenen Gewindeadaptern</li><li>einsatzbereit in den verschiedensten Situationen</li><li>im praktischen Aufbewahrungskoffer<br/></li></ul>"
-}

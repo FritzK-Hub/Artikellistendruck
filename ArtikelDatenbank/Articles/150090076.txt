@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>H1 Xenon Mega White Ersatzlampe für Scheinwerfer</li><li>bis zu 30% mehr Licht und Ausleuchtung</li><li>sehr geringer Gelbanteil</li><li>mit H1 H1 P14,5s Sockel</li><li>entspricht E1, gemäß ECE R 37</li></ul>"
-}

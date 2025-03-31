@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>Laubbesen aus Stahl mit 22 Zinken </li><li>zum Zusammenfegen von Laub, Grasschnitt oder Vertikutiergut</li><li>Arbeitsbreite von 50 cm für eine effektive und schnelle Gartenarbeit </li><li>sichere Stielverbindung durch eine 28 mm Stieldülle </li><li>unverzichtbares Werkzeug bei der Rasenpflege</li></ul>"
-}

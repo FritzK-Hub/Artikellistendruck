@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>glasklare Wellplatte Sinus 76/18 aus bruchfestem PVC</li><li>vielseitige Einsatzmöglichkeiten in unterschiedlichsten Bereichen</li><li>widerstandsfähig gegen Wettereinflüsse für Langlebigkeit</li><li>dient als Überdachung für Carports oder Schuppen</li><li>eignet sich auch für den Bau von Gewächshäusern</li></ul>"
-}

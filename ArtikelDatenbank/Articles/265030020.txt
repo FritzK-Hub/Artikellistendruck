@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Fensterriegel aus Edelstahl, gerade</li><li>mit Knopfgriff und befestigter Schlaufe</li><li>zum Verschließen von Fenstern, Türen und Toren</li><li>links und rechts verwendbar</li><li>für den Innen- und Außenbereich geeignet<br/></li></ul>"
-}

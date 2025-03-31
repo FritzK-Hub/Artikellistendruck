@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Arbeitsschutzbrille mit Front- und Seitenschutz</li><li>mit Sicherheit geschützt - beim Bohren, Schleifen, Sägen ... usw.</li><li>längenverstellbare Bügel für optimalen Sitz und Schutz</li><li>mit farblosem UV-Schutzfilter</li><li>entspricht den Sicherheitsanforderungen nach DIN EN 166</li></ul>"
-}

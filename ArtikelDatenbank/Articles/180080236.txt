@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Dachrinnenhalter aus Metall</li><li>hochwertige Verarbeitung</li><li>halbrunde Form</li><li>zur Befestigung von Regenrinnen</li><li>witterungsbeständig lackiert, hochbelastbar</li></ul>"
-}

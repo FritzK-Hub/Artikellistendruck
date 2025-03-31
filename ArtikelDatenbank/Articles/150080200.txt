@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Abschleppseil aus elastischem Gummi und Kunststoff</li><li>1,5 m bis 4 m Seillänge</li><li>bis 2500 kg belastbar</li><li>mit 2 kräftigen Karabinerhaken</li><li>inklusive Aufbewahrungsbeutel</li></ul>"
-}

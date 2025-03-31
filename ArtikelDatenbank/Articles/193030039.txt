@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Vogelhaus mit vier offenen Seiten</li><li>aus naturbelassenem Holz</li><li>Futterort für verschiedene Wildvögel</li><li>das Dach ist mit Rinde gedeckt</li><li>zum Befestigen an Wand und Baum</li></ul>"
-}

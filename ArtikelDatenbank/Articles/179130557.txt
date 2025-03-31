@@ -1,4 +1,0 @@
-{
-    "uvp": 12.49,
-    "attributes": "<ul><li>besonders strapazierfähig, mit leichter Kunststofffassung</li><li>verstellbares Gummiband für angenehmen Tragekomfort</li><li>lässt sich auch über einer normalen Brille tragen <br/></li><li>Glasführung ist nach EN-Stufe 5, entspricht der Norm EN 166/169</li><li>Gläser lassen sich bei Bedarf austauschen</li></ul>"
-}

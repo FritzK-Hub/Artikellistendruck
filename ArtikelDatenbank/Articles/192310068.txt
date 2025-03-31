@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>dekorative LED-Lichterkette mit 38,9 m Länge</li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>Weihnachtsdeko mit 480 LEDs warmweiß</li><li>für Innen und Außen vielfältig einsetzbar</li><li>sparsame LED-Technik<br/></li></ul>"
-}

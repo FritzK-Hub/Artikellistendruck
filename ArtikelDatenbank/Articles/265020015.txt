@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>robuste Konstruktion</li><li>langlebig und zuverlässig</li><li>vielseitiger Schwenkbereich</li><li>einfache Installation</li><li>stabile Befestigung<br/><br/></li></ul>"
-}

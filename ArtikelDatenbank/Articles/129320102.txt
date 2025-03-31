@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>rein weibliche Blüten</li><li>für den Gewächshausanbau</li><li>robuste Resistenz</li><li>imposante Fruchtgröße</li><li>anwenderfreundliche Pflege<br/></li></ul>"
-}

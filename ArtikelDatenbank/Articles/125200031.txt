@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Protect Home Mausefallen-Set Click 2 Stück</li><li>eine klassische Falle mit Schlagbügel</li><li>vielseitig einsetzbar im Haus oder Keller</li><li>schnelles und effektives Fangen von Mäusen</li><li>ohne Gebrauch von Rattengift einsetzbar<br/></li></ul>"
-}

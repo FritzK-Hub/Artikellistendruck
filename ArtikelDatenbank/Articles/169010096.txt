@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>2in1 Abdeckpapier und Malerkrepp auf Rolle</li><li>für glatte und leicht raue Flächen im Innenbereich</li><li>schützt kleinere Flächen wie z. B. Türrahmen oder Fußleisten</li><li>die schnelle Hilfe bei deinen Maler oder Schleifarbeiten</li><li>individuell zuschneidbar</li></ul>"
-}

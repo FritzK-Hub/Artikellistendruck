@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>extra breite und sichere Trittflächen</li><li>gepolsterter Haltebügel schafft Stabilität</li><li>bequem transportabel</li><li>rutschfeste Füße bieten sicheren Stand</li><li>platzsparend durch klappbare Konstruktion</li></ul>"
-}

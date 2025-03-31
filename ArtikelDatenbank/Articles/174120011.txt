@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li><strong>Wasserpumpenzange </strong>240 mm schwarz lackiert</li><li>aus professionellen, gehärtetem Chrom-vanadium-Stahl angefertigt</li><li>mit Klemmschutz und tauchisolierten Griffen ausgestattet</li><li>besitzt eine Zangenöffnung vom 38 mm für ausreichend Schrauben, Muttern und Rohre</li><li>verfügt über eine lange Lebensdauer <span style=\"font-size: small;\">im täglichen Werkstatteinsatz</span></li></ul>"
-}

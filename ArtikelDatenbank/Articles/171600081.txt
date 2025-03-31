@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>geeignet für Holzfußböden, Parkett, Dielen und Treppen im Innenbereich</li><li>hinterlässt eine offenporige, trittfeste und atmungsaktive Oberfläche</li><li>schützt vor Schmutz und macht Oberflächen pflegeleicht</li><li>reguliert die Feuchtigkeit und bietet hohen UV-Schutz</li><li>strapazierfähig und wasserabweisend</li></ul><p></p>"
-}

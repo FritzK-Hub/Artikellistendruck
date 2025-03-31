@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>mit Platz für bis zu 5 Kabel</li><li>vermeidet Kabelchaos auf dem Schreibtisch</li><li>einfache Befestigung an der Schreibtischkante</li><li>langlebige und starke 3M-Klebefläche für dauerhafte Stabilität</li><li>flexible Kabelführung für eine Vielzahl von Kabeln<br/></li></ul>"
-}

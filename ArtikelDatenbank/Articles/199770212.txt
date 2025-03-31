@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>hochwertige FISHBULL-Schraubhaken aus robustem Stahl</li><li>in gebogener, offener Form</li><li>mit Kunststoffbeschichtung in Weiß</li><li>zum Aufhängen von Gegenständen</li><li>zur Montage an der Decke oder Wand<br/></li></ul>"
-}

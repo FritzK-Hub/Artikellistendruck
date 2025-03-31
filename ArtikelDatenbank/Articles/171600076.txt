@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Kellerbodenfarbe 5 Liter in Grau</li><li>zur Versieglung von mineralischen Untergründen wie zement- und kalkgebundenen Flächen</li><li>ideal für Kellerböden oder Abstellflächen im Innnenbereich</li><li>ist besonders ölundurchlässig und hochdeckend</li><li>sorgt für eine gute Elastizität und Haftung</li></ul>"
-}

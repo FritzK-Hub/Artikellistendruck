@@ -1,4 +1,0 @@
-{
-    "uvp": 124.95,
-    "attributes": "<ul><li>Klappsessel</li><li>mit Armlehnen</li><li>Robinienholz</li><li>Flachstahl</li><li>verzinkt und pulverbeschichtet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Abdeckung für TAE-Dosen (Telefondosen)</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>aus hochwertigem Kunststoff in weiß</li><li>Verwendung nur in Verbindung mit TAE-Dose</li><li>Verwendung nur in Kombination mit Rahmen der Serie Standard Quadro<br/></li></ul>"
-}

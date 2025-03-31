@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>handlicher Eiskratzer von Shell in Gelb</li><li>aus stabilem, widerstandsfähigen Kunststoff gefertigt</li><li>erleichtert das Entfernen von Schnee und Eis</li><li>Softgriff verhindert ein ungewolltes Abrutschen</li><li>bei Nichtgebrauch platzsparend verstaubar<br/></li></ul>"
-}

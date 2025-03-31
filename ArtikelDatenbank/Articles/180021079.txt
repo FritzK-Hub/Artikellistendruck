@@ -1,4 +1,0 @@
-{
-    "uvp": 1.0,
-    "attributes": "<ul><li>zum Durchleiten von Pflanzenschutzmitteln, Luft und leichten Chemikalien</li><li>besitzt einen Betriebstemperaturbereich zwischen −10 und +60°С</li><li>auch für Trinkwasser und Lebensmittelsubstanzen einsetzbar</li><li>lässt sich je nach Bedarf in die gewünschte Länge zuschneiden</li><li>aus strapazierfähigem, glasklarem PVC gefertigt, macht es besonders langlebig</li></ul>"
-}

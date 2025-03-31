@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Länge der Klebefolie: ca. 2,1 m</li><li>Breite der Klebefolie: ca. 90 cm</li><li>Stärke Folie: ca. 0,1 mm</li><li>Folie ist selbstklebend</li><li>mit feuchtem Tuch abwischbar</li><li>rückstandsfrei entfernbar</li></ul>"
-}

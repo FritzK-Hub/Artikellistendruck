@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Frischhaltefolie 3in1 in Faltschachtel mit Säge</li><li>zum Frischhalten, Einfrieren und für die Mikrowelle</li><li>gut selbsthaftend und stark dehnbar</li><li>lebensmittelecht und PVC-frei</li><li>verschließt luftdicht und aromaschützend</li></ul>"
-}

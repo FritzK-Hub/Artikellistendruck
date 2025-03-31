@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>zuverlässiger Zimmermannsbleistift für Handwerker</li><li>perfekt für Holzzuschnitte und Markierungen</li><li>240mm Länge für optimale Handhabung</li><li>hochwertiges, langlebiges Holzmaterial</li><li>dreieckige Form für sicheren Griff</li></ul>"
-}

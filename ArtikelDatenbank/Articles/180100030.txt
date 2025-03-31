@@ -1,4 +1,0 @@
-{
-    "uvp": 36.99,
-    "attributes": "<ul><li>LIQUI MOLY Motoröl 10W-40 für Otto- und Dieselmotoren</li><li>schnelle Durchölung schützt beim Kaltstart vor Verschleiß</li><li>geringere Schlammbildung sorgt für stabileren Schmierfilm</li><li>ist zudem mit handelsüblichen Motorenölen mischbar</li><li>deutsches Qualitätserzeugnis</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 109.95,
-    "attributes": "<ul><li>Kunststoff-Hochbeet langlebig und witterungsbeständig</li><li>multifunktional für Blumen, Gemüse, Kräuter, Obst</li><li>schnell einsatzbereit dank werkzeuglosem Aufbau</li><li>komfortabel aufgrund ergonomischer Arbeitshöhe</li><li>hochwertige Qualität, made in Germany<br/></li></ul>"
-}

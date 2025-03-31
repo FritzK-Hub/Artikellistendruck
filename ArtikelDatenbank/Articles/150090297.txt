@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Maße Reflektor: (BxH) ca. 103 x 40 mm</li><li>Form: rechteckig</li><li>Farbe: weiss</li><li>Befestigung: Schraubbefestigung</li><li>Inhalt: 2 Stück</li></ul>"
-}

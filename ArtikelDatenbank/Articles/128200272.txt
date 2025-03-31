@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Gartenzwerg 20 cm in verschiedenen Ausführungen <br/></li><li>aus wetterfestem Keramik gefertigt, leicht zu transportieren</li><li>ideal als Dekoration im Vorgarten oder auf der Terrasse</li><li>auch zwischen Büschen und Blumen ein echter Blickfang</li><li>wetterfestes Material für den Innen- und Außenbereich<br/></li></ul>"
-}

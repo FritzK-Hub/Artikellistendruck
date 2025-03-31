@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Umweltzeichen Blauer Engel</li><li>für innen und außen geeignet</li><li>glatter Verlauf und leicht schleifbar</li><li>ideal für Holz, Zink, lackierbare Kunststoffe, Kupfer, Aluminium (metallisch blank) und Altanstriche</li><li>nach DIN EN 71.3 für die Lackierung von Kinderspielzeug geeignet</li></ul>"
-}

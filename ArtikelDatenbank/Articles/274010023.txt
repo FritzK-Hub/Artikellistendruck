@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Profi Schraubzwinge mit großem Spannbereich bis 1m<br/></li><li>geriffelte, verzinkte Profilschiene</li><li>Kunststoff-Schutzbacken</li><li>mit beweglicher Druckplatte</li><li>hölzerner Griff<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>wetterfest und langlebig</li><li>starker Halt auch bei Wind</li><li>ergonomisches Design bietet leichte Handhabung</li><li>attraktive Farbkombination</li><li>idealer Alltagsshelfer für jede Haushaltsgröße</li></ul>"
-}

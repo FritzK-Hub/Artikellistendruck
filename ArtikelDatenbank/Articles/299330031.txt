@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>einfache Montage</li><li>Schutz vor Witterungseinflüssen</li><li>ästhetische Verschönerung</li><li>langlebige Qualität</li><li>vielseitige Anwendung</li></ul>"
-}

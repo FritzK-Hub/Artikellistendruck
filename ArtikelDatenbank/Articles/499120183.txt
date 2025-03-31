@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Holzbauschraube (oder auch Konstruktionsschraube genannt)</li><li>Gewinde: Teilgewinde</li><li>Kopf: Senkkopf mit Unterkopffrästaschen</li><li>Antrieb: TX - Antrieb, T30</li><li>Material: Stahl, blau verzinkt</li></ul>"
-}

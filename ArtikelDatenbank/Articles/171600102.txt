@@ -1,4 +1,0 @@
-{
-    "uvp": 6.95,
-    "attributes": "<ul><li>schnelle Aushärtung für eine schnelle Reparatur</li><li>leicht zu mischen und zu verarbeiten für eine einfache Handhabung</li><li>vielseitig einsetzbar auf verschiedenen Untergründen</li><li>zuverlässige Haftung für eine langanhaltende Reparatur</li><li>ideal für den Einsatz bei Schnellmontagen, um Zeit zu sparen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>hochwertiges Metall, verchromt</li><li>gewindeloses Design für einfache Montage</li><li>passend für verschiedene Armaturen</li><li>modernes und elegantes Erscheinungsbild<br/></li><li>verdeckt unschöne Löcher<br/></li></ul>"
-}

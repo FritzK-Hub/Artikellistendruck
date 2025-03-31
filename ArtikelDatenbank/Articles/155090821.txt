@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Abdeckung für ISDN-Dosen</li><li>hochwertiger Kunststoff in weiß</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>nur in Verbindung mit ISDN-Dose der Serie Trend</li><li>nur in Kombination mit Rahmen der Serie Trend<br/></li></ul>"
-}

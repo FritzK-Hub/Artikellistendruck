@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>robuste Stahlkonstruktion</li><li>vielseitige Anwendungen</li><li>große Belastbarkeit</li><li>einfache Installation</li><li>solide Befestigungslösung</li></ul>"
-}

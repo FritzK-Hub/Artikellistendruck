@@ -1,4 +1,0 @@
-{
-    "uvp": 19.9,
-    "attributes": "<ul><li>Kofferraumtasche für mehr Ordnung und Sauberkeit im Auto</li><li>aus besonders pflegeleichtem und strapazierfähigem 210D Polyester</li><li>zur Aufbewahrung von Werkzeug, kleine Einkäufe oder Autopflegeartikel</li><li>zusätzliche Kühltasche zum Kühlen von Getränken oder Lebensmittel</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

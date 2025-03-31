@@ -1,4 +1,0 @@
-{
-    "uvp": 23.9,
-    "attributes": "<ul><li>hochwertiges Eschenholz für maximale Langlebigkeit</li><li>ovale Form bietet sicheren Halt</li><li>perfekt für Köpfe mit 8-10 kg Gewicht</li><li>zwei Stück erlauben dauerhafte Einsatzbereitschaft</li><li>optimale Länge für kraftvolle Hiebe</li></ul>"
-}

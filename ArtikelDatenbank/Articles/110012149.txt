@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Spiral-Ablaufschlauch 3/4\" mit 250 cm Länge</li><li>passender Ersatz für alte, poröse Schläuche</li><li>aus flexiblem, grauem Kunststoff gefertigt</li><li>geeignet für Waschmaschinen und Spülmaschinen</li><li>inklusive Aufhängung zur leichteren Befestigung<br/></li></ul>"
-}

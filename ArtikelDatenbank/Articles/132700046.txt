@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>nahtlose Integration deiner bestehenden GERMANIA®-Akkus</li><li>schafft hohe Kompatibilität</li><li>robuste Zuverlässigkeit</li><li>schnelle Einsatzbereitschaft</li><li>optimale Geräteanpassung</li></ul>"
-}

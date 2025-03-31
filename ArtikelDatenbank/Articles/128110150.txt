@@ -1,4 +1,0 @@
-{
-    "uvp": 179.95,
-    "attributes": "<ul><li>2er-Set Klappstühle aus pulverbeschichtetem Eisen</li><li>einfach zusammenklappbar für platzsparende Aufbewahrung</li><li>Rückenfläche mit Mosaik-Verzierung in Grau und Weiß</li><li>robuste Konstruktion für den Einsatz im Freien</li><li>bequeme Sitzpolster in Grau sind enthalten</li></ul><p></p>"
-}

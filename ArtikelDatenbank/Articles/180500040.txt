@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>750 ml - gebrauchsfertig zum Auf</li><li>mit selbsttätigem Turbo-Defroster bis -55°C</li><li>für nachhaltig streifenfreie Sicht </li><li>verhindert effektiv erneutes Einfrieren</li><li>besonders schonend für die Scheiben </li></ul>"
-}

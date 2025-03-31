@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Folienballon Happy Birthday</li><li>schöne Geburtstags-Dekoration</li><li>lassen sich leicht aufblasen</li><li>3 verschiedene Motive (Auswahl nicht möglich)</li><li>mehrfach aufblasbar</li></ul>"
-}

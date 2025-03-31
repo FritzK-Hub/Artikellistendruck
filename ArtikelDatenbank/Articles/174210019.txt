@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>zur Verbindung zwischen Armatur und Kopfbrause</li><li>klassische Optik dank verchromter Oberfläche</li><li>ausreichende Bewegungsfreiheit</li><li>mit wassersparenden Einsatz</li><li>aus hochwertigem Edelstahl gefertigt<br/></li></ul>"
-}

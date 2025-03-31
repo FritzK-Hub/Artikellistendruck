@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Lochband aus verzinkten Stahl</li><li>zum Verbinden von Paneelen oder Balken, zum Abhängen von Rohren oder Deckenpaneelen</li><li>in einer Abrollbox aufbewahrt</li><li>kann nach Bedarf herausgezogen und abgeschnitten werden</li><li>Abrollbox aus Kunststoff<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>klassische runde Formgebung</li><li>hergestellt aus pulverbeschichtetem Stahlrohr</li><li>solide Verarbeitung für hohe Belastbarkeit</li><li>Möglichkeit zur Ausgleichung von Bodenunebenheiten</li><li>einfache Montage mittels Schrauben über vier Bohrlöcher möglich</li></ul><p></p>"
-}

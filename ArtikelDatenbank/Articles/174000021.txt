@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>hohe Langlebigkeit und Zuverlässigkeit</li><li>im ästhetischen schwarzen Design</li><li>universell für jedes Waschbecken passend<br/></li><li>einfache Reinigung durch Entleerungsschraube</li><li>einfache und problemlose Montage<br/></li></ul>"
-}

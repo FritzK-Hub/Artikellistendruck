@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Abdeckhaube aus PE-Gewebe</li><li>Für Liegeinseln/Loungesets in rechteckiger Ausführung</li><li>optimaler Schutz gegen Witterungseinflüsse</li><li>formstabil und temperaturbeständig</li><li>Optimal passend für Loungeset Manacor</li></ul>"
-}

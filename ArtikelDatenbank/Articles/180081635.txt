@@ -1,4 +1,0 @@
-{
-    "uvp": 1467.0,
-    "attributes": "<ul><li>Einfachstab-Gartenzaun Michl aus Metall</li><li>leicht, preiswert und sehr vielseitig einsetzbar</li><li>besticht durch seine Schlichtheit und seine hohe Formstabilität</li><li>modernste Schweißtechnik garantiert höchste Qualität</li><li>sehr lange Lebensdauer durch Verzinkung und die hochwertige Pulverbeschichtung<br/><br/></li></ul>"
-}

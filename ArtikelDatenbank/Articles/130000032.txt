@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Handsäge mit drei unterschiedlichen Sägeblättern</li><li>zum Schneiden von Holz, Kunststoff oder Metallen</li><li>Schnellverschlussfunktion am Griff zum Wechseln des Sägeblättes</li><li>für die verschiedensten Säbelsäge- und T-Schaft-Stichsägeblätter</li><li>rutschfester Handgriff für einfaches und präzises Arbeiten<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>zum Festspannen von Behälterdeckeln oder Maschinenverkleidungen</li><li>in der Industrie, bei Fahrzeugen oder beim Möbelbau einsetzbar</li><li>durch Anziehen auf den Gegenhaken wird eine Verbindung hergestellt</li><li>einfach zu bedienen und erfordert keine komplexen Montageprozesse</li><li>besonders belastbar, verhindert ein ungewolltes Öffnen<br/></li></ul>"
-}

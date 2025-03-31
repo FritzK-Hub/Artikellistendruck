@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>YARD FORCE Akku-Laubsauger 2 x 20 V </li><li>geeignet auf Rasenflächen oder Gehwegen</li><li>verstellbare Geschwindigkeit der Saug- und Blasfunktion</li><li>besitzt eine Häckselfunktion im Verhältnis 8:1</li><li>inklusive 45 Liter Auffangsack und Tragegurt</li></ul>"
-}

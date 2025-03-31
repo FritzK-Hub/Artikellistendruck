@@ -1,4 +1,0 @@
-{
-    "uvp": 47.95,
-    "attributes": "<ul><li>ideal für Werkstatt, Hobby, Haushalt usw.</li><li>perfekt zur Aufbewahrung und für einen bequemen Transport</li><li>inklusive 44-teiliges Werkzeug-Sortiment</li><li>inklusive Kunststoffgriff</li><li>mit Kunststoff-Verschluss</li></ul>"
-}

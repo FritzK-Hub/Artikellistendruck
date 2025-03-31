@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "                    elektronischer Funk-Gong,/nnicht erweiterbar mit zusätzlichem Sender oder Empfänger,/nReichweite: 80 m (unter optimalen Bedingungen),/nFrequenz: 433 MHz,/nSpannungsversorgung: /nSender: 1 x Batterie 12 V / Typ A23 (im Lieferumfang enthalten), /nEmpfänger: 3 x Batterie 1,5 V / Typ Mignon (nicht im Lieferumfang enthalten),/nLautstärke: 80 dB\"\"/n                "
-}

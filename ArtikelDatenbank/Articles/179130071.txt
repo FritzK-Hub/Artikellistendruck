@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>farblose Vorverglasung</li><li>für Schweißer-Schutzschilder und -Schirme</li><li>dient als Ersatzglas</li><li>2er Set</li><li>Einfacher Austausch<br/></li></ul>"
-}

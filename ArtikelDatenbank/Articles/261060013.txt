@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Universal-Kragendübel Set 8 mm 12 Stück<br/></li><li>aus stabilem Polyamid gefertigt</li><li>zum Befestigen von Bilderrahmen, Lampen oder Wandregale</li><li>für Beton, Mauerwerkbaustoffe oder Platten geeignet</li><li>ideal für jeden Heim- oder Handwerker<br/></li></ul>"
-}

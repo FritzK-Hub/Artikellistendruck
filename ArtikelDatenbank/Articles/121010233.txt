@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>hochwertiger Pflanztopf für innen und außen</li><li>im traditionellen Strickmuster</li><li>inklusive herausnehmbarem Einsatz mit 2 Griffen</li><li>UV-beständig und stabil</li><li>besteht aus hochwertigem Kunststoff</li></ul>"
-}

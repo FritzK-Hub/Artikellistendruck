@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Antirutsch Pad für das Armaturenbrett</li><li>sicherer Halt von Handy, Smartphone oder Schlüssel</li><li>einfache Befestigung, ohne zu kleben</li><li>für flache Oberflächen geeignet</li><li>selbsthaftend und abwaschbar<br/></li></ul>"
-}

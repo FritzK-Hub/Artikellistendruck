@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>dreischenkliger Rasenprenger aus Kunststoff</li><li>für Rasenflächen von 170 m² geeignet</li><li>Drehzahlregelung durch die Umdrehung der Auslaufdüsen</li><li>Anschluss erfolgt durch 1/2\" Schnellkupplung</li><li>einfaches Aufstellen mittels Erdspieß<br/></li></ul>"
-}

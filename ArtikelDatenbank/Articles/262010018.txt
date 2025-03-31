@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>stilvolle Ablagefläche</li><li>hochwertiges Material</li><li>robust und langlebig</li><li>großzügiger Stauraum</li><li>zeitloses Design</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>ideal für den Möbel- und Ladenbau oder Automobilindustrie </li><li> passend für M8 Schraubenköpfe und Mutter </li><li>Abdeckkappen aus Kunststoff in Weiß</li><li> halten selbstständig </li><li>einfache Montage </li></ul><p></p>"
-}

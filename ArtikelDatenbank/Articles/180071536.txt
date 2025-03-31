@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Untersetzer für Balkonkasten </li><li>optimal abgestimmt auf den Balkonkasten mit Bewässerungseinsatz 79 x 21 x 17 cm</li><li>in der Farbe terracotta</li><li>aus hochwertigem Kunststoff</li><li>robust und bruchsicher</li></ul>"
-}

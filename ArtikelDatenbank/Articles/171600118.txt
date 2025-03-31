@@ -1,4 +1,0 @@
-{
-    "uvp": 23.95,
-    "attributes": "<ul><li>selbstklebendes Dichtband</li><li>effektive Verbindung und Abdichtung </li><li>vielseitige Anwendung</li><li>mit Aluminiumverstärkung </li><li>UV-beständige Schutzfolie<br/><br/></li></ul>"
-}

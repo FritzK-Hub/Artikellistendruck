@@ -1,4 +1,0 @@
-{
-    "uvp": 10.9,
-    "attributes": "<ul><li>sorgt für mehr Ordnung im Auto, mit vielen Aufbewahrungsmöglichkeiten</li><li>sechs Fächer bieten ausreichend Stauraum für verschiedenste Sachen</li><li>schützt den Vordersitz vor Schmutz, Flecken oder Beschädigungen</li><li>verhindert, dass bei einem Unfall die Gegenstände herausfallen</li><li>einfache Befestigung dank zwei verstellbaren Klickverschlüssen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>äußerst praktisches Badaccessoire</li><li>in zeitloser Eleganz</li><li>einfache Reinigung</li><li>kratzfest und langlebig</li><li>moderne Formsprache</li></ul>"
-}

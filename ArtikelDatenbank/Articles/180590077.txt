@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Vollgarage Größe L für Pkws aus blauem Nylon</li><li>einfache und schnelle Befestigung dank elastischem Saum</li><li>optimaler Schutz gegen Eis, Schnee, Schmutz oder Sonnenstrahlen</li><li>bei gröberer Verschmutzung auch Handwaschbar</li><li>bei Nichtgebrauch platzsparend im Aufbewahrungsbeutel verstaubar<br/></li></ul>"
-}

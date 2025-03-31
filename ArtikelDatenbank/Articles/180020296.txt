@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>für Fallrohre mit Nennwert 90 geeignet</li><li>langlebige Qualität dank robustem PVC-Material</li><li>zuverlässige Verbindung von zwei Fallrohren</li><li>einfache und schnelle Montage</li><li>witterungsbeständig sowie resistent gegen UV-Strahlung<br/></li></ul>"
-}

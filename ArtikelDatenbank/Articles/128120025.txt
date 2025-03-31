@@ -1,4 +1,0 @@
-{
-    "uvp": 586.95,
-    "attributes": "<ul><li>Gartensitzgruppe im klassischen Kurgartendesign</li><li>Platz für 4 Personen</li><li>aus robustem und witterungsbeständigem Robinienholz</li><li>Gestell aus massivem Flach- und Rundstahl</li><li>Flachstahl verzinkt und transparent pulverbeschichtet</li></ul>"
-}

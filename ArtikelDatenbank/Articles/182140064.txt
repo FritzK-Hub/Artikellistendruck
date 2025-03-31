@@ -1,4 +1,0 @@
-{
-    "uvp": 5.29,
-    "attributes": "<ul><li>Lenkergriffe mit guter Dämpfwirkung</li><li>angenehm weich und extrem rutschfest</li><li>inklusive Lenkerstopfen</li><li>universell verwendbare Fahrradgriffe</li><li>mit einem Innendurchmesser von 19 mm</li></ul>"
-}

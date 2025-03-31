@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Aufgrund der langen Laufzeit ideal für Rauchmelder</li><li>findet Anwendung in vielen Spielzeug-Fernbedienungen</li><li>leistungsfähige Varta Longlife Power Batterie</li><li>Typ 9V 6LR61 Block</li><li>nicht wiederaufladbar</li></ul>"
-}

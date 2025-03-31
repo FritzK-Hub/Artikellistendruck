@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Multifunktionsöl aus biobasierten Inhaltsstoffen</li><li>vielseitig einsetzbarer 8in1 Alleskönner</li><li>im KFZ-Bereich, Maschinenbau oder in der Schlosserei einsetzbar</li><li>lässt sich schnell und einfach gleichmäßig auftragen</li><li>lockert festsitzende Mechanik und verhindert Kriechströme</li></ul>"
-}

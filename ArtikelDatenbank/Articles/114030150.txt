@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Deutschland Spiegelüberzug</li><li>universell für alle Spiegelgrößen geeignet</li><li>aus 100% Polyester, wetterfest</li><li>zugelassen für bis 120 km/h</li><li>im Set sind 2 Stück enthalten<br/></li></ul>"
-}

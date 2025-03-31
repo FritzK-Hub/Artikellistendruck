@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>wasserdichte Abdichtung dank Elastomer-Dichtscheibe</li><li>Sechskantkopf für eine mühelose Befestigung</li><li>vielseitige Anwendungsmöglichkeiten</li><li>langlebig und robust, aus hochwertigem Material</li><li>integrierter Bund für eine gleichmäßige Verteilung der Befestigungskraft</li></ul>"
-}

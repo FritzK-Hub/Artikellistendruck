@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>FISHBULL Universal-Korb drehstapelbar aus grünem Kunststoff </li><li>passend für Haus- als auch Gartenarbeit z.B. als Gartenkorb, Wäschekorb oder Einkaufskorb</li><li>besitzt ein Fassungsvermögen von 25 Liter</li><li>ideal für die Lagerung von Äpfeln und Brennholz</li><li>die Tragegriffe erleichtern den Transport<br/></li></ul>"
-}

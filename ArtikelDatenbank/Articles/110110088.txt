@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Zimmerbesen mit Polymex-Kunstfaserborsten</li><li>mit Gewindeaufnahme aus Metall</li><li>Besenrücken aus lackiertem Holz in Teak-Optik</li></ul>"
-}

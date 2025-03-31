@@ -1,4 +1,0 @@
-{
-    "uvp": 34.99,
-    "attributes": "<ul><li>SAT-Finder mit analoger Anzeige</li><li>zur Ausrichtung von SAT-Anlagen auf Satelliten</li><li>Verbindungskabel mit Quick-F-Stecker für einfaches Anbringen</li><li>mit 2x F-Anschluss (Kupplung)</li><li>ist digital- und HD-tauglich</li></ul>"
-}

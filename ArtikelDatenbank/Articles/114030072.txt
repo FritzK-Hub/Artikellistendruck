@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>50 Pappbecher \"Coffee to go\" im Set</li><li>weiß/creme mit Aufdruck</li><li>ideal für unterwegs, da leicht und unzerbrechlich</li><li><span class=\"a-list-item\">geeignet für Heißgetränke wie Kaffee, Schokolade und Tee</span></li><li><span class=\"a-list-item\">Premium Qualität</span></li></ul>"
-}

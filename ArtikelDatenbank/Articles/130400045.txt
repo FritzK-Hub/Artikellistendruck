@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Heizstrahler elektrisch mit 1500 W in schwarz</li><li>aus Metall mit spritzwassergeschütztem Design gefertigt</li><li>kann im Garten, Festzelt oder Terrasse eingesetzt werden</li><li>Terrassenheizung mit einem Überhitzungs- und Kippschutz ausgestattet</li><li>inklusive ca. 2 m langem Netzkabel<br/></li></ul>"
-}

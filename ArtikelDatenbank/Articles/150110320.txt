@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Bremsenreiniger 600 ml Sprühdose</li><li>reinigt Brems- und  Kupplungsteile</li><li>macht Brems- und Kupplungsbeläge griffig</li><li>Teilereiniger mit intensiver Reinigungswirkung</li><li>Bremsenreiniger mit 98% Wirkstoff</li><li>Anwendungsgebiet:Trommel- und Scheibenbremsen, Bremsbeläge, Bremsklötze, Kupplungsbeläge und Druckplatten</li></ul>"
-}

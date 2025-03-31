@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul> <li>hochwertiger Parallel-Schraubstock mit Amboss</li> <li>aus massivem Stahlguss mit gehärteten, wechselbaren Spannbacken</li> <li>360° drehbar</li> <li>für die Montage auf einer Werkbank vorbereitet</li> <li>geschlossene Spindel</li></ul>"
-}

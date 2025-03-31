@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Oregano Dost mehrjährig für ca. 300 Pflanzen</li><li>dank scharfem Geschmack ein beliebtes Pizzagewürz</li><li>wirkt entkrampfend als auch nervenstärkend</li><li>auch als Teeaufguß bei Erkältungen einsetzbar</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
-}

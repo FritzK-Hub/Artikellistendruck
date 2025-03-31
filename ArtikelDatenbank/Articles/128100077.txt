@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>60 cm runde Tischplatte mit wunderschönem Mosaik in verschiedenen Grautönen</li><li>beständiges und langlebiges Möbelstück, das jahrelang genutzt werden kann</li><li>massives Eisen-Gestell in schwarz pulverbeschichtet, stabil und robust</li><li>schlichtes klassisches Design, zeitlos und passend für jeden Raum</li><li>ideal für Restaurants, Cafés, Bistros oder kleinere Räume</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Komplettset mit wetterfestem Gärtnerstift</li><li>robuste, langlebige und witterungsbeständige Etiketten</li><li>perfekt für Pflanzenorganisation im Garten</li><li>einfache Beschriftung und sofort einsatzbereit</li><li>vielseitig nutzbar für alle Pflanzenarten</li></ul>"
-}

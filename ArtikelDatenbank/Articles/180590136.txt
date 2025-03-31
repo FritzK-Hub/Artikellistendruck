@@ -1,4 +1,0 @@
-{
-    "uvp": 36.95,
-    "attributes": "<ul><li>leicht und kompakt für Reisen</li><li>vielseitig: Spiel- und Malfläche in Einem</li><li>stabile Konstruktion bietet sicheren Halt</li><li>praktische Staufächer zur übersichtlichen Aufbewahrung</li><li>innovatives Design mit durchdachten Extras</li></ul>"
-}

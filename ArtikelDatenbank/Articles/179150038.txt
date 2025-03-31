@@ -1,4 +1,0 @@
-{
-    "uvp": 12.59,
-    "attributes": "<ul><li>80 mm</li><li>geeignet für Gewindeschneider und Gewindebohrer</li><li>für Rechts- und Linksgang </li><li>mit umschaltbarer Ratsche</li><li>verchromt</li></ul>"
-}

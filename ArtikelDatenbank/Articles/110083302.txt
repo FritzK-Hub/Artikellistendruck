@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Fußmatte aus Kokos mit PVC Rücken</li><li>für Innen- und überdachten Außenbereich geeignet</li><li>sehr gute Reinigungswirkung</li><li>die Fußmatte ist wetterbeständig</li><li>die Fußmatte lässt sich leicht reinigen</li></ul>"
-}

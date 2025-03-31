@@ -1,4 +1,0 @@
-{
-    "uvp": 11.4,
-    "attributes": "<ul><li>Heißklebe Starterset mit Heißklebepistole und Klebesticks</li><li>geeignetes Starterpaket für Werkstatt- wie Bastelarbeiten</li><li>zum Kleben von Holz, Pappe, Kunststoff, oder Stoffe</li><li>ergonomischer Griff für präzise Verklebungen</li><li>ein 1,3 m langes Kabel ist mit im Lieferumfang<br/></li></ul>"
-}

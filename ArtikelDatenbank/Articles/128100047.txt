@@ -1,4 +1,0 @@
-{
-    "uvp": 171.95,
-    "attributes": "<ul><li>rechteckiger Gartentisch</li><li>aus robusten Stahl / Streckmetall</li><li>Dunkelgrau beschichtet</li><li>große, gelochte Tischplatte</li><li>elegantes Design</li></ul>"
-}

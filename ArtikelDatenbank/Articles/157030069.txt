@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Mittelschichtlasur für innen und außen</li><li>hoch wetterbeständige Acryl Holzlasur</li><li>nach DIN EN 71.3 für Kinderspielzeug geeignet</li><li>Umweltzeichen der Blaue Engel</li><li>bis zu 5 Jahre Langzeitschutz</li></ul>"
-}

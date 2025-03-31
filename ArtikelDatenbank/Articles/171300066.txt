@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>gebrauchsfertige Fugendichtmasse<br/></li><li>geeignet als Abdichtungsmaterial für viele Untergründe</li><li>besonders für Dusche, Bad und im Sanitärbereich geeignet</li><li>für alle handelsüblichen Kartuschen geeignet</li><li>mit Fungizid (pilzhemmend) ausgestattet</li></ul><p></p>"
-}

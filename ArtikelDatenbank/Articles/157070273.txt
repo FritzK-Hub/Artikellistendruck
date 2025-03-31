@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Spezial-Acrylat-Dichtmasse für die Reparatur von Rissen und Beschädigungen in Struktur- und Reibeputzen</li><li>mineralischer Körnung zum Schließen von Fassaden- und Mauerwerksrissen</li><li>der Riss wird optimal kaschiert</li><li>leicht zu verarbeiten und überstreichbar</li><li>für innen und außen geeignet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>ein großer und ein kleiner handlicher Koffer im Set</li><li>mit zwei Fächern im Deckel für Schrauben oder Kleinteile<br/></li><li>mit herausnehmbarem Ablagefach im großen Koffer</li><li>stabile Ausführung mit sicheren Clipverschlüssen</li><li>mit stabilen, versenkbaren Griffen für den sicheren Transport<br/></li></ul>"
-}

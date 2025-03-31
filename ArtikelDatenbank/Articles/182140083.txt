@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Fahrradständer 20 - 28\"</li><li>höhenverstellbar</li><li>mit rutschfestem Gummifuß</li><li>komplett mit Befestigungsschraube</li><li>Seitenständer aus Alu</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>für moderne Otto- und Dieselmotoren entwickeltes Motorenöl</li><li>auf Basis ausgesuchter HC-Synthese-Grundöle</li><li>passend für die verschiedene Ford Benzinmotoren</li><li>verbessertes Kraftstoffeinsparpotential bei gleichbleibenden Verschleißschutzeigenschaften</li><li>erfüllt die Anforderungen der Ford WSS-M2C948-B</li></ul>"
-}

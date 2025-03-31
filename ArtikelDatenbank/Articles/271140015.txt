@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Hartmetall Profilfräser 30 mm</li><li>Frästiefe von ca. 16 mm</li><li>maximal bis 30.000 Umdrehungen/Min. zugelassen</li><li>Gesamtlänge Profilfräser: ca. 54 mm</li><li>für den privaten oder professionellen Einsatz<br/></li></ul>"
-}

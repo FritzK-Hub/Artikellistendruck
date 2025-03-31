@@ -1,4 +1,0 @@
-{
-    "uvp": 479.0,
-    "attributes": "<ul><li>Gartentor für Doppelstab-Gittermatten-Zaunsystem</li><li>Komplettpakete inklusive Torpfosten und Befestigungsmaterial</li><li>feuerverzinkt und kunststoffbeschichtet</li><li>lange Lebensdauer durch stabile Verarbeitung</li><li>Stabgitter-Einzeltor mit Doppelstab-Füllung 6/5/6<br/></li></ul>"
-}

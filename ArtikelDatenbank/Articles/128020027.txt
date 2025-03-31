@@ -1,4 +1,0 @@
-{
-    "uvp": 99.9,
-    "attributes": "<ul><li>passendes Zubehör für verschiedene Vitavia Gewächshäuser</li><li>sorgt für mehr Stabilität auf der kompletten Länge</li><li>einfaches Befestigen an 4 mm Hohlkammerplatten, ohne Glasfederklammern</li><li>zusätzliche Sicherheit gegen starken Wind</li><li>Befestigung auch an den oberen und unteren Profilen möglich<br/></li></ul>"
-}

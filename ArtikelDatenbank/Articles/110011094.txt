@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>geeignet für Mauerstärken bis 48 cm</li><li>für Rundrohr- und Lüftungssysteme</li><li>einfache Installation</li><li>aus stabilem Kunststoff</li><li>2-teilig </li></ul>"
-}

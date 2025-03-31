@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>sägeraue Holzlatte aus Kiefern oder Fichtenholz<br/></li><li>unbehandeltes, kammergetrocknetes Holz für eine authentische Optik</li><li>für Holzkonstruktionen wie Unterkonstruktionen oder Zwischenwänden</li><li>für den Einsatz im Dach- und Innenausbau oder für Schalungen</li><li>vielseitig einsetzbare Latte für Holzkonstruktionen<br/></li></ul>"
-}

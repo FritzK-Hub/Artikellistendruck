@@ -1,4 +1,0 @@
-{
-    "uvp": 1.8,
-    "attributes": "<ul><li>hochwertiger rostfreier Edelstahl für langlebige Verwendung</li><li>vielseitig verwendbar zum präzisen und schnellen Schneiden</li><li>ergonomischer 2-Komponenten-Kunststoffgriff für optimale Griffigkeit</li><li>müheloses Arbeiten dank leichtem Gewicht</li><li>ideales Werkzeug für den täglichen Gebrauch <br/></li></ul>"
-}

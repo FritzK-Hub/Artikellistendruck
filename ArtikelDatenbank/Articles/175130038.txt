@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>2-tlg.</li><li>Ersatz-Lötspitzen</li></ul>"
-}

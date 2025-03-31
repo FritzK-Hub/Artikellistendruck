@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>Schlauchverbinder zum Anschluss am Wasserschlauch</li><li>besonders langlebig, aus stabilem Kunststoff gefertigt</li><li>Griffmulden aus Weichkunststoff erleichtern Handhabung </li><li>schnelle und einfache Montage, ganz ohne Werkzeug </li><li>Klemmmutter garantiert eine hohe Schlauchhaltekraft<br/></li></ul>"
-}

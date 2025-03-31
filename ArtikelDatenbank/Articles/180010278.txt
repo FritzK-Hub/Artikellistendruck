@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>ideal für Grünpflanzen und Palmen</li><li>zum gesunden und kräftigen Pflanzenwachstum</li><li>beeindruckende Langzeitwirkung</li><li>zusätzlicher Guano- und Eisenanteil</li><li>einfache Anwendung<br/></li></ul>"
-}

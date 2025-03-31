@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>Teelichthalterung rund 25 cm aus schwarzem Eisen </li><li>mit vier champagnerfarbigem Teelichtgläsern versehen</li><li>vielseitig einsetzbare Innen- und Außendekoration</li><li>auch als Weihnachtsgesteck nutzbar</li><li>für LED und normale Teelichter geeignet<br/></li></ul>"
-}

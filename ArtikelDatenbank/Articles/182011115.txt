@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Campingmatte aus Aluminium und EVA-Schaumstoff</li><li>hält Kälte und Feuchtigkeit fern</li><li>für bequemen Schlaf beim Campen oder Zelten</li><li>strapazierfähig</li><li>mit Verschlussbändern<br/></li></ul>"
-}

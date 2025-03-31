@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>handliches Gartensieb Respana Ø 37 cm</li><li>aus robustem, schwarzem Kunststoff gefertigt</li><li>nützlicher Helfer bei deiner Gartenarbeit</li><li>trennt effektiv Steine und Schutt von der Erde</li><li>schafft eine frische, verfeinerte Erde für deine Jungpflanzen oder Setzlinge<br/></li></ul>"
-}

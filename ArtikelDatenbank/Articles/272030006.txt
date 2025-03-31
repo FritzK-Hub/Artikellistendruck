@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schutzkappe für Fäustel</li><li>schützt Fäustel und Umgebung</li><li>für 1500 g Köpfe</li><li>PAK-frei</li><li>verschiedene Arbeiten mit nur einem Hammer durchführen</li></ul>"
-}

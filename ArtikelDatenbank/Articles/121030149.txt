@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Fahrtenbuch für PKW</li><li>mit 40 Blatt</li><li>Format DIN A6 quer</li><li>zur Anerkennung beim Finanzamt</li><li>Inhalt mit Aufteilung zur Erfassung der laufenden Betriebsdaten/-kosten<br/></li></ul>"
-}

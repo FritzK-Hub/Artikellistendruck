@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>stabile Ausführung</li><li>hervorragende Spannkraft</li><li>mit beweglichen Greifflächen</li><li>2-K Griffe</li></ul>"
-}

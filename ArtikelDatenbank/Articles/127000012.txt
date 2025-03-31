@@ -1,4 +1,0 @@
-{
-    "uvp": 14.79,
-    "attributes": "<ul><li>cs-Grubber mit 3 Zinken und 9 cm Arbeitsbreite</li><li>für alle sämtliche Bodenarbeiten im heimischen Garten </li><li>zum wurzelschonenden Lockern und Lüften des Bodens</li><li>geeignet für steinige Böden und eng stehenden Kulturen</li><li>empfehlenswerte Stiellänge ist 130 cm<br/></li></ul>"
-}

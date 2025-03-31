@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Saalbesen 40 cm zur Beseitigung von feineren Schmutzpartikeln</li><li>aus massivem Holz gefertigt</li><li>Mischung aus Natur- und Kunststofffasern</li><li>mit universaler Stielaufnahme versehen</li><li>universell einsetzbar im Innen- und Außenbereich<br/></li></ul>"
-}

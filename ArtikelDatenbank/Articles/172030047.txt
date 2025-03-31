@@ -1,4 +1,0 @@
-{
-    "uvp": 0.29,
-    "attributes": "<ul><li>flammwidrige Hohlwanddose Ø 80 mm schwarz</li><li>ideal für Hohlraumwände mit fehlender Wanddicke</li><li>vielseitig in der Unterputzmontage einsetzbar</li><li>mit zwei vormontierten Geräteschrauben</li><li>Ausbrechöffnungen für Leitungen und Rohre mit Ø bis 20 mm</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 21.99,
-    "attributes": "<ul><li>bis zu 12 Jahre Intensivschutz</li><li>UV-Blocker Technologie für langanhaltenden Schutz</li><li>betont Holzcharakter mit seidigem Glanz</li><li>tropfgehemmt für einfache Verarbeitung</li><li>schnelle Trocknung, rasche Weiterarbeit möglich</li></ul>"
-}

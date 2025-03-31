@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>sichere Befestigung an Decken</li><li>hohe Belastbarkeit</li><li>langlebiges Material</li><li>einfache Montage</li><li>vielseitige Anwendung</li></ul>"
-}

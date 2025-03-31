@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>schonende Lufttrocknung für den Erhalt aller wichtigen Vitamine und Nährstoffe</li><li>ideale Beschäftigung für Hunde jeden Alters und jeder Größe</li><li>wertvolle Proteine und Fette für eine gesunde Ernährung</li><li>stärkt die Kaumuskulatur und reinigt die Zähne auf natürliche Weise</li><li>reines Naturprodukt, ohne künstliche Zusatzstoffe, für eine gesunde und natürliche Wahl</li></ul>"
-}

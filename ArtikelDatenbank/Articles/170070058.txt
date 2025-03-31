@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>SchneideisenhalterM3-M12</li><li>aus verzinktem Stahl gefertigt</li><li>geeignet für Schneideisen M3 bis M12</li><li>optimale Fixierung des Schneideisens durch drei Feststellschrauben</li><li>Griffe mit Rändelung für guten Halt<br/></li></ul>"
-}

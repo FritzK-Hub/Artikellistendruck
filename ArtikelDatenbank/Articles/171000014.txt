@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>DECOPRO Profiweiß Wandfarbe</li><li>für alle im Innenbereich vorkommenden Untergründe</li><li>extremes Deckvermögen und scheuerbeständig</li><li>mit Vollton- und Abtönfarbe abtönbar</li><li>sehr hoher Weißgrad</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>batteriebetriebene Lampionkerze</li><li>passend für Kerzenhalter in Lampions und Laternen</li><li>sicher und ungefährlich für Kinder</li><li>ideal für das Lichterfest</li><li>keine Brandgefahr</li></ul>"
-}

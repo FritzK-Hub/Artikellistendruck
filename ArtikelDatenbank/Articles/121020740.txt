@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>selbstklebendes Parkplatzschild</li><li>mit weißem Hintergrund</li><li>blau-weißes Zeichen</li><li>einfaches Parkplatz-Schild</li></ul>"
-}

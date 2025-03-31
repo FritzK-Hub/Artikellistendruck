@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Standrohrverschraubung aus Messing</li><li>mit 1\" Tülle und 1\" Innengewinde</li><li>zum Anschluss eines 1\" Schlauchs an einem Standrohr mit 1\" Außengewinde</li><li>Montage mittels Schlauchschellen</li></ul>"
-}

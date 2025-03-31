@@ -1,4 +1,0 @@
-{
-    "uvp": 45.95,
-    "attributes": "<ul><li>Airbrush Pistolen Set mit viel Zubehör</li><li><span style=\"font-size: small;\">Double-Action System zur Steuerung der Farb- und Luftmenge mit einen Finger</span></li><li><span style=\"font-size: small;\">geeignet für die meisten professionellen Airbrush Arbeiten</span></li><li><span style=\"font-size: small;\">ideal für feine Arbeiten zum Beispiel exakte Linien, Tonverläufen und Maskenarbeiten</span></li><li><span class=\"a-list-item\">für Anfänger und Profis </span></li></ul>"
-}

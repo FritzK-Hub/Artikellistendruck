@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Klapphocker 42 x 28 x 36 cm mit robustem Metallgestell</li><li>für erholsame Stunden in deinem Garten, Balkon oder Terrasse</li><li>eingebaute Kühltasche besitzt genug Stauraum für Lebensmittel</li><li>verstellbarer Tragegurt sorgt für einen angenehmeren Tragekomfort</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>praktischer Handtuchring aus hochwertigem Edelstahl</li><li>mit automatischen Absenkmechanismus</li><li>vielseitig einsetzbar</li><li>besonders platzsparend</li><li>inklusive Befestigungsmaterial und Montageplatte<br/></li></ul>"
-}

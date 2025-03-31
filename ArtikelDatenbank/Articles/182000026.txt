@@ -1,4 +1,0 @@
-{
-    "uvp": 2199.95,
-    "attributes": "<ul><li>leistungsstarker Hinterrad-Nabenmotor AEG EasyDrive +</li><li>Steuerung der Unterstützung über AEG-EasyControl am Lenker</li><li>leistungsfähiger 48V AEG-Downtube-Akku mit 499 Wh </li><li>kräftige hydraulische Scheibenbremsen von Shimano<br/></li><li>starke 9-Gang Shimano-Deore Kettenschaltung</li></ul>"
-}

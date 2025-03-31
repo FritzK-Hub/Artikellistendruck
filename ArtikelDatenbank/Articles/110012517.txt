@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Kalkschutz-Mischdüseneinsatz mit Gummi-Dichtung</li><li>2 Stück im Set, je 1 x M22 und M24</li><li>Ersatz für den Kalkschutz-Aufsatz</li><li>reduziert den Wasserverbrauch</li><li>schützt gegen Verkalkungen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>3 Cuttermesser</li><li>1x 18mm Abbrechklinge, 2x 9mm Abbrechklingen</li><li>Klingenarretierung im Schieber</li><li>robuster Kunststoffgriff</li><li>Werkzeug für Renovierungsarbeiten</li></ul>"
-}

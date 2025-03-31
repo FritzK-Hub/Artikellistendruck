@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>vielfältige Blumenpracht</li><li>lang anhaltende Blütezeit</li><li>einfache Pflege</li><li>Bienen- und Hummelmagnet</li><li>natürliche Selbstaussaat<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Avacell Ladegerät V-89E</li><li>ist mit 4 Kanälen ausgestattet</li><li>zum Aufladen von bis zu 4 Akkus gleichzeitig</li><li>passend für NiMH-Akkus Typ AA und AAA</li><li>mit LED-Anzeige des Ladevorganges<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 22.09,
-    "attributes": "<ul><li>Balkonkastenhalter-Paar für breite Balkonkästen</li><li>aus lackiertem Metall mit Edelstahlverschraubungen<br/></li><li>hohe Belastbarkeit von bis zu ca. 35 kg</li><li>ohne Bohren zu befestigen, stufenlos verstellbar</li><li>die Breite kann von 3 bis 14 cm angepasst werden</li></ul>"
-}

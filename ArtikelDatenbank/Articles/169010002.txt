@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Packband in Transparent<br/></li><li>passend für alle handelsüblichen Handabroller</li><li>problemlose manuelle Verarbeitung</li><li>für das Verschließen von leichten bis mittelschweren Kartonagen</li><li>ideal für den Paketversand oder Umzug</li></ul>"
-}

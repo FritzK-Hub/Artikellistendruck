@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Trittleiter 5-stufig aus Aluminium, beidseitig begehbar</li><li>praktischer Helfer im Haushalt oder bei Renovierungsarbeiten</li><li>rutschfeste Standfüße aus Kunststoff für den nötigen Halt</li><li>mitgelieferte Gurte verhindern ein ungewolltes Abrutschen</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

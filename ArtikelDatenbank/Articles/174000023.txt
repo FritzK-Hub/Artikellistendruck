@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>passend für verschiedene Anschlüsse: M8 Aussengewinde x 3/8'' Innengewinde</li><li>benutzerfreundlich leicht und flexibel anzubringen</li><li>zuverlässig robust und langlebig</li><li>edelstahlumflochten beständig gegen Korrosion</li><li>hochflexibel und druckfest</li></ul>"
-}

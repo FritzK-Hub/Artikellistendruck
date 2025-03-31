@@ -1,4 +1,0 @@
-{
-    "uvp": 21.79,
-    "attributes": "<ul><li>hochwertiger, robuster Kunststoff für lange Haltbarkeit</li><li>DIN-Schiene für einfache Montage von bis zu 4 Modulen</li><li>transparente Frontklappe für klare Sicht und einfachen Zugang</li><li>PE- und N-Anschlussleisten für zuverlässigen Anschluss</li><li>platzsparendes Design für flexible Installationen</li></ul>"
-}

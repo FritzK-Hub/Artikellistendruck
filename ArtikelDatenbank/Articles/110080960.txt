@@ -1,4 +1,0 @@
-{
-    "uvp": 3.1,
-    "attributes": "<ul><li>runde Filzgleiter mit Einschlagspitzen im 6er Set</li><li>für glatte Böden wie Stein, Marmor, Fliesen oder Parkett</li><li>schützen die Böden vor Kratzern</li><li>einfache Montage und fester Halt</li><li>mit Nagelstift für ein leises Verrücken von Stühlen<br/></li></ul>"
-}

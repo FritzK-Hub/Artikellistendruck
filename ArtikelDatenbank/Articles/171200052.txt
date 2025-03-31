@@ -1,4 +1,0 @@
-{
-    "uvp": 15.49,
-    "attributes": "<ul><li>Intensivschutz vor Nässe, Schimmel, Umwelteinflüssen</li><li>breite Farbpalette für individuelle Gestaltung</li><li>transparente Textur betont natürliche Holzmaserung</li><li>vielseitig anwendbar und für alle Hölzer geeignet</li><li>einfache und schnelle Anwendung</li></ul><p></p>"
-}

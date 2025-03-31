@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>100% natürliche Inhaltsstoffe</li><li>für gesunde Früchte und sattes Grün</li><li>Mischung aus Kalium und Eisen</li><li>für den ökologischen Landbau</li><li>einfache Anwendung<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>kleiner Tischkamin mit einer Brenndauer von ca. 1 Stunde</li><li>für den Innen- und Außenbereich geeignet</li><li>schafft eine entspannte Atmosphäre mit offenem Feuer</li><li>Brennkammer besitzt ein Fassungsvermögen von ca. 250 ml</li><li>inklusive Löschhilfe aus robustem Eisen<br/></li></ul>"
-}

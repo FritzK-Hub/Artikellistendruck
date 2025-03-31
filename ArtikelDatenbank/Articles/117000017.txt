@@ -1,4 +1,0 @@
-{
-    "uvp": 550.0,
-    "attributes": "<ul><li>modernes Drahtzaun-Set zum Einbetonieren</li><li>für jedes Gelände geeignet</li><li>Schweißgitter verzinkt und kunststoffbeschichtet</li><li>positionieren und fixieren mittels 2-teiliger patentierten Befestigungsclips</li><li>hohe UV-Beständigkeit und korrosionsbeständig</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>700 Lumen kaltweißes LED-Licht</li><li>solarbetriebene, umweltfreundliche Beleuchtung</li><li>drei vielseitige Beleuchtungsmodi</li><li>einfache, kabellose Installation</li><li>Sicherheitssteigerung durch Bewegungssensor</li></ul>"
-}

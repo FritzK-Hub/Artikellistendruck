@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>FISHBULL 2-Takt-Motorenöl für eine saubere Verbrennung</li><li>auf Basis von ausgesuchten mineralischen und synthetischen Grundölen hergestellt</li><li>aschearme Additivzusammensetzung</li><li>verbrennt nahezu rückstandsfrei</li><li>verhindert Zündkerzenverschmutzung und Ablagerungen</li></ul>"
-}

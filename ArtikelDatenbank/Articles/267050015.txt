@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Stahlseil Typ 7x7</li><li>vielseitig verwendbar</li><li>ideal für Werkstatt, Haus, Garten und Boot</li><li>der ideale Helfer um rollende Lasten zu sichern und zu transportieren</li><li>verzinktes Drahtseil mit einem Durchmesser von 2 mm</li></ul>"
-}

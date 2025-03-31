@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>langlebige Auflage aus hochwertigem Vollgummi</li><li>universelle Passform für die meisten Wagenheber</li><li>sicherer Halt durch rutschfeste Oberfläche</li><li>V-Nut passt sich Fahrzeugunterböden an</li><li>hohe Tragkraft bis 700 kg</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>Gartenschaukel mit massivem Stahlgestell</li><li>für bis zu drei Personen geeignet</li><li>Bezug und Dachplane mit Bespannung in anthrazit</li><li>bietet besonders angenehmen Sitzkomfort</li><li>ein echter Blickfang in deinem Garten oder Balkon<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 249.95,
-    "attributes": "<ul><li>zeitloses Design für Eleganz im Freien</li><li>vielseitige Kombinationen nach persönlichem Geschmack möglich</li><li>leichtes Aluminiumgestell für einfache Reinigung</li><li>guter Sitzkomfort durch Polsterung</li><li>flexibles Set zur modernen Terrassengestaltung</li></ul><p></p>"
-}

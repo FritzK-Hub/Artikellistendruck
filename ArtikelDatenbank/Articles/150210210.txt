@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>rechteckige Schüssel mit 10 L Fassungsvermögen</li><li>abwaschbar und leicht zu reinigen</li><li>praktische Aufbewahrungsbox für verschiedene Utensilien</li><li>aus stabilem Kunststoff gefertigt</li><li>farblich sortiert (Farbauswahl nicht möglich)</li></ul>"
-}

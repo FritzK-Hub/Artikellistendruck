@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>    Glasfaser-Dichtschnur Ø 8 mm x 2 m in schwarz    </li><li>inklusiv 1 Tube Kleber 17 ml    </li><li>als Ersatz für defekte Türdichtungen an Öfen und Kaminen</li><li>bis zu 650°C hitzebeständig</li></ul>"
-}

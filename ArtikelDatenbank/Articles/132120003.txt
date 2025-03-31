@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>GERMANIA® Plattform Akku-Säbelsäge 20 V</li><li>ideal zum Sägen verschiedener Materialien wie Holz, Metall und Kunststoff</li><li>profilierter Softgriff für komfortables Arbeiten</li><li>mit werkzeuglosen Sägeblatt-Schnellwechsel ausgestattet</li><li>ein Holz- wie Metallsägeblatt ist mit inklusive</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>schnelles und einfaches Anzünden</li><li>optimale Form für ein effektives Abbrennen</li><li>auch für Grills geeignet</li><li>ökologischer Anzünder aus Holz<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 79.0,
-    "attributes": "<ul><li>Filterkorb als Zubehör für Regenwassertanks</li><li>zur Installation im Dom, auch zum Nachrüsten</li><li>stoppt anfallende Verschmutzung im Tank</li><li>problemlose Entnahme zur Wartung ohne Werkzeug</li><li>Tankfilterkorb mit integriertem Zulaufrohr DN 100</li></ul>"
-}

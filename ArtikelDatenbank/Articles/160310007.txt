@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>absolut wasserdicht für trockene Füße</li><li>rutschfest auf nassem und matschigem Boden</li><li>leicht und bequem für längere Einsätze</li><li>schnell und mühelos zu reinigen</li><li>perfekt für Garten- und Reinigungsarbeiten</li></ul><p></p>"
-}

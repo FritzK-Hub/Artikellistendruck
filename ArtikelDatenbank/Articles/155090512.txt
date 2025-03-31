@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Erdungsblock 4-fach (4 x F-Kupplung)</li><li>schützt Ihre SAT-Anlage vor Überspannung</li><li>Ströme werden schnellstens abgeleitet</li><li>geeignet auch für DVB-T und Radio</li><li>einfache Montage, Blitzableiteranschluss von 16 mm²<br/><br/></li></ul>"
-}

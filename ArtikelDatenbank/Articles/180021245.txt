@@ -1,4 +1,0 @@
-{
-    "uvp": 8.89,
-    "attributes": "<ul><li>Hahnverbinder aus Metall zum Anschluss am Wasserhahn</li><li>komfortable Handhabung</li><li>optimale Form des Hahnverbinders</li><li>ermöglicht eine einfache, problemlose Benutzung</li><li>Montage ohne Werkzeug<br/></li></ul>"
-}

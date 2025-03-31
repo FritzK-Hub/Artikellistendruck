@@ -1,4 +1,0 @@
-{
-    "uvp": 7.95,
-    "attributes": "<ul><li>vielseitige Körnung 60, 80 und 100 für alle Schleifaufgaben</li><li>passend für das Gerät 58146 (175020278 Bandschleifer BS 76-900 E)<br/></li><li>hohe Langlebigkeit und Abriebfestigkeit</li><li>ideal für Profis und Heimwerker</li><li>komplettes Set für verschiedene Anwendungen</li></ul>"
-}

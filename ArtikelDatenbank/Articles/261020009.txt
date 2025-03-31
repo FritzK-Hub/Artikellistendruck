@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>mehrfach geteilter Dübel mit vormontierter Ösenschraube</li><li>leichte Montage mit Zange oder mit der Hand</li><li>die aufspreizenden Stützelemente garantieren eine große Auflagefläche hinter der Platte</li><li>die Ösenschraube ist ohne Verlust der Haltekraft des Dübels an der Platte wieder lösbar</li><li>zur Befestigung von Bildern, Lampen, Wandregalen oder Hängeschränken<br/></li></ul>"
-}

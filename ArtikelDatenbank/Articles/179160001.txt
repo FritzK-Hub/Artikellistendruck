@@ -1,4 +1,0 @@
-{
-    "uvp": 16.91,
-    "attributes": "<ul><li>hohe Spanntiefe</li><li>einstellbare Spannweite</li><li>besonders robust und langlebig</li><li>korrosionsbeständig und leicht zu reinigen</li><li>umschaltbare Funktion</li></ul>"
-}

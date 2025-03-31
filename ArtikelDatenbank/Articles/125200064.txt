@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>4 Fliegenfänger zum Aufkleben</li><li>verwendbar in allen Räumen</li><li>für Fenster und glatte Oberflächen</li><li>wirkt effektiv</li><li>Biozidfrei und Insektizidfrei, da reine Klebefallen</li></ul>"
-}

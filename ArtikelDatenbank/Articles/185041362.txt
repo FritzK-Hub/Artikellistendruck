@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>flammenlose Echtwachs Kerzen, 3-teilig</li><li>hat geschmolzenen Rändern</li><li>mit warmweißem Kerzenlicht-LED</li><li>absolut sicher - kein offenes Feuer, kein Ruß</li><li>mit An-/Aus Schalter per Fernbedienung, batteriebetrieben</li></ul>"
-}

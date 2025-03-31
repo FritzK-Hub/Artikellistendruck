@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>ideal zum Reinigen, Entrosten und Entgraten von Werkstoffen wie Metall, Stein oder Holz</li><li>auch für die Vorbereitung von Löt- und Schweißarbeiten geeignet</li><li>geeignet für Bohrmaschinen, Aufnahmedorn ca. 6 mm</li><li>Topfbürste: ca. Durchmesser Ø 50 mm</li><li>aus gewelltem, feinem Stahldraht</li></ul>"
-}

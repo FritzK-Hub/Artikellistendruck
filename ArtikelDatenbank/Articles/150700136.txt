@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>runde Servierplatte aus Mangoholz</li><li>besonders leicht und robust</li><li>äußerst langlebig und nachhaltig</li><li>mit vorgeböhrter Öse und Schnur zum Aufhängen</li><li>Öse auch als Griff verwendbar<br/></li></ul>"
-}

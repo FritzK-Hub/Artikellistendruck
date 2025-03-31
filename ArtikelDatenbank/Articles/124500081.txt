@@ -1,4 +1,0 @@
-{
-    "uvp": 399.95,
-    "attributes": "<ul><li>modernes, stilvolles Design</li><li>langlebig und wetterfest</li><li>kindersicherer Deckel</li><li>erweiterbares Wasserspeichersystem</li><li>bequeme Wasserentnahme</li></ul>"
-}

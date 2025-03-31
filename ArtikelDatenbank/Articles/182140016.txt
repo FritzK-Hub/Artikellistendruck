@@ -1,4 +1,0 @@
-{
-    "uvp": 12.79,
-    "attributes": "<ul><li>Bremshebel-Set für V-Brake</li><li>mit Schraubklemmen-Befestigung</li><li>für links und rechts</li><li>geeignet für Cantilever-Bremssysteme</li><li>mit Alu-Bremsgriffe</li></ul>"
-}

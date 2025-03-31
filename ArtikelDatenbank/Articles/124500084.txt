@@ -1,4 +1,0 @@
-{
-    "uvp": 199.95,
-    "attributes": "<ul><li>authentisches Eichenfass-Design erzeugt rustikalen Look</li><li>UV-beständiger Kunststoff für maximale Langlebigkeit</li><li>großes Volumen zur effizienten Regenwassernutzung</li><li>praktische Wasserhahnvorbereitung</li><li>Anschluss-Set inklusive – sofort einsatzbereit</li></ul>"
-}

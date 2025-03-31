@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>leistungsfähige Varta High Energy Batterien</li><li>Set beinhaltet 2 Baby Longlife Power Batterien</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>nicht wiederaufladbar</li><li>passend für Spielzeuge, Taschenlampen oder Radios<br/></li></ul>"
-}

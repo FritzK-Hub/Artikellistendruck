@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>effektive Mäusebekämpfung</li><li>langlebige Verarbeitung</li><li>sicher für Haustiere und Kinder</li><li>einfache Anwendung</li><li>Langzeitüberwachung<br/></li></ul>"
-}

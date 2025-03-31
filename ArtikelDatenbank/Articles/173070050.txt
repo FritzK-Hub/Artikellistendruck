@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>handlicher Ratschenring-Maulschlüssel beidseitig 12 mm </li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>zuverlässiger Helfer in jeder Werkstatt</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li><li>mit matt verchromter Oberflächenvergütung<br/></li></ul>"
-}

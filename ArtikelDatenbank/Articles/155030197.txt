@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>zwei Batterien Akku Phone AAA</li><li>speziell für schnurlose Telefone ausgelegt</li><li>besonders gute Belastbarkeit bei Dauerladung</li><li>sind robust gegen Überladung und Tiefentladung</li><li>Hunderte Male wiederaufladbar ohne Memory-Effekt<br/></li></ul>"
-}

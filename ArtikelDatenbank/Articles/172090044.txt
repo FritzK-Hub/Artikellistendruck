@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Klingeltaster mit Namensschild</li><li>für Aufputz-Montage</li><li>Türklingel aus Kunststoff</li><li>nur zum Anschluss an Schutzkleinspannung</li><li>Klingelplatte in weiß</li></ul>"
-}

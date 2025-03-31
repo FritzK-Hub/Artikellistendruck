@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Mehrzweckfett von Addinol auf Mineralölbasis</li><li>wirkt extrem verschleißmindernd und abdichtend</li><li>ideal für Industriebereiche und für die KFZ-Schmierung</li><li>schützt vor Korrosion, Verschleiß und vorzeitiger Alterung</li><li>ausgezeichnete Wasserbeständigkeit<br/></li></ul>"
-}

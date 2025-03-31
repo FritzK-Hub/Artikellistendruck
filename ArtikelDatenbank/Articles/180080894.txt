@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Kalksplitt Yellow Sun im 25kg Sack</li><li>in Weiß-, Grau-, Ocker- und Gelbtönen</li><li>zur dekorativen Gestaltung in Blumentöpfen</li><li>auch als Markierung von Wegen einsetzbar</li><li>mit einer Korngröße von 11 bis 22 mm<br/></li></ul>"
-}

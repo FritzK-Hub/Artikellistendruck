@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>robust und widerstandsfähig gegenüber Witterungseinflüssen und Rost</li><li>sechseckiges Design für hohe Stabilität und Sicherheit</li><li>feuerverzinkte Oberfläche für erhöhte Korrosionsbeständigkeit</li><li>Maschenweite von 13x13 mm für ausreichende Belüftung und Sichtbarkeit</li><li>geeignet für den Einsatz im Innen- und Außenbereich</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>bietet optimale Passform für die meisten Fahrzeuge</li><li>besonders langlebig strapazierfähig</li><li>garantiert weniger Schmutz im Fußbereich des Autos</li><li>Gummiseite auf der Rückseite verhindert Verrutschen</li><li>lässt sich schnell und einfach reinigen<br/></li></ul>"
-}

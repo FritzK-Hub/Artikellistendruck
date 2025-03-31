@@ -1,4 +1,0 @@
-{
-    "uvp": 34.99,
-    "attributes": "<ul><li>elegantes Chrom-Design</li><li>2-in-1 Funktion</li><li>hochwertige Materialien</li><li>auswechselbarer Bürstenkopf</li><li>perfekte Ergänzung für jedes Badezimmer<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Holzpflege für die Gartenmöbel im Freien</li><li>effektiven Schutz und natürliche Pflege</li><li>farblos und seidenglänzend</li><li>wasser- und schmutzabweisend</li><li>zur regelmäßigen Anwendung<br/></li></ul>"
-}

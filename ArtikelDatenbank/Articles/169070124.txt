@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Schließzylinder GERA 5900 30-30 mm</li><li>ist von innen und außen abschließbar</li><li>einfache Montage dank dazugehöriger Befestigungsschraube</li><li>Schließzylinder von außen nicht schließbar, wenn innen Schlüssel steckt</li><li>3 Schlüssel und Befestigungsschraube sind mit inklusive</li></ul>"
-}

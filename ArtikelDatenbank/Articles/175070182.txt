@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>passend für GERMANIA® 2-Gang Akkuschrauber GPT-CD001</li><li>dank LI-ION Technik so gut wie keine Selbstentladung</li><li>mit Ladevolumenanzeige für mehr Sicherheit</li><li>Akkuschrauber Ersatzakku zum einfachen Austausch</li></ul>"
-}

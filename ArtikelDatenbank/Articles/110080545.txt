@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Wäscheklammer Set 50 Stück</li><li>Set besteht aus verschiedenfarbigen Klammern</li><li>aus stabilem Kunststoff gefertigt</li><li>mit nichtrostender Feder</li><li>sturmsicher und wäscheschonend</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.49,
-    "attributes": "<ul><li>Bewegungsmelder zum Schalten von Glüh- und LED-Lampen</li><li>Erfassungswinkel vertikal verstellbar</li><li>zur Aufputz-Wandmontage geeignet</li><li>Erfassungsweite bis zu 12 m</li><li>inklusive Befestigungsmaterial</li></ul>"
-}

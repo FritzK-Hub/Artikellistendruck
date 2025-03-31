@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>Fassadenbesen in Rot mit Teleskopstiel</li><li>aus stabilem Kunststoff gefertigt</li><li>teleskopierbar von bis zu 360 cm</li><li>mit praktischen Gelenkadapter</li><li>zum Entfernen von Spinnweben in hohen Räumen <br/></li></ul>"
-}

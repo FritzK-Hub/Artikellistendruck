@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Stabfeuerzeug mit flexiblem 20 cm langem Stab</li><li>in verschiedenen Farben erhältlich</li><li>mit elektrischer Piezo-Zündung ausgestattet</li><li>mit regulierbarer Flamme versehen</li><li>Sicherung gegen unbeabsichtiges Betätigen des Zündschalters</li></ul>"
-}

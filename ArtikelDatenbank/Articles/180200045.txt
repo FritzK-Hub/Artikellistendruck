@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Behebung und Vorbeugung von Zündproblemen durch Feuchtigkeit</li><li>wasserabweisend mit Kriechfähigkeit gegen Kontaktbrände</li><li>vielseitig in Fahrzeugen und Motorrädern einsetzbar</li><li>stellt wieder die Leitfähigkeit elektrischer Kontakte her</li><li>dient auch als Schutz für Batteriepole</li></ul>"
-}

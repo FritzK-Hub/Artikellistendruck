@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Blechschraube DIN 7981 (auch Linsenblechschraube genannt)</li><li>Gewinde: Vollgewinde</li><li>Kopf: Linsenkopf</li><li>Antrieb: Kreuzschlitz</li><li>Material: Stahl galvanisch verzinkt</li></ul>"
-}

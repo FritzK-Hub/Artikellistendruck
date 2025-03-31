@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>platzsparendes Design für kleine Balkone</li><li>wetterfeste Korbweide bietet Haltbarkeit</li><li>schnelle und einfache Montage<br/></li><li>stabiler Stahlrahmen für zuverlässige Nutzung</li><li>klappbare Tischplatte ermöglicht flexible Anpassung</li></ul><p></p>"
-}

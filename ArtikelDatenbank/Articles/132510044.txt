@@ -1,4 +1,0 @@
-{
-    "uvp": 149.0,
-    "attributes": "<ul><li>kraftvoller Akku-Bohrschrauber von Black &amp; Decker</li><li>neuer 18 V smart tech Akku und LED-Arbeitslicht</li><li>inklusive USB Ladeport und Bluetooth Konnektivität</li><li>per App steuerbar, Sperrfunktion und Akku finden</li><li>mit Softgriff und gummierten Flächen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Spiralnut</li><li>Gewindespitze</li><li>für Weich- und Hartholz</li></ul>"
-}

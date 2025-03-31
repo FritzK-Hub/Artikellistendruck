@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Balkonkasten aus Polyrattan in verschiedenen Farben</li><li>lässt sich schnell und einfach direkt bepflanzen</li><li>vielseitig auf Terrassen, Balkon oder im Garten einsetzbar</li><li>geflochtenes Design verleiht einen besonderen Flair</li><li>integrierte Halterung erleichtert die Befestigung<br/></li></ul>"
-}

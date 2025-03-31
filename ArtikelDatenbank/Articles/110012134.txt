@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>vielseitige Funktionalität</li><li>einfache Einstellung des Wasserstrahls</li><li>unkomplizierte Installation</li><li>elegantes Design</li><li>robust und langlebig<br/></li></ul>"
-}

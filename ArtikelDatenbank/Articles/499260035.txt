@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Kopf: Innensechskant</li><li>Gewinde: Vollgewinde</li><li>Material: Stahl</li><li>Oberfläche: galvanisch verzinkt</li><li>Zugfestigkeit: 8.8</li></ul>"
-}

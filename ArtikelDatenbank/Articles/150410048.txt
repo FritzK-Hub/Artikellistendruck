@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>klare Glasflaschen 6 Stück mit je 500 ml Fassungsvermögen</li><li>stabiler Schraubverschluss aus Metall, verschließt sicher und dicht</li><li>vielseitig zur Aufbewahrung von Essig, Ölen oder Likören einsetzbar</li><li>einfach in der Reinigung, sind Spülmaschinen geeignet</li><li>lassen sich auch für verschiedene Geschenkideen verwenden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Klappleiter 5-Stufig aus Aluminium mit Stahlrahmen</li><li>ideal in der Garage, Garten oder Haushalt geeignet</li><li>mit Anti-Rutsch-Riffelung und Kunststoffsprossen versehen</li><li>Haltebügel erleichtert den Aufstieg der Leiter</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

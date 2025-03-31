@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>zur Reinigung und Pflege von Kunststoffteilen</li><li>für innen und außen geeignet</li><li>z.b. für Stoßstangen, Spoiler oder Zierleisten</li><li>auch für Gartenmöbel aus Kunststoff geeignet</li><li>in praktischer, handlicher Sprühflasche<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Glassockelampe T5</li><li>mit W2x4,6d Sockel</li><li>2 Stück im Blister</li><li>entspricht E4</li><li>Ersatzlampe für das Armaturenbrett</li></ul>"
-}

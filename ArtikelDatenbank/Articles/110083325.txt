@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>praktische Kühltasche mit robustem Reißverschluss</li><li>transportiere mühelos deine Lebensmittel</li><li>mit Trageriemen<br/></li><li>für Ausflüge oder Sport geeignet</li><li>hat ein Fassungsvermögen von ca. 4 Liter<br/></li></ul>"
-}

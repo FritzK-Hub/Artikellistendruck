@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>30 teiliges Trennscheiben-Set</li><li>ideal für Kleinbohrmaschinen</li><li>geeignet zum Schneiden, Fräsen und Entgraten</li><li>universell einsetzbar</li><li>Trennscheiben in Profiqualität<br/></li></ul>"
-}

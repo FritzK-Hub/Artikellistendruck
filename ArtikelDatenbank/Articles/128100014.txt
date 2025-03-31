@@ -1,4 +1,0 @@
-{
-    "uvp": 431.95,
-    "attributes": "<ul><li>ausziehbarer Gartentisch</li><li>robustes Aluminiumgestell</li><li>Glasplatte grau bedruckt</li><li>ausziehbar von 180 cm auf 240 cm</li><li>schlichtes Design</li></ul>"
-}

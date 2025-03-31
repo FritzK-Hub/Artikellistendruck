@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>solarbetriebene Solarwegleuchte aus Kunststoff</li><li>stabiler Halt dank dem Erdspieß</li><li>als dekorativer Orientierungspunkt nutzbar</li><li>vielseitig einsetzbare Außenbeleuchtung</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>höchste Sicherheit, mit Knöchelschutz und verstärkte Handinnenfläche</li><li>komfortable Wärmeisolierung, mit Innenwattierung</li><li>sichtbar bei jedem Wetter, dank der reflektierenden 3M-Elemente</li><li>individuelle Anpassung und sichere Befestigung durch Klettband</li><li>wind- und wasserdicht, um die Hände trocken und geschützt zu halten</li></ul>"
-}

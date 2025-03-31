@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Holzschraube DIN 571 (auch Schlüsselschraube oder Wienerschraube genannt)</li><li>Kopf: Sechskant / 6-kant</li><li>Gewinde: Teilgewinde</li><li>Material: A2 Edelstahl</li><li>Beständigkeit gegen Rost: hoch</li></ul>"
-}

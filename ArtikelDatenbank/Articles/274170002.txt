@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Klingenlänge: ca. 39 cm</li><li>Klingenbreite hinten: ca. 5,5 cm</li><li>Kingenbreite vorne: ca. 8 cm</li><li>Länge Griff: ca. 15 cm</li><li>Gesamtlänge: ca. 54 cn</li><li>Japanmesser mit Holzgriff</li></ul>"
-}

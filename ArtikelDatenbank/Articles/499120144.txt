@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Spanplattenschraube \t</li><li>Gewinde: Vollgewinde \t</li><li>Kopf: Senkkopf \t</li><li>Antrieb: Innenvielzahn (IVZ) / T-Profil (TX) \t</li><li>Material: Stahl gelb verzinkt \t</li></ul>"
-}

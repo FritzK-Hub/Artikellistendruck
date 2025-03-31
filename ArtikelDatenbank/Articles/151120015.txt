@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>sofortige Linderung bei Schmerzen</li><li>kompakt und handlich für unterwegs</li><li>Arnika und Teufelskralle für natürliche Heilung</li><li>gezielt entwickelt für Sportanwendungen</li><li>schnelle Kühlung für effektive Schmerzreduktion<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 299.95,
-    "attributes": "<ul><li>lange Lebensdauer dank hochwertiger Ausführung</li><li>geeignet für den Werkstattbetrieb im Dauereinsatz</li><li>für die Druckprüfung von Kühlsystemen zur Dichtheitsprüfung </li><li>mit 4 Konusadaptern</li><li>für die meisten Fahrzeuge geeignet<br/></li></ul>"
-}

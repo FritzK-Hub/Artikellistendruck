@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>Nachtlicht mit LED und Farbwechsler</li><li>ideal als Einschlafhilfe für Kinder</li><li>das indirekte Licht sorgt für ausreichend Orientierung</li><li>tolle Effekte durch den Farbwechsler</li><li>einfach in der Handhabung<br/></li></ul>"
-}

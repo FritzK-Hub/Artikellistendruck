@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Besenstiel double shine 120 cm mit Gewinde</li><li>aus stabilem Metall hergestellt</li><li>für sämtliche Besenköpfe mit Innengewinde</li><li>auch für Haushaltgeräte mit Aufnahmedülle</li><li>bei Nichtgebrauch dank Öse aufhängbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.39,
-    "attributes": "<ul><li>Federsplinte im 150-teiligen Sortiment</li><li>zur Sicherung von Bolzen, Rohren, Gestängen</li><li>einfaches, schnelles Anbringen und Lösen</li><li>beliebig wiederverwendbar</li><li>doppelt gebogen mit zweifacher Öse<br/></li></ul>"
-}

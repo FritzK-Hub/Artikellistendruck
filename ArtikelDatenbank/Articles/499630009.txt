@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Spanplattenschraube</li><li>Gewinde: Teilgewinde</li><li>Kopf: Senkkopf</li><li>Antrieb: PZ Pozidrive / Kreuzschlitz</li><li>Material: A2 Edelstahl</li></ul>"
-}

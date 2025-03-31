@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Teelichthalterung-Set mit 5 Teelichtgläsern</li><li>Gestell aus schwarzem Metall gefertigt</li><li>schafft eine gemütliche Atmosphäre</li><li>vielseitig einsetzbare Innen- und Außendekoration</li><li>für LED und normale Teelichter geeignet<br/></li></ul>"
-}

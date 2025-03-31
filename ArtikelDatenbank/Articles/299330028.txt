@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Bodenhülse aus feuerverzinktem Stahl</li><li>Pfostenaufnahme mit quadratischem Querschnitt</li><li>z.B. für leichte Holzzäune und Sichtschutzzäune</li><li>passend für Pfosten in der Größe 90 mm</li><li>schnelle Montage und witterungsbeständig</li></ul>"
-}

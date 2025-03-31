@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>leckeres Ergänzungsfuttermittel für Katzen</li><li>aus reichlich Geflügel und Leber zubereitet</li><li>als Belohnung oder zum Verfeinern des Futters</li><li>extra saftig, eine herzhafte Delikatesse für jede Katze</li><li>einfache Handhabung, einzelne Verpackungen erleichtert die Portionierung</li></ul>"
-}

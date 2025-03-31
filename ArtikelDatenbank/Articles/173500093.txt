@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>solarbetrieben - keine Stromkosten, umweltfreundlich</li><li>warmweißes, gemütliches Licht für Outdoor-Bereiche</li><li>lange Leuchtdauer bis zu 8 Stunden</li><li>vielseitige Einsatzmöglichkeiten</li><li>Industrial Style bietet modernen Chic</li></ul>"
-}

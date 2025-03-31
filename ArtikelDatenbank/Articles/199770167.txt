@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>lange Rückwandhalter für Möbel</li><li>aus stabilem Kunststoff gefertigt</li><li>sichert Möbelrückwände fest an ihrem Platz</li><li>einfache Anwendung, mühelose Befestigung</li><li>speziell für den Einsatz im Möbelbau<br/></li></ul>"
-}

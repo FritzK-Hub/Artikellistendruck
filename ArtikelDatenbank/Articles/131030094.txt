@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Handspülmittel-Konzentrat Classic 500 ml </li><li>fürs schnelle und gründliches aufspülen mit der Hand</li><li>besonders hautfreundlich bei höchster Fettlösekraft</li><li>lässt sich sofort anwenden</li><li>handlich und anwenderfreundlich<br/></li></ul>"
-}

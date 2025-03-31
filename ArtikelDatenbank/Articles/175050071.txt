@@ -1,4 +1,0 @@
-{
-    "uvp": 6.95,
-    "attributes": "<ul><li>hohe Beständigkeit gegen Korrosion und Verschleiß</li><li>Einfache und schnelle Verbindung von Druckluftwerkzeugen </li><li>zuverlässige Verbindung von Luftdruckgeräten durch den Stecknippel</li><li>passend für alle gängigen Druckluftsysteme</li><li>unverzichtbares Zubehör für regelmäßige Arbeiten mit Druckluft</li></ul>"
-}

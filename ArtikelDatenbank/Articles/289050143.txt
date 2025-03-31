@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>Vierkantrohr aus eloxiertem Aluminium</li><li>z. B. zum Bau von Rahmen oder Gestellen <br/></li><li>Länge: ca. 100 cm</li><li>Maße Profil (HxB): 10 x 10 mm</li><li>Materialstärke: 1 mm</li></ul>"
-}

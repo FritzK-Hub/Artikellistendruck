@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>F-Verbinder mit Anschluss F-Kupplung/F-Kupplung</li><li>passend für Koaxialkabel mit F-Stecker</li><li>aus Metall, mit Schraubgewinde</li><li>für die Verbindung / Verlängerung von SAT-Kabeln</li><li>SAT-Adapter mit leichter Handhabung</li></ul>"
-}

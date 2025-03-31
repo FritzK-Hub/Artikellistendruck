@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>4 Fliegenfänger zum Aufhängen</li><li>wirkstofffrei und geruchlos</li><li>für sensible Bereiche geeignet</li><li>wirkt narürlich und effektiv</li><li>Fliegen bleiben am Streifen kleben</li></ul>"
-}

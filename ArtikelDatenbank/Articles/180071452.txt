@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>hochwertiges Pflanzgefäß mit Ornamenten</li><li>zum direkten Bepflanzen geeignet</li><li>aus UV-beständigem Kunststoff</li><li>ideal zur Dekoration von größeren Flächen</li><li>Pflanzschale in matter Optik<br/></li></ul>"
-}

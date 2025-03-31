@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>ergonomisches Design bietet komfortable Nutzung</li><li>rutschfester Griff für sichere Anwendung</li><li>effektive Reinigung ohne Oberflächenschäden</li><li>platzsparend dank praktischer Aufhängeschlaufe</li><li>langlebig und robust für intensiven Einsatz</li></ul>"
-}

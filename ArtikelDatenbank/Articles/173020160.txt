@@ -1,4 +1,0 @@
-{
-    "uvp": 2.59,
-    "attributes": "<ul><li>BGS® IX 8mm Bit-Einsatz mit Rändelung</li><li>aus hochwertigem Chrom-Vanadium-Stahl</li><li>geeignet für alle gängigen 1/4\" Umschaltknarren</li><li>matt verchromte Oberfläche</li><li>zum Befestigen von Innensechskant-Schrauben</li></ul>"
-}

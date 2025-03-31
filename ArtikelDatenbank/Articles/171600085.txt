@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>    sofort absolut wasserdicht, auch bei Regen, Schnee und Frost bis –5°C</li><li>dauerelastisch und leicht zu verarbeiten</li><li>rissüberbrückend bis 10 mm</li><li>UV-beständig und wird nicht porös</li><li>haftet auf allen baulichen, auch feuchten oder nassen, Untergründen</li></ul>"
-}

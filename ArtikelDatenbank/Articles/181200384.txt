@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Buschbohnen Saxa</li><li>Hülsen sind zart und mittellang</li><li>robust gegen kühlere Witterung</li><li>Probefeldgetestete Qualität</li><li>für Früh- und Spätaussaaten bestens geeignet<br/></li></ul>"
-}

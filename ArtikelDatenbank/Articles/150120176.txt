@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Handfeger aus massivem, gewachstem Holz</li><li>mit robusten PET-Borsten versehen</li><li>universell einsetzbar im Haushalt oder Gewerbe</li><li>zum Entfernen von Schmutz auf glatten oder rauen Oberflächen</li><li>bei Nichtgebraucht platzsparend aufhängbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>    hohe Qualität und Langlebigkeit durch robustes Material    </li><li>unkomplizierte Handhabung durch einfache Verriegelung per Schlüssel    </li><li>effektiver Schutz vor Diebstahl und unbefugtem Zugriff    </li><li>universell einsetzbar für verschiedene Fahrzeuge mit Kupplungsklaue    </li><li>zuverlässige Sicherheit durch starke Abschreckungswirkung</li></ul>"
-}

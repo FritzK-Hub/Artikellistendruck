@@ -1,4 +1,0 @@
-{
-    "uvp": 14.29,
-    "attributes": "<ul><li>vielseitig einsetzbar</li><li>umfangreiche Auswahl</li><li>ergonomisches Design</li><li>für Präzisionsarbeiten</li><li>einfache Handhabung</li></ul>"
-}

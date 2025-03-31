@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>Vaterteil aus Messing</li><li>mit 3/4\" Tülle und 1\" Außengewinde</li><li>z. B. zur Verbindung mit einem Schnellverschluss mit Innengewinde</li><li>Montage des Schlauchs mittels Schlauchschellen</li></ul>"
-}

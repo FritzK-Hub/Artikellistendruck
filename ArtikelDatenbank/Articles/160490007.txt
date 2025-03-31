@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>3-teiliges Arbeitsschutz-Set</li><li>Schutzbrille mit mechanischer Festigkeit F</li><li>Kapselgehörschutz aus Spezial-Kunststoff</li><li>Montagehandschuhe mit Nitril-TPR-Beschichtung</li><li>mit Sicherheit geschützt</li></ul>"
-}

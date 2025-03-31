@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Einsteckschloss mit Einbausicherung</li><li><strong>nur für rechts-hängende Türen</strong></li><li>für höhere Innen-Türsicherheit</li><li>DIN 72 mm Zimmertür</li><li>Lieferung inklusive 3 x Sicherheits-Schlüssel</li></ul>"
-}

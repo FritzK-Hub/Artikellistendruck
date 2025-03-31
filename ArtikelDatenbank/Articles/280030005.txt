@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Eisendraht zur Montage und Sicherung von Zäunen</li><li>leicht zu verarbeiten und stabil</li><li>Kunststoff ummantelt</li></ul>"
-}

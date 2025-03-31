@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>einfache und schnelle Montage innerhalb weniger Minuten ohne zusätzliches Werkzeug</li><li>robustes Gestell aus Metall, wasserabweisende Bespannung aus Polyester</li><li>verschraubte, nicht genietete Streben</li><li>3x3m Platzangebot bietet ausreichend Schutz und Raum für verschiedene Anlässe</li><li>stilvolles Design in grau passt zu verschiedenen Einrichtungsstilen</li></ul>"
-}

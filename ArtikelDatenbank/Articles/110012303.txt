@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Bogen 90° mit 2 Muffen geeignet für Hart- und Weichlöten</li><li>korrosionssicher dank hochwertigem Kupfermaterial</li><li>Handwerkerqualität für zuverlässige Verbindungen</li><li>für Heizungs-, Gas- und Sanitärinstallationen geeignet</li><li>passend für Rohre mit einem Durchmesser von 18 mm</li></ul><p></p>"
-}

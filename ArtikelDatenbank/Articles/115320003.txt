@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>transparent</li><li>hohe Klebkraft</li><li>durch drehen rückstandslos zu entfernen</li><li>selbstklebend mit farblosen Kleber</li></ul>"
-}

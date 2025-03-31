@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>zwei Seiten zum vielseitigen Reinigungseinsatz</li><li>praktisches 10er Set, ideal im gesamten Haushalt</li><li>kompakte Größe, perfekt für präzise Arbeit</li><li>anglebig und formbeständig bei täglichem Einsatz</li><li>Farbenvielfalt zur einfachen Sortierung</li></ul>"
-}

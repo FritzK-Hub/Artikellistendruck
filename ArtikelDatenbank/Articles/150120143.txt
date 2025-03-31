@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Ganzgarage für Pkws in der Größe M</li><li>aus blau-grauem, UV-beständigem Vlies gefertigt</li><li>optimaler Schutz gegen Eis, Schnee, Schmutz oder Sonnenstrahlen</li><li>Kordelzug erleichtert die sichere Fixierung</li><li>schnelle Montage durch elastischen Saum</li></ul>"
-}

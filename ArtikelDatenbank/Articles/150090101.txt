@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Batterie-Clips 2 Stück im Se</li><li>max. 12V Betriebsspannung</li><li>blanke, unsolierte Ausführung</li><li>mit Schraubanschluss</li><li>Plus- und Minus-Kennzeichnung</li></ul>"
-}

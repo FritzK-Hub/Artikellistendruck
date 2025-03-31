@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Untersetzer Cilindro rund Ø 49 cm in Anthrazit</li><li>aus robustem Kunststoff gefertigt</li><li>passend für die Blumentopf-Serie Cilindro</li><li>verhindert das Auslaufen von Wasser</li><li>schützt Fensterbänke vor Beschädigungen</li></ul>"
-}

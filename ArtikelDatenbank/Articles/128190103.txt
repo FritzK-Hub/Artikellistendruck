@@ -1,4 +1,0 @@
-{
-    "uvp": 299.95,
-    "attributes": "<ul><li>Mulltonnenbox für zwei Mülltonnen (120 l oder 240 l)</li><li>praktische Möglichkeit die Mülltonnen zu verstecken</li><li>für eine ansprechende Optik </li><li>robust und langlebig</li><li>mit Metallboden und zwei Türen<br/></li></ul>"
-}

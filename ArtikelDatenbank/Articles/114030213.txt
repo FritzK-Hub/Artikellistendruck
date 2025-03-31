@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Holzspieße für Fingerfood</li><li>aus Bambus</li><li>einseitig angespitzt</li><li>mit breitem Griffstück in Golfform</li><li>ideal für Antipasti und Snacks</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Zylinderkopfschraube M6 x 80 mm</li><li>4 Schrauben im Set </li><li>mit flachem Kopf und Innensechskant Antrieb</li><li>aus verzinktem Stahl</li><li>für die flächenbündige Montage<br/></li></ul>"
-}

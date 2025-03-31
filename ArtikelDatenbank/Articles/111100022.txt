@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Spanplattenschrauben für sichere Holzverbindungen</li><li>Vorteilspackung als kleiner Vorrat</li><li>zur optimalen Kraftübertragung konzipiert</li><li>sicheres Eindrehen ohne Abrutschen</li><li>vielseitig für Trockenbau und Holzarbeiten</li></ul>"
-}

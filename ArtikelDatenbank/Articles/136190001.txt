@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>schnelles und präzises Abmanteln von Kabel</li><li>keine Einstellung der Schnitttiefe erforderlich</li><li>mit eingebauter Klinge</li><li>für Arbeiten in Abzweig- und Verteilerdosen</li><li>Abisolieren von 0,2 mm² - 4,0 mm²</li></ul>"
-}

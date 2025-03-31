@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>25 Servietten aus 100% Recycling-Tissue</li><li>umweltfreundlich und dekorativ</li><li>praktisch und universell einsetzbar</li><li>2-lagige, saugfähige und nachhaltige Qualität</li><li>Recycling-Servietten im natürlichen Look</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Mangold Lucullus für Frühjahrs- und Herbstaussaat</li><li>Blattgemüse für die Sommermonate</li><li>starke, raschwüchsige Sorte</li><li>Probefeldgetestete Qualität</li><li>gelbgrünes und stark gekraustes Blatt<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Radialsägeblatt goldfarbig 65 mm</li><li>ideal für Wand- und Bodenfliesen, Glas- und Fiberglas</li><li>schneidet saubere Furchen und Rillen</li><li>langlebiges Werkzeug dank Diamantbeschichtung</li><li>es ist ein vielfach einsetzbares Werkzeug<br/><br/></li></ul>"
-}

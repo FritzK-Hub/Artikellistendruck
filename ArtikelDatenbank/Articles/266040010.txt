@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Maße Rad: (ØxB) ca. 50 x 18 mm</li><li>Maße Platte: (LxB) ca. 50 x 50 mm</li><li>Maße Bohrung Platte: (BxL) ca. 6 x 11 mm</li><li>Gesamthöhe Transportrolle: (H) ca. 72 mm</li><li>Drehgelenk: 360° kugelgelagert</li><li>Tragkraft Transportrolle: max. 40 kg</li><li>Achse der Lenkrolle: geschraubt</li><li>Material: Stahlblech verzinkt</li><li>Material Rad: Vollgummi</li><li>Feststellbremse Trittfläche: Kunststoff schwarz</li><li>Maße Trittfläche: (BxT) ca. 2,6 x 3,8 cm</li><li>Material des Bremskörpers: Metall</li></ul>"
-}

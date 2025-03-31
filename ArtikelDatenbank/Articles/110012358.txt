@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>PVC-Heizungsrosette in strahlendem Weiß</li><li>vielseitig einsetzbar in privaten und gewerblichen Räumen</li><li>einfache Montage dank innenliegender Klemmlaschen</li><li>für Heizungsrohre mit 15 mm Durchmesser</li><li>robustes und langlebiges PVC-Material</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Wandfutter, Doppelwandfutter gerade</li><li>aus Stahlblech</li> <li>für den Innenbereich</li><li>kürzbar</li><li>für Rauchrohre mit 2mm Wandstärke</li></ul>"
-}

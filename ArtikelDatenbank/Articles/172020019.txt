@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>stabil gearbeiteter Schlosserhammer</li><li>Stiel aus stabilem Fiberglas gefertigt</li><li>mit 100 g Hammerkopf aus Stahl, schwarz lackiert</li><li>sicherer Griff dank thermoplastische Kautschuk-Ummantelung</li><li>passendes Werkzeug für jeden Handwerker<br/></li></ul>"
-}

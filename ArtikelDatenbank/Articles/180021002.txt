@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Winkel aus Messing</li><li>mit 2 Innengewinden 1\"</li><li>für effektive, sichere und stabile Rohrverbindungen</li></ul>"
-}

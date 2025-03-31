@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Ausblaspistole MIDI 12 bar von Güde</li><li>robustes Gehäuse aus Aluminium-Druckguss</li><li>zur Reinigung von Hohlräumen oder schwer zugänglichen Stellen</li><li>auch zum Abblasen von verschmutzten Gartengeräten geeignet</li><li>mit einem Anschlussnippel ausgestattet<br/></li></ul>"
-}

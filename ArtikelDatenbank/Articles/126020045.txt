@@ -1,4 +1,0 @@
-{
-    "uvp": 569.0,
-    "attributes": "<ul><li>perfekt für Rasenflächen von 50 bis 600 m²</li><li>schnell und einfach höhenverstellbar</li><li>längere Laufzeit dank Li-Ion Akku</li><li>intelligenter Regensensor für automatische Rückkehr</li><li>einfache Bedienung ohne komplizierte Installation</li></ul>"
-}

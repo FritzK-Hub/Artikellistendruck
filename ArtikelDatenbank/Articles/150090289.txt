@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>weiße Lichtscheibe mit Rückstrahler für maximale Sichtbarkeit</li><li>flexibel montierbar auf beiden Seiten des Fahrzeugs</li><li>ideal für die zusätzliche Beleuchtung von PKW-Anhänger</li><li>robuste und langlebige Konstruktion aus Kunststoff</li><li>erhöht die Sichtbarkeit und Sicherheit im Straßenverkehr<br/></li></ul>"
-}

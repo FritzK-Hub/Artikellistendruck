@@ -1,4 +1,0 @@
-{
-    "uvp": 99.9,
-    "attributes": "<ul><li>2 Bodenanker</li><li>sparen Zeit und Arbeit beim Gewächshausbau</li><li>sorgen langfristig für festen Stand des Gewächshauses</li><li>keine Betonarbeiten notwendig</li><li>auch auf unebenen Boden verwendbar<br/></li></ul>"
-}

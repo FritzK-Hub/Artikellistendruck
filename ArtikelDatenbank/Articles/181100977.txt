@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>winterfestes Heidekraut im robustem Topf Ø 13 cm</li><li>dekorative und pflegeleichte Knospenblüher</li><li>Nahrungsquellen für Bienen</li><li>in Kombination für ein farbenfrohes Spektakel</li><li>besonders farbenprächtige Blüten<br/><br/></li></ul>"
-}

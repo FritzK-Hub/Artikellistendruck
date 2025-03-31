@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>Streckmetall-Tafel</li><li>aus rohem Stahl unbehandelt</li></ul>"
-}

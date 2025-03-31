@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Parkscheibe mit Saugnapf</li><li>blau, neutral gehalten</li><li>ohne Werbung</li><li>nach Euro Norm</li><li>einfache Befestigung</li></ul>"
-}

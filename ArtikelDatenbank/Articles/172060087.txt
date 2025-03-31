@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Sichtkontrolle der korrekten Leiterposition</li><li>Wago Klemmen zur einfache Verwendung</li><li>zum schnellen und praktischen Verbinden</li><li>Steckklemmen für eindratige Leiter</li><li> Betätigungshebel einzeln lösbar</li></ul>"
-}

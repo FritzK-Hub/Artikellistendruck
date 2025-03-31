@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Kaminholz, abgepackt zu 5 dm³</li><li>verschiedene Holzarten</li><li>ofenfertige Scheite</li><li>einfache, platzsparende Lagerung</li><li>für alle mit Holz beheizbaren Öfen geeignet<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Mörtelkübel rund 90 Liter </li><li>aus schwarzem Kunststoff gefertigt</li><li>zum Mischen von Mörtel, Putz, etc.</li><li>ergonomisch geformte Griffmulden, spezielle Randverstärkung </li><li>auch als Blumentopf verwendbar</li></ul>"
-}

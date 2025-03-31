@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Seilwirbel 6 mm</li><li>aus hochwertigem V4A Edelstahl</li><li>rostfrei</li><li>bis max. 250 kg belastbar</li><li>Material-Durchmesser Ø ca. 6 mm</li></ul>"
-}

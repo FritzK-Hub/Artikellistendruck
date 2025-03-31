@@ -1,4 +1,0 @@
-{
-    "uvp": 17.5,
-    "attributes": "<ul><li>extra langer Winkelschrauber von Normex</li><li>für schwer zugängliche Stellen</li><li>zum leichten Lösen und Anziehen von Schrauben</li><li>erhöhte Zähigkeit bei feinerer Struktur</li><li>aus hochwertigem Chrom-Vanadium-Stahl<br/></li></ul>"
-}

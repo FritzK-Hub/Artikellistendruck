@@ -1,4 +1,0 @@
-{
-    "uvp": 229.95,
-    "attributes": "<ul><li>BBQ Gasgrill mit 3 großen Brennern</li><li>2 große Seitentische als Ablagemöglichkeit </li><li>eingebautes Thermometer im Deckel</li><li>ideal für Fisch, Gemüse oder Fleisch</li><li>zwei Grillroste aus Edelstahl mit ausreichend Platz<br/></li></ul>"
-}

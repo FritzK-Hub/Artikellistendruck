@@ -1,4 +1,0 @@
-{
-    "uvp": 21.99,
-    "attributes": "<ul><li>5 m langes, geschirmtes High Speed HDMI™-Kabel</li><li>unterstützt eine Vielzahl von Bild- und Tonstandards</li><li>erweiterte Bandbreite erleichtert die 3D-Übertragung</li><li>gestochen scharfe Bilder in Ultra-HD (4K)</li><li>mit integriertem Audiorückkanal (ARC)<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>einfache Smart-Home-Integration ohne zusätzlichen Hub</li><li>Steuerung über App oder Sprachbefehl</li><li>kompatibel mit allen Matter-fähigen Systemen</li><li>universell für Geräte bis 3680 Watt</li><li>programmierbare Zeitschaltuhr spart Energie und Kosten</li></ul>"
-}

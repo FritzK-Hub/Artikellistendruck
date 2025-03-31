@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Schlüsselanhänger Billardkugel</li><li>Schlüsselkette mit Metallring</li><li>Billardkugel aus Kunststoff</li><li>ausgefallen und dekorativ</li><li>verschiedene Zahlen auf weißem Grund</li></ul>"
-}

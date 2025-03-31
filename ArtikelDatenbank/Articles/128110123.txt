@@ -1,4 +1,0 @@
-{
-    "uvp": 429.95,
-    "attributes": "<ul><li>stabiles Gestell aus Stahlrohr</li><li>dicke, gemütliche Kissen im Sitz- und Rückenbereich</li><li>große Sitzfläche zum Relaxen Ø 95 cm<br/></li><li>absolut wetterfest dank Wicker-Material</li><li>maximal bis zu 120 kg belastbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Doppel Spitzer aus Kunststoff</li><li>für dicke und dünne Stifte</li><li>geeignet für Blei- und Farbstifte</li><li>in verschiedenen Farben</li><li>Spitzer mit austauschbaren Messern<br/></li></ul>"
-}

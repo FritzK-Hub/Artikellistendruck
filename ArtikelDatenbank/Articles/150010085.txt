@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Besenstiel 130 cm aus Metall mit Gewinde</li><li>einfaches Verschrauben mit konischem Stielende</li><li>für sämtliche Besenköpfe mit Innengewinde</li><li>auch für Haushaltgeräte mit Aufnahmedülle</li><li>bei Nichtgebrauch dank Öse aufhängbar<br/></li></ul>"
-}

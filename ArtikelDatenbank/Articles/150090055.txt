@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>KFZ Mini Flachsicherungen im Set</li><li>die gängigsten Fahrzeug-Sicherungen</li><li>sechs verschiedene Flach-Stecksicherungen</li><li>für 12 Volt Fahrzeuge geeignet</li><li>aus transparentem Kunststoff</li></ul>"
-}

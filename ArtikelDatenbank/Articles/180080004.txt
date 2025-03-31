@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Spielsand im 25 kg Sack</li><li>Korngröße bis 2 mm</li><li>gesiebt und gewaschen</li><li>frei von Schadstoffen</li><li>ideal für die Befüllung von Sandkästen<br/></li></ul>"
-}

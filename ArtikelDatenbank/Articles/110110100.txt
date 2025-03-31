@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>vielseitig einsetzbarer Schrubber</li><li>robuster Rücken aus Holz</li><li>Borsten aus Polypropylen</li><li>universelle Schraubaufnahme und Bohrung</li><li>für den Innen- und Außenbereich<br/><br/></li></ul>"
-}

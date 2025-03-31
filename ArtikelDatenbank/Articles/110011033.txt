@@ -1,4 +1,0 @@
-{
-    "uvp": 7.38,
-    "attributes": "<ul><li>Anschluss für Übergang von KG-Rohr auf Steinzeugrohr-Muffe</li><li>passgenaue und problemlose Anschlussmöglichkeiten</li><li>zum Verbinden von KG-Kanalrohren und HT-Rohren</li><li>Doppeldichtungs-Set für KGUG erforderlich</li><li>Sicherheit durch Rückstauverschlüsse</li></ul>"
-}

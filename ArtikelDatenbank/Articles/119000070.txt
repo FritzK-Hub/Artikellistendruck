@@ -1,4 +1,0 @@
-{
-    "uvp": 95.0,
-    "attributes": "<ul><li>beidseitig begehbare Mehrzweckleiter aus Aluminium mit 3x6 Sprossen</li><li>vielseitig als Anlege-, Traverse- und Treppenleiter einsetzbar</li><li>für den Einsatz im Haushalt, Garage oder Garten </li><li>mit automatischer Verriegelung und Haken ausgestattet</li><li>entspricht der Norm EN 131 mit 150 kg Belastbarkeit<br/></li></ul>"
-}

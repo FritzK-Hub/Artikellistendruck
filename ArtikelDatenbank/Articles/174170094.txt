@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>speziell für sicheren Gebrauch entwickelt</li><li>Metallführung garantiert sichere Klingenschärfe</li><li>guter Halt dank ergonomischem Kunststoffgriff</li><li>für vielfältige Anwendungen geeignet</li><li>leicht austauschbare Klinge für stets scharfe Schneideleistung<br/></li></ul>"
-}

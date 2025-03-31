@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Glitter-Set zum Basteln und Gestalten</li><li>Glitterpulver in verschiedenen Farben</li><li>Streudeko in verschiedenen Ausführungen</li><li>klebt auf verschiedenen Materialien</li><li>inkl. lösungsmittelfreien Bastelkleber<br/></li></ul>"
-}

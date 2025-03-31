@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Art: Schnellbauschraube mit Bohrspitze (auch Gipsplattenschraube genannt) </li><li>Gewinde: Feingewinde / Vollgewinde</li><li>Kopf: Trompetenkopf / Kreuzschlitz</li></ul>"
-}

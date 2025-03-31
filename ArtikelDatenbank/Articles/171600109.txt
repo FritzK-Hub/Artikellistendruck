@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>strapazierfähig und widerstandsfähig gegenüber Witterungsbedingungen</li><li>einfache Verarbeitung mit Pinsel, Rolle oder Sprühgerät</li><li>zuverlässige Abdichtung gegen Bodenfeuchtigkeit</li><li>hochwertiger Deckanstrich auf Bitumenbasis</li><li>bildet dauerhaft elastische Schutzschicht</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Bauplane gefaltet in Schwarz</li><li>reicht für 20 m² Fläche</li><li>ideal zum Abdecken und Schützen</li><li>Schutz vor Staub, Schmutz, Farbe</li><li>auch geeignet als Schutzhülle</li></ul>"
-}

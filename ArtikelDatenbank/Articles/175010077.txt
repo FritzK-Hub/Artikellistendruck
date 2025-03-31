@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>zum Durchleiten von Sauerstoff in industriellen Bereichen </li><li>besitzt einen Betriebstemperaturbereich zwischen −10 und +60°С</li><li>beständig gegen Beschädigungen im Fall eines Kontakts mit heißen Gegenständen</li><li>dank Kreuzgewebe bleibt es selbst unter Druck besonders robust und widerstandsfähig</li><li>lässt sich je nach Bedarf in die gewünschte Länge zuschneiden<br/></li></ul>"
-}

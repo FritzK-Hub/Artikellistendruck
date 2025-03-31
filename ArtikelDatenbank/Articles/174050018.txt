@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Spezialstahl</li><li>schwarz brüniert</li><li>polierte Backen</li><li>verstellbar</li></ul>"
-}

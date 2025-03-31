@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Ast-Kettensäge mit Markenschwert und Sägekette </li><li>ideal zum Schneiden von Ästen in Höhen von bis zu fünf Metern</li><li>der Teleskopstiel lässt sich bis auf max. 3 m ausziehen</li><li>automatische Kettenschmierung erleichtert das reibungslose Sägen</li><li>mitgelieferte Tragegurt lässt sich individuell an den Benutzer anpassen <br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Handbrause Rio mit türkisen Brausekopf</li><li>ist mit Antikalk-Noppen bestückt</li><li>aus verchromtem Kunststoff</li><li>Wasserspardichtungsricht für bis zu 50 % Wasserersparnisse</li><li>mit einem 1/2“ Brauseanschluss versehen<br/><br/></li></ul>"
-}

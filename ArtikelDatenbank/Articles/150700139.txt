@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Duschhocker höhenverstellbar mit 120 kg Belastbarkeit</li><li>passend für jedes Alter geeignet</li><li>ist 5-fach in der Höhe verstellbar</li><li>Gummikappen sorgen für sicheren Halt und Stabilität</li><li>mit integrierten Griffen für einen leichteren Transport<br/></li></ul>"
-}

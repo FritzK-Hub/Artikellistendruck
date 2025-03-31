@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Cuttermesser sehr stabile Ausführung aus Metall</li><li>liegt gut in der Hand</li><li>ergonomischer Griff mit Antirutschgummierung</li><li>inklusive 4 Klingen</li><li>das richtige Werkzeug für Renovierungsarbeiten</li></ul>"
-}

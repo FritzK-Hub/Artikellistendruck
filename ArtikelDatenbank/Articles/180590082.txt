@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>Benzinkanister 5 Liter aus Kunststoff in klassischer Form</li><li>für Kraft- und Schmierstoffe wie Öl, Benzin oder Diesel verwendbar</li><li>zur Reservehaltung und den Transport von Kraftstoffen</li><li>leichte Handhabung dank aufschraubbarem Auslaufrohr</li><li>Kindersicherheits-Verschluss verhindert ungewolltes Öffnen<br/></li></ul>"
-}

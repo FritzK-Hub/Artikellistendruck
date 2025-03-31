@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Material: Stahl</li><li>Länge: (L) ca. 270 mm</li><li>Spaltlänge: (L) ca. 220 mm</li><li>Hubhöhe: (H) max. 4 cm</li><li>Breite: (B) ca. 6 cm</li><li>Schlagfläche: (BxH) ca. 4,4 x 3 cm</li><li>Gewicht: ca. 3000 g</li><li>Farbe: rot</li><li>Schutzausrüstung verwenden!</li><li>Forstkeil mit angeschliffener Spitze</li><li>Spaltkeil mit beidseitiger Mittelrille</li></ul>"
-}

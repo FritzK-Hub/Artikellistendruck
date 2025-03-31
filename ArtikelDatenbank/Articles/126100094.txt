@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>kleine, präzise Akku-Gras- und Strauchschere GPS 3,6V</li><li>vielseitiger Helfer rund um deine Gartenpflege</li><li>für exakten Rasenkanten-Schnitt und Buchsbaum-Formschnitt</li><li>einfaches, werkzeugloses Umstecken dank Klick-in-Messerwechsel</li><li>inklusive benötigtes Ladekabel zum einfachen Aufladen</li></ul>"
-}

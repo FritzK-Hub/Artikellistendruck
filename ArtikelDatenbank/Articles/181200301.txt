@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Bunte Margarite Robinsons-Riesen-Mischung</li><li>traditionelle Gartenstaude mit vielfältigen Rottönen</li><li>großblumig, reichblühend und langlebig</li><li>Probefeldgetestete Qualität</li><li>wirkungsvoll als Schmuckstaude oder Schnittblume<br/></li></ul>"
-}

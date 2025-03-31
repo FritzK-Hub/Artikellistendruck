@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>ideal für Lacke und Auto</li><li>auch für Schleifklötze geeignet</li><li>praktische Abmessung</li><li>Nassschleifpapier</li></ul>"
-}

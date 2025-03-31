@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Sackkarrenrad mit Lufbereifung </li><li>auf stabiler Kunststofffelge</li><li>das Rad ist kugelgelagert<br/></li><li>inklusive Schlauch und Ventil</li><li>Profil für bessere Bodenhaftung</li></ul>"
-}

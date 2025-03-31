@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Rahmenloser Bilderhalter mit Normalglas</li><li>mit Cliphalterungen</li><li>mit Passepartout</li><li>kann horizontal und vertikal aufgehängt werden</li><li>inklusive Aufhängung</li></ul>"
-}

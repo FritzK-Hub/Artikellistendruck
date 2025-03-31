@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>solarbetriebene LED-Kugelleuchte aus Crushglas</li><li>schafft eine entspannte Atmosphäre</li><li>eine umweltfreundliche Innen- und Außenbeleuchtung<br/></li><li>dank Aufhängung ist die Beleuchtung überall aufhängbar</li><li>inklusive des benötigten 2 x AA-Batterien<br/></li></ul>"
-}

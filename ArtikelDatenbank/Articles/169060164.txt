@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Montageklebstoff für Boden-, Wand- und Deckenbeläge</li><li>lösemittelfrei</li><li>vielseitig einsetzbar</li><li>gebrauchsfertig, leicht zu verarbeiten</li><li>hohe Klebkraft</li></ul>"
-}

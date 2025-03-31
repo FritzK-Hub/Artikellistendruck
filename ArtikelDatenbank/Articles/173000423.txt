@@ -1,4 +1,0 @@
-{
-    "uvp": 24.79,
-    "attributes": "<ul><li>Dekolampe in Globus Optik</li><li>dekorativer Blickfang</li><li>individuell einsetzbar</li><li>Netzbetrieb</li><li>inklusive Farbwechsel Effekt</li></ul>"
-}

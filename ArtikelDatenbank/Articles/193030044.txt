@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Meisenknödelhalter säulenförmig Ø 7 x 22,5 cm</li><li>aus pulverbeschichtetem, schwarzem Metall gefertigt</li><li>ideal zum Füttern von freilebenden Vögeln</li><li>bietet Platz für bis zu 5 Meisenknödel</li><li>leichtes aufhängen an Bäumen, Dachbalken, Gartenhäuschen oder Holzpfählen<br/></li></ul>"
-}

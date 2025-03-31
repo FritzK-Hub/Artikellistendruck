@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Kamin- und Ofenglasreiniger 500 ml von Robbyrob</li><li>entfernt Rußablagerungen und Fett zuverlässig</li><li>für verschmutzte Oberflächen aus Glas</li><li>tropft nicht, haftet an der zu reinigenden Oberfläche</li><li>einfache Handhabung, schnelle Wirkung</li></ul>"
-}

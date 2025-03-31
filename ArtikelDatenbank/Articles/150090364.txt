@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>    Ersatzlampe für Brems- oder Blinklicht    </li><li>für Fahrzeuge mit BA15S Sockel    </li><li>als Ersatz für Fahrzeuge mit klarem / transparentem Blinkerglas    </li><li>preisgünstige Ersatzlampe</li></ul>"
-}

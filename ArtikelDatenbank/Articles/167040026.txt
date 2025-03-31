@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Abdeckfolie auf Rolle</li><li>aus widerstandsfähigem Polyethylen</li><li>zum Schutz vor Staub, Schmutz, Farbe</li><li>zum Abdecken von Möbeln beim Renovieren</li><li>beliebig zuschneidbar</li></ul>"
-}

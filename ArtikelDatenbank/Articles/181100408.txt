@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Gartennelke in verschiedenen Farben im Topf</li><li>aufrechtwachsender Wuchs mit großen Blüten</li><li>ein echter Blickfang im Garten, Balkon oder Terrasse</li><li>hat eine besonders starkleuchtende Blütenpracht</li><li>in Kombination für eine farbige Blütenpracht</li></ul>"
-}

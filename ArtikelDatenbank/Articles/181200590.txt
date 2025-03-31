@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Saatgut Freilandgurke Sindy für ca. 8 – 10 Pflanzen</li><li>mit walzenförmigen, dunkelgrünen und festfleischigen Früchten</li><li>ist eine ertragreiche, bitterstoffarme Gurkensorte</li><li>besonders Widerstandfähig gegenüber Mehltau</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

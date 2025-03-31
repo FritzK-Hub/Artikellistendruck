@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>universelle Kompatibilität</li><li>innovative Doppelfunktion</li><li>langlebige Materialqualität</li><li>einfache Montage</li><li>besonders strapazierfähig<br/></li></ul>"
-}

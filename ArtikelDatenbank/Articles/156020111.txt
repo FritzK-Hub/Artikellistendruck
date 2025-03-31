@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Lackierpinsel mit geradem Pinselkopf</li><li>bestens geeignet für ein feines Oberflächenfinish</li><li>gute Farbaufnahme und Abgabe<br/></li><li>langer und stabiler Holzstiel</li><li>bestens geeignet für alle Lacke</li></ul>"
-}

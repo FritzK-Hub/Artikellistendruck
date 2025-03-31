@@ -1,4 +1,0 @@
-{
-    "uvp": 349.95,
-    "attributes": "<ul><li>    man kann den Tisch bis ca. 200 cm ausziehen    </li><li>bietet viel Platz für deine Gäste    </li><li>aus robusten Aluminiumgestell    </li><li>Glasplatte aus Sicherheitsglas    </li><li>schlichtes Design</li></ul>"
-}

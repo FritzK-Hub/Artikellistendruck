@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>für Beton (alt, armiert), Betondachstein, Ziegelstein, Ziegel, Kalkstein, Sandstein, Waschbetonstein</li><li>Diamantscheibe hergestellt aus 2 Teilen (Körper+Schneidefläche)</li><li>ungewöhnlich harte und schnittfreudige Diamantscheibe 230</li><li>segmentierte Trennscheibe mit Industriediamanten versetzt</li></ul>"
-}

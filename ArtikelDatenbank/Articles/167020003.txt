@@ -1,4 +1,0 @@
-{
-    "uvp": 43.45,
-    "attributes": "<ul><li>Handseilwinde zum Ziehen von Lasten</li><li>ideal zum Bergen von Fahrzeugen geeignet</li><li>gummierter Griff für guten Halt</li><li>stabile vezinkte Konstruktion</li><li>mit Ratschenfunktion<br/></li></ul>"
-}

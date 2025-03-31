@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Kettenschnellverschluß 72 mm</li><li>aus verzinktem Stahl gefertigt</li><li>Schraubenverschluss schützt vor ungewollten Öffnem</li><li>zum einfachen Verbinden oder Verlängern von Ketten</li><li>vielseitig einsetzbar<br/></li></ul>"
-}

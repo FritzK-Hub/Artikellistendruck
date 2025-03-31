@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>50 m² Abdeckfolie gefaltet</li><li>Schutz vor Staub, Schmutz, Farbe</li></ul>"
-}

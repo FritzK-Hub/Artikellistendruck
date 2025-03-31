@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>Sisalseil universell einsetzbar</li><li>für Innen- und Außenbereiche</li><li>natürliches und umweltfreundliches Material</li><li>geruchsneutrales Seil</li><li>formstabil für jeden Gebrauch</li></ul>"
-}

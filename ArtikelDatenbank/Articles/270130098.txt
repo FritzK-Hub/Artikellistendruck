@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>HSS Kreissägeblatt, Minisägeblatt</li><li>ideal für Handkreissägen mit 10mm Aufnahme</li><li>geeignet für Kunststoffe, Laminat und Holz</li><li>universell einsetzbares Kreissägeblatt</li><li>Minisägeblatt in Profiqualität</li></ul>"
-}

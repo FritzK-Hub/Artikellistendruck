@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>vielseitig einsetzbare Solarlampe 2in1aus Edelstahl</li><li>für entspannte Atmosphäre im Garten oder Balkon </li><li>auch als dekoratives Orientierungslicht einsetzbar</li><li>einfache Installation mit integriertem Erdspieß</li><li>nachhaltige Beleuchtung ohne Stromanschluss<br/></li></ul>"
-}

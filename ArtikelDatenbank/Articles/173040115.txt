@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Steckschlüssel-Einsatz 3/8\"</li><li>mit Super-Lock Aufnahme</li><li>mit Rändelung</li><li>für Handbetätigung geeignet</li><li>kurze Bauweise</li></ul>"
-}

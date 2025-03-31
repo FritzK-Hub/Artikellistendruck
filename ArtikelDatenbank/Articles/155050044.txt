@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Pinselbecher mit Deckel</li><li>mit Auslaufschutz und Pinselablage</li><li>Deckel in 3 verschiedenen Farben</li><li>Wasserbecher aus Kunststoff</li><li>ideales Zubehör für den Malkasten<br/></li></ul>"
-}

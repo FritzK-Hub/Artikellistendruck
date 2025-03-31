@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>zum Verbinden von M14-Gewindestangen, auch mit Stockschrauben oder Bolzen kompatibel</li><li>besonders langlebig und robust, aus galvanisch verzinktem Stahl</li><li>Außensechskant erleichtert die Handhabung und verhindert ein Abrutschen des Werkzeugs</li><li>durchgehendes, metrisches Gewinde für einfache und schnelle Montage</li><li>bietet vielseitige Einsatzmöglichkeiten im Innen- und Außenbereich<br/></li></ul>"
-}

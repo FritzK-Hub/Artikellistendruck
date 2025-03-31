@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>20 Liter Graberde, torfreduziert</li><li>für eine geschmackvolle Graboberfläche</li><li>zur Bodenverbesserung</li><li>mit nachwachsenden Rohstoffen</li><li>zum Wachsen, Blühen, Ernten und Schützen</li></ul>"
-}

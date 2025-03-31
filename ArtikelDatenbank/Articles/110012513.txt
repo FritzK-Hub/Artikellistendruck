@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>effiziente Lösung für das Spülbecken</li><li>zur optimalen Wasserablaufregelung</li><li>einfache Installation</li><li>vielseitige Passform</li><li>hochwertige Materialien<br/></li></ul>"
-}

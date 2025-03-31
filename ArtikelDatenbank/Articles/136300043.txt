@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>extra langer Doppelringschlüssel-Satz</li><li>besonders schlank gehalten, für schwer zugängliche Stellen</li><li>ideal für den Einsatz in der KFZ-Reparatur-Branche</li><li>12-Kant-Profil für ein kraftvolles Arbeiten</li><li>aus hochwertigem Chrom-Vanadium-Stahl<br/></li></ul>"
-}

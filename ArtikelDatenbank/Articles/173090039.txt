@@ -1,4 +1,0 @@
-{
-    "uvp": 4.89,
-    "attributes": "<ul><li>3/8\"</li><li>matt verchromt</li><li>Länge: 63mm</li><li>Tiefe vom Sechskant: 28mm</li></ul>"
-}

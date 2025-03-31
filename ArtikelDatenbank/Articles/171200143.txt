@@ -1,4 +1,0 @@
-{
-    "uvp": 54.99,
-    "attributes": "<ul><li>verhindert Durchschlagen verfärbender Holzinhaltsstoffe</li><li>vielseitig einsetzbar für Innen- und Außenanwendungen</li><li>tiefes Eindringen und Versiegelung der Holzporen</li><li>verbessert die Haftung nachfolgender Anstriche</li><li>Atmungsaktiv und leicht zu verarbeiten</li></ul><p></p>"
-}

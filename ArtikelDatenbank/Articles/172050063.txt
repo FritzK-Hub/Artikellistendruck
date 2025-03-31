@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Verlängerungskabel mit Schutzkontakt Stecker</li><li>zur Verwendung im Innenbereich, nicht wassergeschützt</li><li>5 m Verlängerungskabel</li><li>mit abgewinkeltem Schutzkontaktstecker</li><li>ideal als Verlängerung für Haushaltsgeräte</li></ul>"
-}

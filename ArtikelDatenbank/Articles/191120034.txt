@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Starterset von Medipool 4-teilig für die Poolpflege</li><li>langsam lösliche Langzeit-Minichlortabs mit je 20 g für Dauerdesinfektion</li><li>1 Chlor Plus ist eine schnell wirkende Aktivsauerstoff-Chlorkombination</li><li>Teststreifen für Algen-, Chlor- und p-H-Werte</li><li>Algenbekämpfungsmittel zum Schutz vor Algenbildung<br/></li></ul>"
-}

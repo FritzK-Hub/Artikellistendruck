@@ -1,4 +1,0 @@
-{
-    "uvp": 84.0,
-    "attributes": "<ul><li>Zaun-Eckpfosten aus massivem Quadratrohr</li><li>mit vormontierten Halterungen und Schrauben</li><li>Kunststoff-Distanzhalter zur optimalen Geräuschdämmung</li><li>leichter Aufbau und wetterfeste Lackierung</li><li>mit Kunststoffkappe ohne Überstand<br/></li></ul>"
-}

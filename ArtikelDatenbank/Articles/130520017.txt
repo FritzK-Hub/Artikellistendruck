@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>Akku Handstaubsauger mit starker Leistung</li><li>hohe Saugkraft, mit rotierender Bodenbürste</li><li>für groben Schmutz, feine Staubpartikel und Tierhaare<br/></li><li>bis zu 45 Minuten Akku-Laufzeit mit einer Ladung</li><li>für Bodenreinigung und Autoreinigung geeignet<br/></li></ul>"
-}

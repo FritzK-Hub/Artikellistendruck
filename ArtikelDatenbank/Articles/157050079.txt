@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>schnelltrocknender Lackspray</li><li>RAL Farbcode RAL 5017</li><li>in verschiedenen Farben erhältlich</li><li>ideal für Neulackierungen und Reparaturen</li><li>einfache und praktische Anwendung<br/></li></ul>"
-}

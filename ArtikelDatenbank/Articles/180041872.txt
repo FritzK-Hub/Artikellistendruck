@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Ersatzteil für verschiedene Gartenscheren</li><li>leicht einbaubar</li><li>Rollfeder vom gleichen Hersteller</li><li>robustes Material</li><li>Zubehör für Artikel: 180041408, 180041407</li></ul><p><br/></p>"
-}

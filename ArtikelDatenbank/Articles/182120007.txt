@@ -1,4 +1,0 @@
-{
-    "uvp": 3.69,
-    "attributes": "<ul><li>Reflektor für die Front</li><li>werkzeuglose Schnellbefestigung mittels Gummibandes</li><li>für Vorbau und Streben</li><li>StVZO zugelassen</li><li>universell anpassbarer Frontstrahler</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>hochwertiges Befestigungselement aus A2-Edelstahl</li><li>erhöht die Zuverlässigkeit durch sichere Befestigung von Komponenten und Baugruppen</li><li>ideal für den Einsatz in verschiedenen Branchen wie Automobilindustrie, Maschinenbau</li><li>6-Kant-Kopf für einfache Anwendung mit Stecknüssen und Schraubenschlüssel</li><li>korrosionsbeständig und langlebig</li></ul><p></p>"
-}

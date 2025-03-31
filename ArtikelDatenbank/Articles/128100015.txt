@@ -1,4 +1,0 @@
-{
-    "uvp": 411.95,
-    "attributes": "<ul><li>robuster Gartentisch</li><li>stabile Ausführung</li><li>mit Schirmloch</li><li>aus Metall/Streckmetall</li><li>wetterfest und rostfrei</li></ul>"
-}

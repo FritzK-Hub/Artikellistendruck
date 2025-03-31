@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Bodenschutzplane in Blau</li><li>bietet einen extra Schutz des Poolbodens</li><li>aus Polyethylen gefertigt</li><li>besonders stabil und langlebig</li><li>für Fast-Set und Steel Frame Pools<br/></li></ul>"
-}

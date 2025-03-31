@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Stichsägeblätter 75 mm mit U-Schaft</li><li>ideal für Kurvenschnitte und Feinschnitte</li><li>leise, vibrationsarm und langlebiggeeignet</li><li>für Weichholz, Sperrholz, beschichtete Platten</li><li>ideal für Black&amp;Decker, Einhell, Ryobi oder Skil<br/></li></ul>"
-}

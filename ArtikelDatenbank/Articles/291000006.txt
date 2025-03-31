@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Schusspflaster Set in schwarz mit Ø 19 mm</li><li>Set besteht aus 2000 Pflastern auf einer Rolle</li><li>passend zum Abkleben von Zielscheiben </li><li>für jede Kalibergröße geeignet</li><li>haften auch bei stärkerer Nässe an den Zielscheiben<br/></li></ul>"
-}

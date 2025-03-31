@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Reservekanister 5+2,5 Liter in klassischer Form</li><li>für Kraft- und Schmierstoffe wie Öl, Benzin oder Diesel verwendbar</li><li>besitzt ein großzügiges Fassungsvermögen von 5+2,5 Litern </li><li>zur Reservehaltung und den Transport von Kraftstoffen</li><li>leichte Handhabung dank aufschraubbarem Auslaufrohr<br/></li></ul>"
-}

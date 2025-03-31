@@ -1,4 +1,0 @@
-{
-    "uvp": 5.82,
-    "attributes": "<ul><li>Rahmeneinfass-Profil </li><li>aus eloxiertem Aluminium</li><li>zur Anfertigung von Rahmen für z. B. Abdeckungen, Schilder, Tafeln, etc.</li><li>als Abschlusleiste und Kantenschutz</li><li>Farbe: silber</li></ul>"
-}

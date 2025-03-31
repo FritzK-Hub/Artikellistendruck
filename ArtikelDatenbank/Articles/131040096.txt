@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>reinigt und pflegt Edelstahl und Chrom</li><li>entfernt mühelos Fettflecken, Schmutz und Kalkablagerungen </li><li>auch auf Kupfer, Messing, Chrom und Eisen verwendbar</li><li>ideal für Edelstahl-Becken, Töpfe, Bügeleisen und anderen Gegenständen</li><li>verleiht einen strahlenden, neuen Glanz ohne polieren<br/></li></ul>"
-}

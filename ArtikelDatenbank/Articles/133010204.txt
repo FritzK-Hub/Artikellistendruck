@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Ergänzungsfuttermittel für freilebende Vögel</li><li>aus Öle, Fette, Saaten, Getreide, Erdnüsse und Mineralstoffe </li><li>sorgt vor allem zur kalten Jahreszeit für eine wichtige Energieversorgung</li><li>schmackhaftes Ergänzungsfuttermittel für Wildvögel mit hohem Nährwertgehalt</li><li>lässt sich leicht an Balkon, Terrasse oder direkt an Baum anbringen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Sitzauflage Prato mit zeitlosen Designs</li><li>passend für die meisten handelsüblichen Gartenstühle</li><li>in verschiedenen, attraktiven Motiven erhältlich</li><li>seitlichen Kordeln sorgen für optimaler Halt</li><li>8 cm dicke Füllung für bequemen Sitzkomfort<br/></li></ul>"
-}

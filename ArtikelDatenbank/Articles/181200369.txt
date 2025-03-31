@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Packung Saatgut für ca. 200 Pflanzen inklusive Stecketikett</li><li>für den Sommeranbau geeignet</li><li>liefern eine reiche Ernte, bis zum Blühbeginn</li><li>dekorativ, zart und lecker</li><li>mehrmaliger Schnitt ist möglich<br/></li></ul>"
-}

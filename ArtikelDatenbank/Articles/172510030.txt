@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Daten-/Ladekabel für Geräte mit Micro-USB Anschluss</li><li>mit 180cm Länge besonders praktisch für den Anschluss deiner Geräte an den PC<br/></li><li>klassischer USB-A Stecker für die Nutzung an Netzteilen und Powerbanks</li><li>mit Knickschutz an den Steckern für sichere Anwendung</li><li>besonders schlankes flexibles Kabel</li></ul><p></p>"
-}

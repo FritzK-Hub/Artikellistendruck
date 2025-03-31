@@ -1,4 +1,0 @@
-{
-    "uvp": 28.95,
-    "attributes": "<ul><li>2-tlg.</li><li>12-16mm und</li><li>16-22mm</li><li>besteht aus Art. 1810+1811</li></ul>"
-}

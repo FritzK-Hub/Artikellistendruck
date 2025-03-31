@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Steckdosenleiste 3-fach mit Schalter</li><li>aus robustem, schwarzem Kunststoff gefertigt</li><li>Stecker im 45° Winkel angeordnet</li><li>für den Innenbereich geeignet</li><li>inklusive 1,4 m langes Netzkabel<br/></li></ul>"
-}

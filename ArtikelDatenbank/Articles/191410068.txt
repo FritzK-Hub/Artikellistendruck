@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Bestway Schlauchboot Kondor 2000</li><li>aus stabilem Vinyl gefertigt</li><li>für einen Erwachsenen und ein Kind bis zu einem Gesamtgewicht von 120 kg</li><li>mit einem umlaufenden Halteseil und einer Seildurchführung versehen</li><li>inklusive Reparaturflicken<br/></li></ul>"
-}

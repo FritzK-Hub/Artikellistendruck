@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Cuttermesser mit scharfer Klinge 19 x 58 mm</li><li>eignet sich für das Öffnen von Karton oder Folie</li><li>nützliches Einwegmesser für einen sicheren Gebrauch</li><li>Klinge wird automatisch zurückgezogen, sobald der Klingenhalter losgelassen wird</li><li>schwerere Verletzungen werden somit vermieden</li></ul>"
-}

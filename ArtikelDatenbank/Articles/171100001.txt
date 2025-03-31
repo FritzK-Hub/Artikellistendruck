@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li>unerlässliches Tool bei der Vorbereitung von Bohrungen</li></ul><ul><li>komfortable Länge für sicheren Gebrauch</li><li>umfassendes Set mit allen gängigen Größen</li><li>praktische Aufstellbox für einfache Entnahme<br/></li><li>langlebiges, robustes Material</li></ul>"
-}

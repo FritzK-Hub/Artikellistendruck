@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>passend für Sackkarrenräder</li><li>ideal als Ersatzschlauch<br/></li><li>Material des Schlauches: Gummi</li><li>Ventil des Schlauches: abgewinkelt</li><li>Inhalt: 1 Stück Ersatzschlauch</li></ul>"
-}

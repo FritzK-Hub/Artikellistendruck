@@ -1,4 +1,0 @@
-{
-    "uvp": 6.95,
-    "attributes": "<ul><li>DecoPro Tiefgrund farblos</li><li>dringt tief in den Untergrund ein</li><li>Saugfähigkeit regulierend, verfestigend</li><li>schnell und farblos trocknend, geruchsarm</li><li>leicht zu verarbeiten und sehr ergiebig</li></ul>"
-}

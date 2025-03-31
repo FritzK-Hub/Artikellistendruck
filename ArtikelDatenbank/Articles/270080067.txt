@@ -1,4 +1,0 @@
-{
-    "uvp": 0.3,
-    "attributes": "<ul><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>ideal für Holz und Lacke</li><li>auch für Schleifklötze geeignet</li><li>praktische Abmessung</li><li>Schleifpapier 1 Blatt</li></ul>"
-}

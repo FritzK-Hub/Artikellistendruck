@@ -1,4 +1,0 @@
-{
-    "uvp": 6.33,
-    "attributes": "<ul><li>hochwertige Federwaage von Normex</li><li>für bis zu 12,5 kg Gewicht</li><li>mit messingbeschichtetem Blatt</li><li>sehr praktisch, einfach und schnell</li><li>mit Haken und Ring<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>Hauswasserwerk WT-HW 600 K zur Wasserversorgung oder Bewässerung</li><li>Pumpengehäuse aus schlagfestem Kunststoff gefertigt<br/></li><li>ideal auch zum Fördern von Wasser aus Brunnen und Zisternen</li><li>selbstansaugend nach Befüllen des Pumpenkörpers</li><li>mobile Wasserpumpe, Laufrad aus Noryl<br/></li></ul>"
-}

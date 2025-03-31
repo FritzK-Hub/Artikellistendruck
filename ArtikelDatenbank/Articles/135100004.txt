@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Elektrodenschweißgerät GIS 121 mit Thermoüberlastungsschutz von Güde</li><li>kompaktes Gehäuse mit Trageriemen für mehr Flexibilität und Mobilität</li><li>für gelegentliche, kurze und einfache Schweißarbeiten bei Materialstärken bis ca. 3,25 mm</li><li>auch für leichte Schweißarbeiten auf Montage und stationären Einsatz geeignet</li><li>inklusive Schlackenhammer, Schweißkabel und Massekabel<br/></li></ul>"
-}

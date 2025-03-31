@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Handschleifer aus Kunststoff </li><li>Schraubklemmung mit Flügelmutter</li><li>geeignet für Trockenbau</li><li>mit 6 mm starkem Moosgummibelag</li><li>Bügelgriff aus Kunststoff</li></ul>"
-}

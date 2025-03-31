@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>hochwertiges Material</li><li>langlebig und zuverlässig</li><li>einfache Montage</li><li>vielseitig einsetzbar</li><li>flexibel einstellbar</li></ul>"
-}

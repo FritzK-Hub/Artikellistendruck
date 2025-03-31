@@ -1,4 +1,0 @@
-{
-    "uvp": 15.79,
-    "attributes": "<ul><li>SAT7-Antennensteckdose Maranello</li><li>aus robustem, kaltweißem Kunststoff</li><li>mit Rundfunk-, TV- und einen SAT-Anschluss</li><li>Frequenzbereich 5 – 2.400 MHz</li><li>auch als Enddose mit Abschlußwiederstand 75</li></ul>"
-}

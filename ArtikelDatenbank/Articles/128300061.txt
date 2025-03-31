@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>Ampelschirm in anthrazit</li><li>sehr hohe Farbechtheit und Langlebigkeit</li><li>sturmsicher</li><li>16 hochwertige Fiberglas-Verstrebungen</li><li>inkl. Fußkreuz<br/></li></ul>"
-}

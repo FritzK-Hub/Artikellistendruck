@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Acryl Klarlack für Deko- und Bastelarbeiten</li><li>nach EN 71.3 für Kinderspielzeug geeignet</li><li>für innen und außen</li><li>schnelle Oberflächen-Trocknung</li><li>Schutzüberzug für Super Nova Acryl-Lacke</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>    leichtes Abreißen dank der gezackten Metallklinge    </li><li>hochwertiges, transparentes Klebeband mit matter Oberfläche</li><li>    gute Klebekraft, einfach abrollbar</li><li>    hohe Alterungsbeständigkeit    </li><li>ideal für Haushalt, Schule und Büro</li></ul>"
-}

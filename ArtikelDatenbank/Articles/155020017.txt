@@ -1,4 +1,0 @@
-{
-    "uvp": 6.1,
-    "attributes": "<ul><li>schnelle und sichere Verbindung</li><li>große Auswahl an Klemmen</li><li>vielseitige Anwendungsmöglichkeiten</li><li>optisch unauffällige Montage</li><li>zum Verschrauben für eine sichere Befestigung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>hochwertiges WUNDmed Latschenkiefer-Massagefluid mit Arnika</li><li>für Arme, Beine und Rücken geeignet</li><li>unterstützt die Regeneration</li><li>erfrischende und belebende Pflege durch Duft und Massage</li><li>beugt Muskelermüdung bei körperlicher Anstrengung vor<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Drahtbürste mit Edelstahldrahtborsten</li><li>5-reihig</li><li>Hartholzgriff mit Aufhängebohrung</li><li>zum Entfernen von Roststellen, Gipsresten oder Putz</li><li>für Entrostungsarbeiten/Reinigungsarbeiten z.B. der PKW-Bremssättel</li></ul>"
-}

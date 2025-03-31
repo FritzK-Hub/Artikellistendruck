@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li><em>Bolzenschneider</em> von Kraftmann</li><li>robustes Gelenkpaar</li><li>lange Lebensdauer durch hochwertige Materialen</li><li>schneidet Eisenmetalle bis zu 10 mm Durchmesser</li><li>gummierte Handgriffe</li></ul>"
-}

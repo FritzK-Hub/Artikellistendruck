@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>für Orchideen</li><li>kräftiges Wachstum und reichhaltige Blütenwirkung</li><li>mit einer 3-monatigen Langzeitwirkung</li><li>keine Überdüngungsgefahr</li><li>bequem im Einsatz<br/><br/></li></ul>"
-}

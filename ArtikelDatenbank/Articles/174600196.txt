@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>großzügigen Platz</li><li>mit schwerer Bodenplatte</li><li>hochglanzverchromtem Design</li><li>mit kompakten Maßen</li><li>hochwertige Verarbeitung<br/></li></ul>"
-}

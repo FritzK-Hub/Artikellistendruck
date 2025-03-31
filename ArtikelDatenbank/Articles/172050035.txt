@@ -1,4 +1,0 @@
-{
-    "uvp": 5.19,
-    "attributes": "<ul><li>3-fach Steckdosenleiste, 45° Anordnung</li><li>mit Ein-/Ausschalter und Kindersicherung</li><li>3 Steckplätze für Schutzkontaktstecker oder Eurostecker</li><li>Schalter mit optischer Kontrollanzeige</li><li>Kabel-Länge ca. 1,4 m, Leitungsdurchmesser ca. Ø 1,5 mm²</li></ul>"
-}

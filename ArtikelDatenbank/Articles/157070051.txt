@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Glasfaser-Vlies für feinstrukturierte Oberfläche</li><li>verfügt über optimale Hafteigenschaften</li><li>für großflächige Beschichtungen ebenso wie für kleinere Reparaturarbeiten geeignet</li><li>zum Reparieren und Überbrücken von kleinen Rostschäden, Rissen und Löchern</li><li>für Fahrzeug-Karosserien, Motorrad-Verkleidungen, Wohnwagen, Booten, Modellbau</li></ul>"
-}

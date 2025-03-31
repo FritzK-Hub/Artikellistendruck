@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>leuchtende Farben für herbstliche Dekoration</li><li>perfekt als Halloween- und Winterpflanzung</li><li>einfache Pflege mit geringem Aufwand</li><li>vielseitig einsetzbar in vielen Bereichen</li><li>lange Blütezeit für anhaltende Freude</li></ul>"
-}

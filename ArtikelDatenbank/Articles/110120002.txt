@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>konstante und stabile Flamme im Feuerzeug</li><li>stabiler Metallbehälter mit sicherem Verschluss</li><li>praktischer Befüller für einfaches Nachfüllen</li><li>geeignet für alle Benzinfeuerzeuge und Sturmfeuerzeuge</li><li>universelles Reinigungsmittel für Haushalt und Fahrzeuge<br/></li></ul>"
-}

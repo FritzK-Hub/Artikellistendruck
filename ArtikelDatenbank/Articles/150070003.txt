@@ -1,4 +1,0 @@
-{
-    "uvp": 155.57,
-    "attributes": "<ul><li>enorme Tragkraft </li><li>stabile Konstruktion</li><li>flexibel anpassbar</li><li>inklusive Sicherungsstiften</li><li>vielseitige Anwendung</li></ul>"
-}

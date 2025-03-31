@@ -1,4 +1,0 @@
-{
-    "uvp": 55.0,
-    "attributes": "<ul><li>hochwertiger 6-teiliger Bit-Satz von Normex</li><li>für die Drehmomentübertragung</li><li>mit 12-seitigen Schlagschrauberbits</li><li>mit Innensechskant-Einsätzen</li><li>aus robustem Chrom-Molybdän-Stahl<br/></li></ul>"
-}

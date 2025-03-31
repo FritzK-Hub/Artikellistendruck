@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Ersatzmesser passend für GRIZZLY Rasenmäher ERM 1231 G</li><li>inklusive Schraube</li><li>Arbeitsbreite 31 cm</li><li>Einsatzbereich: draußen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>zuverlässige und langlebige Abdichtung</li><li>geschmeidig, einfach in der Anwendung</li><li>vielseitig einsetzbar im Sanitärbereich</li><li>aus feinstem Dichthanf / Werg gefertigt</li><li>für die Abdichtung von Gewindeverbindungen<br/></li></ul>"
-}

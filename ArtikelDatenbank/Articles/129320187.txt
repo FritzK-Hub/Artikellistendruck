@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>hoher Nährstoffgehalt</li><li>vielseitige Verwendung</li><li>robuste Anbaueigenschaften</li><li>gute Ernteflexibilität</li><li>gesunde Alternative<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>zum Binden von Gestecken oder Kränzen</li><li>aus geglühtem Draht mit 30 m Länge</li><li>besonders biegsam und leicht zuschneidbar</li><li>ist auch als Steckdraht vielseitig einsetzbar</li><li>auf ein Holzstäbchen gewickelt, erleichtert das Abwickeln</li></ul>"
-}

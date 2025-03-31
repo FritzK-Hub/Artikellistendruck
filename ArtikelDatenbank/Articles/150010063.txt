@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>super saugstarke Tücher</li><li>nehmen das Mehrfache des Eigengewichts auf</li><li>saugen sich voll ohne zu tropfen</li><li>spezielle Langflorfasern polieren hervorragend</li><li>nass und trocken verwendbar<br/></li></ul>"
-}

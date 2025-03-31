@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>großzügige Breite für maximale Entspannung</li><li>Zusatzkomfort mit Seitentisch und vielseitigen Staufächern</li><li>Belastbarkeit bis 150 kg bietet Stabilität</li><li>leicht faltbar und einfach transportierbar</li><li>modernes Design in Schwarz-Rot</li></ul>"
-}

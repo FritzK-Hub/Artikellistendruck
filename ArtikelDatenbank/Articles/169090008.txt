@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Montagehaken aus legiertem Stahl</li><li>zur Montage von Bremsfedern und Scheinwerferfedern</li><li>Werkzeug in hochwertiger Qualität</li><li>für eine lange Lebensdauer im Werkstatteinsatz</li><li>schwarz oberflächenveredelt</li></ul>"
-}

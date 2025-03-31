@@ -1,4 +1,0 @@
-{
-    "uvp": 199.0,
-    "attributes": "<ul><li>leicht und handlich für präzise Arbeit</li><li>hohe Flexibilität bei kleineren Flächen</li><li>Sicherheitsfeatures unterstützen gefahrlose Nutzung</li><li>wartungsarm und robust</li><li>umweltfreundlich ohne Abgase</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 119.99,
-    "attributes": "<ul><li>platzsparend zusammenklappbar - erleichtert Transport und Lagerung</li><li>mit abnehmbarer Rückenlehne</li><li>ideal für Familienausflüge im Winter</li><li>robust und langlebig für jahrelangen Einsatz</li><li>sicherer Fahrspaß für kleine Abenteurer</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Toilettendeckel aus Duroplast in weiß</li><li>lange Lebensdauer</li><li>pflegeleicht durch porenglatte Oberfläche</li><li>inklusive Montagematerial</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
-}

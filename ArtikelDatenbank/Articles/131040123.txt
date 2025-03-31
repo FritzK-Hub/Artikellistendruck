@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>für die Textilreinigung, auch für Kaltwasser geeignet</li><li>zur intensiven und schonenden Fleckenbehandlung</li><li>Kunststoffflasche mit praktischer Softbürste zum Auftragen</li><li>geeignet für alle waschbaren und farbechten Textilien außer Seide</li><li>entfernt u. a. Flecken von Fett, Öl, Ketchup, Obst, Blut, Milch bereits vor der Wäsche<br/></li></ul><p></p>"
-}

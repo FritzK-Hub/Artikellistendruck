@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>robuste Spülbürste mit Nylonborsten für leichteres abwaschen</li><li>ideal zum Abspülen und Ausbürsten von Töpfen</li><li>kommt auch an schwer zugängliche Stellen mühelos ran</li><li>Schaberkante für hartnäckigen Schmutz</li><li>bei Nichtgebrauch dank Öse platzsparend aufhängbar<br/></li></ul>"
-}

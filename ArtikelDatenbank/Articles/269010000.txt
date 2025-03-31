@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Gewebeband mit hoher Klebkraft</li><li>extrem reißfest, von Hand abreißbar</li><li>auch für Reparaturverklebungen geeignet ( z. B. Folie, Plane oder Zeltreparatur )</li><li>feuchtigkeitsbeständig</li><li>gute Klebkraft auf einer vielzahl von Oberflächen </li></ul>"
-}

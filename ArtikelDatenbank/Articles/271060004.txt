@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Kanalmeißel mit SDS plus Aufnahme</li><li>vielseitig für schlagende Elektrowerkzeuge geeignet</li><li>wie leichte bis mittelschwere Bohrmaschinen oder Bohrhämmer</li><li>zum Erstellen von Fugen und Schlitzen in Beton, Mauerwerk, Stein usw.</li><li>werkzeugloser und schneller Wechsel</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>idealer Ersatzstiel für Rohrdüllspaten</li><li>mit ergonomischen T-Griff</li><li>elastisch, abriefest und zäh</li><li>für müheloses Arbeiten</li><li>aus Buchenholz gefertigt<br/></li></ul>"
-}

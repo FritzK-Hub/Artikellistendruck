@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>GERMANIA® Plattform Doppel-Ladegerät</li><li>handliche und einfache Ausführung</li><li>kann zwei Akkus vom Typ 1,5 als auch 4,0 Ah aufladen</li><li>für die gesamte Plattform Collection geeignet</li><li>Ladezustand ist per LED-Anzeige ablesbar<br/></li></ul>"
-}

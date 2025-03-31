@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>späte Sorte</li><li>Hülsen ohne Fäden</li><li>ertragreiche Bohnensorte</li><li>ovale Hülsenform</li><li>für Bohnengemüse, Salate, zum Einmachen oder Sauereinlegen<br/></li></ul>"
-}

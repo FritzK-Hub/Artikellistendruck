@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>23-teiliges Werkzeug-Set</li><li>mit vielen gängigen Bits für Schraubarbeiten</li><li>7 nützliche Handwerkzeuge</li><li>in praktischer Klapptasche mit Reißverschluss</li><li>transparenter Deckel für direkten Einblick</li></ul>"
-}

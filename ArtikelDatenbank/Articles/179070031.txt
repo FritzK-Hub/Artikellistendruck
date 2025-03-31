@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Werkzeugträger<strong> </strong>aus schlagfestem Kunststoff (PP) </li><li>der perfekte Helfer für Heim- und Handwerker </li><li>mit Alu-Tragegrifffür den sicheren Transport<br/></li><li>bietet viel Platz für Werkzeuge und Kleinteile</li><li>bessere Übersicht durch zwei getrennten Kammern<br/></li></ul>"
-}

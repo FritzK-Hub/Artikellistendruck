@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>schonender Dünger für Orchideen</li><li>hält bis zu 8 Wochen</li><li>Vitalkur wirkt sofort</li><li>eine Ampulle reicht für eine Orchidee</li><li>ganzjährig anwendbar</li></ul>"
-}

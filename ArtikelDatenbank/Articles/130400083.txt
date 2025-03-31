@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Heizlüfter 2000 Watt mit drei Leistungsstufen </li><li>handliches, robustes Design, leicht zu transportieren</li><li>zwischen zwei Heizstufen und einer kühlenden Stufe auswählbar</li><li>vielseitig im Büro oder Wohnräumen einsetzbar</li><li>Überhitzungsschutz und Kipp-Schutzknopf für mehr Sicherheit<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Ausführung: Stützrad mit Kurbel</li><li>Maße Stütze: (ØxH) ca. 4,8 x 40 cm (eingekurbelt)</li><li>Radgröße: (ØxB) ca. 260 x 85 mm</li><li>Luftreifen: 4.10 / 3.5 - 4</li><li>Felge: Stahlblechfelge</li><li>Belastung Reifen: max. 135 kg</li><li>Kurbelhub: ca. 23cm</li><li>Lieferung ohne Klemmschelle</li></ul>"
-}

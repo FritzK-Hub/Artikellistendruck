@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Sortimentskasten, Sortimentsbox mit 5 Fächern</li><li>Kleinteilebox mit fester Unterteilung</li><li>praktischer Tragegriff im Klappdeckel</li><li>ideal für Hobby und Beruf zum Aufbewahren von Kleinteilen wie Schrauben, Kleinwerkzeug, Nähzubehör usw.</li><li>besitzt einen sicheren Klickverschluss<br/></li></ul>"
-}

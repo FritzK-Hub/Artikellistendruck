@@ -1,4 +1,0 @@
-{
-    "uvp": 13.49,
-    "attributes": "<ul><li>Stahlseil Ø 3/5 mm x 10 m aus Stahldraht, verzinkt</li><li>idealer Helfer um rollende Lasten zu sichern und zu transportieren</li><li>Mantel des Stahldrahtes: PVC klar</li><li>entspricht DIN EN 12385</li><li>Stränge: 6 x 7 Stränge gedreht<br/></li></ul>"
-}

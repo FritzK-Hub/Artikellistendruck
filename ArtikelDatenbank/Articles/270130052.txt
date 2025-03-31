@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>Typ TF negativ - Trapezflachzahn</li><li>Dehnungsschlitze mit Kupfereinlage</li><li>negativer Spanwinkel</li><li>beste Wärmeableitung gegen Selbsterhitzung</li><li>spezielle Zahnform - verhindert Zusetzen der Zähne und verbessert Spanauswurf<br/></li></ul>"
-}

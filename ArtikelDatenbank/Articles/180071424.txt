@@ -1,4 +1,0 @@
-{
-    "uvp": 0.69,
-    "attributes": "<ul><li>Untersetzer Plastica rund Ø 15 cm in terracotta</li><li>aus robustem Kunststoff gefertigt</li><li>passend für die Blumentopf-Serie Plastica</li><li>verhindert das Auslaufen von Wasser</li><li>schützt Fensterbänke vor Beschädigungen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.9,
-    "attributes": "<ul><li>hochwertige und stabile Lenkrollen/Bockrollen</li><li>kugelgelagert</li><li>mit Vollgummirad ausgestattet</li><li>ideal für den Möbeltransport, als Möbelrollen geeignet</li><li>Set mit 2 Lenkrollen + 2 Bockrollen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Sicherheit bei geöffneter Tür</li><li>einfache Bedienung</li><li>robuste Konstruktion</li><li>mit Kindersicherung</li><li>einfache Montage<br/></li></ul>"
-}

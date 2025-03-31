@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Abdeckplane 2 x 3 m 90 g/m² in Dunkelgrün<br/></li><li>aus wetterbeständigem Bändchengewebe gefertigt</li><li>zum Abdecken von Gartenmöbeln, Baumaterial oder Holz</li><li>auch als Wind-, Sonnen- oder Sichtschutz einsetzbar</li><li>ist mit 10 Metallösen versehen</li></ul>"
-}

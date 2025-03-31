@@ -1,4 +1,0 @@
-{
-    "uvp": 29.29,
-    "attributes": "<ul><li>zur effektiven Bewässerung von empfindlichen Pflanzen oder Setzlingen </li><li>besonders langlebig und widerstandfähig, aus stabilem Kunststoff </li><li>griffiger Weichkunststoff garantiert sicheren Halt und angenehmen Komfort</li><li>Wassermenge von Sprühnebel bis sanften Brausestrahl stufenlos einstellbar</li><li>integrierter Adapter fürs schnelles Anschließen von 1/2\" Gartenschläuchen <br/></li></ul>"
-}

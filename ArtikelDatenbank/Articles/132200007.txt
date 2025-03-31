@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>GERMANIA® Plattform Akku-Winkelschleifer 20 V</li><li>ideal im Heimwerkerbereich an engen Stellen geeignet</li><li>kleiner Griffumfang und flacher Getriebekopf</li><li>Zusatzgriff links und rechts am Gerät anbringbar</li><li>verfügt über die neuste Lithium-Ionen Technologie<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Kugelleuchte batteriebetrieben aus Crashglas</li><li>schafft eine entspannte Wohlfühlatmosphäre</li><li>ist mit 14 warmweißen LEDs versehen</li><li>vielseitig als Innendekoration einsetzbar</li><li>mit einer Timerfunktion von sechs Stunden versehen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Leimzwinge aus Kunststoff</li><li>stabile Ausführung, starke Feder</li><li>hervorragende Spannkraft</li><li>mit beweglichen Backen</li><li>rutschfeste 2-K Griffe</li></ul>"
-}

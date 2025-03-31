@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>in gebogener, offener Form</li><li>mit selbstschneidendem Gewinde</li><li>aus verzinktem Stahl</li><li>für die Montage an Decke oder Wand</li><li>zum Aufhängen von Gegenständen<br/></li></ul>"
-}

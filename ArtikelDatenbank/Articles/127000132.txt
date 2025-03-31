@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>stabile Holzstiele, perfekt für Kinder</li><li>Metallköpfe ermöglichen effiziente Gartenarbeit</li><li>bunte, kinderfreundliche Gestaltung</li><li>robuste Ausführung bietet unbeschwerten Gartenspaß</li><li>5 Modelle zur Auswahl - ideal für jeden Bedarf</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.9,
-    "attributes": "<ul><li>robuste, gehärtete Stahlnägel in markantem Blau</li><li>vielseitig einsetzbar im Bauwesen, der Holzverarbeitung und dem Handwerk</li><li>hohe Haltbarkeit und Widerstandsfähigkeit für anspruchsvolle Aufgaben</li><li>scharfe Spitze für müheloses Einschlagen in verschiedene Materialien</li><li>verlässliche Qualität für professionelle Ergebnisse bei jedem Projekt<br/><br/></li></ul>"
-}

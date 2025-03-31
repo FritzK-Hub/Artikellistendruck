@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Wäschekorb mit Deckel aus Bambusholz</li><li>langlebig, feuchtigkeits- und temperaturwechselbeständig</li><li>formgenau für die Ecke des Badezimmers</li><li>großes Fassungsvermögen</li><li>ermöglicht geordnetes und ästhetisches Aussehen des Badezimmers<br/></li></ul>"
-}

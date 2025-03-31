@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Bügelzughacke mit 15,5 cm Arbeitsbreite</li><li>zur Bodenauflockerung und Entfernung von Unkraut</li><li>angeschliffenes Stahlblatt für eine effiziente Gartenpflege</li><li>gebogene Bügelform schützt Pflanzen vor Schäden</li><li>rückendschonende Arbeit dank 140 cm langen Holzstiel<br/></li></ul>"
-}

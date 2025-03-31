@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>Sandkasten aus naturbelassenem Holz</li><li>mit PVC-Abdeckung für besseren Schutz</li><li>ausgezeichnet für jeden Hof und Garten</li><li>mit 32 mm starken Holzbrettern</li><li>inklusive verzinkte Schrauben</li></ul>"
-}

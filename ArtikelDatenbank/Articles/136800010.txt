@@ -1,4 +1,0 @@
-{
-    "uvp": 44.99,
-    "attributes": "<ul><li>vielseitiges 23 teiliges Werkzeugsortiment für jeden Einsatz</li><li>praktische Stofftasche für einfache Aufbewahrung</li><li>schneller Zugriff dank übersichtlicher Sortierung</li><li>enthält Hammer, Bandmaß, Handsäge und mehr</li><li>perfekt für Heimwerkerprojekte jeder Art</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Multi-Einsatz mit Innenvierkant-Antrieb 3/8“ </li><li>aus massivem Chrom-Vanadium-Stahl gefertigt</li><li>universeller Helfer im Haushalt oder Werkstatt</li><li>passend für alle Sechskant-Schrauben wie -Muttern, in Zoll und metrischen Größen</li><li>inklusive Adapter und umschaltbaren Ratschen-T-Griff<br/></li></ul>"
-}

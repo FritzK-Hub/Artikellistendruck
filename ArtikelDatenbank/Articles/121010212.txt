@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Folienstift mit Clip</li><li>schwarzschreibend mit einer Strichstärke von 2,5 mm</li><li>zur dauerhaften Beschriftung Folien und Gefrierbeuteln</li><li>haftet auf fast allen glatten Oberflächen</li><li>wasserfest und frostbeständig bis -10°C</li></ul>"
-}

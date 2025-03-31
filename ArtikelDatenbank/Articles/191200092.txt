@@ -1,4 +1,0 @@
-{
-    "uvp": 179.95,
-    "attributes": "<ul><li>fahrbarer Kugelgrill mit einer Grillfläche von 53 cm</li><li>aus schwarz lackiertem Edelstahl gefertigt</li><li>Ascheauffangbehälter erleichtert die Reinigung</li><li>2 Räder für einen einfachen Transport</li><li>inklusive einstellbaren Lüftungen und Thermometer<br/></li></ul>"
-}

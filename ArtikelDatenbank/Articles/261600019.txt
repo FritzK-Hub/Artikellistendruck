@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>sichere und komfortable Handhabung</li><li>aus robustem Metall mit gummierten Griffen</li><li>geeignet für verschiedene Materialien</li><li>ideal für alle Arten von Hohlraumdübeln</li><li>für eine schnelle und einfache Montage<br/></li></ul>"
-}

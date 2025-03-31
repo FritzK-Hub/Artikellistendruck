@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Petunien Peppy in verschiedenen Farben</li><li>im robustem Blumentopf 9 cm</li><li>hat eine besonders starkleuchtende Blütenpracht</li><li>in Kombination für eine farbige Blütenpracht</li><li>ein echter Blickfang im Garten, Balkon oder Terrasse<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Scheibenwischer Aerotwin KSN AR26U 65 cm</li><li>aus flexiblem Kunststoff mit Graphitüberzug</li><li>zur Nachrüstung für Fahrzeuge ohne Flachbalkenwischer</li><li>optimale Anpassung an die Fahrzeugscheibe durch gebogene Form</li><li>inklusive Multiadapter<br/></li></ul>"
-}

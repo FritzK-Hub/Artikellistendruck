@@ -1,4 +1,0 @@
-{
-    "uvp": 7.39,
-    "attributes": "<ul><li>mit Trassmehlvergütung</li><li>schnelle Begehbarkeit</li><li>robust und frostbeständig</li><li>vielseitig einsetzbar</li><li>leichte Verarbeitung</li></ul>"
-}

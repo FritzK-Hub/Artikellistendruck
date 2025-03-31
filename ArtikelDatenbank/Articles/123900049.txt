@@ -1,4 +1,0 @@
-{
-    "uvp": 1405.0,
-    "attributes": "<ul><li>Set aus 256 Stück für großflächige Projekte<br/></li><li>nachhaltige Entwässerung durch recycelten Kunststoff</li><li>wetterfeste Langlebigkeit für dauerhaften Einsatz</li><li>schnelle, unkomplizierte Verlegung bietet Zeitersparnis</li><li>optisch unauffällige Integration durch schwarze Ausführung<br/></li></ul>"
-}

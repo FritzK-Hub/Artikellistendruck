@@ -1,4 +1,0 @@
-{
-    "uvp": 4.2,
-    "attributes": "<ul><li>schützt Möbel vor Kratzern und Beschädigungen auf glatten Böden</li><li>einfache und schnelle Montage dank Schraubsystem</li><li>robuste Metallbasis für hohe Tragfähigkeit</li><li>für eine geräuschlose und reibungslose Bewegung</li><li>8er-Pack für die Verwendung an mehreren Möbeln<br/></li></ul>"
-}

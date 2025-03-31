@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>flauschiges Kunstfell 60 x 90 cm</li><li>in verschiedenen Farben erhältlich</li><li>gut mit anderen Einrichtungsstilen kombinierbar</li><li>geeignet für Fußbodenheizung</li><li>strapazierfähig und ein echter Blickfang<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Felgen-Reinigungsschwamm von Nigrin</li><li>für alle Stahl- und Aluminiumfelgen</li><li>sehr saugfähig und schonend</li><li>waschbar bis 90°C</li><li>entfernt hartnäckige Verschmutzungen</li></ul><p><br/></p>"
-}

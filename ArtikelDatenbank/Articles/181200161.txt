@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Ringelblume-Mischung Pacific Schönheit</li><li>mit großen, leicht gefransten Blüten versehen</li><li>eine altbekannte und sehr haltbare Schnittblume</li><li>zur Gesunderhaltung des Bodens einsetzbar</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 726.0,
-    "attributes": "<ul><li>massives Gartentor mit 2 Torflügeln  aus Metall</li><li>klassisches Wellengitter-Design, inklusive Pfosten</li><li>schließfertig mit Türdrücker, Profilzylinder und 2 Schlüssel </li><li>langlebig durch Zinkphosphatierung und Kunststoffbeschichtung</li><li>das perfekte Zauntor für Zufahrten in Komination mit Maschendrahtzaun </li></ul>"
-}

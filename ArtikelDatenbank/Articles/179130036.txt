@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Haushaltshandschuhe aus anschmiegsamem Latex</li><li>mit Baumwollflock-Innenschicht</li><li>besonders wasserdicht</li><li>sicherer Griff dank geriffelter Handfläche</li><li>hohe Stulpen für besseren Nässeschutz<br/><br/></li></ul>"
-}

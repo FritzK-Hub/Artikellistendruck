@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>dichte, robuste Fruchtstruktur</li><li>Farbvielfalt für den Geschmack</li><li>optimaler Anbau in verschiedenen Umgebungen</li><li>pflegeleicht und anfängerfreundlich</li><li>zuverlässige Ertragssicherheit<br/></li></ul>"
-}

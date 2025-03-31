@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Liquid zur pH-Wert Senkung im Poolwasser</li><li>flüssiger pH-Wert Senker mit besonders einfacher Anwendung</li><li>über einen Skimmer oder direkt ins Becken zuzugeben</li><li>für eine gute pH-Wert Regelung</li><li>für Pools und Whirlpools</li></ul>"
-}

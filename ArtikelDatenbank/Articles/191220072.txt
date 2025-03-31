@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Grillreinigungschwamm-Set 2 Stück aus Stahlwolle</li><li>zur Reinigung von Rostzwischenräumen der Grillfläche</li><li>schwer zugängliche Stellen können einfach erreicht werden</li><li>bringt das Grillrost schnell und einfach wieder zum Glänzen</li><li>Kunststoffgriff erleichtern das Reinigen der Grillfläche<br/></li></ul>"
-}

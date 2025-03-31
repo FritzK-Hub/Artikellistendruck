@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>bequeme Steuerung mit Bewegungsmelder<br/></li><li>strahlwassergeschützt für Outdoor-Einsatz</li><li>hochwertige und langlebige Materialien</li><li>flexibel montierbar für vielseitige Anwendungen</li><li>einstellbarer Lichtwinkel zur optimalen Ausleuchtung</li></ul><p></p>"
-}

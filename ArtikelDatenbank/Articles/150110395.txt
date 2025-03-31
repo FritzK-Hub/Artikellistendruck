@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>extra feste Pflegetücher für alle Lederoberflächen</li><li>mit Bienenwachs und seidenmatter Optik</li><li>lässt Leder wie neu aussehen und wirkt farbauffrischend</li><li>Schutz gegen Flecken, Spritzer und Neu-Verschmutzung</li><li>in der praktischen Spenderbox mit Flip-Top-Deckel</li></ul>"
-}

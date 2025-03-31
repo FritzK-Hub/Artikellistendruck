@@ -1,4 +1,0 @@
-{
-    "uvp": 25.49,
-    "attributes": "<ul><li>hoher Druck</li><li>vielseitige Anwendung</li><li>großzügiges Fassungsvermögen</li><li>robuste Bauweise</li><li>konstante, starke Leistung</li></ul>"
-}

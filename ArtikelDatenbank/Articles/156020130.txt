@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Lasurstreicher mit geradem Pinselkopf</li><li>bestens geeignet für große Flächen</li><li>gute Farbaufnahme und Abgabe</li><li>langer und stabiler Holzgriff</li><li>bestens geeignet für alle Lasuren</li></ul>"
-}

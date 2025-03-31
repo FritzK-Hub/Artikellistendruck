@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Drahtbürstensatz 3 -teilig universal einsetzbar</li><li>Set bestehend aus jeweils einer Drahtbürste aus Messing, Stahl und Nylon</li><li>zum Entfernen von Roststellen, Gipsresten oder Putz</li><li>3-reihige Anordnung für bessere Schmutzbeseitigung</li><li>stabiler Kunststoffgriff für leichtere Handhabung<br/></li></ul>"
-}

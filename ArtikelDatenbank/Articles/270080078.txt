@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Qualität von GERMANIA® Qualitätswerkzeuge</li><li>3er Set mit verschiedenen Körnungen</li><li>für Arbeiten an Kfz, Motorrad, Boot usw.</li><li>ideal zur Bearbeitung von Holz und Metall</li><li>praktische Abmessung</li></ul>"
-}

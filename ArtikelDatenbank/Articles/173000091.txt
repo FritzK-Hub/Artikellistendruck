@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>LED Mini-Nachtlicht mit kaltweißem Licht</li><li>praktische Einschlafhilfe für kleine Kinder</li><li>auch als Orientierungslicht einsetzbar</li><li>dank Sensor schaltet es sich bei Dämmerung ein</li><li>kann einfach in eine Steckdose gesteckt werden</li></ul>"
-}

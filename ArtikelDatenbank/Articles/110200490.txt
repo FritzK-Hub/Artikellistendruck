@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>großzügige Abdeckung von ca. 1,92 m² pro Bündel</li><li>natürliche und warme Atmosphäre durch unbehandeltes Kiefernholz</li><li>einfache Montage dank Nut- und Federkonstruktion</li><li>vielseitige Verwendungsmöglichkeiten für Innen- und Außenverkleidungen</li><li>hochwertige Qualität und Langlebigkeit<br/></li></ul>"
-}

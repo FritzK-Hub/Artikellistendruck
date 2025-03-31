@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>haftet an Werkbänken, Infotafeln und Notenständern</li><li>in Beruf, Hobby, Küche und Schule vielseitig verwendbar</li><li>einfach und schnell deine Notizen sichtbar befestigen</li><li>durch Farben lassen sich leicht Sortierfunktionen erstellen<br/></li><li>farbig sortiert</li></ul><p></p>"
-}

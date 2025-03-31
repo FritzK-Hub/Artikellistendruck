@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>kompakte und platzsparende Beleuchtung für Kennzeichen</li><li>aus robustem und widerstandsfähigem Kunststoff</li><li>ideal als Ersatz oder Nachrüstung vo Anhängern</li><li>inklusive Befestigungsmaterial, ohne Leuchtmittel</li><li>rechts und links montierbar<br/></li></ul>"
-}

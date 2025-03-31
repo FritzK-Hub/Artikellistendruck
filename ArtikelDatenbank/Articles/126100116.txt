@@ -1,4 +1,0 @@
-{
-    "uvp": 349.99,
-    "attributes": "<ul><li>Benzin-Stromerzeuger 2000 W</li><li>für die einfache Stromversorgung auf Baustellen und für Heimgeräte</li><li>Notfall-Stromversorgung für Kühlschränke, Gefrierschränke usw.</li><li>mit maximal 2000 W Dauerleistung für die meisten Verbraucher </li><li>auch für dreiphasige Kraftstromverbraucher und 12 Volt Geräte geeignet</li></ul>"
-}

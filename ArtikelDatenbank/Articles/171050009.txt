@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Universal-Öl 750 ml farblos von DecoPro für außen</li><li>ein farbauffrischendes und tiefenwirksames Pflegeöl</li><li>zur Imprägnierung, Auffrischung und Erstbehandlung von Holz</li><li>betont den natürlichen Farbton und die Maserung des Holzes</li><li>schützt vor Vergrauungen, dringt tief ins Holz ein und erhöht die Wasserabweisung<br/></li></ul>"
-}

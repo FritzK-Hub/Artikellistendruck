@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>große, gefüllte Blüten</li><li>robuste Schönheit</li><li>schnelle Blüte</li><li>leichte Pflege</li><li>natürliche Bestäuberanziehung<br/></li></ul>"
-}

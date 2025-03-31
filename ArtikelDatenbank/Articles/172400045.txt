@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Set beinhaltet vier AAA-Alkaline-Batterien</li><li>für den täglichen Gebrauch in verschiedenen Geräten</li><li>vielseitig für Fernbedienungen, Taschenlampen oder Spielzeug einsetzbar</li><li>bieten eine langanhaltende und zuverlässige Energieversorgung</li><li>gleichbleibend starke Leistung über ihre gesamte Nutzungsdauer</li></ul>"
-}

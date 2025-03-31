@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Antikwachs von Clou</li><li>aus echtem Bienen- und Carnaubawachs</li><li>zur natürlichen Pflege und Auffrischung aller naturbelassenen oder gewachsten Hölzer</li><li>bildet seidenen Schutzfilm </li><li>eignet sich zur Werthaltung von antiken Gegenständen<br/></li></ul>"
-}

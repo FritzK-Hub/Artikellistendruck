@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>GERMANIA® Ratschenschraubendreher mit Gelenk</li><li>Knarrenfunktion mit rechts/links Umstellung und Arretierung in der Mittelstellung</li><li>ergonomisch geformter 2-Komponenten Handgriff</li><li>Bit-Magazinhalter im Griff integriert</li><li>Farbleitsystem für einfache Bitwahl</li></ul>"
-}

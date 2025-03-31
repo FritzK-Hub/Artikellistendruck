@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>robuste Kunststoffkonstruktion</li><li>vielfältige Farbauswahl für jeden Geschmack</li><li>optimierter Halt des Sonnenschirms bei Wind</li><li>leicht und transportabel</li><li>direkt einsatzbereit für viele Untergründe</li></ul>"
-}

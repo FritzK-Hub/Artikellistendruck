@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>für eine zuverlässige und sichere Energieverteilung </li><li>vielseitig im Haushalt oder Gartenbereich einsetzbar</li><li>wetterfestes Gehäuse fügt sich nahtlos in Gartenlandschaft ein</li><li>erhöhter Berührungsschutz für mehr Sicherheit</li><li>mitgeliefertes Befestigungsmaterial erleichtert die Montage<br/></li></ul>"
-}

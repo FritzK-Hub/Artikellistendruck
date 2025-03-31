@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>wartungsfreie Batterie, mit modernster Gel-Elektrolyt-Technologie</li><li>abgestimmt auf die besonderen Belastungen im Motorradbetrieb</li><li>besitzen eine besonders lange Lebensdauer</li><li>für einen schnellen und zuverlässigen Start des Motorrads</li><li>bereits mit Gel befüllt, nach dem Kauf gleich einsetzbar</li></ul>"
-}

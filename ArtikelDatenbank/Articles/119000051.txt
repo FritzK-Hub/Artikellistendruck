@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Klappleiter 3-Stufig aus robustem Aluminium gefertigt</li><li>mit einem ca. 60 cm langem Haltebügel versehen</li><li>ideal in der Garage, Garten oder Haushalt geeignet</li><li>verfügt über eine Belastbarkeit von bis zu 150 kg</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>schützende Haushaltshandschuhe aus Latex</li><li>mit Baumwollflock-Innenschicht</li><li>für allgemeine Reinigungsarbeiten</li><li>extra feuchtigkeitsbeständig und hygienisch</li><li>die Hände bleiben angenehm trocken<br/><br/></li></ul>"
-}

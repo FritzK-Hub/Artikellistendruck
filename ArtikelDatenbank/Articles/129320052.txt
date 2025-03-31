@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>imposante Wurzelkörper</li><li>effektiver Schutz gegen Möhrenfliegen</li><li>gesunder und ertragreicher Anbau</li><li>feiner und süßer Geschmack</li><li>hochwertige Sorte mit flexibler Anbauperiode<br/></li></ul>"
-}

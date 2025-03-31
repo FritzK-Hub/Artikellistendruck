@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Schwamm aus Silikonschaum</li><li>Kunststoffpflege mit Citrus-Duft</li><li>ideal für die Cockpitpflege</li><li>mit Nigrin Cockpitlotion nachfüllbar</li><li>ideal für Kunststoffe, Leder, Schuhe</li></ul>"
-}

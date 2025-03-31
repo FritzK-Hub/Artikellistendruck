@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Clogs uni in der Größe aus Kunststoff mit Fell</li><li>in den Größen 36 – 45 und verschiedenfarbig erhältlich</li><li>gute Passform sorgt für angenehmen Tragekomfort</li><li>passend als Garten-, Haus- oder Freizeitschuhe</li><li>sorgen für warme Füße in der kalten Jahreszeit<br/></li></ul>"
-}

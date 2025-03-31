@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Heimeier-kompatibler Thermostat-Ventilkopf</li><li>stabiles Regelverhalten durch bewährte Kirchhoff-Qualität</li><li>automatische Temperaturregelung deiner Wohnräume</li><li>flüssigkeitsgesteuerte Regelung deiner Heizkörper</li><li>sparsames Heizen bei einfachster Bedienung</li></ul><p></p>"
-}

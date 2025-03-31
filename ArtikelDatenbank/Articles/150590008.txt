@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Getränkespender mit 3,5 Liter Fassungsvermögen</li><li>für kühle und erfrischende Getränke<br/></li><li>ist ideal für Garten, Terrasse oder Balkon geeignet</li><li>vormontierter Zapfhahn für ein dosiertes Ausschenken</li><li>Einfüllöffnung mit großem Schraubdeckel<br/></li></ul>"
-}

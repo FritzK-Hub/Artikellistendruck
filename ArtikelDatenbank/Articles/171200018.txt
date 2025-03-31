@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<p>effektive Pflege von bereits geölten Teakholzmöbeln im Wohn-, Ess- und Schlafbereich<br/>bildet einen wasser- und schmutzabweisenden Schutzfilm auf der Oberfläche<br/>dringt tief ins Holz ein und verleiht einen offenporigen, atmungsaktiven Schutz<br/>betont zusätzlich die natürliche Maserung des Holzes, verleiht neuen Glanz<br/>einfach in der Anwendung, lässt sich mit weichen, sauberen Tuch problemlos auftragen<br/></p>"
-}

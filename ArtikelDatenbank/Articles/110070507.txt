@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>besonders robust und langlebig</li><li>einstellbar von 0-90°</li><li>langlebig und hitzebeständig</li><li>mit integrierter Reinigungstür</li><li>für den Anschluss von Feuerstellen<br/></li></ul>"
-}

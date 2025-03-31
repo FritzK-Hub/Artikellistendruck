@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>24-fach spezialgeflochtenes Polypropylen-Seil</li><li>zum Befestigen und Verzurren</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1m bis 80m</li><li>Belastbarkeit: max. 125 kg</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>Güde® Handkehrmaschine mit einfachem, mühelosem Handling</li><li>3-Bürsten-Kehrsystem erlaubt gründliche Reinigung</li><li>XXL-Auffangbehälter mit 22 l Fassungsvermögen</li><li>große Kehrbreite für schnelle Ergebnisse</li><li>effektive Reinigung auch bei großen Flächen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 23.95,
-    "attributes": "<ul><li>elektrischer Frostwächter, einstellbar von 450 bis 520 Watt</li><li>verhindert die Unterschreitung einer bestimmten Temperatur</li><li>im Keller, Speisekammer, Wintergärten oder Gewächshäusern einsetzbar<br/></li><li>Frostschutzfunktion verhindert Einfrieren z.B. von Wasserleitungen</li><li>automatische Temperaturkontrolle mit stufenlos regelbarem Thermostat<br/></li></ul>"
-}

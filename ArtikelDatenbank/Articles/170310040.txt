@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>ausreichend Platz für 40 Paar Schuhe</li><li>stabil dank PP und pulverbeschichtetem Stahl</li><li>flexibel in Höhe anpassbar</li><li>modernes Wellenform-Design für schlichte Eleganz</li><li>clevere Platzersparnis mit variablen Ebenen</li></ul><p> </p><p></p>"
-}

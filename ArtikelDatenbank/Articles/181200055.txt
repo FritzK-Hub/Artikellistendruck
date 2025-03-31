@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>einfaches Anpflanzen mit Saatband</li><li>durch Frosteinwirkung noch aromatischer</li><li>perfekt für naturnahe Küche</li><li>nährstoffreich und gesund</li><li>langer Erntezeitraum bis März</li></ul>"
-}

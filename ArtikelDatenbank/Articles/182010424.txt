@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>aufblasbares Einzel-Luftbett 76 x 185 x22 cm in blau</li><li>aus strapazierfähigem Vinyl gefertigt</li><li>verfügt über eine bequeme, beflockte Schlafseite</li><li>vielseitig beim Campen oder als Gästebett einsetzbar</li><li>inklusive Reparaturset<br/></li></ul>"
-}

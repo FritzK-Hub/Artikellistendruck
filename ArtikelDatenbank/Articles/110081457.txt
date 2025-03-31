@@ -1,4 +1,0 @@
-{
-    "uvp": 1.89,
-    "attributes": "<ul><li>Gurtband aus Polypropylen</li><li>multifil (Endlosgarn)</li><li>zur Herstellung von Spann- und Zurrgurten</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1m bis 50 m</li></ul>"
-}

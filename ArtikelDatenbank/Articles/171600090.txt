@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li>bietet eine langlebige und zuverlässige Abdichtung gegen Feuchtigkeit und Wassereinbrüche</li><li>UV-beständig und nicht empfindlich gegen Spritz- und Regenwasser (auch während der Aushärtung)</li><li>geeignet für den Einsatz in verschiedenen Bereichen wie Dach, Wand, Nasszellen und Kelleraußenwandabdichtung (in Anlehnung an die DIN 18195)</li><li>einfache Anwendung für Heimwerker und Profi-Handwerker</li><li>Rissüberbrückung bis mindestens 10 mm</li></ul><p></p>"
-}

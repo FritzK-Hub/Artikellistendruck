@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Knauf Tiefengrund für Innen und Außen</li><li>Grundierung für saugende Untergründe</li><li>verbessert die Haftung </li><li>geeignet für Wand, Decke und Boden</li></ul><ul><li>Inhalt 1 Liter, lösungsmittelfrei</li></ul>"
-}

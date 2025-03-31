@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>runder Pflanzenroller aus unbehandeltem Kiefernholz</li><li>große Zimmerpflanzen unkompliziert und schnell verschieben</li><li>bietet ausreichend Stellplatz mit einer Belastbarkeit von bis zu 60 kg </li><li>vier Rollen eignen sich für beinahe alle Bodenoberflächen</li><li>auch als Rollbrett oder Möbelroller für leichtere Möbel geeignet<br/></li></ul>"
-}

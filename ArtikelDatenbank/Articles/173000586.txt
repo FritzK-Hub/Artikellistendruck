@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>stabile LED-Feuchtraumleuchte 120 cm aus Kunststoff</li><li>für Feuchträume oder Außenbereich geeignet</li><li>inklusive Montagematerial<br/></li><li>mit robustem ABS-Gehäuse versehen</li><li>mit eingebautem LED-Leuchtmittel<br/></li></ul>"
-}

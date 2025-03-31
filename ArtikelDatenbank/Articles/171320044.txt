@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>UV-Licht härtet in 60 Sekunden</li><li>perfekte Ergebnisse auf verschiedenen Materialien</li><li>transparent und nahezu unsichtbare Reparaturen</li><li>schnelle, unkomplizierte Anwendung</li><li>kompaktes Set für Haushalt und Werkstatt</li></ul>"
-}

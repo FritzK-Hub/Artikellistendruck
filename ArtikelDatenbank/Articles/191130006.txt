@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Poolthermometer mit Kordel zur Befestigung am Beckenrand</li><li>mit Schöpfbecher zur Wasserentnahme</li><li>aus robustem Kunststoff hergestellt</li><li>leicht ablesbare Temperaturskala</li><li>zeigt Fahrenheit und Celsius an</li></ul>"
-}

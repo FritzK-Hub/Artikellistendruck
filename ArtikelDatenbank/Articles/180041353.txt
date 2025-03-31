@@ -1,4 +1,0 @@
-{
-    "uvp": 25.95,
-    "attributes": "<ul><li>hohe Qualität</li><li>mähfertig vorgedengelt</li><li>optimale Schärfe und Schnittleistung</li><li>für handelsübliche Sensenstiele</li><li>präzise Mäharbeiten</li></ul>"
-}

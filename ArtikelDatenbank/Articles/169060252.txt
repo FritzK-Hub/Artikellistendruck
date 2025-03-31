@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Pattex® Kraftkleber \"Kleben statt Bohren wasserresistent\"</li><li>universell einsetzbar und Witterungs- sowie Wasserbeständigkeit</li><li>zuverlässiger Klebstoff für schnelle und saubere Anwendungen</li><li>für die Verklebung im Bad- oder Küchenbereich geeignet</li><li>ohne Lösungsmittel, mit hoher Endfestigkeit</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>präzise Rasenkanten ohne großen Kraftaufwand</li><li>robuste Stahlklinge bietet hohe Langlebigkeit</li><li>ergonomischer Griff für komfortables Arbeiten</li><li>effektive Tiefenbegrenzung mit sauberen Kanten</li><li>ideal zur professionellen Gartenpflege</li></ul>"
-}

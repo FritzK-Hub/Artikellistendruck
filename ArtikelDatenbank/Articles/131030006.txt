@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>ph-neutrales Handspülmittel-Konzentrat</li><li>fürs schnelle und gründliche Geschirrspülen<br/></li><li>besonders hautfreundlich bei höchster Fettlösekraft</li><li>lässt sich sofort anwenden</li><li>mit angenehmem Zitronenduft<br/></li></ul>"
-}

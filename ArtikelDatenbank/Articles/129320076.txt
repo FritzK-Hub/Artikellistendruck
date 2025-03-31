@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>lebendige und ansprechende Note</li><li>kulinarische Vielseitigkeit</li><li>robuste Anpassungsfähigkeit</li><li>einfache Pflege</li><li>vielfältige Farben<br/></li></ul>"
-}

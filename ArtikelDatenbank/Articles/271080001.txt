@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>GERMANIA® Bohrfutter-Ratsche mit Ø 6 mm Zapfen</li><li>zum einfachen Lösen von Bohrfuttern</li><li>schneller Bohrerwechsel</li><li>wesentlich höhere Kraftübertragung - kein durchdrehende Bohrer mehr</li><li>ideal für Bohrmaschinen und Standbohrmaschinen mit Zahnkranz<br/></li></ul>"
-}

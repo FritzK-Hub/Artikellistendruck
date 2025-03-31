@@ -1,4 +1,0 @@
-{
-    "uvp": 11.27,
-    "attributes": "<ul><li>Sechskant-Schraubendreher mit 6 mm Schlüsselweite</li><li>ideal zum Anziehen und Lösen von Schlauchschellen</li><li>280 mm Schaft erleichtert das Erreichen von schwer zugänglichen Stellen</li><li>2-K-Griff garantiert sicheren Halt, auch mit nassen Händen</li><li>magnetische Spitze für sicheren Halt der Schrauben oder Schellen<br/></li></ul>"
-}

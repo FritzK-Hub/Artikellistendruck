@@ -1,4 +1,0 @@
-{
-    "uvp": 2.95,
-    "attributes": "<ul><li>langlebiges und robustes Material aus Kiefern und Fichtenholz</li><li>dient, nach dem Tapezieren der Wände, als Abschluss an der Wand</li><li>unbehandeltes Holz für eine authentische Optik</li><li>bietet ausreichend Fläche, um größere Wandbereiche abzuschließen</li><li>lässt sich je nach Bedarf mit einer Feinsäge zuschneiden<br/></li></ul>"
-}

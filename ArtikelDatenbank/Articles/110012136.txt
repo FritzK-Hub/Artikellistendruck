@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>effiziente Wassereinsparung</li><li>anpassbare Installation</li><li>hochwertige Materialien</li><li>inklusive Kunststoffdichtung</li><li>einfache Installation<br/></li></ul>"
-}

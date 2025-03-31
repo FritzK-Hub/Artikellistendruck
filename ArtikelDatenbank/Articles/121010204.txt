@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>10 Foldback Klammern in verschiednene Farben</li><li>Binder Clips aus Metalldraht</li><li>in praktischer Aufbewahrungsbox</li><li>Umlegeklammern zum Bündeln von mehreren Blättern</li><li>wiederverwendbare Vielzweckklammern<br/></li></ul>"
-}

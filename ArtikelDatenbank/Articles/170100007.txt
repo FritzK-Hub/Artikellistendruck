@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>zum passgenauen Sägen auf Gehrung</li><li>sichere und saubere Führung von Handsägen</li><li>für 45 und 90° Winkel</li><li>Schnitttiefe: 44mm</li><li>Schnittbreite: 106mm</li></ul>"
-}

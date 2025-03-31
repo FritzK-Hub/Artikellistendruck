@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>großer Pflanzkasten Calypso rollbar für innen und außen<br/></li><li>ideal zum Anbauen deiner Lieblingsblumen oder Kräuter</li><li>die Rollen erleichtern den Transport des Blumenkastens</li><li>eingebautes Bewässerungssystem zur Versorgung der Pflanzen</li><li>hochwertige Qualität, made in Germany<br/></li></ul>"
-}

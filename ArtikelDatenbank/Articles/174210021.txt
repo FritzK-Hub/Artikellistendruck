@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>optimale Länge <br/></li><li>elegantes Design</li><li>universeller Anschluss</li><li>Wasserspardichtung inklusive</li><li>hochwertige Verarbeitung<br/></li></ul>"
-}

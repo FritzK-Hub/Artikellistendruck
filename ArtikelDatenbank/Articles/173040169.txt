@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>langlebiges Material, glasfaserverstärkt</li><li>schnelle und effiziente Entlüftung der Heizkörper</li><li>für die meisten Heizkörpermodellen mit Entlüftungsschraube geeignet</li><li>hilft dabei Energiekosten zu sparen</li><li>Sparset mit 10 Heizkörper-Entlüftungsschlüsseln</li></ul>"
-}

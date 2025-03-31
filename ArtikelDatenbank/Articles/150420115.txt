@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>für die Zubereitung von Gelees, Marmeladen Suppen oder Babynahrung </li><li>dient zur Zerkleinerung von weichem Obst oder Gemüse</li><li>hygienischer und langlebiger Edelstahl, spülmaschinengeeignet</li><li>passendes Zubehör für Hobbyköche und für die Gastronomie</li><li>inklusive drei verschiedener Siebe für verschiedene Ergebnisse<br/></li></ul>"
-}

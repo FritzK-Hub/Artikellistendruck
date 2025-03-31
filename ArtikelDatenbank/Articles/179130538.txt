@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>faltbare, filtrierende Halbmaske der Schutzklasse FFP1 mit Gummizug<br/></li><li>Schutz vor ungiftigen und nicht-fibrogenen Stäuben</li><li>schützt bis zum 4-fachen des MAK-Wertes (maximale Arbeitsplatz-Konzentration)</li><li>adaptierbarer Nasenbügel für bessere Passform</li><li>entspricht EN 149</li></ul>"
-}

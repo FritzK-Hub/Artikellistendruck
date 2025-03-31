@@ -1,4 +1,0 @@
-{
-    "uvp": 189.99,
-    "attributes": "<ul><li>besonders leistungsstark</li><li>optimale Kontrolle und Vielseitigkeit</li><li>kompaktes und leichtes Design</li><li>mit integrierten Metallgetriebe</li><li>einfache Montage und Demontage des Bits<br/></li></ul>"
-}

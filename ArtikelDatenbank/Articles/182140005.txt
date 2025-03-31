@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Mehrzweckfett von Nigrin in der Tube</li><li>schützt vor Korrosion und Verschleiß</li><li>ideal für schnelllaufende Walz- und Gleitlager geeignet</li><li>schmiert langanhaltend</li><li>Schmierfett für beanspruchte Lager</li></ul>"
-}

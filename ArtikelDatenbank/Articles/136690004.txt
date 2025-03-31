@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Gehrungslade für präzise Schneidarbeiten an kleineren Werkstücken</li><li>aus robustem Kunststoff für eine zuverlässige, langlebige Anwendung</li><li>zum exakten Sägen von kleineren Werkstücken wie Leisten, Stangen, Rahmen und Rohre</li><li>vielseitig einsetzbar, besonders für Schnittkanten von 45 und 90 Grad</li><li>integrierte Führungsrillen sorgen für eine einfache Handhabung und exakte Ausrichtung des Materials<br/></li></ul>"
-}

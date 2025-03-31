@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Kopf der Schraube: Sechskant / 6-kant</li><li>Gewinde der Schlüsselschraube: Vollgewinde</li><li>Material der Maschinenschraube: Stahl</li><li>Oberfläche: galvanisch verzinkt</li><li>Zugfestigkeit der Sechskantschraube: 8.8</li></ul>"
-}

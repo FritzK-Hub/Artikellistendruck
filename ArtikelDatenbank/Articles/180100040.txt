@@ -1,4 +1,0 @@
-{
-    "uvp": 24.09,
-    "attributes": "<ul><li>LIQUI MOLY Motorenöl für Benzin- und Dieselmotoren</li><li>für Turbomotoren und Dieselpartikelfilter (DPF)</li><li>besonders geeignet für gasbetriebene Fahrzeuge</li><li>basierend auf HC-Syntheseölen</li><li>senkt den Kraftstoffverbrauch und reduziert den Schadstoffausstoß</li><li>lange Motorlebensdauer und leichter Motorlauf</li></ul>"
-}

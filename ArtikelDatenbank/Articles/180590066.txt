@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>kann sowohl nassen als auch trockenen Schmutz und Flüssigkeiten aufsaugen</li><li>passt dank kompaktem Design in jeden Kofferraum, ist jederzeit griffbereit</li><li>3 m langes Kabel mit KfZ-Anstecker erleichtert die Reinigung im kompletten Auto</li><li>einfache Handhabung, geringes Eigengewicht für zuverlässige Reinigungsarbeiten</li><li>inklusive 15 cm lange Düsenverlängerung, für schwer zugängliche Ecken und Rillen<br/></li></ul>"
-}

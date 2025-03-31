@@ -1,4 +1,0 @@
-{
-    "uvp": 21.99,
-    "attributes": "<ul><li>auswechselbare Gummilippe</li><li>vielseitige Montagemöglichkeiten</li><li>unkomplizierte Installation</li><li>stilvolles Design</li><li>hochwertige Verarbeitung<br/></li></ul>"
-}

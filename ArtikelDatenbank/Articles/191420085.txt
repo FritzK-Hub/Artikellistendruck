@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Thermoskanne 1,9 Liter aus robustem Edelstahl</li><li>Pumpmechanismus erleichtert das Ausschenken der Getränke</li><li>ideal für unterwegs, beim Camping oder für Veranstaltungen </li><li>hält Getränke entsprechend länger warm oder kalt</li><li>breite Öffnung ermöglicht eine schnelle Befüllung</li><li>der Deckel lässt sich als Trinkbecher verwenden</li></ul>"
-}

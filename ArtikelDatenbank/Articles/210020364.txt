@@ -1,4 +1,0 @@
-{
-    "uvp": 1.89,
-    "attributes": "<ul><li>Allzweckdübel für sichere Befestigungen</li><li>schnelle und einfache Installation</li><li>hochwertige Konstruktion für Stabilität</li><li>zuverlässige Befestigungslösung</li><li>unauffällige Lösung für stilvolle Badezimmer<br/></li></ul>"
-}

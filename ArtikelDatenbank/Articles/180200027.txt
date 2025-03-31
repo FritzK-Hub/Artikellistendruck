@@ -1,4 +1,0 @@
-{
-    "uvp": 21.29,
-    "attributes": "<ul><li>entfernt schwerwiegende Ablagerungen</li><li>verhindert Motorschäden durch Überhitzung</li><li>schützt das Kraftstoffsystem vor Rost</li><li>stellt ursprüngliche Motorleistung wieder her</li><li>senkt Abgaswerte und Kraftstoffverbrauch</li></ul>"
-}

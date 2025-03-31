@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>zuverlässige Haftung auf den verschiedensten Oberflächen</li><li>vielseitige Anwendung bei Bastelprojekte oder Reparaturen</li><li>schnelle Trocknungszeit innerhalb weniger Minuten</li><li>für eine dauerhafte und starke Verbindung</li><li>einfach in der Handhabung, lässt sich präzise dosieren<br/></li></ul>"
-}

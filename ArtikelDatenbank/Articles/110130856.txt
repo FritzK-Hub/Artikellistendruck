@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Anschraubplatte Legtop mit M10 Gewinde</li><li>aus pulverbeschichtetem, schwarzem Stahl gefertigt</li><li>dient als Verbindungselement von Tischplatte mit optionalen Tischbeinen </li><li>auch zum Anbringen von Rollen geeignet</li><li>inklusive benötigtes Befestigungsmaterial<br/></li></ul>"
-}

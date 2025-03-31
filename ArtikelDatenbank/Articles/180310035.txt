@@ -1,4 +1,0 @@
-{
-    "uvp": 26.95,
-    "attributes": "<ul><li>2-lagige Putztuchrolle mit 500 Blatt</li><li>besonders nassfest, langlebig und saugfähig</li><li>lebensmittelecht und recycelbar </li><li>für Haushalt, Industrie und Werkstatt geeignet</li><li>im praktischen 2er Pack <br/></li></ul>"
-}

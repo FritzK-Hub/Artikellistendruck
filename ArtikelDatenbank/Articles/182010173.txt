@@ -1,4 +1,0 @@
-{
-    "uvp": 16.49,
-    "attributes": "<ul><li>10 kg Holzkohle</li><li>ökologische Herstellung, kein Tropenholz</li><li>einfach und sauber zu handhaben</li><li>langhaltende Glut, gleichmäßige Hitze</li><li>leicht anbrennbar<br/></li></ul>"
-}

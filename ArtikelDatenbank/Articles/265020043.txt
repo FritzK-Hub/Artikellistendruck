@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Tischband rechteckig mit 180° Öffnungsweite</li><li>aus robustem A2 Edelstahl gefertigt</li><li>für die Wandmontage geeignet</li><li>der Stahl besitzt eine dicke von 1,5 mm</li><li>8 Bohrlöcher für zusätzliche Stabilität<br/></li></ul>"
-}

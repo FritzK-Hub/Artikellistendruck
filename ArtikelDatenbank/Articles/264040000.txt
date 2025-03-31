@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Putzhaken mit Vierkantprofil</li><li>Ausführung grau lackiert</li><li>Verputzhaken aus Metall</li><li>Länge Nagel ca. 160 mm</li><li>Stärke Vierkant ca. 8 mm</li></ul>"
-}

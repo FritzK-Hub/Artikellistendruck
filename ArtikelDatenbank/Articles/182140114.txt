@@ -1,4 +1,0 @@
-{
-    "uvp": 59.99,
-    "attributes": "<ul><li>Fahrradhelm Urban Plus Brooklyn in der Größe S/M</li><li>passend für einen Kopfumfang von 52 bis 59 cm</li><li>mit robuster Polycarbonat-Schale und fester EPS-Innenschale</li><li>Reflexstreifen, großes Rücklicht und reflektierendes Gurtsystem für mehr Sichtbarkeit</li><li>auch zum Inlineskaten oder Skateboarden verwendbar<br/></li></ul>"
-}

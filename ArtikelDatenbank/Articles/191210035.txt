@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Feuerkorb quadratisch in schwarz-matt</li><li>für gemütliche Stunden am Feuer</li><li>aus massivem, pulverbeschichtetem Stahl in schwarz-matt gefertigt</li><li>schwere Bodenplatte sorgt für einen sicheren Stand</li><li>auch große Holzstücke kannst du gefahrenlos hinzugegeben</li></ul>"
-}

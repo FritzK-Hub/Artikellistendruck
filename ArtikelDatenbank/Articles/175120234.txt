@@ -1,4 +1,0 @@
-{
-    "uvp": 13.69,
-    "attributes": "<ul><li>Radiolot EL 334 bleifrei von CFH</li><li>für allgemeine Lötarbeiten an Kupfer (Legierungen).</li><li>flussmittelgefüllt für Feinlötungen</li><li>bei Klempnerarbeiten und Fernmeldebau einsetzbar</li><li>enthält Kolophonium<br/></li></ul>"
-}

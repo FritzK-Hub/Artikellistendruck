@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>hochwertiges Kiefernholz für natürliche Optik</li><li>einfache Befüllung durch seitliche Öffnungen</li><li>Schutz vor Wetter dank robustem Dach</li><li>stabiler Haken zur sicheren Aufhängung</li><li>ideal zum Bemalen für kreative Kinder</li></ul>"
-}

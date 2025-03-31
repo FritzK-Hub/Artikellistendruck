@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Gitter zum Abstreifen überschüssiger Farbe</li><li>sorgt für gleichmäßigen Farbauftrag</li><li>mit Bügelgriff und Biegestreifen zum Einhängen</li><li>geeignet für Farbwalzen, Lackierwalzen, Lasurwalzen</li><li>aus verzinktem Metall</li></ul>"
-}

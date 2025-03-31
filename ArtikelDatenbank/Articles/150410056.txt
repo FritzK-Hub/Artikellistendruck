@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Glasheber aus stabilem Stahl gefertigt</li><li>zum Einsetzen &amp; Herausheben von heißen Einmachgläsern</li><li>schützt deine Finger vor Verbrennungen</li><li>rutschfeste Kunststoffummantelung für alle Einmachgläser geeignet</li><li>passendes Zubehör für Hobbyköche und für die Gastronomie<br/></li></ul>"
-}

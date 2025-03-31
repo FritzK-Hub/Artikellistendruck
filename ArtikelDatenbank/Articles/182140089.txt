@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Fahrradflasche 700 ml</li><li>aus lebensmittelechtem Kunststoff</li><li>geschmacksneutral</li><li>mit Saugnippel, Schutzdeckel und Schraubverschluss</li><li>Griffmulden mit Noppen</li></ul>"
-}

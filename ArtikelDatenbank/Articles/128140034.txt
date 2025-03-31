@@ -1,4 +1,0 @@
-{
-    "uvp": 239.95,
-    "attributes": "<ul><li>luxuriöser, 6-eckiger Pavillon</li><li>3,20 m Durchmesser</li><li>wasserdichte Dachbespannung</li><li>stabiles Stahlgestell</li><li>Ecru-farben</li></ul>"
-}

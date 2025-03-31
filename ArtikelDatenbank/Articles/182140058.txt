@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Fahrrad-Sattel für Mountainbikes</li><li>optimale Körperanpassung</li><li>fördert aktiv die Gesundheit</li><li>Memory Foam Schaumeinlage</li><li>optimaler Federungskomfort</li></ul>"
-}

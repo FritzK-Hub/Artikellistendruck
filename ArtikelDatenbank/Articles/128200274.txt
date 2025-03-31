@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>hochwertige Duftkerze im Betonglas</li><li>aus echtem Wachs auf Zitrolen-Öl-Basis gefertigt</li><li>spendet gemütliches Kerzenlicht </li><li>ideal zur Tischdekoration im Garten oder Balkon</li><li>hält Mücken auf natürliche Art und Weise fern<br/></li></ul>"
-}

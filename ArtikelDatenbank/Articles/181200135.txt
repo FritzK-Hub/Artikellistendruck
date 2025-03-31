@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Rettich für ca. 8 - 10 laufende Meter</li><li>weißes, festes Fruchtfleisch</li><li>bis 3 Monate lagerfähig</li><li>Probefeldgetestete Qualität</li><li>hoher Vitamingehalt</li></ul>"
-}

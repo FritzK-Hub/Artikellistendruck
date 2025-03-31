@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li>mit fünf verschiedenen Strahlvarianten</li><li>mit praktischem Einstellring </li><li>langlebige Materialien</li><li>sichere Konusverbindung</li><li>wirksames Anti-Kalk-System<br/></li></ul>"
-}

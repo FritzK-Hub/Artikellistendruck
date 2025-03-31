@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Anzucht-Starterpaket 86-teilig</li><li>das Set besteht aus verschiedenen Pflanzschalen</li><li>ideal zum Vortreiben von Sämereien</li><li>inklusive Pflanzschilder<br/></li><li>zum Pikieren geeignet</li></ul>"
-}

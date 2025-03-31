@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Blumenkohl Snowball, für ca. 60 Pflanzen</li><li>ideal für den Anbau im Freiland geeignet</li><li>überzeugt mit mittelgroßen, festen Kohlköpfen</li><li>bringt bereits früh in der Saison köstliche Ernten hervor</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

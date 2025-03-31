@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>20 Liter Blumenerde, torfreduziert</li><li>für Grün- und Blühpflanzen</li><li>für alle Zimmper- und Balkonpflanzen</li><li>mit nachwachsenden Rohstoffen</li><li>zum Wachsen, Blühen, Ernten und Schützen</li></ul>"
-}

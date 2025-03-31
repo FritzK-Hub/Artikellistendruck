@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>5er Set</li><li>Korn: 120</li><li>mit Klettbefestigung</li></ul>"
-}

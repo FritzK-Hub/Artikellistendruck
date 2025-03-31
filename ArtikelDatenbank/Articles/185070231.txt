@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Schaufelblatt aus Kunststoff in Rot</li><li>Stiel aus robustem Holz gefertigt<br/></li><li>für Kinder ab 3 Jahren geeignet</li><li>sehr leicht in der Handhabung</li><li>geeignet zum Bau eines Schneemannes<br/></li></ul>"
-}

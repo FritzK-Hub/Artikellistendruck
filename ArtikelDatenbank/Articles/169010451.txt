@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>vier Antirutsch-Punkte für rutschgefährdete Zonen</li><li>sorgen für mehr Sicherheit in deinem Haushalt</li><li>einfach auf die gewünschte Stelle kleben</li><li>für mittlere bis hohe Beanspruchung</li><li>geeignet für Treppen, Fliesenböden, Leitern und Rampen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>für intensive Blütenpracht</li><li>gesteigerte Widerstandsfähigkeit</li><li>zusätzlicher Magnesiumgehalt</li><li>gesunde, kräftige und vitale Rosen</li><li>einfache Anwendung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 43.0,
-    "attributes": "<ul><li>Zaunpfosten mit Klemmlasche für Doppelstab-Gittermatten</li><li>aus sendzimirverzinktem und kunststoffbeschichtetem Stahl</li><li>Befestigungsabstand von 400 mm für stabilen Mattenhalt</li><li>passend für Mattenhöhe 80 cm</li></ul><ul><li>zum einfachen Einbetonieren</li></ul>"
-}

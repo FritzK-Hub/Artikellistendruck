@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>WC-Sitz aus Bambus in Holzoptik</li><li>mit Edelstahlscharnieren</li><li>pflegeleichter Toilettensitz mit langer Lebensdauer</li><li>inklusive Montagematerial</li><li>passend zu allen handelsüblichen WC-Becken</li></ul>"
-}

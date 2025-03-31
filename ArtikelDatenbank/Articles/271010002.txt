@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>19-teiliges HSS Bohrer Set von GERMANIA®</li><li>mit Kreuzanschliff</li><li>kein Vorkörnern nötig</li><li>ideal für härteste Beanspruchung (Verwendung von Bohrmittel)</li><li>Metallbohrer für das Bohren von legierten und nicht legierten Stählen</li></ul>"
-}

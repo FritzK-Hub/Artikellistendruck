@@ -1,4 +1,0 @@
-{
-    "uvp": 27.99,
-    "attributes": "<ul><li>stilvolles Design, fügt sich ideal in deine Wohneinrichtung ein</li><li>für schöne Lichtakzente im Wohn- oder Außenbereich</li><li>vielseitig einsetzbare Innen- und Außenbeleuchtung</li><li>mit 125 warmweißen LEDs für coole Effekte versehen</li><li>mit integrierter Timerfunktion von sechs Stunden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>solarbetriebenes Grablicht aus rotem Kunststoff </li><li>bringt Grabschmuck oder Dekorationen zur Geltung<br/></li><li>dank Solarpaneels unabhängig von Stromquellen</li><li>eine praktische und umweltfreundliche Grabdekoration<br/></li><li>einfache, schnelle Installation dank Erdspieß<br/></li></ul>"
-}

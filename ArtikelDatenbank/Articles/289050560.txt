@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Griff-Profil aus eloxiertem Aluminium mit abgerundeter Griffkante</li><li>z. B. als Griffleiste für Schubladen, Auszüge oder Türen verwendbar <br/></li><li>Länge: ca. 100 cm</li><li>Maße Profil (a,b): 25, 19 mm</li><li>Materialstärke: 2 mm</li></ul>"
-}

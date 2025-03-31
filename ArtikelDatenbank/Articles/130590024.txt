@@ -1,4 +1,0 @@
-{
-    "uvp": 49.0,
-    "attributes": "<ul><li>4in1-Funktion: Sprühen, Bürsten, Reinigen, Absaugen</li><li>effiziente Tiefenreinigung für Polster, Kissen, Teppiche, Autositze usw.</li><li>mit Sprühfunktion für gleichmäßigen Reinigungsmittelauftrag<br/></li><li>passend für alle handelsüblichen Nass- und Trockensauger</li><li>einfache und werkzeuglose Montage</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Gartengeräte in verschiedenen Ausführungen</li><li>Grubber für anspruchsvolle Bodenarbeiten</li><li>Gartenrechen mit 7 Zinken zum Einebnen und Glätten</li><li><em>Gartenschaufel zum Abtragen von Erdmassen</em></li><li>praktischer Alu-Teleskopstiel für rückenschonende Arbeit</li></ul>"
-}

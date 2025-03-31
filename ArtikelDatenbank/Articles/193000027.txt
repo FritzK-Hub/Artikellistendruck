@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>kühlende Gelmatte für Haustiere</li><li>spendet den Haustieren ein angenehmes Gefühl</li><li>für kleine Haustiere geeignet</li><li>aus PVC, leicht zu reinigen</li><li>zusammenklappbar für platzsparende Lagerung</li></ul><p></p>"
-}

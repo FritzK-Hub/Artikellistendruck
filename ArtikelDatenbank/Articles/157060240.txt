@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>gebrauchsfertige Holzkittmasse</li><li>Lösemittelfrei und umweltfreundlich</li><li>füllt und glättet mühelos Oberflächen</li><li>ideal für Innen- und Außenanwendungen</li><li>überstreichbar für individuelle Gestaltung<br/></li></ul>"
-}

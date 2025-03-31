@@ -1,4 +1,0 @@
-{
-    "uvp": 2.0,
-    "attributes": "<ul><li>zum Anzünden von Zigaretten, Kerzen und Grills</li><li>in verschiedenen, ausgefallenen Motiven erhältlich</li><li>Reibrad sorgt für eine schnelle und einfache Zündung</li><li>Drehkopf dient auch als Stopfwerkzeug für Feinschnitttabak</li><li>schnell und einfach mit Feuerzeugbenzin nachfüllbar<br/></li></ul>"
-}

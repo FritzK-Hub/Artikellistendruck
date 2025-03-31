@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>GERMANIA® T25 Bits 3 Stück mit TX Innensechsrund Antrieb</li><li>aus hochwertigem S2 Stahl</li><li>geeignet für alle gängigen Bithalter</li><li>zur Verwendung mit Ratschenschraubendreher und Akkuschrauber</li><li>Bit zum Befestigen von T-Profil Schrauben<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 16.69,
-    "attributes": "<ul><li>LIQUI MOLY Motorenöl Special Tec für Benzin- und Dieselmotoren</li><li>speziell entwickelt für die Anfroderung von modernen Fahrzeugen von Ford</li><li>modernes Leichtlaufmotoröl für Turbomotoren und Dieselpartikelfilter (DPF)</li><li>hohe Schmiersicherheit und Motorsauberkeit</li><li>basierend auf HC-Syntheseölen<br/></li></ul>"
-}

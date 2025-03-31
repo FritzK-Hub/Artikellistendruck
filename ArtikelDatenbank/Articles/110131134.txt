@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Schwerlastregal aus robustem Stahl</li><li>ideal für deine Werkstatt, Keller oder Garage</li><li>verfügt über eine Gesamttraglast von 875 kg</li><li>5 MDF Böden mit je 175 kg Traglast höhenverstellbar</li><li>simples Stecksystem für einfaches auf- oder abbauen</li></ul>"
-}

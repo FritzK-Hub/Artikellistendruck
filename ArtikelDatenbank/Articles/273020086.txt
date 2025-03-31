@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>hochwertiger S2-Stahl für Langlebigkeit und Widerstandsfähigkeit</li><li>vielseitige Verwendbarkeit für gängige Bithalter und Schraubendreher</li><li>effizientes Arbeiten dank einfachem Befestigen und Lösen</li><li>robuste Ausführung für anspruchsvolle Aufgaben</li><li>praktische und handliche Größe zur Verwendung in engen Arbeitsbereichen<br/></li></ul>"
-}

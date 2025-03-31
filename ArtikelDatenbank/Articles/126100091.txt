@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Akku-Laubbläser 20 V von YARD FORCE<br/></li><li>dient zum Zusammentragen von Blättern und Laub</li><li>max. Blasgeschwindigkeit von bis zu 200 km/h</li><li>erreicht auch problemlos schwer zugängliche Stellen</li><li>ergonomisches Design und Softgriff für angenehmen Komfort<br/></li></ul>"
-}

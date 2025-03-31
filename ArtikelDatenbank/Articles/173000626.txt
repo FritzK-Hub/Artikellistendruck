@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>LED-Spotlampe aus robustem Metall, besonders widerstandsfähig</li><li>für klare und ausreichende Beleuchtung innerhalb deiner Räume</li><li>beide Leuchten lassen sich individuell drehen und neigen</li><li>vielseitig für Wohnräume, Esszimmer oder Küche einsetzbar</li><li>modernes Design fügt sich harmonisch in deine Wohnstile ein</li></ul>"
-}

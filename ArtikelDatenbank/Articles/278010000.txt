@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>GERMANIA® Schieblehre matt verchromt</li><li>blendfreie Ablesung möglich</li><li>geeignet für Innen-, Außen- und Tiefenmessungen</li><li>hohe Messgenauigkeit</li><li>Fixierschraube für die Messbacken</li></ul>"
-}

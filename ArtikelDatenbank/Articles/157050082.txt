@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Markierspray in verschiedenen Farbtönen</li><li>haftet auch auf feuchten Untergründen</li><li>nicht explosionsgefährlich</li><li>nicht selbstentzündlich</li><li>mit Wasser vollständig mischbar</li></ul>"
-}

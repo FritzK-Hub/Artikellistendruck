@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>11-teiliges Lackierwalzen-Set</li><li>professionelle Ergebnisse</li><li>vielseitige Anwendung</li><li>passgenauer Bügel</li><li>mit Plüsch- und Schaumwalzen</li></ul>"
-}

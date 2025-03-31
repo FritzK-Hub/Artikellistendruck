@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Kreissägeblätter für Maxx Saw Sägen</li><li>Zuschnitte für z.B. Holz, Aluminium, Ziegeln, Kunststoff oder Laminat</li><li>ideal für härteste Beanspruchung</li><li>mehrfach höhere Standzeit für problematische Werkstoffe</li><li>hohe Schnittqualität und geringe Belastung des zu schneidenden Materials</li></ul>"
-}

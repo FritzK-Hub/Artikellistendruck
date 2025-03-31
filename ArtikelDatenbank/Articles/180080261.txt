@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>praktische Beeteinfassung aus Kunststoff</li><li>dekorative Abgrenzung für Wege und Beete</li><li>einfach zu montieren</li><li>mehrere Beeteinfassungen miteinander verbindbar</li><li>besonders witterungsbeständig<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>hohe Frostfestigkeit</li><li>vielseitige Verwendung</li><li>beeindruckendes Nährstoff- und Vitaminprofil</li><li>einfache Pflege</li><li>lang anhaltende Ernte<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Spinat Matador</li><li>große, dunkelgrüne, kurzgestielte Blätter</li><li>winterfest und schnellwachsend</li><li>Probefeldgetestete Qualität</li><li>auch als Frühkultur im Gewächshaus<br/></li></ul>"
-}

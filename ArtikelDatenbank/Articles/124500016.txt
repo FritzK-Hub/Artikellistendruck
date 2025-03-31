@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>moderne Gießkanne Giraffe mit 1,5 Liter</li><li>durch dekoratives Design ein echter Hingucker</li><li>mit extra langer Tülle in organischer Form</li><li>breite Öffnung für leichtes Befüllen</li><li>handlich und leicht<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Rollschneider 45 mm in rot-schwarz von GERMANIA®</li><li>ideal für präzise Schnitte bei Renovierungsarbeiten</li><li>auch zum Schneiden von Papier, Karton oder Folie geeignet</li><li>liegt dank ergonomischem Griff gut in der Hand</li><li>Klinge kommt nur durch zusammendrücken des Griffes zum Vorschein<br/></li></ul>"
-}

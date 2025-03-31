@@ -1,4 +1,0 @@
-{
-    "uvp": 149.99,
-    "attributes": "<ul><li>Parkbank aus massiven Tannenholz bis 120 kg<br/></li><li>bietet Platz für bis zu drei Personen</li><li>gusseiserne Beine sorgen für Stabilität</li><li>Gartenbank mit Rückenlehne</li><li>handwerklich gut verarbeitete Bank mit schlichtem Design<br/></li></ul>"
-}

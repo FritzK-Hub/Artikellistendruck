@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Suppenschüsseln 0,5 Liter</li><li>geschmacks- und geruchsneutral</li><li>mikrowellengeignet</li><li>Einwegartikel </li><li>ideal für Gastronomie bzw. Großverbraucher</li></ul><p></p>"
-}

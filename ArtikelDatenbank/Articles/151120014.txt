@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>stark wärmender Pferdebalsam von WUNDmed </li><li>zur Unterstützung der Muskelregeneration</li><li>zieht schnell ein, pflegt und entspannt</li><li>für Haut und Muskulatur</li><li>nach anstrengender körperlicher Arbeit oder sportlichen Aktivitäten<br/><br/></li></ul>"
-}

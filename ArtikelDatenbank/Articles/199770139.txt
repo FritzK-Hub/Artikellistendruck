@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>kantige Flügelschraube M8 x 40 mm</li><li>mit amerikanischer Form</li><li>aus galvanisch verzinktem Stahl</li><li>nach DIN 316</li><li>ideal für Verbindungen die oftmals gelöst werden müssen<br/></li></ul>"
-}

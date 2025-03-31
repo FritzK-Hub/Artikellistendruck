@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Speisemöhre Nantaise 2, für ca. 12–15 lfd. Meter</li><li>eine mittelfrühe Freilandsorte mit glatten, walzenförmigen Früchten<br/></li><li>sind süße Qualitätsmöhren mit dunkelrotem Fleisch</li><li>ideal für den Frischverbrauch oder zum Einfrieren</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

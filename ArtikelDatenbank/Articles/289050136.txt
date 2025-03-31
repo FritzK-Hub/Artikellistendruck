@@ -1,4 +1,0 @@
-{
-    "uvp": 6.35,
-    "attributes": "<ul><li>U-Profil aus eloxiertem Aluminium</li><li>z. B. zur Anfertigung von Rahmen</li><li>als Abschlussleiste und Kantenschutz</li><li>Länge: ca. 100 cm</li><li>Materialstärke: 1,5 mm</li></ul>"
-}

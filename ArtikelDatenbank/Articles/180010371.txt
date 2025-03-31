@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Rhododendrondünger im 2,5 kg Karton</li><li>pflanzengerechte und ausgewogene Nährstoffrezeptur</li><li>Mischung ist besonders Magnesiumbetont</li><li>eignet sich auch für Azaleen, Fuchsien, Hortensien sowie Eriken</li><li>für intensiv blühende und gesunde Rhododendron<br/></li></ul>"
-}

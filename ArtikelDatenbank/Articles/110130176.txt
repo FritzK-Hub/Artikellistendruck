@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Zubehör für verschiedene Innenlauf-Schienensysteme</li><li>besonders stabil und langlebig, aus robustem Kunststoff gefertigt</li><li>einfach in der Handhabung, werden unkompliziert in das Falten- oder Kräuselband eingehängt</li><li>sorgen für sicheren Halt der Gardinen an der Gardinenschiene</li><li>schlichtes und zeitloses Design, vielseitig in jeder Raumgestaltung einsetzbar<br/></li></ul>"
-}

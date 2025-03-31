@@ -1,4 +1,0 @@
-{
-    "uvp": 4.29,
-    "attributes": "<ul><li>Saugkorb aus feinmaschigem, rostfreiem Edelstahlgitter</li><li>mit Kunststoffgewinde<br/></li><li>hält grobe Schmutzpartikel zurück</li><li>Teil des Zwischenventils das den Rückfluss verhindert</li><li>einfacher und schneller Austausch möglich</li></ul>"
-}

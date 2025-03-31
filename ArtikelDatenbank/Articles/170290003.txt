@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>LED-Flaschenkorken mit Lichterkette aus Kunststoff</li><li>ist mit acht warmweißen LED versehen</li><li>ideal zum Dekorieren von Flaschen jeglicher Art</li><li>schafft eine weihnachtliche Atmosphäre</li><li>inklusive Timerfunktion und 3 x LR44 Knopfzellen<br/></li></ul>"
-}

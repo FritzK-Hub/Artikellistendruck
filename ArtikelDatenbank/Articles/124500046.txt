@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>praktische Gießkanne aus silbernem Kunststoff</li><li>mit abnehmbarer Brause</li><li>10 Liter Fassungsvermögen</li><li>ideal für Haus und Garten</li><li>breite Öffnung erleichtert das Befüllen<br/></li></ul>"
-}

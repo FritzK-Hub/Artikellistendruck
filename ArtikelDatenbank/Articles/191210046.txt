@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>dekorative Feuerschale aus hitzefestem Metall<br/></li><li>verwendbar als Wärmefeuer für kuschlige Stunden</li><li>Griffe erleichtern das Transportieren</li><li>für einen sicheren Stand sorgen 4 Standfüße</li><li>ideal für Balkon, Terrasse oder Garten</li></ul><p></p>"
-}

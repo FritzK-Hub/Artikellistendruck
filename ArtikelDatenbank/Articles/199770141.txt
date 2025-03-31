@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>robuste Goldleistenstifte 50 Stück ohne Kopf</li><li>aus stabilem, massivem Metall gefertigt</li><li>zum Einschlagen in Holz- oder Tapetenleisten</li><li>ideal zur Fixierung von Zierleisten an Möbeln</li><li>bei Renovierungs- und Bauarbeiten einsetzbar<br/></li></ul>"
-}

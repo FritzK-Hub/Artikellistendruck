@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>streifen- und fusselfreie Reinigung<br/></li><li>Farbcodierung für hygienische Sauberkeit</li><li>schonend zu Oberflächen, weich in der Hand</li><li>hohe Saugfähigkeit schafft gründliche Ergebnisse</li><li>vielseitig für Haushalt und Auto</li></ul>"
-}

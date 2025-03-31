@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Schraubendreher aus S2 Stahl</li><li>kurze Ausführung, nur 100mm lang</li><li>ideal für beengte Platzverhältnisse</li><li>mit magnetischem Schraubenkopf</li><li>Griff rutschfest gummiert</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>selbstklebendes Türschild</li><li>mit silbernen Hintergrund</li><li>blaue Beschriftung</li><li>mit Schriftzug und Symbol \"Damen\"</li></ul>"
-}

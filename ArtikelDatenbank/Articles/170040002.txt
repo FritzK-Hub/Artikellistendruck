@@ -1,4 +1,0 @@
-{
-    "uvp": 8.4,
-    "attributes": "<ul><li>zum exakten Sägen von kleineren Werkstücken wie Leisten und Rohre</li><li>feine Verzahnung sorgen für optimale Schnittergebnisse</li><li>höhere Stabilität und längere Haltbarkeit dank verstärktem Rückenteil</li><li>vielseitig einsetzbar, besonders für Schnittkanten von 45 und 90 Grad</li><li>integrierte Führungsrillen sorgen für eine einfache Handhabung<br/></li></ul>"
-}

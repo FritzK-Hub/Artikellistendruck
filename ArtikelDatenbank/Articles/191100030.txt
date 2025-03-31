@@ -1,4 +1,0 @@
-{
-    "uvp": 43.95,
-    "attributes": "<ul><li>stabile Konstruktion mit 3 Luftringen</li><li>extra breite Seitenwände</li><li>Muster auf den Außenwänden</li><li>mit drei Schnellablassventilen</li><li>aus strapazierfähigem PVC</li></ul>"
-}

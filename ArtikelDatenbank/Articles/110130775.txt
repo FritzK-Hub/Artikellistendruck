@@ -1,4 +1,0 @@
-{
-    "uvp": 3.89,
-    "attributes": "<ul><li>Regalsystem-Endstopfen aus Kunststoff in Grau</li><li>zum Abschluss beidseitig offener Kleiderstangen</li><li>optimal wenn die Kleiderstange in Träger eingehängt wird</li><li>passend für Stangen mit 35 x 20 mm</li><li>verhindern das Runterrutschen deiner Kleiderbügel</li></ul>"
-}

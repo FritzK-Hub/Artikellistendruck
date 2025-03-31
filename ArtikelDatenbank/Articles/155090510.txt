@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>Antennensteckdose</li><li>geeignet für digitales Fernsehen (DVB-T)</li><li>Antennen-Steckdose für Radio/TV/DVB-T Empfang</li><li>Unterputzmontage</li><li>kein zusätzlicher Rahmen nötig<br/></li></ul>"
-}

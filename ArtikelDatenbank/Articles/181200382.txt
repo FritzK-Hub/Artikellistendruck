@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Fleischtomate Ikarus für ca. 50 Pflanzen</li><li>ist eine ertragreiche, frühreifende Tomatensorte</li><li>mit sehr großen, runden und schnittfesten Früchten</li><li>ideal für den Frischverzehr oder für Salate geeignet</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Eiskugelbeutel für 360 Kugeln</li><li>bequeme Einzelentnahme</li><li>geschmacksneutral</li><li>unkomplizierte Eiswürfelherstellung</li><li>leicht zu befüllen</li></ul>"
-}

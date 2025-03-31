@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>voll bewegliche Gliederhand aus Holz</li><li>hochwertige Verarbeitung</li><li>naturgemäße Maße und Proportionen entsprechend der Hand eines Erwachsenen</li><li>ideal als Modellhand für Designer, Maler und Künstler</li><li>kann verschiedene Posen einnehmen</li></ul>"
-}

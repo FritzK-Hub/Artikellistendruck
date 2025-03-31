@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>hoher Ertrag für maximale Futterversorgung</li><li>ganzheitlich als Futter einsetzbar</li><li>lange Lagerfähigkeit der geernteten Rüben</li><li>ideal für nachhaltige Landwirtschaft geeignet</li><li>einfach anzubauen, auch für Einsteiger</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>zuverlässiger Feuerlöscher nach DIN EN3</li><li>mit ABC-Pulver und Manometer</li><li>einfache Handhabung</li><li>witterungsbeständiger Behälter</li><li>inklusive praktischer Halterung<br/><br/></li></ul>"
-}

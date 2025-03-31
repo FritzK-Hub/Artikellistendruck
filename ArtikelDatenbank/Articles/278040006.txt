@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Maßband mit 5 m metrischem Band</li><li>automatische Stoppfunktion</li><li>Rückholfunktion über Arretierknopf</li><li>Gehäuse mit Softgrip-Gummibeschichtung</li><li>inklusive Gürtelclip</li></ul>"
-}

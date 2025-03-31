@@ -1,4 +1,0 @@
-{
-    "uvp": 249.0,
-    "attributes": "<ul><li>Echtzeit-LED-Anzeige der Luftqualität durch Partikelsensor</li><li>verschiedene Filterstufen zur effektiven Reinigung von Staub, Pollen, Bakterien, Viren und anderen Partikeln</li><li>Luftleistung von 160 m³/h für schnelle und effiziente Luftreinigung in Räumen bis zu 25 m²</li><li>Steuerung per Touchpanel oder Fernbedienung</li><li>Ionisierungsfunktion ein- oder ausschaltbar</li></ul>"
-}

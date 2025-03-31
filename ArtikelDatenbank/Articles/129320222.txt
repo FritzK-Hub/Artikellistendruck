@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>ausgezeichnete Standfestigkeit</li><li>vielseitige Verwendung</li><li>fadenlose Hülsen</li><li>optimale Bodenverbesserung</li><li>anpassungsfähiger Anbau<br/></li></ul>"
-}

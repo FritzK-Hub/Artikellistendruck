@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>sichere Schnittstelle mit verschlüsselter  Kommunikation<br/></li><li>besitzt eine Reichweite von 70 m in alle Richtungen</li><li>einfache Integration in Smart Home-Systeme</li><li>kompatibel mit Google Home und Amazon Alexa</li><li>über Sprachsteuerung oder App steuerbar</li></ul>"
-}

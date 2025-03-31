@@ -1,4 +1,0 @@
-{
-    "uvp": 159.95,
-    "attributes": "<ul><li>dekorative Feuerschale aus massivem Stahl</li><li>für gemütliche Stunden am Feuer, auf Balkon, Terrasse, Garten, Campingplatz usw.</li><li>Feuerschale mit vier fest verschweißten Beinen</li><li>auch für die Gartendekoration geeignet</li><li>mit zwei praktischen Griffen</li></ul><p></p>"
-}

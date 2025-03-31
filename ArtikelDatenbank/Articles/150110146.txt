@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Reifenpannenspray versiegelt Reifenpannen und pumpt den Reifen auf ohne Demontage des Rades</li><li>mit Schlauch zur leichteren Handhabung</li><li>für die kurzfristige Abhilfe im Pannenfall</li><li>fertig für den sofortigen Einsatz</li><li>Füllmenge für einen PKW-Reifen ohne Schlauch bis 41 cm (16 Zoll)</li></ul>"
-}

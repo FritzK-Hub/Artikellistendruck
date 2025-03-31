@@ -1,4 +1,0 @@
-{
-    "uvp": 2999.0,
-    "attributes": "<ul><li>La Nordica Küchenherd ROSA, moderne Heiztechnik </li><li>Herd mit Kachelverkleidung, nostalgisches Design<br/></li><li>dekorative Chromreling und Thermometer </li><li>herausnehmbare Kochringe an der Herdplatte</li><li>Feuerraum aus robustem Gusseisen</li></ul>"
-}

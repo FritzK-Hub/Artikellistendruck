@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>präzise Schnitte</li><li>bequeme Handhabung</li><li>hohe Vielseitigkeit</li><li>langlebige Konstruktion</li><li>passgenaue Stielaufnahme</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>Kastenaufschraubschloss GERA KAS-PZ 55 mm</li><li>passend für Profil-Schließzylinder (nicht im Lieferumfang)</li><li>mit Aussparung für Profil-Schließzylinder</li><li>für rechts- und links-hängende Türen</li><li>mit Beschlag und Schließblech</li></ul>"
-}

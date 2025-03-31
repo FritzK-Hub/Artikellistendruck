@@ -1,4 +1,0 @@
-{
-    "uvp": 6.29,
-    "attributes": "<ul><li>hervorragende Wärmeisolierung</li><li>selbstklebende Rückseite</li><li>vielseitige Anwendung</li><li>großzügige Länge</li><li>hochwertige Materialien<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>robuster Mülleimer mit Schwingdeckel</li><li>aus strapazierfähigem Kunststoff in Silber gefertigt</li><li>für mehr Ordnung im Bad, Küche oder Büro</li><li>verfügt über ein Fassungsvermögen von ca. 10 Liter</li><li>platzsparend im Design, passt in jede Ecke<br/></li></ul>"
-}

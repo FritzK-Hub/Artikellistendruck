@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>UV-beständiger Pflanztopf Rato Low in anthrazit</li><li>mit Einsatz zum einfacheren Bepflanzen</li><li>aus hochwertigem Kunststoff</li><li>zum direkten Bepflanzen geeignet</li><li>eckiger Blumenkübel in Rattan-Optik<br/></li></ul>"
-}

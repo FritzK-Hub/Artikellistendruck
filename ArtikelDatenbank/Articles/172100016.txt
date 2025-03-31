@@ -1,4 +1,0 @@
-{
-    "uvp": 49.99,
-    "attributes": "<ul><li>einfache Smart-Home-Integration ohne zusätzlichen Hub</li><li>Steuerung über App oder Sprachbefehl</li><li>kompatibel mit allen Matter-fähigen Systemen</li><li>Außensteckdose wetterfest und robust für Outdoor-Einsatz</li><li>programmierbare Zeitschaltuhr spart Energie und Kosten</li></ul>"
-}

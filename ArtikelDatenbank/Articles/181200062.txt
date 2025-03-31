@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>gleichmäßige Aussaat dank praktischem Saatband</li><li>winterhart und ideal als Wintergemüse</li><li>gesund mit vielen Vitaminen</li><li>vielseitig verwendbare, zarte Spinatblätter</li><li>für Freiland- und Gewächshausanbau geeignet</li></ul>"
-}

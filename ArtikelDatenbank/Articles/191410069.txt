@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Bestway Luftmatratze im Wassermelonen-Design </li><li>ist aus stabilem Vinyl gefertigt</li><li>ein echter Blickfang auf jedem Pool oder Badesee</li><li>die beiden Luftkammer sorgen für mehr Komfort</li><li>inklusive Reparaturflicken<br/></li></ul>"
-}

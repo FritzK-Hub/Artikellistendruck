@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>langlebige Dekoration ohne Pflegeaufwand</li><li>perfekt für hohe Vasen geeignet</li><li>vielseitig kombinierbar und individuell gestaltbar</li><li>natürliche Farben für jede Jahreszeit</li><li>passen perfekt in jeden Raum</li></ul>"
-}

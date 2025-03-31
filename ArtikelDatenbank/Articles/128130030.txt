@@ -1,4 +1,0 @@
-{
-    "uvp": 197.95,
-    "attributes": "<ul><li>leichte und komfortable Gartenliege</li><li>hochwertig verarbeitet und wetterfest</li><li>Bespannung aus Textilgewebe</li><li>5-fach verstellbares Rückenteil</li><li>extra hoher Einstieg<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>effiziente Reinigung</li><li>vielseitige Anpassung</li><li>robuste Konstruktion</li><li>leichte Manövrierbarkeit</li><li>großzügiges Fassungsvermögen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 109.0,
-    "attributes": "<ul><li>leistungsstarke Doppelschleifmaschine mit Induktionsmotor</li><li>kugelgelagerte Schleifachsen für lange Lebensdauer</li><li>stabiles Metallgehäuse mit seitlich geschlossenen Schutzhauben und verstellbaren Arbeitsauflagen</li><li>verstellbarer LED-Arbeitsleuchte und Schublade</li><li>mit 2 Schutzscheiben (1x mit Lupe)<br/></li></ul>"
-}

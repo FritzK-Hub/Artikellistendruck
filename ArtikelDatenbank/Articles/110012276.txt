@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>flexibler Schlauch für vielseitige Anwendungsmöglichkeiten</li><li>integrierter Strahlregler für individuellen Wasserfluss</li><li>M22-Gewinde für einfache Befestigung</li><li>verchromtes Metall für Robustheit</li><li>130 mm Länge für Flexibilität<br/></li></ul>"
-}

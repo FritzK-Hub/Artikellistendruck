@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Saatgut Stangenbohnen Neckargold GS für ca. 15 Stangen</li><li>schmale, ovale, mittelgelben und bis zu 22 cm langen Hülsen</li><li>sind sehr ertragreich und Widerstandsfähigkeit gegen Mosaikvirus</li><li>auch als Brech- oder Schnittbohnen verwendbar</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

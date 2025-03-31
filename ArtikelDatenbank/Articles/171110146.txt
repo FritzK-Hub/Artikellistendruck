@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>nachhaltige Oberflächenveredelung</li><li>hochglänzender Überzug</li><li>vielseitig einsetzbar</li><li>einfache Anwendung</li><li>natürliche und elegante Note<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>aus Chrom-Vanadium-Stahl hergestellt</li><li>matt polierte und satinierte Oberfläche</li><li>lange Lebensdauer im täglichen Werkstatteinsatz</li><li>Schrauben und Mutter können mühelos gelöst oder angezogen werden</li><li><strong></strong>auch für schwer erreichbare Stellen geeignet</li></ul>"
-}

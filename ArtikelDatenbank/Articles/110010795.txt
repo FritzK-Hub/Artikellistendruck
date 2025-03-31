@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>zuverlässige Abwasserableitung für Sanitäranlagen</li><li>hitzebeständig bis 90°C</li><li>einfache Montage durch Steckverbindung</li><li>verhindert Ablagerungen und Verstopfungen</li><li>reduziert störende Fließgeräusche</li></ul>"
-}

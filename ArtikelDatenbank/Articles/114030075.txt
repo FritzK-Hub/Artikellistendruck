@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>100 Einweg Gabeln</li><li>extra stabil und robust</li><li>ideal für Party oder Picknick</li><li>aus weißem Kunststoff</li><li>lebensmittelecht</li></ul>"
-}

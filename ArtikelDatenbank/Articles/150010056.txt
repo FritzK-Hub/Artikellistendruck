@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Topfreiniger-Set 10 Stück für Töpfe oder anderen Küchenutensilien</li><li>beseitigt grobe und feine Verschmutzungen oder Angebranntes</li><li>mit saugstarker, weicher Schwammseite</li><li>die Scheuerseite löst einfacher den Schmutz</li><li>Set besteht aus 10 verschiedenfarbigen Schwämmen<br/></li></ul>"
-}

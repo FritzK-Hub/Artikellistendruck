@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>für Holz, Stein und Metall im Innen- und Außenbereich</li><li>tiefenwirksam und kraftvoll</li><li>lange Offenzeit und als Tauchbad einsetzbar</li><li>pastöses und wasseremulgierbares Abbeizmittel</li><li>milder Geruch und geringe Ablaufneigung<br/></li></ul>"
-}

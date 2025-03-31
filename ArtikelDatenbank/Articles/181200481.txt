@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Sämereien aus Erfurt, unser Aussaattipp Gemüsepaprika</li><li>Aussaat für den kommenden Frühling</li><li>frühreifende, wohlschmeckende und milde Paprika</li><li>besonders für den Frischverzehr, aber auch zur Konservierung geeignet</li><li>eine der besten Sorten für den ungeschützten Freilandanbau<br/></li></ul>"
-}

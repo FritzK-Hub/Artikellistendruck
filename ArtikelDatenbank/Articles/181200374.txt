@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Radicchio Palla rossa 2 für ca. 40 Pflanzen</li><li>rotblättrige Köpfe mit hellen Rippen versehen</li><li>Salatspezialität für Rohkosten oder kalten Platten</li><li>lässt sich wie Chicorée oder Endivien verarbeiten</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

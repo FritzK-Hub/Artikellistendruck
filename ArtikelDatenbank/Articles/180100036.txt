@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>hervorragender Verschleiß- und Korrosionsschutz</li><li>hohe thermische Belastbarkeit</li><li>optimale EP-Eigenschaften</li><li>lange Lebensdauer</li><li>maximale Leistungsfähigkeit</li></ul>"
-}

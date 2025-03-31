@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Saatgut Speisemöhre Nantaise 2, reicht für ca. 100 Pflanzen</li><li>eine mittelfrühe Freilandsorte mit glatten, walzenförmigen</li><li>sind süße Qualitätsmöhren mit dunkelrotem Fleisch</li><li>ideal für den Frischverbrauch oder zum Einfrieren</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
-}

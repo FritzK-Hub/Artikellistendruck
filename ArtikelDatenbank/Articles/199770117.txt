@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>dienen zur Befestigung von Einlege- und Regalböden</li><li>besonders belastbar, aus Metall galvanisch verzinkt </li><li>garantieren eine dauerhafte und zuverlässige Unterstützung</li><li>Kunststoff-Hülse schützt vor Kratzern und Verrutschen</li><li>zum Einstecken in Lochreihen mit vormontierter Hülse<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>Infrarot-Heizstrahler 2000 W aus Metall und Kunststoff</li><li>für Garten, Festzelt oder Terrasse geeignet</li><li>heizt einen Bereich von 25 qm</li><li>stufenlos regelbar</li><li>inklusive 1,3 m Anschlusskabels<br/><br/></li></ul>"
-}

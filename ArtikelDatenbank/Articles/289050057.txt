@@ -1,4 +1,0 @@
-{
-    "uvp": 1.58,
-    "attributes": "<ul><li>Flachstange aus Hart-PVC</li><li>mit einzigartiger Bohr-Kennrille zum perfekten Zentrieren von Bohrungen</li></ul>"
-}

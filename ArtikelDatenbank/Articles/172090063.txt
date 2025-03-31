@@ -1,4 +1,0 @@
-{
-    "uvp": 59.99,
-    "attributes": "<ul><li>Indoor WLAN Kamera mit App- und Sprachsteuerung</li><li>Nutzung ganz ohne Gateway (Hub)</li><li>inklusive MicroSD-Kartenslot</li><li>mit Mikrofon, Lautsprecher und Nachtsichtfunktion</li><li>als Baby-Monitor einsetzbar</li></ul>"
-}

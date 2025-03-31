@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Druckschellen im Set 25 Stück</li><li>hochwertiges Kunststoffmaterial</li><li>geeignet für Feuchträume und Keller</li><li>schnelle und einfache Verwendung</li><li>geeignet für Kabel-Außendurchmesser 6-16 mm</li></ul>"
-}

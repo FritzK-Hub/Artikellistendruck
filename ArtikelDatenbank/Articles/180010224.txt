@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Seramis Vitalnahrung für Grünpflanzen und Palmen</li><li>mit allen lebenswichtigen Mineralstoffen</li><li>enthält Spurenelemente mit einem Plus an Stickstoff</li><li>sorgt für kräftiges, gesundes Wachstum</li><li>kann bei jedem Gießen dem Gießwasser zugegeben werden<br/></li></ul>"
-}

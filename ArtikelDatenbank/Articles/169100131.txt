@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Briefkastenschloss für Briefkästen, Schlüsselschränke u.v.m.</li><li>Schlüssel auch im geöffnetem Zustand abziehbar</li><li>hochwertige Ausführung</li><li>einfache und schnelle Montage</li><li>ohne Einbauanleitung</li></ul>"
-}

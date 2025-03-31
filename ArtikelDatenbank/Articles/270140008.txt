@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Holzraspel 200 mm von GERMANIA®</li><li>eignet sich zum Glätten von Holz</li><li>halbrunde Form sorgt für präzises Arbeiten</li><li>liegt dank Holzgriff gut in der Hand</li><li>passendes Werkzeug für jede Werkstatt<br/></li></ul>"
-}

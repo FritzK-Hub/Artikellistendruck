@@ -1,4 +1,0 @@
-{
-    "uvp": 26.99,
-    "attributes": "<ul><li>kompaktes, handliches Vielzwecklötgerät</li><li>mit leistungsstarkem Turbobrenner</li><li>Flamme stufenlos regulierbar</li><li>Brennleistung mit einer Druckgasdose ca. 2,5 h</li><li>Hartlöten Cu-Rohr bis ø 22 mm, Weichlöten bis ø 28 mm</li></ul>"
-}

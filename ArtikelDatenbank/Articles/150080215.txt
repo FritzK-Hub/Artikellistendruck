@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Aufbewahrungstasche für Ölflaschen</li><li>bis zu einer Flaschengröße von 1 Liter</li><li>exklusiv bei uns erhältlich</li><li>zur sicheren Aufbewahrung im Auto</li><li>Auslaufsichere Aufbewahrung der Flaschen<br/></li></ul>"
-}

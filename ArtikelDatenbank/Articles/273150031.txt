@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schraubendreher PZ2 Kreuzschlitz</li><li>aus hochwertigem S2 Stahl gefertigt</li><li>schnelles, einfaches lösen und eindrehen von Schrauben</li><li>magnetischer Schraubkopf</li><li>rutschfester, gummierter Handgriff</li></ul>"
-}

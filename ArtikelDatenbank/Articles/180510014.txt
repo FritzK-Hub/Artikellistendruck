@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>umfangreiche Verbandstasche aus robustem Nylon in Rot</li><li>43-teiliger Inhalt nach Norm DIN 13164:2022</li><li>enthält die wichtigsten Dinge zur Wundversorgung</li><li>zur Erstversorgung im Fahrzeug oder Haushalt</li><li>großer Reißverschluss erleichtert unmittelbaren Zugriff<br/></li></ul>"
-}

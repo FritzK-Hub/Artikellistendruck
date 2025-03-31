@@ -1,4 +1,0 @@
-{
-    "uvp": 329.0,
-    "attributes": "<ul><li>maximale Reinigungskraft für hartnäckigen Schmutz</li><li>vielseitiges Zubehör angepasst an jede Reinigungsaufgabe</li><li>einfache Handhabung durch durchdachtes Design</li><li>robuste Bauweise für langlebige Nutzung</li><li>schneller Aufsatzwechsel zur flexiblen Anwendung</li></ul>"
-}

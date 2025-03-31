@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>langanhaltende Reinigung mit strapazierfähiger Mikrofaser</li><li>wiederverwendbar und maschinenwaschbar</li><li>universelle Größe für viele Mopps</li><li>hochwirksam gegen Staub und Schmutz</li><li>drei verschiedene Farben zur Auswahl</li></ul>"
-}

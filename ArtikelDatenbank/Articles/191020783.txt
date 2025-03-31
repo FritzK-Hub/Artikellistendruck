@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li> Klappgelenk zum einfachen Verstauen</li><li>Schnellspannbare Teleskopstange </li><li>stabile Aluminiumstange</li><li>Netz aus hochwertigem Nylon</li><li>breite Öffnung für größere Fische</li></ul>"
-}

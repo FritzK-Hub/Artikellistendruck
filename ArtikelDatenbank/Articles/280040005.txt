@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Material Stiel: Holz</li><li>Maße Stiel: (ØxL) ca. 2,5 x 32 cm</li><li>Maße Blatt: (BxH) ca. 18 x 4 cm</li><li>Materialstärke Blatt: (t) ca. 2 mm</li><li>Größe: 13''</li><li>Bezeichnung: Sicke</li><li>Schliff: Messerschliff</li><li>vielseitig einsetzbar</li></ul>"
-}

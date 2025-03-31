@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>hohe Festigkeit und Belastbarkeit für zuverlässige Verbindungen im Holzbau</li><li>Sechskant-Schraubenkopf für einfache Installation und zusätzliche Griffflächen</li><li>für den Einsatz in feuchten Umgebungen oder im Freien</li><li>A2 Edelstahl für erhöhte Korrosionsbeständigkeit</li><li>Teilgewinde für starke Verbindung im Holz</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>geeignet für alle Wand-, Decken- und Fassadenfarben</li></ul>"
-}

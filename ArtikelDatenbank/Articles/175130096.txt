@@ -1,4 +1,0 @@
-{
-    "uvp": 17.49,
-    "attributes": "<ul><li>Elektrolötkolben in Bleistiftform 20 Watt</li><li>mit Sicherheitsablageständer</li><li>vernickelte CU-Lötspitze</li><li>kurze Anheizzeit von 2,5 Minuten</li><li>ideal für die Mikroelektronik<br/></li></ul>"
-}

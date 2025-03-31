@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Laminat- und Parkettpflege mit Orangenöl</li><li>bringt Sauberkeit und Glanz beim Wischen</li><li>ohne Schichtenbildung</li><li>einfache Dosierung ca. 40-80 ml auf 8 Liter Wasser</li><li>auch auf beschichteten oder durch Versiegelung geschützten Bodenbelägen anwendbar<br/></li></ul>"
-}

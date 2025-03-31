@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>hochwertige Materialqualität aus Baumwolle und Polyestergarn</li><li>Schutz vor Staub und Kratzern für die Pistole</li><li>Kordelzug für sichere Verschlussmöglichkeit</li><li>für Langwaffen jeder Größe geeignet</li><li>praktisches und unauffälliges Accessoire<br/></li></ul>"
-}

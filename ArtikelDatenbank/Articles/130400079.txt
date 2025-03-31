@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>hohe Effizienz durch große Abstrahlungsoberfläche</li><li>kontinuierliche Wärmeabgabe durch Thermoöl</li><li>schnelles Aufheizen für sofortige Behaglichkeit</li><li>drei Leistungsstufen für individuelle Wärme</li><li>laufruhige Rollen und praktischer Handgriff für leichten Transport</li></ul>"
-}

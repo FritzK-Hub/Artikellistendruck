@@ -1,4 +1,0 @@
-{
-    "uvp": 74.95,
-    "attributes": "<ul><li>Schwenkarm für Elektro-Seilzüge</li><li>zum Befestigen an Rundröhren mit einem Außen-Ø von 50 mm ( 1½ ) und einer Wandung von mindestens 3 mm</li><li>2 Befestigungsschellen (innen/außen), Trägerrohr, Haltestrebe und erforderliche Befestigungsschrauben</li><li>passend zu Güde® Elektro-Seilzug GSZ 100/200, GSZ 200/400, GSZ 300/600</li></ul>"
-}

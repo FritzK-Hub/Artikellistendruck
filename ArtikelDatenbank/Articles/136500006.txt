@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>8 reißfeste, elastische Stahlwolle</li><li>zur Bearbeitung von Holz, Metall Kunststoff,</li><li>zum Mattschleifen von polierten und lackierten Flächen einsetzbar</li><li>sehr sanfte Oberflächenwirkung durch \"Ziehklingeneffekt\"</li><li>bei trockener Verwendung nahezu unbegrenzt haltbar<br/></li></ul>"
-}

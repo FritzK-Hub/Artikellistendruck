@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Hundenapf mit Gummiring</li><li>rutschfest</li><li>aus Edelstahl</li><li>Fassungsvermögen: 0,9 L</li><li>leicht abwaschbar</li></ul>"
-}

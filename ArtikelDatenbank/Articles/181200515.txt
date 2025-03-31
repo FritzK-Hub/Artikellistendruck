@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Zitronenbasilikum für ca. 200 Pflanzen</li><li>süß-pfeffriges Würzkraut mit Zitronenaroma</li><li>zum Verfeinern von Salaten oder Fischgerichten</li><li>wirkt gegen Blähungen oder Schleimhautentzündungen</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

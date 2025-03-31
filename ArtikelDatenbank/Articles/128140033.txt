@@ -1,4 +1,0 @@
-{
-    "uvp": 539.95,
-    "attributes": "<ul><li>luxuriöser, runder Pavillon Ø 3 m</li><li>mit exotischer Optik</li><li>stabiles Stahlgestell, anthrazitfarben beschichtet</li><li>witterungsbeständige Pulverbeschichtung</li><li>wasserdichte Dachbespannung, PVC-Beschichtung</li></ul>"
-}

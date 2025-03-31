@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatband Rukola Wilde Rauke ca. 2 laufende Meter</li><li>mit großen, glatten Blättern versehen</li><li>ist ein ertragreiches, robustes Gewürzkraut</li><li>besitzt einen kräftigen, aromatischen Geschmack</li><li>zur Verfeinerung von Salaten oder zur Garnierung<br/></li></ul>"
-}

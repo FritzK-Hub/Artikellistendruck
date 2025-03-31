@@ -1,4 +1,0 @@
-{
-    "uvp": 5.87,
-    "attributes": "<ul><li>verringert die Übertragung von Vibrationen auf den Boden</li><li>geeignet für alle gängigen Waschmaschinen und Trockner</li><li>gewährleisten einen rutschfesten Stand</li><li>Schutz der Bodenfliesen vor Beschädigungen</li><li>konische Form, dadurch sehr stabil<br/></li></ul>"
-}

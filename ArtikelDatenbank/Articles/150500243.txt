@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Menüteller 10 Stück aus weißem Zuckerrohr</li><li>2-geteilt, lebensmittelecht</li><li>das ideale Einweggeschirr für Grillpartys</li><li>praktisch und hygienisch</li><li>auch mehrfach verwendbar, ist heimkompostierbar<br/></li></ul>"
-}

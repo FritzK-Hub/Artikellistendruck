@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Maße: 230 x 3,0 x 22,23</li><li>Höchstdrehzahl: max. 6.600 RPM</li><li>Geschwindigkeit: 80 m/sec</li><li>Form der Trennscheibe: flach</li><li>Industriequalität</li><li>Typenbezeichnung nach EN 12 413: C30S-4BF</li><li>geprüft nach BGV D 12</li></ul>"
-}

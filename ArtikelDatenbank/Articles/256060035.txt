@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Arbeitsbreite: 60mm</li><li>mit 2-Komponentengriff (gummiert / Kunststoff)</li><li>mit profilierter Daumen- und Zeigefingermulde für besseren Griff</li><li>mit Aufhängeauge</li><li>einfache Reinigung des Spachtelblattes</li></ul>"
-}

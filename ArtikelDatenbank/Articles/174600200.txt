@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>handliches WC-Garnitur Fiesta 2-teilig in Weiß/Transparent</li><li>sorgt für strahlende Sauberkeit in deiner Toilette</li><li>bestehend aus einem Bürsten-Topf und Silikon-WC-Bürste</li><li>schnell und einfach neben das WC stellen</li><li>der Bürsten-Kopf kann je nach Bedarf ausgewechselt werden<br/></li></ul>"
-}

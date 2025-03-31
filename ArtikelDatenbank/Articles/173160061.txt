@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Backofenlampe mit 15 W, E14 Sockel</li><li>sorgt für eine klare Sicht</li><li>angenehmes Licht, tageslichtähnlich mit hoher Farbwiedergabe</li><li>passend für alle gängigen Haushaltsbacköfen</li><li>Lampenwechsel durch einfaches Austauschen<br/></li></ul>"
-}

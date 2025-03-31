@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>für stark beanspruchte Holzoberflächen</li><li>einfache Anwendbarkeit</li><li>langanhaltender Schutz</li><li>atmungsaktiv und schmutzabweisend</li><li>rein pflanzliche Öle<br/></li></ul>"
-}

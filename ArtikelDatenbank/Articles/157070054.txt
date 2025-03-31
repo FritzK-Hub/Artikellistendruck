@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Nigrin Härter in der Tube</li><li>zur Beimischung zu Polyester-Harz und Spachtelmassen</li><li>für Reparaturarbeiten</li><li>für Modellierarbeiten</li><li>sorgt für nötige Aushärtung</li></ul>"
-}

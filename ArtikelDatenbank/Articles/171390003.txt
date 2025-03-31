@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>pulverförmige Bastel-Knetmasse 3,5 kg im Eimer</li><li>ideal zum Gießen von Objekten wie Vasen oder Schalen</li><li>der Kreativität sind keine Grenzen gesetzt</li><li>universell einsetzbar im Innen- wie Außenbereich</li><li>fördert Feinmotorik und Phantasie bei Kindern</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>hochwertiges Korkmaterial elastisch und haltbar</li><li>runde Form und kompakte Größe für unauffällige Anbringung</li><li>natürliche braune Farbe passend zu den meisten Möbeln</li><li>ausreichende Menge von 24 Stück pro Packung</li><li>Schutz vor Kratzern und Schäden auf glatten Böden<br/></li></ul>"
-}

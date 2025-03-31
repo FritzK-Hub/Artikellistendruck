@@ -1,4 +1,0 @@
-{
-    "uvp": 28.95,
-    "attributes": "<ul><li>matt verchromt </li><li>kalt geschmiedet</li><li>Größen: 1/4“x5/16“, 3/8“x7/16“, 1/2“x9/16“, 5/8“x11/16“, 3/4“x7/8“</li><li>In Tetron-Rolltasche</li></ul>"
-}

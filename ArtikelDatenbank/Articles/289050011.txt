@@ -1,4 +1,0 @@
-{
-    "uvp": 24.39,
-    "attributes": "<ul><li>Riffelblech-Tafel</li><li>aus verzinktem Aluminium, unbehandelt</li></ul>"
-}

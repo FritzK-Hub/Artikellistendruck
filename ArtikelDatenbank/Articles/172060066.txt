@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>10 Rohr-Klemmschellen EN16 im Pack</li><li>belastbarer bruchfester Kunststoff für sicheren Halt</li><li>ermöglichen die einfache Montage deiner Installationsrohre</li><li>verlängertes Bohrloch in der Schelle für genaue Ausrichtung nach der Montage</li><li>untereinander kombinierbar für die Montage von mehreren Rohren nebeneinander</li></ul><p></p>"
-}

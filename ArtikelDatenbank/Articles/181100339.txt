@@ -1,4 +1,0 @@
-{
-    "uvp": 0.99,
-    "attributes": "<ul><li>Silberblatt im robusten Topf Ø 9 cm</li><li>ist ein dekorativer und pflegeleichter Herbstblüher</li><li>das silberfarbige Laub mildert Farbkontraste</li><li>setzt leuchtende Pflanzen in gewisser Struktur</li><li>für Steingärten oder als Grabschmuck geeignet<br/></li></ul>"
-}

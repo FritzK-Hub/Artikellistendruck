@@ -1,4 +1,0 @@
-{
-    "uvp": 6.29,
-    "attributes": "<ul><li>5-polige CEE Kupplung</li><li>Schutzart IP 44, spritzwassergeschützt</li><li>zur kurzfristigen Verwendung im Freien</li><li>robuste Ausführung aus schlagfestem Polyamid</li><li>CEE Kupplung in gerader Form</li></ul>"
-}

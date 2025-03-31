@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>reines, farbloses Bienenwachs</li><li>für die Pflege und Renovierung</li><li>mühelose und schnelle Verarbeitung</li><li>wasserabweisend und antistatisch</li><li>für eine seidenglänzende Oberfläche<br/><br/></li></ul>"
-}

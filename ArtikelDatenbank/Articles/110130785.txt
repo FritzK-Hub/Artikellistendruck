@@ -1,4 +1,0 @@
-{
-    "uvp": 7.79,
-    "attributes": "<ul><li>Schwerlastkonsole aus lackiertem Flachstahl</li><li>mit Steg / Querstrebe</li><li>paarweise extrem belastbar bis 300 kg (pro Regal)<br/></li><li>z. B. zum Bau von Regalen, Tischen, Bänken oder Ablagen</li><li>Regalträger für große Belastungen</li></ul>"
-}

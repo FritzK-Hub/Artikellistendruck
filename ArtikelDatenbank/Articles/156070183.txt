@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>gleichmäßiger Farbauftrag auf glatten Oberflächen garantiert</li><li>perfekte Dimensionierung für optimale Deckkraft</li><li>für alle Wand- und Deckenanstriche geeignet</li><li>strapazierfähiger Polyamid-Bezug für lange Lebensdauer</li><li>einfacher Austausch dank Kompatibilität mit Bügeldurchmesser von 6mm<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Mediterraner Pflanzenmix in verschiedenen Sorten</li><li>ideal für Gartenkübel, Balkon oder Terrasse</li><li>ein echter Blickfang in deinen Ziergärten</li><li>für den sofortigen Verzehr geeignet</li><li>robust und pflegeleicht</li></ul>"
-}

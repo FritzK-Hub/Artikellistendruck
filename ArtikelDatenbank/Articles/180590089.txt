@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>verleiht dem Auto einen dynamischen und attraktiven Look</li><li>langlebig und widerstandsfähig, aus schlagfestem ABS-Kunststoff</li><li>besitzt einen verstellbaren Klemmring, passend für alle Fahrzeuge</li><li>Aussparung am Ventilschaft erleichtert das Aufpumpen des Reifens</li><li>einfach in der Handhabung, lässt sich schnell und einfach montieren<br/></li></ul>"
-}

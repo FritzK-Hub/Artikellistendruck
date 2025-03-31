@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>3 rechteckige Alu-Schalen im Set</li><li>lebensmittelecht und geschmacksneutral</li><li>mit Deckel aus Pappe</li><li>zur Aufbewahrung von Speisen oder als Backform</li><li>als Menüschale oder Grillpfanne verwendbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>gerader Türknopf</li><li>matt satin Ausführung</li><li>4 Schraube für die Befestigung</li><li>für eine Türstärke von max. 20 mm</li><li>Gesamtlänge 7,3 cm</li></ul>"
-}

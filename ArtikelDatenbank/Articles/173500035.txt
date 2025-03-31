@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Solar Gartenkugel Ø 25 cm aus Kunststoff mit LED</li><li>für schöne Lichtakzente im Garten oder Balkon</li><li>auch als dekoratives Orientierungslicht einsetzbar</li><li>Stromversorgung durch Solarstrom</li><li>inklusive Akku und Bodenspieß<br/></li></ul>"
-}

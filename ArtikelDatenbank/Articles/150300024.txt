@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Schutzart IP54 für Wasserdichtigkeit</li><li>robuster Rahmen schützt vor Stößen und Stürzen </li><li>Bluetooth-Funktion für kabelloses Musik-Streaming</li><li>hervorragende Klangqualität dank 2 x 8 W Spitzenleistung</li><li>30 voreingestellte Sender - zum Speichern von Favoriten</li></ul>"
-}

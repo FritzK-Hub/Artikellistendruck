@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>flexibel platzierbar dank Batteriebetrieb</li><li>praktischer Timer-Funktion für automatisches Ausschalten</li><li>elegante Acrylkugeln mit warmem Licht</li><li>vielseitig einsetzbar für kreative Dekorationen</li><li>zeitloses Design passt zu jedem Eintrichtungsstil</li></ul>"
-}

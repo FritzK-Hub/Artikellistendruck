@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>mehrfarbige Fahrradglocke</li><li>für mehr Sicherheit im Straßenverkehr</li><li>Lenkerklingel im Blumendekor</li><li>komplett mit Befestigungsmaterial</li><li>Glocke farblich sortiert</li></ul>"
-}

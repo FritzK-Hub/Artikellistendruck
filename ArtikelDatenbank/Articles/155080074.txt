@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>45 Watt starker Tischventilator mit 3 Geschwindigkeitsstufen</li><li>sorgt an heißen Sommertagen für kühle Luft</li><li>ideal für den Arbeitsplatz oder eigenen Wohnräumen</li><li>oszillierend und fixierbar, Neigungswinkel verstellbar</li><li>inklusive 1,5 m langes Netzkabel<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Frostschutz und Scheibenklar konzentriert</li><li>bietet Schutz vor Frost </li><li>verhindert zuverlässig das Einfrieren der Scheiben</li><li>entfernt mühelos Schmutz und sorgt für klare Sicht</li><li>gemäß Mischtabelle mit Wasser verdünnen</li></ul>"
-}

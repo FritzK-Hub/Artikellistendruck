@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>für blühende Pflanzen in Haus und Garten</li><li>steigert Wachstum und Blühleistung</li><li>setzt anspruchsvoll und gezielt Nährstoffe und Spurenelemente frei</li><li>fördert das Blütenwachstum</li><li>geeignet für alle Balkon-, Kübel- und Topfpflanzen<br/><br/></li></ul>"
-}

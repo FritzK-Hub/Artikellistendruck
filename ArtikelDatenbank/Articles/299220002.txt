@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Gewindestange 100 cm</li><li>aus verzinktem Stahl</li><li>mit Metallsäge oder Trennschleifer individuell ablängbar</li><li>breites Anwendungsspektrum</li><li>metrisches Vollgewinde</li></ul>"
-}

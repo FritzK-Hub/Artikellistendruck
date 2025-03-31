@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>vielseitig einsetzbar</li><li>großzügige Länge</li><li>natürliche Farbe</li><li>langlebiges Material</li><li>reißfest und schonend <br/></li></ul>"
-}

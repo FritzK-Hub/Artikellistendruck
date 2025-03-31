@@ -1,4 +1,0 @@
-{
-    "uvp": 36.99,
-    "attributes": "<ul><li>mit Antikalk-Noppen</li><li>großzügige Größe</li><li>individuelle Ausrichtung</li><li>problemlose Montage</li><li>stilvolles Design<br/></li></ul>"
-}

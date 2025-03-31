@@ -1,4 +1,0 @@
-{
-    "uvp": 1.39,
-    "attributes": "<ul><li>Lochplattenwinkel 70 x 70 x 55 mm mit Steg</li><li>aus verzinktem Stahl gefertigt</li><li>zum Verbinden von zwei Elementen</li><li>im Holzbau vielseitig einsetzbar</li><li>Löcher sind beidseitig versenkt</li></ul>"
-}

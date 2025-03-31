@@ -1,4 +1,0 @@
-{
-    "uvp": 8.0,
-    "attributes": "<ul><li>200 Nageldübel</li><li>Kreuzschlitz-Nagelschraube</li><li>Senkkopf mit Kreuzschlitz</li><li>Flachkopfübel aus Nylon</li><li>zum Einsatz in Baustoffen mit hoher Festigkeit</li></ul>"
-}

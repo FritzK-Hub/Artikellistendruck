@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Aufhänge-Set 3-teilig in Silber für Sonnensegel </li><li>aus verzinktem Eisen gefertigt</li><li>Set beinhaltet eine Wandöse, ein Karabinerhaken und ein Seilspanner</li><li>einfach und schnell in der Handhabung</li><li>zwei dieser Sets ermöglichen das Aufhängen einer Hängematte<br/></li></ul>"
-}

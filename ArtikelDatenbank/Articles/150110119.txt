@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Nigrin Autoshampoo Konzentrat mit Orangenduft</li><li>erleichtert wirksam die manuelle Fahrzeugwäsche</li><li>reinigt kraftvoll und porentief Lack, Metall, Glas und Kunststoff</li><li>entfernt mühelos auch starke Verschmutzungen</li><li>schont den Lack und erhält die schützende Konservierung</li></ul>"
-}

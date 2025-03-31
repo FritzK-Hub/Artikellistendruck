@@ -1,4 +1,0 @@
-{
-    "uvp": 18.99,
-    "attributes": "<ul><li>für verschiedenste Anwendungen im Hobbybereich</li><li>vielseitige Messbereiche wie Gleich- und Wechselspannung</li><li>beleuchtetes LCD-Display erleichtert die Überprüfung</li><li>einfach in der Handhabung, sehr benutzerfreundlich</li><li>Sicherheitsbuchsen und -stecker bieten Berührungsschutz</li></ul>"
-}

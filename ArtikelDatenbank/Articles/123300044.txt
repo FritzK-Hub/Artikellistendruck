@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>sofortige Selbstentfaltung, keine Montage nötig</li><li>UV-beständige PVC-Hülle für optimalen Lichtdurchlass</li><li>stabile Metalldraht-Konstruktion schafft langfristige Haltbarkeit</li><li>praktische Reißverschlusstür bietet einfachen Zugang und Belüftung</li><li>schnelle Fixierung mit Zelt-Heringen inklusive</li></ul>"
-}

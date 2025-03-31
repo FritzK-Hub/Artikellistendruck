@@ -1,4 +1,0 @@
-{
-    "uvp": 7.3,
-    "attributes": "<ul><li>6-teiliger Bohrersatz</li><li>aus Stahl gefertigt</li><li>Flachfräsbohrer in den Größen 10, 12, 16, 18, 20 und 25 mm</li><li>6-kant Aufnahme mit 6 mm Durchmesser für handelsübliche Bohrfutter</li><li>wendellose Bohrer zur Bearbeitung von Holz<br/><br/></li></ul>"
-}

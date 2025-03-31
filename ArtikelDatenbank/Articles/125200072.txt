@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>zwei REINEX Lavendelsäckchen</li><li>dienen als natürlicher Mottenschutz</li><li>altbewährtes giftfreies Hausmittel</li><li>verfügt über einen einzigartigen Lavendelduft</li><li>besitzt zwei Zedernholzringe<br/></li></ul>"
-}

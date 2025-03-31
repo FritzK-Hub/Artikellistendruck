@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Wunderbesen 400 x 85 mm mit universellen Stielaufnahme</li><li>entfernt störendes Unkraut oder Moos</li><li>Kupferteile sind in den Borsten eingearbeitet</li><li>setzt in Verbindung mit Wasser Kupferionen frei</li><li>reduzieren das Entstehen und dem Wachstum von Unkraut<br/></li></ul>"
-}

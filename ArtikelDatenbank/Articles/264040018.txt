@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>robuste Verarbeitung</li><li>vielseitige Anwendung</li><li>mit Kunststoffschutzkappe </li><li>einfache Montage</li><li>hohe Belastbarkeit</li></ul>"
-}

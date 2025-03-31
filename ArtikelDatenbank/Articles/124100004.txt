@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>robuste und langlebige Messingkonstruktion</li><li>360°-Drehbarkeit ermöglicht flexible Montageoptionen</li><li>abschließbar mit Vorhangschloss für zusätzliche Sicherheit</li><li>inklusive Schlauchverschraubung für eine zuverlässige Verbindung</li><li>hohe Betriebstemperatur- und Betriebsdruckkapazität für vielseitige Anwendungen</li></ul>"
-}

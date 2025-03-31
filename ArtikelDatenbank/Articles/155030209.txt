@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>langlebige, nicht wiederaufladbar Batterie</li><li>ideal für Geräte mit hohem Energiebedarf</li><li>auf einer stabilen Blisterkarte zur einfachen Bevorratung<br/></li><li>Einsatz primär in Alarmanlagen, Stirnlampen, GPS-Empfänger, Kameras und Funksender</li><li>die Batterie ist umweltfreundlich und kann nach Gebrauch sicher und ordnungsgemäß entsorgt werden</li></ul><p></p>"
-}

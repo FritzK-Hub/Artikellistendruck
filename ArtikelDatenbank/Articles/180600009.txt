@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>breiter Messbereich für Gleich- und Wechselstrom</li><li>einfach erkennbares LED-Display für schnelle Messergebnisse</li><li>robuste Konstruktion für anspruchsvolle Umgebungen</li><li>kompaktes Design zur einfachen Bedienung</li><li>Elektrikerfreundliche lange Prüfspitzen</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>zusammenfaltbare Tomatenhaube mit Stab und Schutzfolie</li><li>tragbares Gewächshaus für Balkon, Terrasse und Kleingarten</li><li>schützt Tomaten- oder Paprikapflanzen vor Hagel und Dauerregen</li><li>verhindert Kraut- oder Braunfäule und bewässert nur die Wurzel</li><li>hochwertige Qualität, made in Germany<br/></li></ul>"
-}

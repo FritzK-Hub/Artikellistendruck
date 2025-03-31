@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>Winkel-Abschluss-Profil 100 x 3 x 0,5 cm in silber</li><li>aus eloxiertem Aluminium gefertigt</li><li>sauberer, dauerhafter und trittfester Abschluss</li><li>unsaubere Schnittkanten werden verdeckt</li><li>Stolperfallen werden vermieden<br/></li></ul>"
-}

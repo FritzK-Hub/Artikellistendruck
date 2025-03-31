@@ -1,4 +1,0 @@
-{
-    "uvp": 79.99,
-    "attributes": "<ul><li>pneumatischer Bohrhammer mit SDS-Plus Aufnahme und ergonomischem Zusatz-Handgriff</li><li>benötigt keinen körperlichen Einsatz und erzeugt die Schlagenergie durch ein Hammerwerk</li><li>verfügt über 3 Funktionen: Schrauben, Bohren und Schlagbohren</li><li>leichtes Bohren in Beton und andere Werkstoffe</li><li>kann auch als Stemmhammer benutzt werden</li></ul>"
-}

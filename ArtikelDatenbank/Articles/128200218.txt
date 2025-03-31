@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Gartenstecker mit Schweinemotiv</li><li> in drei verschiedenen Ausführungen erhältlich<br/></li><li>eine tolle Dekoration für Garten oder Balkon</li><li>auch zwischen Büschen und Blumen geeignet</li><li>in Rost-Optik</li></ul>"
-}

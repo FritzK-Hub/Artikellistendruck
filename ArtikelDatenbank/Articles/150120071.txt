@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>mit allen herkömmlichen Kühlmitteln mischbar</li><li>Kühler-Schutz zum Nachfüllen, für alle Motoren geeignet</li><li>schützt moderne Guss- und Alumotoren ganzjährig vor Frost, Korrosion und Überhitzung</li><li>wirkt unverdünnt bis zu -36°C</li><li>ist hervorragend verträglich mit Dichtungen, Schläuchen und Kunststoffteilen</li></ul>"
-}

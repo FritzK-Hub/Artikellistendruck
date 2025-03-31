@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Zeckenzange 9 cm aus Kunststoff gefertigt<br/></li><li>zum Entfernen von in der Haut festgesogene Zecken</li><li>pinzettenähnliche Zange erleichtert das Herausziehen</li><li>ohne Gifte und Insektizide</li><li>für Menschen oder Haustieren geeignet<br/></li></ul>"
-}

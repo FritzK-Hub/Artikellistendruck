@@ -1,4 +1,0 @@
-{
-    "uvp": 36.95,
-    "attributes": "<ul><li>für angenehmes Autofahren bei  Kurz- oder Langstrecken</li><li>aus natürlichem Lammfell in Anthrazit gefertigt</li><li>kühlt im Sommer und wärmt im Winter den Autositz</li><li>schnelle und einfache Befestigung durch elastische Bänder</li><li>für alle Autositze mit Seitenairbag geeignet<br/></li></ul>"
-}

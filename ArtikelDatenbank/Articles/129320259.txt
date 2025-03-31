@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>artenreiche Blütenvielfalt</li><li>einfache Pflege</li><li>nachhaltige Ökosystemunterstützung</li><li>langanhaltende Blütezeit</li><li>jährlich wechselnde Blumenpracht<br/><br/></li></ul>"
-}

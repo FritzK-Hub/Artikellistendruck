@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Filztasche XXL  50 x 34 x 27 cm in grau</li><li>verfügt über eine Belastbarkeit von 20 kg</li><li>passend für Brennholz oder Zeitschriften</li><li>für den einfachen Transport und Aufbewahrung</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

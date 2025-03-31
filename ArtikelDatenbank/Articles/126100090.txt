@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Akku-Heckenschere 20 V mit 45 cm Schnittlänge von YARD FORCE<br/></li><li>mit einer Dual-Action-Klinge versehen</li><li>ideal für die Hecken- und Strauchpflege geeignet</li><li>Rundum-Frontgriff erleichtert das waagerechte und senkrechte Schneiden</li><li>doppelter Sicherheitsschalter und Softgriff für angenehmen Komfort<br/></li></ul>"
-}

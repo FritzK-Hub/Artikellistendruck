@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>reich an Vitaminen und Mineralien</li><li>unterstützt die Zahngesundheit des Hundes</li><li>aus hochwertigen Zutaten hergestellt</li><li>frei von künstlichen Farb- und Konservierungsstoffen</li><li>köstlicher Snack, den dein Hund lieben wird</li></ul>"
-}

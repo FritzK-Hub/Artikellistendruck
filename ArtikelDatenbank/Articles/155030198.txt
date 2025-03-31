@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>zwei Akkus Phone AA in Markenqualität</li><li>speziell für schnurlose Telefone ausgelegt</li><li>verbesserte Belastbarkeit bei Dauerladung</li><li>besonders robust gegen zu niedrigen Ladestand</li><li>hunderte Male wiederaufladbar ohne Memory-Effekt<br/></li></ul>"
-}

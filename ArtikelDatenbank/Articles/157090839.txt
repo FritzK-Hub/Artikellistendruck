@@ -1,4 +1,0 @@
-{
-    "uvp": 5.59,
-    "attributes": "<ul><li>passend für halbrunde Dachrinnen RG 125</li><li>für zuverlässige Dachentwässerung</li><li>mit Nocke-Nut-System für sicheren Halt</li><li>kein Verrutschen oder Verformen</li><li>witterungsbeständig aus stabilem Kunststoff</li></ul>"
-}

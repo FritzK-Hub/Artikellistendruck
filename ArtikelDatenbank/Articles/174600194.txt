@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Bade- und Toilettenmatten mit rutschfester Unterseite</li><li>aus 80% Baumwolle + 20 % Polyester gefertigt</li><li>in vier verschiedenen Farben erhältlich</li><li>die Bodenmatte sorgt für sicheres Aussteigen aus der Wanne</li><li>weiche und wärmende Unterlage für nackte Füße<br/></li></ul>"
-}

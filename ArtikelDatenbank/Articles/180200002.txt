@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>reinigt Ventile und Brennraum wirksam</li><li>reduziert Verbrauch durch saubere Motoren</li><li>senkt den Schadstoffausstoß</li><li>steigert Motorleistung und Kompression</li><li>bietet langfristigen Schutz<br/></li></ul>"
-}

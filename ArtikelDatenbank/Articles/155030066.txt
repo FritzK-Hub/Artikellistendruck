@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>leistungsfähige Panasonic Pro-Power Batterien</li><li>nicht wiederaufladbar</li><li>Set beinhaltet 4 AA-Batterien</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>passend für Spielzeuge, Taschenlampen oder PC-Mäuse</li></ul><p></p>"
-}

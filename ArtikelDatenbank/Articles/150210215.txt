@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>6-teiliges Messlöffel-Set</li><li>6 verschiedene Löffelgrößen</li><li>spülmaschinenfest</li><li>mit Aufhängeöse</li><li>aus Kunststoff</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Art: Holzschraube für Hängematten</li><li>Maße Schraube: (BxT) ca. 40x100mm</li><li>Schraubtiefe: (T) max. ca. 60mm</li><li>Bohrung Holz: (Ø) ca. 10mm</li><li>Haken: (TxBxH) ca. 80 x 50x40mm</li></ul>"
-}

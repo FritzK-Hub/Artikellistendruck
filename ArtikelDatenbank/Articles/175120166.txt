@@ -1,4 +1,0 @@
-{
-    "uvp": 6.39,
-    "attributes": "<ul><li>speziell entwickelt für das Löten von Kupfer, Messing, Rotguss und Stahl</li><li>langlebig und chemisch beständig für den Einsatz in Werkstatt, Handwerk und Industrie</li><li>starke und zuverlässige Verbindung auch bei hohen Temperaturen</li><li>besonders geeignet zum Löten mit CFH-Kupfer- und Silberloten</li><li>einfache Anwendung dank Dosierpinsel in handlicher Flasche<br/></li></ul>"
-}

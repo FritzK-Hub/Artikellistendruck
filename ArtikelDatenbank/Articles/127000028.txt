@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>gelenkschonende Haltung</li><li>maximaler Komfort beim Schneiden</li><li>rutschfeste Griffe<br/></li><li>Einhand-Sicherheitsverschluss</li></ul>"
-}

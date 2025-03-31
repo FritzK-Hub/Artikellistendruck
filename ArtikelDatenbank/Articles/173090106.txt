@@ -1,4 +1,0 @@
-{
-    "uvp": 3.59,
-    "attributes": "<p>- matt verchromt<br/>- Kugelhalterung</p>"
-}

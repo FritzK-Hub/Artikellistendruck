@@ -1,4 +1,0 @@
-{
-    "uvp": 5.59,
-    "attributes": "<ul><li>kein Kleben, Löten, Schweißen oder Gewinde schneiden mehr nötig</li><li>geprüft und für Trinkwasser zugelassen</li><li>universelles System für jeden Anwendungsfall</li><li>für Kaltwasser</li><li>50 Jahre Lebensdauer<br/></li></ul>"
-}

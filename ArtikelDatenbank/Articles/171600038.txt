@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>geeignet für alle Arten von Holzoberflächen, einschließlich Arbeitsplatten, Tischen und Schneidebrettern</li><li>strapazierfähiger, natürlicher Schutz für täglich beanspruchte Holz-Flächen</li><li>LFGB-geprüft, lebensmittelecht und sicher für den Einsatz in der Küche</li><li>einfach aufzutragen, dringt tief in das Holz ein für langlebigen Schutz</li><li>verleiht eine farblose und atmungsaktive Oberflächenschutzschicht</li></ul>"
-}

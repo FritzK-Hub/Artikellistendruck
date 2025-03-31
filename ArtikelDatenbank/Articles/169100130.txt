@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>aus hochwertigen Materialien hergestellt</li><li>lange Lebensdauer und zuverlässiger Schutz</li><li>stabiler Bügel aus Stahl, Körper aus Messing</li><li>passend für verschiedene Anwendungen</li><li>ideal zur Absicherung von Kellertüren geeignet</li></ul>"
-}

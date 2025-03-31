@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Vorschlaghammerstiel von GERMANIA® Qualitätswerkzeuge</li><li>für 4 kg Hammerköpfe</li><li>aus massivem Eschenholz</li><li>ovale Form</li><li>ideal als Ersatzstiel<br/></li></ul>"
-}

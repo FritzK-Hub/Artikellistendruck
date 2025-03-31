@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>Verstellbarer Neigungswinkel</li><li>Höhenverstellbar von 120 - 210 cm</li><li>Quarz-Heizelement für schnelle Wärmeentwicklung</li><li>Kippschutz schaltet automatisch ab</li><li>Stabiler Metallrahmen</li></ul>"
-}

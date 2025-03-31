@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Durchmesser Kopf: ca. 6,8mm</li><li>Höhe Kopf: ca. 3,9mm</li><li>Durchmesser Schraube (d): ca. 4,0mm</li><li>Länge: ca. 23,9mm</li><li>Abstand Gewinde zu Kopf: ca. 0,2 mm</li><li>Länge Gewinde: ca. 20mm</li><li>Innensechskant Ø: ca. 3 mm</li></ul>"
-}

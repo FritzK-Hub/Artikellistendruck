@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>mit innovativer Kippfunktion</li><li>aus stabiler Stahlkonstruktion</li><li>hochwertiges Textilene-Material</li><li>mit Fußkappen und einem Kippschutz</li><li>mit einer großzügigen Liegefläche<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>60 Liter Rindenmulch von Sonderpreis Baumarkt</li><li>ist ein reines Naturprodukt</li><li>besteht zu 100% aus Nadelholzrinde</li><li>ohne weitere Zusätze</li><li>dekoratives Abdeckmaterial für Böden und Beete<br/></li></ul>"
-}

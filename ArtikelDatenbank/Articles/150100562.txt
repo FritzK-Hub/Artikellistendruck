@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Ausführung: Stützrad mit Kurbel</li><li>Stützkraft: 150 kg</li><li>Maße Stütze: (ØxH) ca. 4,8 x 40 cm (eingekurbelt)</li><li>Radgröße: (ØxB) ca. 200 x 50 mm</li><li>Felge: Stahlblechfelge</li><li>Kurbelhub: ca. 23cm</li><li>Lieferung ohne Klemmschelle</li></ul>"
-}

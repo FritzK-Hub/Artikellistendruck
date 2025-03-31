@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>einzigartige Farbenpracht</li><li>lange Haltbarkeit</li><li>vielseitige Dekoration</li><li>unkomplizierte Pflege</li><li>Nektarspender für die Natur<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.03,
-    "attributes": "<ul><li>110 mm</li><li>für Gewindeschneider und Gewindebohrer</li><li>für Rechts- und Linksgang </li><li>mit umschaltbarer Ratsche</li><li>verchromt<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>ergonomischer 2-Komponenten-Griff</li><li>schlanke Bauweise</li><li>ermöglicht präzises Arbeiten</li><li>hohe Schnittleistung bei geringem Kraftaufwand</li><li>hochwertiger Werkzeugstahl</li></ul>"
-}

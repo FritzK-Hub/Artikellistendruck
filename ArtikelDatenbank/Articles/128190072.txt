@@ -1,4 +1,0 @@
-{
-    "uvp": 129.99,
-    "attributes": "<ul><li>Gartenschaukel mit massivem Stahlgestell in dunkelgrau</li><li>ist für bis zu zwei Personen geeignet</li><li>Bezug und Dachplane mit Polyesterbespannung versehen</li><li>verfügt über eine Belastbarkeit von bis zu 260 kg</li><li>ein echter Blickfang in deinem Garten oder Balkon<br/></li></ul>"
-}

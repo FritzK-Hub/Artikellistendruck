@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<p>Ausführung: Schlauchverbinder<br/>Material: Messing<br/>Durchmesser: 6 mm<br/>Gesamtlänge: ca. 47 mm<br/>Packungsinhalt: 2 Stück<br/></p>"
-}

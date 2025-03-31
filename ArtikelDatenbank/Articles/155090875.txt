@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Abdeckung für ISDN-Dosen</li><li>hochwertiger Kunststoff in Weiss</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>nur in Verbindung mit ISDN-Dose der Serie Standard Quadro</li><li>nur in Kombination mit Rahmen der Serie Standard Quadro</li></ul>"
-}

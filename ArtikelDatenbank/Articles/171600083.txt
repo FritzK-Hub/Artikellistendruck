@@ -1,4 +1,0 @@
-{
-    "uvp": 17.29,
-    "attributes": "<ul><li>Wasser-Stop-Abperleffekt für langanhaltenden Schutz</li><li>natürliches Abwittern ohne Abplatzen</li><li>Mattglanz für realistischen, ästhetischen Holzlook</li><li>einfache Anwendung und schnelle Trocknung</li><li>offenporig, feuchtigkeitsregulierend, ideal für verschiedene Holzarten</li></ul>"
-}

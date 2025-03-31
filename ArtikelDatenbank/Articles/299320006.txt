@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Balkenschuh aus verzinktem Stahl</li><li>Dachbalken sicher miteinander verbinden</li><li>Einsatzbereich außen und innen</li><li>CE-Kennzeichnung</li><li>unauffällige Besfestigung durch nach innen gebogenen Laschen<br/></li></ul>"
-}

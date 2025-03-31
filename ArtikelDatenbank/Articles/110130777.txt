@@ -1,4 +1,0 @@
-{
-    "uvp": 10.39,
-    "attributes": "<ul><li>zur platzsparenden Aufbewahrung vom Kleidung</li><li>besonders langlebig, aus verchromtem Stahl gefertigt</li><li>im Kleiderschrank, Ankleidezimmer oder Wäschekammer anwendbar</li><li>sorgt für mehr Ordnung, Klamotten sind stets griffbereit</li><li>mitgeliefertes Befestigungsmaterial erleichtert die Wandmontage<br/></li></ul>"
-}

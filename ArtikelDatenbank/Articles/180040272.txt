@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Beilstiel von GERMANIA® Qualitätswerkzeuge</li><li>Ersatzstiel für 1,2 kg Beilköpfe</li><li>Axtstiel aus Eschenholz</li><li>Ersatzstiel in Kuhfußform</li><li>Beilstiel in geprüfter Qualität</li></ul>"
-}

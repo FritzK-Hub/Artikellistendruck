@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Bleistifte für Schreibanfänger mit ergonomischer Griffform</li><li>2 Stück im Set</li><li>Härtegrad HB</li><li>umweltfreundlich</li><li>Bleistift in Dreikant-Form<br/></li></ul>"
-}

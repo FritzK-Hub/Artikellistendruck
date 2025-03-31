@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>hochwertiges Wundpflaster Textil</li><li>zur Abdeckung von Hautverletzungen</li><li>besonders hautfreundlich</li><li>luftdurchlässig, atmungsaktiv und verklebt nicht mit der Wunde</li><li>schmerzlos zu entfernen<br/></li></ul>"
-}

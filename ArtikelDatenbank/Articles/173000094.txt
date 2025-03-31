@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Kellerleuchte ovalförmig mit Metallkorb</li><li>für den Einsatz in Räumen mit hoher Feuchtigkeit</li><li>für den Innen- und Außenbereich einsetzbar</li><li>für Leuchtmittel bis zu 60 Watt mit E27 Sockel geeignet</li><li>Leuchtmittelwechsel ohne Werkzeug möglich<br/></li></ul>"
-}

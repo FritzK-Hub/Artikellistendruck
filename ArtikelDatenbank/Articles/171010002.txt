@@ -1,4 +1,0 @@
-{
-    "uvp": 28.95,
-    "attributes": "<ul><li>hervorragende Leistung</li><li>TiN-Beschichtung</li><li>600% längere Standzeit</li><li>für anspruchsvolle Anwendungen</li><li>kompakte Kunststoffkassette</li></ul>"
-}

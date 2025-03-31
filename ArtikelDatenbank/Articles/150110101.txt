@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Kettensprühfett für O-, Z- und X-Ring Antriebsketten</li><li>schmiert alle Motorradketten und schützt effizient vor Verschleiß und Korrosion</li><li>Kettenfett ist vollsynthetisch und wasserabweisend</li><li>verfügt über exzellente Haftung und ist schleuderfest auch bei besonders hohen Geschwindigkeiten</li><li>verzögert die Kettenlängung, minimiert Leistungsverluste im Antriebsstrang</li></ul>"
-}

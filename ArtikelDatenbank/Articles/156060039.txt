@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Fugenkelle aus Stahl</li><li>mit lackiertem Holzgriff</li><li>für Spalten, Risse, kleine Hohlräume</li><li>ideal zum Ausfüllen und Modellieren</li><li>Hilfswerkzeug zum Renovieren</li></ul>"
-}

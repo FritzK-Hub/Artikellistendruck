@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Schaschlikspieße</li><li>aus Bambus gefertigt</li><li>einseitig angespitzt</li><li>für Fleischspieße</li><li>auch ideal für Obst- und Gemüsespieße</li></ul>"
-}

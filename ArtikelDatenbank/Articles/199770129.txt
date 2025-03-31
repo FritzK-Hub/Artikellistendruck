@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>20 Euroschrauben im Set</li><li>für die Montage von Möbelbeschlägen</li><li>mit PZ-Pozidrive Antrieb</li><li>aus <span class=\"modal_lexicon\">Stahl verzinkt</span></li><li>mit Senkkopf</li></ul><p></p>"
-}

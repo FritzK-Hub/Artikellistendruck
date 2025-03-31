@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Vogelhaus Birdyfeed Square aus Kunststoff in anthrazit</li><li>Futterort für die kleineren Wildvogelarten</li><li>großes Futtersilo schützt die Nahrung vor Nässe</li><li>kleine Klappe im Dach erleichtert das Befüllen</li><li>kann aufgehangen oder auf einen Stab befestigt werden<br/></li></ul>"
-}

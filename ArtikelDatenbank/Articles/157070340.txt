@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>füllt Beulen und Vertiefungen auf und gleicht Deformationen aus</li><li>kann beliebig dick aufgetragen werden und haftet auf fast jedem Untergrund</li><li>bei Kratzern, Lackschäden, Beulen, Dellen und Deformationen</li><li>bei Durchrostung, großflächigen Schäden und Löchern</li><li>Füll-Spachtel härtet ohne Rissbildung, styrolreduziert</li></ul>"
-}

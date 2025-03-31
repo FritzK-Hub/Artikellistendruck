@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>strahlwassergeschützt für Outdoor-Einsatz</li><li>hochwertige und langlebige Materialien</li><li>flexibel montierbar für vielseitige Anwendungen</li><li>einstellbarer Lichtwinkel zur optimalen Ausleuchtung</li><li>einfacher Anschluss und bequeme Bedienung</li></ul>"
-}

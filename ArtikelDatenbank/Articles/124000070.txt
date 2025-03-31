@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li><div>Gießstab zur einfachen Gartenbewässerung</div></li><li>stufenlose, intuitive Einstellung des Wasserstrahls</li><li>ergonomisch geformt</li><li>gut lesbare Markierungen</li><li>hochklassige multifunktionale Gieß-Lanze</li></ul>"
-}

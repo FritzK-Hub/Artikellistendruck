@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>transparente Frischhaltedose mit luftdichtem Deckel</li><li>spülmaschinen- und gefrierfest</li><li>Vorratsbehälter aus Kunststoff</li><li>mit weißem Silikonring</li><li>kein Austreten von Flüssigkeiten und Gerüchen</li></ul>"
-}

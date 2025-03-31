@@ -1,4 +1,0 @@
-{
-    "uvp": 2.39,
-    "attributes": "<ul><li>10 x Bio Müllbeutel</li><li>kompostierbare Papierbeutel</li><li>ideal für Bio-Müll wie Lebensmittel und Speisereste</li><li>für Gemüse-, Früchte- und Eierschalen</li><li>umweltfreundliches Entsorgen</li></ul>"
-}

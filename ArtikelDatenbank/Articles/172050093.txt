@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>mit Knickschutz</li><li>zentrale Kabeleinführung</li><li>PVC-Einsatz</li><li>Spritzwassergeschützt</li><li>mit Deckel<br/></li></ul>"
-}

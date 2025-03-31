@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>offener Werkzeugträger für Werkstatt, Garten und Freizeit</li><li>aus stabilem, schlagfestem Kunststoff</li><li>verstärkter Griff für den sicheren Transport<br/></li><li>zwei getrennte Kammer mit viel Stauraum<br/></li><li>zwei kleine Ablagen für Schrauben oder Kleinteile</li></ul><p><br/></p>"
-}

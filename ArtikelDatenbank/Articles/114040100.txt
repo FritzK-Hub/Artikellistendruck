@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>Servietten mit Sonderpreis-Baumarkt-Motiv</li><li>im Set befinden sich 50 Stück</li><li>mit Prägerand in hochwertiger Qualität</li><li>praktisch und universell einsetzbar</li><li>aus feinem Tissue hergestellt<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.95,
-    "attributes": "<ul><li>Michelin Ventilstecker von Güde</li><li>aus Messing gefertigt</li><li>sehr langlebig und robust</li><li>mit 8 mm Schlauchanschlusstülle</li><li>verfügt über Befestigungsclip<br/></li></ul>"
-}

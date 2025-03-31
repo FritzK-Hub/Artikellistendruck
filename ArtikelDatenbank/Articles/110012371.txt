@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>für den Übergang von unterschiedlichen Rohrdurchmessern in Heizungs-, Gas- und Sanitärinstallationen</li><li>Handwerkerqualität mit besonders hoher Korrosionssicherheit</li><li>zum Hart- und Weichlöten geeignet</li><li>aus hochwertigem Kupfer gefertigt</li><li>einfache und schnelle Installation</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>kleiner Beistelltisch</li><li>mit Zwischenablage</li><li>aus Akazienholz</li><li>geölte Oberfläche</li><li>stabiler Holztisch</li></ul>"
-}

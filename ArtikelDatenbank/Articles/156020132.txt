@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Farbstreicher mit geradem Pinselkopf</li><li>bestens geeignet für große Flächen</li><li>bester Materialauftrag auch bei starken Vertiefungen </li><li>extra kurzer und stabiler Holzgriff</li><li>geeignet für alle Wand-, Decken- und Fassadenfarben</li></ul>"
-}

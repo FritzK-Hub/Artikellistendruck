@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>GERMANIA® LED Akku-Arbeitslampe mit 48 LEDs</li><li>Betrieb mit 20-V-Akku (nicht enthalten)</li><li>mit praktischem Haken zum Aufhängen</li><li>Magnetfuss für stabile Befestigung<br/></li><li>kabellos für vielseitige Einsatzmöglichkeiten</li></ul>"
-}

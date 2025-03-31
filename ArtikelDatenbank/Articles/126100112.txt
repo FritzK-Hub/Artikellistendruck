@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>erleichtert das Schneeräumen in den Wintermonaten</li><li>vielseitig für Gehwege und kleinere Hofflächen geeignet</li><li>robustes Kunststoffgehäuse für eine lange Lebensdauer</li><li>stabiler Griff sorgt für eine sichere Handhabung</li><li>28 cm Auswurfweite erleichtert die Schneeräumung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 176.95,
-    "attributes": "<ul><li>komfortable Gartenset aus schwarzem pulverbeschichteten Metall</li><li>besteht aus zwei Sesseln und einem Beistelltisch</li><li>für mehr Gemütlichkeit im Garten</li><li>inklusive passender schwarze Auflagen aus Polyester</li><li>für den Innen- als auch für den Außenbereich geeignet<br/></li></ul>"
-}

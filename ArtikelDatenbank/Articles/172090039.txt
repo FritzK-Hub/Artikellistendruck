@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Funk Türklingel mit Klingeltaster</li><li>36 Melodien zur Auswahl</li><li>erweiterbar mit zusätzlichem Sender oder Empfänger</li><li>Batteriebetrieb für Sender und Empfänger</li><li>Funkgong mit bis zu 80 m Reichweite</li></ul>"
-}

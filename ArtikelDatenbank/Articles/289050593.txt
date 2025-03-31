@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>flaches Abschlussprofil aus eloxiertem Aluminium</li><li>für einen sauberen, kaum auftragenden und rollstuhlgerechten Abschluss bei Bodenbelägen</li><li>unsaubere Schnittkanten werden verdeckt</li><li>Stolperfallen durch sich aufstellende Teppichkanten werden vermieden</li><li>einfache Montage durch spezielles superhaftendes Doppelklebeband</li></ul>"
-}

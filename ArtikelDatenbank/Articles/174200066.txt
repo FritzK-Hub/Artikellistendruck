@@ -1,4 +1,0 @@
-{
-    "uvp": 54.99,
-    "attributes": "<ul><li>mit Anti-Kalk-Noppen</li><li>3-fach verstellbare Brausefunktion</li><li>höhenverstellbare Wandhalterung</li><li>schwarzer, matter Edelstahl-Brauseschlauch</li><li>inklusive Wasserspardichtung<br/><br/></li></ul>"
-}

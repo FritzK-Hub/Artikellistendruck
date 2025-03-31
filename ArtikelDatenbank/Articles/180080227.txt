@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>passend für nach außen gerichtete Dachecken</li><li>für zuverlässige Dachentwässerung</li><li>aus stabilem PVC</li><li>mit Gummidichtungen</li><li>abgewinkelte Ausführung</li></ul><p><br/></p>"
-}

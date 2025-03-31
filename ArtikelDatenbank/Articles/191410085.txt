@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Schwimmbrille Pro Racer für Kinder ab 7 Jahren</li><li>in drei verschiedenen Farben erhältlich</li><li>aus weichem Silikon gefertigt</li><li>verstellbares Kopfband für angenehmen Tragekomfort</li><li>getönte Gläser für gestochen scharfe Sicht unter Wasser<br/></li></ul>"
-}

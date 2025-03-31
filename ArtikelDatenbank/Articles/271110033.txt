@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>SDS Flachmeißel<strong> </strong>aus einem Stück Stahl geschmiedet</li><li>vielseitig für schlagende Elektrowerkzeuge geeignet</li><li>für Stemmarbeiten in Beton, Mauerwerk, Stein</li><li>werkzeugloser und schneller Wechsel<br/></li><li>hochwertige Qualität, besonders langlebig<br/></li></ul>"
-}

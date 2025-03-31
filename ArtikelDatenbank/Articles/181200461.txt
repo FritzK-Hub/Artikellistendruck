@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>frische Grüntöne</li><li>delikater Aromagenuss</li><li>optimales Wachstum</li><li>einfache Pflege</li><li>vielseitige Verwendungsmöglichkeiten<br/></li></ul>"
-}

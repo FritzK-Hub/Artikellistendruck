@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>2 Gummidichtungen für Saugkupplungen</li></ul>"
-}

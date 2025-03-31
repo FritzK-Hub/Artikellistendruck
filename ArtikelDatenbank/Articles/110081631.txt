@@ -1,4 +1,0 @@
-{
-    "uvp": 129.0,
-    "attributes": "<ul><li>    stabile Obstmühle mit rostfreiem Einfülltrichter    </li><li>zum Aufsetzen auf Saft- und Beerenpressen    </li><li>ca. 7 Liter Fassungsvermögen    </li><li>Schneidwerk und Quetschwalze aus Aluminium    </li><li>großdimensionierte Kurbel für optimale Kraftübertragung  </li></ul>"
-}

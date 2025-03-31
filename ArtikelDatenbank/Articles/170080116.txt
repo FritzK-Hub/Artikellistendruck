@@ -1,4 +1,0 @@
-{
-    "uvp": 5.09,
-    "attributes": "<ul><li>vielseitige Anwendung</li><li>fünf verschiedene Formen</li><li>Kompatibilität mit Bohrschraubern</li><li>präzise Ergebnisse</li><li>hochwertiges Material</li></ul>"
-}

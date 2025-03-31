@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Sprossenpinsel mit geradem Pinselkopf</li><li>bestens geeignet für Feinarbeiten</li><li>spitz zugeschnittene Borsten</li><li>stabiler Holzgriff, Metall-Zwinge</li><li>geeignet für alle Lasuren</li></ul>"
-}

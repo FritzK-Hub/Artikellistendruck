@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Bi-Metall Tauchsägeblatt für Holz und Metall</li><li>breite Anwendungspalette durch HSS gehärtete Zähne</li><li>zum Kürzen von Nägeln</li><li>zum Schneiden von Kupferrohren</li><li>zum Sägen und Bearbeiten von Gipskarton<br/></li></ul>"
-}

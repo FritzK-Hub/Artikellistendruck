@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Ofenrohr Erweiterung feueraluminiert silber</li><li>aus Stahl</li><li>für den Innenbereich</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>effektive Reinigung ohne Chemikalien</li><li>Wabenstruktur für hohe Schmutzaufnahme</li><li>schonende Reinigung ohne Kratzer oder Streifen</li><li>ideal für Trocken- und Nassreinigung</li><li>leicht zu reinigen, waschbar bis 60°C<br/></li></ul>"
-}

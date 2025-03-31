@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>hohe Haftfähigkeit, schnelltrocknend</li><li>ideale Grundierung vor der Decklackierung</li><li>speziell für Kunststoffe, erhöht die Haftung von Decklacken</li><li>alkohol- und Benzinfrei</li><li>leicht schleifbar</li></ul>"
-}

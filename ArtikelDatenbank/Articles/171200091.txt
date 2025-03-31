@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>DecoPro Dauerschutz-Lasur in Ebenholz</li><li>eignet sich für alle maßhaltigen und begrenzt maßhaltigen Holzbauteile</li><li>weist erhöhten UV-Schutz auf, speziell bei dunkleren Farbtönen</li><li>besitzt hohe Flächendeckung, ist tropfbeständig und äußerst witterungsfest</li><li>ist geruchsfrei und blockfest<br/></li></ul>"
-}

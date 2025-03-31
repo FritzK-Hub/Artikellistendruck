@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>GERMANIA® Akku-Bohrhammer 20 V</li><li>verfügt über 2 Funktionen: Bohren und Hammerbohren</li><li>geringer körperlicher Einsatz, erzeugt Schlagenergie durch Hammerwerk</li><li>mit neuster Lithium-Ionen Technologie ausgestattet</li><li>einfache Zweihand-Bedienung dank Zusatzgriff<br/></li></ul>"
-}

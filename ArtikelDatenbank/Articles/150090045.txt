@@ -1,4 +1,0 @@
-{
-    "uvp": 8.79,
-    "attributes": "<ul><li>KFZ Glühlampen Set 8-teilig</li><li>enthält alle notwendigen Glühlampen</li><li>in praktischer Kunststoffbox</li><li>inklusive Fahrzeugsicherungen</li><li>für 12 V Bordsysteme geeignet</li></ul>"
-}

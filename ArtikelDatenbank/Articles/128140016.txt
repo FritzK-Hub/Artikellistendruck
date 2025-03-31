@@ -1,4 +1,0 @@
-{
-    "uvp": 291.95,
-    "attributes": "<ul><li>eleganter Gartenpavillon</li><li>weißes Walmdach</li><li>robustes Stahlgestell</li><li>angenehme Beschattung</li><li>mit PVC-Beschichtung</li></ul>"
-}

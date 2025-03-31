@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Reinigungsschwamm-Set für Kaminscheiben</li><li>zur Trockenreinigung, ganz ohne Chemikalien</li><li>Set besteht aus zwei Schwämme mit feinster Stahlwolle</li><li>einfach den Ruß von der Scheibe trocken abreiben</li><li>kann mehrmals verwendet werden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Schuhregal mit 4 Ebenen für bis zu 8 Paar Schuhen</li><li>aus stabilem, naturbelassenem Holz gefertigt</li><li>sorgt schnell für Ordnung in deiner Schuhsammlung</li><li>einfache und schnelle Montage durch Stecksystem</li><li>ideal für Flure, Terrassen und Schränke<br/></li></ul>"
-}

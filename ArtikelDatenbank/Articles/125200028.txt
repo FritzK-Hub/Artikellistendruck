@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Protect Home Mausefallen-Set Classic 2 Stück </li><li>eine klassische Falle mit Schlagbügel</li><li>besitzt zwei verschiedene Auslösesensibilitäten</li><li>schnelles und effektives Fangen von Mäusen</li><li>ohne Gebrauch von Rattengift einsetzbar<br/></li></ul>"
-}

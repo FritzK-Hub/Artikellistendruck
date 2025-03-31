@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>dekorative LED-Lichterkette mit 100 warmweißen LEDs</li><li>schafft eine stimmungsvolle Wohlfühl-Atmosphäre</li><li>vielseitig einsetzbare Innen- oder Partybeleuchtung</li><li>mit Timerfunktion von 6/18 Stunden, schaltet sich danach wieder aus</li><li>für unterschiedlichste Dekorationsmöglichkeiten im Innenbereich<br/></li></ul>"
-}

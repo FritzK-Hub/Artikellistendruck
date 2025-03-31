@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Garderobe aus Holz</li><li>edles Design</li><li>3 kurze Kleiderhaken</li><li>die Kleiderhaken sind matt verchromt</li><li>inklusive Befestigungsmaterial (Schrauben + Dübel)<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>nicht Strom leitendes Mehrzweck-Fett von Nigrin</li><li>wirkt extrem verschleißmindernd</li><li>schmiert langanhaltend Motoren- und Maschinenteile</li><li>schützt vor Korrosion, Verschleiß und vorzeitiger Alterung</li><li>ist salzwasser- und temperaturbeständig von -30°C bis +120°C</li></ul>"
-}

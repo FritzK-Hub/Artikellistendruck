@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>zur Isolierung von Leiterenden und für Steckverbindungen </li><li>Set bestehend aus verschiedenen Hülsen und Größen</li><li>Anwendung mit Crimpzange</li><li>schnelle und einfache Verwendung</li><li>inklusive transparenten Aufbewahrungsbox<br/></li></ul>"
-}

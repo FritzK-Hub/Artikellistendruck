@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>faltbarer Wasserkanister aus Kunststoff</li><li>ideal für Camping oder Garten</li><li>vormontiertes Drehventil für ein dosiertes Ausschenken</li><li>Einfüllöffnung mit Verschlusskappe</li><li>integrierter Tragegriff für den einfachen Transport<br/></li></ul>"
-}

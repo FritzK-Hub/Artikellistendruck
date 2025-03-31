@@ -1,4 +1,0 @@
-{
-    "uvp": 109.9,
-    "attributes": "<ul><li>Elektroheizung Cephei eckig mit 2 kW von Vitavia</li><li>schützt deine Pflanzen im Frühjahr und Winter vor dem Frost</li><li>für Gewächshäuser mit Innenraum bis zu 30 m³ geeignet</li><li>verfügt über drei Lüftungsstufen und ist spritzwassergeschützt</li><li>sorgt für schnelle und gleichmäßige Luftverteilung<br/></li></ul>"
-}

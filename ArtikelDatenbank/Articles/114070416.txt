@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>modernes und attraktives Design</li><li>hergestellt aus hochwertigem Kunststoff</li><li>sowohl horizontal als auch vertikal aufhängbar</li><li>schützt Fotos vor Staub und Feuchtigkeit dank Standardglas</li><li>einfache und schnelle Montage mittels mitgelieferter Aufhänger<br/></li></ul>"
-}

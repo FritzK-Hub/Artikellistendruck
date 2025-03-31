@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>klassische Wühlmausfalle aus verzinktem Draht</li><li>Set bestehend aus zwei Fallen</li><li>ohne Gebrauch von Gift einsetzbar</li><li>schnelles und effektives Fangen von Wühlmäusen</li><li>ist dank Ringöffnung am Stab fixierbar<br/></li></ul>"
-}

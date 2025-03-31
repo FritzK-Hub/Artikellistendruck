@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Eckregulierventil mit Verlängerung und Schubrosette</li><li>Geräuschklasse I, mit COMFORT Griff</li><li>mit selbstdichtendem Anschlussgewinde</li><li>wassergeschützte Messingspindel durch Fettkammer<br/></li></ul>"
-}

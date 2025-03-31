@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Lichtwellenleiterkabel 2 m in Schwarz</li><li>zum Verbinden von hochwertigen Audio-Komponenten</li><li>ist mit zwei Toslink-Stecker versehen</li><li>zum Anschließen von Geräten an Audioverstärkern oder externen D/A-Wandlern</li><li>passend für Spielkonsolen, CD- oder DVD-Spieler<br/></li></ul>"
-}

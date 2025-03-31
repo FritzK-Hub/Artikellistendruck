@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>20 Liter Graberde, torfreduziert</li><li>naturschwarze Erde ohne Zusatzstoffe</li><li>dunkle Pflanzenerde für eine gepflegte Grabstätte</li><li>aus einem hohen Anteil nachwachsender Rohstoffe</li><li>auch zum Pflanzen geeignet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.89,
-    "attributes": "<ul><li>sicheres Wechseln dank selbstschließendem Ventil</li><li>vielseitig einsetzbar für verschiedene Geräte</li><li>mobile, effiziente Energiequelle</li><li>kompakt und leicht zu lagern</li><li>zuverlässige Leistung durch hochwertiges Gasgemisch</li></ul>"
-}

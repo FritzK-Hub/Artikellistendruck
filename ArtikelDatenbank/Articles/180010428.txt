@@ -1,4 +1,0 @@
-{
-    "uvp": 99.99,
-    "attributes": "<ul><li>vielseitig für verschiedene Akku-Typen einsetzbar</li><li>dank robustem Design outdoortauglich</li><li>sicheres Laden durch mehrere Schutzfunktionen</li><li>einfaches Bedienen durch intelligente Ladeprogramme</li><li>kontinuierliches Laden bei paralleler Nutzung möglich</li></ul>"
-}

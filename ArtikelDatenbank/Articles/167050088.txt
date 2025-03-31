@@ -1,4 +1,0 @@
-{
-    "uvp": 5.29,
-    "attributes": "<ul><li>Rundstahlkette Form A</li><li>kurzgliedrig, wulstlos geschweißt und entgratet</li><li>aus verzinktem Stahl</li><li>Meterware auf Spule</li><li>Länge individuell von 1m bis 25m</li></ul>"
-}

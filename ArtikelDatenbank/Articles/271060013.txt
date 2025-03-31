@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Kreuzmeißel aus Stahl</li><li>zur Verwendung mit dem Hammer</li><li>Handmeißel schwarz lackiert</li><li>ideal für zum Abspanen von Metall</li><li>Handwerkzeug für Bauarbeiten am Mauerwerk</li></ul>"
-}

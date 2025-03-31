@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Faltstuhl mit einem robustem Metallgestell</li><li>Polyesterbespannung sowie Armlehnen für mehr Komfort</li><li>Getränkedosenhalter auf der rechten Stuhlseite</li><li>inklusive praktischer Tragetasche aus Polyester</li><li>bei Nichtgebrauch platzsparend zusammen faltbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Messer zum Schneiden von Dämmstoffen</li><li>Sicherheitsgriff aus Aluminium-Druckguss</li><li>für Mineral- und Dämmstoffe und ideal für Styropor® geeignet</li><li>Dämmstoffmesser mit glatter Schneide</li><li>die passenden Ersatzklingen Artikelnummer 174170129 sind ebenfalls bei uns erhältlic</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Bremszug-Set für Vorderrad</li><li>mit Doppelnippel</li><li>wartungsfrei</li><li>einfache Montage</li><li>Bremszug mit Spezial-Beschichtung</li></ul>"
-}

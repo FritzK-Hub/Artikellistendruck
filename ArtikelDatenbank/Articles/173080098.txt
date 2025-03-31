@@ -1,4 +1,0 @@
-{
-    "uvp": 7.8,
-    "attributes": "<ul><li>Feinmechaniker, Uhrmacherschraubendrehersatz</li><li>Set besteht aus 6 verschiedenen Schraubendreher</li><li>für Reparaturen von Schmuck, Brillen oder Uhren</li><li>auch in der Computertechnik, Feinmechanik oder Modellbau einsetzbar</li><li>bei Nichtgebrauch platzsparend in der Kassette verstaubar<br/></li></ul>"
-}

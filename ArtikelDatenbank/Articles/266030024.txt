@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Maße Rad: (ØxB) ca. 50 x 18 mm</li><li>Maße Platte: (LxB) ca. 50 x 50 mm</li><li>Maße Bohrung Platte: (BxL) ca. 6 x 11 mm</li><li>Gesamthöhe: (H) ca. 72 mm</li><li>Drehgelenk: 360° kugelgelagert</li><li>Tragkraft: max. 40 kg</li><li>Achse: geschraubt</li><li>Material: Stahlblech verzinkt</li><li>Material Rad: Vollgummi</li></ul>"
-}

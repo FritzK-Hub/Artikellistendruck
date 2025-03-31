@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>Heimwerker Starter-Set</li><li>mit umfangreichem Zubehör</li><li>4 praktische Elektro-Werkzeuge</li><li>Schlagbohrmaschine und Stichsäge</li><li>Winkelschleifer und Schwingschleifer</li></ul>"
-}

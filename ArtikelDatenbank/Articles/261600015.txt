@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>vielseitiges Set mit großer Auswahl an Dübeln</li><li>geeignet für Beton und Mauerwerk</li><li>zentrierte Schraubenführung für einfache Montage</li><li>sichere und zuverlässige Befestigung </li><li>praktische Kunststoffbox mit übersichtlicher Sortierung durch Trennblätter<br/></li></ul>"
-}

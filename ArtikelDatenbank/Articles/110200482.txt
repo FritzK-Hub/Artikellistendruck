@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>robustes und langlebiges Fichtenholz</li><li>ideal für Renovierung und Innenausbau</li><li>einfache Handhabung und Anpassung</li><li>perfekte Unterkonstruktion für Platten und Paneelen</li><li>glatte Oberfläche für optimale Montage<br/><br/></li></ul>"
-}

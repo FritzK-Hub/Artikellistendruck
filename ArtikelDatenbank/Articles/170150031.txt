@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Adapter zur schnellen Aufnahme von Lochsägen</li><li>für Bi-Metall-Lochsägen mit dem Außendurchmesser von 32 - 210 mm</li><li>inklusive HSS - Spiralbohrer zur optimalen Zentrierung</li><li>zum Einsatz in Handbohrmaschinen, Standbohrmaschinen und Bohrhämmern</li><li>Qualität von Drillcraft Werkzeuge</li></ul>"
-}

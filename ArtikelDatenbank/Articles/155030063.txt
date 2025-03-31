@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>leistungsfähige Panasonic Evolta Batterien</li><li>nicht wiederaufladbar</li><li>Set beinhaltet 4 AAA-Batterien</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>passend für Spielzeuge, Taschenlampen oder Mauspads</li></ul><p></p>"
-}

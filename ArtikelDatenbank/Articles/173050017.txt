@@ -1,4 +1,0 @@
-{
-    "uvp": 13.8,
-    "attributes": "<ul><li>hochwertige Materialien</li><li>vielseitige Anwendung</li><li>praktische Aufbewahrung</li><li>schneller Bitwechsel</li><li>langlebige Konstruktion<br/></li></ul>"
-}

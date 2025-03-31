@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Biegefeder für Metallverbundrohre</li><li>Spezialstahl aus Vierkantprofil</li><li>zum leichten Biegen enger Radien</li><li>verhindert Stauchungen im Biegeradius</li><li>Hakenöse erleichtert das Entfernen nach Biegevorgang<br/></li></ul>"
-}

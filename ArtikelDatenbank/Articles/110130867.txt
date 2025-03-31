@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>perfekte Ergänzung für den Travel Safe Artikel-Nr. 110130866</li><li>erweitert die Sicherheit deiner Wertsachen im Travel Safe</li><li>ermöglicht die sichere Montage an massiven Stellen</li><li>verhindert Demontage ohne den Schlüssel</li><li>nur für den Rottner Travel Safe geeignet</li></ul><p></p>"
-}

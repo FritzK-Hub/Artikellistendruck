@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>für anspruchsvolle Industrieanwendungen in verschiedenen Branchen</li><li>hohe Dichtheit auch unter extremen Druck- und Temperaturbedingungen</li><li>langlebiges verzinktes Temperguss-Material für hohe Beständigkeit</li><li>einfache und schnelle Montage für eine effiziente Installation</li><li>hochwertige konische Dichtung für zuverlässige Abdichtung<br/></li></ul>"
-}

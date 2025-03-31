@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>gewährleisteter Schmelzpunkt bis max. - 35°C</li><li>sichert eine effektive Kühlung und schützt vor Überhitzung</li><li>garantiert eine längere Lebensdauer des Kühlsystems<br/></li><li>lässt sich problemlos mit Wasser 1:1 oder 1:2 angemischt werden<br/></li><li>schützt sowohl alle Metall- als auch Gummiteile des Kühlsystems gegen Korrosion</li></ul>"
-}

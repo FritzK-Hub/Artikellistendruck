@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>Kugel-Auslaufventil aus verchromtem Stahl</li><li>mit Kunststoff-Auslauftülle 1/2\" </li><li>Tülle 360° drehbar</li><li>erhöhte Frostresistenz bis -20°C</li><li>mit Schlauchverschraubung</li></ul>"
-}

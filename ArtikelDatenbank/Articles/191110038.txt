@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>abnehmbarer LED-Wasserfall für Aufstellpools</li><li>kompatibel mit allen Filtersystemen</li><li>Ausschaltmechanismus nach 2 Stunden</li><li>einfache Installation</li><li>8 verschiedene Farben (davon eine rotierend)<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>leichte Balkon-Halterung mit einfacher Montage</li><li>ideal für Mieter, Wohnungseigentümer und Stadthäuser</li><li>anpassbar an verschiedene Balkonarten und -größen</li><li>Winkel 15-30° für maximale Energieausbeute</li><li>robust und wetterfest<br/></li></ul>"
-}

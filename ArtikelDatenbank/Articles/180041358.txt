@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>robuster Stahl</li><li>ergonomischer T-Griff</li><li>vielseitige Anwendung</li><li>präzise Einstechkante</li><li>leicht und handlich</li></ul>"
-}

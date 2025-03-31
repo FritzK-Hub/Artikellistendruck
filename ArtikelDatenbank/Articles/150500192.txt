@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>geeignet für alle Motorradkettenarten (O-, X- und Z-Ring) und ideal für Straßen- und Geländeeinsätze</li><li>hervorragende Kriech- und Benetzungseigenschaften erreichen alle Schmierstellen der Kette</li><li>abschleuderfester Schmierfilm hält selbst höchsten Umlaufgeschwindigkeiten stand</li><li>langanhaltender Schutz vor Korrosion für eine längere Kettenlebensdauer</li><li>weiße Einfärbung ermöglicht einfache Sichtkontrolle der Schmierung<br/></li></ul>"
-}

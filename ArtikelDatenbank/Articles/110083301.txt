@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Fußmatte aus Kokos mit stabilem Metallrahmen</li><li>für den Innen- und Außenbereich geeignet</li><li>sehr gute Reinigungswirkung</li><li>die Fußmatte ist wetterbeständig</li><li>die Fußmatte lässt sich leicht reinigen</li></ul>"
-}

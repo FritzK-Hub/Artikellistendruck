@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>analoge / mechanische Zeitschaltuhr mit Kinderschutz</li><li>für den trockenen Innenbereich geeignet</li><li>für den Betrieb von Aquarien, Terrarien, Lichterketten u.v.m.</li><li>Zeitzyklus von min. 30 min. bis max. 24 h manuell einstellbar</li><li>Automatik-Betrieb nach Schaltprogramm oder Dauer-EIN</li></ul>"
-}

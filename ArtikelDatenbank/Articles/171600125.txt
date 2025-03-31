@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>farbloses Spezialöl für Holz</li><li>für alle Holzarten geeignet</li><li>ideal für stark beanspruchte Hölzer</li><li>wasserabweisend und antistatisch</li><li>anwendbar im Innen- und Außenbereich</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>praktische Möbelpolitur 175 ml in Teak</li><li>für helle und dunkle Möbel aus Echt- und Leimholz</li><li>entfernt Kratzer, Alkohol und Wasserflecken</li><li>mit Tiefenwirkung gegen Grauschleier</li><li>reinigt, pflegt und erhält die Schönheit deiner Möbel<br/></li></ul>"
-}

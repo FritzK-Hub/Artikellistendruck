@@ -1,4 +1,0 @@
-{
-    "uvp": 29.84,
-    "attributes": "<ul><li>praktischer Teleskopmechanismus</li><li>aus hochwertigem Material</li><li>hohe Belastbarkeit und Stabilität</li><li>langanhaltende Widerstandsfähigkeit</li><li>ideal für diverse Anwendungen<br/></li></ul>"
-}

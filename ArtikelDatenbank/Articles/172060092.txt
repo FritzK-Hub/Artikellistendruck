@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Bananenstecker mit Schraubanschluss</li><li>2 Stück im Set in Schwarz-Rot</li><li>Querloch im Stecker</li><li>Ausführung Büschelstecker </li><li>gerade Bauform mit Isolierhülse</li></ul>"
-}

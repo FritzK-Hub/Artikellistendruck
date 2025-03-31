@@ -1,4 +1,0 @@
-{
-    "uvp": 2.1,
-    "attributes": "<ul><li>Spannungsprüfer 120-250 Volt</li><li>gefahrloses Schrauben</li><li>mit Linse und Metallclip</li><li>dient zur Spannungsanzeige auf einer Leistung</li><li>besonders leicht und handlich<br/></li></ul>"
-}

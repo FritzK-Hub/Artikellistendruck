@@ -1,4 +1,0 @@
-{
-    "uvp": 139.0,
-    "attributes": "<ul><li>maximale Mobilität und Komfort</li><li>staub- und wasserabweisendes Design</li><li>anpassbare Aufbewahrungslösungen</li><li>extrem robust und langlebig</li><li>sicherer Verschlussmechanismus</li></ul>"
-}

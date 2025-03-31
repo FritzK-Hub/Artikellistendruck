@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>GERMANIA® Aschesauger 20 Liter mit 1.200 W Motor</li><li>zur Reinigung von Kaminen oder Kachelöfen </li><li>allergikerfreundlich dank HEPA-Feinfilter</li><li>kann mühelos Ascherückstände absaugen</li><li>Schnellspannverschlüsse für leichtes und einfaches Entleeren <br/></li></ul>"
-}

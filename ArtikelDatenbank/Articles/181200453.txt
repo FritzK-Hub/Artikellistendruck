@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Runkelrübe Eckdorot für ca. 600 Pflanzen</li><li>ist ein wertvoller und leistungsstarker Futterlieferant</li><li>mit roten, walzenförmigen und weißfleischigen Rüben</li><li>nutze die Rübe als Saftfutter und die Blätter als Frischfutter</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.95,
-    "attributes": "<ul><li>30 cm langes Lineal in Silber</li><li>aus rostfreiem Edelstahl gefertigt</li><li>besonders bruchfest, langlebig und verschleißfest</li><li>0-Punkt an der Außenkante</li><li>mit Aufhängeloch<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>beste Verarbeitung</li><li>hergestellt aus Chrom-Vanadium-Stahl</li><li>gefertigt nach DIN ISO 5749</li><li>Kopf poliert</li><li>2-Komponenten Griffhüllen</li></ul>"
-}

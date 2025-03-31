@@ -1,4 +1,0 @@
-{
-    "uvp": 16.89,
-    "attributes": "<ul><li>Übergangsprofil gewölbt 100 x 3,8 x 0,6 cm aus Mesing</li><li>zur dauerhaften Verbindung zweier gleich- oder verschiedenartigen Bodenbelägen</li><li>unsaubere Schnittkanten werden verdeckt</li><li>auf Stoß verlegte Übergänge werden dauerhaft geschützt</li><li>Montage durch spezielle superhaftende Klebestreifen</li></ul>"
-}

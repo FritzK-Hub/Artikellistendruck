@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>hochwertige Rund- und Flachborsten-Pinsel in verschiedenen Größen</li><li>stabile Befestigung der Borsten durch Aluminiumzwingen</li><li>schicke, klassische Holzstiele in Schwarz</li><li>für Anfänger und Fortgeschrittene geeignet</li><li>vielseitig einsetzbar für verschiedene Mal- und Kreativprojekte<br/></li></ul>"
-}

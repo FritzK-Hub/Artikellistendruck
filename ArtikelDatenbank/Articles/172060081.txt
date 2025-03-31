@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Aderendhülsen Sortiment blank 100 Stück</li><li>sind aus verzinntem Metall gefertigt</li><li>geeignet für Kabelquerschnitte von 2,5 mm²</li><li>Befestigung durch Crimpzange</li><li>schützt zuverlässig die Enden von Litzenleitungen</li></ul>"
-}

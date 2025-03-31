@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Dachrinnenverbinder aus PVC</li><li>zum Verbinden von zwei Dachrinnen NW 100</li><li>hochwertige Verarbeitung</li><li>mit Gummidichtungen</li><li>gerade Ausführung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 31.99,
-    "attributes": "<ul><li>Rundschlinge 2 m aus Polyester in gelb von GERMANIA®<br/></li><li>für die verschiedensten Hebe- und Transportaufgaben</li><li>mit einer 8-fachen Sicherung ausgestattet</li><li>verfügt über eine Belastbarkeit von maximal 3000 kg</li><li>vielseitig einsetzbar und einfach in der Anwendung<br/></li></ul>"
-}

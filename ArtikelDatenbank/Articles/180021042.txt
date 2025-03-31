@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li><div>2 robuste Schlauchschellen aus rostfreiem Stahl</div></li><li><div>mit verzinkter Schraube</div></li></ul>"
-}

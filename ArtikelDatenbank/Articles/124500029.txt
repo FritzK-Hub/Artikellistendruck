@@ -1,4 +1,0 @@
-{
-    "uvp": 75.0,
-    "attributes": "<ul><li>Regenwasserdruckschlauch 1 Zoll</li><li>Arbeitsdruck bis 20 bar</li><li>mit einem Durchmesser von 25 mm</li><li>aus gewebeverstärktem Kunststoff</li><li>für die Regenwassernutzung</li></ul>"
-}

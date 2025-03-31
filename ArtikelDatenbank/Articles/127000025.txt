@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>mit ergonomischer Griffform</li><li>gezahnte Schneidmesser zum fixieren</li><li>antihaftbeschichteten, gehärteten Klingen</li><li>integrierte Gleitkufe für eine einfache Führung</li><li>praktische Einhandverriegelung</li></ul>"
-}

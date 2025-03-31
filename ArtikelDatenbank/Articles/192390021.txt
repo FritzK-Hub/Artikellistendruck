@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>starke Saugkraft bietet sicheren Halt</li><li>transparentes Design zur unauffälligen Anbringung</li><li>vielseitige Anwendung an Fenstern möglich</li><li>ohne Rückstände für einfaches Entfernen</li><li>schafft ordentliche und gemütliche Atmosphäre</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>Ofenrohr gerade</li><li>aus Stahlblech, Senotherm lackiert</li><li>für den Innenbereich</li></ul>"
-}

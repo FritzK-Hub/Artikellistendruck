@@ -1,4 +1,0 @@
-{
-    "uvp": 2229.9,
-    "attributes": "<ul><li>modernes Design fördert Gartenästhetik</li><li>stabiles Aluminium, klares ESG, sicheres HKP</li><li>effektiver Sonnenschutz, angenehmes weiches Licht</li><li>Komfort-Größe, optimale Raumausnutzung</li><li>inklusive Alu-Pflanztisch und Alu-Wandregal</li></ul>"
-}

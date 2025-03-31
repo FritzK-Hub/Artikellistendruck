@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>gebrauchsfertige Spezial-Fugenmasse</li><li>für die Reparatur von beschädigten Fliesenfugen</li><li>härtet rissfrei aus</li><li>wasserfest, für Küche und Bad</li><li>für innen geeignet</li></ul>"
-}

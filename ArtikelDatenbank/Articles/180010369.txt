@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>geeignet für alle Rasenarten</li><li>für dichten und sattgrünen Rasen</li><li>Verbesserung des Rasenbodens</li><li>unterstützt das Wachstum</li><li>optimale Nährstoffzusammensetzung<br/></li></ul>"
-}

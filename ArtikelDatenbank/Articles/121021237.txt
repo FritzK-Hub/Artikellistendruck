@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>2 Korrekturroller im Set</li><li>transparentes Gehäuse</li><li>sofort überschreibbar</li><li>korrigiert präzise und schnell</li><li>für jedes Papier geeignet<br/></li></ul>"
-}

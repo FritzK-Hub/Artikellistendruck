@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>WC-Sitz aus MDF mit ansprechendem Grey Steel-Motiv</li><li>hohe Belastbarkeit bis 150 kg</li><li>langlebig: äußerst bruchsicher und kratzfest</li><li>inklusive Befestigungsmaterial zur mühelosen Installation</li><li>passend zu allen handelsüblichen WC-Becken</li></ul><p></p>"
-}

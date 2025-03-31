@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Top-Dünger für alle Tomatenpflanzen</li><li>bedarfsgerechte Versorgung der Tomaten</li><li>auch für andere fruchtbildende Gemüsesorten wie Gurken, Zucchini etc. geeignet</li><li>für gesundes Wachstum, gute Ernte und schmackhafte Früchte</li><li>angepasste Nährstofffreigabe<br/></li></ul>"
-}

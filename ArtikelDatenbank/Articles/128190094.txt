@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>Sitzauflage Samba 110 x 50 x 3 cm in Taupe</li><li>im schlichten, zeitlosen Design</li><li>sorgt für einen angenehmeren Sitzkomfort</li><li>eignet sich für die meisten handelsüblichen Hochlehnerstühle</li><li>durch die praktischen Bändchen und elastischem Band leicht am Stuhl zu befestigen<br/></li></ul>"
-}

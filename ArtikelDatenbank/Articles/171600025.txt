@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>spezielle Öl-Wachs-Kombination</li><li>aus Leinöl, Sonnenblumenöl, Sojabohnenöl und Carnaubawachs</li><li>dringt tief ins Holz ein</li><li>gewährleistet hohen Schutz vor Schmutz und Feuchtigkeit</li><li>besonders füllend <br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>elastische Fugendichtmasse auf Synthesekautschuk-Basis</li><li>temperaturbeständig bis ca. 100°C</li><li>zur Reparatur und Abdichtung von Rissen, Löchern sowie Dehn- und Anschlussfugen</li><li>ideal im Dachbereich, z.B. Regenrinnen, Dachfenstern, Schornsteinen sowie Metallprofilen</li><li>Einsatz auf feuchten oder leicht öligen Untergründen möglich</li></ul>"
-}

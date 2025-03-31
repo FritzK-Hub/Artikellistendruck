@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>zur Blatt und Bodendüngung</li><li>gegen die Braunfärbung von Nadelgehölzen</li><li>sowohl zum streuen als auch zum gießen und spritzen</li><li>besonders gut löslich</li><li>Vorbeugend gegen Magnesiummangelerscheinungen<br/></li></ul>"
-}

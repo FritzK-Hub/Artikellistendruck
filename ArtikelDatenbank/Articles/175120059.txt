@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Ersatz für defekte oder abgenutzte Gasdüsen von Rothenberger</li><li>einfache Montage durch Aufstecken der zylindrischen Düse</li><li>garantiert eine präzise Stromführung</li><li>ideal für professionelle Schweißnähte<br/></li><li>aus hochwertigem blanken Elektrolyt-Kupfer (1,0 x 25 mm)<br/></li></ul>"
-}

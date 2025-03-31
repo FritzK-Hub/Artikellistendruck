@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Schnellverstellzirkel für Schule, Büro und Hobby</li><li>einfache Handhabung</li><li>mit Fuß- und Kniegelenk für präzises Zeichnen</li><li>geeignet für Kreise bis Ø 340 mm </li><li>inklusive Ersatzminen</li></ul>"
-}

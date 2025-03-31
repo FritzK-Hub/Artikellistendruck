@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Poolwasser-Pflege gegen trübes Wasser</li><li>konzentrierter Trübungsentferner</li><li>die Dosierung erfolgt direkt ins Becken oder über den Skimmer</li><li>optimal für Pools mit Kartuschenfilter und Whirlpools</li><li>auch für Sandfilter geeignet</li></ul>"
-}

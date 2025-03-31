@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Bindedraht 12 m aus Aluminium</li><li>1,6 mm Stärke und Kunststoff-Ummantlung </li><li>zuverlässiger Helfer im Garten, Haus oder Hof</li><li>besonders biegsam und leicht zuschneidbar</li><li>universell einsetzbares Aluminiumdraht</li></ul>"
-}

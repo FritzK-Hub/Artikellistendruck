@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>zuverlässige Abdichtung für Wasserinstallations-Verschraubungen</li><li>widerstandsfähig gegen Druck und Temperaturschwankungen</li><li>lang anhaltende Dichtwirkung verhindert Leckagen</li><li>einfache Installation dank präziser Passform</li><li>hergestellt aus robustem Fiber-Material</li></ul>"
-}

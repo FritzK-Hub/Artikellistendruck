@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>einfache und schnelle Befestigung der Kabel</li><li>individuell anpassbar und wiederverwendbar</li><li>ausreichend Klettband auf 1 Meter Rolle</li><li>perfekte Optik durch schwarze Farbe</li><li>aufgeräumter Arbeitsplatz oder Wohnbereich dank Kabelorganisation<br/></li></ul>"
-}

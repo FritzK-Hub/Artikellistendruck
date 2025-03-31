@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Solar Gartenkugel 15 cm aus Glas mit Crash-Optik</li><li>vielseitig einsetzbare Dekoration im Innenbereich</li><li>als dekorativer Orientierungspunkt im Garten einsetzbar</li><li>stabiler Halt dank aufschraubbarem Erdspieß</li><li>eine praktische und umweltfreundliche Gartenbeleuchtung<br/></li></ul>"
-}

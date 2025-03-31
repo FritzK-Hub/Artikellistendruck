@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Beschichtungswalze für alle Bodenbeschichtungen</li><li>gleichmäßiger Materialauftrag</li><li>sehr gute Farbaufnahme und -abgabe</li><li>besonders spritz- und flusenarm</li></ul>"
-}

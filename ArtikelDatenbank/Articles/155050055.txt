@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Deckweiß in 2 Tuben à 7,5 ml</li><li>für weiße Akzente in Kunstwerken</li><li>perfekt zum Mischen von Farben </li><li>praktisches Set mit 2 Tuben auf Vorrat</li><li>Made in Germany</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1099.0,
-    "attributes": "<ul><li>2.000 Liter Regenwasser-Flachtank für Regenwassernutzung</li><li>ausziehbarer Ausgleichsdom von 380 - 580 mm</li><li>mit begehbarer Abdeckung, belastbar bis 200 kg <br/></li><li>3 Anschlüsse nach DN 100 mit Gummilippendichtung</li><li>hergestellt aus umweltfreundlichem PE-Kunststoff</li></ul>"
-}

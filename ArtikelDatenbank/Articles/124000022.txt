@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Reparator zur Schlauchreparatur/Schlauchverbindung</li><li>schnell und einfach ohne Werkzeug Schläuche reparieren/verbinden</li><li>speziell geformte Überwurfmutter für hohe Schlauchhaltekraft und problemlose Montage</li><li>zur schnellen Schlauchreparatur</li><li>geeignet für 3/4\" Gartenschläuche<br/></li></ul>"
-}

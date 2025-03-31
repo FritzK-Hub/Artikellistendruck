@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>3-teiliges Putz-Set für mehr Sauberkeit im Haushalt</li><li>zur gründlichen Reinigung verschiedener Fußböden</li><li>rotierender Mopp nimmt Schmutz und Wasser gut auf</li><li>Kunststoff-Eimer 14 Liter mit Auspress-Sieb</li><li>leicht zu handhaben, für den schnellen Einsatz geeignet<br/></li></ul>"
-}

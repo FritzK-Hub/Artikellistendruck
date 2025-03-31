@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Maler Abdeckband für den Innenbereich</li><li>für glatte und leicht raue Untergründe</li><li>bis zu 7 Tage einsetzbar</li><li>rückstandsfrei entfernbar</li><li>ideal für scharfe Abgrenzungen und Kanten</li></ul>"
-}

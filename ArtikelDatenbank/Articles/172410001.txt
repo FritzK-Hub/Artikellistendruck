@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>leistungsfähige Akku Batterien</li><li>Typ AAA, Micro</li><li>wiederaufladbar mit hoher Kapazität</li><li>im 4-er Pack</li><li>gute Performance mit hoher Anzahl an Ladezyklen, bei geringer Selbstentladung<br/></li></ul>"
-}

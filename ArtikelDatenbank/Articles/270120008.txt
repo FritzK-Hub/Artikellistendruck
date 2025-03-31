@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>3-teiliges Set mit Ø 2,35 mm Aufnahme</li><li>ideal für Kleinbohrmaschinen</li><li>geeignet zum Reinigen und Polieren</li><li>universell einsetzbar</li><li>auch an schwer erreichbaren Stellen, von Silber, Edelmetallen und Mineralien <br/></li></ul>"
-}

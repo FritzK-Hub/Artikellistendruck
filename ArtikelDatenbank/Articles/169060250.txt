@@ -1,4 +1,0 @@
-{
-    "uvp": 7.09,
-    "attributes": "<ul><li>Pattex® Kintsuglue Knete 3 x 5 g mit weicher Haptik</li><li>zur Reparatur oder Rekonstruktion vieler Materialien</li><li>geprüft für Leitung mit maximaler Spannung von 24 V</li><li>bereits nach ca. 10 - 15 Senkunden durchkneten einsatzbereit</li><li>Kälte- und hitzeresistent, wasserfest, übermalbar und wiederablösbar</li></ul>"
-}

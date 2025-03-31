@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Sandmuschel 87 x 78 x 20 cm in blau</li><li>aus robustem und elastischem Kunststoff</li><li>inklusive Deckel für ein sicheres verschließen</li><li>lässt sich mit Sand oder Wasser befüllen</li><li>die abgerundeten Kanten schützen vor für Verletzungen<br/></li></ul>"
-}

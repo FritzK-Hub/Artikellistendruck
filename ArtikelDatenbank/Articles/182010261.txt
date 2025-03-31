@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Luftmatratze 183 x 69 cm mit zwei Luftkammern</li><li>aus strapazierfähigem PVC gefertigt</li><li>für Pool, See oder am Strand geeignet</li><li>verfügt über eine Belastbarkeit von ca. 80 kg</li><li>inklusive Reparaturflicken-Set<br/></li></ul>"
-}

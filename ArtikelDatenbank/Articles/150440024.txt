@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>erwärmt Mahlzeiten ohne Mikrowelle</li><li>praktisches Besteckfach inklusive Besteck</li><li>leicht zu reinigen und spülmaschinengeeignet</li><li>kompakt und ideal für unterwegs</li><li>sicherer Transport ohne Verschütten</li></ul>"
-}

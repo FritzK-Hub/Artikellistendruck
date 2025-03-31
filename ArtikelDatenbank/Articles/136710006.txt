@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>leichte Kreuzwasserwaage aus Kunststoff<br/></li><li>zum genauen in Waage bringen von Werkstücken</li><li>2 Libellen in rechtwinkliger Position zueinander</li><li>2 Bohrlöcher zur einfachen Schraubbefestigung z.B. an Holzpfosten, Trägern<br/></li><li>mit Magnet zur einfachen und lösbaren Anbrinung an eisenhaltige Metall-Werkstücke<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.95,
-    "attributes": "<ul><li>Spezialdübel für die Montage in Gasbeton- oder Porenbetonwänden</li><li>zur Befestigung von leichten bis mittelschweren Gegenständen wie Regalen, Haken oder Lampen</li><li>stabiler Rand verhindert ein versehentliches Hineinrutschen und sorgt für stabilem Halt</li><li>auch für den Elektrobereich einsetzbar, besteht aus nichtleitenden Kunststoff</li><li>mitgeliefertes Setzwerkzeug mit Sechskantschaft erleichtert die Montage<br/></li></ul>"
-}

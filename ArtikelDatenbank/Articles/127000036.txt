@@ -1,4 +1,0 @@
-{
-    "uvp": 12.49,
-    "attributes": "<ul><li>mit ergonomisch geformtem Griff</li><li>abgewnikeltes Griffende</li><li> besonders lange Lebensdauer</li><li>eingearbeitete Weichkomponente am Griffende</li><li>unempfindlich gegen Schmutz</li></ul>"
-}

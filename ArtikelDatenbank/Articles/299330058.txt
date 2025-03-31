@@ -1,4 +1,0 @@
-{
-    "uvp": 21.99,
-    "attributes": "<ul><li>universell einstellbarer Pfostenträger</li><li>höhen- und breitenverstellbar</li><li>zum Aufdübeln</li><li>schnelle und einfache Montage</li><li>ideal für Pergolen und Sichtschutzzäunen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.29,
-    "attributes": "<ul><li>Vierkantrohr aus eloxiertem Aluminium</li><li>z. B. zu, Bau von Rahmen oder Gestellen</li></ul>"
-}

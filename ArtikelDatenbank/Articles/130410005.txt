@@ -1,4 +1,0 @@
-{
-    "uvp": 599.0,
-    "attributes": "<ul><li>schnelle, punktuelle Wärme ohne Luftverwirbelungen</li><li>flexibel einsetzbar für Bau- und Arbeitsbereiche</li><li>leicht transportierbar dank Tragegriff</li><li>hohe Effizienz bei Dieselbetrieb</li><li>robustes Design für anspruchsvolle Umgebungen</li></ul>"
-}

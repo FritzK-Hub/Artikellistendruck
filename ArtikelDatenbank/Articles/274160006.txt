@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Stanzstifthalter für Knabberer</li><li>einfach auszutauschen</li><li>ca. 4 mm Innendurchmesser</li><li>aus robustem Metall<br/></li></ul>"
-}

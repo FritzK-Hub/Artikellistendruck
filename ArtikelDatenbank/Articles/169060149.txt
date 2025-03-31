@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Pattex® Sekundenkleber \"Plastik\" mit Aktivator</li><li>speziell für Kunststoff, Plastik und Spielzeugmodellen</li><li>ein starker und schnell-trocknender Klebstoff</li><li>flüssige Zusammensetzung füllt Ecken und Spalten</li><li>für unsichtbare Klebeverbindung nach transparentem Austrocknen</li></ul>"
-}

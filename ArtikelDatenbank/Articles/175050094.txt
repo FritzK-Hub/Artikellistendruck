@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>fünfteiliges Druckluft Set</li><li>Reifenfüller mit Manometer</li><li>große Auswahl an Einsatzmöglichkeiten</li><li>ideal für den Hobbyheimwerker</li><li>Sprühpistolenkörper aus hochwertigem Alu-Druckguss</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>schwarzer Deckaufstrich auf Latex-Bitumenbasis</li><li>dient zum Schutz und Pflege versprödeter Bitumen-Dachbahnen</li><li>trocknet zu einer nahtlosen, wasserabweisenden Beschichtung aus</li><li>wasserabweisend, besonders beständig gegen vorkommende betonaggressive Stoffe</li><li>besitzt ein gutes Deckungsvermögen und Haftfähigkeit<br/></li></ul>"
-}

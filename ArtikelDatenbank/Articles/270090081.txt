@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>bestehend aus zwei Siliciumkarbid-Trennscheiben und einer Aufnahme</li><li>dient zum Schneiden von Glas und Mineralwerkstoffe</li><li>vielseitig als Multifunktionswerkzeug oder Gravurwerkzeug</li><li>optimale Ergänzung für unterschiedliche Schneidarbeiten</li><li>sorgt für besonders gute und präzise Schnittergebnisse<br/></li></ul>"
-}

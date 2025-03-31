@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>Pfostenträger in H-Form</li><li>zum Einbetonieren</li><li>aus feuerverzinktem Stahl</li><li>für Holzzäune und Holzkonstruktionen</li><li>gibt Stabilität und sicheren Halt</li></ul>"
-}

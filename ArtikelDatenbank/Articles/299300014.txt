@@ -1,4 +1,0 @@
-{
-    "uvp": 6.79,
-    "attributes": "<ul><li>Lochplattenwinkel 90 x 90 x 65 mm mit Steg</li><li>aus aus rostfreiem Edelstahl gefertigt</li><li>Löcher beidseitig versenkt</li><li>ideal für den Holzbau geeignet</li><li>vielseitig einsetzbar</li></ul>"
-}

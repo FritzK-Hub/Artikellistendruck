@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>2 schwarze BBG Grillpinsel im Set</li><li>je einer 19 und 21 cm lang</li><li>aus Kunststoff</li><li>mit Borsten und Aufhängeöse</li><li>einfach zu reinigen</li></ul>"
-}

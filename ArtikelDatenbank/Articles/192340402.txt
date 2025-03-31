@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Kerze im Glas rund 10 cm mit Weihnachts-Motiv</li><li>ist in verschiedenen Ausführungen erhältlich</li><li>sorgt für eine festliche Stimmung zur Weihnachtszeit</li><li>vielseitig einsetzbare Weihnachtsdekoration</li><li>gut als Winterzeit-Dekoration sowie als Geschenkidee<br/></li></ul>"
-}

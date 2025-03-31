@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li>1/4\" für die vielen kleinen Aufgaben bei Hobby und Haushalt</li><li>rutschfester, ergonomisch geformter 2-Komponenten-Griff</li><li>gekröpftes Design für komfortables Arbeiten</li><li>mit Schnellspanner-Einsatz für sicheren Halt</li><li>fein gezahnt für enge Arbeitsbereiche<br/></li></ul>"
-}

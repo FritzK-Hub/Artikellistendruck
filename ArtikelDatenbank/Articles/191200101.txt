@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>langlebig: zusammensteckbares und pulverbeschichtetes Stahlgestell</li><li>individuell anpassbar: verchromtes Grillrost mit Schutzring und höhenverstellbarem Kettenzug</li><li>Feuerschale mit Ablage und großem Fassungsvermögen für Holzkohle oder Brennholz</li><li>Innenring für noch mehr Standfestigkeit und Stabilität des Schwenkgrills</li><li>demontierte Lieferung im Farbkarton mit Anleitung für einfache Montage<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Verschraubung universell einsetzbar für die Sanitär-, Heizungs-, Gas-, Öl-und Druckluftinstallation</li><li>korrosionsbeständiges Material für zuverlässige Leistung in verschiedenen Umgebungen</li><li>einfache Installation keine Spezialwerkzeuge erforderlich</li><li>einfache und sichere Verbindung zwischen Kupferrohren</li><li>konisch dichtend</li></ul><p></p>"
-}

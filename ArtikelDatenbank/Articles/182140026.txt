@@ -1,4 +1,0 @@
-{
-    "uvp": 10.79,
-    "attributes": "<ul><li>LED Rücklicht für den Gepäckträger</li><li>StVZO zugelassen</li><li>Mit integriertem Z-Reflektor</li><li>leuchtet bis zu 50.000 Stunden</li><li>Fahrradschlussleuchte inkl. Befestigungsschrauben</li></ul>"
-}

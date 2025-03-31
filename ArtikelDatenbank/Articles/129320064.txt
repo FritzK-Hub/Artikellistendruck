@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>vollherziger Kopf</li><li>hohe Festigkeit</li><li>gute Hitzebeständigkeit</li><li>innovative Lagerungsmöglichkeiten</li><li>Großzügige Ernte pro Meter<br/></li></ul>"
-}

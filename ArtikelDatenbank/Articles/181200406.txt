@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Rosmarin mehrjährig reicht für ca. 50 Pflanzen</li><li>besonders starkes Aroma, wird mitgekocht oder mitgebraten</li><li>zur leckeren Verfeinerung deiner Fleisch- und Fischgerichte</li><li>fördert die Durchblutung und ist zudem krampflösend</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

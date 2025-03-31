@@ -1,4 +1,0 @@
-{
-    "uvp": 149.0,
-    "attributes": "<ul><li>leistungsstark, für schnelle und effektive Gartenarbeit</li><li>mit 3in1-Funktion: Saugen, Blasen und Häckseln</li><li>Häckselfunktion reduziert Volumen der Gartenabfälle</li><li>40-Liter-Fangsack für einfaches Entleeren</li><li>hoher Tragekomfort dank Schultergurt und Zusatzhandgriff<br/></li></ul>"
-}

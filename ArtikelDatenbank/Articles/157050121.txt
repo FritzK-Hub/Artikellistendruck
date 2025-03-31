@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>bildet einen optimalen Haftgrund für die Lackierung</li><li>für die dauerhafte Grundierung von metallischen, blanken oder grobporigen Flächen vor der Lackierung</li><li>anwendbar auf lackierten oder grundierten Flächen</li><li>ist schnelltrocknend, waschanlagen- und wetterfest</li><li>färbt die behandelten Flächen grau</li></ul>"
-}

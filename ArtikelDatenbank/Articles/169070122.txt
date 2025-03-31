@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>zusätzliche Sicherheit</li><li>Kontrolle über den Zugang</li><li>drei Schlüssel für Flexibilität</li><li>einfache Installation</li><li>unauffälliges Design<br/><br/></li></ul>"
-}

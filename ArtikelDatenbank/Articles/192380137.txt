@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>dekorativ gestaltete Geschenktüte „Hologramm“</li><li>in verschiedenen Farben erhältlich</li><li>Kordel für den einfacheren Transport</li><li>hochwertiges Material, sehr gute Verarbeitung</li><li>ideal für kleine Geschenke oder Aufmerksamkeiten<br/></li></ul>"
-}

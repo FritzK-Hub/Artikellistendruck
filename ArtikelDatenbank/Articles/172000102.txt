@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schutzkontaktsteckdose Monaco mit Kindersicherung</li><li>bietet Steckplatz für 230-Volt-Elektrogeräte</li><li>passt sich jedem Wohnbereich an</li><li>waagerechte oder senkrechte Montagen möglich</li><li>integrierte Steckklemmen erleichtern den Anschluss<br/></li></ul>"
-}

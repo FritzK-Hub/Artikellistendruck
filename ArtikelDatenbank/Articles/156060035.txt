@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Stuckateurspachtel aus Edelstahl</li><li>mit lackiertem Holzgriff</li><li>für Ausbesserungsarbeiten mit Mörtel, Putzen und Gips</li><li>rostfrei für lange Lebensdauer</li><li>leicht zu reinigen</li></ul>"
-}

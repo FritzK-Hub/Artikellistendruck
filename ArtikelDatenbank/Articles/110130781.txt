@@ -1,4 +1,0 @@
-{
-    "uvp": 2.19,
-    "attributes": "<ul><li>Regalkonsole Altura 120 x 80 mm in Weiß</li><li>aus pulverbeschichtetem Stahl gefertigt</li><li>verfügt über eine Belastbarkeit von bis zu 16 kg</li><li>zum Bau von Regalböden</li><li>passend für Regalböden 80 mm und 120 mm</li></ul>"
-}

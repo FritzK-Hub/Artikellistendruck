@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>5 Stück Diazed Sicherungen</li><li>Ausführung der Diazedsicherung: DII/ E27</li><li>träge Auslösecharakteristik </li><li>Schmelzsicherung</li><li>mit Betriebsklasse gL/gG (Ganzbereichs-Leitungsschutz/Ganzbereichs-Geräteschutz)</li></ul>"
-}

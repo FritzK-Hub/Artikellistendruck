@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li><div>1/2\" Schlauchverbinder zur Gartenschlauch-Verbindung</div></li><li><div>schnell und einfach ohne Werkzeug Schläuche reparieren / verbinden</div></li><li><div>speziell geformte Überwurfmutter für hohe Schlauchhaltekraft</div></li><li><div>Reparator zur schnellen Schlauchreparatur</div></li><li>Verbindungsstück geeignet für 1/2\" Gartenschläuche</li></ul>"
-}

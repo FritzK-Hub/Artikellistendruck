@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Finish des Shabby-Chic-Looks mit hochwertigen Bienenwachsen</li><li>schnelle Trocknung: in 2 Stunden staubtrocken</li><li>effektiver Schutz auf unbehandelten Oberflächen</li><li>einfache Anwendung für perfekte Versiegelung</li><li>strapazierfähig und langanhaltende Möbelpflege</li></ul><p></p>"
-}

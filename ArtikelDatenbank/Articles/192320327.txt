@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>energieeffiziente Beleuchtung durch Timer-Funktion</li><li>witterungsbeständig dank spritzwassergeschützter Batteriebox</li><li>zwei Lichtfarbvarianten zur Wahl und individuellen Gestaltung</li><li>flexibel einsetzbar in Beeten oder Kübeln</li><li>stilvolle Akzentsetzung im Gartenbereich</li></ul>"
-}

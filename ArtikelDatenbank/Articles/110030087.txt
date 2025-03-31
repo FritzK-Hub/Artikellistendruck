@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>4-teiliges Bodenreinigungssystem</li><li>Klappwischer passend für viele handelsübliche Bezüge</li><li>stabiler, stufenlos verstellbarer Teleskopstiel aus Metall</li><li>Bezüge aus Microfaser für schonende Reinigung auch ohne Chemie</li></ul>"
-}

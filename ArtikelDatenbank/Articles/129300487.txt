@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>eindrucksvolle Auflockerung von Gartenbeeten</li><li>liebt sonnige Standorte und lockeren Boden</li><li>einfach zu pflanzen und zu pflegen</li><li>perfekt als Schnittblume geeignet</li><li>farbige Blütenpracht in verschiedenen Tönen</li></ul>"
-}

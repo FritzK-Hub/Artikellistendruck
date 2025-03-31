@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>fahrbarer Kugelgrill mit großer Grillfläche<br/></li><li>aus rot lackiertem Edelstahl gefertigt</li><li>Ascheauffangbehälter erleichtert die Reinigung</li><li>Räder und Griff für einen einfachen Transport</li><li>inklusive einstellbaren Lüftungen und Thermostat<br/></li></ul>"
-}

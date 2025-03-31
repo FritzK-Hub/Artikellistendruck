@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>Crimpzange für Aderendhülsen</li><li>Kabelschuhzange mit Trapezpressung</li><li>Pressbereich von ca. 0,5 bis 6 mm²</li><li>Zangenlänge: ca. 280 mm</li><li>Material Griff: PVC</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Kinder-Spaten mit Stiel</li><li>Schaufel aus Stahlblech,</li><li>farbig beschichtet in der Farbe blau</li><li>Stahlblech Cadmium- und bleifrei</li><li>Holzstiel Länge 76cm</li></ul>"
-}

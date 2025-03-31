@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>GERMANIA® Oberfräse 1200 W</li><li>zum Erstellen von Nuten, Fasen und Profilen</li><li>mit Staubabsaugadapter</li><li>inklusive Spannzangen 6 &amp; 8 mm</li><li>zuzüglich Zirkelspitze</li></ul>"
-}

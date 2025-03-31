@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Bestway Poolleiter 3-stufig mit 150 kg Tragkraft</li><li>ideal für Pools mit einer Wandhöhe von 84 bis 107 cm</li><li>mit Stahlrahmen sorgt für die nötige Stabilität</li><li>drei-Stufig je Seite mit Antirutsch-Beschichtung</li><li>Kindersicherung durch hochklappbaren Einstieg <br/></li></ul>"
-}

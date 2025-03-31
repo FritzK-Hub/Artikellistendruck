@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>Steckdosenleiste 6-fach mit Schalter in schwarz</li><li>für den Innenbereich geeignet</li><li>Steckplätze sind im 45°-Winkel angeordnet</li><li>verfügt über eine integrierte Kindersicherung</li><li>inklusive 1,4 m langem Netzkabel<br/></li></ul>"
-}

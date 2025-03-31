@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Seifenblasenmaschine für Kleinkinder batteriebetrieben</li><li>riesiger Spielspaß mit dutzenden von Seifenblasen</li><li>ein Muss auf jeder Geburtstags- oder Gartenfeier</li><li>für Kinder ab 3 Jahren geeignet</li><li>inklusive Seifenflüssigkeit 50 ml<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 44.9,
-    "attributes": "<ul><li>umfangreiches, 204-teiliges Bohrer-Set</li><li>beinhaltet verschiedene Bohrertypen, Adapter und Verlängerungen</li><li>vielseitig rund um Haushalt, Werkstatt oder Projekte einsetzbar</li><li>jedes Werkzeug in diesem Set ist von hoher Qualität und langlebig</li><li>praktische Aufbewahrung im mitgeliefertem Kunststoffkoffer</li></ul>"
-}

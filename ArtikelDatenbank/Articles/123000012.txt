@@ -1,4 +1,0 @@
-{
-    "uvp": 2.89,
-    "attributes": "<ul><li>halbrunde Strauchstütze aus Metalldraht</li><li>ideales Stützelement für Sträucher und Stauden</li><li>aus robustem Metalldraht im unauffälligen Grünton</li><li>witterungsbeständig durch Kunststoffummantelung</li><li>lässt sich leicht in die Erde einbringen</li></ul>"
-}

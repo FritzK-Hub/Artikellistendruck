@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>auswechselbare Bauteile ermöglichen den Anschluss direkt über dem Ablaufrohr</li><li>sorgt für effiziente Ableitung von Regenwasser</li><li>schützt das Gebäude vor Feuchtigkeit</li><li>aus hochwertigem Kunststoff Polypropylen</li><li>einfache Installation</li></ul>"
-}

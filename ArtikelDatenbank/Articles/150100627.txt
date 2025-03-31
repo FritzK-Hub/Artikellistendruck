@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>für die Befestigung von Planenriemen, Anhängernetzen und Planen mit Schlitzösen</li><li>besonders langlebige Konstruktion, aus verzinktem Stahlblech gefertigt</li><li>bieten eine einfache und sichere Möglichkeit, Planenriemen und Anhängernetze zu befestigen</li><li>vielseitige Einsatzmöglichkeiten, ob auf Baustellen, im Garten oder für den Transport von Waren</li><li>4-teiliges Set für ausreichend Befestigungsmöglichkeiten, ob gewerblich oder privat</li></ul>"
-}

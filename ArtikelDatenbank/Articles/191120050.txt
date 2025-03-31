@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>hochwirksamer Breitbandeffekt gegen Algenbildung</li><li>mit hoher Ergiebigkeit für langanhaltenden Schutz</li><li>besonders schaumarm für klares Wasser</li><li>eignet sich für alle Arten von Schwimmbecken</li><li>lässt sich schnell und einfach dosieren</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>umweltfreundliches Spezial-Filterpapier</li><li>optimale Filtration, dank hochwertiger Microfilter</li><li>Sparset mit 5 Staubsaugerbeuteln in einer Packung</li><li>passend für verschiedene Staubsaugertypen</li><li>3-lagig, langlebig und reißfest</li></ul>"
-}

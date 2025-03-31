@@ -1,4 +1,0 @@
-{
-    "uvp": 357.95,
-    "attributes": "<ul><li>3-Sitzer Holzbank<br/></li><li>im Kolonial-Antik Stil</li><li>extra stabile Gartenbank<br/></li><li>mit Rücken- und Armlehne</li><li>Eukalyptusholz, dunkel geölt</li></ul>"
-}

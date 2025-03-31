@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>2 Meter Saatband Schnittpetersilie Mooskrause 2</li><li>ist ein sehr ertragreiche, krausblättrige Sorte</li><li>verfügt über einen hohen Vitamin-C-Gehalt</li><li>ideal für den Anbau in Töpfen oder Balkonkästen</li><li>zur Verfeinerung Suppen oder Soßen geeignet<br/></li></ul>"
-}

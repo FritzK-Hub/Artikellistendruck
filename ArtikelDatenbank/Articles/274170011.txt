@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>3 in 1 Multifunktionsmesser von Oakwood</li><li>Messer, Säge und Cutter inklusive 5 Ersatzklingen</li><li>inklusive Aufbewahrungstasche</li><li>stabiler Gürtelclip am Griff</li><li>Klingen aus hochwertigem Edelstahl<br/></li></ul>"
-}

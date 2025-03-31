@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>handlich leicht mit nur 840g Eigengewicht</li><li>216 km/h maximale Luftgeschwindigkeit</li><li>flexibler Griff, um 270 Grad drehbar</li><li>vier Düsen für vielseitige Anwendungen</li><li>auch für schwer erreichbare Stellen geeignet</li></ul>"
-}

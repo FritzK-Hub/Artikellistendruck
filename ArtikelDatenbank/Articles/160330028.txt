@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>atmungsaktive Clogs für Damen aus Filz</li><li>sind in den Größen 36 – 41 erhältlich</li><li>gute Passform sorgt für angenehmen Tragekomfort</li><li>Material ist besonders wärmedämmernd</li><li>sorgen für warme Füße in der kalten Jahreszeit<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 179.95,
-    "attributes": "<ul><li>Energiespeicher für Fahrzeuge mit Start-Stopp-Automatik</li><li>hohe Kaltstartleistung für sicheres Starten des Motors</li><li>robuste Konstruktion mit hoher Vibrationsfestigkeit</li><li>wartungsfrei und auslaufsicher für mehr Sicherheit</li><li>mehrmaliges Starten eines warmgelaufenen Motors möglich<br/></li></ul>"
-}

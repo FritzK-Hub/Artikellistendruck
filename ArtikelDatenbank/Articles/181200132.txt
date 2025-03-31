@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>kann bis September geerntet werden</li><li>zur Winterversorgung ist der Anbau in Balkonkästen oder Töpfen möglich</li><li>eignet sich besonders zum Frischverzehr und für knackige Salate</li><li>ertragreich, gesund und lecker</li><li>kein großer Pflegeaufwand notwendig<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>elegante Ästhetik</li><li>höhenverstellbare Duschhalterung</li><li>Robustheit und Leichtigkeit</li><li>hohe Flexibilität</li><li>8 verschiedene Strahlvarianten</li></ul>"
-}

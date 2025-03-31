@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>praktischer Warnkegel 30 cm in leuchtend Rot</li><li>zur schnellen Absicherung von Bereichen </li><li>für Fahrübungsbereiche oder privater Baustellenabsicherung<br/></li><li>leuchtendes Rot und Reflektorstreifen für mehr Sichtbarkeit</li><li>sichtbar auch bei Nacht oder schlechten Wetterverhältnissen<br/></li></ul>"
-}

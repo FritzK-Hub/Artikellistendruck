@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Gartenhandschuhe Eco Grip Größe 9 aus Polyester</li><li>Handinnenfläche mit Latex-Beschichtung versehen</li><li>ermöglicht eine reibungslose Arbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>angenehmer Komfort bei der Gartenarbeit<br/></li></ul>"
-}

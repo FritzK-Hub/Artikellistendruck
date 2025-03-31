@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Auspuff-Kitt ist hitzebeständig bis 500 °C</li><li>repariert schnell und dauerhaft Löcher und Risse im Auspuffsystem</li><li>verschließt die Schadstelle gasdicht</li><li>ist hitzestabil und asbestfrei</li><li>einfach und sicher zu verarbeiten</li></ul>"
-}

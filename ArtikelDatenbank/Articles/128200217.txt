@@ -1,4 +1,0 @@
-{
-    "uvp": 109.95,
-    "attributes": "<ul><li>Tischfeuer Tenderflame „Tulpe 18\" in weiß mit 3-fach Docht</li><li>schafft in Wohnräumen oder Balkon eine entspannte Atmosphäre</li><li>das Feuer erlischt sofort, sobald kein Brennstoff mehr da ist</li><li>ist rauch- und geruchsneutral, ideal für den Innenbereich</li><li>voller Tank kann 4 bis 5 Stunden am Stück brennen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>bequeme Hängematte für eine Person</li><li>aus einer Mischung aus Baumwolle und Polyester angefertigt</li><li>nützliche Ergänzung für deinen Sommergarten</li><li>bei Nichtgebrauch platzsparend aufbewahrbar</li><li>inklusive praktischer Tragetasche<br/></li></ul>"
-}

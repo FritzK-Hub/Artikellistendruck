@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Zeichenblock mit 20 Blatt in DIN A4</li><li>extra starkes Papier</li><li>holzfrei und geleimt</li><li>2 verschiedene Deckblattmotive</li><li>für Schule und Zuhause<br/></li></ul>"
-}

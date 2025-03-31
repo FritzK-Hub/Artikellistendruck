@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<ul><li>hochwertige Kleber- und Farbentfernen von Meffert</li><li>dient zur Entfernung von frischen und eingetrockneten Farb-, Öl-, Fett- und Klebstoffresten</li><li>zur Reinigung von frischen und eingetrockneten Pinseln, Bürsten und Rollen </li><li>gelartig, haftet an senkrechten Flächen und Decken</li><li>farblos und biologisch abbaubar<br/></li></ul>"
-}

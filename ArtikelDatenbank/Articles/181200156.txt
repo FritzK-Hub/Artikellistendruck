@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Kamille Bodegold einjährig, für ca. 4 m²</li><li>gehört mit zu den wichtigsten Heilpflanzen</li><li>Teeaufguß wirkt bei Magenschmerzen</li><li>kann auch für Dampfbäder genutzt werden</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

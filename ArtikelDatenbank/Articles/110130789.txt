@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>aus hochwertigem Material gefertigt </li><li>besonders langlebig und stabil</li><li>vielseitige Aufbewahrungslösung</li><li>robuste Belastbarkeit</li><li>einfache Montage</li></ul>"
-}

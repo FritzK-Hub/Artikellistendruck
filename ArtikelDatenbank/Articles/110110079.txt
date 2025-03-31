@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>langlebig und stabil</li><li>vielseitig einsetzbar</li><li>handlich und platzsparend</li><li>effiziente Reinigungsleistung</li><li>komfortabler Halt</li></ul>"
-}

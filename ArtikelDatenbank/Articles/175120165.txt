@@ -1,4 +1,0 @@
-{
-    "uvp": 15.49,
-    "attributes": "<ul><li>zum Weichlöten von Kupferrohren in der Kalt- und Warmwasserinstallation</li><li>nur in Verbindung mit Fittingslötpaste oder Fittingsflussmittel verwendbar</li></ul>"
-}

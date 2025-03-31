@@ -1,4 +1,0 @@
-{
-    "uvp": 1399.0,
-    "attributes": "<ul><li>einfache 7-Gang-Nexus-Nabenschaltung</li><li>mit Ladezustandsanzeige</li><li>bis zu 70 km Reichweite</li><li>Klimafreundlich, schnell und gesund</li><li>die bewegungsfördernde Alternative zum Auto</li></ul><p><br/></p>"
-}

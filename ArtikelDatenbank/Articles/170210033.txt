@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>praktischer Teelichthalter aus Eisen in Gold</li><li>schöne Dekoration für dein Zuhause</li><li>schafft eine gemütliche Atmosphäre</li><li>modernes Design</li><li>sowohl für normale als auch LED-Kerzen<br/></li></ul>"
-}

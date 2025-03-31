@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>50 ml Schuhcreme in braun, schwarz oder farblos</li><li>seidiger Glanz ohne nachpolieren</li><li>mit Schwammaufträger</li><li>selbst glänzend</li><li>für glattes Leder</li></ul>"
-}

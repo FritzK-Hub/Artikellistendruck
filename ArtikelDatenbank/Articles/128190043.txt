@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>zur Teakholzpflege und -schutz</li><li>speziell für Teak- oder Hartholzgartenmöbel</li><li>einfache Anwendung</li><li>sorgt für längeren Farberhalt</li><li>hochwertige Qualität<br/></li></ul>"
-}

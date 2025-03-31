@@ -1,4 +1,0 @@
-{
-    "uvp": 4.43,
-    "attributes": "<ul><li>Zündkerzeneinsatz 1/2 Zoll Antrieb</li><li>Antriebsprofil Vierkant<br/></li><li>aus Chrom-Vanadium-Stahl</li><li>geschmiedet verchromt poliert</li><li>mit Gummi-Einsatz zur Fixierung<br/></li></ul>"
-}

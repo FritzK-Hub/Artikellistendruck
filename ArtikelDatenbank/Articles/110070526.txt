@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Kamintür aus verzinktem Stahlblech</li><li>mit zusätzlicher Dichtung und Abtropfkante</li><li>aushängbares Türblatt mit Hebelverschluss</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 539.95,
-    "attributes": "<ul><li>7-teilige Gartengarnitur bestehend aus 1 x Tisch und 6 x Stuhl</li><li>Tisch und Stühle klappbar</li><li>Stühle mit Armlehnen</li><li>Schirmloch im Tisch</li><li>Akazienholz sehr robust und witterungsbeständig</li></ul>"
-}

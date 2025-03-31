@@ -1,4 +1,0 @@
-{
-    "uvp": 26.99,
-    "attributes": "<ul><li>Kapselgehörschutz Profi mit ABS-Gehörkapseln</li><li>zum Schutz der Ohren bei lärmbedingten Tätigkeiten im Beruf oder Freizeit</li><li>angenehmer Tragekomfort dank weichen Ohrpolstern</li><li>für einen optimalen Tragekomfort während der ganzen Arbeit</li><li>die Position der Kapseln lassen sich individuell anpassen</li></ul>"
-}

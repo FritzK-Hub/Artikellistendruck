@@ -1,4 +1,0 @@
-{
-    "uvp": 74.95,
-    "attributes": "<ul><li>Gartenschubkarre aus Kunststoff</li><li>innovativ, leicht zu fahren und robust</li><li>mit Metallachse und 2 gummibereiften Kunststoffrädern</li><li>Zugstange aus Aluminium</li><li>maximale Belastbarkeit 50 kg</li></ul>"
-}

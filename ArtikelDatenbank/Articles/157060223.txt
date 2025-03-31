@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li> Universalabdichtung für den Außenbereich </li><li> hoch flexibel und leicht zu verarbeiten </li><li> ohne Grundierung, schnell trocknend </li><li> für Reparaturen an Dächern, zum Abdichten von Aus- und Durchbrüchen </li><li> für besandete Dachbahnen, Schweißbahnen, Beton, Putz, Mauerwerk, Faserzement, Estrich, Holz und viele Metalle </li></ul><p></p>"
-}

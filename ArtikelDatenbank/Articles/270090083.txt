@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>dünne Trennscheibe für präzise und schmale Schnitte</li><li>wenig Materialabtrag</li><li>hohe Standzeit</li><li>zum Trennen von Metall, Edelstahl und Stahl</li><li>geprüft nach BGV D 12<br/></li></ul>"
-}

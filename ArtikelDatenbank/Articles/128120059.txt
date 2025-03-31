@@ -1,4 +1,0 @@
-{
-    "uvp": 399.95,
-    "attributes": "<ul><li>Holzbeine im Teakholz-Look</li><li>optisch ansprechendes Rundseilmuster</li><li>robuster pulverbeschichteter Stahlrahmen</li><li>aus wasserabweisendem Material</li><li>mit Anti - Alterungs - Kissenbezug</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Seil aus Polypropylen</li><li>in der Farbe Blau</li><li>multifil gefertigt</li><li>Belastbarkeit bis ca. 25 kg</li><li>universell einsetzbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>2-Sitzer Gartenbank</li><li>extra robust und witterungsbeständig</li><li>massives Kiefernholz, 30-34 mm stark</li><li>kammergetrocknet, hellbraun lasiert<br/></li><li>im Tauchverfahren imprägniert</li></ul>"
-}

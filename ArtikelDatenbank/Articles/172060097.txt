@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>unisolierte Abgreifklemmen</li><li>5 Stück Krokodilklemmen im Set</li><li>zur schnellen Herstellung einer lösbaren elektrischen Verbindung</li><li>einfaches Verbinden und wieder Lösen eines elektrischen Kontaktes</li><li>mit Steckeraufnahme hinten</li></ul>"
-}

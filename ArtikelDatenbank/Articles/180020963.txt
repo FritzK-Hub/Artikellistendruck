@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>Schlauchspritze für Schnellkupplungen</li><li>aus Messing</li><li>zum Reinigen und Bewässern - passt auf jede Schnellkupplung mit 40mm Klauenabstand</li><li>kein selbstständiges Lösen auch in drucklosem Zustand</li><li>bei allen Schnellkupplungen beträgt der Klauenabstand einheitlich 40mm</li></ul>"
-}

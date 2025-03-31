@@ -1,4 +1,0 @@
-{
-    "uvp": 69.99,
-    "attributes": "<ul><li>Kaminholzständer Set herzförmig 2 Stück für mehr Ordnung</li><li>aus massivem Stahl in rostoptikgefertigt</li><li>bietet ausreichend Stauraum für Brennholz</li><li>luftdurchlässige Lagerung verhindert eine Schimmelbildung</li><li>lässt sich auch gut mit anderen Möbelstücken kombinieren <br/></li></ul>"
-}

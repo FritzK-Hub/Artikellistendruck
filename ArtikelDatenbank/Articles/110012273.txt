@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Ablaufverbinder ideal für die Verbindung von Abwasserrohren</li><li>effektive Abdichtung</li><li>vielseitige Anpassung</li><li>besonders langlebig und strapazierfähig</li><li>einfache Installation</li></ul>"
-}

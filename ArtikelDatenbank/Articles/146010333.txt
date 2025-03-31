@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>hochwertiges Material</li><li>zeitloses Design</li><li>praktische Organisation</li><li>vielseitiger Begleiter</li><li>einfach zu handhaben<br/><br/></li></ul>"
-}

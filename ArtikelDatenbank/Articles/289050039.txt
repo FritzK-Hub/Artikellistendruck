@@ -1,4 +1,0 @@
-{
-    "uvp": 2.64,
-    "attributes": "<ul><li>U-Profil aus Aluminium mit quadratischem Querschnitt</li><li>mit einzigartiger Bohr-Kennrille zum perfekten Zentrieren von Bohrungen</li><li>z. B. zur Anfertigung von Rahmen</li><li>als Abschlussleiste und Kantenschutz</li></ul>"
-}

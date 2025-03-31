@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Premium 2in1 Heizkörperlack 750 ml in Weiß, glänzend</li><li>für Neu- und Renovierungsanstriche von Heizkörpern, Warmwasserleitungen oder Boilern</li><li>hat eine Hitzebeständigkeit von bis zu 120 °C und ist vergilbungsbeständig</li><li>bildet eine geruchslose und stoß- wie schlagfeste Oberfläche</li><li>ist besonders Deck- wie Haftstark als auch schnelltrocknend</li></ul>"
-}

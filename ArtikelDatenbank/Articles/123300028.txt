@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Pflanztunnel 120 x 80 x 50 cm mit Abdeckfolie</li><li>Rahmen aus stabilem Holz gefertigt</li><li>schützt die Pflanzen vor Witterung, Kälte oder Insekten</li><li>mit zwei aufrollbaren Fenstern versehen</li><li>fördert zusätzlich das Pflanzenwachstum<br/></li></ul>"
-}

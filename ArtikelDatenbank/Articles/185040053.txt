@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Geschenkpapier 200 x 70 cm auf Kern</li><li>in verschiedenen Weihnachtsmotiven erhältlich</li><li>eignet sich auch perfekt zum Basteln</li><li>hochwertiges Material mit kräftigen Farben</li><li>einseitig bedruckt<br/></li></ul>"
-}

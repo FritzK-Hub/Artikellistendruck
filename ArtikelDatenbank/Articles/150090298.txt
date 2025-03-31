@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>verbesserte Sichtbarkeit im Straßenverkehr </li><li>einfache Montage durch Schraub- oder Klebebefestigung</li><li>besonders langlebig, robuste Bauweise für jeden Einsatz</li><li>reduziert das Risiko von Unfällen, da es Scheinwerferlicht reflektiert</li><li>ideal für schlechte Lichtverhältnisse oder Dunkelheit<br/></li></ul>"
-}

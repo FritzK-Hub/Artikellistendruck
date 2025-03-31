@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Schleif- und Gravurwerkzeug von GERMANIA®</li><li>geeignet für Schleifen, Gravieren, Polieren, Bohren und Trennen</li><li>Spindelarretierung, schnell und einfach Werkzeugwechsel</li><li>variable Drehzahlregulierung für genaues Arbeiten</li><li>vielseitig einsetzbarer Compacttool</li></ul>"
-}

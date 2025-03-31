@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Ofenrohrhalter offen</li><li>aus Stahlrohr gebläut</li><li>für den Innenbereich</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Teleskopstiel mit Eiskratzer und Schneebesen</li><li>sicherer Halt durch weichem Softgriff</li><li>lange Borsten erleichtern das Räumen von Schnee</li><li>Eisbrecher entfernt effektiv das festgefrorene Eis</li><li>Schabkante wischt Wasserreste von der Scheibe<br/></li></ul>"
-}

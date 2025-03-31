@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li> hochwertiger Übergangs-Adapter </li><li>für den Anschluss von Geräten mit F-Kupplung mit normalen Koaxial-Stecker-Kabeln<br/></li><li> F-Stecker- Koaxial-Stecker</li><li> leichte Handhabung</li><li>aus Metall </li></ul><p></p>"
-}

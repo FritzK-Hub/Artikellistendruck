@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>für eine einfache und effektive Reinigung</li><li>hochwertiger Materialmix aus Viskose und Polyester</li><li>besonders saugfähig, langlebig und widerstandsfähig</li><li>waschbar bis zu 60°C</li><li>nachhaltige Lösung durch Verzicht auf Einweg-Produkte<br/></li></ul>"
-}

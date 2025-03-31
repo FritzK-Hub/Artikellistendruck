@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>mit praktischen Kreppband</li><li>vielseitig verwendbar</li><li>individuell zuschneidbar</li><li>großzügige Abmessungen</li><li>langlebige Qualität</li></ul>"
-}

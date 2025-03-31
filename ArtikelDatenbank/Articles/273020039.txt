@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>GERMANIA® Bit mit 6 mm Schlitzt-Antrieb</li><li>zum Anziehen und Lösen von Schlitz-Schrauben</li><li>aus hochwertigem S2 Stahl gefertigt</li><li>geeignet für alle gängigen 1/4\" Bithalter</li><li>zur Verwendung mit Ratschenschraubendreher und Akkuschrauber<br/></li></ul>"
-}

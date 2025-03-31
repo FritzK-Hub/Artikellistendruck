@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>sehr saugfähiger &amp; tropfarmer Mikrofaserbezug  </li><li>sehr gute Farbaufnahme und -abgabe</li><li>geeignet für alle Holzschutzlasuren, speziell für Dünnschichtlasuren </li><li>Lasurroller für glatte und leicht strukturierte Untergründe</li><li>beste Materialabdeckung</li></ul>"
-}

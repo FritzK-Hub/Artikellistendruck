@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Fahrradschlauch 28\" mit Dunlop-Ventil</li><li>ersetzt den beschädigten Schlauch am Fahrrad</li><li>sehr elastisches Material</li><li>deckt viele Größen ab</li><li>mittlerer Ersatzschlauch</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Halogen Scheinwerfer H3</li><li>mit PK22s Sockel</li><li>entspricht E4</li><li>gemäß ECE R 37</li><li>auch für Nebelscheinwerfer</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>schonend für die Tischplatte dank PE-Vlies-Beschichtung auf der Rückseite</li><li>pflegeleichte, abwaschbare Wachstuch-Tischdecke</li><li>verschiedene Designs zur Auswahl<br/></li><li>Grammatur: ca. 240 g/m²</li><li>vielseitig einsetzbar</li></ul>"
-}

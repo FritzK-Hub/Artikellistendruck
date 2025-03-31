@@ -1,4 +1,0 @@
-{
-    "uvp": 12.49,
-    "attributes": "<ul><li>gebrauchsfertige Harz-Wachs-Kombination aus natürlichen Stoffen</li><li>vielseitig einsetzbar, zur Veredelung und Wundbehandlung an Obst- und Ziergehölzen</li><li>bildet einen elastischen und reißfesten Schutzfilm, schützt vorm Austrocknen</li><li>fördert die Kallusbildung (Wundgewebe), dient zur schnellen und effektiven Wundheilung</li><li>ist kaltstreichbar, lässt sich leicht mittels Spachtel auftragen<br/></li></ul>"
-}

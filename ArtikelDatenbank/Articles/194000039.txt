@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Ergänzungsfuttermittel für Hunde</li><li>fettarm und reich an lebenswichtigen Proteinen</li><li>gesunde Belohnung für deinen Hund</li><li>unterstützt eine ausgewogene Ernährung</li><li>mit saftigem Lachs</li></ul>"
-}

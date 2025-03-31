@@ -1,4 +1,0 @@
-{
-    "uvp": 4.79,
-    "attributes": "<ul><li>robustes Metallgehäuse</li><li>präzise Zentrierbohrer</li><li>sieben einstellbare Durchmesser</li><li>einfache Anwendung</li><li>beeindruckende Schnitttiefe<br/><br/></li></ul>"
-}

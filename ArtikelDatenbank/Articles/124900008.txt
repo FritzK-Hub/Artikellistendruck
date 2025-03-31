@@ -1,4 +1,0 @@
-{
-    "uvp": 19.9,
-    "attributes": "<ul><li>Stirnwand-Verbindung für KG-Rohr Ø110 mm </li><li>für Linienentwässerung-Abflusskanal </li><li>aus stabilem PP-Kunststoff</li><li>einfacher Einbau am seitlichem<br/></li><li>100%  Recyclebar</li></ul>"
-}

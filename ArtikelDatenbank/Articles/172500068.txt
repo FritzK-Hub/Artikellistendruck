@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>doppelt geschirmtes 1,5m Patchkabel CAT 6a</li><li>Kontakte mit 3µ vergoldeten Kontaktflächen</li><li>mit Rastnasenschutz und beidseitigem Knickschutz</li><li>für besonders schnelle Verbindungen bis 10 Gigabit</li><li>Aderpaarschirmung: S/FTP - PIMF (Paare in Metall Folie)<br/></li></ul>"
-}

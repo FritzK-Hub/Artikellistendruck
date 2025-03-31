@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Rohrbogen, Ofenrohr 90° abgewinkelt</li><li>aus feueraluminiertem Stahlblech</li><li>für den Innenbereich</li></ul>"
-}

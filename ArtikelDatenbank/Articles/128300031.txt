@@ -1,4 +1,0 @@
-{
-    "uvp": 137.95,
-    "attributes": "<ul><li>    Universal-Ständer für Sonnenschirme    </li><li>passend für Gestänge bis zu Ø 60 mm inkl. Adaptern für 57 mm, 47 mm und 37 mm Gestänge</li><li>    mit Rollen    </li><li>extrem standfest und stabil</li><li>    aus gegossenem witterungsbeständigen Polymerbeton</li></ul>"
-}

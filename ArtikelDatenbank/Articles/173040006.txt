@@ -1,4 +1,0 @@
-{
-    "uvp": 41.95,
-    "attributes": "<ul><li>Winkelschlüssel-Set 10-teilig</li><li>verchromte Oberfläche<br/></li><li>geschmiedete Qualität<br/></li><li>für Innensechskantschrauben</li><li>im Kunststoffkoffer</li></ul>"
-}

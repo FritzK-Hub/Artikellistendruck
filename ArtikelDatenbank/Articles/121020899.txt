@@ -1,4 +1,0 @@
-{
-    "uvp": 0.99,
-    "attributes": "<ul><li>liebevoll gestaltete Gutscheinkarte im Hochformat</li><li>verschenke unvergessliche Momente</li><li>schönes Design und hochwertige Ausführung</li><li>inklusive passenden Briefumschlag</li><li>innen viel Platz für persönliche Grüße</li></ul>"
-}

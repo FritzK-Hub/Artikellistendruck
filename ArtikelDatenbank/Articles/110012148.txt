@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Zulaufschlauch mit einer Länge von 250 cm</li><li>geeignet für Waschmaschinen und Spülmaschinen</li><li>lässt sich auch als Verlängerungsschlauch verwenden</li><li>aus biegsamem Gummi gefertigt</li><li>ist druckfest bis ca. 10 bar<br/></li></ul>"
-}

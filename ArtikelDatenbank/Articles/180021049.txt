@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>Saug- und Hochdruckkupplung aus Messing</li><li>mit Nachstellring gegen selbsttätiges Lösen gesichert</li><li>sehr leichtes Kuppeln durch 360° drehbares Klauenteil</li><li>besonders geeignet für Pumpenanschlüsse und Druckleistungen bis 40 bar Betriebsdruck</li></ul>"
-}

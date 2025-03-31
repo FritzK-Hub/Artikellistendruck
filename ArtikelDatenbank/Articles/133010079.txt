@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>100% natürliches Rinderpansen als Einzelfuttermittel für Hunde</li><li>als Belohnung oder zum Verfeinern des Futters</li><li>unterstützt die Zahnpflege und reduziert den Mundgeruch</li><li>regelmäßiges Kauen stärkt die Kaumuskulatur</li><li>ist wichtig für die Gesundheit von Knochen und Gelenken</li></ul>"
-}

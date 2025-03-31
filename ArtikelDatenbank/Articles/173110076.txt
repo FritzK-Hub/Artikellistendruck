@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>LED- Lampe 13,5 W in Birnenform</li><li>mit einem E27 Sockel versehen</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
-}

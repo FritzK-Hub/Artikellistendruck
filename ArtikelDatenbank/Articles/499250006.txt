@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Hutmutter nach DIN 1587</li><li>Sechskant</li><li>hohe Form</li><li>galvanisch verzinkt</li><li>Einschraubtiefe (t) ca. 10,65 mm</li></ul>"
-}

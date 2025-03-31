@@ -1,4 +1,0 @@
-{
-    "uvp": 79.99,
-    "attributes": "<ul><li>modernes Design</li><li>vielseitiges Duscherlebnis</li><li>Flexibilität mit Handbrause</li><li>unkomplizierte Montage</li><li>hochwertige Materialien<br/></li></ul>"
-}

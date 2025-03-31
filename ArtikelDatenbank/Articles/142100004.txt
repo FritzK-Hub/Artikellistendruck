@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Brennspiritus 94 % 1 Liter von RobbyRob</li><li>verbrennt ohne Rauchentwicklung und Rußrückstände</li><li>gutes Löseverhalten gegenüber Ölen und Fetten</li><li>auch als Brennstoff für Campingkocher</li><li>Reinigungs- und Lösungsmittel für Haushalt und Industrie<br/></li></ul>"
-}

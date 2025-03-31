@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Fahrradflaschenhalter mit verstellbare Klemmweite<br/></li><li>für Standard-Fahrradflaschen</li><li>für PET-Getränkeflaschen mit 1,0 und 1,5 Liter</li><li>verstellbar mit Innensechskantschlüssel</li><li>Trinkflaschen-Halter aus Kunststoff</li></ul>"
-}

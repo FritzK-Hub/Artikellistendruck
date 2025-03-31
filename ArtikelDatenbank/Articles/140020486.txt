@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>robuste Verarbeitung</li><li>optimale Größe</li><li>stilvolles Design</li><li>vielseitig einsetzbar</li><li>komfortable Handhabung<br/><br/></li></ul>"
-}

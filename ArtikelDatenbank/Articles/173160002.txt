@@ -1,4 +1,0 @@
-{
-    "uvp": 32.95,
-    "attributes": "<ul><li>1/2\" Antrieb</li><li>extra kurze Baulänge</li><li>für enge Platzverhältnisse</li><li>feinverzahnt 72 Zähne</li><li>Länge: 170mm</li></ul>"
-}

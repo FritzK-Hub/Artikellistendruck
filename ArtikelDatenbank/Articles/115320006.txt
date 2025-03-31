@@ -1,4 +1,0 @@
-{
-    "uvp": 5.29,
-    "attributes": "<ul><li>Türstopper rund und flach mit Ø 36 mm</li><li>verhindert ungewolltes An- oder Zuschlagen</li><li>schwere Ausführung mit polierter Chromoptik</li><li>mit Gummiring zum Schutz von Tür und Wand</li><li>inklusive Befestigungsmaterial für die Bodenmontage</li></ul>"
-}

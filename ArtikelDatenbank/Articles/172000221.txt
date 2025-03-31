@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>zum Betreiben vom Haushaltsgeräten oder Lampen</li><li>mit einem USB-A- und einem USB-C-Anschluss versehen</li><li>dient auch zum Aufladen von Smartphones oder Tablets</li><li>fügt sich dank modernes Design in dein Wohnbereich ein</li><li>waagerechte oder senkrechte Montagen möglich<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>schnelle Erhärtung</li><li>vielseitige Anwendung</li><li>hohe Ergiebigkeit</li><li>optimale Vorbereitung</li><li>für Wand und Decke im Innenbereich</li></ul>"
-}

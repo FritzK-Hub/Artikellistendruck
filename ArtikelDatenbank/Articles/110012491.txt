@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>geeignet für Handschwengelpumpen, Tauchpumpen oder Hauswasserwerke</li><li>minimiert Druckverluste für eine reibungslose Durchflussrate</li><li>einfache und sichere Montage dank präzisem Gewinde</li><li>hält hoher mechanischer Beanspruchung stand</li><li>mit 1\" Innengewinde und ½\" Innengewinde</li></ul><p></p>"
-}

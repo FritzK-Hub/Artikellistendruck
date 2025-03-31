@@ -1,4 +1,0 @@
-{
-    "uvp": 1.59,
-    "attributes": "<ul><li>einzigartiges Cityline-Motiv für Stadtliebhaber</li><li>zuverlässiges Piezo-Zündsystem für schnelles Anzünden</li><li>regulierbare Flamme für individuelle Anpassung</li><li>strapazierfähiger Kunststoff für langlebige Nutzung</li><li>umweltfreundlich durch nachfüllbaren Butangas-Brennstoff<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.2,
-    "attributes": "<ul><li>Regentonnenanschluss mit Dichtungen</li><li>zum Verbinden von zwei Regentonnen</li><li>als Schlauchanschluss geeignet</li><li>für einen Überlauf zur Regentonne</li><li>unkomplizierte Montage<br/></li></ul>"
-}

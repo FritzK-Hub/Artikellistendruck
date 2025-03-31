@@ -1,4 +1,0 @@
-{
-    "uvp": 6.29,
-    "attributes": "<ul><li>VGA Monitorkabel</li><li>VGA-Stecker (15-polig) &gt; VGA-Stecker (15-polig)</li><li>zum Verbinden der Geräte</li><li>doppeltgeschirmtes Kabel</li><li>mit Handverriegelungsschrauben</li></ul>"
-}

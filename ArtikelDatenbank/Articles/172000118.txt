@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    mit Steckklemmen,/nNennspannung: 250 V~,/nNennstrom: 16 A,/nmit Kindersicherung,/nmit Klappdeckel\"\"/n                "
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Kapuzinerkresse Mischung nicht rankend</li><li>ist eine reichblühende Sommerpflanze</li><li>für Balkonkästen, Ampeln oder Beeten geeignet</li><li>als Läusefangpflanze unter Obstbäumen einsetzbar</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

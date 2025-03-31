@@ -1,4 +1,0 @@
-{
-    "uvp": 7.79,
-    "attributes": "<ul><li>Winkelträger aus pulverbeschichtetem Stahl</li><li>für 1- und 2-reihige Wandschienen geeignet</li><li>passend für Wandschienen mit einem Schlitzabstand / Rastermaß von 50 mm</li><li>2 Träger sind bis 110 kg belastbar (pro Regal)<br/></li><li>ideal zur Auflage und Fixierung von Holzböden</li></ul>"
-}

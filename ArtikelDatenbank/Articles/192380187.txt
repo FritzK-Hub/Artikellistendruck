@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Eiknäuel für die unterschiedlichsten Anlässe</li><li>Geschenkband auf Rolle aus Baumwolle gefertigt</li><li>in unterschiedlichen Farben erhältlich</li><li>für Handarbeiten, Deko-Projekte und deine Geschenke</li><li>besonders strapazierfähig und leicht zu verarbeiten<br/></li></ul>"
-}

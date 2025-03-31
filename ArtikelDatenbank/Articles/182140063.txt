@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Fahrrad Sattelbezug für alle gängigen Sättel</li><li>wasserabweisend und strapazierfähig</li><li>gepolstert und wendbar</li><li>mit grauer Fellimitation</li><li>Kunstleder als Regenschutz</li></ul>"
-}

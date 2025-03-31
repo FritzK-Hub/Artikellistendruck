@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>reinigt, poliert, pflegt und konserviert in einem Arbeitsgang</li><li>für alle Metalloberflächen im Haushalt, Caravan oder am Motorrad</li><li>für Badewannen, Waschbecken, Armaturen, Herdplatten, Fliesen, Gartenmöbel, Skier, Turnschuhe</li><li>nicht geeignet für lackierte und empfindliche Oberflächen</li><li>inklusive Schwamm für eine leichtere Reinigung</li></ul>"
-}

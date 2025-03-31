@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Klarsicht-Tischdecke mit freundlichem Blumen-Motiv \"Paulin''</li><li>schonend zu deiner Tischplatte dank weichem Material<br/></li><li>pflegeleichte, abwaschbare Tischdecke transparent</li><li>Länge wählbar - bis zu ganzen Rollen (30 m)</li><li>schafft eine angenehme Atmosphäre</li></ul>"
-}

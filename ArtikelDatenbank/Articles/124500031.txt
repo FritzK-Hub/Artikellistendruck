@@ -1,4 +1,0 @@
-{
-    "uvp": 129.0,
-    "attributes": "<ul><li>digitale Füllstandsanzeige für Regenwasser-Flachtank</li><li>überwacht den Füllstand im Wassertank</li><li>zeichnet die Temperaturen und min. und max. Füllstände auf</li><li>12 / 24 h Zeitanzeige und Alarme für Füllstände</li><li>alle Alarme sind mit einer AN/AUS-Option</li></ul>"
-}

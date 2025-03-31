@@ -1,4 +1,0 @@
-{
-    "uvp": 6.29,
-    "attributes": "                    Schlauch-Reparatur-Set in praktischer Hartbox.     Bestehend aus:    • 1 ovaler Flicken  • 4 runde Flicken  • 1 Tube Vulkanisierlösung  • 1 Aufrauher/n                "
-}

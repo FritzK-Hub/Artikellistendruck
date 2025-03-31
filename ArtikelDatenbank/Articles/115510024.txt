@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>Zimmertürbeschlag mit handlichen Türknauf und Drücker</li><li>aus leichtem Aluminium in Silber gefertigt</li><li>passend für Zimmertüren mit 40 mm Türstärke</li><li>mit PZ-Lochungen für einfaches Bohren versehen</li><li>inklusive Befestigungsmaterial zur schnellen Montage<br/></li></ul>"
-}

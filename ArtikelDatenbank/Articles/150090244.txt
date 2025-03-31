@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Adapter von 7 auf 13 polig</li><li>Anhängeradapter für KFZ Anhänger</li><li>entspricht den Bestimmungen der StVO</li><li>mit Führung</li><li>einfache Handhabung</li></ul><p><br/></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>sicherer Verschluss für Rohrenden</li><li>passend für 110 mm Rohre</li><li>für dauerhafte oder vorübergehende Abdichtung</li><li>hitzebeständig bis 90°C</li><li>widerstandsfähig gegen Chemikalien</li></ul>"
-}

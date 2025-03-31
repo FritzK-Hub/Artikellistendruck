@@ -1,4 +1,0 @@
-{
-    "uvp": 1679.0,
-    "attributes": "<ul><li>hochwertiges Material für langlebige Qualität</li><li>mit verstellbaren Lamellen </li><li>für vielseitige Nutzungsmöglichkeiten</li><li>eine ästhetisch ansprechende Ergänzung</li><li>schneller und einfacher Aufbau</li></ul>"
-}

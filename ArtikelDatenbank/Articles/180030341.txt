@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>10 Pflanzenstützen aus Bambus-Split</li><li>mit einer länge von 400 mm</li><li>sorgen für den zusätlzlichen Halt</li><li>dank Spitze leichte in die Erde steckbar</li><li>zum Stützen und Anbinden von Pflanzen</li></ul>"
-}

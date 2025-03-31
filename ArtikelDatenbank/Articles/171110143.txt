@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li>Premium 3in1 Fenster &amp; Türenlack 750 ml in Weiß, seidenmatt</li><li>für blockfeste Anstriche an Türen, Fenster und Klappläden aus Holz</li><li>es ist ein Grund-, Zwischen- und Endanstrich in einem</li><li>besonders Wetter- wie Vergilbungsbeständig, eignet sich für maßhaltige Bauteile</li><li>gut deckender, schnell trocknender als auch blockfester Fenster &amp; Türenlack</li></ul>"
-}

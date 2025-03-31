@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>skandinavischer Stil für zeitgemäßes Wohnen</li><li>hochwertiges MDF-Material mit Eichenholz-Furnier</li><li>vielseitig nutzbar in verschiedenen Räumen</li><li>strapazierfähig und ideal für den Alltag</li><li>ästhetisches Design für stilvolle Wohnräume</li></ul>"
-}

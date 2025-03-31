@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Set Gesichtsschutz mit Gehörschutz und Handschuhen</li><li>ideal für die Forst- und Gartenarbeit</li><li>Gehörschutz ergonomisch geformt nach DIN 352-3</li><li>Gesichtschutz bietet vollen Schutz bei der Arbeit</li><li>stufenlos einstellbar mit klappbarem Visier<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 249.99,
-    "attributes": "<ul><li>Gartentisch im eleganten, modernen Design</li><li>stabiles Rundrohrgestell bietet langanhaltende Zuverlässigkeit</li><li>wetterfeste Streckmetalloberfläche - ideal outdoorfähig</li><li>hochwertige Beschichtung gegen Beschädigungen und Korrosion</li><li>vielseitig einsetzbar, perfekt für Terrassen</li></ul>"
-}

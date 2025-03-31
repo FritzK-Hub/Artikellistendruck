@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Pumpflasche aus robustem Kunststoff, verschiedenfarbig</li><li>verfügt über ein Fassungsvermögen von ca. 1750 ml </li><li>für einfaches befüllen der Wasserballons</li><li>funktioniert per Pumpprinzip</li><li>inklusive 100 Wasserbomben in verschiedenen Farben<br/></li></ul>"
-}

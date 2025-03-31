@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>aus unbehandeltem, gehobeltem Douglasieholz</li><li>zum Verlegen auf Terrassen oder anderen Außenflächen</li><li>durch natürliche Inhaltsstoffe resistent gegenüber Pilz- und Insektenbefall</li><li>kann zum besseren Schutz vor Nässe imprägniert bzw. geölt werden</li><li>ideale Unterkonstruktion für Terrassen</li></ul>"
-}

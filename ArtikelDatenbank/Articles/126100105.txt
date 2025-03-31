@@ -1,4 +1,0 @@
-{
-    "uvp": 579.0,
-    "attributes": "<ul><li>leistungsstarker 3,6 kW Generator mit AVR, für stabile Dauerleistung bis 3,2 KW</li><li>vielseitig für den Einsatz im Garten, auf Baustellen oder beim Camping einsetzbar </li><li>klappbarer Griff und große Räder erleichtern den Transport des Generators</li><li>mit 15 Liter Tank und geringem Verbrauch für bis zu ca. 12 Stunden Betriebslaufzeit</li><li>Reversierstart und Überlastungsschutz sorgen für einfache und sichere Handhabung<br/></li></ul>"
-}

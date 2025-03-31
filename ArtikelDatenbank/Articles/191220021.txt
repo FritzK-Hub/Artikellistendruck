@@ -1,4 +1,0 @@
-{
-    "uvp": 84.9,
-    "attributes": "<ul><li>universell passend für alle Feuerschalen mit einem Durchmesser von 63 cm</li><li>oder für die SvenskaV Design Feuerschalen Z / VOMA / ARKA</li><li>Feuerschale aus massivem hochwertigem Edelstahl</li><li>inklusive 3 aufsteckbaren Halterungen aus Rohstahl (rostend!)</li><li>Platzierung des Grillgutes auf 6 verschiedenen Ebenen möglich</li></ul>"
-}

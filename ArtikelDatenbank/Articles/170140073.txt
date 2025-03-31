@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Ersatzblatt für Standard Hand-Hobel</li><li>ideal für Trockenbauarbeiten am und im Haus<br/></li><li>einfacher Austausch des Blattes</li><li>für großflächige Arbeiten geeignet</li><li>für weiches Holz, Putzmörtel usw. <br/></li></ul>"
-}

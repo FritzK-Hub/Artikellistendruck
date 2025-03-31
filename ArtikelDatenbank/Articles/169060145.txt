@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Pattex® Kraftkleber 100 % für Innen und Außen</li><li>Universalkleber ideal für sämtliche Untergründe</li><li>hohe Anfangshaftung, lösemittelfrei</li><li>Klebstoff ist schlagfest sowie extrem elastisch</li><li>Aushärtung nach 24 Stunden, Ersthaftung nach 30 Minuten</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Gartenschere Typ Amboss 182 mm</li><li>zum Schneiden von Ästen bis Ø 15 mm</li><li>antihaftbeschichtete Klinge aus Carbonstahl</li><li>ergonomischer und rutschfester Kunststoffgriff</li><li>mit Einhand-Sicherheitsverschluss<br/></li></ul>"
-}

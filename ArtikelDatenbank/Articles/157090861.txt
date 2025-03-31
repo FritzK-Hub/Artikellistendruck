@@ -1,4 +1,0 @@
-{
-    "uvp": 6.6,
-    "attributes": "<ul><li>für  Kunststoffdachrinnen</li><li>befreit Klebeflächen von Fett</li><li>hohe Ergiebigkeit</li><li>gebrauchsfertig</li><li>Inhalt 100 ml</li></ul>"
-}

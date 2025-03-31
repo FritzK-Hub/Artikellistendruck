@@ -1,4 +1,0 @@
-{
-    "uvp": 105.95,
-    "attributes": "<ul><li>32-teiliges BGS® Gewindeschneider-Set</li><li>aus HSS G Stahl</li><li>in Metall-Displaykassette</li><li>7 Schneideisen DIN 223 in verschiedenen Größen</li><li>inklusive Gewindelehre</li></ul>"
-}

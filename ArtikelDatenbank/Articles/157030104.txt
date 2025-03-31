@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>Fußbodenbeschichtung kieselgrau</li><li>zum Beschichten von Zement- und Betonflächen</li><li>für den privaten Innen- und Außenbereich</li><li>abriebfest und geruchsarm</li><li>nicht für Garagenböden geeignet</li></ul>"
-}

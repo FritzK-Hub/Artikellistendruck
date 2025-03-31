@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>aktive DVB-T2 Außenantenne in Grau</li><li>zum Empfang von analogen und digitalen TV-Signalen im VHF (47-230MHz)- und UHF (470-790MHz)-Bereich</li><li>integrierter Verstärker VHF 20+/-3 dB und UHF 16+/-4 dB</li><li>GSM/LTE/4G - Filter zur Vermeidung von lästigen Störungen durch Handys</li><li>UV-beständiges Wetterschutzgehäuse<br/></li></ul>"
-}

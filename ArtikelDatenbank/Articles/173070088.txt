@@ -1,4 +1,0 @@
-{
-    "uvp": 13.11,
-    "attributes": "<p>Ratschen-Ringmaulschlüssel 16 mm von Normex<br/>feinverzahnte Ratschenfunktion mit 72 Zähnen<br/>besonders langlebig, aus Chrom-Vanadium-Stahl<br/>für die gängigen Muttern und Bolzen dieser Größe<br/>lange Lebensdauer im täglichen Werkstatteinsatz<br/></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Abdeckrahmen 2-fach Maranello aus Kunststoff</li><li>klassisches Design mit weißer Oberfläche</li><li>passt sich jedem Wohnbereich an</li><li>für Unterputz-Steckdosen und -Schalter geeignet</li><li>waagerechte oder senkrechte Montagen möglich</li></ul>"
-}

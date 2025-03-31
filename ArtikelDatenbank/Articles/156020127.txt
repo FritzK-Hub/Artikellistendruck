@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Lasurpinsel mit geradem Pinselkopf</li><li>bestens geeignet für Dünnschicht- und Dickschicht-Lasuren</li><li>gute Farbaufnahme und Abgabe</li><li>langer und stabiler Kunststoffgriff</li><li>bestens geeignet für alle Lasuren</li></ul>"
-}

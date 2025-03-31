@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>passend für alle Oberflächen aus Metall</li><li>direkt auf Rost sprühbar, schnell trocknend und UV-beständig</li><li>schützt langfristig vor neuem Rostbefall</li><li>vereint Grundierung, Rostschutz und Lackierung in einem</li><li>Zeitersparnis durch schnelle Anwendung<br/></li></ul>"
-}

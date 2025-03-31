@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Oakwood Kugelfangkasten mit Wildschweinen aus Metall</li><li>mit Hammerschlag Lackierung </li><li>Geeignet für alle Luftdruckwaffen bis 7,5 Joule</li><li>für Luftgewehr als auch Luftpistole</li><li>Maße Wildschweine (BxH): ca. 7,8 x 5 cm</li></ul>"
-}

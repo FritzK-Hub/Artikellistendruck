@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>LED-Filament-Lampe 8 W E27 in Birnenform</li><li>hohe Farbwiedergabe, RA-Wert 90</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe</li></ul><p></p>"
-}

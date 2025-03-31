@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Feldstaffelei mit 3-beinigem Teleskopstativ</li><li>aus robustem Kiefernholz gefertigt</li><li>für Keilrahmengrößen von 30 x 30 bis 70 x 100 cm geeignet</li><li>leicht zu transportieren</li><li>platzsparend zusammenklappbar<br/></li></ul>"
-}

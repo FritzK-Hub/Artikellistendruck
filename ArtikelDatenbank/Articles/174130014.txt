@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Bolzenschneider im Taschenformat</li><li>mit Hebelübersetzung und Öffnungsfeder</li><li>gehärtete Schneidbacken</li><li>in qualitativ hochwertiger Ausführung</li><li>für eine lange Lebensdauer im Werkstatteinsatz</li></ul>"
-}

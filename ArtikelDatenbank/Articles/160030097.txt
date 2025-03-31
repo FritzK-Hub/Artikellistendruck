@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Arbeitshandschuhe-Set 5 Paar je in Größe 10</li><li>ideal für Präzisions-, Montage- oder Reparaturarbeiten</li><li>Handinnenfläche und Fingerspitzen mit Beschichtung </li><li>besonders widerstandsfähig mit sicherem Halt</li><li>atmungsaktives Strickmaterial für angenehmen Tragekomfort<br/></li></ul>"
-}

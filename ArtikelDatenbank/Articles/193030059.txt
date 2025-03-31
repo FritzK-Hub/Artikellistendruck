@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>robuster Karbonstahl sorgt für Langlebigkeit</li><li>ideal zum Füttern von Wildvögeln</li><li>großes Fassungsvermögen für viele Knödel</li><li>einfache Befestigung an verschiedenen Orten</li><li>sicherer Halt und einfache Nutzung</li></ul>"
-}

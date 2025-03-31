@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Okra Gombo Ladyfinger für ca. 10 Pflanzen</li><li>ein vitaminreiches und kalorienarmes Gemüse</li><li>verfügt über besonders zarte Kerne</li><li>ist mit Salzwasser oder Öl zubereitbar</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>solarbetriebene Lichterkette 4,7 m zehn 10 LEDs</li><li>als Partybeleuchtung oder für Lichtakzente einsetzbar</li><li>auch als dekorativer Orientierungspunkt nutzbar</li><li>universell im Innen- und Außenbereich geeignet</li><li>eine praktische und umweltfreundliche LED-Beleuchtung<br/></li></ul>"
-}

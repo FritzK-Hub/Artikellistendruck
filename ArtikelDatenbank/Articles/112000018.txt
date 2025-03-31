@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>M12-Gewinde zur Befestigung an Klobenpfosten</li><li>ermöglicht problemlos, nachträgliche Justierbarkeit</li><li>erleichtert das saubere Schließen von Torflügeln</li><li>Oberflächenveredelung verhindert Korrosion</li><li>mitgeliefertes Befestigungsmaterial erleichtert die Montage<br/></li></ul>"
-}

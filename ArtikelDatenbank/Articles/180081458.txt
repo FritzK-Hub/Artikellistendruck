@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>schützt vor Schnee, Kälte, Sonnenstrahlung</li><li>individuell zuschneidbar</li></ul>"
-}

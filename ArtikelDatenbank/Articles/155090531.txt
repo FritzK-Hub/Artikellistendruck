@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>hochwertiges HDMI-Kabel 3 m</li><li>einfache Handhabung, leicht beim Einbauen</li><li>mit vergoldeten Anschlüssen</li><li>1 x HDMI-Stecker/ 1 x HDMI-Stecker</li><li>bestmögliche und verlustfreie Übertragung von Ton und Bild<br/></li></ul>"
-}

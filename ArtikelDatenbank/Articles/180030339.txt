@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Baum-Anbinder aus Kunststoffgeflecht</li><li>witterungsbeständig, luft- und lichtdurchlässig</li><li>zum schonenden Anbinden von Jungbäumen, Blumen, Stauden</li><li>schneidet nicht in die Rinde oder den Stengel ein</li><li>2 Stück im Set, Gesamtlänge von ca. 4 m<br/></li></ul>"
-}

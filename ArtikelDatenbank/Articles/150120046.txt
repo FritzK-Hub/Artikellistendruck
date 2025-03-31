@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>übersichtliche Skalierung, inklusive Anleitung</li><li>zur Prüfung des Kühlwassers auf Frostschutzgehalt</li><li>einfach zu Bedienen</li><li>2 Messbereiche: Kühlflüssigkeit auf Glykolbasis (Werte auf grüner/gelber Skala ablesen), auf Methanolbasis (Werte auf weißer Skala ablesen)</li><li>Rohr aus Glas, Ansaugrohr und Ballon aus Gummi<br/></li></ul>"
-}

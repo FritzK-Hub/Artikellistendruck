@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Holzleim transparent für sämtliche Holzarten</li><li>verfügt über eine hohe Endfestigkeit</li><li>kurze Verarbeitungszeit von 5-10 Minuten</li><li>wird nach Aushärtung transparent</li><li>ist ein lösemittelfreier Klebstoff</li></ul>"
-}

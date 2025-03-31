@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>3 Stück Nahrungsmittelmotten-Klebefallen, einzeln verpackt</li><li>ideal zur  Befallsermittlung von Nahrungsmittelmotten wie z. B. Mehl-, Speicher- und Dörrobstmotten</li><li>keine Wirkstoffabgabe an Raumluft und Lebensmittel</li><li>die Männchen werden durch einen Sexuallockstoff angelockt und bleiben auf der Klebefläche haften</li><li>für Haushalte mit Kindern oder Haustieren bestens geeignet<br/></li></ul>"
-}

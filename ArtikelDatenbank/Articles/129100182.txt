@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Silberdraht im robusten Topf Ø 10,5 cm</li><li>ist in verschiedenen Sorten erhältlich</li><li>sind dekorative und pflegeleichte Herbstblüher</li><li>in Kombination für eine farbige Blütenpracht</li><li>für Balkonkästen oder als Grabschmuck geeignet<br/></li></ul>"
-}

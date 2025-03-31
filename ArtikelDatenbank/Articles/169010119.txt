@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Reparatur-Klebeband für verschiedene Materialien</li><li>einseitig klebend</li><li>von Hand trennbar</li><li>Gewebeband mit guten Klebeeigenschaften</li><li>universell einsetzbar</li></ul>"
-}

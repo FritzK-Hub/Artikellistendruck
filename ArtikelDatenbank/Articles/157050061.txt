@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>starke Leuchtfarbe 400 ml in matt grün</li><li>bis zu 150 m Entfernung sichtbar</li><li>vielseitig im Innen- und Außenbereich einsetzbar</li><li>die<strong> </strong>Farbe vergilbt nicht, verblasst nicht und ist bleifrei</li><li>mit Spezialsprühventil, mit automatischer Ventilreinigung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.39,
-    "attributes": "<ul><li>Kabel-Set für Seitenläuferdynamo</li><li>Zweiadrige Kabel</li><li>inkl. Kabelschuhe</li><li>für vorne und hinten</li><li>2 Anschlüsse für Dynamobeleuchtung</li></ul>"
-}

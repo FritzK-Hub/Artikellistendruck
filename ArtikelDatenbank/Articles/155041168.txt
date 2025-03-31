@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>bruchsicheres Lineal<br/></li><li>flexibel beweglich</li><li>Länge ca. 15 cm</li><li>aus Kunststoff, abgerundete Ecken</li><li>verschiedene Designs</li></ul>"
-}

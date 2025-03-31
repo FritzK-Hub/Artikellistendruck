@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>praktische Stecketiketten aus Kunststoff</li><li>16 Stück im Set</li><li>zum Beschriften</li><li>wiederverwendbar</li><li>Pflanzschilder mit angespitztem Ständer</li></ul>"
-}

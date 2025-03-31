@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>selbsttätige Lüftungsklappe </li><li>für effektive Abdichtung gegen Luftströme</li><li>passend für Rohre, Teleskopkanäle, Flexschläuche  Ø 100 mm</li><li>aus stabilem Kunststoff</li><li>Luftdurchlass: 69 cm²</li></ul>"
-}

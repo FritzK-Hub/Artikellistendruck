@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Spatenstiel aus Eschenholz</li><li>gebogen, mit T-Griff</li><li>elastisch, abriefest und zäh</li><li>Ersatz-Spatenstiel für Damen- und Doppelfederspaten</li><li>mit einem Gewicht von ca. 650 g</li></ul>"
-}

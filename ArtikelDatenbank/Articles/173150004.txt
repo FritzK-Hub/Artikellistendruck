@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>verstellbare Länge</li><li>großer Spannbereich</li><li>präzise Armlänge</li><li>speziell abgesetzter vorderer Teil</li><li>hochwertige Konstruktion</li></ul>"
-}

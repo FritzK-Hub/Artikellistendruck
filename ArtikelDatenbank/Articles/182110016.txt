@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<div class=\"spb--product-details mtop_mittel\"><ul><li>Fahrradschlauch 27\" mit Dunlop-Ventil </li><li>ersetzt den beschädigten Schlauch am Fahrrad </li><li>sehr elastisches Material </li><li>deckt viele Größen ab </li><li>schmaler Ersatzschlauch </li></ul></div>"
-}

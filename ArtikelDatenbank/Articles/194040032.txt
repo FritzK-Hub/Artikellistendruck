@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Naturstreu mit natürlichen Düften</li><li>aus Holzspänen, Borke, Zapfen und Moos</li><li>für alle Nager und Kleintiere geeignet</li><li>als Überstreu über die gewohnte Einstreu geben</li><li>Streu kann kompostiert werden<br/></li></ul>"
-}

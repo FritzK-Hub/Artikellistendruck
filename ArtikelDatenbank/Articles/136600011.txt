@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Ersatz-Rollklingen-Set 5 Stück von GERMANIA®</li><li>passend für unseren GERMANIA® Rollschneider (Art.Nr.: 233600000)</li><li>ideal für präzise Schnitte bei Renovierungsarbeiten</li><li>auch zum Schneiden von Papier, Karton oder Folie geeignet</li><li>schneller Ersatz für die stumpfe Rollklinge</li></ul>"
-}

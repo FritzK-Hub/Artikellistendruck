@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>effiziente Solar-LED-Technologie erlaubt Energieeinsparungen</li><li>zeitgenössisches Design für jede Gartengestaltung</li><li>einfache Installation dank integriertem Bodenspieß</li><li>automatische Dämmerungsfunktion zur bequemen Nutzung</li><li>flexible, kabellose Bauart für vielseitige Einsatzmöglichkeiten</li></ul>"
-}

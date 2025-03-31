@@ -1,4 +1,0 @@
-{
-    "uvp": 489.95,
-    "attributes": "<ul><li>Federspanner Set 5-teilig für McPherson-Federbeine</li><li>zur Montage und Demontage von Kegel-, Kugel- oder zylindrischen Federn</li><li>verfügt über eine maximale Spannkraft von ca. 1500 kg</li><li>lässt sich mit einem Schlagschrauber betätigen</li><li>inklusive zwei verschiedene Paare Federhalterungen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>8-teiliges 6-kant WC-Befestigung-Set</li><li>zur stabilen Bodenbefestigung deines WC-Beckens</li><li>passend für verschiedene WC-Beckenmodelle und -typen</li><li>gestaltet die Installation einfach und sauber</li><li>Schrauben und Allzweckdübel garantieren stabilen Halt</li></ul>"
-}

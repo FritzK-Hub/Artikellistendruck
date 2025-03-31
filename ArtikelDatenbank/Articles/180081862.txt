@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>Poolleiter mit einer Traglast von bis zu 150 kg</li><li>geeignet für eine Wandhöhe bis 84 cm und eine Wandbreite bis 30 cm</li><li>je Seite zwei wetterfeste Kunststoff-Stufen für einfaches Ein- und Aussteigen</li><li>Wetterbeständiges Metallgestell, widerstandsfähige Kunststoffstufen</li><li>inklusive Fußschutzkappen für eine höhere Standfestigkeit<br/></li></ul>"
-}

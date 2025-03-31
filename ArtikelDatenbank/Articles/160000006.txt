@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>transparente Einweghandschuhe aus thermoplastischen Elastomeren</li><li>ideale Alternative zu Vinylhandschuhen</li><li>besonders bequem und komfortabel zu tragen</li><li>leicht anzuziehen dank beidhändigen Form</li><li>vielseitig einsetzbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>voll drehbarer Rasenprengler aus Kunststoff</li><li>ideales Zubehör für die Gartenbewässerung</li><li>für Rasenflächen von 120 m²</li><li>Anschluss erfolgt durch 1/2\" Schnellkupplung</li><li>einfaches Aufstellen mittels Erdspieß<br/></li></ul>"
-}

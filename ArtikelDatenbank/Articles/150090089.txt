@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Kugellampe T4W</li><li>2 Stück im Blister</li><li>entspricht E4</li><li>Lampe für das Standlicht</li><li>mit BA9s Sockel</li></ul>"
-}

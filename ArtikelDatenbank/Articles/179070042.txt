@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Sortimentskasten mit 6 Fächern</li><li>praktischer Tragegriff im Klappdeckel</li><li>Sortimentskasten mit Klickverschluss</li><li>Kleinteilebox ideal für Hobby und Beruf</li><li>zum Aufbewahren von Schrauben, Kleinwerkzeug, Nähzubehör usw.<br/></li></ul>"
-}

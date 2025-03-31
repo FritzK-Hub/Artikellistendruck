@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Schraubklemme für Drahtseile</li><li>aus hochwertigem V4A (CrNiMo) Edelstahl</li><li>geeignet für Drahtseile bis 6 mm</li><li>metrisches Gewinde</li><li>rostfrei und salzwasserbeständig</li></ul>"
-}

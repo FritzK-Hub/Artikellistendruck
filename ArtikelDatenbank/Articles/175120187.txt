@@ -1,4 +1,0 @@
-{
-    "uvp": 7.69,
-    "attributes": "<ul><li>konisches Gasdüsen 2er-Set</li><li>zum Anschließen an den Schutzgasbrenner</li><li>ideal als Ersatz für defekte / verschlissene Gasdüsen</li><li>mit praktischer Steckverbindung</li><li>besonders langlebig und leicht abnehmbar<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Gießanzeiger für die zuverlässige Gießanzeige bei Topfpflanzen</li><li>für Pflanzen in Tongranulat geeignet</li><li>verhindert Staunässe und Wurzelfäulnis</li><li>für Töpfe bis 26 cm Höhe</li><li>mit Farbmarkierung: rot (trocken) und blau (feucht)<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 89.99,
-    "attributes": "<ul><li>hochwertiger Einhandmischer mit offenem Schwallauslauf</li><li>geräuscharme 25 mm Kartusche mit Sitz</li><li>Armatur mit keramischen Dichtungsscheiben</li><li>inklusive flexible Metall-Anschlussschläuche</li><li>Hochdruck-Armatur mit 1 ¼\" (Ø ca. 4 cm) Metall-Ablaufgarnitur</li></ul>"
-}

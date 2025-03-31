@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>zwei Spanngurte mit einer Belastbarkeit von bis je 250 kg</li><li>es kann um Verpackungen gewickelt oder am Pkw Anhänger befestigt werden </li><li>vielseitig einsetzbar, dort wo eine zusätzliche Sicherung oder Befestigung benötigt wird</li><li>durch Ratsche kann es leichter und fester zugezogen werden</li><li>mit automatischer Aufrollfunktion per Knopfdruck<br/></li></ul>"
-}

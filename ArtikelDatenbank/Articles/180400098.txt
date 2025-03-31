@@ -1,4 +1,0 @@
-{
-    "uvp": 16.49,
-    "attributes": "<ul><li>robust durch Chrom-Vanadium-Stahl</li><li>geeignet für alle gängigen Radmuttern</li><li>Farbcodierung erlaubt direkte Zuordnung</li><li>Schutz vor Kratzern durch Kunststoffummantelung</li><li>praktische Box für einfache Aufbewahrung</li></ul>"
-}

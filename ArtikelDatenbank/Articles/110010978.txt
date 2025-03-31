@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>ideal für Wasserleitungen</li><li>kinderleicht und schnell angebracht</li><li>einfache Handhabung</li><li>spart Zeit und Geld</li><li>Isolierung entsprechend EnEV (Energieeinsparverordnung)</li></ul>"
-}

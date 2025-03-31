@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>hochwirksamer Schutz</li><li>bequeme und sofortige Anwendung</li><li>äußerst pflanzenschonend</li><li>nicht bienengefährlich</li><li>vielseitige Anwendung<br/><br/></li></ul>"
-}

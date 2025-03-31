@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Warnweste nach DIN EN 1150</li><li>fluoreszierendes Material</li><li>mit Klettverschluss für sicheres Tragen</li><li>2 Reflektorstreifen rundum für bessere Sichtbarkeit</li><li>gelbe Sicherheitsweste für Kinder / Jugendliche</li></ul>"
-}

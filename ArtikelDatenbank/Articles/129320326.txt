@@ -1,4 +1,0 @@
-{
-    "uvp": 1.19,
-    "attributes": "<ul><li>5 Saatscheiben Topfdill Ella mit kompakten Wuchs</li><li>ist besonders ertrag- und blattreich</li><li>vielseitig für Salat- und Fischgerichte nutzbar</li><li>dunkelgrünen, feinen Fiederungen zur Garnierung</li><li>eignet sich besonders für die Aussaat in Töpfen</li></ul>"
-}

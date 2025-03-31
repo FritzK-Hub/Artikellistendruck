@@ -1,4 +1,0 @@
-{
-    "uvp": 6.0,
-    "attributes": "<ul><li>extrem robust und vielseitig einsetzbar</li><li>hergestellt aus hochwertigem Edelstahl</li><li>hohe Kälte- und Hitzebeständigkeit</li><li>rost- und korrosionsbeständig</li><li>schnelle und einfache Handhabung<br/></li></ul>"
-}

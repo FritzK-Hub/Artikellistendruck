@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Sonnenblume Domio für ca. 25 Pflanzen</li><li>schnellwachsende Pflanze mit gelben Blüten</li><li>als Schnittblume oder Gruppenpflanze nutzbar</li><li>ist zudem ein idealer Sichtschutz an Zäunen</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

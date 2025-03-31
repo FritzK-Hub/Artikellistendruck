@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>mit Millimeterskala</li><li>31mm max. Öffnung</li><li>Chrom Vanadium satiniert</li><li>leichte Backenverstellung</li><li>GERMANIA® Qualitätswerkzeuge</li></ul>"
-}

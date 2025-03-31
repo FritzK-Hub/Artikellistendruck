@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>ideal zur Sicherung von Baustellen</li><li>auch zur Absperrung von größeren Arealen geeignet</li><li>Warnband mit einer Länge von 66 m</li><li>Flatterband in gelb-schwarz</li><li>Absperrband, 60 mm breit</li></ul>"
-}

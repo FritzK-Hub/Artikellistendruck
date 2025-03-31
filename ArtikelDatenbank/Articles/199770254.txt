@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>10 Korpus-Verbindungshülsen Ø 5,0 x 27 mm</li><li>aus stabilem, vernickeltem Metall gefertig</li><li>Hülsen für Verbindungsschrauben M4<br/></li><li>vernickelte Möbelverbinder</li><li>mit aufgepresstem Kopf</li></ul>"
-}

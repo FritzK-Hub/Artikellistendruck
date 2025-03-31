@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Lackspray schützt zuverlässig vor Korrosion</li><li>ideal für die Lackierung von Karosserie und Felgen</li><li>verfügt über hervorragende Hafteigenschaften</li><li>ist schnelltrocknend, waschanlagen- und wetterfest</li><li>erzeugt eine schwarze glänzende Oberfläche</li></ul>"
-}

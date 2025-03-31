@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Eckbesen in Grün mit Teleskopstiel</li><li>aus stabilem Kunststoff gefertigt</li><li>teleskopierbar von 75 bis 131 cm</li><li>mit praktischen Gelenkadapter</li><li>zur Reinigung deiner Ecken im Haushalt, egal ob Fußboden oder Decke<br/></li></ul>"
-}

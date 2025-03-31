@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Fondue-Set 10-teilig für 6 Personen</li><li>aus robustem Edelstahl gefertigt </li><li>Set besteht aus 6 Gabeln, Topf, Pastenbrenner, Spritzschutz und Sockel</li><li>ermöglich verschiedenste Käse- und Schokogerichte</li><li>für die unterschiedlichsten Gerichte geeignet<br/></li></ul>"
-}

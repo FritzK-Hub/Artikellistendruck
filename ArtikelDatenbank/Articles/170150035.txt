@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>aus hochwertiger M42 Stahllegierung mit einem 8%igen Kobalt-Anteil</li><li>perfekt für Elektro-, Trockenbau- und Sanitärarbeiten</li><li>kompatibel mit Hand- und Standbohrmaschinen</li><li>herausragende Schnittleistung und Lebensdauer</li><li>ermöglicht präzises Arbeiten an verschiedenen Materialien<br/></li></ul>"
-}

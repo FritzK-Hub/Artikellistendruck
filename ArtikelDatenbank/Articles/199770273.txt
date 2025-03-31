@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Zylinderkopfschrauben M6 x 40 mm 2 Stück<br/></li><li>mit flachem Kopf und Innensechskant Antrieb</li><li>aus verzinktem Stahl</li><li>für die flächenbündige Montage</li><li>inklusive 2 Hülsenmuttern<br/></li></ul>"
-}

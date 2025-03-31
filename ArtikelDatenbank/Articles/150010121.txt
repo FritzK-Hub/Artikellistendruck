@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>effektive Fleckenentfernung ohne Chemie</li><li>langlebiger Schwamm mit hoher Melamindichte</li><li>vielseitig für Haushalt und Fahrzeuge</li><li>entfernt hartnäckigen Schmutz schnell und einfach</li><li>große Vorratspackung für lange Nutzung</li></ul>"
-}

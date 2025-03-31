@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Kronleuchterhaken in gebogener, offener Form</li><li>mit selbstschneidendem Gewinde</li><li>stabile Ausführung aus verzinktem Stahl</li><li>zum Aufhängen von Gegenständen an der Decke</li><li>für festen Halt in Holz oder Mauerwerk<br/></li></ul>"
-}

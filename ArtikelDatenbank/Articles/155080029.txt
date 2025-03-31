@@ -1,4 +1,0 @@
-{
-    "uvp": 199.0,
-    "attributes": "<ul><li>Gasheizer Blueflame aus Stahlblech mit 4,2 kW</li><li>mit Druckminderer und Piezozündung ausgestattet</li><li>lässt sich mit Propan- oder Butangas betreiben</li><li>gleichmäßigen Wärmeaustritt dank Metallgitter</li><li>vier Rollen für den einfachen Transport</li></ul>"
-}

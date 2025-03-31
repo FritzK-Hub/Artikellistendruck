@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>2-teilige Schlauchverschraubung aus verchromtem Metall für eine attraktive Optik</li><li>zum Anschluss eines ¾\" Schlauchs an einen Wasserhahn mit ¾\" Außengewinde für perfekte Passform und Dichtheit</li><li>hergestellt aus hochwertigem Metallen ist die Schlauchverschraubung langlebig und widerstandsfähig gegenüber Druck und Zugbelastung </li><li>besonders für den Anschluss von Bewässerungssystemen und Gartengeräten</li><li>mit ¾\" Tülle und ¾\" Flügelüberwurfmutter für einfache Montage</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>hitzebeständig, langlebig und widerstandfähig</li><li>besonders einfache Installation</li><li>präzise Kontrolle der Rauchabzugs und Wärmeabgabe</li><li>Optimierung des Brennstoffverbrauchs</li><li>für verschiedene Ofenmodelle und -größen<br/></li></ul>"
-}

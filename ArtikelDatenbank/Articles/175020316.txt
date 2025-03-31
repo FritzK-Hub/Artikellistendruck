@@ -1,4 +1,0 @@
-{
-    "uvp": 5.29,
-    "attributes": "<ul><li>hochwertiges Schleifpapier mit 6-Loch-Absaugung</li><li>für unseren GERMANIA® Deltaschleifer 7062685 geeignet (siehe Shop)</li><li>perfektes Schleifbild und hohe Schleifleistung</li><li>hoher Materialabtrag, lange Standzeit</li><li>schnelles Wechseln der Schleifblätter durch Klettverbindung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 0.29,
-    "attributes": "<ul><li>flammwidrige UP-Schalterdose Ø 60 mm</li><li>für Unterputzmontagen im Innenbereich</li><li>optimal für Spreiz- und Schraubbefestigung</li><li>Ausbrechöffnungen für Leitungen und Rohre mit Ø bis 20 mm</li><li><span style=\"font-weight: bold;\">Mindestabnahme 20 Stück</span></li></ul>"
-}

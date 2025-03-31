@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>praktische Gerätehalterungen 50 x 30 mm</li><li>sorgt für mehr Ordnung in der Werkstatt oder Haushalt</li><li>zum Aufhängen von Werkzeug oder Haushaltsgeräten</li><li>einfache Wandmontage mittels Schrauben möglich</li><li>passend auch für die Geräteleiste GH480</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 179.95,
-    "attributes": "<ul><li>Antihaft-Grillplatte für rauchfreies Backen</li><li>abnehmbare Tropfschale zur einfachen Reinigung</li><li>Edelstahl-Grill-Technologie, eingebaute Rotisserie-Funktion</li><li>standfest mit rutschfesten Füßen</li><li>einfache Umschaltung von Grillen zu Rotisserie</li></ul>"
-}

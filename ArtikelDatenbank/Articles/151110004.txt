@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>ideal zur Fixierung von Verbänden</li><li>selbstklebend und zuschneidbar</li><li>zum Unterstützen der Gelenke</li><li>vielseitig einsetzbar</li><li>Qualitätserzeugnis für Erste-Hilfe</li></ul>"
-}

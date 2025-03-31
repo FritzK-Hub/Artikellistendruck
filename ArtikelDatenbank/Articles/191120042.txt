@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>langsamlösliche MultiTabs je 200g als Komplettpflege für dein Schwimmbecken</li><li>für wirksame Wasserdesinfektion, Algenverhütung und Flockung ein pH-Wert zwischen 7,0 bis 7,4</li><li>über einen Skimmer dem Beckenwasser hinzugeben</li><li>für Chlor Dauerdesinfektion, bekämpft Algenbildung und ist ein Flockungsmittel</li><li>Gebrauch nur für Sandfilter geeignet<br/></li></ul>"
-}

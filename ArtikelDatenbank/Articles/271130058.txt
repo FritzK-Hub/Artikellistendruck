@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>geschliffen HSSG-Spiralbohrer für hohe Qualität</li><li>Bohrer geeignet für Gußmetall, NE-Metall, Kunststoff, Eisen, Stahl</li><li>für professionelle und Hobbyheimwerker</li><li>große Stabilität und Festigkeit</li><li>aus langlebigem HSS-Stahl mit Titan-Beschichtung<br/></li></ul>"
-}

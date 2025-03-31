@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>50 Mehrweggabel 18,5 cm</li><li>aus klarem Kunststoff gefertigt</li><li>extra stabil und robust</li><li>ideal für Party oder Picknick</li><li>lebensmittelecht</li></ul>"
-}

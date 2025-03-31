@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Linsenschrauben mit Muttern</li><li>mit PH Kreuzschlitz Antrieb</li><li>aus verzinktem Stahl</li><li>mit metrischem Gewinde</li><li>für Untergründe die nicht eingedrückt werden dürfen<br/></li></ul>"
-}

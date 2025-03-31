@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Die Wellness-Duftperlen verströmen einen wunderbaren Duft</li><li>ideal für Wohnräume und Badezimmer</li><li>Duftperlen im dekorativen Gefäß</li><li>langanhaltender Duft</li><li>4 verschiedene Duftnoten<br/></li></ul>"
-}

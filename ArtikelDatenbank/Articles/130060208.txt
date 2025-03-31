@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Mullbinde von Wundmed</li><li>fixiert Mullkompressen und Binden</li><li>einfach das gewünschte Maß abschneiden</li><li>elastisch, luftdurchlässig und rutschfest</li><li>hygienisch in einer Folie verpackt<br/></li></ul>"
-}

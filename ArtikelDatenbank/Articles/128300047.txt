@@ -1,4 +1,0 @@
-{
-    "uvp": 133.95,
-    "attributes": "<ul><li>Ampelschirm aus strapazierfähigem Polyester</li><li>Aluminiumgestell mit Ständer</li><li>Bezug aus 100% Polyester</li><li>UV-Schutzfaktor 50+ (höchste Stufe)</li><li>spendet ausreichend Schatten</li></ul>"
-}

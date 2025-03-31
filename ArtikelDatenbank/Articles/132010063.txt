@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Holztunnel 20 cm für Nager mit vielen Löchern</li><li>ein passendes Käfigzubehör für deine Haustiere</li><li>ideal für Hamster, Mäuse und Gerbils<br/></li><li>eignet sich zum Klettern oder Verstecken</li><li>ganz ohne künstliche Klebestoffe<br/></li></ul>"
-}

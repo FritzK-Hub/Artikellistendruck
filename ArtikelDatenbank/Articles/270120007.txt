@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>3 teiliges Set Edelstahl Bürsten</li><li>ideal für Kleinbohrmaschinen</li><li>geeignet zum Entrosten und Polieren</li><li>universell einsetzbare Edelstahlbürsten</li><li>Edelstahl Bürsten in Profiqualität<br/></li></ul>"
-}

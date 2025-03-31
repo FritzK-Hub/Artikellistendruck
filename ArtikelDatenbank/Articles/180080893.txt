@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Marmorsplitt Carrara hellgrau im 25 kg Sack</li><li>zur dekorativen Gestaltung in Blumentöpfen</li><li>auch als Markierung von Wegen einsetzbar</li><li>mit einer Korngröße von 9 bis 12 mm</li><li>lässt das Regenwasser durchsickern<br/></li></ul>"
-}

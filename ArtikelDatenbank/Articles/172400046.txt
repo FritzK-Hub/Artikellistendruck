@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>zuverlässige Energiequelle für elektronische Geräte</li><li>für Radios, Fernbedienungen oder Spielzeug</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>auch für tragbare Geräte einsetzbar</li><li>zur kleinen Bevorratung in der dunklen Jahreszeit<br/></li></ul>"
-}

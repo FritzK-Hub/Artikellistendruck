@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Klimaanlage mini sorgt für Abkühlung an heißen Tagen</li><li>ideal fürs Büro, Küche oder Wohn- wie Schlafräume</li><li>mit verstellbaren Lüftungsschlitzen und 3 Geschwindigkeitsstufen versehen</li><li>LED-Licht in verschiedenen Farben einstellbar</li><li>inklusive Baumwoll-Filter und 1 m USB-Kabel<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Saalbesen 1-Loch mit Buchenholzstiel</li><li>Besenkopf aus unlackiertem Buchenholz</li><li>Borsten aus widerstandsfähigem Arenga und Elaston</li><li>für grobe trockene und feuchte Oberflächen</li><li>entfernt mühelos feuchten Schmutz und Ölrückstände<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>hochwertige Stumpenkerze</li><li>aus Paraffin gefertigt</li><li>Brenndauer ca. 29 Stunden</li><li>ideal für Tisch- oder Weihnachtsdekorationen</li><li>für die Bestückung von Weihnachtskränzen</li></ul>"
-}

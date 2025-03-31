@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Schmuckfaden 60 m mit 1,3 mm Durchmesser</li><li>aus recyceltem Material hergestellt</li><li>ideal zur Schmuckherstellung wie Armbänder</li><li>besitzt eine Belastbarkeit von ca. 15 kg</li><li>einfach Perlen oder andere Elemente mit Loch auffädeln<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>höchste Deckkraft und Strapazierfähigkeit</li><li>extrem hoher Weißgrad</li><li>universell für Innenuntergründe</li><li>unkompliziert zu verarbeiten</li><li>mischbar mit Abtönfarbe</li></ul>"
-}

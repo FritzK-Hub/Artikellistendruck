@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Lufterfrischer-Gel in Kunststoff-Duftspender</li><li>lang anhaltende Frische in deinen Räumen</li><li>angenehmer und fruchtiger Raumduft</li><li>leicht anzuwendender Duftspender für Bad und WC</li><li>neutralisiert schlechte Gerüche<br/></li></ul>"
-}

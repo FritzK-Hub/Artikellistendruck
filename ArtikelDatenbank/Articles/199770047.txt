@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Bodenausgleichsschraube mit 14 mm Verstellbereich </li><li>zum Ausgleichen von Bodenunebenheiten</li><li>einfache Handhabung</li><li>mit Sechskant-Bodenteller aus PE Polyethylen</li><li>besonders robust und langlebig<br/><br/></li></ul>"
-}

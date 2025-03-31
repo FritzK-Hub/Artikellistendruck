@@ -1,4 +1,0 @@
-{
-    "uvp": 3.23,
-    "attributes": "<ul><li>flexibler 620-mm-Schaft</li><li>präzises Federdrucksystem</li><li>robuste Konstruktion</li><li>vielseitig einsetzbar</li><li>einfache Handhabung</li></ul>"
-}

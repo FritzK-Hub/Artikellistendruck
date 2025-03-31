@@ -1,4 +1,0 @@
-{
-    "uvp": 85.95,
-    "attributes": "<ul><li>großes Aufbaupavillon mit sechs Seitenteilen und Sichtfenstern</li><li>passend für Gartenpartys, kleinere Veranstaltungen oder Flohmärkte</li><li>lässt sich einfach und schnell aufstellen</li><li>Stahlrohrgestell sorgt für notwendige Stabilität</li><li>auf Nichtgebrauch platzsparend zusammenfalt- und aufbewahrbar<br/></li></ul>"
-}

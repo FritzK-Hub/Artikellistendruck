@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Mehrbereichs-Öl für Otto- und Dieselmotoren</li><li>auf Basis von HC-Syntheseöl hergestelltes Öl</li><li>Hochleistungs-Motorenöl mit weitem Einsatzbereich</li><li>ausgesuchte Grundöle und moderne Additive</li><li>hohes Leistungsniveau</li></ul>"
-}

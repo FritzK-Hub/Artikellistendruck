@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>puderfreie Vinylhandschuhe im 10er Pack</li><li>besonders für Arbeiten in Haus und Garten</li><li>angenehmer Tragekomfort</li><li>besonders hohes Tastempfinden</li><li>frei von Latexallergenen<br/></li></ul>"
-}

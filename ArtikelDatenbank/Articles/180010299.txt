@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>leistungsstarker Gartendünger</li><li>optimale Nährstoffversorgung</li><li>zur Ertragssteigerung</li><li>universelle Anwendbarkeit</li><li>umweltfreundlich und schonend<br/></li></ul>"
-}

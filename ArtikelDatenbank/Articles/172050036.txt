@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Steckdosenleiste 3-fach mit Schalter in schwarz<br/></li><li>für den Innenbereich geeignet</li><li>Steckplätze sind im 45°-Winkel angeordnet</li><li>verfügt über eine integrierte Kindersicherung</li><li>inklusive 1,4 m langem Netzkabel<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>für verschiedene Schraub-Gas-Kartuschen</li><li>robuste Konstruktion für langanhaltende Nutzung</li><li>kompakt und leicht für einfaches Mitnehmen</li><li>erweitert deine Outdoor-Gasoptionen</li><li>passt zu 7/16 EU Ventilen<br/></li></ul>"
-}

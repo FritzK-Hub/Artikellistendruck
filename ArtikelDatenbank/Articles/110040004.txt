@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>10 x Abfallsäcke auf Rolle</li><li>für Schwingdeckel-Mülleimer und Mülltonnen</li><li>Allrounder für Haus- und Werkstattabfälle</li><li>aus umweltfreundlichem Polyethylen hergestellt</li><li>verhält sich grundwasserneutral</li></ul>"
-}

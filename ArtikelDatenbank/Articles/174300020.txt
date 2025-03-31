@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>schwenkbarer Auslauf</li><li>keramische Dichtungsscheiben</li><li>geräuscharme, austauschbare Kartusche</li><li>flexible Metall-Anschlussschläuche</li><li>vielseitiger Maschinenanschluss <br/></li></ul>"
-}

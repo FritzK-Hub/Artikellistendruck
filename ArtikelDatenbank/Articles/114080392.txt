@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Stumpenkerze Ø 6 x 8 cm aus Echtwachs in champagner</li><li>schafft eine wohlfühlende Atmosphäre</li><li>vielseitig einsetzbare Tisch- und Weihnachtsdekoration</li><li>besitzt eine Brenndauer von ca. 29 Stunden</li><li>auch für die Bestückung von Weihnachtskränzen geeignet<br/></li></ul>"
-}

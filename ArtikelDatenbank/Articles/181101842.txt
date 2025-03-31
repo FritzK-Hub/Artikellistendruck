@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>    Expanderhaken im 10er Sparset<br/></li><li>zum Befestigen von Planen, Abdecknetzen oder anderen Gegenständen</li><li>ausreichende Länge für eine sichere Befestigung</li><li>universal anwendbar, auch zum Spannen von Bannern und Werbeplanen </li><li>aus hochwertigen Materialien gefertigt, robust und widerstandsfähig</li></ul>"
-}

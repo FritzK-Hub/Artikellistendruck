@@ -1,4 +1,0 @@
-{
-    "uvp": 31.95,
-    "attributes": "<ul><li>Wasserpumpenzangen-Set, 3-teilig</li><li>Profi-Qualität aus dem Hause BGS</li><li>das ideale Allround-Werkzeug für Heimwerker, Werkstätten, Industrie und Hobby</li><li>geschmiedet und gehärtet, Backen und Gewerbe glanzpoliert</li><li>in einer praktischen TETRON-Rolltasche</li></ul>"
-}

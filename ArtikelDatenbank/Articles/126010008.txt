@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>ideal für kleinere und mittlere Rasenflächenbis 400 m²</li><li>leistungsstarker 1,2 kW-Motor mit 32 cm Schnittbreite</li><li>klappbarer Handgriff zur einfachen und platzsparenden Lagerung</li><li>zentrale Schnitthöhenverstellung in 3 Positionen (26 – 56 mm)</li><li>inklusive Fangkorb mit 30 Litern Fassungsvermögen</li></ul>"
-}

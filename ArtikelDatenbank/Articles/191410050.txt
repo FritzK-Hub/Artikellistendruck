@@ -1,4 +1,0 @@
-{
-    "uvp": 20.95,
-    "attributes": "<ul><li>aus strapazierfähigem PVC</li><li>mit verstärkten Griffen</li><li>perfekt für kleine Astronauten<br/></li><li>gibt den kleinen Piloten sicheren Halt</li><li>im Handumdrehen aufgeblasen</li></ul>"
-}

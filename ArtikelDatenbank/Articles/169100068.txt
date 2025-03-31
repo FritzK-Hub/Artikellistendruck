@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>sehr guter Schutz für Wertsachen</li><li>robuste Stahlkonstruktion</li><li>drei Schlüssel im Lieferumfang enthalten</li><li>vielseitige Anwendungsmöglichkeiten</li><li>widerstandsfähig gegen gewaltsame Öffnungsversuche<br/></li></ul>"
-}

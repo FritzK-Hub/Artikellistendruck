@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>T-Verbinder mit Klemmfitting, universell einsetzbar für die Sanitär-, Heizungs-, Gas-, Öl-und Druckluftinstallation</li><li>einfache und sichere Verbindung zwischen Kupferrohren und Rohren oder Armaturen mit Gewinde</li><li>korrosionsbeständiges Material für zuverlässige Leistung in verschiedenen Umgebungen</li><li>für die Vertilung und Erweiterung von Rohrleitungen</li><li>kann mit Kupferrohren verarbeitet werden</li></ul><p></p>"
-}

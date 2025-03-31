@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Speisewärmer elektrisch aus Edelstahl mit 300 Watt</li><li>3 Behälter mit je 2 Liter und Deckel inklusive</li><li>kann Speisen und Geschirr wärmen oder erhitzen</li><li>einstellbares Thermostat und Überhitzungsschutz</li><li>einstellbare Temperatur: von 50 – 70 °C</li></ul>"
-}

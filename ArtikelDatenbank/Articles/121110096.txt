@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>runder Blumenkübel mit wellenförmiger Oberfläche</li><li>stabiles Pflanzgefäß für innen und außen</li><li>mit Einsatz zum einfacheren Bepflanzen</li><li>aus hochwertigem Kunststoff</li><li>UV- und frostbeständig</li></ul><p></p>"
-}

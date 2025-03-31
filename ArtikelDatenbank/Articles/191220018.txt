@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Kerntemperatur-Stechthermometer mit Edelstahlschaft</li><li>mit Symbolen und Zahlen für die optimale Zubereitung des Fleisches</li><li>immer die richtige Temperatur finden - Messsystem Bimetall 0 - 120 Grad</li><li>einfach und schnell ablesbar</li><li>die Reinigung ist sehr einfach<br/></li></ul>"
-}

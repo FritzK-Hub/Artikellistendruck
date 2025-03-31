@@ -1,4 +1,0 @@
-{
-    "uvp": 74.95,
-    "attributes": "<ul><li>Sitzauflage für 3-Sitzer Gartenbänke</li><li>mit separatem Sitz- und Rückenpolster</li><li>Bezug aus 100 % Baumwolle</li><li>mit Reißverschluss, waschbar bei 30° Grad</li><li>Füllung aus Polyesterwatte mit Schaumstoff</li></ul>"
-}

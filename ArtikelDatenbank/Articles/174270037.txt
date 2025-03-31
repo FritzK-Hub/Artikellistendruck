@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>VDE Multifunktionszange</li><li>Kraftgewerbe mit optimaler Hebelübersetzung</li><li>Schneide induktiv gehärtet</li><li>Greifzone für Flach.-und Rundmaterial</li><li>für weiche und harte Drähte geeignet</li></ul>"
-}

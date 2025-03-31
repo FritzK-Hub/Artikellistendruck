@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>praktisches Ladeadapter für den KFZ/Wohnmobil</li><li>zum Aufladen von z.B. Smartphones am Zigarettenanzünder</li><li>2 USB-Anschlüsse, jedes USB-Ladekabel kann auch im Auto verwendet werden</li><li>zum einfachen Laden von den gängigen Handys und Tablets</li><li>gleichzeitiges Aufladen von 3 Geräten möglich</li></ul>"
-}

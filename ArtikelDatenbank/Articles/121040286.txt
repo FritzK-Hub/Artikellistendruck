@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>hochwertige Künstlerleinwand aus 100 % Baumwolle</li><li>weiße Vorgrundierung für eine glatte und gleichmäßige Oberfläche</li><li>robuster Karton für extra Langlebigkeit und Stabilität</li><li>vielseitige Verwendungsmöglichkeiten für verschiedene Maltechniken</li><li>für Profis und Hobbymaler geeignet<br/></li></ul>"
-}

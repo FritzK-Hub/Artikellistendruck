@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>praktisches Sonnensegel rechteckig 3 x 4 m </li><li>aus 150 D Oxford-Stoff gefertigt</li><li>in vier verschiedenen Farben erhältlich</li><li>trotz kleiner Öffnungen in der Leinwand bietet sie ausreichend Schatten zur Kühlung</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

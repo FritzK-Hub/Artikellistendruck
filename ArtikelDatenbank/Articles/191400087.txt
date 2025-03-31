@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Outdoor-Spiel Tauziehen mit 10 m langem Seil </li><li>bestens für den Urlaub oder im Garten geeignet</li><li>kann 1 gegen 1 oder zwischen 2 Teams gespielt</li><li>stärkt bei Kindern die Ausdauer, Kraft und Teamgeist</li><li>inklusive Markierungsstreifen und zwei Holzpfähle<br/></li></ul>"
-}

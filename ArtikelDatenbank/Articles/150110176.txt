@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Textil-Reiniger mit integrierter Reinigungsbürste</li><li>reinigt schonend, kraftvoll und pflegt Polster und Teppiche</li><li>entfernt selbst tief sitzende und hartnäckige Verschmutzungen</li><li>beugt Wiederverschmutzung von Polstern und Teppichen vor</li><li>wirkt farbauffrischend und neutralisiert Gerüche</li></ul>"
-}

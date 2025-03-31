@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Halbzylinder mit Bohrmulden (Kopierhemmung für Schlüssel-Nachfräsung)</li><li>nur von einer Seite schließbar</li><li>mit 5 Schlüsseln (Wendeschlüssel)</li><li>z. B. für den Einbau in Garagentore</li></ul>"
-}

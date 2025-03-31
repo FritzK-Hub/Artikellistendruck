@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Sortimentsbox mit fünf herausnehmbaren Fächern</li><li>vielseitig in der Werkstatt, Garage oder auf der Baustelle einsetzbar</li><li>stabile Ausführung mit sicheren Clipverschlüssen</li><li>bietet ausreichend Stauraum für Werkzeug und Zubehör</li><li>durchsichtiger Deckel für schnellen Überblick des Inhalts<br/></li></ul>"
-}

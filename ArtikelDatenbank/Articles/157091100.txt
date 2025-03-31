@@ -1,4 +1,0 @@
-{
-    "uvp": 33.86,
-    "attributes": "<ul><li>effektives Sammeln von Regenwasser</li><li>für Fallrohre DN 53-75 und Auslauf 1\"</li><li>UV- und witterungsbeständig</li><li>Montage durch einfaches Stecken</li><li>mit Filter und Überlaufstop</li></ul>"
-}

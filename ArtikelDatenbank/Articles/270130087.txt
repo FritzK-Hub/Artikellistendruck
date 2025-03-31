@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Delta Schleifplatte von Drillcraft</li><li>mit Mikro-Klettverschluss</li><li>schnelles und einfaches Wechseln der Schleifblätter</li><li>passend für alle gängigen Schleifpapiere</li><li>Qualitätsprodukt für den Profi</li></ul>"
-}

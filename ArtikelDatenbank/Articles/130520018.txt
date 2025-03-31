@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Staubsauger mit 850 W aus ABS-Kunststoff </li><li>waschbarer HEPA Filter</li><li>Staubbeutelkapazität von 3 Liter</li><li>5 Meter langes Kabel </li><li>automatische Kabelaufwicklung und Ein/Aus-Fußschalter<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Estragon russischer Art für ca. 200 Pflanzen</li><li>zur Verfeinerung von Salat oder Fleischgerichten</li><li>mit appetits- und stoffwechselanregender Wirkung</li><li>ist zudem ein verdauungsförderndes Hilfsmittel</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 62.79,
-    "attributes": "<h3><strong>Produktmerkmale:</strong></h3><ul><li>Werkzeug-Set von Kraftmann</li><li>in hochwertiger Stoffmappe</li><li>ideal für Werkstatt, Hobby und Haushalt</li><li>perfekt zur Aufbewahrung und für einen bequemen Transport</li><li>mit Säge, Hammer, Schraubendreher und Zange</li></ul>"
-}

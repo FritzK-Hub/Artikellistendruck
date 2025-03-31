@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>massive Bügel-Rohrschelle mit Profilgummi</li><li>einfache Rohrmontage durch Gelenköffnung<br/></li><li>schalldämmende Gummieinlage<br/></li><li>für mittlere bis hohe Lasten</li><li>mit fester Anschlussmutter</li></ul><p></p>"
-}

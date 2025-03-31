@@ -1,4 +1,0 @@
-{
-    "uvp": 55.99,
-    "attributes": "<ul><li>8-teiliges Bohrkronen-Satz von Feida</li><li>mit 3 Bohrkronen, 2 Zentrierbohrer, 2 Verlängerungen</li><li>in Profi-Industriequalität</li><li>geeignet für Rohrdurchbrüche oder zum Setzen von Unterputzdosen</li><li>in hochwertiger Kunststoffbox<br/></li></ul>"
-}

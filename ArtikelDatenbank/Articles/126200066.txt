@@ -1,4 +1,0 @@
-{
-    "uvp": 129.95,
-    "attributes": "<ul><li>Hauswasserwerk HWW 6035 mit 19 Liter Kessel</li><li>fördert Regen, Brauch- oder Grundwasser</li><li>Gehäuse aus schlagfestem Kunststoff</li><li>mit Manometer und Thermoschutzschalter</li><li>mit Entlüftungs- und Wasserablassschraube für die Wartung<br/></li></ul>"
-}

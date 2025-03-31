@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Tablett rechteckig 40 x 30 aus massivem Schiefer</li><li>große Ablagefläche bietet ausreichend Platz</li><li>ist ein vielseitig einsetzbares Schiefertablett</li><li>als Dekorationsablage für z.B. Kerzen</li><li>als Serviertablett im Haushalt oder fürs Frühstück<br/></li></ul>"
-}

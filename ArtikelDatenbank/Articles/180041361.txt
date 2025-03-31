@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>hochwertiger geschmiedeter Stahl</li><li>robuste Zinken</li><li>komfortabler Holzstiel</li><li>großzügige Maße</li><li>Langlebig und vielseitig</li></ul>"
-}

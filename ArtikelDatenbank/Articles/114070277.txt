@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>elegant und unaufdringlich</li><li>vielseitig einsetzbar für Fotos von 13 x 18 cm</li><li>klarer Blick durch Normalglas</li><li>einfache Installation dank mitgelieferten Aufhängungen</li><li>besonders robust und leicht<br/></li></ul>"
-}

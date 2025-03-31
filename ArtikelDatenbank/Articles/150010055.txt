@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Heizkörperbürste mit Schaumstoffüberzug</li><li>zur schonenden Reinigung von Heizkörpern</li><li>kommt selbst an schwerzugängliche Stellen</li><li>einfache und gründliche Reinigung</li><li>dank Aufhängöse platzsparend aufhängbar<br/></li></ul>"
-}

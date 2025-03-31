@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Regentonne Tube, aus schlagfestem Kunststoff gefertigt</li><li>großes Fassungsvermögen von 230 Litern bietet ausreichend Kapazität</li><li>ideal zum Sammeln von Regenwasser, eine umweltfreundliche Alternative</li><li>inspiriert von den traditionellen Wasserfässern aus Holz</li><li>inklusive bepflanzbarem Deckel mit Bohrlöchern, Anschlusset und Wasserhahn</li></ul>"
-}

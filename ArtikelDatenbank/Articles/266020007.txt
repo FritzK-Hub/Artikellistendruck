@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Tragkraft pro Rad ca. 40 kg</li><li>Vollgummi Rad mit Profil</li><li>rollengelagerte Bockrolle</li><li>Rad inklusive Fadenschutz</li></ul>"
-}

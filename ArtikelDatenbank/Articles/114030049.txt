@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>rechteckige Pappteller</li><li>lebensmittelecht</li><li>kompostierbar</li><li>mit einer Grammatur von ca. 250 g/m²<br/></li><li>praktisch und hygienisch</li></ul>"
-}

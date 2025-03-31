@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Frühlingszwiebel Feast, für ca. 3 laufende Meter</li><li>liefern bereits im zeitigen Frühjahr ihre Schalotten</li><li>ist mehrjährig als Lauchnutzung einsetzbar</li><li>kann einjährig als Ganzpflanzenerde genutzt werden</li><li>verfügt über eine Probefeldgetestete Qualität</li></ul>"
-}

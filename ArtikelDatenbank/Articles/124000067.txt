@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Universal-Wasserhahnanschluss mit Innengewinde</li><li>für Wasserhähne mit 1/2\", 3/4\" und 1\" Gewinde</li><li>Drehmöglichkeit 360° horizontal und 180° vertikal</li><li>mit ergonomischer Form</li><li>ermöglicht ein schnelles und bequemes Anbringen</li></ul><p><br/></p>"
-}

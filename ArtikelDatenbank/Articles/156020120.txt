@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Lasurpinsel mit gebogenem Pinselkopf</li><li>bestens geeignet für schwer zugängliche Stellen</li><li>gute Farbaufnahme und Abgabe</li><li>langer und stabiler Holzgriff</li><li>bestens geeignet für alle Lasuren</li></ul>"
-}

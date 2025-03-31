@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>stabiler Kleiderhaken aus Metall</li><li>modernes Design: Chrom matt</li><li>Aufhängemöglichkeit von Kleider und /oder Hüte</li><li>inkl. Montagematerial ( 2 x Schrauben )</li><li>Gesamtlänge des Hakens: ca. 16 cm<br/><br/></li></ul>"
-}

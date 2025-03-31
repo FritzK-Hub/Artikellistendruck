@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>robuste Beistelltisch aus Metall in Weiß</li><li>ideal für Wohnräume oder Garten geeignet</li><li>bietet ausreichend Platz für Deko, Pflanzen oder Snacks</li><li>lässt sich gut mit anderen Möbelstücken kombinieren</li><li>bei Nichtgebrauch platzsparend zusammenklappbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>2-teilige WC-Garnitur aus Kunststoff</li><li>WC-Bürste mit strapazhierfähigen Nylonborsten</li><li>Topf mit eckiger Form</li><li>sorgt für strahlende Sauberkeit</li><li>schlichte Farbe passt sich gut im Toilettenbereich an<br/></li></ul>"
-}

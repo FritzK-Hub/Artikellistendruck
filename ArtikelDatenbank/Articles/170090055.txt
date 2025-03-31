@@ -1,4 +1,0 @@
-{
-    "uvp": 6.09,
-    "attributes": "<ul><li>vielseitige Anwendung</li><li>einfache Befestigung</li><li>hohe Haltbarkeit</li><li>universelle Kompatibilität</li><li>präzise Ergebnisse</li></ul>"
-}

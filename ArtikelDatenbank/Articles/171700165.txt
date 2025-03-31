@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>universell einsetzbare Gips-Spachtelmasse </li><li>zum Füllen, Glätten, Spachteln von Rissen und Löchern</li><li>für Gipsplatten, Holz, Beton, Stein, Mauerwerk etc.</li><li>haftet fest und dauerhaft </li><li>schnell trocknend</li></ul>"
-}

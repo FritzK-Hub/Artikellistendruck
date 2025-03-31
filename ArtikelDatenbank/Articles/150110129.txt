@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Rostumwandler Auto reduziert und passiviert selbsttätig Rost</li><li>Rost wird selbstaktiv durch chemische Reaktion entfernt</li><li>Rost wird durch Säure in eine stabile Form umgewandelt</li><li>vereinfacht die Behandlung von Rost und hemmt das Weiterrosten</li><li>wirkt zuverlässig und dient der Vorbereitung des Spachtel- und Lackaufbaus als Grundierung</li></ul>"
-}

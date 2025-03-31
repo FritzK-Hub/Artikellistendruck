@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Schutz gegen Feuchtigkeit durch Gummiabdichtung</li><li>Safebox passend für Kunststoff- und Gummi-Steckverbindungen</li><li>spritzwassergeschützt, nicht wasserdicht</li><li>ideal für Camping, Garten und Freizeit</li><li>Safe Box für Rasenmäher, Werkzeuge und Lichterketten</li></ul>"
-}

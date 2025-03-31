@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>torfreduzierte Graberde 40 Liter</li><li>zur dekorativen Gestaltung</li><li>für Neupflanzungen auf Grabstätten</li><li>im Außenbereich geeignet</li><li>ausgenommen sind Moorbeetpflanzen<br/><br/></li></ul>"
-}

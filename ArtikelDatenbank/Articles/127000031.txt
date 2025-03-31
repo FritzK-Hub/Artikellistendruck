@@ -1,4 +1,0 @@
-{
-    "uvp": 26.99,
-    "attributes": "<ul><li>komfortables Schneiden</li><li>antihaftbeschichtete Oberklinge</li><li>ergonomisch geformte Griffe</li><li>eingearbeitete  Saftrille</li><li>integrierter Einhand-Sicherheitsverschluss</li><li>eingebauter Drahtschneider<br/></li></ul>"
-}

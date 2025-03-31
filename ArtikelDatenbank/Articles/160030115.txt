@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>robuste Arbeitshandschuhe Größe 10,5 aus Rindsspaltleder</li><li>auf Baustellen, bei Reparatur- und Forstarbeiten einsetzbar</li><li>strapazierfähig und abriebfest auf unterschiedlichen Oberflächen</li><li>gummierte Stulpe für mehr Schutz an den Handgelenken</li><li>gefütterte Innenhand für angenehmen Tragekomfort<br/></li></ul>"
-}

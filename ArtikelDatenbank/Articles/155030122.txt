@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>leistungsfähige Duracell Alkaline-Batterien<br/></li><li>nicht wiederaufladbar</li><li>vielseitig einsetzbar mit langer Lebensdauer</li><li>ideal auch für Geräte die eine hohe Leistung erfordern</li><li>preiswerte Energie für Fernbedienungen, Deko-Beleuchtungen, Spielzeuge</li></ul><p></p>"
-}

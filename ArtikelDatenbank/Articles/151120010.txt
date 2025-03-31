@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>mehrfach verwendbare Kompresse</li><li>für Kaltanwendung und Warmanwendung</li><li>Mikrowellen-geeignet</li><li>Wirkung der Kompresse ist vielfältig</li><li>Gel aus reinen Naturstoffen hergestellt</li></ul>"
-}

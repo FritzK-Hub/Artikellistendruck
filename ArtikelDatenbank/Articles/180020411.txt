@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>aus stabilem Kunststoff gefertigt, ein zuverlässiger Helfer bei der Gartenbewässerung </li><li>mit ergonomischer Form, die eine bequeme und einfache Handhabung ermöglicht</li><li>Wasserstrahl lässt sich einfach und bequem einhändig am Griff regulieren</li><li>Handbrause ist mit allen gängigen Schnellkupplungen kompatibel</li><li>die 8 Sprühformen bieten eine große Vielfalt an Möglichkeiten<br/></li></ul>"
-}

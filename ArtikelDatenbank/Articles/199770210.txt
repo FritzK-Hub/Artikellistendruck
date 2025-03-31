@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>hochwertige verzinkte FISHBULL-Schraubhaken</li><li>in gebogener, offener Form</li><li>aus stabilem verzinktem Stahl</li><li>zum Aufhängen von Gegenständen</li><li>zur Montage an der Decke oder Wand<br/><br/></li></ul>"
-}

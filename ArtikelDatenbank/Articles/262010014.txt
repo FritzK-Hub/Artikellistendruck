@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>Schwerlastkonsole mit einer Schenkellänge von 500 mm</li><li>aus verzinktem Stahl</li><li>massive Schwerlastausführung</li><li>Wandkonsole mit einer Tragkraft von 100 kg</li><li>Regalkonsole für große Belastungen</li></ul>"
-}

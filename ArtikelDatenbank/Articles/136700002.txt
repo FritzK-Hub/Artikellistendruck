@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>Spannungsprüfer mit LED-Anzeige</li><li>für Gleich- und Wechselspannung</li><li>Polaritätsanzeige bei Gleichspannung</li><li>mit aufschraubbaren Kontakthülsen</li><li>staubdicht und geschützt gegen allseitiges Spritzwasser (IP64)</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Handbrause Boti Ø 6 cm von eisl</li><li>aus schlagfestem, transparentem ABS-Kunststoff</li><li>passendes Zubehör für die Dusche</li><li>mit einem 1/2“ Brauseanschluss versehen</li><li>verfügt über zwei verschiedene Strahlarten<br/></li></ul>"
-}

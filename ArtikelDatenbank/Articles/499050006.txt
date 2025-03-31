@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>aus massivem, rostfreiem C1 Edelstahl gefertigt</li><li>langanhaltende Lösung für Terrassenkonstruktionen</li><li>spezielle Gewindeform erleichtert das Eindringen in das Holz</li><li>einfache Handhabung, erleichtert die Montage der Terrassendielen</li><li>für verschiedene Holzkonstruktionen im Außenbereich einsetzbar</li></ul>"
-}

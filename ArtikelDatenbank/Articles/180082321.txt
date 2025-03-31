@@ -1,4 +1,0 @@
-{
-    "uvp": 17.0,
-    "attributes": "<ul><li>aus feuerverzinktem Stahl für optimalen Korrosionsschutz</li><li>einfache Montage durch direktes Aufschrauben auf den Untergrund</li><li>zuverlässiger Halt durch Verschraubung der Streben mit der Platte</li><li>massives und robustes Design für lange Lebensdauer</li><li>einfache Anpassung durch flexible Neigungsmöglichkeiten<br/></li></ul>"
-}

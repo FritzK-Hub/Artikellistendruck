@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>gemütliche Hollywood-Auflage mit Rückenlehne</li><li>für den langfristigen Gebrauch im Außenbereich</li><li>ist strapazierfähig und wasserabweisend</li><li>bietet einen optimalen Sitzkomfort</li><li>verfügt über seitlich angebrachten Befestigungsbänder<br/><br/></li></ul>"
-}

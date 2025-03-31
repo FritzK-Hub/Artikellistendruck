@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Durchmesser Kopf (dk): ca. 16,55mm</li><li>Höhe Kopf (k): ca. 3,88mm</li><li>​Vierkanthöhe (f): ca. 4,6mm</li><li>Vierkantbreite (v): ca. 6,48mm</li><li>Gewindelänge bis 125mm (b): 18mm</li></ul>"
-}

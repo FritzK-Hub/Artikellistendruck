@@ -1,4 +1,0 @@
-{
-    "uvp": 2.09,
-    "attributes": "<ul><li>24-fach spezialgeflochtenes Polypropylen-Seil</li><li>zum Befestigen und Verzurren</li><li>vielseitig einsetzbar, sollte in keinem Haushalt fehlen</li><li>besitzt eine Belastbarkeit von bis zu 80 kg</li><li>Länge individuell wählbar von 1m bis 50 m<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Spachtel aus poliertem Stahl</li><li>halbflexibles Blatt</li><li>mit 2-Komponenten-Softgriff</li><li>zum Auftragen, Glattstreichen oder Abkratzen</li><li>auch für Gips und Stuckarbeiten geeignet</li></ul>"
-}

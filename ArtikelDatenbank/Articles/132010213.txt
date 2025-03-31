@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>100% natürliches Ergänzungsfuttermittel für Hunde</li><li>aus leckerem Hähnchenbrustfilet mit Banane verfeinert</li><li>als Belohnung oder zum Verfeinern des Futters</li><li>Antioxidantien stärken das Immunsystem</li><li>ist reich an Vitaminen und Mineralstoffen</li></ul>"
-}

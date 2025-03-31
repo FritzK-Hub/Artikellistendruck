@@ -1,4 +1,0 @@
-{
-    "uvp": 19.9,
-    "attributes": "<ul><li>bietet optimale Passform für die meisten Fahrzeuge</li><li>besonders langlebig, aus strapazierfähigem Teppichgewebe</li><li>garantiert weniger Schmutz in Fußbereich des Autos</li><li>rauhe Schicht auf der Rückseite verhindert ungewolltes Verrutschen</li><li>lässt sich einfach reinigen, auch mit Hochdruckreiniger möglich</li></ul>"
-}

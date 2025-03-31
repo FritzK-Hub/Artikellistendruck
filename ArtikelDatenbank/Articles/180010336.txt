@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>umfassende Nährstoffversorgung</li><li>plus Magnesium</li><li>Widerstandskraft wird erhört</li><li>für Balkonpflanzen geeignet</li><li>wirkt bis zu 5 Monate<br/></li></ul>"
-}

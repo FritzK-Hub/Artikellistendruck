@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Abdeckrahmen 2-fach Monaco aus Kunststoff</li><li>klassisches Design in Platin</li><li>passt sich jedem Wohnbereich an</li><li>ideal für Unterputz-Steckdosen, -Schalter und -Dimmer</li><li>waagerechte oder senkrechte Montagen möglich</li></ul>"
-}

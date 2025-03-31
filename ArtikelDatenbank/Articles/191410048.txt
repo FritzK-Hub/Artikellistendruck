@@ -1,4 +1,0 @@
-{
-    "uvp": 399.95,
-    "attributes": "<ul><li>Stand-up-Paddleboard-Set für Einsteiger</li><li>mit Kajaksitz-Option und Kickpad</li><li>Allround-Board mit zweilagiger Dropstitch-Technologie</li><li>3-teiliges stufenlos verstellbares Aluminium-Paddel</li><li>inklusive Hochleistungspumpe und großem Rucksack</li></ul>"
-}

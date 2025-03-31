@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Straßenbesen 30 cm mit roten Elaston-Borsten</li><li>aus massivem Holz gefertigt</li><li>mit 1-Loch Stielaufnahme versehen</li><li>universell einsetzbar im Innen- und Außenbereich</li><li>resistent gegen Säure, Benzin und Ölen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>1 Bund Rauspund, 5 Bretter mit einer Deckfläche von ca. 1,15 m²</li><li>unbehandeltes Fichtenholz</li><li>vorderseitig gehobelt, rückseitig egalisiert, mit Nut und Feder</li><li>für den Innen- und Dachausbau oder als Konstruktionsholz im Außenbereich</li><li>z. B. für einfache Fußböden, Blindböden oder im Außenbereich für Gartenhäuser<br/></li></ul>"
-}

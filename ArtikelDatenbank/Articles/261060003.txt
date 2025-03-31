@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Durchmesser: Ø 8 mm</li><li>Länge: ca. 5 cm</li><li>Menge: 120 Stück</li><li>ohne Kragen</li><li>Farbe: rot</li></ul>"
-}

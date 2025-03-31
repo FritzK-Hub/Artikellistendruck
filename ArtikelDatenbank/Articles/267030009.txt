@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>Hebeschlinge mit 8-facher Sicherung</li><li>ideal für Baustellen, Freizeit, Haus und Garten</li><li>Hebeband aus Polyester</li><li>säurebeständiges Hebeband</li></ul>"
-}

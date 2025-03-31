@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Messschieber digital mit LCD-Display und Null-Taste</li><li>besitzt einen Messbereich von 0 – 150 mm</li><li>zum Messen von Innen-, Außen- und Tiefenmessungen </li><li>Anzeige ist zwischen mm und inch umschaltbar</li><li>Feststellschraube gewährleistet genauere Messungen<br/></li></ul>"
-}

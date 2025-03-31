@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Deko-Baumscheiben/Äste-Set verschiedene Sorten</li><li>schafft eine herbstliche, entspannte Atmosphäre</li><li>lassen sich separat und überall platzieren</li><li>zur vielseitigen, dekorativen Gestaltung von Innenräumen</li><li>jedes Jahr wiederverwendbar, besonders robust<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 229.95,
-    "attributes": "<ul><li>Auskleidung aus robustem DuraPlus-Material</li><li>einfache Montage ohne Werkzeug</li><li>extrem stabile Rahmenkonstruktion mit Korrosionsschutz</li><li>FrameLink System mit Kunststoff-T-Verbindern verhindert Rostschäden</li><li>PVC-Band sorgt für zusätzliche Stabilität</li></ul>"
-}

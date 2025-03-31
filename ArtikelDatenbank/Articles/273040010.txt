@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>robustes Werkzeug für alle Schraubarbeiten</li><li>extra langlebig dank Spezialstahl</li><li>praktische Größe für vielseitige Anwendungen</li><li>Ordnung und Übersicht im Koffer</li><li>ideal für Haushalt, Motorrad und KfZ</li></ul>"
-}

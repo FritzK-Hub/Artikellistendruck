@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>für eine starke Haftung auf verschiedenen glatten Oberflächen </li><li>vielseitig auf Metall, Kunststoff und Keramik einsetzbar</li><li>erleichtert das Befestigen von Gegenständen an der Wand, ohne das diese runterfallen</li><li>einfaches und schnelles Zuschneiden und Verwenden in den gewünschten Stücken</li><li>Schutzabdeckung schützt beim Nichtgebraucht vor Verschmutzung und Beschädigung</li></ul>"
-}

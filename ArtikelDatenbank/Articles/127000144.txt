@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>zum Entfernen von Unkraut und Wurzeln </li><li>auch zum Schneiden von kleinen Ästen </li><li>Schneideschutz für sicheren Transport und Aufbewahrung</li><li>erreicht schwer zugängliche Bereiche im Garten</li><li>kompakt und einfach in der Handhabung</li></ul>"
-}

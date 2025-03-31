@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>rahmenloser Bilderrahmen</li><li>mit Cliphalterungen</li><li>mit Antireflex-Beschichtung</li><li>kann horizontal und vertikal aufgehängt werden</li><li>inklusive Aufhängung<br/></li></ul>"
-}

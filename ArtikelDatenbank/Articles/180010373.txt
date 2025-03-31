@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Organisch-mineralisches Produkt</li><li>Förderung der Verrottung organischer Abfälle</li><li>unentbehrlich für die gesunde Vermehrung von Regenwürmern</li><li>kurze Rottezeit</li><li>besserer Kompost<br/></li></ul>"
-}

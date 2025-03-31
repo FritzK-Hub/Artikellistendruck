@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>passend für viele Dichtungsaufgaben in verschiedenen Größen<br/></li><li>widerstandsfähig gegen Druck und Temperaturschwankungen</li><li>lang anhaltende Dichtwirkung verhindert Leckagen</li><li>einfache Installation dank präziser Passform</li><li>hergestellt aus robustem Fiber-Material</li></ul><p></p>"
-}

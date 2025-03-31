@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Kordel mit einer Zugkraft von 35 kg</li><li>universell einsetzbare Packkordel</li><li>für Innen- und Außenbereich</li><li>gedrehte Kunststoffkordel</li><li>stabile und robuste Packschnur</li></ul>"
-}

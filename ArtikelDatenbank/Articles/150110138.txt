@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Gummipflegespray zur flächigen Anwendung</li><li>pflegt und schützt nachhaltig, mit Langzeitwirkung</li><li>beugt vorzeitiger Alterung vor und erhöht die Funktionsdauer</li><li>wasserabweisend, verhindert das Festfrieren von Dichtungen</li><li>wirkt farbauffrischend und verbessert die Fahrzeugoptik</li></ul>"
-}

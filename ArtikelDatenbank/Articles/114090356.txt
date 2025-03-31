@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>rostfreie Drückergarnitur aus Edelstahl</li><li>Türgriff in Bogen-Form</li><li>mit OB Ovalbart-Rosette</li><li>für Türstärken von ca. 38 bis 50 mm</li><li>inklusive Befestigungsmaterial</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>maximale Bewegungsfreiheit</li><li>langlebig und elegant</li><li>universeller Anschluss</li><li>Wasserspardichtung inklusive</li><li>hochwertige Verarbeitung<br/></li></ul>"
-}

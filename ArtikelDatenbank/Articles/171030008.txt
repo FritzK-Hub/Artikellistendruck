@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Glasbohrer Ø 6,0 x 76 mm aus Hartmetall</li><li>Bohrer mit lanzenförmiger und hinterschliffener Hartmetallspitze</li><li>speziell für kritische Materialien hergestellt</li><li>kann schnell und präzise Bohrungen durchführen</li><li>die Klingen bleiben bis zu fünfmal länger scharf<br/></li></ul>"
-}

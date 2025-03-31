@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>hochwertiges Material</li><li>vielseitig einsetzbar</li><li>präzises Abkleben</li><li>rückstandsfreies Entfernen</li><li>zuverlässige Klebung</li></ul>"
-}

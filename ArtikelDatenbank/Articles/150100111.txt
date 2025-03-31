@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Zweizylinder Fußluftpumpe für schnelles Aufblasen</li><li>mit eingebautem Manometer bis 4 bar</li><li>inklusive 3 verschiedene Adapter</li><li>geeignet für Autoreifen, Fahrradreifen, Luftmatratzen usw.</li><li>große, stabile Trittfläche mit rutsch-festem Gummiüberzug</li></ul>"
-}

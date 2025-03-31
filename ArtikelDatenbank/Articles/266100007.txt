@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>hohe Tragkraft</li><li>kugelgelagertes Gelenk</li><li>langlebiges PVC-Material</li><li>vielseitige Anwendung</li><li>kompakte Gesamthöhe<br/><br/></li></ul>"
-}

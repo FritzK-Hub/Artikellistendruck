@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>integrierter Bewegungs- und Dämmerungssensor</li><li>5-8 m Reichweite</li><li>verstellbarer Strahler</li><li>separates Solar-Panel mit einer Kabellänge von 250 cm</li><li>spendet tageslichtweißes Licht</li></ul>"
-}

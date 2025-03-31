@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Art: Überfalle / Drahtüberfalle ( Kistenverschluss für Vorhängeschlösser)</li><li>Bohrungen: Basisplatte 3 Bohrungen / einseitig gesenkt</li><li>Bohrungen: Ösenplatte 2 Bohrungen / einseitig gesenkt</li><li>Form: gerollt</li><li>Material: Stahl verzinkt, blau chromatisiert</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>müheloses Pflanzen</li><li>robust und langlebig</li><li>praktische Größe</li><li>leicht und handlich</li><li>auffälliges Design</li></ul>"
-}

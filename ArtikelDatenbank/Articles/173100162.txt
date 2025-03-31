@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>tropfenförmige LED-Lampe mit 14,1 W, E27 Sockel</li><li>vielseitig einsetzbare LED-Beleuchtung in verschiedenen Räumen</li><li>besitzt eine längere Lebensdauer als herkömmliche Glühbirnen</li><li>mit einer höheren Energieersparnis gegenüber Standardlampen</li><li>einfach in der Handhabung, lässt sich leicht Austauschen<br/></li></ul>"
-}

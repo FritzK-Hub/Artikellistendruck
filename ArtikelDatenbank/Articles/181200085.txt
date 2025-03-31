@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>ununterbrochene Blüte von Juli bis Oktober</li><li>duftende Landblumensträuße im Handumdrehen</li><li>schmetterlings- und bienenfreundlich</li><li>sehr ergiebig, für bis zu 50 m² Gartenfläche</li><li>nachhaltige Freude für Umweltbewusste</li></ul>"
-}

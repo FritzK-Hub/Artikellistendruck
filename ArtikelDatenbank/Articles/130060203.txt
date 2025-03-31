@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Blasenpflaster und Druckstellenkissen von Wundmed</li><li>sofortige Schmerz- und Drucklinderung</li><li>schnelle Wundheilung und Schutz vor erneuter Reibung</li><li>eindringen von Bakterien und Schmutz wird verhindert</li><li>fördert das schnelle Abheilen der Wunde<br/></li></ul>"
-}

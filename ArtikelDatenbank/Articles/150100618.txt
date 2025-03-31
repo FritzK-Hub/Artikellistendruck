@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Material des Planenverschlusses: Metall verzinkt</li><li>Drehrverschluss mit Federmechanik</li><li>geeignet für Ösen: oval &gt; 30 mm</li><li>Lochmittenabstand: ca. 5 cm</li><li>Schraublochgröße: (Ø) ca. 5 mm<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Gehörschutz „Stilles Lernen“ in pink ab 6 Jahren</li><li>für Kinder mit mangelnder Konzentration</li><li>dämpft den Lärm ab, ohne die Umwelt vollständig auszublenden</li><li>Aufmerksamkeit richtet sich nur noch auf eine Tätigkeit</li><li>angenehmen Tragekomfort dank verstellbarer, gepolsterter Kopfbügel<br/></li></ul>"
-}

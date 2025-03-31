@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>20 Liter Blumenerde universell einsetzbar</li><li>für alle Anwendungsbereiche in Haus und Garten</li><li>gebrauchsfertige Erde aus Torf, Rindenhumus und Grünkompost</li><li>mit Nährstoffen angereichert</li><li>torfreduziert<br/></li></ul>"
-}

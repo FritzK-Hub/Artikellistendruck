@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Einkaufstasche aus stabilem Kunststoff in graphit</li><li>15 Liter Fassungsvermögen bietet ausreichend Stauraum</li><li>Haltegriffe sorgen für einen angenehmen Tragekomfort</li><li>erleichtert den Transport deiner Einkäufe</li><li>auch für Ausflüge oder Sport geeignet<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.19,
-    "attributes": "<ul><li>Einmachgläser zum Aufbewahren von Marmelade</li><li>schönes Geschenk für Freunde und Verwandte</li><li>eignet sich gut für Kompott oder Konfitüre</li><li>ideal zum Aufbewahren und Konservieren<br/></li><li>rot/weiß karierter Deckel ist mit im Lieferumfang</li></ul>"
-}

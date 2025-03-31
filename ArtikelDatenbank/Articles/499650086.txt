@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>korrosionsbeständiger A2-Edelstahl für den Innen- und Außenbereich</li><li>Senkkopf ermöglicht eine bündige Versenkung in der Oberfläche</li><li>Teilgewinde sorgt für sicheren Halt im Material und reduziert das Risiko von Beschädigungen</li><li>einfaches und schnelles Einschrauben dank IVZ TX-Profil Antrieb</li><li>speziell für den Einsatz in Spanplatten und anderen Holzwerkstoffen entwickelt</li></ul>"
-}

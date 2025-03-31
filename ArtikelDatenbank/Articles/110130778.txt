@@ -1,4 +1,0 @@
-{
-    "uvp": 2.59,
-    "attributes": "<ul><li>Bücherbügel aus pulverbeschichtetem Stahl</li><li>stilvoll, flexible und praktisch</li><li>für 1- und 2-reihige Wandschienen geeignet</li><li>passend für Wandschienen mit einem Schlitzabstand / Rastermaß von 50 mm</li><li>Regalstruktur auch nach Montage anpassbar<br/><br/></li></ul>"
-}

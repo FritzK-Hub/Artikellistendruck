@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Rührholz für Maler und Lackierer</li><li>ideal zum Verrühren und Mischen Farben, Lacken und Putz</li><li>aus robustem Holz</li><li>mit Einkerbung für besseren Halt</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Werkzeugwand aus massivem Stahlblech</li><li>geeignet für Garage, Werkstatt oder Keller</li><li>sorgt bei der Werkzeugaufbewahrung für mehr Ordnung</li><li>stabile Wandbefestigung, beliebig erweiterbar</li><li>mit quadratischer Lochung, einfache Wandmontage</li></ul>"
-}

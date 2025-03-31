@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>passendes Werkzeug zum Befestigen und Stabilisieren von verschiedenen Holzkonstruktionen</li><li>bestehend aus verzinktem Stahl, was es robust und langlebig macht</li><li>zum Verbinden von Paneelen und Balken oder zum Abhängen von Deckenpaneelen</li><li>besonders vielseitig, kann sowohl runde als auch rechteckige Rohre verarbeiten</li><li>dank Abrollbox ist das Lochband einfach zu handhaben und sicher aufzubewahren</li></ul>"
-}

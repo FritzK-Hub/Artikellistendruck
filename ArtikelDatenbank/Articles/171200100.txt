@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>naturreine Zusammensetzung</li><li>wasserverdünnbare Innovation</li><li>Betonung des Holzcharakters</li><li>mattes Finish mit samtigem Griff</li><li>vielseitige Anwendbarkeit<br/></li></ul>"
-}

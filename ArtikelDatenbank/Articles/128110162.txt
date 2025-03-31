@@ -1,4 +1,0 @@
-{
-    "uvp": 239.95,
-    "attributes": "<ul><li>mit platzsparender Klappfunktion</li><li>in einem hochwertigem Design</li><li>maximaler Sitzkomfort für jede Gelegenheit</li><li>vielseitige Verwendungsmöglichkeiten</li><li>hohe Langlebigkeit und Wetterbeständigkeit<br/></li></ul>"
-}

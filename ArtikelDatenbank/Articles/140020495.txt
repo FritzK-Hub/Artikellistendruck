@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>reine Naturfaser</li><li>strapazierfähig und langlebig</li><li>leicht zu verarbeiten</li><li>pflegeleicht bis 60°C</li><li>mercerisiert und gasiert<br/><br/></li></ul>"
-}

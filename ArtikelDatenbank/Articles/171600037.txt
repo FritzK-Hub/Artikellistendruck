@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>witterungsbeständiger und seewasserfester Holzlack<br/></li><li>beständig gegen haushaltsübliche Reinigungsmittel</li><li>einfache Verarbeitung und schnelle Trocknungszeit</li><li>belastbar und strapazierfähig</li><li>glänzend und glanzstabil</li></ul><p></p>"
-}

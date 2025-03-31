@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>Kugel-Auslaufhahn aus Messing</li><li>mit Kunststoff-Auslauftülle 3/4\" und Außengewinde 3/4\"</li><li>inklusive Adapter für IBC Regenwassertanks mit Anschlussgröße Grobgewinde (2\" Innengewinde)</li></ul>"
-}

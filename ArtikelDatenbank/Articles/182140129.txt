@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Lenkertasche Trekking aus wasserfestem Tarpaulin 500D</li><li>idealer Begleiter für Abenteuer auf dem Rad</li><li>zum Verstauen von Werkzeug oder Reparaturflicken </li><li>5 Liter Fassungsvermögen bietet ausreichend Stauraum </li><li>Klettverschluss erleichtert die Montage am Fahrrad</li></ul>"
-}

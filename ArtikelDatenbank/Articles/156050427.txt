@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>für alle gängigen Farb- und Lackroller bis 28 cm Breite</li><li>mit strukturierter Abrollfläche</li></ul>"
-}

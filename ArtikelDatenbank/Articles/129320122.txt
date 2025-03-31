@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Bullhorn-Paprika für ca. 12 Pflanzen</li><li>ist eine exzellente, italienische Spitzpaprika-Sorte</li><li>mit langen, leicht gebogenen Früchten versehen</li><li>hat einen süßen Geschmack mit saftigem Fruchtfleisch</li><li>ideal für den Frischverzehr oder für Salate geeignet<br/></li></ul>"
-}

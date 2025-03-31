@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Europflaster von Wundmed</li><li>ein Qualitätserzeugnis für die Erste Hilfe</li><li>wasserabweisend und mikroperforiert</li><li>Wundauflage aus Vliesstoff</li><li>Pflaster sind einzeln verpackt<br/></li></ul>"
-}

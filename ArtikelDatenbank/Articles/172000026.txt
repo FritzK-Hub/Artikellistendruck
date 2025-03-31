@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    mit Schraubklemmen,/nNennspannung: 250 V~/nNennstrom: 10 A\"\"/n/n/n/n/n/n                "
-}

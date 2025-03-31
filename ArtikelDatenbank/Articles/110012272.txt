@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>zuverlässige Verbindung</li><li>effektive Abdichtung</li><li>vielseitige Anpassung</li><li>besonders langlebig und strapazierfähig</li><li>einfache Installation<br/></li></ul>"
-}

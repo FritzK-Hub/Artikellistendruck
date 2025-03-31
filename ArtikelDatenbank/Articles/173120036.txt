@@ -1,4 +1,0 @@
-{
-    "uvp": 21.9,
-    "attributes": "<ul><li>8-teiliges Ringschlüssel-Set von Normex</li><li>enthält alle gängigen Größen von 6 - 22 mm</li><li>aus Chrom-Vanadium-Stahl hergestellt</li><li>matt polierte Oberfläche</li><li>lange Lebensdauer im täglichen Werkstatteinsatz</li></ul>"
-}

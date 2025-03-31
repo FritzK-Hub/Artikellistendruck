@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>flexibel einstellbares Frontlicht mit 360°</li><li>zwei Helligkeitsstufen für individuelle Beleuchtung</li><li>werkzeuglose Montage zum direkten Einsatz</li><li>Batteriekontrollleuchten erleichtern Statusüberprüfung</li><li>fördert Sicherheit im Straßenverkehr</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Kleiderbügel 10 Stück aus Holz mit Steg </li><li>für mehr Ordnung im Kleiderschrank</li><li>zum Aufhängen von Hosen und Jacken</li><li>zusätzlich mit Kerben für Hosenträger ausgestattet</li><li>Gürtel oder Krawatten lassen sich mit aufhängen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>Briefkasten mit integrierter Zeitungsbox im zeitlosen Design<br/></li><li>Gehäuse aus massivem Stahl gefertigt</li><li>ermöglicht eine sichere Zustellung deiner Briefe</li><li>Einwurfsöffnung bietet Platz für Dokumente oder Kataloge in DIN C4-Format</li><li>inklusive 2 Schlüssel für den Zylinderschloss<br/></li></ul>"
-}

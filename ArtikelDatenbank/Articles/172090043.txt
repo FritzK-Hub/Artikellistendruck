@@ -1,4 +1,0 @@
-{
-    "uvp": 9.49,
-    "attributes": "<ul><li>Klingeltaster mit Namensschild, beleuchtet</li><li>für Aufputz-Montage</li><li>Türklingel aus Kunststoff</li><li>nur zum Anschluss an Schutzkleinspannung</li><li>Leuchtmittel Soffitte 15 V / 1,2 W</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Platzset aus Kunststoff mit Kaffeemotiv</li><li>überrasche deine Gäste mit dekorativen Schutzmatten</li><li>die Maßen 44 x 29 cm bietet ausreichend Platz</li><li>schütz den Tisch vor Schmutz und Flecken</li><li>für Esstische oder Veranstaltungen geeignet<br/></li></ul>"
-}

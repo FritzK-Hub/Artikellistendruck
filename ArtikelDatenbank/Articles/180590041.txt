@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Kofferraummatte aus schwarzem Oxford-Gewebe</li><li>erleichtert den Transport von Baustoffen, Pflanzen oder Gartenabfälle</li><li>auch für Hunde auf dem Rücksitz geeignet</li><li>für alle gängigen PKW-Modelle geeignet</li><li>praktische Klickverschlüsse erleichtern die Befestigung</li></ul>"
-}

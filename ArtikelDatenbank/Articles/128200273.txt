@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>dekorativer Gartenstecker mit Vogelmotiv</li><li>in verschiedenen Ausführungen erhältlich</li><li>stabiler Erdspieß für sicheren Halt</li><li>eine tolle Dekoration für Garten oder Balkon</li><li>auch zwischen Büschen und Blumen geeignet<br/></li></ul>"
-}

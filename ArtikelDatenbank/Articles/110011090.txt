@@ -1,4 +1,0 @@
-{
-    "uvp": 4.95,
-    "attributes": "<ul><li>verbindet sicher Flachkanalstücken miteinander</li><li>nützlich bei Lüftungs- und Abgasanlagen</li><li>aus robustem Kunststoff</li><li>einfache Montage</li><li>für Flachkanäle 110 mm</li></ul>"
-}

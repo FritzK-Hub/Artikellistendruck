@@ -1,4 +1,0 @@
-{
-    "uvp": 16.9,
-    "attributes": "<ul><li>flexible Pflanzenhalter mit rautenförmigem Kopf im 10er-Pack</li><li>besonders müheloses Einsetzen in Gewächshaus-Aluminiumprofile</li><li>zum Einklemmen von Schnüren oder Drähten</li><li>zur Stabilisierung von Pflanzen oder Führung von Schattiergewebe</li><li>geeignet zur Beeinflussung der Wuchsrichtung von Pflanzen<br/></li></ul>"
-}

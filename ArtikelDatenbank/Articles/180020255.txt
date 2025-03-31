@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>zur Wasserversorgung und Bewässerung mit Regen-, Brauch- oder Grundwasser</li><li>besonders langlebig, aus schlagfestem Kunststoff mit mechanischer Dichtung</li><li>zur Förderung von Wasser aus Brunnen oder Zisternen und zum Entleeren von Teichen</li><li>vielseitige Einsatzmöglichkeiten rund um das Haus, den Hof und Garten</li><li>einfache Wartung und Entleerung dank Entlüftungs- und Wasserablassschraube</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 412.95,
-    "attributes": "<ul><li>exklusive Gartengarnitur für 4 Personen</li><li>Gartenmöbel-Set besteht aus 4 x Klappsessel und 1 x Tisch</li><li>robuster Tisch mit Stahlgestell und Sicherheitsglas-Tischplatte</li><li>Klappsessel mit wetterfester Textilbespannung</li><li>Sessel bei Nichtgebrauch zusammen-klappbar</li></ul>"
-}

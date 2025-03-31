@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>    Bastelleim weiß</li><li>    klebt kraftvoll und schnell</li><li>    geeignet u.a. für Holz, Bast, Kork, Filz, Pappe, Papier</li><li>    ideal für kreative Bastelarbeiten    </li><li>lösungsmittelfrei</li></ul>"
-}

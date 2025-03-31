@@ -1,4 +1,0 @@
-{
-    "uvp": 43.0,
-    "attributes": "<ul><li>vielseitig einsetzbar im Haushalt und Beruf</li><li>Anti-Rutsch-Riffelung bietet sicheren Halt auf den Sprossen</li><li>belastbar bis 150 kg für maximale Stabilität</li><li>zuverlässigen Stand dank Sicherheitshaltebügel</li><li>kompakt zusammenklappbar für leichten Transport<br/></li></ul>"
-}

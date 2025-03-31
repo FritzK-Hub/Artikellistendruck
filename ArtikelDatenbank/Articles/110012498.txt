@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Anschlussschlauch 1000 mm</li><li>sicher: stabile Verbindung &amp; Verlängerung bestehender Sanitärleitungen</li><li>widerstandsfähig: mit edelstahlumflochtener Ummantelung gegen Korrosion</li><li>hochflexibel und druckfest</li><li>mit 3/8\" und  1/2\" Mutter</li></ul>"
-}

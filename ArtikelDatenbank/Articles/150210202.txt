@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Küchensieb mit Griff</li><li>zum Abfließen von Flüssigkeiten</li><li>leicht zu reinigen und pflegen</li><li>Seiher aus Kunststoff</li><li>Grifflasche mit Aufhängeöse für eine leichte Handhabung</li></ul>"
-}

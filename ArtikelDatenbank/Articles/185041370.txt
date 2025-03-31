@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Echtwachskerzen batteriebetrieben 2-teilig</li><li>elegantes Tannenbaum-Design</li><li>erschafft eine weihnachtliche Atmosphäre</li><li>mit warm-weißer Kerzenlicht-LED</li><li>absolut sicher - kein offenes Feuer, kein Ruß</li></ul>"
-}

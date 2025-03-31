@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>verstellbare Rosthöhe für individuelles Grillen</li><li>robuster Edelstahl bietet langanhaltende Zuverlässigkeit</li><li>platzsparendes Design ermöglicht flexible Aufstellmöglichkeiten</li><li>Holzgriffe am Grillrost für mehr Komfort</li><li>effektiver Windschutz hält Grillklima konstant</li></ul><p></p>"
-}

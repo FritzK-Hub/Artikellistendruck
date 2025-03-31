@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>robuste Konstruktion</li><li>sicher für junge Gärtner</li><li>leicht und handlich</li><li>ideale Größe</li><li>besonders langlebig</li></ul>"
-}

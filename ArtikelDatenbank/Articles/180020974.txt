@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li> <div>10 robuste Schlauchschellen aus verzinktem Stahl</div> </li><li> <div>mit geschlitzter Sechskant-Schraube</div> </li></ul>"
-}

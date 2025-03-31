@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>für Heizkörper</li><li>hitzefest bis 120°C</li><li>auch in creme erhältlich</li><li>für Innen und Außen geeignet</li><li>einfache und praktische Anwendung</li></ul>"
-}

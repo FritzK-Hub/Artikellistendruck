@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Gartenbesen 40 cm mit massiven Holzstiel</li><li>verfügt über eine Arbeitsbreite von ca. 40 cm</li><li>stabile Kunststoff-Borsten für höheren Reinigungseffekt</li><li>universell einsetzbar im Garten, Terrasse oder auf Wegen</li><li>besitzt eine universelle Stielaufnahme<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.6,
-    "attributes": "<ul><li>8-teiliger Stecknuss-Satz für Akkuschrauber</li><li>mit Sechskant-Aufnahme</li><li>zum Einspannen in<span style=\"color: rgb(82, 38, 125);\"> </span>Bohrfutter<span style=\"color: rgb(82, 38, 125);\"><br/></span></li><li>aus CV-Stahl gefertigt</li><li>in praktischer Kunststoffbox</li></ul><p><br/></p>"
-}

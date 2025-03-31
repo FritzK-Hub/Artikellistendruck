@@ -1,4 +1,0 @@
-{
-    "uvp": 5.6,
-    "attributes": "<ul><li>vielseitig und unentbehrlich für jeden Haushalt</li><li>präzises Schneiden dank bequemem 2-Komponenten-Kunststoffgriff</li><li>lange Lebensdauer durch hochwertigen, rostfreien Stahl</li><li>zwei Scheren mit unterschiedlicher Schneidenlänge für vielfältige Anwendungen</li><li>ideales Werkzeug zum Schneiden von Papier, Karton uvm.<br/><br/></li></ul>"
-}

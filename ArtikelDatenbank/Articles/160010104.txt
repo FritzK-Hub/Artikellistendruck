@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Damen-Gartenhandschuhe in Größe 7</li><li>ist in verschiedenen Blumenmotiven erhältlich</li><li>ermöglicht leichte und reibungslose Gartenarbeit</li><li>verfügt über eine gute Griff- und Rutschfestigkeit</li><li>mit angenehmen Tragekomfort bei der Arbeit<br/></li></ul>"
-}

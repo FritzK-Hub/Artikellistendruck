@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Grillhandschuh zum Schutz vor Verbrennungen</li><li>besonders robust und hitzebeständig</li><li>aus hochwertigem Leder</li><li>auch als Ofenhandschuh einsetzbar</li><li>extralanger Schaft zum Schutz vom Unterarm<br/></li></ul>"
-}

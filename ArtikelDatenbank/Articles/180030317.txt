@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Gartendraht 30 m</li><li>kunststoffummantelt</li><li>Bindedraht im praktischen Spender</li><li>integrierte Klinge</li><li>schonend für Pflanzen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Scheinwerferlampe H4 Doppel-Pack<br/></li><li>Ausführung Halogen</li><li>entspricht E4</li><li>mit P43t Sockel</li><li>Ersatzlampe für Hauptscheinwerfer</li></ul>"
-}

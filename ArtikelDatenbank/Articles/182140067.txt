@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Lenkerüberzüge mit guter Dämpfwirkung</li><li>für Multifunktions- und Bullhorn-Lenker</li><li>angenehm weich</li><li>leichte Montage durch Befeuchten</li><li>inklusive Lenkerstopfen</li></ul>"
-}

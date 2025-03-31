@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>1 Stück Antennenadapter</li><li>Adaption 50 Ohm auf 150 Ohm</li><li>Antennenadapter für Autoradios</li><li>zum adaptieren eines alten Autoradios</li><li>passend für 50 Ohm ISO Stecker</li></ul>"
-}

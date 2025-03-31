@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Springbrunnenpumpe GBSB2 für mehr Leben im Gartenteich</li><li>passend für den kleinen Gartenteich oder kleine Wasserbehälter</li><li>geringer Stromverbrauch mit nur 7 Watt</li><li>erhöht die Wasserqualität durch Luftzufuhr und Bewegung </li><li>unterschiedliche Düsen sorgen für schöne Wasserspiele<br/></li></ul>"
-}

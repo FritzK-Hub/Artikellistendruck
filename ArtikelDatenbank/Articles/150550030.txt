@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>pflegeleichte, abwaschbare X-Mas Wachstuch-Tischdecke</li><li>Tischschonende Fleece-Beschichtung auf der Rückseite</li><li>Länge wählbar - bis zu ganzen Rollen (25m)</li><li>schönes Design, vielseitig einsetzbar</li><li>ideal für rechteckige Tischplatten<br/></li></ul><p></p>"
-}

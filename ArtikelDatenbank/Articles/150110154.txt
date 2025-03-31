@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Schraubensicherung mittelfest</li><li>verhindert ein selbstständiges Lösen</li><li>wirkt als Korrosionsschutz</li><li>verhindert ein Festrosten</li><li>Qualität von Nigrin</li></ul>"
-}

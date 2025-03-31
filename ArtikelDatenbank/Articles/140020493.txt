@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>strapazierfähige Qualität</li><li>reine Baumwollfaser</li><li>hautfreundlich und nicht kratzend</li><li>hervorragende Feuchtigkeitsaufnahme</li><li>vielseitige Anwendungsmöglichkeiten<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>fertig zugeschnitten direkt einsatzbereit</li><li>extra reißfest und vielseitig nutzbar</li><li>saubere Kanten zum mühelosen Gebrauch</li><li>praktische Spenderbox zur einfachen Entnahme</li><li>perfekt für Küche, Grill und Ofen</li></ul>"
-}

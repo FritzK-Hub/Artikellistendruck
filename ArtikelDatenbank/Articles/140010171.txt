@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Stehtischhusse Ø 85 x 115 cm für Festlichkeiten</li><li>aus pflegeleichtem Polyester &amp; Elastan gefertigt</li><li>einsetzbar für Empfänge, Feste, privat oder geschäftlich</li><li>in verschiedenen Farben erhältlich </li><li>perfekter Sitz, sicherer Halt und einfach in der Handhabung<br/></li></ul>"
-}

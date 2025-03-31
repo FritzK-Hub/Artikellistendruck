@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>Filzuntersetzer Set quatratisch 4 Stück mit Hirschmotiv </li><li>erhältlich drei verschiedenen Farben</li><li>passende Untersetzer für deine Gläser</li><li>schütz den Tisch vor Schmutz und Flecken</li><li>für Esstische oder Veranstaltungen geeignet<br/></li></ul>"
-}

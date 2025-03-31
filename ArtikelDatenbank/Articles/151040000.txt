@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Erste Hilfe bei Wasserschäden</li><li>entzieht Feuchtigkeit mit Magnesiumchlorid</li><li>für Smartphones zur Verwendung bei Wasserschäden</li><li>die perfekte Alternative zur Demontage</li><li>für die einmalige Verwendung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 17.49,
-    "attributes": "<ul><li>handlicher Vielzweckbrenner mit piezoelektrischer Zündung</li><li>ideal für feine Lötarbeiten, Hobby, Modellbau, Werkstatt und Laborarbeiten </li><li>geeignet für Outdoor, Flambieren, Karamellisieren und Arbeiten an Kunststoffen</li><li>verfügt über einen durchsichtigen Nachfülltank</li><li>nachfüllbar mit normalem Feuerzeuggas<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li> Röhren-Siphon aus Kunststoff</li><li>mit starrem Abgangsrohr</li><li>mit Geräteanschluss 3/4\"</li><li>geeignet für Spülen </li></ul>"
-}

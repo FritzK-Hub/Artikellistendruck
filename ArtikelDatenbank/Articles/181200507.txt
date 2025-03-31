@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Einlegegurke Fatum für ca. 40 Pflanzen</li><li>mit großen, walzenförmigen, langen Früchten</li><li>kleines Kerngehäuse für mehr Fruchtfleisch</li><li>ideal zur Herstellung von Senfgurken geeignet</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

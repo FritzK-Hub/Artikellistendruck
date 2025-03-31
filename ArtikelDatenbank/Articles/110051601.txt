@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Einmachgläser 6 Stück</li><li>schönes Geschenk für Freunde und Verwandte</li><li>eignen sich gut für Marmeladen, Kompott oder Konfitüre</li><li>leichte Reinigung auch durch die Spülmaschine</li><li>Deckel mit Obstmotiv ist mit in der Lieferung</li></ul>"
-}

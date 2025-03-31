@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Alufolie zum Grillen, Backen, Braten, Garen</li><li>geruchs- und geschmacksfrei</li><li>reißfest, hitzebeständig und hygienisch</li><li>geeignet zum Frischhalten von Nahrungsmittelnmit </li><li>Wellenrand zum Abreißen</li></ul>"
-}

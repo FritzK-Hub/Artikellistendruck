@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>ausgezeichneter Zierkürbis</li><li>ideal zum kreativen Bemalen </li><li>apfelgroße, orangefarbene Früchte</li><li>unkomplizierte Pflege</li><li>vielseitige Verwendung<br/></li></ul>"
-}

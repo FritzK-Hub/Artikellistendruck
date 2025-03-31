@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Durchmesser Kopf (dk): ca. 12,0 mm</li><li>Höhe Kopf (k): ca. 5,0 mm</li><li>Durchmesser Schraube (d): ca. 6,0 mm</li><li>Durchmesser zwischen Gewinde (d1): ca. 4,4 mm</li><li>Länge (l): ca. 60 mm</li><li>Geeigneter Ausgleich (a): ca. 25 mm</li><li>Eindrehtiefe (b): ca. 25 mm</li></ul>"
-}

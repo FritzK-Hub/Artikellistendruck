@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>1/2 Zoll Außengewinde und Auslauftülle, kompatibel mit gängigen Gartenschläuchen</li><li>Hochwertiges Messing, matt verchromt für Langlebigkeit</li><li>Robuste Kunststoff-Tülle und Überwurfmutter</li><li>Zuverlässiger Alu-Druckguss-Absperrhebel</li><li>ca. 8 cm lange Auslauftülle</li></ul>"
-}

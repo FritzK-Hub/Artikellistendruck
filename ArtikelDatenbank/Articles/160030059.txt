@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>nahtlose, leichte Arbeitshandschuhe aus Nylon</li><li>Handinnenflächen mit PPU Nitril-Beschichtung versehen</li><li>schützen vor Schmutz und mechanische Risiken</li><li>mit sehr guter Passform und hohem Tragekomfort</li><li>gute Beständigkeit gegen Öle und Fette</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 18.5,
-    "attributes": "<ul><li>Gummihammer mit schwarz/weißem Kopf</li><li>mit Hickory-Stiel aus Holz, extra schlagfest</li><li>Hammerkopf aus Naturkautschuk, färbt nicht ab</li><li>ideal zum Einpassen von Blechen im Automobilbau</li><li>qualitativ hochwertige Ausführung, für eine lange Lebensdauer<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>dient bei Lastwägen und Anhänger als Begrenzungs- und Positionsleuchte</li><li>besonders witterungsbeständig, aus robustem Kunststoff gefertigt</li><li>kompakte Maße macht die Leuchte besonders platzsparend und erleichtert die Montage</li><li>sorgt auch bei schlechten Lichtverhältnissen für gute Sichtbarkeit</li><li>erfüllt die E3 Prüfziffer für eine sichere Verwendung im Straßenverkehr</li></ul>"
-}

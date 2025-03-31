@@ -1,4 +1,0 @@
-{
-    "uvp": 1469.9,
-    "attributes": "<ul><li>moderne Architektur mit elegantem Pultdach</li><li>aufstellbare Seitenfenster für mehr Wohnlichkeit</li><li>große, kugelgelagerte Doppelschiebetür</li><li>Wände und Dach aus leichten Hohlkammerplatten</li><li>eloxierte Aluminiumprofile zum Schutz gegen Korrosion<br/></li></ul>"
-}

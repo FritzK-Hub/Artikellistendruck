@@ -1,4 +1,0 @@
-{
-    "uvp": 40.99,
-    "attributes": "<ul><li>Handgriff mit Gasregulierung zur Energieeinsparung</li><li>mit hochwertigem ø 24 mm Turbolötbrenner</li><li>Löten in allen Positionen möglich</li><li>zum Hartlöten und Weichlöten von Kupfer- und Stahlrohren</li><li>leistungsstarkes, praktisches Handlötgerät zum Anschluss an alle herkömmlichen Propan- und Butangasflaschen</li></ul>"
-}

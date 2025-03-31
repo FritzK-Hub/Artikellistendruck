@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li><div>1/2\" Schlauchverbinder zur Gartenschlauch-Verbindung</div></li><li><div>schnelles Abkoppeln und Umstecken des Schlauches</div></li><li><div>wird zur Verbindung zweier Schläuche eingesetzt</div></li><li><div>Doppelkupplung aus Kunststoff</div></li><li>Gartenschlauchkupplung geeignet für 1/2\" Gartenschläuche</li></ul>"
-}

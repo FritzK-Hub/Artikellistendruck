@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>    hochwertiges Material, aus langlebigem und robustem Kunststoff</li><li>zuverlässiger Schutz vor Schmutz, Staub und Feuchtigkeit</li><li>lässt sich schnell und einfach montieren </li><li>passt auf alle gängigen Anhängerkupplungen</li><li>zusätzlich durch Kunststoffring vor Verlust gesichert<br/></li></ul>"
-}

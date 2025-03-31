@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Wechselstreu für Zwergkaninchen, Meerschweinchen und andere Nagetiere</li><li>aus natürlichem, unbehandeltem Weichholz, für eine angenehme Umgebung</li><li>besitzt geruchsbindende Eigenschaften und absorbiert effektiv Feuchtigkeit</li><li>besonders sauber und staubfrei, erleichtert die Reinigung des Käfigs</li><li>ist umweltfreundlich und kompostierbar, für eine einfache Entsorgung<br/></li></ul>"
-}

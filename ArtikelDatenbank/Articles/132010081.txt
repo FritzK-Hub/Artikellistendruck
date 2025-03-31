@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>effektive Zahnpflege, reinigt gründlich Zähne und Zahnzwischenräume des Hundes</li><li>Zahngesundheit mit Spaßfaktor durch die spielerische Nutzung</li><li>die strukturierte Oberfläche des Balls massiert sanft das Zahnfleisch des Hundes</li><li>hergestellt aus strapazierfähigem Naturgummi</li><li>vielseitiges Interaktionsspielzeug, kann geworfen, apportiert und gekaut werden<br/></li></ul>"
-}

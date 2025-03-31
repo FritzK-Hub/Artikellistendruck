@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Kühlsystemreiniger Additiv beseitigt Ablagerungen im Kühlsystem</li><li>erhöht die Langstreckenbereitschaft deines Fahrzeugs</li><li>reinigt verklebte Ventile, Thermostate und Pumpen</li><li>Leistungssteigerung des Kühlsystems</li><li>Rost- und Korrosionsschutz</li></ul>"
-}

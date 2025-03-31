@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Universal Allzweckreiniger mit Salmiak</li><li>für alle Oberflächen</li><li>reinigt gründlich und schonend</li><li>hartnäckige Rückstände werden mühelos entfernt</li><li>einfache und problemlose Anwendung<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>lang anhaltende Haftung</li><li>vielseitige Anwendung</li><li>scharfe Abgrenzungen</li><li>großzügige Länge</li><li>rückstandsfrei entfernbar</li></ul>"
-}

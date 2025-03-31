@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Reinex Reinigungs-Pads mit natürlicher Seife</li><li>aus feiner Stahlwolle</li><li>extra vollverseift für längere Nutzung</li><li>mit extra fettlösender Seife für extra Glanz</li><li>beseitigt Schmutz von Metall, Stein, Keramik, Kunststoff usw.<br/></li></ul>"
-}

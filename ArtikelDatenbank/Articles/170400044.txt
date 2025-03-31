@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>hochwertige Stumpenkerze 6 x 8 cm </li><li>aus Echtwachs in bordeaux gefertigt</li><li>schafft eine wohlfühlende Atmosphäre</li><li>ideal für Tisch- oder Weihnachtsdekorationen</li><li>auch für die Bestückung von Weihnachtskränzen geeignet<br/></li></ul>"
-}

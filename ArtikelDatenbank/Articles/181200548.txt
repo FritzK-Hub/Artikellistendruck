@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Saatgut Rotklee für ca. 20 m²</li><li>eine mehrjährige, eiweißreiche Futterpflanze</li><li>ideal als halb- und ganzjährigen Gründüngung</li><li>Blüten dienen als Grün oder Trockenfutter</li><li>liefert Folgefrucht Stickstoff und Humos<br/><br/></li></ul>"
-}

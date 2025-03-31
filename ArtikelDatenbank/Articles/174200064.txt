@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>praktisches 3-teiliges Komplett-Brause-Set</li><li>für Badewanne und Dusche geeignet</li><li>mit verchromter Oberfläche</li><li>bestehend aus Brauseschlauch, Wandhalterung und Handbrause</li><li>Handbrause mit 7 verschiedenen, einstellbaren Strahlarten<br/></li></ul>"
-}

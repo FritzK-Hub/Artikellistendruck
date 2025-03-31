@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>zur Leistungsaufnahme angeschlossenen Verbraucher</li><li>identifiziert energie-intensive Stromverbraucher</li><li>zur Berechnung der Energiekosten einzelner Geräte</li><li>speichert gemessene Energie und Strompreis ab</li><li>180° drehbares Display erleichtert die Lesbarkeit<br/></li></ul>"
-}

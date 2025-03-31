@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>schützt dein Autobezug vor Fett, Öl, Wasser oder Essensresten</li><li>besonders strapazierfähig und wasserfest, aus Polypropylen-Gewebe</li><li>vielseitig für die Werkstatt oder bei verschiedenen Hobbys einsetzbar</li><li>schnell und einfach mit den Gummischlaufen und Haken montierbar</li><li>lässt sich leicht mit einem Schwamm oder Feuchttuch reinigen</li></ul>"
-}

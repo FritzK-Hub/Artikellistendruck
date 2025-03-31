@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Größen: 25 und 28 (auch komplettes Set erhältlich)</li><li>Stärke Schlüssel: ca. 9mm</li><li>Material: Chrom Vanadium satiniert</li></ul>"
-}

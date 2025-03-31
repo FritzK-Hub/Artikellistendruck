@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>zur Verwendung in der Hausentwässerung</li><li>für Abflussleitungen und HT-Rohre</li><li>sichere und dichte Verbindungen</li><li>besonders langlebig</li><li>aus Gummi, schwarz</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Fassadenpinsel mit gebogenem Pinselkopf</li><li>bestens geeignet für schwer zugängliche Stellen</li><li>gute Farbaufnahme und Abgabe<br/></li><li>extra kurzer und stabiler Holzgriff</li><li>bestens geeignet für alle Wand- und Fassadenfarben</li></ul>"
-}

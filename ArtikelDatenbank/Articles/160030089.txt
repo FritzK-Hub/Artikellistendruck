@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>\"Multi Flex Cool&amp;Touch\" mit PPU-Nitrilbeschichtung und Nitrilnoppen</li><li>kühles, angenehmes Tragegefühl</li><li>besonders robust und bequem</li><li>optimale Fingerfertigkeit</li><li>Kupferfasern in Zeigefingern und Daumen für Touchscreen-Bedienung<br/></li></ul>"
-}

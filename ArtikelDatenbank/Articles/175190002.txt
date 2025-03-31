@@ -1,4 +1,0 @@
-{
-    "uvp": 219.9,
-    "attributes": "<ul><li>überlegene Widerstandsfähigkeit gegen Witterungseinflüsse</li><li>Robustheit durch Aluminium und innovatives Zincalume®</li><li>langlebig dank stabiler Konstruktion</li><li>ideale Lagerbedingungen mit effektiver Belüftung</li><li>mühelose &amp; unkomplizierte Montage ermöglicht schnellen Einsatz</li></ul>"
-}

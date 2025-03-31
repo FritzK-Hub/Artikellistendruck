@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "                    mit Steckklemmen,/nNennspannung: 250V ~,/nNennstrom: 16A,/nNennspannung USB 2,1A,/nmit Kindersicherung,/nmit Rahmen\"\"/n/n/n                "
-}

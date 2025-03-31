@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul> <li>Propan/Butan Ersatz- und Verlängerungsschlauch</li> <li>1/4\" lks</li> <li>für Gasgrillgeräte, Campingkocher, usw.</li></ul>"
-}

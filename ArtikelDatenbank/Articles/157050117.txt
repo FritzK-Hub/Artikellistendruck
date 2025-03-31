@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>für kleinere Schadstellen und Kratzer</li><li>direkt auf Metall anwendbar</li><li>ideal für Bad und Küche</li><li>haftet auf allen Oberflächen, ohne Vorbehandlung mit Primer</li><li>einfache und praktische Anwendung</li></ul>"
-}

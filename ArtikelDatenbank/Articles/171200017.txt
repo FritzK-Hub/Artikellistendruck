@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>geruchsarm und schnelltrocknend</li><li>für glatte, griffige Oberflächen</li><li>farblos und natürlich</li><li>Kinderspielzeug geeignet</li><li>vielseitig für den Innenbereich<br/></li></ul>"
-}

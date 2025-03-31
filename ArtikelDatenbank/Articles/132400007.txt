@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>vielseitiges GERMANIA® Multitool für unterschiedliche Anwendungen</li><li>schneller Werkzeugwechsel erlaubt effizientes Arbeiten</li><li>ideal für Hobby und Handwerk</li><li>sauberer Arbeitsplatz dank Staubabsaugadapter</li><li>komplettes Set für sofortigen Einsatz</li></ul>"
-}

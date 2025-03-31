@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>lösemittelfreie Putzgrundierung</li><li>für griffige, haftvermittelnde Grundanstriche</li><li>geeignet für Oberflächen im Innenbereich</li><li>gut deckend und weiß pigmentiert</li><li>gute Haftvermittlung und leicht zu verarbeiten</li></ul>"
-}

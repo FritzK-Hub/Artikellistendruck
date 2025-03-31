@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Glassockellampe W5W</li><li>mit W2,1x9,5d Sockel</li><li>2 Stück im Blister</li><li>entspricht E4</li><li>Ersatzlampe für das KFZ Innenlicht</li></ul>"
-}

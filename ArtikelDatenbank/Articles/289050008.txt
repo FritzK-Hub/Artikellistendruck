@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>Streckmetall-Tafel</li><li>aus rohem Stahl unbehandelt</li><li>Waben Abmessung 6 x 3,5 mm</li><li>Plattenstärke 1,2 mm</li><li>Stahlgitter 100 x 12 cm</li></ul>"
-}

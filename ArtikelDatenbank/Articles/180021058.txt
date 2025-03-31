@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>hochwertiges langlebiges WaterPro Zwischenventil aus Messing</li><li>freier Durchfluss in eine Richtung, Sperrung in Gegenrichtung</li><li>integrierte Schließfeder für flexible Einbaustellungen</li><li>beidseitiges Innengewinde für einfache Installation</li><li>verhindert Rückfluss von Wasser in den Brunnen</li></ul><p></p>"
-}

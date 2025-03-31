@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>fein gekrauste Blätter</li><li>ganzjähriger Anbau</li><li>hoher Vitamin-C-Gehalt</li><li>vielseitige Erntemöglichkeiten</li><li>langfristige Aufbewahrungsoptionen<br/></li></ul>"
-}

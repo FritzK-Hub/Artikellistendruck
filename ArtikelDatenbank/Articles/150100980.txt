@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>aus Spezial-ABS-Qualitätskunststoff</li><li>zweischichtige Metallic-Lackierung</li><li>schnelle Montage ohne Werkzeug</li><li>dauerhafter Halt durch gefederten Metallring</li><li>passend für alle gängigen Stahlfelgen</li></ul>"
-}

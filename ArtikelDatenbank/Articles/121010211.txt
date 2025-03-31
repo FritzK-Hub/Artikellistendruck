@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>CD / DVD Marker wasserfest</li><li>Set mit 4 Stück in 4 Farben</li><li>je einer in Blau, Grün, Rot und Schwarz</li><li>zur dauerhaften Beschriftung von CDs, DVDs und Folien</li><li>wasserfeste Permanent Marker</li></ul>"
-}

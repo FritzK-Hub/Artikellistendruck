@@ -1,4 +1,0 @@
-{
-    "uvp": 6.29,
-    "attributes": "<ul><li>Kettenverschlussglied in silber</li><li>wiederverwendbar</li><li>für alle Radketten mit 18-24 Gang Kettenschaltung</li><li>Passend für Ketten 12,7 x 2,4 mm (1/2 x 3/32˝)</li><li>Fahrrad Kettenverschlussglied</li></ul>"
-}

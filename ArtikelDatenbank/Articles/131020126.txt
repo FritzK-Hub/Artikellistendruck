@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>sauerstoff-aktiver Waschkraftverstärker</li><li>universeller Fleckenentferner für Kleidung und Stoffe</li><li>auch für farbige Textilien geeignet</li><li>zur Verwendung in der Waschmaschine oder zum Einweichen</li><li>entfernt auch hartnäckige Flecken</li></ul>"
-}

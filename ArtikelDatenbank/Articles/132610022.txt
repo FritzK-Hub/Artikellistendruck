@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>GERMANIA® Plattform Einzel-Ladegerät</li><li>handliche und einfache Ausführung</li><li>kann den 1,5 Ah als auch 4,0 Ah Akku aufladen</li><li>für die gesamte Plattform Collection geeignet</li><li>Ladezustand ist per LED-Anzeige ablesbar<br/></li></ul>"
-}

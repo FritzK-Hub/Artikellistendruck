@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>stylischer Duschvorhang mit Walmotiv aus Polyester</li><li>besonders wasserabweisend und blickdicht</li><li>äußerst schimmelresistent und antibakteriell</li><li>für die meisten Standard Bade- und Duschbereiche geeignet</li><li>12 praktische Haken, für einfache Montage und Verwendung<br/></li></ul>"
-}

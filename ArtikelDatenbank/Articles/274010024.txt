@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>nylonverstärkt</li><li>mit Kunststoff-Spannbacken</li><li>handliches, geringes Gewicht</li><li>mit einer Hand bedienbar</li><li>Schnelllöseknopf</li></ul>"
-}

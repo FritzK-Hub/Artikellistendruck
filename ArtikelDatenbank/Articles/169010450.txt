@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>    Antirutschband für rutschgefährdete Zonen</li><li>    3 selbstklebende Streifen im Set</li><li>    Antirutschstreifen für den Innenbereich</li><li>    für mittlere bis hohe Beanspruchung    geeignet </li><li>für Treppen, Leitern und Rampen</li></ul>"
-}

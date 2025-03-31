@@ -1,4 +1,0 @@
-{
-    "uvp": 44.99,
-    "attributes": "<ul><li>für den Innen- und Außeneinsatz</li><li>geringer Stromverbrauch und hohe Effizienz dank LED Technik</li><li>inklusive Transformator </li><li>vielseitig einsetzbar</li><li>schafft eine angenehme Atmosphäre<br/></li></ul>"
-}

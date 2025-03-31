@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>schnelltrocknend</li><li>ideale Grundierung vor Decklackierung</li><li>gleicht kleine Kratzer, Rillen und Dellen aus</li><li>leichte Schleifbarkeit</li><li>einfache und praktische Anwendung</li></ul>"
-}

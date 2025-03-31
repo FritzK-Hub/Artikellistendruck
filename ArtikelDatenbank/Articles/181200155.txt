@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Gartenpimpinelle Quedlinburger Blatt</li><li>mehrjähriges Kraut mit würzigem Gurkengeschmack</li><li>zur Verfeinerung Salaten oder Fischmarinaden</li><li>ist zudem reich an Gerbstoffen</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

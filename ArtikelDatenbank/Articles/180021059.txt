@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Rückschlagventil aus Messing</li><li>beidseitiges Innengewinde</li><li>funktioniert durch integrierte Schließfeder in jeder Einbaustellung (vertikal / horizontal)</li><li>gibt den Durchfluss in einer Richtung frei und sperrt in Gegenrichtung</li><li>verhindert, dass beim Ausschalten der Pumpe Wasser zurück in den Brunnen fließt und beim Einschalten wieder angesaugt werden muss</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>Typ KV-A - Wolfszahn, Grobzahn</li><li>vibrationsarme Sägeblatt</li><li>geschränkt und geschärft</li><li>für verschiedene Holzmaterialien geeignet</li><li>einfaches Nachschärfen mit Feile möglich<br/></li></ul>"
-}

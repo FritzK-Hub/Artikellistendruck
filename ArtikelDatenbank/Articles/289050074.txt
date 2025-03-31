@@ -1,4 +1,0 @@
-{
-    "uvp": 6.24,
-    "attributes": "<ul><li>Flachstange aus eloxiertem Aluminium</li><li>Länge: ca. 200 cm</li><li>Breite: 15 mm</li><li>Materialstärke: 2 mm</li><li>Material: Aluminium</li></ul>"
-}

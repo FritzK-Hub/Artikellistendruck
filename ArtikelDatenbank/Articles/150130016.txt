@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Kompressorenöl für alle Güde-Kompressoren</li><li>hoher Verschleißschutz</li><li>sehr gutes Viskositäts-Temperaturverhalten</li><li>verhindert Schwarzschlammbildung</li><li>Krafteinsparung durch Leichtlaufeigenschaften</li></ul>"
-}

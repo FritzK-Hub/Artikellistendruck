@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>Bohrer-Set von GERMANIA® Qualitätswerkzeuge in der Stahlkassette</li><li>Bohrer-Set in Profi-Industriequalität</li><li>90-teilig von 1,0 mm bis 10,2 mm in 0,5 mm Schritten</li><li>alle gängigen Kernloch- und Nietenbohrer</li><li>DIN 338 \"TIN-beschichtet\"</li><li>Material: HSS (High Speed Steel / Schnellarbeitstahl)</li><li>Set 90-teilig von 1,0 - 10,2 mm in 0,5 mm Schritten</li></ul>"
-}

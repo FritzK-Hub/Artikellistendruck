@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li> 2-adrige Schlauchleitung mit PVC-Mantel </li><li> zum Anschluss von Geräten bis maximal 300 V geeignet </li><li>unzulässig für die Verwendung an Heizgeräten oder Elektrowerkzeugen</li><li> z. B. für den Anschlusss leichter Elektrogeräte wie Tischleuchten oder Rundfunkgeräte </li><li> Verwendung in trockenen Räumen bei sehr geringer mechanischer Beanspruchung </li></ul><p></p>"
-}

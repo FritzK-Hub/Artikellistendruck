@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>optimale Anpassung an jedes Werkstück</li><li>robuster Kunststoff für lange Haltbarkeit</li><li>sicherer Halt ohne Vibrationen</li><li>einfache Montage mit Spannmutter</li><li>kompatibel mit vielen Winkelschleifern</li></ul>"
-}

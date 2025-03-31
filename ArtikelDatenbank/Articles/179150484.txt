@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Gaskartusche mit Butan/Propangas Mischung<br/></li><li>mit \"Gas Block System\" so dass beim Ausstecken der Gaskartusche kein Gas austreten kann</li><li>für alle handelsüblichen Campingkocher, Kartuschenbrenner oder Lötlampen</li><li>ideal für den Campingurlaub oder Angelausflug</li><li>ergiebig und schnell austauschbar</li></ul>"
-}

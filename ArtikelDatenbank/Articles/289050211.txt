@@ -1,4 +1,0 @@
-{
-    "uvp": 6.88,
-    "attributes": "<ul><li>Winkelprofil gleichschenklig 100 x 2,35 cm</li><li>aus robustem, blankem Aluminium gefertigt</li><li>zum Abdecken von unsauberen Abschlüssen oder empfindlichen Schnittkanten</li><li>mit einzigartiger Bohr-Kennrille zum genauen Zentrieren von Bohrungen</li><li>ideal im Haushalt, Möbelbedarf oder zum Basteln<br/></li></ul>"
-}

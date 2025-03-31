@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul> <li>Holzlasur mit Abperleffekt für den Innen- und Außenbereich</li> <li>Umweltzeichen der Blaue Engel</li> <li>nach DIN EN 71.3 für Kinderspielzeug geeignet</li> <li>für dekorative und schmutzabweisende Anstriche</li> <li>dringt tief ins Holz ein und blättert nicht ab</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>intensive orange Farbe</li><li>glatte Schale</li><li>süßes, saftiges Fleisch</li><li>immer feucht und die Reihen unkrautfrei halten</li><li>Probefeldgetestete Qualität<br/></li></ul>"
-}

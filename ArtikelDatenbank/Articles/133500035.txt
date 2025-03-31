@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Bit-Satz 7-teilig aus massivem Edelstahl</li><li>in verschiedenen Größen und Steckkombinationen</li><li>Bits sind zur schnelleren Orientierung farblich gekennzeichnet</li><li>für Schraubarbeiten rund um deinen Haushalt</li><li>inklusive Bithalter zur einfachen Arbeitsunterstützung<br/></li></ul>"
-}

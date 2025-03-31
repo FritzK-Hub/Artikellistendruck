@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Fußmatte für intensiv genutzte Räume</li><li>Weichkautschuk, besonders wetterbeständig<br/></li><li>für den Innen- und Außenbereich geeignet</li><li>die Fußmatte ist strapazierfähig und rutschfest</li><li>lässt sich leicht reinigen und ist waschbar</li></ul>"
-}

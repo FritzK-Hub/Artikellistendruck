@@ -1,4 +1,0 @@
-{
-    "uvp": 1.19,
-    "attributes": "<ul><li>Ersatz-Dichtring zur Verwendung in der Hausentwässerung</li><li>für Abflussleitungen und HT-Rohre</li><li>sichere Abdichtung </li><li>besonders langlebig</li><li>aus Gummi, schwarz</li></ul>"
-}

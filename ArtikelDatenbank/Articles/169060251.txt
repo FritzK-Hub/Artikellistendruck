@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Holzleim \"Ponal Fix &amp; Fest\" transparent 100 g für den Innenbereich</li><li>Holzklebstoff mit Soforthaftung und eine Spaltfüllung von max. 3 mm</li><li>schnelle und saubere, senkrechte Anwendungen ohne Zwinge</li><li>ist für das Verleimen von sämtlichen Holzprodukten, Hart-PVC, Ziegelsteinen oder Beton geeignet</li><li>ca. 10 Minuten Verarbeitungszeit und nach ca. 20 Minuten handfest<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatband Basilikum Genoveser ca. 2 laufende Meter</li><li>schnellwachsend, würzig und gesund</li><li>großblättrig und aromatisch</li><li>ideal zum Würzen von Salaten, Fischgerichten und Gemüsesuppen</li><li>als Teeaufguss nervenstärkend<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 123.76,
-    "attributes": "<ul><li>geschlossene Bauweise</li><li>durch Spezialgetriebe geringer Kraftaufwand</li><li>hohe maximale Beladung von 1 t</li><li>zum Heben, Versetzen, Positionieren und Sichern von Lasten</li><li>mit langer Bedienkette und Lasthaken<br/></li></ul>"
-}

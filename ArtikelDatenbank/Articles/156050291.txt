@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Fliesenfugenkreuze 3,0 mm</li><li>250 Stück in der Tüte</li><li>die Fliesenfuge wird gleichmäßig groß</li><li>wiederverwendbar</li><li>aus stabilem PCV gefertigt<br/></li></ul>"
-}

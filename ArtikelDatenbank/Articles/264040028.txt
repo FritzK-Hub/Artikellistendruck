@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Art: Ösenhaken</li><li>Maße: (LxBxH) ca. 60x45x6mm</li><li>Ösendurchmesser: ca. 6mm (innen, ca. 20mm (außen)</li><li>Haken Öffnung / Weite: ca. 15mm</li><li>Materialstärke Haken: (t) ca. 6mm</li></ul>"
-}

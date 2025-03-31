@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Spanplattenschrauben für sichere Holzverbindungen</li><li>Kilo-Pack mit praktischen Dosier-Schub</li><li>zur optimalen Kraftübertragung konzipiert</li><li>sicheres Eindrehen ohne Abrutschen</li><li>vielseitig für Möbelbau und Holzarbeiten</li></ul>"
-}

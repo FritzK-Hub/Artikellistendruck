@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>300mm</li><li>mit gehärteten Backen</li><li>schneidet Eisenmetalle bis zu 4mm Durchmesser</li></ul>"
-}

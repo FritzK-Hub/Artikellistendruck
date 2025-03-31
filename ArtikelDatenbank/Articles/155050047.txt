@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Papier in 5 verschiedenen Farben</li><li>40 farbig sortierte Blätter</li><li>geeignet als Druckerpapier</li><li>auch für verschiedene Falttechniken</li><li>Buntpapier in intensiven Farben</li></ul>"
-}

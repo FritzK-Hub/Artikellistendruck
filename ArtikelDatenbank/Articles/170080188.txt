@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>ideal für Metallbearbeitungsarbeiten geeignet</li><li>Körnung 60 für effizientes Abtragen von Material</li><li>speziell für das Trockenschleifen entwickelt</li><li>für Ø 200 mm Schleifböcke geeignet</li><li>lange Standzeit, hohe Formstabilität und Schleifleistung<br/></li></ul>"
-}

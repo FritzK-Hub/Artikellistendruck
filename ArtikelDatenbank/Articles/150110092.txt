@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Universal Autoschwamm von Nigrin</li><li>ideal für die KFZ Reinigung</li><li>sehr saugfähig und schonend</li><li>waschbar bis 90°C</li><li>Universalschwamm im handlichen Format</li></ul>"
-}

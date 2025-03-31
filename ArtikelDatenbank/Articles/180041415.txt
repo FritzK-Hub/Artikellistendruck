@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>präziser Schnitt</li><li>nachziehbarer Schraubenmechanismus</li><li>ergonomischer Holzgriff</li><li>kompakte Größe</li><li>langlebig und robust</li></ul>"
-}

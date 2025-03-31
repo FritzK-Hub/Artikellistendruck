@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>8 Entkalker-Tabs</li><li>schnelles entkalken</li><li>einfach 1 Tab in 500ml Wasser auflösen</li><li>für Kaffemaschinen und Wasserkocher</li><li>nur für Geräte mit säurebeständigen Oberflächen geeignet</li></ul><p></p>"
-}

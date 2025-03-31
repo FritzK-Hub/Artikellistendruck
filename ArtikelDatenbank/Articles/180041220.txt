@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>vielseitige Anwendung</li><li>platzsparendes Design</li><li>robuster Kunststoff</li><li>große Kapazität</li><li>leicht und handlich</li></ul>"
-}

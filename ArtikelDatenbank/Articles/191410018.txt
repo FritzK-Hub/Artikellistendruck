@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Schwimmhilfe in verschiedenen Farben für mehr Badespaß</li><li>aus robustem, strapazierfähigem PVC angefertigt</li><li>für Kinder von 3 - 6 Jahren und einem Gewicht von bis zu 30 kg</li><li>der Doppelring sorgt für den notwendigen Halt</li><li>so gewöhnt sich das Kleinkind langsam an das Wasser<br/></li></ul>"
-}

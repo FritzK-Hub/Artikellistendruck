@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>effektive Unkrautentfernung</li><li>robuster 2-Komponenten Griff</li><li>praktische Abmessungen</li><li>für schmale und breite Fugen</li><li>einfache Handhabung</li></ul>"
-}

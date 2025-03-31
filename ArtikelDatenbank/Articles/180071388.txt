@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>hochwertige Hängeampel für Balkon, Terrasse oder Gartenpavillon</li><li>für Pflanzen wie Philodendron oder Efeu</li><li>mit abnehmbarem Untersetzer</li><li>keine Staunässe dank Überlauföffnungen</li><li>Kunststoff-Aufhängung zum Demontieren</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Luftballons Happy Birthday</li><li>schöne Geburtstags-Dekoration</li><li>lassen sich leicht aufblasen</li><li>hochwertiges Material</li><li>verschiedene Farben</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>handlicher Gerätestiel aus massivem Holz</li><li>passender Ersatzstiel von Besenköpfen oder Haushaltgeräten</li><li>lässt sich leicht montieren</li><li>auch für verschiedene Gartengeräte geeignet</li><li>besitzt eine Stiellänge von ca. 140 cm<br/></li></ul>"
-}

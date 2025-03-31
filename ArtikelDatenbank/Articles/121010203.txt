@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>100 Büroklammern</li><li>aus Metalldraht</li><li>in praktischer Aufbewahrungsbox</li><li>blanke Briefklammern</li><li>Länge 32 mm</li></ul>"
-}

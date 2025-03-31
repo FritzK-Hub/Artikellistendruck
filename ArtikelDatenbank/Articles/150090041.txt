@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Minikompressor, Kleinkompressor von Unitec</li><li>kleine, handliche Abmessungen</li><li>geringes Gewicht des Kompressors</li><li>einfach über die 12 Volt Steckdose vom Fahrzeug zu betreiben</li><li>Farbe Kleinkompressor: schwarz</li></ul>"
-}

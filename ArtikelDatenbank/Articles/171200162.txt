@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>BONDEX Douglasien-Öl, besonders lösemittelhaltig und dünnflüssig</li><li>für alle Holzarten und kesseldruckimprägnierten Hölzer geeignet</li><li>passende Pflege von Terrassen, Gartenmöbel und mehr</li><li>erhält das natürliche Erscheinungsbild des Holzes</li><li>ist besonders wasserabweisend, atmungsaktiv und vermindert die Rissbildung<br/></li></ul>"
-}

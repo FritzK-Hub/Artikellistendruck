@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Heidekraut im robustem Topf Ø 10,5 cm</li><li>sind dekorative und pflegeleichte Knospenblüher</li><li>sind Nahrungsquellen für Bienen</li><li>in Kombination für farbige Blütenpracht</li><li>besonders farbenprächtige Blüten<br/></li></ul>"
-}

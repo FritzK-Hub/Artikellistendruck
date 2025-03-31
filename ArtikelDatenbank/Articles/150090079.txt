@@ -1,4 +1,0 @@
-{
-    "uvp": 6.19,
-    "attributes": "<ul><li>Halogen Scheinwerferlampe H7 mit PX26d Sockel</li><li>passende Ersatzlampe für den Hauptscheinwerfer</li><li>seine 12 V sorgen für eine klare Sicht</li><li>Qualitätserzeugnis mit E-Prüfzeichen</li><li>für den einfachen Austausch oder Ersatz</li></ul>"
-}

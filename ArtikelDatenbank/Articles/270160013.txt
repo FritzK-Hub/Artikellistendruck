@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>passend für Black &amp; Decker, Skil, Ryobi und weitere Maschinen</li><li>besonders langlebig, leise und vibrationsarm</li><li>hochflexibler Sägeblattstahl, ideal für schnelles Arbeiten</li><li>speziell für Tauchschnitte</li><li>geeignet für Kunststoff, glasfaserverstärkter Kunststoff, Metall, Holz<br/></li></ul>"
-}

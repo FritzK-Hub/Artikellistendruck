@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>olivgrüner Rucksack 52 x 34 x 20 cm</li><li>großes Fassungsvermögen von 30 Liter</li><li>perfekter Begleiter für Outdoor-Aktivitäten</li><li>praktische Aufteilung</li><li>sportliches Design<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.19,
-    "attributes": "<ul><li>Patentschnallen 25 mm</li><li>2 Stück im Set</li><li>aus Kunststoff</li><li>ideal für Taschen, Mäntel, Jacken</li><li>Steckschnalle universell einsetzbar</li></ul>"
-}

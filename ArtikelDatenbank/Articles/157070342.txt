@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>2K-Fein-Spachtel inklusive 5 g Härter</li><li>härtet ohne Rissbildung, styrolreduziert</li><li>glättet Kratzer und leichte Unebenheiten</li><li>ideal für die Nachbehandlung von vorgespachtelten Schadstellen geeignet</li><li>ergibt eine mikrofeine, porenfreie Oberfläche</li></ul>"
-}

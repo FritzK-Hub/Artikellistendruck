@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Stahldraht</li><li>gezopft</li><li>M14 Gewindeaufnahme</li><li>weiteres GERMANIA® Werkzeug finden Sie in unserem Shop!</li></ul>"
-}

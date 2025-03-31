@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>hochwertige Materialien</li><li>sichere Positionierung der Tür</li><li>robuste Mechanik</li><li>einfache Montage</li><li>flexibler Einsatz<br/></li></ul>"
-}

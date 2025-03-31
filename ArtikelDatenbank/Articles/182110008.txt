@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<h3><strong>Produktmerkmale:</strong></h3><ul><li>Fahrradschlauch 12\" mit Dunlop-Ventil</li><li>ersetzt den beschädigten Schlauch am Fahrrad</li><li>sehr elastisches Material</li><li>deckt viele Größen ab</li><li>breiter Ersatzschlauch</li></ul>"
-}

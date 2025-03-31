@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Universalbesen 35 cm mit grünen Kunstfaserborsten</li><li>zum Entfernen von Schmutz auf glatten oder rauen Oberflächen</li><li>universell einsetzbar in der Industrie, Haushalt oder Gewerbe</li><li>mit konischer Gewindeaufnahme versehen</li><li>der Besenrücken aus Kunststoff<br/></li></ul>"
-}

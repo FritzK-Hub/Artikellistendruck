@@ -1,4 +1,0 @@
-{
-    "uvp": 49.99,
-    "attributes": "<ul><li style=\"box-sizing: inherit; font-size: inherit;\">umfangreiches Makita Werkzeugset mit 101 Teilen</li><li style=\"box-sizing: inherit; font-size: inherit;\">im praktischen Werkzeugkoffer</li><li style=\"box-sizing: inherit; font-size: inherit;\">ideal für Heimwerker und Handwerker</li><li style=\"box-sizing: inherit; font-size: inherit;\">robust, stabil und hochwertig verarbeitet</li><li style=\"box-sizing: inherit; font-size: inherit;\">auch für den Einsatz auf Baustellen geeignet</li></ul>"
-}

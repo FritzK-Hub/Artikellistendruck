@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Hartmetall Nutfräser, Holzfräser 20 mm</li><li>Gesamtlänge Nutfräser: ca. 50 mm</li><li>Präzisionswerkzeug von Drillcraft Werkzeuge</li><li>für den privaten oder professionellen Einsatz</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>ideal für Kettensägen, Rasenmäher und mehr</li><li>hochwertiges geflochtenes Polyesterseil für Stärke und Langlebigkeit</li><li>individuelle Länge von 1m bis 100m nach Bedarf wählbar</li><li>sorgt für reibungsloses Anwerfen von Geräten</li><li>Profiqualität für Profis und Heimwerker</li></ul><p></p>"
-}

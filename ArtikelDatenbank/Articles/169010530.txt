@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>stark klebender Druckverschluss 4 Streifen je 1,9 x 10 cm</li><li>ideal zur Montage von Gegenständen im Innen- und Außenbereich</li><li>für unsichtbare Befestigungen </li><li>für wieder ablösbare Befestigungen, ohne Schrauben oder Nägel</li><li>auf Kacheln, Holz, Putz und den meisten Kunststoffen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Hängesessel 100 x 90 cm für eine Person</li><li>hergestellt aus Polyester 320 g/m²</li><li>ist durch fröhliche Farben eine tolle Sommerergänzung</li><li>ideal zur Entspannung nach einem anstrengenden Tag</li><li>ein ca. 90 cm langer Holzstab ist mit inklusive<br/></li></ul>"
-}

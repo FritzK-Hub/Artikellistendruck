@@ -1,4 +1,0 @@
-{
-    "uvp": 52.85,
-    "attributes": "<ul><li>Spaltkeil-Set aus Stahl in verschiedenen Größen</li><li>unverzichtbares Spaltwerkzeug für die Brennholzherstellung</li><li>zum Spalten von Holzscheiten und kleineren Holzstücken</li><li>eignet sich für kaltes oder gefrorenes Holz</li><li>auffällige Farbe erleichtert die Auffindbarkeit im Schnee</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 27.12,
-    "attributes": "<ul><li>Sicherheits-Profilzylindersatz aus Messing</li><li>schwere Ausführung, hochwertig<br/></li><li>mit 9 gleichschließenden Schlüsseln</li><li>zwei verschiedene Profilzylinder</li><li>einfacher Austausch<br/></li></ul>"
-}

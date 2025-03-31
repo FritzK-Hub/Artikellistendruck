@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>12 Liter Eimer mit Sonderpreis Baumarkt Aufdruck</li><li>für verschiedene Einsatzgebiete geeignet</li><li>aus recyceltem Kunststoff</li><li>kältebeständig bis -20°C</li><li>integrierter Metallhenkel und Ausgusstülle</li></ul>"
-}

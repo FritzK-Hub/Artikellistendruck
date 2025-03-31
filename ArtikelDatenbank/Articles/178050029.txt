@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>präzises Arbeiten</li><li>vielseitige Einstellung</li><li>sichere Führung</li><li>langlebig und robust</li><li>hochwertige Materialien</li></ul>"
-}

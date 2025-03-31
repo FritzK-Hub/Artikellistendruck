@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>leichte Aluminiumhebelarmen </li><li>ausgezeichneten Hebelwirkung</li><li>ergonomisch geformte Griffe</li><li>präzisionsgeschliffene Klinge</li><li>Klinge mit Antihaftbeschichtung</li></ul>"
-}

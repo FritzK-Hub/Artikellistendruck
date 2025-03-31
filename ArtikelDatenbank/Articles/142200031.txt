@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>schnelles und einfaches An- und Abschrauben dank Schraubventil</li><li>vielseitig einsetzbar für Campingausrüstung, Brenner usw.</li><li>Schraubventil verhindert ungewolltes austreten von Gas</li><li>besonders ergiebig, lässt sich ohne Aufwand schnell austauschen</li><li>für Campingausflüge, Stromausfälle oder Outdooraktivitäten<br/></li></ul>"
-}

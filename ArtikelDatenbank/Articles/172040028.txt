@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>einfache Aufputzmontage für flexible Installation</li><li>dezentes weißes Design für jede Raumgestaltung</li><li>IP40 Schutz gegen Staub</li><li>12 Steckplätze für reichlich Anschlussmöglichkeiten</li><li>schützende Kunststofftür für einfachen Zugang<br/></li></ul>"
-}

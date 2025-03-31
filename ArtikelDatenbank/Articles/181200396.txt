@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Schnittlauch „Polyvit“, für ca. 3 – 4 laufende Meter</li><li>es ist ein ertragreiches, mittelgrobröhriges Küchenkraut</li><li>zum Verfeiern von Quark, Eierspeisen, Soßen etc.</li><li>reicht an Vitaminen und Mineralien</li><li>für den Anbau im Freiland oder auf der Fensterbank<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.47,
-    "attributes": "<ul><li>12-teiliges Set für mehr Ordnung</li><li>mit stark haftendem Klettverschluss</li><li>geeignet zum Bündeln von Kabeln und Schläuchen</li><li>in 6 verschiedenen Farben</li><li>universell einsetzbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Dartpfeile 3-teilig mit Metallspitze </li><li>passende Ersatzpfeile für deine Spiele</li><li>für sämtliche, nicht elektronische, Dartscheiben</li><li>bei Nichtgebrauch platzsparend im Etui verstaubar</li><li>inklusive drei Schafte und drei Flights-Halterungen</li></ul>"
-}

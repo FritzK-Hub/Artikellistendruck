@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Serienschalter Monaco aus Kunststoff in Platin</li><li>zum Bedienen von Lampen oder elektrischen 230-Volt-Geräten</li><li>passt sich vielseitig jedem Wohnbereich an</li><li>in den Mehrfachrahmen der Monaco Serie einsetzbar</li><li>integrierte Steckklemmen erleichtern den Anschluss<br/></li></ul>"
-}

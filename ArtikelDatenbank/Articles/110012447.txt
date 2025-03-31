@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>hochwertiger T-Verbinder aus langlebigem Temperguss</li><li>beständig gegen Korrosion, Druck und Temperaturschwankungen</li><li>besonders geeignet für die Erweiterung bestehender Rohrysteme</li><li>präzise gefertigte Gewinde für sichere und dichte Verbindungen</li><li>einfache Installation und minimale Wartungsanforderungen</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Solarleuchte Bienennest</li><li>verfügt über 18 LEDs</li><li>in schwarz</li><li>aus Metall und Kunststoff gefertigt</li><li>verfügt über einen wiederaufladbarer Akku<br/></li></ul>"
-}

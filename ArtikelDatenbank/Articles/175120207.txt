@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>Haltefeder MB15 von Güde</li><li>aus stabilem Stahl gefertigt</li><li>passend für das Schlauchpaket 4 M MB15/TBI150</li><li>ideal für anspruchsvolle Schweißarbeiten</li><li>leichtes auswechseln mit wenigen Handgriffen<br/></li></ul>"
-}

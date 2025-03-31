@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Block mit 50 Blatt Quittungsvordrucken</li><li>Format DIN A6 quer</li><li>2-fach Lochung</li><li>mit separat ausgewiesener MwSt.</li><li>ohne Durchschlag<br/></li></ul>"
-}

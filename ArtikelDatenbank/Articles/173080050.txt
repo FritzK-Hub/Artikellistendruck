@@ -1,4 +1,0 @@
-{
-    "uvp": 5.69,
-    "attributes": "<ul><li>zur Demontage von abgerissenen / abgescherten Schrauben und Stehbolzen</li><li>aus massivem Carbonstahl</li><li>enthält 5 Schraubaufsätze in verschiedenen Größen</li><li>Spiralform sorgt für sicheren Halt und einfache Entfernung</li><li>mit Vierkant-Werkzeugaufnahme<br/></li><li>in praktischer Plastikkassette zur Aufbewahrung und Transport<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.8,
-    "attributes": "<ul><li>rutschfester Stand auf glatten Böden</li><li>einfacher Schutz vor Kratzern und Beschädigungen</li><li>unauffälliges schwarzes Design</li><li>einfache Anbringung dank des selbstklebenden Materials</li><li>verschiedene Größen im 56-teiligen Set <br/></li></ul>"
-}

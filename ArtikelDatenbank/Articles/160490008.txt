@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>Knieschoner mit Gel-Einlage</li><li>wasserbeständiges Material</li><li>profilierte Schale </li><li>zur Entlastung der Kniescheiben</li><li>hoher Tragekomfort</li></ul>"
-}

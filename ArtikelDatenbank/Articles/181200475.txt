@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Chicorée Rossa di Treviso precoce</li><li>mit roten Blättern und hellen Rippen versehen</li><li>Salatspezialität für Rohkosten oder kalten Platten</li><li>auch für den Frischverzehr oder zur Garnierung</li><li>verfügt über eine Probefeldgetestete Qualität<br/><br/></li></ul>"
-}

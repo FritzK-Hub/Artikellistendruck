@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>Kompressor-Set 11-teilig für alle Drucklufttätigkeiten</li><li>befüllen und prüfen von KFZ-, Motorrad- oder Fahrradreifen</li><li>dank Düsenverlängerung, Reinigungsarbeiten möglich</li><li>Tragegriff und seitliches Ablagefach erleichtern die Arbeit</li><li>1,5 m Zuleitung und 3 m Druckluftschlauch inklusive</li></ul>"
-}

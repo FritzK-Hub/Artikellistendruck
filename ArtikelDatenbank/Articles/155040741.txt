@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>LED Leuchtkugel aus Kunststoff 18cm Ø<br/></li><li>automatischer Farbwechsel für tolle Effekte</li><li>ein Blickfang für deine Weihnachts/ Party-Deko</li><li>Ein/Aus-Schalter am Boden der Kugel<br/></li><li>Batteriebetrieben (3 x AG13)<br/></li></ul>"
-}

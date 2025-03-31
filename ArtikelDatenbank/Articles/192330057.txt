@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>zwei LED-Spitzkerzen je 25 cm aus Kunststoff</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>als Tisch- oder Weihnachtsdekoration einsetzbar</li><li>für die Bestückung von Weihnachtskränzen geeignet</li><li>sind mit einer Timerfunktion von sechs Stunden ausgestattet<br/></li></ul>"
-}

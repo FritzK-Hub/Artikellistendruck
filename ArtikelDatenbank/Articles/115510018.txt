@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>für einwärts und auswärts öffnende Fenster</li><li>auch als Kindersicherung geeignet</li><li>mit intuitiver Bedienung dank Druckknopf</li><li>geeignet für Fenster und Fenstertüren aus Aluminium, Holz oder Kunststoff</li><li>einfache Montage</li></ul>"
-}

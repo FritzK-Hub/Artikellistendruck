@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>weiße Klebeetiketten</li><li>60 Stück im Set</li><li>vielseitig verwendbar</li><li>Etiketten selbstklebend</li><li>eckige Buchetiketten<br/></li></ul>"
-}

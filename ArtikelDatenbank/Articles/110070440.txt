@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>hochwertige Rohrverbindung für den Innenbereich</li><li>ideal für den Anschluss von Öfen</li><li>aus langlebigem feueraluminiertem Stahlblech</li><li>einfache Montage mit 90°-Winkel</li><li>robust und widerstandsfähig gegen hohe Temperaturen<br/></li></ul>"
-}

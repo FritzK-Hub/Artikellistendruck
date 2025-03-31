@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>PVC- Isolierband 3 Rollen je 4,5 m x 15 mm</li><li>ist ein zuverlässiger Helfer bei Installationsarbeiten</li><li>zum Isolieren, Bündeln oder Befestigen von Kabeln</li><li>ideal zum Kennzeichen oder umwickeln von Kabelenden</li><li>beständig gegen Chemikalien, Hitze oder dem Altern</li></ul>"
-}

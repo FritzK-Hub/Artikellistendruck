@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>handlicher KFZ-Stromprüfer, passend im KFZ-Bereich</li><li>zum einfachen Überprüfen der Elektrik Licht- und Zündstrom</li><li>Prüfnadel sticht präzise in die Stromleitung</li><li>bei Nichtgebrauch dank Clip platzsparend aufbewahrbar</li><li>inklusive Krokodilsklemme</li></ul>"
-}

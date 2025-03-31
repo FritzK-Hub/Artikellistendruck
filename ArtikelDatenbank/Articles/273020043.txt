@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>T15 Bit mit TX Sechsrund Antrieb</li><li>aus S2 Stahl</li><li>geeignet für alle gängingen Bithalter</li><li>zur Verwendung mit Ratschenschraubendreher und Akkuschrauber</li><li>Bit zum Befestigen von T-Profil Schrauben</li></ul>"
-}

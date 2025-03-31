@@ -1,4 +1,0 @@
-{
-    "uvp": 89.99,
-    "attributes": "<ul><li>effektive Verbrennung durch Drosselklappe</li><li>einfache Reinigung dank praktische Putztür</li><li>aus hochwertigem Stahlblech mit Senotherm-Lackierung</li><li>zum Anschließen des Ofens an den Schornstein</li><li>schnelle und einfache Montage <br/></li></ul>"
-}

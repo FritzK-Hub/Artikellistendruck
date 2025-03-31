@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>zweireihiger Diamantschleifteller mit 115 mm Durchmesser</li><li>zum Entfernen von groben Überständen bei Beton und Estrich</li><li>für schnellen und effizienten Materialabtrag</li><li>hochwertige GERMANIA®-Qualität Gold Linie</li><li>Diamantschleiftopf mit \"EN 13236\" Kennzeichnung<br/></li></ul>"
-}

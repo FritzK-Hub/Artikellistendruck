@@ -1,4 +1,0 @@
-{
-    "uvp": 7.29,
-    "attributes": "<ul><li>hervorragende Qualität, Normen übertreffend</li><li>vielseitig: Beton-, Verbund-, Heizestriche möglich</li><li>glatte Oberflächen dank feiner Körnung</li><li>extrem robust: Druck- und Frostbeständigkeit</li><li>schnell begehbar in nur ca. 3 Tagen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>geschmiedeter Stahlkopf</li><li>stabiles 4-Zinken-Design</li><li>bequemer T-Griff</li><li>besonders vielseitig</li><li>robuste Konstruktion</li></ul>"
-}

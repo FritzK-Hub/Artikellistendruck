@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>schnell montiert ohne Werkzeug</li><li>sicherer Verschluss schützt vor Tieren</li><li>praktische Tür für einfache Humusentnahme</li><li>optimale Belüftung zur schnellen Zersetzung</li><li>stabiler Stand durch vier Pfähle</li></ul>"
-}

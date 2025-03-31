@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Tiger-Hupe für Kinderfahrräder</li><li>für mehr Sicherheit im Straßenverkehr</li><li>für alle gängigen Kinderfahrräder<br/></li><li>komplett mit Befestigungsmaterial</li><li>Ballhupe in gelb<br/></li></ul>"
-}

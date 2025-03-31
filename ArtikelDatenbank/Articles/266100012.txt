@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Tragkraft pro Doppel-Lenkrolle ca. 70 kg</li><li>schwenkbares Rad, gebremst</li><li>Vollgummi Räder</li><li>das Gehäuse aus gepresstem Stahlblech</li><li>die Anschraubplatte ist kugelgelagert</li></ul>"
-}

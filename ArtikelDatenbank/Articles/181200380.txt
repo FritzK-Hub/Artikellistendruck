@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Buschtomate Gartenperle für ca. 80 Pflanzen</li><li>mit vielen, kleinen, runden und kaminroten Früchten</li><li>ist eine ertragreiche, festfleischige Kirschtomatensorte</li><li>für den Frischverzehr oder zum Garnieren geeignet</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

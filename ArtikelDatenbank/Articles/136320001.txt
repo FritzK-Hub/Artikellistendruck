@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>sechskant Steckschlüssel</li><li>aus Chrom Vanadium Stahl gefertigt</li><li>mit ergonomischen Griff</li><li>gummiert</li><li>besonders stabil<br/></li></ul>"
-}

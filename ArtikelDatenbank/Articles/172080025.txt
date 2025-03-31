@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>WiFi-Bewegungsmelder App-steuerbar von Hama</li><li>zum Schutz vor unerlaubtes Betreten oder als Beleuchtung</li><li>einfache Montage in Eingangsbereichen, Gängen oder Hinterhöfen</li><li>bei Erkennung erfolgt eine Push-Benachrichtigung an das Handy via App</li><li>inklusive 2 x CR123A Knopfzellen, Wandhalterung und Bedienungsanleitung</li></ul>"
-}

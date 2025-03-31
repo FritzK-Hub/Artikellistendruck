@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>12 Liter Eimer mit Sonderpreis Baumarkt Aufdruck</li><li>für verschiedene Einsatzgebiete geeignet</li><li>aus rotem, lebensmittelechtem Polyethylen Kunststoff gefertigt</li><li>mit einer Skala in 2 Liter Schritten</li><li>integrierter Metallhenkel und Ausgusstülle<br/></li></ul>"
-}

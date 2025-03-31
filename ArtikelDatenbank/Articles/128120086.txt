@@ -1,4 +1,0 @@
-{
-    "uvp": 149.99,
-    "attributes": "<ul><li>hochwertiges Akazienholz für langlebige Nutzung</li><li>praktischer Klappmechanismus zur platzsparenden Lagerung</li><li>Witterungsbeständigkeit ermöglicht ganzjährigen Einsatz im Freien</li><li>minimaler Pflegeaufwand, einfach zu reinigen</li><li>flexibel und vielseitig für jeden Außenbereich</li></ul>"
-}

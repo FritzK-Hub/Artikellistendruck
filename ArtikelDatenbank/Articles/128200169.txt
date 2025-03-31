@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Solar Tischleuchte 20 cm mit drei Helligkeitsstufen</li><li>ist mit 10 warmweißen LED’s ausgestattet</li><li>für eine entspannte Atmosphäre in Wohnräumen oder Garten </li><li>Lampenfuß sorgt für die nötige Stabilität</li><li>benötigter Akku ist inklusive</li></ul>"
-}

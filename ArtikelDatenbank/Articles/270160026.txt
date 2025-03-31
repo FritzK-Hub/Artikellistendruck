@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul> <li>1 x BIM 150 mm x 1,4 mm: 18 Zähne pro Zoll (2,54 cm); ideal für: dünne Bleche, Rohre, Profile</li> <li>1 x CrV 152 mm x 4 mm: 6 Zähne pro Zoll (2,54 cm); ideal für: Sperrholzplatten, Konstrunktionsholz, Kunststoffe</li> <li>1 x CrV 228 mm x 8 mm: 3 Zähne pro Zoll (2,54 cm); idealt für: Grobholz und nagelfreies Brennholz</li></ul>"
-}

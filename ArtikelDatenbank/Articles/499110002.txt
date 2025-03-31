@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Spanplattenschrauben mit Senkkopf</li><li>mit Pozidriv Antrieb</li><li>passend für Bohrergröße 2 mm und PZ1 Bit</li><li>gelb verzinkte Oberfläche</li><li>Schraube mit Vollgewinde <br/></li></ul>"
-}

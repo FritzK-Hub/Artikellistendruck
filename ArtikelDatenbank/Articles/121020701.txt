@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Satzzeichen auf Kunststofffolie</li><li>schwarzes Satzzeichen \"Schrägstrich\" für Tür-Beschriftung</li><li>auf transparenter Trägerfolie, zuschneidbar</li><li>einfache Anbringung auf glatten Oberflächen</li><li>selbstklebende Folienbuchstaben</li></ul>"
-}

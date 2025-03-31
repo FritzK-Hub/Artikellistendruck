@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>eine moderne Alternative zu den herkömmlichen Teelichtern</li><li>imitierender Flackereffekt für eine gemütliche Atmosphäre</li><li>lassen sich vielseitig, je nach Bedarf platzieren</li><li>auch in Kinderzimmern als Nachtlicht einsetzbar</li><li>stellen keine Brandgefahr dar, werden nicht heiß<br/></li></ul>"
-}

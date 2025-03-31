@@ -1,4 +1,0 @@
-{
-    "uvp": 72.5,
-    "attributes": "<ul><li>Spezialwerkzeug zur Arretierung von Nockenwellen und Kurbelwelle</li><li>passend für Motoren mit Common-Rail-Einspritzung</li><li>dient zur Montage und Demontage der Nockenwellenräder</li><li>eignet sich für verschiedene Fahrzeugtypen wie Audi/VW oder Skoda</li><li>bei Nichtgebraucht platzsparend im Werkzeugkoffer verstaubar</li></ul>"
-}

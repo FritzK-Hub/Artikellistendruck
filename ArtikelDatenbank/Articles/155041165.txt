@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>robuster Tacker aus Metall</li><li>mit Kunststoffgehäuse</li><li>für Heftklammern der Größe 24/6 - 26/6</li><li>inkl. 100 Heftklammern 24/6</li><li>für offene und geschlossene Heftung<br/></li></ul>"
-}

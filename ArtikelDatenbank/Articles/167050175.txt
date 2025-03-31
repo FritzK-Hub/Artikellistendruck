@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>geflochtene Polypropylenschnur</li><li>z. B. zum Binden, Dekorieren oder Verpacken</li><li>universell einsetzbar</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1 m bis 150 m</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Kugelgrill mit weißer Haube und großer Grillfläche</li><li>inklusive Thermometer zur Überwachung der Grilltemperatur</li><li>aus emailliertem Stahl gefertigt</li><li>Räder und Griffe für uneingeschränkte Mobilität</li><li>Ascheauffangbehälter erleichtert die Reinigung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Blumenbank für innen und außen</li><li>witterungs- und UV-beständig</li><li>robuster Kunststoff in Rattan-Optik</li><li>ansteckbare Standfüße für mehr Stabilität</li><li>Bewässerungssystem mit Anzeige inklusive</li></ul>"
-}

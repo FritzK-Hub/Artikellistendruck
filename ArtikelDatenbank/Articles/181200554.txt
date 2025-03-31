@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Saatgut Mangold mit rubinroten Blattstielen</li><li>Blattgemüse für die Sommermonate</li><li>starke, raschwüchsige Sorte</li><li>4 - 6 Monate Ernte (bis zum Frost)</li><li>grün-violettes Blätterwerk<br/></li></ul>"
-}

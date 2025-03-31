@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li><span class=\"value col-sm-7\">schnell aufbaubar, zusammenfaltbar zum Aufbewahren </span></li><li><span class=\"value col-sm-7\">Anti-Rutschbodenmatte, mit Wasserablassventil</span></li><li><span class=\"value col-sm-7\">ideale Abkühlung im Sommer für alle Hunde</span></li><li><span class=\"value col-sm-7\"> leichte Entleerung über eingebautes Ablass-Ventil</span></li><li><span class=\"value col-sm-7\">für kleine bis mittlere Hunde geeignet<br/></span><span class=\"value col-sm-7\"></span></li></ul>"
-}

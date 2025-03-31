@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>extra lang für tiefere Reinigung</li><li>ergonomischer Griff für komfortable Nutzung</li><li>reinigt gründlich ohne zu zerkratzen</li><li>vielseitig einsetzbar für verschiedene Gefäße</li><li>platzsparend durch praktische Aufhängeschlaufe</li></ul>"
-}

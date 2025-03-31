@@ -1,4 +1,0 @@
-{
-    "uvp": 7.09,
-    "attributes": "<ul><li>Rohrschneider von dem Hersteller BGS</li><li>passend für Messing, Kupfer, dünnwandige Stahl- oder Leichtmetallrohre mit Ø 3 - 22 mm</li><li>erzeugt präzise und saubere Schnitte an Rohren</li><li>es ist nur Druck und Drehen des Werkzeuges für das Ergebnis notwendig</li><li>für die Installationen im Wasser und Heizungsbereichen geeignet</li></ul>"
-}

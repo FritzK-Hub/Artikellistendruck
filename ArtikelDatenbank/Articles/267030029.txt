@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Maße: (BxL) ca. 30x44mm</li><li>Gewicht: ca. 25g</li><li>Material: Metall verzinkt</li><li>Gurtbreite: max. ca. 25mm</li><li>Mechanismus gefedert</li></ul>"
-}

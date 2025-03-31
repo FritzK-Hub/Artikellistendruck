@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>witterungsbeständige Zuverlässigkeit</li><li>schnelle und einfache Befestigung</li><li>vielseitige Anwendung</li><li>großzügige Menge</li><li>aus strapazierfähigem Kunststoff</li></ul>"
-}

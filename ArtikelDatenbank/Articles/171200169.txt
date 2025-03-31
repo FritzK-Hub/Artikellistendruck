@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>für dekorative Holzanstriche</li><li>wasserbasiert und lichtecht</li><li>hohe Abrieb- und Kratzfestigkeit</li><li>spannungsarm und lösemittelfrei</li><li>für den Innenbereich geeignet<br/></li></ul>"
-}

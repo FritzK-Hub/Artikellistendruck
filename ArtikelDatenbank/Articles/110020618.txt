@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>besonders witterungsbeständig</li><li>robuste und hygienische Konstruktion</li><li>Ersatzköder für Kunststoffrattenfallen</li><li>äußerst langlebig</li><li>zur effektiven Schädlingsbekämpfung<br/></li></ul>"
-}

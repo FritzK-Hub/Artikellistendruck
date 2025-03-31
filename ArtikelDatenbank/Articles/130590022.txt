@@ -1,4 +1,0 @@
-{
-    "uvp": 1699.0,
-    "attributes": "<ul><li>als Kehrmaschine und Schneeschieber einsetzbar</li><li>leistungsstarker 3,2 kW Motor räumt effektiv Schnee, Eis oder Laub</li><li>kann mit nur wenigen Handgriffen umgebaut werden</li><li>Seilzugstarter mit Easy-Startfunktion für eine unkomplizierte Handhabung</li><li>inklusive Motorbesen, Schneeschieber und Auffangbehälter</li></ul>"
-}

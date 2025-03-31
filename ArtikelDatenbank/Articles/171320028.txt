@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>schnellfixierender Montagekleber für viele Materialien</li><li>für die Schnellmontage, auch ohne zusätzliche mechanische Fixierung</li><li>kleben und montieren bis zu 370 kg / 10 cm²</li><li>haftet auf feuchten, unebenen oder rauen Untergründen</li><li>säure-, laugen-, silikon-, isocyanat- und lösemittelfrei</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>zum einfachen Entlüften von den Heizkörpern</li><li>besonders widerstandsfähig, aus robustem Metall</li><li>speziell gefertigter Radiatoren-Schlüssel mit Vierkantantrieb</li><li>verhindert Geräuschentwicklung und erhöht die Leistung der Heizung</li><li>erleichtert das Aufdrehen des Entlüftungsventil<br/></li></ul>"
-}

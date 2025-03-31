@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatband Andenbeere, 2 Meter Saatband</li><li>mit mirabellengroßen, süßen Früchten</li><li>pergamentartige Kelchhülle schützt die Frucht</li><li>zum Frischverzehr oder als Kompott verwenden</li><li>in der kalten Küche dekorativ einsetzbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>universell für handelsübliche Ventilstopfen</li><li>robuste Verarbeitung für langfristige Zuverlässigkeit</li><li>einfache Anbringung ohne aufwendige Installation</li><li>verhindert Verlust des Abfluss-Stopfens</li><li>sichere Befestigung am Ventilstopfen</li></ul><p></p>"
-}

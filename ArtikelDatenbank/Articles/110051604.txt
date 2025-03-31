@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>6 Einmachgläser auf Tray</li><li>Deckel mit Schraubverschluss im Obstmotiv (ca. 66 mm)</li><li>eignet sich gut für Marmeladen, Kompost oder Konfitüre</li><li>leichte Reinigung auch durch die Spülmaschine</li><li>Fassungsvermögen: je ca. 258 ml</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Konusgleiter Ciao mit verchromter Oberfläche</li><li>passende Ergänzung für Brause-Wandstangen </li><li>für Handbrausen mit Ø 18 mm Durchmesser</li><li>platzsparende Aufbewahrung deiner Duschbrause</li><li>inklusive Befestigungsmaterial zur einfachen Montage<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>30 Trinkhalme aus Papier<br/></li><li>gestreift, farbig sortiert</li><li>lösen sich nicht auf</li><li>100% biologisch abbaubar</li><li>ideal für Cocktails, Longdrinks und Eistee</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Servierplatten aus Aluminium</li><li>lebensmittelecht</li><li>praktisch und hygienisch</li><li>wiederverwendbar oder für den Einweggebrauch</li><li>ideal zum Servieren von Speisen</li></ul>"
-}

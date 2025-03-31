@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>hochwertiges Material, halbseitig gehobeltes Fichtenholz</li><li>unbehandeltes, kammergetrocknetes Holz für eine authentische Optik</li><li>einsetzbar für Bauprojekte wie die Montage von Gipskarton- oder OSB-Platten</li><li>gefaste Kanten für eine stabile und sichere Nutzung</li><li>umweltfreundliches, natürliches Material für eine nachhaltige Wohn- und Arbeitsumgebung</li></ul>"
-}

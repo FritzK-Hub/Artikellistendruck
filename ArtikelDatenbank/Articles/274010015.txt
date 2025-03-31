@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Profi Schraubzwinge von GERMANIA® Qualitätswerkzeuge</li><li>zum Fixieren von Holz zum Leimen, Bohren oder Sägen</li><li>profilierte und gehärtete Stahlschiene</li><li>Spannbereich bis 300 mm<br/></li><li>Spannbacken mit Kunststoffschutz</li></ul>"
-}

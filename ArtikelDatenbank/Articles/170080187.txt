@@ -1,4 +1,0 @@
-{
-    "uvp": 4.95,
-    "attributes": "<ul><li>hohe Standzeit durch verwendung hochwertiger Materialien</li><li> Trockenschleifscheibe für Metall </li><li> passend für Ø125 mm Schleifbock </li><li> Güde® Qualitätsprodukt</li><li> für Metall geeignet</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 22.56,
-    "attributes": "<ul><li>Füllkanne aus weißem Kunststoff</li><li>säure-, öl- und laugenbeständig</li><li>mit Gewinde am Ausgießer für Einfüllstutzen</li><li>ideal zum Auffüllen von z.B. Öl oder Scheibenwasser</li><li>mit Griff zur besseren Dosierung<br/></li></ul>"
-}

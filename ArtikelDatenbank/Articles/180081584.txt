@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>vielfältig einsetzbarer Balkongartensack</li><li>mit Trageschlaufen</li><li>Faltmechanik</li><li>selbststehend</li><li>sehr strapazierfähig</li><li>witterungsbeständig</li><li>leicht zu reinigen</li></ul>"
-}

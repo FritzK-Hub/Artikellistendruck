@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Maße: (ØxH) ca. 48 x 700 mm</li><li>Material der Anhängerstütze: Stahl verzinkt</li><li>Ausführung des Stützfußes: mit Handgriff</li><li>Auflageplatte: (Ø) ca. 90 mm</li><li>Gewicht der Anhängerstütze: ca. 2 kg</li></ul>"
-}

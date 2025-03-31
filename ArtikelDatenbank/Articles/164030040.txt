@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Simplex-Karabiner aus verzinktem Stahl</li><li>rostfrei</li><li>mit Wirbel</li><li>Simplexhaken im 2er Set</li><li>ideal als Schlüsselanhänger</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 10.59,
-    "attributes": "<ul><li>Winkelprofil ungleichschenklig 100 x 3 x 2 cm</li><li>aus eloxiertem, silbernem Aluminium gefertigt</li><li>zum Abdecken von unsauberen Abschlüssen</li><li>empfindliche Schnittkanten werden verdeckt</li><li>ideal im Haushalt, Möbelbedarf oder zum Basteln<br/><br/></li></ul>"
-}

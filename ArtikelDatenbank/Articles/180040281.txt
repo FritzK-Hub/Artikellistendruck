@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>idealer Ersatzstiel für Schaufeln</li><li>mit T-Griff</li><li>elastisch, abriefest und zäh</li><li>für müheloses Arbeiten</li><li>aus Eschenholz gefertigt<br/></li></ul>"
-}

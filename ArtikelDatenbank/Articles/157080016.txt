@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Pflegeöl für den Außenbereich</li><li>dringt tief in den Holzuntergrund ein und schützt vor Austrocknung</li><li>erzeugt eine wasserabweisende, hoch beanspruchbare Fläche</li><li>betont den naturgegebenen Farbton des Holzes</li><li>ideal geeignet für Gartenmöbel, Pergolen und Sichtschutzwände</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 10.49,
-    "attributes": "<ul><li>Regulierstop bietet mehr Flexibilität bei der Bewässerung</li><li>zur stufenlosen Regulierung und Absperrung des Wasserdurchflusses</li><li>einfache Verlängerung deiner Gartenschläuche mit Schnellkupplung</li><li>erleichtert das Wechseln der Anschlüsse, auch bei hohem Wasserdruck</li><li>auch für Anschlussgeräte mit individueller Wassereinstellung nutzbar<br/></li></ul>"
-}

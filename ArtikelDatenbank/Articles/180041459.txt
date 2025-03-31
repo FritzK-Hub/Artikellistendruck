@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Fäustelstiel von GERMANIA® Qualitätswerkzeuge</li><li>für 1500g Hammerköpfe</li><li>aus Eschenholz</li><li>ovale Form</li><li>ideal als Ersatzstiel<br/></li></ul>"
-}

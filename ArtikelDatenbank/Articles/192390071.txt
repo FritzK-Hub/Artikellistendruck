@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Eisenbahnset 9-teilig batteriebetrieben</li><li>sorgt für mehr Weihnachtsstimmung</li><li>schnell und einfach aufzubauen</li><li>sicheres und farbenfrohes Design</li><li>ideales Weihnachtsgeschenk</li></ul>"
-}

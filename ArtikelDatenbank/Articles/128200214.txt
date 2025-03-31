@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul class=\"product-detail-product-features__list list list--standard\"><li>trendiges Wohnaccessoire</li><li>aus Metall</li><li>mit Glaseinsatz</li><li>besonders für Stumpenkerzen geeignet</li><li>sorgt für stimmungsvolles Licht</li></ul>"
-}

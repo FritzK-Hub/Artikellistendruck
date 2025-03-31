@@ -1,4 +1,0 @@
-{
-    "uvp": 4.19,
-    "attributes": "<ul><li>Verschlusskarabiner 16 x 80 mm</li><li>aus hochwertigem Aluminium</li><li>rostfrei</li><li>für Seile bis 16 mm Durchmesser</li><li>birnenförmig (C-Form)</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>Gartenbank für 2 Personen</li><li>moderne und geradlinige Ausführung</li><li>aus wetterfestem Aluminium</li><li>ein wahrer Blickfang für den Garten</li><li>Füße höhenverstellbar</li></ul>"
-}

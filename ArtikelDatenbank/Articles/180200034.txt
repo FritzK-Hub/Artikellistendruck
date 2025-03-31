@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>dient zur Sicherung von Schraub- und Gewindeverbindungen<ul></ul></li><li>verhindert selbstständiges Lösen durch Vibrationsbelastungen</li><li>härtet innerhalb von 10 – 15 Minuten schnell aus</li><li>ersetzt herkömmliche Befestigungsmethoden wie Splinten</li><li>für Stehbolzen an Motoren oder Pumpen einsetzbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 69.99,
-    "attributes": "<ul><li>vielseitige Strahlarten</li><li>integrierte Wasserspardichtung</li><li>einfache Reinigung</li><li>hochwertiges Design</li><li>praktische Handhabung<br/></li></ul>"
-}

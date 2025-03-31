@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>Nigrin Polierwatte aus 100 % Viskose</li><li>hoch saugfähig und seidenweich</li><li>ideal für Polituren und Versiegelungswachse</li><li>ohne Fremdstoffe</li><li>fusselfrei</li></ul>"
-}

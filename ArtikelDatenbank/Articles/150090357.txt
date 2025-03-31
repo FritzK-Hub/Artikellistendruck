@@ -1,4 +1,0 @@
-{
-    "uvp": 12.23,
-    "attributes": "<ul><li>Sicherungssortiment 96-teilig</li><li>verschiedene Sicherungseinsätze</li><li>nach Größe farblich gekennzeichnet</li><li>deckt die meisten KFZ-Sicherungen ab</li><li>inklusive Sicherungsausziehwerkzeug</li></ul>"
-}

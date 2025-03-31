@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>hochwertiges Material</li><li>modernes Design</li><li>praktische Schnellverschlussfunktion</li><li>universale Anschlussmöglichkeiten</li><li>einfache Montage<br/></li></ul>"
-}

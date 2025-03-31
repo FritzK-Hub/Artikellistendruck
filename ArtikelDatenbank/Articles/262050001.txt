@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Art: Verstellwinkel verzinkt</li><li>auch bekannt als Montagewinkel, Bauwinkel</li><li>Verstärkung: mit Sicke</li><li>Löcher: 2 Rundlöcher und 1 Langloch / einseitig gesenkt</li><li>Material: Stahl, gelb verzinkt</li></ul>"
-}

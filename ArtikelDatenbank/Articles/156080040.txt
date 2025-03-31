@@ -1,4 +1,0 @@
-{
-    "uvp": 199.0,
-    "attributes": "<ul><li>Bis zu 50% weniger Mischzeit dank Zwangsmischeffekt</li><li>Ergonomische Griffe für bequemes Arbeiten, minimierter Kraftaufwand</li><li>Robustes Metallgetriebegehäuse für Langlebigkeit</li><li>Präzise Geschwindigkeitskontrolle mit elektronischer Drehzahlregulierung</li><li>Soft-Start-Funktion und langes Gummikabel für optimale Handhabung</li></ul>"
-}

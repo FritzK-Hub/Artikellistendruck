@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>elektrische Absaugpumpe für den schnellen und sauberen Ölwechsel</li><li>Spiralkabel mit Batterieklemmen</li><li>Absaugung durch das Ölmessstabrohr</li><li>Anschluss an 12 V mit Batterieklemmen</li><li>auch für Diesel und Heizöl geeignet</li></ul>"
-}

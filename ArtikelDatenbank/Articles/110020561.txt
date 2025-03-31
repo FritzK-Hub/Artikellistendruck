@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Silberfischchen Falle mit Spezialkleber</li><li>starke Lockwirkung</li><li>wirkstofffreie Leimfalle</li><li>ohne Abgabe von Wirkstoff an die Umgebung bei höchstem Schutz für Kinder und Haustiere</li><li>Kleber mit starker Lockwirkung auf Kohlenhydratbasis</li></ul>"
-}

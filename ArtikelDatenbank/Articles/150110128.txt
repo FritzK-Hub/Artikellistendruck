@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Kontakt-Spray verdrängt Wasser</li><li>beseitigt und verhindert feuchtigkeitsbedingte Störungen im elektrischen Bordnetz</li><li>beseitigt verharzte Kontaktfette, Oxid- und Sulfidschichten</li><li>stoppt Kriechströme</li><li>vermeidet Spannungsverluste, sorgt für langanhaltenden Schutz von Kontakten</li></ul>"
-}

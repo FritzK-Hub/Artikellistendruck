@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Warndreieck mit kleinen, kompakten Abmessungen</li><li>die Verpackung ist aus stabilem Kunststoff in rot<br/></li><li>sekundenschnell aufgebaut</li><li>amtlich geprüft und zugelassen</li><li>stark reflektierendes Euro Warndreieck<br/></li></ul>"
-}

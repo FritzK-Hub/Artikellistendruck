@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>energiesparende Cold-Start-Funktion</li><li>langanhaltende Leistung mit geräuscharmer Kartusche</li><li>Extra-Komfort mit verstellbarer Geschirrbrause</li><li>einfache Installation durch Zentralverschraubung</li><li>schwenkbarer Auslauf 360° schafft Flexibilität</li></ul>"
-}

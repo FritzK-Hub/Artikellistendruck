@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>zum Bohren von kritischen Materialien wie Fliesen, Glas, Acrylglas oder Keramik</li><li>spezielle Querschneide für schnelle und präzise Bohrungen</li><li>besonders langlebig und widerstandfähig, aus massiven Hartmetall</li><li>lanzenförmige, hinterschliffener Hartmetallspitze, verhindert Beschädigungen </li><li>Klingen bleiben bis zu fünf-mal länger scharf im Vergleich zu anderen Aufsätzen<br/></li></ul>"
-}

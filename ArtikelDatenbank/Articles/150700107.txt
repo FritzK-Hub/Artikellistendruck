@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Vorratsdosenset 6-teilig inklusive farbige Deckeln</li><li>aus robustem, transparentem Kunststoff gefertigt</li><li>ideal zum Aufbewahren, Einfrieren und Erwärmen</li><li>verschließt luft-, wasser- und aromadicht</li><li>platzsparend ineinander stapelbar</li></ul>"
-}

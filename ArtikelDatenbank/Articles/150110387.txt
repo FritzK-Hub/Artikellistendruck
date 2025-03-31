@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>für alle Fahrzeuggummiteile</li><li>schützt und pflegt</li><li>einfache Anwendung</li><li>verhindert Einfrieren</li><li>bewahrt Elastizität</li></ul>"
-}

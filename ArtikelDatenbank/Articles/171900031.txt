@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>transparente Vorbehandlung</li><li>Grundierung auf Nitrozellulosebasis</li><li>schnelle Trocknung</li><li>porenfüllende Eigenschaften</li><li>gute Schleifbarkeit<br/></li></ul>"
-}

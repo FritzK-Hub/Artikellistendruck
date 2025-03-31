@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Spiralblock kariert</li><li>Format DIN A4</li><li>holzfrei, umweltfreundlich</li><li>Notizblock 4-fach gelocht</li><li>Collegeblock perforiert mit Rand<br/></li></ul>"
-}

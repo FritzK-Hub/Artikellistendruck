@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>praktisches Mikrofaser Polier-Set von Dunlop</li><li>speziell für die Pflege deines Autos</li><li>bietet die wichtigsten Hilfsmittel für die Autoreinigung</li><li>in einem transparenten Etui</li><li>hochwertige Markenqualtität<br/></li></ul>"
-}

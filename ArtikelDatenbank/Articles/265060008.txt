@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>robuste Konstruktion</li><li>vielseitig einsetzbar</li><li>einfache Methode für grundlegenden Schutz</li><li>aus verzinktem Stahl, blau chromatisiert</li><li>witterungsbeständig</li></ul>"
-}

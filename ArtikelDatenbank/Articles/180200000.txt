@@ -1,4 +1,0 @@
-{
-    "uvp": 10.59,
-    "attributes": "<ul><li>sorgt durch Molybdändisulfid für herausragende Schmierfähigkeit</li><li>bildet einen dauerhaften Schmierfilm auf allen reibenden und gleitenden Flächen</li><li>reduziert die Reibung im Motor für leichteren Lauf und verbesserte Effizienz</li><li>geeignet für moderne Motoren, inklusive Turbolader und Katalysator</li><li>verringert Verschleiß und verlängert die Lebensdauer des Motors<br/></li></ul>"
-}

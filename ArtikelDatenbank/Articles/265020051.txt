@@ -1,4 +1,0 @@
-{
-    "uvp": 11.49,
-    "attributes": "<ul><li>Scharnier mit Stift</li><li>aus robustem A4 Edelstahl</li><li>für Schränke, Türbeschläge </li><li>mit vier versenkten Schraublöchern</li><li>für den Innen- oder Außenbereich</li></ul>"
-}

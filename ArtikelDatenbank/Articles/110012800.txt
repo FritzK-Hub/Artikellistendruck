@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>ECO-Massagedusche aus verchromtem Kunststoff</li><li>für alle Wasserdrucksysteme &gt;=1,5 bar</li><li>besonders wassersparender Einsatz</li><li>Duschkopf mit 3 verstellbaren Funktionen und EasyClean</li><li>pulsierender Massagestrahl für deine sanfte Körper-Massage<br/></li></ul>"
-}

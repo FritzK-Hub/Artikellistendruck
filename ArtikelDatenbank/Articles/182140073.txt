@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Hupe für Fahrräder</li><li>für mehr Sicherheit im Straßenverkehr</li><li>für Groß und Klein</li><li>komplett mit Befestigungsmaterial</li><li>verchromte Ballhupe</li></ul><p><br/></p>"
-}

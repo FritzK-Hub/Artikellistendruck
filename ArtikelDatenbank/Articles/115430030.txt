@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Werkzeug-Wandschrank aus Metall</li><li>doppeltürig für genügend Stauraum</li><li>die Türen sind verschließbar</li><li>Mittelteil offen, mit zwei Regalböden und Lochwand</li><li>Metall-Regalböden variabel in der Höhe verstellbar</li></ul>"
-}

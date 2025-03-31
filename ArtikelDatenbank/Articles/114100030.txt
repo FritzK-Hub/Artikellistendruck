@@ -1,4 +1,0 @@
-{
-    "uvp": 159.95,
-    "attributes": "<ul><li>Paketbriefkasten aus Stahlblech mit schwarzer Pulverbeschichtung</li><li>Einwurfs-Öffnung eignet sich für Pakete bis zu jeweils 25 x 17,5 x 10 cm</li><li>Paketkapazität von ca. 45 Litern bietet ausreichend Platz für mehrere Pakete</li><li>der Briefkasten lässt sich am Boden und an der Wand festmontieren</li><li>Montagezubehör, zwei Schlüssel und ein Rohling-Schlüssel inklusive<br/></li></ul>"
-}

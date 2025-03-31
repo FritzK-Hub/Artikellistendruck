@@ -1,4 +1,0 @@
-{
-    "uvp": 6.14,
-    "attributes": "<ul><li>Stahlblech-Tafel</li><li>aus rohem Stahl</li></ul>"
-}

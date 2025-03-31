@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>sicherer Halt auch auf unebenen Straßen</li><li>einfache Befestigung ohne zusätzliches Werkzeug</li><li>verstellbarer Winkel für perfekte Sicht</li><li>kompatibel mit vielen Smartphone Größen</li><li>3 verschiedene Befestigungsmöglichkeiten</li></ul>"
-}

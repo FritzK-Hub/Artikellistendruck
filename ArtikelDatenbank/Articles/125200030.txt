@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Protect Home Mausefalle Classic </li><li>eine klassische Falle mit Schlagbügel</li><li>vielseitig einsetzbar im Haus oder Keller</li><li>schnelles und effektives Fangen von Mäusen</li><li>ohne Gebrauch von Rattengift einsetzbar<br/></li></ul>"
-}

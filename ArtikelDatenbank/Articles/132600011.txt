@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Elektrotacker für Klammern und Nägel</li><li>leistungsfähig, 20 Schüsse pro Minute</li><li>Sicherheitsvorrichtung gegen ungewolltes Auslösen</li><li>einstellbare, stufenlose Schlagkraftregelung<br/></li><li>inklusive 400 Klammern und 100 Nägel</li></ul>"
-}

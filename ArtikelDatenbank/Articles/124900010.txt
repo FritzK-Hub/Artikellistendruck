@@ -1,4 +1,0 @@
-{
-    "uvp": 13.9,
-    "attributes": "<ul><li>Ablaufanschluss mit Geruchsverschluss</li><li>integrierer Laubfang</li><li>für KG-Rohr 110 mm</li><li>aus stabilem PP-Kunststoff</li><li>einfacher Einbau an Entwässerungsrinnen<br/></li></ul>"
-}

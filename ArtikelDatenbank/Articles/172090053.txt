@@ -1,4 +1,0 @@
-{
-    "uvp": 39.0,
-    "attributes": "<ul><li>Zusatzgong für Link2Home Türsprechanlagen</li><li>zur Erweiterung von Audio- und Video-Türsprechanlage</li><li>akustisches und optisches Signal bei Betätigung der Funkklingel</li><li>10 Melodien zur Auswahl und einstellen der Klingeltonzeit möglich</li><li>einfacher Betrieb über das Einstecken in eine übliche Wandsteckdose</li></ul><p></p>"
-}

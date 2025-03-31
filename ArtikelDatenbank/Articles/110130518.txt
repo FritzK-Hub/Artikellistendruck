@@ -1,4 +1,0 @@
-{
-    "uvp": 2.95,
-    "attributes": "<ul><li>hochwertiges Buchenholz für den Einsatz als Dübel etc.</li><li>geriffelte Oberfläche für sicheren Halt</li><li>leicht zu bearbeiten</li><li>individuell anpassbar</li><li>für vielseitige DIY- und Handwerksprojekte</li></ul>"
-}

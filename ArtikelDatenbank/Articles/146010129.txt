@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>maximale Sicherheit</li><li>robuste Stahlhaken</li><li>flexible Anwendung</li><li>hohe Stabilität</li><li>zugfest und widerstandsfähig<br/></li></ul>"
-}

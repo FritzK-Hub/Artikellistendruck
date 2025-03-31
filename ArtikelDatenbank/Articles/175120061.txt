@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>hochwertige Stromdüse</li><li>für MIG/MAG Brenner M6</li><li>5er Set</li><li>Ersatzkontaktröhrchen</li><li>einfaches Austauschen der Kontaktröhrchen<br/></li></ul>"
-}

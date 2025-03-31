@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schutzbrille mit mechanischer Festigkeit F</li><li>leichte und offene Ausführung</li><li>kratzfest und schlagfest</li><li>optische Klasse 1</li><li>mit Sicherheit geschützt</li></ul>"
-}

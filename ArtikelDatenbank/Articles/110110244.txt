@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Gartenbesen 30 cm aus Kunststoff mit PP-Borsten</li><li>klauenförmige Borsten für höhere Reinigungswirkung</li><li>rückenschonendes Arbeiten durch Teleskopstiel 130 cm</li><li>kann bei Nichtgebrauch platzsparend zusammengeschoben werden</li><li>universell einsetzbar im Garten, auf der Terrasse oder auf Wegen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>leistungsstarker 4.0 Ah Akku 20 V als Ersatz- oder Zweit-Akku</li><li>ein vielseitiger Akku ob zum Bohren, Sägen oder Schleifen</li><li>integrierter Überspannungsschutz für sicheres Arbeiten <br/></li><li>Batteriestand lässt sich einfach per Knopfdruck anzeigen</li><li>universell für die gesamte Plattform Collection geeignet<br/></li></ul>"
-}

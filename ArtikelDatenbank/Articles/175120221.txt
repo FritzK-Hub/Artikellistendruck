@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>hochwertige Ersatzlötspitze für präzises Löten</li><li>passend für CFH E20 und ähnliche Lötkolben</li><li>flach zulaufende Form für normale Lötarbeiten</li><li>einfacher und schneller Wechsel möglich</li><li>perfekt für Elektronikbastler und Profis</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Universal PutzTeufel, Allzweckreiniger</li><li>reinigt mühelos und schonend </li><li>mit Zitronenduft</li><li>für alle Oberflächen</li><li>einfache Anwendung<br/></li></ul>"
-}

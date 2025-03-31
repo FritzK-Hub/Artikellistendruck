@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Saatgut Pflücksalat Lollo für ca. 2-3 laufende Meter</li><li>mit gekräuselten, roten Blättern versehen</li><li>ideal für den Frischverzehr oder zur Garnierung</li><li>besitzt eine gute Schossfestigkeit</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

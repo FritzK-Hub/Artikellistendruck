@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Fugenkratzer mit praktischem Kunststoffdorn</li><li>mit stabilem Kunststoff-Borsten versehen</li><li>teleskopierbar von 75 bis auf 131 cm </li><li>entfernt problemlos Moos, Gras und den Wildbewuchs in Fugen</li><li>dank Schrägstellung der Borsten passt sich die Bürste der jeweiligen Fugengröße an<br/></li></ul>"
-}

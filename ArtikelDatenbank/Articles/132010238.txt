@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>getrockneter Vogelsand, mit wertvollen natürlichen Zusätzen angereichert</li><li>dient zur Förderung der Verdauung und des Stoffwechsels</li><li>unterstützt zusätzlich den Knochenbau</li><li>trägt wesentlich zum Wohlbefinden deines Vogels bei</li><li>keimfrei und gewaschen, besonders hygienisch</li></ul>"
-}

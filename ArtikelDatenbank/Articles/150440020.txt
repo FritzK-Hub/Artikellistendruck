@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Glas-Wasserkocher mit 1,7 Liter Fassungsvermögen</li><li>erhitzt schnell das Wasser dank 1850-2200 Watt Leistung</li><li>Basisstation mit 360° drehbaren Steckerverbindung</li><li>kabelloser Kocher ist sofort servierbereit</li><li>besitzt eine manuelle oder automatische Abschaltung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Gehäuse aus Aluminiumdruckguss</li><li>mit Schwenk-Befestigungswinkel</li><li>Frontseite mit Sicherheitsglas</li><li>niedriger Energieverbrauch</li><li>lange Lebensdauer der High Power LEDs<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.49,
-    "attributes": "<ul><li>geschmiedeter Sechskantschaft zum Anziehen mit einem Schlüssel</li><li>Bohrung für den Einsatz mit Drehstiften</li><li>6-Kant-Kopf</li><li>2 Abmessungen pro Schlüssel</li><li>Ausführung verchromt, satiniert</li></ul>"
-}

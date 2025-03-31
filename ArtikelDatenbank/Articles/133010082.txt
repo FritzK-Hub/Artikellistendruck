@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>enthält Vitamine wie D3, A, E</li><li>mit fleischiger Füllung</li><li>ohne Zuckerzusatz</li><li>ideal fürs Training</li><li>als Leckerbissen oder als Belohnung für deinen Vierbeiner</li></ul>"
-}

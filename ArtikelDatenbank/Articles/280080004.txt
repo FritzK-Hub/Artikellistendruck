@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Handliches Sprühgerät für Pflanzenschutzmittel, Reiniger, Algen- oder Moosentferner</li><li>große Einfüllöffnung für bequemes Befüllen</li><li>justierbare Messing-Spritzdüse</li><li>Dauerdruck-Funktion</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.95,
-    "attributes": "<ul><li>Schraubendreher aus Chrom-Vanadium-Stahl</li><li>zum Lösen / Befestigen von Schlauchschellen</li><li>speziell für Schlauchschellen konzipiert</li><li>kann universell angewendet werden</li><li>großer, rutschfester Griff für gute Kraftübertragung</li></ul>"
-}

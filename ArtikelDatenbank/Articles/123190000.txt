@@ -1,4 +1,0 @@
-{
-    "uvp": 4.29,
-    "attributes": "<ul><li>luftdurchlässiges Naturmaterial, robust und langlebig<br/></li><li>für Kartoffeln, Zwiebeln oder Äpfel</li><li>auch als Winterschutz für Pflanzen und Sträucher geeignet<br/></li><li>vielfältig in Haus und Garten zu verwenden</li><li>praktisch und kostengünstig<br/></li></ul>"
-}

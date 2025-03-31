@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Schutzbrille aus orangem Kunststoff</li><li>mit Sicherheit geschützt - beim Bohren, Schleifen oder Sägen</li><li>Passform umschließt komplett deine Augen</li><li>mit zusätzlichem UV-Schutz-Filter ausgestattet</li><li>Brille ist auf für Fahrrad- oder Motorradtouren geeignet<br/></li></ul>"
-}

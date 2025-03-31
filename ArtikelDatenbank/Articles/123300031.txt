@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Anzucht-Set mit Deckel und Pflanzbehälter<br/></li><li>ideal zum Vortreiben von Pflanzen und Blumen</li><li>mit integrierten Belüftungslöchern im Deckel</li><li>bietet ausreichend Platz für bis zu 24 Anzuchttöpfe</li><li>ermöglich das Züchten von Pflanzen in jeder Jahreszeit<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>umfangreiches Schlüsselfeilen mit Holzheft</li><li>Set bestehend aus 6 unterschiedliche Feilen</li><li>für die Bearbeitung von Metallen</li><li>liegen gut in der Hand</li><li>ideal für Heimwandwerker oder Profis<br/></li></ul>"
-}

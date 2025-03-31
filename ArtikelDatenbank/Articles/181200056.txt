@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Saatgut Mediteraner Salatvariation, 2 Meter Saatband</li><li>Mischung aromatischer, seltener Salate</li><li>kann wie Schnittsalat geerntet werden</li><li>eine typisch italienische Note</li><li>auch für den Anbau auf dem Balkon geeignet</li></ul>"
-}

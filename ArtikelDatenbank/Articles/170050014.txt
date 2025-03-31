@@ -1,4 +1,0 @@
-{
-    "uvp": 26.1,
-    "attributes": "<ul><li>vielseitig für Umbau- und Renovierungsarbeiten einsetzbar</li><li>zum Schneiden von Gasbeton -, Gipskarton- und Porenbetonplatten</li><li>700 mm Sägelänge und 32 sorgen für eine hohe Abtragleistung</li><li>2-K-Griff garantiert sicheren Halt, für leichte Sägebewegung</li><li>bei Nichtgebrauch platzsparend in der Garage aufhängbar<br/></li></ul>"
-}

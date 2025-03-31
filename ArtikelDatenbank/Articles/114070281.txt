@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>stilvolles Design mit Eichenholz-Optik</li><li>robuster Kunststoffrahmen für lange Lebensdauer</li><li>inklusive Normalglas zum Schutz der Bilder</li><li>einfache Installation mit passenden Aufhängungen</li><li>leichtgewichtig und vielseitig aufhängbar<br/></li></ul>"
-}

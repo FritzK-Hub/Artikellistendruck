@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Raclette für 8 Personen</li><li>antihaftbeschichtete Grillplatte und Pfännchen</li><li>besonders unkomplizierte Zubereitung von Speisen</li><li>120 cm langes Kabel</li><li>große ovale Grillplatte <br/></li></ul>"
-}

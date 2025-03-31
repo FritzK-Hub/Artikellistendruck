@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>Halsband aus Nylon</li><li>geflochten, rund</li><li>reflektierend</li><li>ideal für mittlere bis große Haustiere</li><li>bietet Sicherheit und Tragekomfort</li></ul>"
-}

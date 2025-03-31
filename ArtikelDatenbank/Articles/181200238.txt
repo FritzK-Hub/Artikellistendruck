@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Saatgut Wurzelpetersilie Halblange, für ca. 10–12 lfd. Meter</li><li>Kegelförmige Wurzel mit kräftigem Geschmack</li><li>für Suppen oder zu Garnierung geeignet</li><li>kann auch zum Treiben verwendet werden</li><li>verfügt über eine probefeldgetestete Qualität<br/><br/></li></ul>"
-}

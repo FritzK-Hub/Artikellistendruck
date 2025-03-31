@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Rücken-Halterungsgurt zur Haltungskorrektur für Rücken und Schulter</li><li>passt sich dem Körper an und lässt sich mit der Kleidung verstecken</li><li>im Alltag, beim Sport oder am Arbeitsplatz einsetzbar</li><li>durch leichten Druck wird der Träger erinnert sich bei falscher Haltung wieder aufzurichten</li><li>fördert die Sauerstoffaufnahme und die Muskulatur wird mit mehr Energie versorgt<br/></li></ul>"
-}

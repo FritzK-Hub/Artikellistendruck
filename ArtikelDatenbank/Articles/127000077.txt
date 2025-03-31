@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Stoßscharre aus stabilem Federstahl<br/></li><li>praktischer Helfer für verschiedene Arbeiten</li><li>leichtes Entfernen von Kleber- oder Putzresten durch scharfe Kante</li><li>auch zum Zerbrechen von Eis geeignet</li><li>rückenschonende Arbeit dank langem Holzstiel</li></ul>"
-}

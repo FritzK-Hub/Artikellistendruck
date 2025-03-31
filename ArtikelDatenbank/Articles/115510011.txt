@@ -1,4 +1,0 @@
-{
-    "uvp": 62.99,
-    "attributes": "<ul><li>Fenstergitter Friedberg 940 x 740 mm</li><li>aus stabilem, feuerverzinktem Stahl zum Aufschrauben</li><li>ideal für die Befestigung an z.B. Kellerfenstern</li><li>sicherer und langlebiger Schutz gegen Einbrüche</li><li>ein echter Blickfang dank zeitlosem Design</li></ul>"
-}

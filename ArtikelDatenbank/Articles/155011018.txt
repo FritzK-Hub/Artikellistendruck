@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Permanentmarker 3 Stück im Set</li><li>wasserfest auf fast jedem Material</li><li>Strichstärke 4 mm</li><li>für dauerhafte Beschriftungen</li><li>Farbe schwarz</li></ul>"
-}

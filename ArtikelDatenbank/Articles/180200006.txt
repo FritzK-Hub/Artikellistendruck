@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>stopft undichte Stellen im Kühlsystem</li><li>schützt den Verbrennungsraum</li><li>für alle Kühlsysteme geeignet</li><li>nur 150 ml für 10 Liter Kühlflüssigkeit</li><li>kompatibel mit Veredlern und Frostschutzmitteln<br/></li></ul>"
-}

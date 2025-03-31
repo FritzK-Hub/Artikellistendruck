@@ -1,4 +1,0 @@
-{
-    "uvp": 37.95,
-    "attributes": "<ul><li>Gewehrtasche \"Basic\" von Oakwood</li><li>aus hochwertigem, reissfestem 600D Polyestergarn</li><li>Doppelreißverschluss mit Zahlenschloss</li><li>für den gesetzeskonformen Transport der Waffe</li><li>Innenfutter aus weichem Schaumstoff mit Stoffüberzug</li></ul>"
-}

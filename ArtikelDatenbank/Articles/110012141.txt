@@ -1,4 +1,0 @@
-{
-    "uvp": 16.99,
-    "attributes": "<ul><li>Auslaufventil aus Metall</li><li>matt verchromt</li><li>mit abnehmbarer Schlauchanschluss-Tülle aus Kunststoff für 1/2\" Schlauch</li><li>mit Rohrbelüfter und Rückflussverhinderer</li><li>Spindelventil mit Knebelgriff und Gummidichtung zur stufenlosen Regulierung der Wassermenge<br/></li></ul>"
-}

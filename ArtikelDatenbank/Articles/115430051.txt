@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>bringt Ordnung in die Werkstatt</li><li>langlebige, robuste Metallkonstruktion</li><li>passend für alle handelsüblichen Lochwände</li><li>übersichtliche Aufbewahrung wichtiger Werkzeugen</li><li>für Heimwerker und Profis gleichermaßen geeignet</li></ul>"
-}

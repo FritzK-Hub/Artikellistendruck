@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Fahrradglocke für Kinderfahrräder</li><li>für mehr Sicherheit im Straßenverkehr</li><li>Zweiton-Glocke</li><li>komplett mit Befestigungsmaterial</li><li>Glocke farblich sortiert</li></ul>"
-}

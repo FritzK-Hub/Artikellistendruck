@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schutzbrille speziell für Kinder</li><li>extra leichte Ausführung</li><li>einstellbare Bügel und hoher Tragekomfort</li><li>kratzfest und optische Klasse 1</li><li>mit Sicherheit geschützt</li></ul>"
-}

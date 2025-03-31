@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Stahlseil Typ 7x7 mit Kunststoffummantlung</li><li>ideal für Werkstatt, Haus, Garten und Boot</li><li>der ideale Helfer um rollende Lasten zu sichern und zu transportieren</li><li>verzinktes Drahtseil mit einem Durchmesser von 4 mm</li></ul>"
-}

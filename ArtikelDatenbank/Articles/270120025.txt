@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>zum Entrosten, Reinigen und Aufarbeiten von Flächen</li><li>einspannbar in die Bohrmachine</li></ul><p> </p>"
-}

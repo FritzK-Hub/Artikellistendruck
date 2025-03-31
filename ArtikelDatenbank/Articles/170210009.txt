@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Deko-Tablett aus massivem Sperrholz</li><li>erschafft eine gemütliche Atmosphäre</li><li>lasse die kreativen Ideen freiem Lauf</li><li>schöne Dekoration für deine Wohnräume</li><li>Teelichthalterungen und Deko sind mit inklusive<br/><br/></li></ul>"
-}

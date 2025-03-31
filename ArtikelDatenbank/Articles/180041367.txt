@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>5 Gerätehaken aus Stahl, verzinkt</li><li>schwere Ausführung</li><li>Wandmontage mittels Schrauben</li><li>ideal zum Aufhängen von Gartengeräten mit T-Griff, wie z. B. Spaten</li><li>für Stiele / Griffe mit bis zu 38 mm Durchmesser</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.09,
-    "attributes": "<ul><li>Scharnier quadratisch mit Stift</li><li>aus robustem A2 Edelstahl</li><li>für Schränke, Türbeschläge oder Schwingtüren</li><li>Stahl hat eine dicke von 1,5 mm</li><li>6 Bohrlöcher für zusätzliche Stabilität</li></ul><p><br/></p>"
-}

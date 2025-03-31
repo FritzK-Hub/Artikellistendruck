@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>DecoPro WPC-Imprägnierung für außen</li><li>mit wasser-abperlendem Effekt</li><li>schmutzabweisend, farbauffrischend</li><li>pflegt und schützt gegen Wasser, Schmutz und Gebrauchsspuren</li><li>auch für alle anderen Holz-Kunststoff-Verbundstoffen geeignet<br/></li></ul>"
-}

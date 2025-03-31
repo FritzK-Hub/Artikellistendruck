@@ -1,4 +1,0 @@
-{
-    "uvp": 10.49,
-    "attributes": "<ul><li>Absperrkette von GERMANIA®</li><li>ideal zur Sicherung von Baustellen</li><li>auch zur Absperrung optischen Abgrenzung von Grundstücksgrenzen geeignet</li><li>Sperrkette mit einer Länge von 5 m</li><li>vielfältigste Einsatzmöglichkeiten</li></ul>"
-}

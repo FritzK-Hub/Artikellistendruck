@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>GERMANIA® Schlangenbohrer 230 x 14 mm</li><li>aus legiertem Werkzeugstahl gefertigt</li><li>für alle handelsüblichen Handbohrmaschinen</li><li>mit einer Spiralnut und Gewindespitze versehen</li><li>für Tieflochbohrungen in Weich- und Hartolz<br/></li></ul>"
-}

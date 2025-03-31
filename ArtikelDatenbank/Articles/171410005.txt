@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Abdeckvlies 1 x 25 m, wiederverwendbar und individuell zuschneidbar</li><li>mit rutschhemmende Unterseite versehen</li><li>fester Halt auch auf Treppen und Leitern</li><li>saugfähige Oberseite aus Vlies</li><li>undurchlässige Folienunterseite<br/></li></ul>"
-}

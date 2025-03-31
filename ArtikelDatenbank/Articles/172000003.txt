@@ -1,4 +1,0 @@
-{
-    "uvp": 4.19,
-    "attributes": "<ul><li>Schutzkontakt Aufputz Kombi-Steckdose 2-fach in grau</li><li>aus schlagfestem Kunststoff IP44 hergestellt</li><li>für den Einsatz in Feuchträumen geeignet</li><li>ist mit einem Klappdeckel versehen</li><li>Aufputz-Montage erfolgt waagerecht</li></ul>"
-}

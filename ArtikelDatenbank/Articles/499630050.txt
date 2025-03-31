@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Spanplattenschraube aus A2 Edelstahl</li><li>Teilgewinde für feste Verbindungen von Holzbauteilen</li><li>optimal für den Einsatz im Außenbereich, da rostfrei</li><li>mit Senkkopf für bündige Montage</li><li>geeignet für Vollholzplatten, Spanplatten, Weichhölzer, Sperrholz usw.</li></ul>"
-}

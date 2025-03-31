@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Art: Spannschloss, mit Haken und Öse</li><li>Belastbarkeit: maximal bis ca. 300kg</li><li>Material: Stahl, verzinkt</li></ul>"
-}

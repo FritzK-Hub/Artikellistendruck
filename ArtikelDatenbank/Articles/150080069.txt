@@ -1,4 +1,0 @@
-{
-    "uvp": 106.23,
-    "attributes": "<ul><li>schwere und robuste Ausführung</li><li>ergonomische Kopfstütze</li><li>sechs Rollen, äußerst flexibel<br/></li><li>beidseitig Ablagefächer für Kleinteile<br/></li><li>maximal bis 110 kg belastbar<br/></li></ul>"
-}

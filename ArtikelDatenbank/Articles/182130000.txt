@@ -1,4 +1,0 @@
-{
-    "uvp": 8.29,
-    "attributes": "<ul><li>Fahrrad-Kabelschloss</li><li>hochflexible, breite Ausführung</li><li>nicht spiralisiertes Stahlseil</li><li>inkl. 2 Schlüssel</li><li>für Fahrräder, Motorroller oder universell einsetzbar</li></ul>"
-}

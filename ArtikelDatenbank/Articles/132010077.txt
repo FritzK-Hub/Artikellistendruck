@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>cremefabiger Fellpflegehandschuh mit weichen Kunststoff-Noppen</li><li>dient zur Fellpflege von Katzen, Kaninchen und Hunden</li><li>befreit massierend das Fell von abgestorbenen Haaren und Staub</li><li>sorgt für ein gepflegteres Aussehen des Tieres</li><li>regt zusätzlich die Durchblutung an<br/></li></ul>"
-}

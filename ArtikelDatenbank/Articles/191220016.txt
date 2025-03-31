@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Grillmatten-Set bestehend aus 3 Matten in schwarz</li><li>für die Zubereitung von Lebensmittel auf dem Grill</li><li>auch für das Backblech, anstelle des Backpapiers</li><li>nach Gebrauch ist die Matte einfach zu reinigen</li><li>wiederverwendbar und antihaftbeschichtet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>individuell, je nach Kopfform, durch verstellbaren Innenringsystems anpassbar</li><li>Innenschale aus festem EPS, für optimale Dämpfung und Schutz des Kopfes</li><li>integriertes LED-Rücklicht sorgt für bessere Sichtbarkeit im Straßenverkehr</li><li>20 Lufteinlässe mit Insektengitter bieten ausreichende Belüftung</li><li>vielseitig zum Inlineskaten, Skateboarden oder für Radtouren einsetzbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Zubehör zum Stoppen der Gardinen oder Vorhänge an der gewünschten Stelle </li><li>besonders stabil und langlebig, aus robustem Kunststoff gefertigt</li><li>verhindert ein ungewolltes Verrutschen oder sichtbare Lücken</li><li>einfach und simpel, Stopper in den Innenlauf der Vorhangschiene einsetzen und per Drehung befestigen</li><li>schlichtes und unauffälliges Design, vielseitig in jeder Raumgestaltung einsetzbar<br/></li></ul>"
-}

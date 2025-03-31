@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Koriander Marino für ca. 150 Pflanzen</li><li>Gewürz mit mildem orangenähnlichem Aroma</li><li>beliebtes Gewürz in indischer und asiatischer Küche</li><li>wirkt magenstärkend sowie appetitanregend</li><li>verfügt über eine probefeldgetestete Qualität</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Reservekanister kombiniert für Benzin und Öl</li><li>für die Reservehaltung und den Transport von Ottokraftstoffen und Motorölen geeignet</li><li>ideal als Reservekanister für 2-Takt-Motoren</li><li>fest angebrachte Schraubverschlüsse</li><li>mit zwei Einfüllöffnungen und separatem Einfüllrohr<br/></li></ul>"
-}

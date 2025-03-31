@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>PVC-Klebeband zum Isolieren</li><li>auch zum Bündeln oder Befestigen von Kabeln</li><li>schwer entflammbar</li><li>6 Rollen in Schwarz, Weiß und Gelb</li><li>bewahren Kabelmäntel vor Beschädigungen</li></ul>"
-}

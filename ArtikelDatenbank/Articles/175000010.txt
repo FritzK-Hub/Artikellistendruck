@@ -1,4 +1,0 @@
-{
-    "uvp": 1699.0,
-    "attributes": "<ul><li>Kaminofen RHEA mit Sandstein-Verkleidung</li><li>Feuerraumverkleidung aus Vermiculite</li><li>mit robustem Gussrost</li><li>Luftzufuhr regulieren über gut erreichbare Schieber</li><li>Rauchrohranschluss oben oder hinten möglich</li></ul>"
-}

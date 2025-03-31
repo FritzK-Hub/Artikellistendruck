@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>flexibel einsetzbar als Rollbrett und Hocker</li><li>stabile Bauweise für langlebigen Einsatz</li><li>schneller Umbau ohne Werkzeugaufwand</li><li>hohe Mobilität durch drehbare Räder</li><li>robust mit hoher Belastbarkeit</li></ul>"
-}

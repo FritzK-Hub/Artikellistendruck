@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>30 Trinkhalme aus Papier</li><li>Schwarz und Weiß gemischt</li><li>lösen sich nicht auf</li><li>100% biologisch abbaubar</li><li>breite Strohhalme, perfekt für Cocktails</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Kreuzschalter Maranello ultraweiß</li><li>ist aus robustem Kunststoff gefertigt</li><li>um mehrere Schalterstellen gleichzeitig zu nutzen</li><li>in Fluren oder im Keller einsetzbar</li><li>die Steckklemmen sind mit inklusive</li></ul>"
-}

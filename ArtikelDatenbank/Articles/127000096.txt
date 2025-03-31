@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Friedhofsgerät 2 in 1 in orange</li><li>aus pulverbeschichtetem Metall gefertigt</li><li>für den Einsatz zur Grabpflege oder im Garten</li><li>der Rechen ist mit 5 Zinken versehen </li><li>die Spatenseite besitzt eine Arbeitsbreite von 58 mm<br/></li></ul>"
-}

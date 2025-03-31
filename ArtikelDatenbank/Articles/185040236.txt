@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Geschenkband aus Kunstfaser</li><li>helles Band mit silberfarbenem Dekor</li><li>verschiedene Dekore zur Auswahl</li><li>dekoratives Geschenkband für verschiedene Anlässe</li><li>universell einsetzbar</li></ul>"
-}

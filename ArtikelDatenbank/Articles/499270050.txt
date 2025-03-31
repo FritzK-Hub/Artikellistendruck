@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Bohrschraube galvanisch verzinkt</li><li>Sechskant-Kopf mit Bund</li><li>gewindefurchende Trapez-Blechschraube</li><li>Elastomer-Dichtscheibe</li><li>mit Bohrspitze</li></ul>"
-}

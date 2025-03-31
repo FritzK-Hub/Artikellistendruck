@@ -1,4 +1,0 @@
-{
-    "uvp": 1199.0,
-    "attributes": "<ul><li>1166,4 Wh Akku-Kapazität für langanhaltende Stromversorgung</li><li>mehrere Lademöglichkeiten, einschließlich Netzteil und Solarmodule, für flexible Aufladung deiner Powerstation</li><li>Li-Ionen-Akku mit über 1000 Ladezyklen für eine langfristige Nutzung</li><li>1000 W AC-Ausgang zum direkten Anschluss verschiedenster Geräte</li><li>kompaktes und tragbares Design für einfachen Transport</li></ul><p></p>"
-}

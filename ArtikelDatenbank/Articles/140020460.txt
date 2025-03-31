@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>hochwertiger Kunststoff</li><li>zum Stricken mit dicker Wolle</li><li>glatte Oberfläche</li><li>vielseitige Anwendung</li><li>robusten Konstruktion<br/></li></ul>"
-}

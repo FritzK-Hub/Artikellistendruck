@@ -1,4 +1,0 @@
-{
-    "uvp": 8.19,
-    "attributes": "<ul><li>zur inneren und äußeren Reinigung der PUR Schaumpistole</li><li>entfernt rückstandsfrei frische Schaumflecken</li><li>einfache Handhabung über einen abgestimmten Adapter</li><li>kompatibel mit den meisten Verarbeitungspistolen</li><li>hochwirksam und sparsam in der Anwendung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 14.51,
-    "attributes": "<ul><li>Messing-Schließzylinder 80 mm </li><li>von innen und außen abschließbar</li><li>Schließzylinder von außen nicht schließbar, wenn innen Schlüssel steckt</li><li>für die Haus- Eingangstür oder der Garage</li><li>inklusive 5 Schlüssel und Befestigungsschraube<br/></li></ul>"
-}

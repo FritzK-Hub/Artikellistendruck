@@ -1,4 +1,0 @@
-{
-    "uvp": 799.9,
-    "attributes": "<ul><li>Gewächshaus Venus mit 5 m² von Vitavia</li><li>Hohlkammerplatten aus 4 mm UV-stabilisiertem Polycarbonat</li><li>schönes, zeitloses Design und einem leichten Stil,</li><li>1 Fenster und leichtgängige, kugelgelagerte Schiebetür</li><li>inklusive Stahlfundamentrahmen</li></ul><p></p>"
-}

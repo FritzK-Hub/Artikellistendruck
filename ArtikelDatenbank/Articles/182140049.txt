@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>Minipumpe mit Doppelhub-Funktion</li><li>inkl. Manometer und ergonomischem 2-Komponentengriff</li><li>passend für alle gängigen Ventilarten</li><li>mit Feststellhebel für einfacheres Pumpen</li><li>Rahmenpumpe mit Schnellverschluss</li></ul>"
-}

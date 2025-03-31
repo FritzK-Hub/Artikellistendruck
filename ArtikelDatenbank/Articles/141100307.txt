@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>für verschiedenen Untergründe</li><li>kurze Verarbeitungszeit</li><li>Innen- und Außenbereich geeignet</li><li>für keramische Fliesen- und Plattenbeläge</li><li>hohe Flexibilität und Zuverlässigkeit</li></ul><div><br/></div>"
-}

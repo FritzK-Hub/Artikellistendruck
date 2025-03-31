@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Geruchsneutraler Brennstoff</li><li>für Ethanol-Feuerstellen</li><li>mit geprüftem Kindersicherheitsverschluss</li><li>verbrennt rauchfrei</li><li>idealer Brennstoff für Fondue oder Camping</li></ul><p><br/></p>"
-}

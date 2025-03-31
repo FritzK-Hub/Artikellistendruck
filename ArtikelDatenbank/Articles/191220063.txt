@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Grillbesteck-Set 3-teilig </li><li>aus rostfreiem Stahl gefertigt</li><li>bestehend aus Grillzange, Grillgabel und Grillwender</li><li>erleichtert Zubereitung und Servieren</li><li>bei Nichtgebrauch platzsparend aufhängbar<br/></li></ul>"
-}

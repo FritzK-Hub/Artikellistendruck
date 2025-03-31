@@ -1,4 +1,0 @@
-{
-    "uvp": 0.59,
-    "attributes": "<ul><li>Saatgut Anis für ca. 7-8 laufende Meter</li><li>einjähriges Gewürz mit süßlichem Aroma</li><li>zum Verfeinern von Salaten oder Kleingebäck</li><li>ein Teeaufguss wirkt gegen Verdauungsstörungen</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>polierter und geschliffenener Kopf</li><li>C45- Werkzeugstahl</li><li>hochwertiger Eschenstiel</li><li>zum Aufheben und Transportieren von kleineren Holz- und Baumstücken</li><li>für ergonomisches, rückenschonendes Arbeiten</li></ul>"
-}

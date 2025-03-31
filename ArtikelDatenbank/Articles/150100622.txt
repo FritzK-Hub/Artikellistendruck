@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>garantiert einen sicheren Transport, maximale Belastbarkeit bis 800 kg</li><li>einfache Handhabung dank Ring und Feder</li><li>robuste und langlebige Konstruktion, aus verzinktem Stahl</li><li>zum versenkten Einbau in Bodenplatte konzipiert</li><li>schnelle und einfache Montage mittels Schrauben<br/></li></ul>"
-}

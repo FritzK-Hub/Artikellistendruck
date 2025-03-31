@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Tomatenhaube zum einfachen Aufstellen dank stabiler Konstruktion</li><li>mobiles Gewächshaus für flexible Anwendung</li><li>Tomatenanzucht ultimativ geschützt vor Wettereinflüssen</li><li>lang anhaltende Ernte bis November</li><li>hochwertige Qualität, made in Germany<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Pflanzgefäß Tubus Ø 30 cm für innen und außen</li><li>aus hochwertigem Kunststoff in Beton-Optik gefertigt</li><li>UV-beständig, witterungsbeständig und stoßfest</li><li>runder Blumentopf im modernen Design</li><li>fügt sich in jedem Raum und Garten gut ein<br/></li></ul>"
-}

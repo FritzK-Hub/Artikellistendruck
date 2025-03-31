@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>aus strapazierfähigem Teppichgewebe gefertigt</li><li>für weniger Schmutz in Fußbereich deines Autos</li><li>für fast alle gängigen Fahrzeuge geeignet</li><li>rauhe Schicht auf der Rückseite verhindert ungewolltes Verrutschen</li><li>lässt sich einfach reinigen, auch mit Hochdruckreiniger möglich</li></ul>"
-}

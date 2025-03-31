@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>240 mm Länge für komfortable Handhabung bei anspruchsvollen Arbeiten</li><li>erhöhte Sicherheit durch 2-Komponenten-Handschutzisolierung</li><li>ermöglicht präzises und sauberes Schneiden</li><li>schneidet Kabelstärken bis zu 25 mm</li><li>rot-schwarze Farbgebung</li></ul>"
-}

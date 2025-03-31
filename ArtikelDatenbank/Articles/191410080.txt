@@ -1,4 +1,0 @@
-{
-    "uvp": 599.95,
-    "attributes": "<ul><li>Stand-up-Paddleboard-Set Carbon mit Kajaksitz-Option</li><li>für Einsteiger und Fortgeschrittene</li><li>Allround-Board mit besonderer DRHD Stringer-Technologie</li><li>verfügt über eine Belastbarkeit von bis zu 180 kg </li><li>inklusive Pumpe, Aluminium-Paddel, Fußschlaufe, Rucksack und Adapter<br/></li></ul>"
-}

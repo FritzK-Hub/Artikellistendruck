@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Rasensprenger aus stabilem Kunststoff</li><li>ideales Zubehör für die Gartenbewässerung</li><li>für Rasenflächen von 110 – 230 m² geeignet</li><li>der Flächenregner ist mit 17 Düsen versehen</li><li>Anschluss erfolgt mittels 1/2\" Standardschlauchkupplung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>klassischer Möbelgriff</li><li>für Schrank und Schubladen</li><li>aus Metall gefertigt</li><li>mit Befestigungsmaterial geliefert</li><li>verschönert jeden Wohnbereich<br/></li></ul>"
-}

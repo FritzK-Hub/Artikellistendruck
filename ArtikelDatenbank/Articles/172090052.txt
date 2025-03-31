@@ -1,4 +1,0 @@
-{
-    "uvp": 199.99,
-    "attributes": "<div class=\"bs-col-md-3 bs-hidden-xs bs-hidden-sm mtop_mittel\"> <ul><li> Monitor für Link2Home Türsprechanlagen </li><li> Audio- und Videoübertragung von den Türsprechanlagen<br/></li><li> Verbindung über WLAN oder LAN möglich </li><li> mit Aufnahmefunktion auf Micro-SD Karten </li><li> inklusive USB Anschluss für Datenaustausch</li></ul></div><p></p>"
-}

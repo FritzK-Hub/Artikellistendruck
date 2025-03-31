@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Reduzierringe für Kreissägeblätter</li><li>4 verschiedene Größen im Set</li><li>einfache Anwendung</li><li>genaue Passform</li><li>korrekter und sicherer Sitz des Kreissägeblattes</li></ul>"
-}

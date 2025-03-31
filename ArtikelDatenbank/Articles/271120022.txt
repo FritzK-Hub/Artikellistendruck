@@ -1,4 +1,0 @@
-{
-    "uvp": 31.95,
-    "attributes": "<ul><li>Länge: 460 mm</li><li>Durchmesser: 30 mm</li><li>Spiralnut</li><li>Gewindespitze</li><li>für Weich- und Hartholz</li><li>weiteres Werkzeug von <strong><em>GERMANIA®</em> </strong>finden Sie in unserem Shop!</li></ul>"
-}

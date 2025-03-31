@@ -1,4 +1,0 @@
-{
-    "uvp": 11.69,
-    "attributes": "<ul><li>Kleiderstange 840 mm aus Stahl, verchromt gefertigt</li><li>schafft zusätzlichen Platz für deine Kleiderbügel in deinem Schranksystem</li><li>zum Einhängen in Wandschienen oder für direkte Wandmontage geeignet</li><li>kann bei Bedarf mit einer Metallsäge gekürzt werden</li><li>ist besonders stark belastbar<br/></li></ul>"
-}

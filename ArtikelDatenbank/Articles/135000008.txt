@@ -1,4 +1,0 @@
-{
-    "uvp": 67.99,
-    "attributes": "<ul><li>vielseitig einsetzbar bei Elektronik, Modellbau, Feinmechanik</li><li>Effizienz durch schnelle Aufheizzeit <br/></li><li>benutzerfreundlich mit werkeuglosem Lötspitzenwechsel</li><li>energiesparend durch integrierte Standby- und Sleep-Funktion</li><li>Komplett-Set - alles für präzises Löten enthalten</li></ul>"
-}

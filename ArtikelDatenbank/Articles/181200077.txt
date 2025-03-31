@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>70 Liter Pinienrinde im Sack</li><li>mit grober Siebung von 16 bis 25 mm</li><li>schützt vor Kälte und Frost</li><li>für alle Gärten geeignet</li><li>dekoratives Abdeckmaterial für Pflanzen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Funkenschutzgitter zum Schutz vor herumfliegenden Funken</li><li>drei Standfüße für einen sicheren und stabilen Stand des Kamins</li><li>gute Wärmeleistung auch für kühle Abende geeignet</li><li>hochwertiges Material (lackiertes Eisen, feuerfest) und sorgfältige Verarbeitung</li><li>perfekt für Gartenpartys, gemütliche Abende auf der Terrasse oder als zusätzliche Wärmequelle<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 16.95,
-    "attributes": "<ul><li>    einfache Anwendung ohne zusätzliches Werkzeug</li><li>punktgenaues Sprühen für präzise Ergebnisse</li><li>haftet auf einer Vielzahl von Untergründen    </li><li>kälte-, hitze-, salz- und wasserbeständig für eine lange Haltbarkeit</li><li>ideal für die schnelle und effektive Abdichtung im Außenbereich</li></ul>"
-}

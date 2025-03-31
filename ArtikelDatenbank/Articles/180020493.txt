@@ -1,4 +1,0 @@
-{
-    "uvp": 14.19,
-    "attributes": "<ul><li>ermöglicht die Verbindung von zwei Gartenschläuchen mit einem </li><li>Wasserhahn</li><li>besonders langlebig und robust, aus stabilem Kunststoff gefertigt</li><li>eignet sich für unterschiedliche Schläuche mit 1/2“ Anschluss</li><li>durch schrägen Abstand können auch Bewässerungscomputer angeschlossen werden</li><li>Ausgänge kann unabhängig voneinander reguliert und abgesperrt werden<br/></li></ul>"
-}

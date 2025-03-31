@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>60 Kaffeetassen mit Henkel</li><li>lebensmittelecht</li><li>die ideale Tasse für eine Party<br/></li><li>praktisch und hygienisch</li><li>ggf. auch mehrfach verwendbar</li></ul>"
-}

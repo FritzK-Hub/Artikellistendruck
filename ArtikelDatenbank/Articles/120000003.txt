@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>50 Liter Universal-Blumenerde</li><li>mit exklusiver Rezeptur</li><li>optimierte Wasseraufnahme</li><li>12 Wochen Nährstoffversorgung</li><li>mit natürlichen Atmungsflocken</li></ul>"
-}

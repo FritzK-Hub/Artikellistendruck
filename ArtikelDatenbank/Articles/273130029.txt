@@ -1,4 +1,0 @@
-{
-    "uvp": 16.7,
-    "attributes": "<ul><li>umfangreiches Werkzeug-Set aus massivem CrV-Stahl</li><li>beinhaltet acht verschiedene Gabel-Ringmaulschlüssel von 8 – 19 mm</li><li>zur Anwendung von metrischen oder zölligen Schrauben</li><li>ideal für jeden Handwerker egal ob Anfänger oder Profi</li><li>lange Lebensdauer im täglichen Werkstatteinsatz<br/></li></ul>"
-}

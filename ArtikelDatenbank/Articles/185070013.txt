@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Schneeschaufel 47 cm aus verstärktem Kunststoff</li><li>komfortabler Halt trotz Handschuhe dank Kunststoffgriff (D-Griff)</li><li>hohe Langlebigkeit dank verstärktem, großem Schaufelblattes aus Kunststoff</li><li>leichtes Räumen und bequemes Arbeiten durch die scharfe Metallkante</li><li>rückenschonende Arbeit dank 126 cm Buchenholzstiel<br/></li></ul>"
-}

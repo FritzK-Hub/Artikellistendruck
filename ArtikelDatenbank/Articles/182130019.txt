@@ -1,4 +1,0 @@
-{
-    "uvp": 25.99,
-    "attributes": "<ul><li>sehr sicheres Schloss für Fahrräder, E-Bikes oder Motorroller</li><li>höherer Schutz dank Panzerseil mit Gelenkkapseln aus Spezialstahl</li><li>einfach zu transportieren und kann bequem auf Fahrrad oder Roller mitgenommen werden</li><li>Schließmechanismus befindet sich an der Unterseite, ist einfach zu bedienen</li><li>wird mit Klettband zur individuellen Befestigung am Fahrrad und zwei Schlüsseln geliefert<br/></li></ul>"
-}

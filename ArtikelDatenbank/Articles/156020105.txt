@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Plattpinsel mit gebogenem Pinselkopf</li><li>bestens geeignet für schwer zugängliche Stellen, Kanten</li><li>gute Farbaufnahme und Abgabe</li><li>langer und stabiler Holzstiel</li><li>bestens geeignet für alle Lacke</li></ul>"
-}

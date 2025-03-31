@@ -1,4 +1,0 @@
-{
-    "uvp": 34.99,
-    "attributes": "<ul><li>Rauchmelder in weiß mit Batteriebetrieb </li><li>keine elektrische Installation notwendig</li><li>extralauter Warnton 85 dB, Testknopf für regelmäßige Funktionsprüfung</li><li>Optische und akustische Alarmmeldung</li><li>integrierter Wärmesensor für Brände mit geringer Rauchentwicklung</li></ul>"
-}

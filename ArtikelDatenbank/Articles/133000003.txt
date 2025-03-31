@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>10-teiliger Holzbohrersatz </li><li>mit 9 Holzbohrern in 6 Größen<br/></li><li>Bohrer geeignet für Holzmaterialien</li><li>inklusive Bohrhilfe</li><li>für Profis und Hobbyheimwerker</li></ul>"
-}

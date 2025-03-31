@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Blumenzwiebeln Goldlauch Allium Moly</li><li>sind pflegeleichte und dekorative Frühjahrsblüher</li><li>essbare Blüten mit mildem Knoblauchgeschmack</li><li>ideal zum Verfeinern von verschiedenen Salaten</li><li>in Kombination für farbige Blütenpracht</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>passendes Katzenspielzeug zum Herumhüpfen</li><li>besonders robust, aus stabilem Kunststoff gefertigt</li><li>weckt den natürlichen Jagdtrieb deiner Katze</li><li>fördert die Neugierde und steigert die Aktivität des Tieres</li><li>toller Zeitvertreib für Katzen und interaktives Spiel mit dem Besitzer</li></ul>"
-}

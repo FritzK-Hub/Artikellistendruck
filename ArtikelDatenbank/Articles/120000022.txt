@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>20 Liter Bio Anzucht- und Blumenerde, torfreduziert</li><li>zur Aussaat und Aufzucht von Jungpglanzen</li><li>mit Quarzsand für eine optimale Wasserführung</li><li>Pflanzenerde mit nachwachsenden Rohstoffen</li><li>zum Wachsen, Blühen, Ernten und Schützen</li></ul>"
-}

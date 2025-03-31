@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Exzenter Ø 19 mm ohne Rand</li><li>mit Kreuzschlitz-Antrieb versehen</li><li>Möbelverbinder zum Eindrehen</li><li>Eindrehmutter mit vernickelter Oberfläche</li><li>besonders einfach in der Anwendung<br/></li></ul>"
-}

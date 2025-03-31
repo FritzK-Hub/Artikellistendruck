@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Schraubhaken mit Schlitz aus verzinktem Stahl</li><li>gerade Form, mit 90°-Winkel</li><li>zum Aufhängen schwerer Gegenstände</li><li>belastbarer als herkömmliche Haken</li><li>auch für normales Mauerwerk geeignet<br/><br/></li></ul>"
-}

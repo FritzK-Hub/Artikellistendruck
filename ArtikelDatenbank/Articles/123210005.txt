@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>Untergrundfolie 5 x 2 m</li><li>deckt 10 m² Fläche ab</li><li>atmungaktive Bodeabdeckung</li><li>bremst Wurzeln und Unkraut</li><li>perfekt zum Anlegen von Steingärten</li></ul>"
-}

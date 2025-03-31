@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Schlauch für Schubkarrenrad</li><li>mit geradem Ventil</li><li>Schlauch aus Gummi, PAK-frei</li><li>ideal als Ersatzschlauch<br/></li><li>passend für Schubkarrenräder 350 mm<br/></li></ul>"
-}

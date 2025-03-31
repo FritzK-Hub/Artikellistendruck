@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>gleichmäßige Aussaat dank Saatband-Ausführung</li><li>vitaminreiches Gemüse für Herbst und Winter</li><li>hohe Erträge bei minimalem Pflegeaufwand</li><li>wächst zuverlässig auf fast allen Böden</li><li>perfekt für gesunde, saisonale Ernährung</li></ul>"
-}

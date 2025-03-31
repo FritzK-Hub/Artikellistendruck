@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>beidseitig schließbarer Profilzylinder</li><li>optimale Sicherheit für dein Zuhause </li><li>robust und manipulationssicher</li><li>5 Schlüssel sind im Lieferumfang enthalten</li><li>einfache Installation, inklusive Befestigungsschraube<br/></li></ul>"
-}

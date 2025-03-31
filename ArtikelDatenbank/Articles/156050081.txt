@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Teleskopstab aus pulverbeschichtetem Stahl</li><li>ideal als Verlängerung für Farbroller</li><li>Stiel bis maximal 200 cm ausziehbar</li><li>universell, vielseitig einsetzbar</li><li>mit eingekerbten Aufnahmenrand</li></ul>"
-}

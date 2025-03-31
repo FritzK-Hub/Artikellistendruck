@@ -1,4 +1,0 @@
-{
-    "uvp": 84.95,
-    "attributes": "<ul> <li>abnehmbares Schnellspannbohrfutter + 1/4\" Sechskantfutter</li> <li>2 Gang-Getriebe zum kraftvollen Schrauben und schnellem Bohren</li> <li>10 mm Schnellspannbohrfutter + 1/4\" Sechskantfutter</li> <li>dosierbare Dreizahlregelelektronik  zum gefühlvollen Arbeiten</li> <li>ergonomischer Soft-Griff für bequemes Arbeiten</li></ul>"
-}

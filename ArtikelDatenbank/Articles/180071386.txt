@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>vielseitig einsetzbare Grabvase </li><li>dekorativer Grabschmuck zu jeder Jahreszeit</li><li>ideal geeignet für Einzelblumen oder Sträuße</li><li>aus leichtem, wetterfestem Kunststoff</li><li>Erspieß sorgt für sicheren Halt<br/></li></ul>"
-}

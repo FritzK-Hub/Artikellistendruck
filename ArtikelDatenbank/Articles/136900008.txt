@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>umfangreiches Nagel-Set 1000-teilig</li><li>zum Nachfüllen von gängigen Elektro- und Handtacker</li><li>passend für kleinere Reparaturen oder Montagearbeiten</li><li>auch zum Bespannen von Leinwand oder zur Gestalten von Dekorationen</li><li>für den universellen Einsatz im Haushalt- und Hobbybereich</li></ul>"
-}

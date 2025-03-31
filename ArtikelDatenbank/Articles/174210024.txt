@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>hochwertiges Edelstahlmaterial</li><li>elegante schwarze Oberfläche</li><li>hohe Langlebigkeit und Zuverlässigkeit</li><li>flexibel und einfach zu handhaben</li><li>einfache Montage und Reinigung<br/></li></ul>"
-}

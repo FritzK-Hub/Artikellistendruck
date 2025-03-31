@@ -1,4 +1,0 @@
-{
-    "uvp": 9.59,
-    "attributes": "<ul><li>praktische Aufschraubhülse aus robustem Stahl</li><li>ideal geeignet für Mittel- oder Eckpfosten</li><li>schnell und einfach montiert</li><li>wird direkt auf den Untergrund aufschraubt</li><li>widerstandsfähig und witterungsbeständig<br/></li></ul>"
-}

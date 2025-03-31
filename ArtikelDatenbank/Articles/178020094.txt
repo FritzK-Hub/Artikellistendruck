@@ -1,4 +1,0 @@
-{
-    "uvp": 3.19,
-    "attributes": "<ul><li>Taschen-Wasserwaage aus Kunststoff</li><li>mit Horizontal- und Vertikallibelle</li><li>inkl. Magnetschiene</li><li>praktisch und handlich</li><li>Wasserwaage mit Anhänge-Kette</li></ul>"
-}

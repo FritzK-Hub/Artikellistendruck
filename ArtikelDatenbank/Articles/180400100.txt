@@ -1,4 +1,0 @@
-{
-    "uvp": 59.99,
-    "attributes": "<ul><li>drehbares Display für beste Sichtverhältnisse</li><li>flexibler Schlauch erreicht schwer zugängliche Bereiche</li><li>praktische Aufsätze für vielseitige Anwendungen</li><li>robustes Design mit IP67-Schutzklasse</li><li>8 MB Speicher zur Dokumentationen</li></ul>"
-}

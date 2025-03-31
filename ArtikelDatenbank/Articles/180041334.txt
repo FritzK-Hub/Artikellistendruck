@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Grubber mit 3 Zinken</li><li>1 versetzter Zinken</li><li>mit Kunststoffgriff</li><li>zum Lockern des Bodens</li></ul>"
-}

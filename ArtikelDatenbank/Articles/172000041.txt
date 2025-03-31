@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Serienschalter Maranello ultraweiß</li><li>aus robustem Kunststoff gefertigt</li><li>zum An- und Ausschalter zweier Stromquellen</li><li>für den Innenbereich</li><li>die Steckklemmen sind inklusive</li></ul>"
-}

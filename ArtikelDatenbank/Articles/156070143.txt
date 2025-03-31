@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Farbroller für Lackierungen</li><li>für alle Lacke und glatte Untergründe</li><li>gutes Oberflächenfinish</li><li>beflockte Walze, beidseitig rollend</li><li>Lackierrolle in beidseitig runder Ausführung</li></ul>"
-}

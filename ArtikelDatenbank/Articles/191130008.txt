@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Filterbälle für Filteranlage</li><li>bieten eine sehr gute Wasserdurchlässigkeit und Atmungsaktivität</li><li>enthalten keine giftigen oder gesundheitsschädlichen Stoffe</li><li>für alle handelsüblichen Sandfilteranlagen geeignet</li><li>500 g Filterkugeln entsprechen 18 kg Filtersand<br/><br/></li></ul>"
-}

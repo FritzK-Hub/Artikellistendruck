@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>realistische Funktionen wie bei echten Werkzeugen</li><li>LED-Anzeige für authentisches Spielgefühl</li><li>Batterieeinheit universell für Einhell KIDS-Werkzeuge</li><li>fördert handwerkliche Fähigkeiten spielerisch</li><li>robustes, sicheres Design für Kinder ab 3 Jahren</li></ul>"
-}

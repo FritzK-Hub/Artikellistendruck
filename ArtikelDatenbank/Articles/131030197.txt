@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>universal Essigreiniger</li><li>Inhalt: ca. 1000 ml</li><li>für alle Oberflächen</li></ul><div class=\"spb--product-details mtop_mittel\"><ul><li>reinigt und entfernt Kalk- und Wasserflecken</li><li>starke Reinigungskraft<br/></li></ul></div>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>FISHBULL Motorenöl 5W-40, 5 Liter Kanister</li><li>auf Basis von HC-Syntheseöl hergestellt</li><li>Hochleistungs-Motorenöl mit weitem Einsatzbereich</li><li>ausgesuchte Grundöle</li><li>moderne Additive für hohes Leistungsniveau</li></ul>"
-}

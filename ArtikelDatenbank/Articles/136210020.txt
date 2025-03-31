@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>umfangreiches Schraubendreher-Set 6-teilig aus CRV-Stahl</li><li>Set beinhaltet verschiedene Kreuzschlitz- und Flachschraubendreher</li><li>abgeflachte Kanten verhindern das Wegrollen</li><li>ideal für jeden Handwerker egal ob Anfänger oder Profi</li><li>integrierter Mehrkomponentengriff für festen Halt</li></ul>"
-}

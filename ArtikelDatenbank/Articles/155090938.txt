@@ -1,4 +1,0 @@
-{
-    "uvp": 13.68,
-    "attributes": "<ul><li>Serienschalter für Unterputz-Montage</li><li>mit Dichtmanschette aus Kunststoff Schutzklasse IP44 - für Feuchträume geeignet </li><li>klassisches Design mit hochglänzender weißer Oberfläche</li><li>ermöglicht z. B. das unabhängige ein- und Ausschalten von zwei Stromverbrauchern</li><li>nur in Kombination mit Rahmen der Serie AquaKombi zu verwenden</li></ul>"
-}

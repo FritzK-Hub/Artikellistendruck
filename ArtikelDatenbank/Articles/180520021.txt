@@ -1,4 +1,0 @@
-{
-    "uvp": 12.49,
-    "attributes": "<ul><li>aerodynamische Form, liegt perfekt auf der Scheibe</li><li>gleichmäßige Wischleistung und streifenfreies Ergebnis</li><li>integrierte Spoiler bieten optimalen Anpressdruck</li><li>bis zu 40 % längere Lebensdauer als Standard-Wischblätter</li><li>überzeugt mit geringer Geräuschentwicklung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>Winkelschleifer 230mm</li><li>drehbarer Handgriff</li><li>Metallgetriebekopf</li><li>Scheibenschutz-Schnellverstellung</li><li>Zusatzhandgriff in 3 Positionen montierbar</li><li>Spindelarretierung</li></ul>"
-}

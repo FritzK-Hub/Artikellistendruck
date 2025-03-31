@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>5-teiliger Holzbohrersatz aus hochwertigem CV Stahl</li><li>Bohrer geeignet für Holzmaterialien</li><li>große Stabilität und Festigkeit</li><li>für professionelle und Hobbyheimwerker</li><li>in stabiler Kunststoffbox<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Lackierwalze mit sehr saugfähigem, tropfarmem Mikrofaserbezug  </li><li>sehr gute Farbaufnahme und -abgabe, dadurch hohe Reichweite</li><li>geeignet für wasser- und lösemittelhaltige Lacke<br/></li><li>glatte und leicht strukturierte Untergründe</li><li>bester Farbauftrag<br/></li></ul>"
-}

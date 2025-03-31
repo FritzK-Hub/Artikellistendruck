@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul> <li> <div>2-Wege Verteilerstück aus Messing</div> </li> <li> <div>mit 2 Kugel-Absperrhähnen</div> </li> <li> <div>3/4\" Überwurfmutter zur Installation an Wasserhahn oder Rohrleitung</div> </li> <li> <div>2 Außengewinde 3/4\" zum Anschluss von Verbindungsstücken und Leitungen</div> </li> <li> <div>Ausgänge unabhängig voneinander stufenlos regulierbar</div> </li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>BGS® T10 Bit-Einsatz mit Rändelung</li><li>aus hochwertigem Chrom-Vanadium-Stahl</li><li>geeignet für alle gängigen 1/4\" Umschaltknarren</li><li>mit Kordierung und ohne Bohrung</li><li>zum Befestigen von T-Profil Schrauben</li></ul>"
-}

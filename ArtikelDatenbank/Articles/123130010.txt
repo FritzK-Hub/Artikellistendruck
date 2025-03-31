@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Sackkarre mit 150 kg Traglast und massivem Stahlrohrgestell</li><li>ideal für Verladearbeiten, Umzüge, Lieferungen einsetzbar</li><li>für den anspruchsvollen Heimwerker im Haus oder im Garten</li><li>einfachere Handhabung dank nützlichen Handschutzbügel</li><li>zusätzliche Sicherheit der Gegenstände durch Radschutz<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>HSS Spiralbohrer poliert und geschliffen</li><li>Bohrer geeignet für Gußmetall, NE-Metall, Kunststoff, Eisen, Stahl</li><li>Metallbohrer in hoher Qualität, große Stabilität und Festigkeit</li><li>Stahlbohrer für professionelle und Hobbyheimwerker</li></ul>"
-}

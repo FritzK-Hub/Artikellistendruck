@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>ECO-Handbrause aus verchromtem Kunststoff</li><li>für alle Wasserdrucksysteme &gt;=1,5 bar</li><li>großer Brausekopf mit vielen Strahlöffnungen</li><li>beiliegende Dichtungsringe zur Einstellung des Wasserdurchsatzes</li><li>besonders sparender Wassergebrauch<br/></li></ul>"
-}

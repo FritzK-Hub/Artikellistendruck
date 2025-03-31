@@ -1,4 +1,0 @@
-{
-    "uvp": 21.95,
-    "attributes": "<ul><li>dekorative LED-Lichterkette mit 6 Watt<br/></li><li>ideal als Weihnachts- oder Partybeleuchtung</li><li>Weihnachtsdeko mit insgesamt 320 LED</li><li>innen und außen vielfältig einsetzbar</li><li>sparsame LED-Technik<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Steckdosenleiste mit 1,4 Meter Kabellänge</li><li>Mehrfachsteckdose mit integrierter Kindersicherung</li><li>Stecker im 45° Winkel angeordnet</li><li>3-fach Steckdosenleiste für innen (nicht wassergeschützt)</li><li>zum Anschluss verschiedenster Geräte</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>    LED Lampe mit hoher Lebensdauer, E27</li><li>    hohe Farbwiedergabe, RA-Wert über oder gleich 90    </li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen    </li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen    </li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe</li></ul>"
-}

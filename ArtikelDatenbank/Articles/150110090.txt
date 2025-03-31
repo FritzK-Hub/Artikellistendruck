@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Scheibenreiniger 200 mm von Nigirn</li><li>für eine einfache Scheibenreinigung</li><li>mit Schwamm und Gummilippe ausgestattet</li><li>in verschiedenen Farben erhältlich</li><li>stabiler Kunststoffgriff sorgt für sichere Handhabung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>stabiles Pflanzgefäß im klassischen Design</li><li>aus hochwertigem Kunststoff gefertigt</li><li>zum direkten Bepflanzen geeignet</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>runder Blumenkübel mit zarten Ornamenten</li></ul>"
-}

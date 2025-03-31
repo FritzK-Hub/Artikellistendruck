@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>zum Reparieren, Befestigen, Bündeln, Verstärken und Kennzeichnen</li><li>besonders widerstands- und strapazierfähig, aus silbernem Gewebematerial</li><li>für dauerhafte haltbare, hoch belastbare und stabile Verklebungen</li><li>einfach in der Handhabung, lässt sich leicht mit der Hand abreißen </li><li>ein unverzichtbares Hilfsmittel für verschiedene Anwendungen<br/></li></ul>"
-}

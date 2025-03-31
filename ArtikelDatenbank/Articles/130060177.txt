@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>Medizinschrank abschließbar mit bedruckter Glasscheibe</li><li>Korpus aus weiß beschichtetem Metall gefertigt</li><li>bietet Stauraum für Medikamente oder Verbandsmaterial</li><li>für die Wandmontage geeignet</li><li>inklusive Befestigungsmaterial und zwei Schlüssel<br/></li></ul>"
-}

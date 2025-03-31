@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>praktische Arbeitsleuchte mit Schutzglas</li><li>verzinkter Metall Schutzkorb</li><li>zur Verwendung im Innenbereich</li><li>Handleuchte mit Gummi Handgriff</li><li>Leuchtmittel max. 100 W</li></ul>"
-}

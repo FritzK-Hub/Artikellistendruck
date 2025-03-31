@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Hobel mit auswechselbarem Blatt</li><li>Hobelkörper aus Aluminiumdruckguss </li><li>leicht und handlich<br/></li><li>mit Kunststoff-Griffschale</li><li>ideal zur Bearbeitung von Holz und Gipskartonplatten</li></ul>"
-}

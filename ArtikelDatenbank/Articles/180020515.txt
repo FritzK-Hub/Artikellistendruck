@@ -1,4 +1,0 @@
-{
-    "uvp": 23.49,
-    "attributes": "<ul><li>zur Bewässerung unterschiedlicher Flächenformen und Größen</li><li>besonders langlebig, dank robustem Kunststoffgehäuse</li><li>mit sechs verschiedenen Bewässerungsmöglichkeiten ausgestattet</li><li>gleichmäßige Bewässerung durch präzise Verteilung der Auslaufdüsen</li><li>einfacher Anschluss mithilfe einer1/2“ Standardschlauchkupplung</li></ul>"
-}

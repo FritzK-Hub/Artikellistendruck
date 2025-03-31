@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Kleingfeger mit 9 federnden Zinken</li><li>aus stabilem Kunststoff in schwarz</li><li>mit einer Gesamtlänge von ca. 45 cm</li><li>ideal zum Harken oder sammeln von Laub</li><li>bei Nichtgebrauch dank Aufhänghöse aufhängbar</li></ul>"
-}

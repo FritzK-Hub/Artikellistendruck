@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Buchsbaumschere für Rechtshänder</li><li>für die Pflege von Sträuchern oder Buchsbaumen</li><li>mit besonderer Bypass-Klinge und Fiberglaskörper</li><li>2K-Griff für angenehmen Tragekomfort</li><li>ein passender Helfer für sämtliche Gartenarbeiten</li></ul>"
-}

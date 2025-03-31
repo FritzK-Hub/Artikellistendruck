@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Holzbauschraube mit Teilgewinde</li><li>Senkkopf mit Unterkopffrästaschen</li><li>Konstruktionsschraube mit TX - T25 Antrieb</li><li>aus blau verzinktem Stahl</li><li>für Bohrergröße 4 mm</li></ul>"
-}

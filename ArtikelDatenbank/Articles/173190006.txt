@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>klassische Hängelampe in weiß</li><li>Lampenfassung mit Kabel und Lampenbaldachin</li><li>für Leuchtmittel bis zu 60 Watt geeignet</li><li>belastbar bis 2 kg</li><li>Pendelleuchte mit E27 Fassung</li></ul>"
-}

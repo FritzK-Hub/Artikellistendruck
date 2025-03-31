@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Bit- und Steckschlüssel-Satz 35-teilig von GERMANIA®</li><li>in verschiedenen Größen und Steckkombinationen</li><li>für Schraubarbeiten rund um das Auto, Motorrad oder Haushalt</li><li>mit Schnellwechsel - Bithalter</li><li>inklusive robustem Aufbewahrungskoffer</li></ul>"
-}

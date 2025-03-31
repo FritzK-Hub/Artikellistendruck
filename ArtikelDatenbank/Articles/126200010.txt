@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>zum Umfüllen von klarem oder verschmutztem Wasser</li><li>eignet sich für Gruben, Teichen oder Gartengewässern</li><li>einstellbarer Schwimmhalter bietet Schutz vor Trockenlauf</li><li>mit einem 1,5“ Innengewinde-Schlauchanschluss versehen</li><li>Thermoschutz schaltet bei Überhitzung den Motor ab<br/></li></ul>"
-}

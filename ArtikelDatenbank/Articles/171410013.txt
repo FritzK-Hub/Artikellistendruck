@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>erleichtert das Verpacken von Umzugs-Kartons</li><li>dient auch zum Versand von leichten bis mittelschweren Paketen</li><li>lässt sich mühelos abrollen, besitzen eine starke Anfangshaftung</li><li>universell für handelsüblichen Handabroller geeignet</li><li>problemlose, manuelle Verarbeitung möglich<br/></li></ul>"
-}

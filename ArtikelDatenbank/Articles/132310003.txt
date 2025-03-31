@@ -1,4 +1,0 @@
-{
-    "uvp": 45.95,
-    "attributes": "<ul><li>stabiler Maschinenfuß, kugelgelagerte Schleifachsen</li><li>Kondensatormotor, vibrationsarmer Lauf</li><li>verstellbare Arbeitsauflagen</li><li>Funkenschutzeinrichtung einstellbar</li><li>Grob- &amp; Feinschleifscheibe inklusive<br/></li></ul>"
-}

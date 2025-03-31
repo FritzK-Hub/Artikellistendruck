@@ -1,4 +1,0 @@
-{
-    "uvp": 119.99,
-    "attributes": "<ul><li>mit Antikalk-Noppen</li><li>3-fach verstellbare Handbrause</li><li>mit höhenverstellbarer Wandhalterung</li><li>Wasserspardichtung für 50 % Wasserersparnis</li><li>elegante Design-Ablage<br/></li></ul>"
-}

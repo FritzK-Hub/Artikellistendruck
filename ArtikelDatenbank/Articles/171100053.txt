@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>hoch atmungsaktive Silikatfarbe in Weiß</li><li>sorgt für gesunde Anstriche im Innenbereich</li><li>dient für Renovierungs- und Neuanstriche</li><li>eignet sich für alle ungestrichenen mineralischen Untergründe, Kalksandsteinmauerwerk, usw.</li><li>auf Raufasertapeten und Glasgewebesystemen als Schlussbeschichtung geeignet<br/></li></ul>"
-}

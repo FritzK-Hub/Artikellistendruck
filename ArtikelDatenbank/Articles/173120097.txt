@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>LED-Filament-Lampe 10,5 W E27 in Birnenform</li><li>angenehmes Licht, tageslichtähnlich mit hoher Farbwiedergabe</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe</li><li>mit einem E27 Sockel versehen</li></ul>"
-}

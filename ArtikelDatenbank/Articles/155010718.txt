@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>inspirierende Farbpalette für einzigartige Designs</li><li>vielseitige Dualspitzen ermöglichen präzise Kreationen</li><li>frische Farben dank innovativer Luftschleusen</li><li>kompaktes Etui bietet flexible Mobilität</li><li>Stylex: Qualität für kreative Meisterwerke</li></ul><p></p>"
-}

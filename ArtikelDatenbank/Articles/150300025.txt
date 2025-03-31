@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Vakumiergerät in schwarzer Ausführung</li><li>automatischer Vakuum- und Versiegelungsprozess</li><li>für nasse und trockene Lebensmittel geeignet</li><li>ideal für Fleisch, Fisch Gemüse und Obst</li><li>inklusive 5 Vakuumbeutel</li></ul>"
-}

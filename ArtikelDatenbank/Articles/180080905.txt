@@ -1,4 +1,0 @@
-{
-    "uvp": 599.0,
-    "attributes": "<ul><li>hohe Siebleistung mit kraftvollem Motor</li><li>anpassbarer Neigungswinkel für flexible Durchlaufgeschwindigkeit</li><li>große Trommel ermöglicht effiziente Materialverarbeitung</li><li>automatische Reinigung von außen durch Bürstenleiste</li><li>mobil dank klappbarem und leichtem Design</li></ul>"
-}

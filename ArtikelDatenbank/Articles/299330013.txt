@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<p>aus feuerverzinktem Stahl, besondere Beständigkeit gegenüber Witterungseinflüssen<br/>einfache und schnelle Montage an Wänden dank der Z-Form<br/>für eine zuverlässige und sichere Befestigung in verschiedenen Montagesituationen<br/>eignen sich für alle gängige Kantholz-Maße von 10 x 9,5 cm<br/>gewährleistet eine stabile Verbindung zwischen den Kantholz und der Wand<br/></p>"
-}

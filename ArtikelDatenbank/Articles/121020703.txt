@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>Zahlzeichen auf Kunststofffolie</li><li>selbstklebend</li><li>schwarze Zahl auf transparenter Trägerfolie</li><li>einfache Anbringung auf glatten Oberflächen</li></ul>"
-}

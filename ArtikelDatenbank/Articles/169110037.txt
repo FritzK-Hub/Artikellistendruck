@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>2 Seilklampen aus Metall</li><li>zum leichten Verzurren von Seilen z. B. an Booten oder Fahnenmasten</li></ul>"
-}

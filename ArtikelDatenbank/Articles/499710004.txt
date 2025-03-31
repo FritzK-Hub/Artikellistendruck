@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Kausche 6 mm aus verzinktem Stahl</li><li>wird überwiegend in der Seiltechnik genutzt</li><li>auch Seilöse, Seilauge, Seilkausche oder Drahtseilkausche genannt</li><li>dient als Verstärkung für Seilendschlaufen in Drahtseilen</li><li>schont das Seil vor Reibung<br/></li></ul>"
-}

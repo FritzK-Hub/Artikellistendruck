@@ -1,4 +1,0 @@
-{
-    "uvp": 199.0,
-    "attributes": "<ul><li>Werkzeugkoffer TB217, 217-teilig von scheppach</li><li>ideal für die unterschiedlichen Schraubarbeiten</li><li>aus Chrom-Vanadium-Stahl und Werkzeugstahl gefertigt</li><li>großen Zusammenstellung aus verschiedensten Werkzeugen</li><li>schnelle Ordnung und einfacher Transport dank Koffer<br/></li></ul>"
-}

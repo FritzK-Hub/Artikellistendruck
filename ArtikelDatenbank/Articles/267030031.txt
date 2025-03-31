@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Profi Spanngurt</li><li>einteilig ohne Haken</li><li>für die Ladungssicherung</li><li>mit großer, stabiler Zugratsche</li><li>25 mm Gurtbreite</li></ul>"
-}

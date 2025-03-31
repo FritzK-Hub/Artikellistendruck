@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Leimholz aus Fichtenholz</li><li>Massivholzplatte aus aneinandergeleimten Riegeln</li><li>mit geschliffener Oberfläche und gefasten Kanten</li><li>vielseitig einsetzbar, ideal für Möbelbau oder Innenausbau </li><li>verwendbar z. B. als Regalboden, zur Herstellung dekorativer Elemente oder zum Basteln<br/></li></ul>"
-}

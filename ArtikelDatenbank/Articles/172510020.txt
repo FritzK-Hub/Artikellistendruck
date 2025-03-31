@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Daten-/Ladekabel für Apple-Geräte mit Lightning-Anschluss</li><li>mit 60cm Länge besonders praktisch für den Anschluss deines I-Phones im Auto</li><li>klassischer USB-A Stecker für die Nutzung an Netzteilen und Powerbanks</li><li>mit Knickschutz an den Steckern für sichere Anwendung</li><li>besonders schlankes flexibles Kabel<br/></li></ul>"
-}

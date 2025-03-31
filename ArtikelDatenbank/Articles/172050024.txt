@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>Steckdosenleiste 4-fach mit 5 m Netzwerkkabel</li><li>Steckdosen sind im 45° Winkel angeordnet</li><li>speziell für den Außenbereich geeignet</li><li>robust und spritzwassergeschützt gemäß IP 44 Standard</li><li>Steckdose mit praktischen Klappdeckeln zum Schutz</li></ul>"
-}

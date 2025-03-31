@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Autoleder aus Echtleder</li><li>ideal zum Abziehen nach der Wäsche</li><li>ideal für Kunststoffe, Lacke, Glas, Chrom</li><li>extrem saugfähig und trocknet schonend</li><li>waschbar</li></ul>"
-}

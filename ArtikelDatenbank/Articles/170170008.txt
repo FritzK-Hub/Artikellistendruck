@@ -1,4 +1,0 @@
-{
-    "uvp": 109.0,
-    "attributes": "<ul><li>elektrische Fliesenschneidemaschine</li><li>mit Diamant-Trennscheibe</li><li>Parallelanschlag mit handlichen Klemmschrauben</li><li>eingelegte Skalen im Tisch integriert</li><li>durchzugstarker 600W Induktionsmotor und eingebauter Fehlerstromschutzschalter für optimale Sicherheit</li></ul>"
-}

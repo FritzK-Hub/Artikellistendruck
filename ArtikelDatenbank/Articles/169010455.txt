@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>    Antirutsch Punkte für rutschgefährdete Zonen    </li><li>3 selbstklebende Streifen im Set    </li><li>sorgen für Sicherheit im Innenbereich    </li><li>für mittlere bis hohe Beanspruchung</li><li>    geeignet für Treppen, Fliesenböden, Leitern und Rampen</li></ul>"
-}

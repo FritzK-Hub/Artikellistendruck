@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>vielseitig im Bau- als auch im Außenbereich verwendbar</li><li>zum Sägen von Holz, Kunststoff oder Metallrohren einsetzbar</li><li>besonders langlebig und robust, für anspruchsvolle Sägearbeiten geeignet</li><li>mit werkzeuglosem Sägeblatt-Schnellwechsel, erleichtert die Handhabung</li><li>Softgrip-Handgriff für komfortables Sägen über einen längeren Zeitraum<br/></li></ul>"
-}

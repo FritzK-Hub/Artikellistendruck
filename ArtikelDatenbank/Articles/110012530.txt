@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Wandhalter Fino aus Kunststoff mit verchromter Oberfläche</li><li>passende Ergänzung für dein Badezimmer </li><li>für die handelsüblichen Handbrausen einsetzbar</li><li>bietet platzsparende Aufbewahrung deiner Duschbrause</li><li>mitgeliefertes Befestigungsmaterial erleichtert die Montage<br/></li></ul>"
-}

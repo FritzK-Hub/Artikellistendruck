@@ -1,4 +1,0 @@
-{
-    "uvp": 159.95,
-    "attributes": "<ul><li>2 Klappstühle im Set</li><li>aus geöltem Akazienholz</li><li>Gartenstühle mit Armlehnen</li><li>platzsparend verstaubar</li><li>Holz aus nachhaltigem Anbau</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>praktische Trinkflasche mit Isolierfunktion</li><li>aus doppelwandigem Edelstahl</li><li>verfügt über Schraubverschluss mit Silikondichtung</li><li>zu 100% auslaufsicher</li><li>hält Getränke bis zu 6 h warm oder kalt<br/></li></ul>"
-}

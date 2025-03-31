@@ -1,4 +1,0 @@
-{
-    "uvp": 0.99,
-    "attributes": "<ul><li>Hohlwanddose Ø 68 mm orange</li><li>ideal für Hohlraumwänden mit fehlender Wanddicke</li><li>mit vier vormontierten Geräteschrauben ausgestattet</li><li>Ausbrechöffnungen für Leitungen und Rohre mit Ø bis 20 mm</li><li>flammwidrig, nicht wassergeschützt</li></ul>"
-}

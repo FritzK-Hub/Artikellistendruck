@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>nahtloser, federleichter Montagehandschuh mit PU-Beschichtung</li><li>insbesondere für Arbeiten mit Touchscreens</li><li>sicherer Halt und ideale Fingerfertigkeit</li><li>hervorragende Passform und sehr hoher Tragekomfort</li><li>schützt vor Schmutz und mechanischen Risiken<br/><br/></li></ul>"
-}

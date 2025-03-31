@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>LED Lampe in Kerzenform, Sockel E14</li><li>warmweißes, angenehmes Licht</li><li>geringer Energieverbrauch</li><li>LED Birne mit guter Farbwiedergabe</li><li>sehr sparsam</li></ul>"
-}

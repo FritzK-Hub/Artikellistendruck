@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Malblock in DIN A4</li><li>100 Blat, weiß</li><li>holzfrei und geleimt</li><li>2 verschiedene Deckblattmotive</li><li>für Schule und Zuhause</li></ul>"
-}

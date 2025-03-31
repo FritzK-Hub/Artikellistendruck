@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Stahlrundkugeln 4,5 mm / Cal.177 von FISHBULL</li><li>Präzisions-BBs aus hoch vergütetem Kugellager Carbonstahl</li><li>in der wieder verschließbaren Spenderflasche</li><li>achte auf die richtige Kaliber-Angabe der Waffe um Störungen zu vermeiden</li><li>ca. 2000 Stück in der Spenderflasche</li></ul>"
-}

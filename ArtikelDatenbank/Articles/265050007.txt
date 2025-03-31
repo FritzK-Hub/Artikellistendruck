@@ -1,4 +1,0 @@
-{
-    "uvp": 1.59,
-    "attributes": "<ul><li>Drahtseilklemmen zum Verbinden, Halten und Pressen von Seilendverbindungen</li><li>leichte Konfektionierung von Drahtseilen</li><li>galvanisch verzinkte Ausführung</li><li>nicht zum Heben von Lasten geeignet</li><li>hochwertige Industriequalität<br/><br/></li></ul>"
-}

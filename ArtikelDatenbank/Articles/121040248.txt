@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Farbspachtel-Set für Arbeiten z.B. mit Ölfarben</li><li>ergonomisch geformter Holzgriff</li><li>hochwertige Verarbeitung</li><li>5 verschiedene Größen</li><li>ideal um Strukturen herauszubringen</li></ul>"
-}

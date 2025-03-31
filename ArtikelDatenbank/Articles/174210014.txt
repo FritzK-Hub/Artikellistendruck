@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>eisl Brauseschlauch mit 150 cm Länge</li><li>aus Kunststoff gefertigt mit Silberoptik</li><li>für den Austauch porösen oder unansehnlichen Schläuchen</li><li>inklusive Wasserspardichtung mit bis zu 50 % Ersparnis</li><li>passend zu allen Brausearmaturen<br/><br/></li></ul>"
-}

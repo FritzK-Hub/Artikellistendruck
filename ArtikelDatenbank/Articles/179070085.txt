@@ -1,4 +1,0 @@
-{
-    "uvp": 599.95,
-    "attributes": "<ul><li>Güde® 2in1 Werkbank und Werkstattwagen</li><li>5 abschließbare Schubladen mit Vollauszug</li><li>3-fach höhenverstellbarer Fachboden am Anbauteil</li><li>2 Lenkrollen und Schiebegriff für den einfachen Transport</li><li>Werkstattwagen mit Lochwänden an der Seite und an der Rückseite</li></ul>"
-}

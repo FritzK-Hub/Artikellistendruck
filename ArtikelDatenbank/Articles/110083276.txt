@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>praktische Gummiringe für den Haushalt</li><li>verschiedene Farben und Größen</li><li>im Beutel mit Schnellverschluss</li><li>vielseitig verwendbar</li><li>schnell und unkompliziert</li></ul>"
-}

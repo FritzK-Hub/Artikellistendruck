@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Fugenkratzer Set 3-teilig zur Unkrautbekämpfung</li><li>bestehend aus zwei Bürstenköpfen und einer Bürstenhalterung</li><li>lassen sich mühelos miteinander verbinden und einfach festmontieren</li><li>ideal geeignet für Terrassen, Hofeinfahrten, und Gehwegen</li><li>entfernt störendes Unkraut, Moos, Gras und Wildbewuchs</li></ul>"
-}

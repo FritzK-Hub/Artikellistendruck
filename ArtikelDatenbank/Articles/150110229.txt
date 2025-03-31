@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Hartwachs für neue oder zuvor aufpolierte Lacke</li><li>Langzeitschutz mit bis zu 6 Monaten Abperleffekt</li><li>unverzichtbar für den werterhalt des Lackes</li><li>pflegt und konserviert langanhaltend sicher, sorgt für intensive Farben und Hochglanz</li><li>schützt vor Witterung, Verschmutzung und vorzeitige Alterung</li></ul>"
-}

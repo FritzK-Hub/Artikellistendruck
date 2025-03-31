@@ -1,4 +1,0 @@
-{
-    "uvp": 24.99,
-    "attributes": "<ul><li>robustes Kreuzgehänge aus massivem A2 Edelstahl</li><li>für Gartenzäune oder Gartenhaustüren</li><li>zwei bewegliche Teile fest verbunden</li><li>minimiert die Reibung beim Öffnen und Schließen</li><li>6 Bohrlöcher sorgen für zusätzliche Stabilität<br/></li></ul>"
-}

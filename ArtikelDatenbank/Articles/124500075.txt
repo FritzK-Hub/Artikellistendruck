@@ -1,4 +1,0 @@
-{
-    "uvp": 199.95,
-    "attributes": "<ul><li>platzsparendes Design für enge Begebenheiten</li><li>große Kapazität zum effizienten Wassersammeln</li><li>langlebig und widerstandsfähig bei jeder Witterung</li><li>schadstoffarmes Material für umweltfreundliche Nutzung</li><li>elegantes Design als freistehendes Garten-Highlight</li></ul>"
-}

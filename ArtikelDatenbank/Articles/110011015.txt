@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>Dämmband, Vorlegeband auf Rolle 10 m</li><li>praktisches, selbstklebendes Vorlegeband</li><li>einfache Handhabung, individuell zuschneidbar</li><li>minimiert Übertragung von Schall und Geräuschen</li></ul>"
-}

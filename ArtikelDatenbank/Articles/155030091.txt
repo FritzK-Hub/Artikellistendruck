@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>Varta Longlife Power Batterien</li><li>Typ AA 1,5V LR6 Mignon</li><li>nicht wiederaufladbar</li><li>im 10er Pack</li><li>leistungsfähige AA Batterien Alkaline (Alkali-Mangan-Zelle)</li></ul>"
-}

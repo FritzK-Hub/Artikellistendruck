@@ -1,4 +1,0 @@
-{
-    "uvp": 22.49,
-    "attributes": "<ul><li>Fahrradreifen 28 x 1,6 Zoll 700 x 40C</li><li>für 28\" All Terrain Bikes und Trekkingbikes</li><li>mit Pannenstopp für mehr Sicherheit</li><li>passend für Felgen 17-23 mm</li><li>auch für 35 bis 45-622 / 700 x 32C bis 45C</li></ul>"
-}

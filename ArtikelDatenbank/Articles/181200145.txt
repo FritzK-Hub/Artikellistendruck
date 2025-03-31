@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Kopfsalat brauner Trotzkopf</li><li>hohe Schoßfestigkeit und Hitzebeständigkeit</li><li>bildetet mittelgroße und runde Salatköpfe</li><li>rotbraune Flecken für wenigere Läuse-Befallung</li><li>verfügt über eine probefeldgetestete Qualität<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Bratschlauch mit Verschlussclipsen in der Faltschachtel</li><li>Vitamine und Nährstoffe bleiben erhalten</li><li>das Aroma kann sich voll entfalten</li><li>hitzebeständig bis 200° C</li><li>Made in Germany</li></ul>"
-}

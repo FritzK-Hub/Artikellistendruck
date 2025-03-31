@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>Pflanzgefäß Lofly Ø 39 cm für innen und außen</li><li>zum direkten Bepflanzen geeignet</li><li>aus UV-beständigem Kunststoff</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>Blumenkübel in matter Optik<br/></li></ul>"
-}

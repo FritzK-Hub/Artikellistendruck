@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>GERMANIA® Grillanzünder für Kamin, Ofen, Grill</li><li>Anzünder sind auf Paraffinbasis hergestellt</li><li>32 Anzünder in Würfelform</li><li>nur 1 bis 2 Würfel pro Anzündvorgang nötig</li><li>auf Paraffinbasis, geruchsneutral<br/></li></ul>"
-}

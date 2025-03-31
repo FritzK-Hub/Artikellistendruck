@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Pflanzgefäß Classic Ø 30 cm für innen und außen</li><li>extrem stabil und hält starke Temperaturschwankungen aus</li><li>Überlauflöcher können nach Belieben gebohrt werden</li><li>stoßfest, bruchfest, witterungs- und lichtbeständig</li><li>runder Blumenkübel in matter Optik</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>Spalthammerstiel von GERMANIA® <br/></li><li>aus unbehandeltem Eschenholz</li></ul><ul><li>ovale Form</li></ul><ul><li>mit einem Gewicht von ca. 700 g</li><li>Ersatzstiel für Spalthammer</li></ul>"
-}

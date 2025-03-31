@@ -1,4 +1,0 @@
-{
-    "uvp": 7.8,
-    "attributes": "<ul><li>Schlüsselfeilen mit Kunststoffheft</li><li>Set bestehend aus 6 unterschiedliche Feilen</li><li>liegen gut in der Hand</li><li>ideal für Heimwandwerker oder Profis</li><li>in praktischer Aufbewahrungsbox aus Kunststoff<br/></li></ul>"
-}

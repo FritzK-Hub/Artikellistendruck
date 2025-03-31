@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Füll- und Fleckspachtel für kleine Flächen</li><li>für grundierten Putz, Beton und Eisen im Innen- und Außenbereich</li><li>schadstoffarm und lösemittelfrei</li><li>gut schleifbar und schnell trocknend</li><li>sehr ergiebig und gut füllend</li></ul>"
-}

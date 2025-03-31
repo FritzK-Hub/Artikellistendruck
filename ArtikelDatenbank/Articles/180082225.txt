@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>vielfältig einsetzbare Big Bag Lagerungstasche</li><li>mit 4 Hebeschlaufen und Lüftungsschlitzen</li><li>qualitativ hochwertiges Gewebe, für hohe Traglasten</li><li>zum Transportieren und Lagern von Holz, Steinen, Kies oder anderen Baumaterialien ohne scharfen Kanten</li><li>mit \"Sonderpreis Baumarkt\" Logo</li></ul>"
-}

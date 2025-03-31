@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>robustes Abdeckband für Malerarbeiten</li><li>für innen und aussen geeignet</li><li>ideal für glatte Untergründe geeignet</li><li>leicht und exakt von Hand zu trennen</li><li>rückstandsfrei entfernbar</li></ul>"
-}

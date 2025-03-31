@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>hohe Tragfähigkeit bietet sichere Lagerung bis 100 kg</li><li>platzsparendes Design schafft effiziente Reifenaufbewahrung</li><li>vielseitige Anwendung für bis zu 225 mm breite Reifen</li><li>langlebig stabile Konstruktion dank robustem Stahl und Polypropylen</li><li>Mobilität &amp; Komfort durch einfachen Transport auf Rollen</li></ul><p></p>"
-}

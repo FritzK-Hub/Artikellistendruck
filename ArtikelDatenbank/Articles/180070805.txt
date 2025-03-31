@@ -1,4 +1,0 @@
-{
-    "uvp": 139.0,
-    "attributes": "<div class=\"spb--product-details mtop_mittel\"> <ul><li> automatisches Bewässerungs- und Düngesystem </li><li> mischt Wasser und Dünger automatisch </li><li> Wassermenge für jede Pflanze individuell einstellbar </li><li> Kapazität 10 bis 150 Liter in 24h </li><li> leicht zu montieren Technische Daten: </li><li> Kapazität 10 bis 150 Liter in 24h </li><li> Hersteller: Halls <br/></li></ul> </div>"
-}

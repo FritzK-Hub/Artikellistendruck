@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Bio- und Mülltonnenpulver</li><li>kompostierfähiges Pulver mit Calciumcarbonat und Duftstoffen</li><li>bindet Flüssigkeit</li><li>sorgt für angenehme Gerüche</li><li>ausreichend für ca. 600 Liter Biomüll<br/></li></ul>"
-}

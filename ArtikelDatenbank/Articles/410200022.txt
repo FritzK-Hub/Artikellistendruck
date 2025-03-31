@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>effektive Verzinkung gegen Korrosion</li><li>mühelose Verarbeitung durch ideale Kraftübertragung</li><li>geringes Einschraubdrehmoment dank Reibteil</li><li>punktgenaues Ansetzen durch Schneidkerbe</li><li>benutzerfreundlich, da kein Vorbohren notwendig</li></ul>"
-}

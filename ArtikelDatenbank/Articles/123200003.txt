@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>bietet Schutz vor Vogelfraß an Obstbäume, Obst- und Beerensträucher</li><li>weitmaschige Struktur für gute Belüftung, hilft bei der Pflanzenentwicklung</li><li>lässt sich zusätzlich mit Plastiknägeln als Laubschutz verwenden</li><li>besonders robust und langlebig, aus hochwertigem Polyethylen gefertigt</li><li>vielseitige Einsatzmöglichkeiten bei der Gartenarbeit</li></ul>"
-}

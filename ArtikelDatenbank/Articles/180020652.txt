@@ -1,4 +1,0 @@
-{
-    "uvp": 19.29,
-    "attributes": "<ul><li>zur bequemen und effektiven Bewässerung deines Garten</li><li>besonders langlebig und widerstandfähig, aus stabilem Kunststoff </li><li>griffiger Weichkunststoff garantiert sicheren Halt und angenehmen Komfort</li><li>die Wassermenge kann bei Bedarf stufenlos eingestellt werden</li><li>integrierter Adapter fürs schnelles Anschließen von 1/2\" Gartenschläuchen<br/></li></ul>"
-}

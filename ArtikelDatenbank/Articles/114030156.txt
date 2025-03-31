@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul> <li><em>Fahnenmast </em>aus Aluminium</li> <li>inklusive Deutschlandflagge, Kunststoff-Bodenhülse, Abdeckkappe mit Seilbeschlägen und Hissvorrichtung</li> <li>einfacher Auf- und Abbau</li> <li>bestehend aus 4 einzelnen Alu-Rohren</li> <li>Gesamthöhe ca. 6,20 m</li></ul>"
-}

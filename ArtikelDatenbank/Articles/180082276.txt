@@ -1,4 +1,0 @@
-{
-    "uvp": 27.0,
-    "attributes": "<ul><li>Strebe für Maschendrahtzaun</li><li>inklusive montierter Schelle und Strebenkappe</li><li>zinkphosphatiert und kunststoffbeschichtet</li><li>für bessere Stabilität an den jeweiligen Zaunecken</li><li>lange Lebensdauer<br/></li></ul>"
-}

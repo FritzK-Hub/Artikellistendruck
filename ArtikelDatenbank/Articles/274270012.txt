@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Größe: 200 mm</li><li>gebogen</li><li>zwei komponenten Griff</li><li>weiteres <em><strong>GERMANIA®</strong> <strong>Werkzeug</strong> </em>finden Sie in unserem Shop!</li></ul>"
-}

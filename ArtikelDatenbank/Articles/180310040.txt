@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>ein zuverlässiger, vielseitig einsetzbarer Trocken- und Nassreiniger in einem</li><li>einfacher Anschluss an einem Wasserhahn dank 1/2“ Schlauchanschluss</li><li>weiche Borsten ermöglichen eine schonende Reinigung von Fahrzeugen oder Bodenflächen</li><li>bis zu 2 Meter zusammensteckbar, somit auch an schwer zugänglichen Stellen einsetzbar</li><li>EIN/AUS-Ventil ermöglicht eine einfache Kontrolle des Wasserflusses, senkst die Wasserkosten<br/></li></ul>"
-}

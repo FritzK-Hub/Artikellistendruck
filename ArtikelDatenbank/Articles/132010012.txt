@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>rutschfestes Design dank eines Gummirings an der Unterseite</li><li>aus langlebigem Edelstahl, rostfrei und hygienisch</li><li>lässt sich mühelos reinigen und ist sogar spülmaschinenfest</li><li>großzügiges Volumen von 0,3 Litern</li><li>ideal für die Fütterung von Trocken- oder Nassfutter</li></ul>"
-}

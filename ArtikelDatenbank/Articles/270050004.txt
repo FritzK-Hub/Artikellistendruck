@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>hartmetallbeschichtete Schneide (HM)</li><li>unverwüstliche Schneide</li><li>präzise, saubere Schnitte</li><li>mit ergonomischem Komfortgriff</li><li>Klappfunktion mit Sicherheitsverschluss</li></ul>"
-}

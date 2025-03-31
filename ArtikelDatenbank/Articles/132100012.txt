@@ -1,4 +1,0 @@
-{
-    "uvp": 64.95,
-    "attributes": "<ul><li>Mini-Handkreissäge 600 W  mit Laser</li><li>im Kunststoff Koffer</li><li>3 verschiedene Sägeblätter</li><li>mit Knaubhandgriff</li><li>inkl. Staubabsaugadapter</li></ul>"
-}

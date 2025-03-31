@@ -1,4 +1,0 @@
-{
-    "uvp": 44.99,
-    "attributes": "<ul><li>mit Antikalk-Noppen</li><li>flaches Edelstahl-Design</li><li>flexibles Kugelgelenk</li><li>inklusive Wasserspardichtung</li><li>großzügige Größe<br/></li></ul>"
-}

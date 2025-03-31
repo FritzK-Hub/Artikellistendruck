@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Osram LED-Lampe 13 W in Birnenform</li><li>ist mit einem E27 Sockel versehen</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen </li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen </li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 32.99,
-    "attributes": "<ul><li>batteriebetriebene LED-Lichterkette 400 cm</li><li>mit 10 flackernden LEDs versehen</li><li>schafft eine entspannte Atmosphäre</li><li>eignet sich als Tisch- oder Fensterdekoration</li><li>vielfältig einsetzbare Innen- und Außendekoration<br/></li></ul>"
-}

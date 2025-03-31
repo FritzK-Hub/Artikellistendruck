@@ -1,4 +1,0 @@
-{
-    "uvp": 69.95,
-    "attributes": "<ul><li>Auffahrrampensatz extra flach 2 Stück aus Kunststoff</li><li>passend für PKW´s, Wohnwägen, oder tiefergelegte Fahrzeuge</li><li>erleichtert reifenschonend das Überqueren von Bordsteinkanten </li><li>verfügt über eine Traglast von max. 2,5 t und kann 195 mm breite Reifen aufnehmen</li><li>eignen sich zum Befahren von Vorder- wie Hinterreifen, nur paarweise verwenden</li></ul>"
-}

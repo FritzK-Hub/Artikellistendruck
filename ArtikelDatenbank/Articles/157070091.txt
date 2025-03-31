@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>haftstarker Dispersions Acrylkleber</li><li>für Holz, Metall, mineralische Baustoffe, div. Kunststoffe, Polystyrolschaumplatten</li><li>lösemittelfrei</li><li>schnelle Verklebung, hohe Anfangshaftung</li><li>gebrauchsfertig, leicht zu verarbeiten</li></ul>"
-}

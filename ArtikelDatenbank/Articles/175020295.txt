@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>Teil der MAXXPACK Familie</li><li>leichter und handlicher Transport möglich</li><li>inklusive Zusatzhandgriff für besseren Halt</li><li>für Scheiben mit einem Durchmesser von 115 mm geeignet</li><li>zuverlässiger Helfer dank guter Verarbeitung und eingebauter Technik</li></ul>"
-}

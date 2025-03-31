@@ -1,4 +1,0 @@
-{
-    "uvp": 49.99,
-    "attributes": "<ul><li>elektrischer 2in1 Tischgrill mit 2000 W in Schwarz</li><li>durch Ständer verwendbar als Standgrill mit Ablagegitter</li><li>mit stufenlosem Temperaturregler und Kontrollleuchte</li><li>Grillfläche von 41,4 x 23,9 cm bietet ausreichend Platz</li><li>inklusive eines 1 m langen Stromkabels<br/></li></ul>"
-}

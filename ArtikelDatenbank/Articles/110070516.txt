@@ -1,4 +1,0 @@
-{
-    "uvp": 44.99,
-    "attributes": "<ul><li>hochwertiges Stahlblech mit Senotherm-Lackierung</li><li>für die meisten Öfen im Innenbereich geeignet</li><li>besonders robust und widerstandsfähig</li><li>einfache Montage mit Rohrschellen oder Verbindern</li><li>sichere Abgasableitung für eine effektive Ofennutzung<br/></li></ul>"
-}

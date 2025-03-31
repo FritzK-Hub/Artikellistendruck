@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>zur intensiven Reinigung von Helmpolstern deiner Fahrrad oder Motorradhelme</li><li>angenehmer frischer Duft für dein Motorradhelm-Polster</li><li>besonders materialschonend für lange Helmlebensdauer</li><li>dermatologisch getestet, wirkt farbauffrischend</li><li>entfernt selbst hartnäckige Verschmutzungen <br/></li></ul>"
-}

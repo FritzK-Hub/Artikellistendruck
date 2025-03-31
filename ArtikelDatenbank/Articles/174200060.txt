@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>sieben automatisch wechselnden Farben</li><li>mit Wasserdruck betrieben</li><li>einfache Installation</li><li>langlebiges Material</li><li>stilvoll und funktional</li></ul>"
-}

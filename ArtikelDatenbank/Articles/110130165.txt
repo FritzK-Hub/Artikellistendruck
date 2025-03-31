@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>100 cm Länge und 10 mm Durchmesser für einfaches Handling<br/></li><li>Hochwertiger Kunststoff für Langlebigkeit</li><li>Unauffällige Integration in die Raumgestaltung</li><li>Leichte Befestigung am Vorhang</li><li>Verhindert Falten und Abdrücke auf dem Stoff</li></ul>"
-}

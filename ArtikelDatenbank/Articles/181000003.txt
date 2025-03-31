@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>zuverlässiger Schutz bei jedem Wetter</li><li>passend für viele Deichselgrößen</li><li>einfach und schnell zu befestigen</li><li>robustes Material für lange Nutzung</li><li>sicherer Halt bei Wind und Regen</li></ul><br/>"
-}

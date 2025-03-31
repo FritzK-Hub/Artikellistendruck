@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Saugfilter aus Messing</li><li>Korb aus feinmaschigem, rostfreiem Stahlgitter hält grobe Schmutzpartikel zurück</li><li>mit Schlauchtülle und Rückschlagventil</li><li>Ventil verhindert, dass beim Ausschalten der Pumpe Wasser zurück in den Brunnen fließt und beim Einschalten wieder angesaugt werden muss</li></ul>"
-}

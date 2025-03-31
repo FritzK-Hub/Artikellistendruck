@@ -1,4 +1,0 @@
-{
-    "uvp": 10.79,
-    "attributes": "<ul><li>Rasenmäher-Öl SAE 30</li><li>sehr gute Schmierfähigkeit</li><li>optimaler Verschleißschutz deiner Geräte</li><li>einfachen Start deiner Geräte auch nach der Winterpause</li><li>durch seine sehr hohe Reinigungsleistung werden deine Geräte wieder fit<br/></li></ul>"
-}

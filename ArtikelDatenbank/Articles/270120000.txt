@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>aus Stahldraht</li><li>gewellt</li><li>M14 Gewindeaufnahme</li></ul>"
-}

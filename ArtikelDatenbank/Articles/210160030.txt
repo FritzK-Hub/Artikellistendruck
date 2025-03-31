@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>stabile und zuverlässige Verbindung</li><li>vielseitige Anwendungsmöglichkeiten</li><li>aus hochwertigem Material</li><li>besonders langlebig, robust und stabil</li><li>mit Abdeckkappen für die Schraubenköpfe<br/></li></ul>"
-}

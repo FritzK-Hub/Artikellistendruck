@@ -1,4 +1,0 @@
-{
-    "uvp": 12.99,
-    "attributes": "<ul><li>pulverförmige Beton-Knetmasse 2,5 kg im Eimer</li><li>ideal zum Formen, Kneten oder Modellieren</li><li>der Kreativität sind keine Grenzen gesetzt</li><li>universell einsetzbar im Innen- wie Außenbereich</li><li>fördert Feinmotorik und Phantasie bei Kindern<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 18.99,
-    "attributes": "<ul><li>perfekte Kombination aus Funktionalität und Ästhetik</li><li>hochwertige Flaschen und Gläser mit Deckel</li><li>robuster Holzkorb mit Tragegriff, auch ideal zum Verschenken</li><li>die Gläser eignen sich für das lange Aufbewahren von Lebensmitteln</li><li>vielfältige Anwendungsmöglichkeiten, nicht nur zum Einmachen von Lebensmitteln<br/></li></ul>"
-}

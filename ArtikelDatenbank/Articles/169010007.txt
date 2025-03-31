@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>gelbes Flach-Kreppband mit mittlerer Klebekraft</li><li>mit der Hand einreißbar</li><li>geeignet für den kurzfristigen Einsatz im Innenbereich</li><li>für scharfe Farbabgrenzungen und Kanten</li><li>ideal zum Abkleben von Fußleisten und Türrahmen</li></ul>"
-}

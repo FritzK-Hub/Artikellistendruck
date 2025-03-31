@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>schwere Ausführung</li><li>automatische Klingen-Rückführung</li><li>Metall-Führung</li><li>Fach für Ersatzklingen im Griff</li><li>inkl. Trapezklingen</li></ul>"
-}

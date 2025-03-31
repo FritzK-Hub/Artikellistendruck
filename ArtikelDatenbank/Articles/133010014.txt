@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>natürliche Pflege und Hygiene</li><li>Katzengras mit Schale </li><li>schnelles Wachstum</li><li>mentale Stimulation</li><li>zum selbstziehen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>effektive Reinigung bei hartnäckigem Schmutz</li><li>hautfreundlich und pflegend zugleich</li><li>ergiebige Formel für sparsame Anwendung</li><li>handlich, kompakt und vielseitig einsetzbar</li><li>frischer Duft für saubere Hände</li></ul>"
-}

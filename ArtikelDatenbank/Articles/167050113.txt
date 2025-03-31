@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Stahldrahtseil 6 x 7</li><li>verzinkt und PVC-ummantelt</li><li>nach DIN EN 12385-4:2002</li><li>Meterware auf Spule</li><li>Länge individuell wählbar von 1m bis 100m</li></ul><p><br/></p>"
-}

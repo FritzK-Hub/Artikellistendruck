@@ -1,4 +1,0 @@
-{
-    "uvp": 7.69,
-    "attributes": "<ul><li>zum Aufstecken auf den Schutzgasbrenner</li><li>als Ersatz für defekte / abgenutzte Gasdüsen einsetzbar</li><li>Gasdüse für Schutzgasbrenner mit Steckanschluss </li><li>mit praktischer, zylindrischer Steckverbindung</li><li>für den professionellen Schweißerbedarf<br/></li></ul>"
-}

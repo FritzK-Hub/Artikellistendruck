@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>keine kalten Füße mehr dank dem Fußwärmer</li><li>für beide Füße gleichzeizig  geeignet</li><li>mit Fernnbedienung und 3 Wärmeeinstellungen</li><li>automatische Abschaltung nach 90 Minuten Dauergebrauch</li><li>waschbarer Bezug, abnehmbare innere Abdeckung     <br/></li></ul>"
-}

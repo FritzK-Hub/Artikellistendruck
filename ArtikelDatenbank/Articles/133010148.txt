@@ -1,4 +1,0 @@
-{
-    "uvp": 2.79,
-    "attributes": "<ul><li>zusätzliche Rohfaser-Quelle für alle Nagetiere</li><li>aus natürlichem, unbehandeltem Stroh gefertigt</li><li>kann unbedenklich vollständig verfüttert werden</li><li>besonders sauber und staubtfrei, schont die Atemwege</li><li>eine abwechslungsreiche Ergänzung zum täglichen Futter<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>3 Feuerzeuge mit Motiv</li><li>mit Piezo-Zündung</li><li>regulierbare Flamme</li><li>nachfüllbares Gasfeuerzeug</li><li>aus Kunststoff</li></ul>"
-}

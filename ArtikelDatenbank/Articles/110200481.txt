@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>hochwertiges Material, 4-seitig gehobeltes Fichtenholz</li><li>unbehandeltes, kammergetrocknetes Holz für eine authentische Optik</li><li>einsetzbar für Bauprojekte wie Möbel, Wand- und Deckenverkleidungen usw.</li><li>gefaste Kanten für eine stabile und sichere Nutzung</li><li>umweltfreundliches, natürliches Material für eine nachhaltige Wohn- und Arbeitsumgebung</li></ul>"
-}

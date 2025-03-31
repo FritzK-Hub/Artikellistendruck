@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>einfache, werkzeuglose Montage </li><li>robustes, unzerbrechliches Kunststoffmaterial</li><li>praktische blau-rote Skala für einfaches Ablesen</li><li>quecksilberfrei für umweltfreundliche Verwendung</li><li>flexible Platzierung und einfache Handhabung <br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.79,
-    "attributes": "<ul><li>dauerplastische Dichtungspaste</li><li>lang anhaltende Abdichtungseffizienz</li><li>temperaturbeständig über 100°C</li><li>ideal für Heißwasser-Armaturen</li><li>perfekt für sanitäre Anlagen<br/></li></ul>"
-}

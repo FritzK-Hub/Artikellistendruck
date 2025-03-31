@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>3 Funksteckdosen mit Fernbedienung im Set</li><li>Steckdose für den Innenbereich geeignet</li><li>für den drahtlosen Betrieb von Elektrogeräten und Beleuchtungen</li><li>ca. 40 Meter Reichweite des Handsenders, auch durch Wände, Decken und Fenster</li><li>selbstlernend</li></ul><p><br/></p>"
-}

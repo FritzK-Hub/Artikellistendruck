@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Stumpenkerze 5 x 5 cm aus Echtwachs</li><li>in verschiedenen Versionen erhältlich</li><li>schafft eine wohlfühlende Atmosphäre</li><li>für Tisch-, Weihnachtsdekoration einsetzbar</li><li>auch zur die Bestückung von Weihnachtskränzen</li></ul>"
-}

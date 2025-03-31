@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Wasserspritzer in verschiedenen Farben für Kinder </li><li>sorgt für einen riesigen Wasserspaß</li><li>spielend einfache Handhabung</li><li>bis zu 6 Meter lange Wasserspritzfontäne</li><li>weiche Schaumstoffbeschichtung schützt vor Verletzungen<br/></li></ul>"
-}

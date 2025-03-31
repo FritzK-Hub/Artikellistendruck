@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Vogel- oder Laubschutznetz 10 x 2 m</li><li>aus strapazierfähigem, grünem HDPE gefertigt</li><li>schützt zuverlässig Obstbäume oder Sträucher</li><li>ist ein vielseitig einsetzbare Abdecknetz</li><li>dank spezieller Konstruktion auch als Tauchnetz verwendbar</li></ul>"
-}

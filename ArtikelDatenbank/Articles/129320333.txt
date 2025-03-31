@@ -1,4 +1,0 @@
-{
-    "uvp": 1.19,
-    "attributes": "<ul><li>Saatscheiben Basilikum-Mix in verschiedenen Sorten</li><li>zum Verfeinern von Salaten, Suppe oder Saucen</li><li>kann in Desserts oder Cocktails beigemischt werden</li><li>essbare Blüten dienen als dekorative Garnierung</li><li>eine natürliche Nahrungsquelle für Bienen und Hummeln</li></ul>"
-}

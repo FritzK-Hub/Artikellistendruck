@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Schleifglitter für Wand- und Deckenschleifer </li><li>für alle Oberflächen geeignet</li><li>für runde Schleifköpfe (215 mm)</li><li>12 Stück im Set, mit Absauglochung</li><li>100 / 180-er Körnung</li></ul>"
-}

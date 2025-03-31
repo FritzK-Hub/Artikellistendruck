@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>praktischer Klammerbügel mit 2 Klammern</li><li>zum Aufhängen von Hosen und Kleidung</li><li>aus robustem Metall</li><li>Klemmen aus schwarzem Kunststoff</li><li>auch für Gartenstuhlkissen oder Auflagen geeignet<br/></li></ul>"
-}

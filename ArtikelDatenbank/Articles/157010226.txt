@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Putzeffektfarbe gebrauchsfertig</li><li>mit sandig rauer Oberfläche</li><li>zum Aufrollen und strukturieren</li><li>individuell gestaltbar</li><li>überstreichbar in allen trendigen Farbtönen</li></ul>"
-}

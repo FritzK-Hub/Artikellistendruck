@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Geschirrreiniger 2-Phasen-Tabs</li><li>neue Premium-Rezeptur für erhöhte Wirksamkeit</li><li>makellos sauberes Geschirr</li><li>problemlose Entfernung hartnäckiger Verschmutzungen</li><li>einfache Anwendung<br/><br/></li></ul>"
-}

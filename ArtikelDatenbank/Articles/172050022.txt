@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "                    nur zum Anschluss von schutzisolierten Geräten,/nmit  Schnurzwischenschalter 2(1) A,/nZuleitung: H03VVH2-F 2x0,75 mm²,/nmit Euro-Stecker,/nNennspannung: 250 V~,/nNennstrom: 2,5 A\"\"/n                "
-}

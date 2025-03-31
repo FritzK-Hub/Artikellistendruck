@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>1000 Tackerklammern</li><li>aus verkupfertem Metall<br/></li><li>in praktischer Aufbewahrungsbox</li><li>zum Bündeln von mehreren Blättern</li><li>Heftklammern Größe 24/6<br/></li></ul>"
-}

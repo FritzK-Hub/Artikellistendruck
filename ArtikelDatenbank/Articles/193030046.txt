@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Nistkasten mit Meisenmotiv</li><li>aus robustem Kiefernholz gefertigt</li><li>ist in verschiedenen Farben erhältlich (Farbauswahl nicht möglich)</li><li>bietet ein Zuhause für verschiede Wild- und Singvögel</li><li>fehlende Anflugstange verhindert Nesträuber<br/></li></ul>"
-}

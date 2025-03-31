@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>Künstlerleinwand 50 x 70 cm aus 100 % Baumwolle</li><li>blütenweiß, 3-fach grundiert</li><li>auf Holzrahmen aufgezogen</li><li>geeignet für Acrylfarben, Ölfarben, Gouache, Tempera</li><li>für Profis und Hobbymaler<br/></li></ul>"
-}

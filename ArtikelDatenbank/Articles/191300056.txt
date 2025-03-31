@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Filztasche mit Bestickung \"Herrenhandtasche\"</li><li>mit 6 Fächern für Flaschen oder Dosen</li><li>ideal für Picknick, Einkauf oder Strand geeignet</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar</li><li>komfortabler und auffallender \"Sixpack\"</li></ul>"
-}

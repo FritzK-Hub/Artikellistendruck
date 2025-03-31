@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Kopfsalat Kagraner Sommer 2 für ca. 200 Pflanzen</li><li>hohe Schoßfestigkeit und Hitzebeständigkeit</li><li>dunkelgrüne, große und feste Köpfe</li><li>probefeldgetestete Qualität</li><li>hervorragend für den Erwerbsanbau und den Kleingarten</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>sorgt an kalten Tagen für angenehme Wärme</li><li>LED-Frontleuchte sorgt für klare Sicht</li><li>ausreichende Beleuchtung, auch ohne freie Hand</li><li>mit vier verschiedenen Leuchtstufen ausgestattet</li><li>im Freien, bei Reparaturen oder anderen Aktivitäten einsetzbar<br/></li></ul>"
-}

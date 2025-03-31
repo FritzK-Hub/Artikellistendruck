@@ -1,4 +1,0 @@
-{
-    "uvp": 120.95,
-    "attributes": "<ul><li>robustes, leichtes Aluminiumgestell</li><li>hohe Tragkraft für schwere Lasten</li><li>große Räder zum mühelosen Manövieren</li><li>Handschutzbügel bieten zusätzliche Sicherheit</li><li>kompakte Bauweise zur platzsparenden Lagerung</li></ul>"
-}

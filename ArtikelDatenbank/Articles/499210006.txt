@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>garantiert gleichmäßige Lastverteilung und sorgt für stabilere Konstruktionen</li><li>besonders langlebig und stabil, aus galvanisch verzinktem Stahl</li><li>erleichtert die Montage, reduziert die Reibung zwischen Schraube und Oberfläche</li><li>verhindern ein ungewolltes Lösen der Verbindung durch Vibration oder Reibung</li><li>schützt vor Beschädigungen und Verformungen, vermindert den Druck auf der Schraube<ul></ul></li></ul>"
-}

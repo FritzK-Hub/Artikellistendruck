@@ -1,4 +1,0 @@
-{
-    "uvp": 17.95,
-    "attributes": "<ul><li>platzsparender Regalwagen für Nischennutzung optimiert</li><li>Farbauswahl zur individuellen Raumgestaltung</li><li>schnelle werkzeugfreie Montage zum sofortigen Einsatz</li><li>Mobilität und Stabilität durch Rollen mit Feststellbremse</li><li>hygienisches Metall und Drahtgeflecht für Frische und einfache Reinigung</li></ul>"
-}

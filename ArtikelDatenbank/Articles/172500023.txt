@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>SAT-Adapter zum Aufschrauben</li><li>Anschlüsse F-Stecker und Koax-Kupplung</li><li>für die Verbindung von Koaxialkabel und F-Stecker</li><li>Antennenstecker wird zum F-Stecker</li><li>leichte Handhabung</li></ul>"
-}

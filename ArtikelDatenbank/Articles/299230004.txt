@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Schnellbauschrauben als schnelle und stabile Befestigungslösung</li><li>Rostschutz durch Phosphatierung</li><li>problemlose Verarbeitung mit Trockenbau-Bithalter</li><li>Perfektion durch makelloses Finish</li><li>professionelles Ergebnis für jeden Ausbau</li></ul>"
-}

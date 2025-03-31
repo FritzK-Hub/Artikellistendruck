@@ -1,4 +1,0 @@
-{
-    "uvp": 3.9,
-    "attributes": "<ul><li>leichtes Aluminiumgehäuse für präzises Arbeiten</li><li>Abbrechklinge bietet stets scharfe Schnitte</li><li>vielseitig für verschiedene Materialien geeignet</li><li>sicherer Klingenschieber mit Rasterung</li><li>kompakt und ideal für unterwegs</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Dampfentsafter Ø 22 cm aus Edelstahl</li><li>für die Herstellung von vitaminreichen und haltbaren Säften oder Gelee</li><li>Kernobst muss nicht mehr entsteint werden, großes Obst nur noch in grobe Stücke schneiden</li><li>ideal für jegliche Beeren-Art, Schlehen, Äpfel oder Birnen</li><li>inklusive Schlauch zum Abfüllen des gewonnenen Safts</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>für moderne Otto- und Dieselmotoren entwickeltes Motorenöl</li><li>auf Basis ausgesuchter HC-Synthese-Grundöle</li><li>passend für die verschiedensten Fahrzeuge</li><li>sehr gute Kaltstarteigenschaften und niedriger Ölverbrauch</li><li>erfüllt die Anforderungen der ACEA C3-Spezifikation</li></ul><p></p>"
-}

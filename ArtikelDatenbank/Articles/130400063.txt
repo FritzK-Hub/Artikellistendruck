@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Heizlüfter 2000 Watt mit drei Leistungsstufen</li><li>sorgt schnell und praktisch für die ideale Temperatur</li><li>Heizstufen mittels Thermostat regulierbar</li><li>für vertikale und horizontale Nutzung geeignet</li><li>inklusive Überhitzungsschutz, Kontrolleuchte und Tragegriff<br/></li></ul>"
-}

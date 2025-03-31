@@ -1,4 +1,0 @@
-{
-    "uvp": 10.49,
-    "attributes": "<ul><li>1 Rolle Natur-Kordel</li><li>zum Verpacken und Befestigen</li><li>für Pakete bis zu 20kg geeignet</li><li>universell einsetzbare Packkordel</li><li>für drinnen und draußen geeignet</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>für präzise Entfernungsmessungen von 0,05 bis 40 Metern</li><li>verfügt über vielseitige Funktionen für diverse Anwendungen</li><li>einfache Ablesbarkeit, dank übersichtlichem digitalen Display</li><li>Messausgangspunkt zwischen Hinter- und Vorderkante des Geräts wählbar</li><li>ermöglicht etwa 8000 Messungen, bevor ein Batteriewechsel erforderlich ist <br/></li></ul>"
-}

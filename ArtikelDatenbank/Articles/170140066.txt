@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>gebogenes Raspelblatt aus Stahl</li><li>Ersatzblatt für Gipskartonschaber</li><li>Raspelblatt / Ersatzblatt</li><li>Packungsinhalt: 2 Stück</li></ul>"
-}

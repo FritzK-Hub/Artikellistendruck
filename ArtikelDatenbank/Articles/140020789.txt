@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<p>lebendige Farbvielfalt<br/>angenehmes Tragegefühl<br/>perfekt für Socken<br/>hochwertiges Material<br/>kreative Vielseitigkeit<br/></p>"
-}

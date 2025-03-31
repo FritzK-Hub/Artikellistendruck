@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Klarsicht-Tischdecke mit 1,40 m Breite<br/></li><li>schonend zu deiner Tischplatte dank weichem Material</li><li>optimaler Schutz für empfindliche Holzoberflächen</li><li>pflegeleichte, abwaschbare Tischdecke transparent</li><li>Länge wählbar - bis zu ganzen Rollen (25 m)</li></ul><p></p>"
-}

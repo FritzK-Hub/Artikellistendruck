@@ -1,4 +1,0 @@
-{
-    "uvp": 44.95,
-    "attributes": "<ul><li>Radblenden im 4er Set 17''</li><li>silberne Optik mit Chrom Caps</li><li>Aussparung für den Ventilschaft</li><li>bruchsicher, schlagfest und splitterfrei</li><li>2 mal lackiert</li></ul>"
-}

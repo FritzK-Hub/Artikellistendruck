@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li><div>Gartendusche mit Standfuß</div></li><li>mit 4 Wasserstrahleinstellungen</li><li>leicht und korrosionsbeständig</li><li>Außendusche auf Erdspieß</li><li>schnell und einfach aufgebaut</li></ul>"
-}

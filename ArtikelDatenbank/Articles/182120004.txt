@@ -1,4 +1,0 @@
-{
-    "uvp": 4.29,
-    "attributes": "<ul><li>Reflektoren für Fahrradspeichen</li><li>StVZO zugelassen</li><li>Stabile Kunststoff-Ausführung</li><li>zum Einklemmen in die Speichen</li><li>diebstahlsicher durch Sicherheitsclips</li></ul>"
-}

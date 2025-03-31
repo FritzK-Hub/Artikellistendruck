@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>praktischer Breitmeißel mit SDS max Aufnahme</li><li>vielseitig für schlagende Elektrowerkzeuge geeignet<br/></li><li>für Stemmarbeiten in Beton, Mauerwerk, Stein </li><li>werkzeugloser und schneller Wechsel</li><li>hochwertige Qualität von Feida<br/></li></ul>"
-}

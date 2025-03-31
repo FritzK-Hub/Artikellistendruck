@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Bohrer Set zum Vorbohren und Anfertigen von Gewindelöchern</li><li>in stabiler Metallkassette</li><li>poliert und geschliffen</li><li>HSS Bohrer und Gewindebohrer aus Si-Cr Stahl</li><li>nach DIN-Norm gefertigt</li></ul>"
-}

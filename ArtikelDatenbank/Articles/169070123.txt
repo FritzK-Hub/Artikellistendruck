@@ -1,4 +1,0 @@
-{
-    "uvp": 15.95,
-    "attributes": "<ul><li>Einsteckschloss Einbausicherung von ISEO<br/></li><li>für rechts- und links-hängende Türen</li><li>für höhere Innen-Türsicherheit</li><li>DIN 72 mm Zimmertür</li><li>inklusive Buntbartschlüssel und Schloss<br/></li></ul>"
-}

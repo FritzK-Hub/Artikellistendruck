@@ -1,4 +1,0 @@
-{
-    "uvp": 79.95,
-    "attributes": "<ul><li>12 V Akku Bohrschrauber von GERMANIA®</li><li>Akkuschrauber mit 2-Gang Getriebe</li><li>einfache Handhabung dank ergonomischem Gehäuse</li><li>ausgestattet mit LED Arbeitslicht</li><li>1,5 Ah Akku und 3-5 Stunden Ladegerät</li></ul>"
-}

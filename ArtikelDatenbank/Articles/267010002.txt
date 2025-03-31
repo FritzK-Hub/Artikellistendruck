@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>vielseitige Einsatzmöglichkeiten</li><li>aus hochwertigen Materialien gefertigt</li><li>besonders kompakt und leicht</li><li>hohe Tragfähigkeit</li><li>extrem korrosionsgeschützt und langlebig<br/></li></ul>"
-}

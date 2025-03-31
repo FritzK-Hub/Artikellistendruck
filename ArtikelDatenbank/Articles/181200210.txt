@@ -1,4 +1,0 @@
-{
-    "uvp": 1.29,
-    "attributes": "<ul><li>Saatgut Balkonschmuck für ca. 20 Pflanzen</li><li>ist eine einjährige, vielfältige Blumenmischung</li><li>zur Begrünung von Balkonkästen und Lauben</li><li>auch an Zäunen oder Wänden einsetzbar</li><li>verfügt über eine Probefeldgetestete Qualität</li></ul>"
-}

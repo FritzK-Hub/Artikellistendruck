@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>manueller Scheepflug aus hochwertigem Kunststoff</li><li>verstärktes Schild mit langlebiger Aluminiumkante<br/></li><li>die Schnecke aus Metall sorgt für einen schnellen Schneeauswurf zur Seite</li><li>stabiler Metall-Handgriff zur einfachen Führung der manuellen Schneefräse<br/></li><li>große Räumbreite für eine schnelle Bearbeitung von großen Einfahrten und Flächen</li></ul>"
-}

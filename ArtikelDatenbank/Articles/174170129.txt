@@ -1,4 +1,0 @@
-{
-    "uvp": 8.29,
-    "attributes": "<ul><li>Ersatzklingen für Dämmstoffmesser</li><li>für Mineral- und Dämmstoffe</li><li>ideal für Styropor® geeignet</li><li>Inhalt 2 Stück</li><li>Ersatzklingen mit glatter Schneide</li></ul>"
-}

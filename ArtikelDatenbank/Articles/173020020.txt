@@ -1,4 +1,0 @@
-{
-    "uvp": 17.99,
-    "attributes": "<ul><li>Bit-Set 7-teilig mit 3/8\" Antrieb<br/></li><li>Größen: T 15-20-25-30-40-45-50 (ohne Bohrung)</li><li>inkl. Aufsteckschiene</li><li>matt verchromt, gerändelt</li><li>auf Metallschiene</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>TFA Stecker 7 polig mit 12 V</li><li>aus schlagfestem Kunststoff gefertigt</li><li>für die Stromversorgung deines Anhängers</li><li>Schraubanschluss mit Zugentlastung</li><li>ist spritzwassergeschützt mit IP44<br/></li></ul>"
-}

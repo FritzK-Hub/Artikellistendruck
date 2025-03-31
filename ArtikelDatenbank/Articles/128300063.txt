@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Sonnenschirmständer eckig in Braun</li><li>aus wetterbeständigem Kunststoff gefertigt</li><li>hat ein Fassungsvermögen von ca. 12 Liter</li><li>ein echter Blickfang in deinem Garten oder Balkon</li><li>für Sonnenschirmstangen von Ø 19 bis 26 mm<br/></li></ul>"
-}

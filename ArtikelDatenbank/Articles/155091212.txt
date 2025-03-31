@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>helle Leuchtkraft für markante Botschaften</li><li>geruchsneutrale Frische für angenehme Anwendung</li><li>vielseitig auf verschiedenen Oberflächen einsetzbar</li><li>müheloses Abwischen dank Wasserbasierung</li><li>präzises Schreiben mit variabler Strichstärke</li></ul><p></p>"
-}

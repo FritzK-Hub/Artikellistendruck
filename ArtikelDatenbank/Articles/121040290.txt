@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>stilvolle und moderne Art, Erinnerungen zu präsentieren</li><li>Platz für ein 8 cm Durchmesser Bild</li><li>leichter und stabiler Kunststoffrahmen</li><li>klares Kunstglasfenster, schützt vor Staub und Beschädigungen</li><li>modernes Design mit \"LOVE\" Schriftzug<br/></li></ul>"
-}

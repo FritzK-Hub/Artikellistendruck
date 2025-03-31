@@ -1,4 +1,0 @@
-{
-    "uvp": 16.84,
-    "attributes": "<ul><li>zuverlässige Wahl für deine Tischprojekte</li><li>verstellbarer Kunststofffuß zum Ausgleich von Unebenheiten</li><li>pulverbeschichtetes Stahlrohr schützt vor Korrosion</li><li>solide verarbeitet und hoch belastbar</li><li>fügt sich nahtlos in jede Einrichtung ein<br/></li></ul>"
-}

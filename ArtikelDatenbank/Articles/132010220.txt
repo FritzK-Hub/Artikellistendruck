@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Kauring mit extra viel Huhn</li><li>besonders fettarmer Knabberspaß</li><li>stärkt die Kaumuskulatur</li><li>kann Zahnbelag und Zahnstein reduzieren </li><li>unterstützt die Zahnreinigung</li></ul>"
-}

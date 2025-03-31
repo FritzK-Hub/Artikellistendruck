@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Portion Saatgut für ca. 12 Pflanzen inklusive Stecketikett</li><li>kleinfruchtige Obst- oder Kirschtomate</li><li>auch als Stabtomate sorgt sie für hohe Erträge</li><li>hoher Vitamin C- und A-Gehalt</li><li>bevorzugt nährstoffreichen, humosen Boden<br/></li></ul>"
-}

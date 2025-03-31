@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>2-armiger Handtuchhalter</li><li>aus verchromtem Metall</li><li>schwenkbare Arme</li><li>inklusive Montagematerial</li></ul>"
-}

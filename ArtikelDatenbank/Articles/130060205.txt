@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Heftpflaster von Wundmed</li><li>fixiert Mullkompressen und Binden</li><li>luftdurchlässig und hohe Klebekraft</li><li>mit praktischer Schutzhülle</li><li>leicht reißbar<br/></li></ul>"
-}

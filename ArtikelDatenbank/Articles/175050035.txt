@@ -1,4 +1,0 @@
-{
-    "uvp": 37.95,
-    "attributes": "<ul><li>ideal für viele Anwendungen an Karosserie und allen metallischen Oberflächen</li><li>zur Verwendung mit Normalkorund Körnung 46 bis 100</li><li>zum Entfernen alter Farbe, Rost, starker Verschmutzungen</li><li>inklusive 4 verschiedenen Strahlkappen</li><li>durch Wiederverwendung des Strahlguts (nicht enhalten) nur geringer Verbrauch</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>aus einem Stück Baumstamm geschnitten </li><li>lange Brenndauer bis zu ca. 2 Stunden</li><li>handlich durch integrierten Tragegriff</li><li>spendet sowohl Licht als auch Wärme im Freien</li><li>gerade Oberfläche für Kochtöpfe oder Pfannen<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Flügelmutter verzinkt DIN 315</li><li>kantig, amerikanische Form</li><li>aus galvanisch verzinktem Stahl</li><li>Montage ganz ohne Werkzeug</li><li>ideal für schnell zu lösende Verbindungen</li></ul><p></p>"
-}

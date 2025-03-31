@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Geranien hängend in verschiedenen Farben im Blumentopf</li><li>sind die beliebtesten Sommerblumen</li><li>ideal für den Garten, Balkon oder auf Fußwegen</li><li>in Kombination für eine farbige Blütenpracht</li><li>auch mit niederen Stauden kombinierbar<br/></li></ul>"
-}

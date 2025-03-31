@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>universelles Sicherungselement zur Fixierung zusammengefügten Bauteilen</li><li>vielseitig im Automobilbereich z.B. für Muttern oder Kronen einsetzbar</li><li>verhindert zuverlässig das ungewollte Verdrehen der einzelnen Komponenten</li><li>dient auch zur Sicherung von Achen und Bolzen gegen das Verschieben</li><li>lässt sich schnell Anbringen und einfach durch Umbiegen der Stifte sichern</li></ul>"
-}

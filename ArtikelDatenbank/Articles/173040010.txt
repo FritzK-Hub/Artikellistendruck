@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>matt verchromt mit Kordierung</li><li>6-kant Pro-Torque-Profil</li><li>Größen: 10-13-15-16-17-18-19-22-24 mm</li><li>auf Schiene</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Profi Fäustel Hickory</li><li>mit Stielschutz</li><li>1000g</li></ul>"
-}

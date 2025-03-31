@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Tacker Klammern aus Feindraht</li><li>für viele gängige Hand- und Elektrotacker</li><li>für eine schnelle und zuverlässige Verbindung</li><li>dringen mühelos in verschiedenen Werkstoffen ein</li><li>Verwendung im Modellbau, Büro oder Haushalt</li></ul>"
-}

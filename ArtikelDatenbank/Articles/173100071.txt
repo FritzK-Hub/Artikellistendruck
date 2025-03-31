@@ -1,4 +1,0 @@
-{
-    "uvp": 5.29,
-    "attributes": "<ul><li>LED-Lampe birnenförmig mit 6,5 W</li><li>hohe Farbwiedergabe, RA-Wert größer 98</li><li>längere Lebensdauer im Vergleich zu normalen Glühbirnen</li><li>Energieersparnis bei gleicher Leuchtkraft gegenüber Standardlampen</li><li>Lampenwechsel durch einfaches Austauschen der Standardglühlampe<br/></li></ul>"
-}

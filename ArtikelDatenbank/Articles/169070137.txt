@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>Schließzylinder von außen schließbar auch wenn innen Schlüssel steckt</li><li>6 Schlüssel</li><li>Not- und Gefahrenfunktion</li><li>Schlüssel-Prägenummer für Anfertigung Gleichschließungen</li></ul>"
-}

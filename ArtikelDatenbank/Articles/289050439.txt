@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Vierkantrohr gleichschenklig 25 mm</li><li>aus kaltgewalztem Stahl gefertigt</li><li>verfügt über eine Länge von ca. 1 m</li><li>dient als Verkleidungs-, Abdeckungs- und Konstruktionselement</li><li>mit handelsüblicher Metallsäge oder Trennschleifer abzulängen</li></ul>"
-}

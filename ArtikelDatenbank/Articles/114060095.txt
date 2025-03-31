@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>Grußkärtchen mit Glimmer in Silber</li><li>neutral gehaltenes Design</li><li>optimal für verschiedene Anlässe</li><li>viel Platz für persönliche Glückwünsche oder Grüße</li><li>hochwertige Ausführung<br/><br/></li></ul>"
-}

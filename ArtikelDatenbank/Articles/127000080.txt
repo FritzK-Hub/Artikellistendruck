@@ -1,4 +1,0 @@
-{
-    "uvp": 34.99,
-    "attributes": "<ul><li>robuste Stahlmesser mit Wellenschliff</li><li>optimaler Arbeitswinkel</li><li>ergonomisch geformte Griffe</li><li>Stoßdämpfer aus Spezialkunststoff</li><li>Griffe aus nachhaltig geerntetem Holz<br/></li></ul><p><br/><br/></p>"
-}

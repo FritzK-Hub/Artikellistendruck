@@ -1,4 +1,0 @@
-{
-    "uvp": 9.82,
-    "attributes": "<ul><li>zum Verbinden von 2 halbrunden Dachrinnen</li><li>kein Verrutschen oder Verformen</li><li>stabile und spaltfreie Verbindungen</li><li>aus robustem Kunststoff</li><li>Nennweite RG 100</li></ul>"
-}

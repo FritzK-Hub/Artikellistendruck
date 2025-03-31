@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Packung Saatgut für ca. 40 m²</li><li>sehr früh erntefähig</li><li>eignet sich als Nachfrucht mit Aussaat Ende Juni und als Minirübe</li><li>dunkelrotes Fleisch</li><li>für Sommer- und Herbsternte<br/></li></ul>"
-}

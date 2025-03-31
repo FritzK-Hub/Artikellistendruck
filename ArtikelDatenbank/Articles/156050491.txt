@@ -1,4 +1,0 @@
-{
-    "uvp": 2.29,
-    "attributes": "<ul><li>Schleifschwamm mit feiner bis mittlerer Körnung</li><li>für Arbeiten an KFZ, Motorrad, Boot usw.</li><li>ideal zur Bearbeitung von Holz und Metall</li><li>flexibel, mit Schaumstoffkern</li><li>praktische, handliche Abmessung</li></ul>"
-}

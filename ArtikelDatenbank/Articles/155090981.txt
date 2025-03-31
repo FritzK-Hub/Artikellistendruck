@@ -1,4 +1,0 @@
-{
-    "uvp": 40.46,
-    "attributes": "<ul><li>mit Druck-Wechselschaltfunktion</li><li>elektronischer Helligkeitsregler (Dimmer) für Unterputz-Montage</li><li>klassisches Design mit hochglänzender Oberfläche</li><li>geeignet für Niedervolt-Halogenlampen mit elektronischem Trafo und Glühlampen</li><li>kann anstelle jedes Aus- / Wechselschalters eingesetzt werden</li><li>fügt sich in viele Einrichtungskonzepte ein</li></ul>"
-}

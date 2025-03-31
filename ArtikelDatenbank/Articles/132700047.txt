@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>USB-Adapter mit 2 Ladeanschlüssen für flexible Geräteverbindung</li><li>mit allen 20V-Akkus der 2.0 Plattform-Kollektion kompatibel</li><li>als Ersatzstromquelle auf Reisen und Outdoor-Aktivitäten einsetzbar</li><li>ermöglicht ein bequemes und einfaches Aufladen von Handys</li><li>eingebaute Taschenlampe sorgt für klare Sicht im Dunkeln<br/></li></ul>"
-}

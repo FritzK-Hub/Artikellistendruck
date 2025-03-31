@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>vielseitig für Befestigung an Decken und Wänden</li><li>kompakte Größe für verschiedene Oberflächen</li><li>besonders robust für mehr Halt</li><li>äußerst stabil dank Kragen</li><li>langlebiges Polyethylen für Innenräume<br/></li></ul>"
-}

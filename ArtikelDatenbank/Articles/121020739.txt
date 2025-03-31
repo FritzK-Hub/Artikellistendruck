@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>selbstklebendes Verbotsschild</li><li>mit Beschriftung \"Kein Zutritt für Hunde\"</li><li>schwarz-rotes Symbol \"keine Hunde\"</li><li>auf weißem Hintergrund</li></ul>"
-}

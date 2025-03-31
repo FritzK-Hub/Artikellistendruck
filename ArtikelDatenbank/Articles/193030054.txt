@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>zum Füttern von freilebenden Vögeln</li><li>besonders stabil, aus schwarzem Stahl gefertigt</li><li>bietet ausreichend Platz für bis zu sieben Meisenknödel</li><li>leichtes aufhängen am Baum, Dachbalken oder Gartenhäuschen</li><li>hochschiebbare Deckel erleichtert das Befüllen der Halterung<br/></li></ul>"
-}

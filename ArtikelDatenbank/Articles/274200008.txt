@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Spannzwinge für punktgenaues Fixieren</li><li>spitzer Spannarm für Zwischenräume</li><li>hohe Spanntiefe für randfernen Einsatz</li><li>zum Leimen und Verkleben von Elementen</li><li>optimaler Helfer für Arbeiten im Holz- und Möbelbau</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>für verstärkte Löcher in Papier, Leder, Textilien usw.</li><li>inkl. 100 Rundösen</li><li>Innendurchmesser der Rundösen: 4,5mm</li></ul>"
-}

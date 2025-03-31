@@ -1,4 +1,0 @@
-{
-    "uvp": 17.03,
-    "attributes": "<ul><li>Messingschlösser-Satz 4-teilig<br/></li><li>je Schloss 3 Schlüssel</li><li>Bügel Ø: 4,0 mm</li><li>Bügelbreite innen: 22 mm</li><li>Bügelhöhe innen: 22 mm</li></ul>"
-}

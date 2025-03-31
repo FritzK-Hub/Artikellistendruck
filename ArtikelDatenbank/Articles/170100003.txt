@@ -1,4 +1,0 @@
-{
-    "uvp": 3.2,
-    "attributes": "<ul><li>Schneidlade aus Kunststoff</li><li>geeignet für 45 und 90 Grad Schnittkanten</li><li>zum exakten Sägen von kleineren Werkstücken wie Leisten, Stangen und Rohre</li><li>Führungsrillen zum exakten Sägen</li><li>für Leisten bis maximal 35 x 40 cm</li></ul><p><br/></p>"
-}

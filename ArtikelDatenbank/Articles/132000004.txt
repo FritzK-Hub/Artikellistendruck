@@ -1,4 +1,0 @@
-{
-    "uvp": 119.95,
-    "attributes": "<ul><li>900 W Schlagbohrmaschine von GERMANIA®</li><li>zum Bohren in Holz, Beton und Metall</li><li>mit Schnellwechsel-Bohrfutter</li><li>im praktischen Kunststoff-Koffer</li><li>inklusive Tiefenschlag und Zusatzhandgriff</li></ul>"
-}

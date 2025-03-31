@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Batterieladegerät 12 V 4 A zum Aufladen von Autobatterien</li><li>geeignet für Bleisäure, Gel, EFB und AGM-Batterien</li><li>verfügt über einen Überhitzungs- wie Überladungsschutz und eine Kurzschlusssicherung</li><li>intuitive LED-Anzeige zeigt stets den aktuellen Ladezustand an</li><li>inklusive Schnellkontaktkabel mit Batterieklemmen<br/></li></ul>"
-}

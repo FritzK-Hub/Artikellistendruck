@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Gartenhandschuhe Größe 7 in pink</li><li>Handinnenfläche mit Nitril-Beschichtung versehen</li><li>ermöglicht eine reibungslose Gartenarbeit</li><li>besitzt eine gute Griff- wie Rutschfestigkeit</li><li>besitzt einen angenehmen Komfort wie Belastbarkeit</li></ul>"
-}

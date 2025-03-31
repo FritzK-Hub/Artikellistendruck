@@ -1,4 +1,0 @@
-{
-    "uvp": 16.9,
-    "attributes": "<ul><li>passend für nach außen gerichtete Dachecken</li><li>für zuverlässige Dachentwässerung</li><li>aus stabilem Kunststoff</li><li>witterungsbeständig und UV-beständig</li><li>Nennweite RG 70</li></ul>"
-}

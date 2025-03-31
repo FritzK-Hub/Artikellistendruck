@@ -1,4 +1,0 @@
-{
-    "uvp": 2.3,
-    "attributes": "<ul><li>umfangreiches Dichtungssortiment, 50-teilig</li><li>verschiedene Dichtungsmaterialien</li><li>verschiedene Größen und Ausführungen</li><li>eignet sich für den Einsatz in verschiedenen Bereichen</li><li>gewährleisten eine sichere und dauerhafte Abdichtung<br/></li></ul>"
-}

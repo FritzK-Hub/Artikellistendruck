@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>50 Deckel für Pappbecher \"Coffee to go\"</li><li>aus Kunststoff</li><li>in der Farbe weiß</li><li>passend für 200 cl Becher</li><li>Premium Qualität</li></ul>"
-}

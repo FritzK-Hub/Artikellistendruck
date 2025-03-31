@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li><div>für Gartenschläuche bis ca. 25 - 30 m Länge</div></li><li>aus stabilem Kunststoff gefertig</li><li>zur Wandbefestigung von Gartenschläuchen</li><li>mit drei Halterungen für Handbrausen oder Werkzeug</li><li><div>mit Halterungen für Gartenspritze und Zubehör</div></li></ul>"
-}

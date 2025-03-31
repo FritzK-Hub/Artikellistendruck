@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Rollkleister extra für Vliestapeten</li><li>Kleisterauftrag direkt auf die Wand</li><li>hohe Anfangshaftung</li><li>optimale Klebesicherheit</li><li>sehr ergiebig, leicht zu verarbeiten</li></ul>"
-}

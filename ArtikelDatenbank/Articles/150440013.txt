@@ -1,4 +1,0 @@
-{
-    "uvp": 28.95,
-    "attributes": "<ul><li>manuelle Gewürzmühle zum Verfeinern von Pfeffer</li><li>Mahlwerk aus Metall speziell für Pfeffer</li><li>mit Knopf für einstellbaren Mahlgrad</li><li>abschraubbarer Kopf zum einfachen Befüllen</li><li>schlanke Form, modernes Design<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 18.49,
-    "attributes": "<ul><li>zum Anschluss eines USB-Endgerätes mit USB-C-Buchse<br/></li><li>USB-C-Kabel mit schneller Übertragungsrate</li><li>zusätzlich abgeschirmt gegen Störeinflüssen</li><li>robuste Stecker mit eingegossenen Zugentlastungen</li><li>ideal zum Laden, Daten übertragen und Synchronisieren</li></ul>"
-}

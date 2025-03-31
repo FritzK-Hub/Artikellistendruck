@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>farbenfrohes und robustes Design</li><li>solarbetrieben und umweltfreundlich</li><li>bis zu 8 Stunden Leuchtkraft</li><li>elegantes Licht hinter blauem Glas</li><li>vielseitig platzierbar im Garten</li></ul>"
-}

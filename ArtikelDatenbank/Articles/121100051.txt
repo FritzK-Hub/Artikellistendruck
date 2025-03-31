@@ -1,4 +1,0 @@
-{
-    "uvp": 34.95,
-    "attributes": "<ul><li>hochwertige Pflanzschale</li><li>zum direkten Bepflanzen geeignet</li><li>ideal zur Dekoration von größeren Flächen</li><li>stabiles Pflanzgefäß für innen und außen</li><li>Pflanzschale in matter Optik</li></ul>"
-}

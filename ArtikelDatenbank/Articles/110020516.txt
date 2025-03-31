@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>vier Fliegenfänger für eine großzügige Abdeckung oder zum Aufteilen in verschiedenen Räumen</li><li>ohne den Einsatz von schädlichen Chemikalien für sensible Bereiche geeignet</li><li>hinterlässt keine unangenehmen Gerüche oder Rückstände</li><li>wirkt narürlich und effektiv</li><li>wirkt bis zu 8 Wochen</li></ul>"
-}

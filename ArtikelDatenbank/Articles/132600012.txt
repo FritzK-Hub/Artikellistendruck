@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Elektrotacker MET14/16-2 für Klammern und Nägel</li><li>leistungsfähig, 30 Schüsse pro Minute</li><li>Sicherheitsvorrichtung gegen ungewolltes Auslösen</li><li>einstellbare, stufenlose Schlagkraftregelung</li><li>inklusive 400 Klammern und 100 Nägel</li></ul>"
-}

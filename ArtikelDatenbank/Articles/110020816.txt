@@ -1,4 +1,0 @@
-{
-    "uvp": 14.99,
-    "attributes": "<ul><li>Lizetan® AZ Schädlingsfrei Gießmittel </li><li>gegen Trauermücken und andere Bodenschädlinge</li><li>sofortige Wirksamkeit</li><li>geeignet für Zier- und Zimmerpflanzen</li><li>geruchlos</li></ul>"
-}

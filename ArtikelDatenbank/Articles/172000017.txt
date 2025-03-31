@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Steckdose Roma mit Kindersicherung</li><li>aus stabilem, weißem Kunststoff</li><li>für den Einbau als Unterputzdose geeignet</li><li>nur mit Rahmen der Serie Roma kombinierbar</li><li>die Steckklemmen sind mit inklusive</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>100 Musterklammern</li><li>aus Metall gefertigt</li><li>in praktischer Aufbewahrungsbox</li><li>Musterbeutelklammern in gold</li><li>wiederverwendbare Warensendungs Klammern<br/></li></ul>"
-}

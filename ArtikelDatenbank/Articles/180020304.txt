@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Schlauchverbinder 3/4\" Kunststoff</li><li>zur schnellen Verbindung von 2 Schläuchen</li><li>für 3/4\" Gartenschläuche</li><li>wird zwischen zwei Schlauchenden montiert<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>geeignet zum Bewässern oder Befüllen von Gartenteichen, Pools, etc.</li><li>geeignet für Bohrer mit einer Aufnahme von 6 mm</li><li>maximale Fördermenge 1000 Liter / Stunde</li><li>maximale Förderlänge 40 Meter</li><li>maximale Saughöhe 4 Meter</li></ul>"
-}

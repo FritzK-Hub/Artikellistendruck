@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>50-125-250 mm</li><li>1/2\"</li><li>matt verchromt</li><li>kordiert</li><li>Die Vorteile des bekannten \"Wobble-Systems\" (Kippverlängerung) in neuer Zusammenstellung</li></ul>"
-}

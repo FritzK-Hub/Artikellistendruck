@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>leistungsfähige Alkaline Batterien von Sonderpreis Baumarkt</li><li>Typ LR 03 AAA</li><li>nicht wiederaufladbar</li><li>im 8-er Pack</li><li>ideal zur Bevorratung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 13.99,
-    "attributes": "<ul><li>effektive Schädlingsbekämpfung</li><li>geruchlos und Innenraumtauglich</li><li>besonders bienenfreundlich</li><li>hohe Pflanzenverträglichkeit</li><li>einfache Anwendung<br/><br/></li></ul>"
-}

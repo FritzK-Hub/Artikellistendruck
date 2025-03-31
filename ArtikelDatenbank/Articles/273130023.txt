@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Ring-/Maulschlüssel von GERMANIA®</li><li>aus Chrom Vanadium Stahl gefertigt</li><li>mit satinierter Oberfläche, Kopf poliert</li><li>Schrauben und Mutter können mühelos gelöst oder angezogen werden</li><li>auch für schwer erreichbare Stellen geeignet</li></ul>"
-}

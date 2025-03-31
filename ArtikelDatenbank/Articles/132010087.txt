@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Sepiaschale für Sittiche und andere Vögel</li><li>zusätzliche Quelle für Kalzium und andere Mineralien</li><li>unterstützt gleichzeitig die Schnabelpflege</li><li>einfach in der Handhabung, lässt sich leicht austauschen</li><li>inklusive Halterung, erleichtert die Befestigung<br/></li></ul>"
-}

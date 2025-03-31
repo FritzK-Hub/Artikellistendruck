@@ -1,4 +1,0 @@
-{
-    "uvp": 139.95,
-    "attributes": "<ul><li>Dutch-Oven-Set 7-teilig aus Gusseisen</li><li>für Ausflüge oder Campingurlaub ideal geeignet</li><li>zum Dünsten, Grillen, Schmoren, Backen</li><li>Kochen am offenen Feuer oder auf heißer Glut</li><li>in praktischer Holz-Transportkiste<br/></li></ul>"
-}

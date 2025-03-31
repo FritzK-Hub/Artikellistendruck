@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Lackierwalzen-Set für Farbroller</li><li>für alle Lacke</li><li>glatte Untergründe</li><li>gutes Oberflächenfinish</li><li>Farbrollen beidseitig rollend</li></ul>"
-}

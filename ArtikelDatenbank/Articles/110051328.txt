@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Knoblauchpresse aus Alu-Druckguss<span class=\"modal_lexicon\"></span></li><li>weiß emailliert</li><li>sehr stabil</li><li>lecht zu reinigen</li><li>vielseitig einsetzbar</li></ul><p><br/></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 8.59,
-    "attributes": "<ul><li><strong>Kardangelenk 1/2\"</strong> einzeln erhältlich</li><li>aus robustem Chrom-Vanadium-Stahl gefertigt</li><li>mit Innenvierkant-Antrieb und Außenvierkant(Wellenprofil)</li><li>verfügt über eine verchromte Oberflächenvergütung</li><li>lange Lebensdauer im täglichen Werkstatteinsatzes</li></ul>"
-}

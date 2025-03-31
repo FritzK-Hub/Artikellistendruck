@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>60 Liter Pflanzerde im Sack, ideal für Büsche und Sträucher</li><li>für alle Anwendungsbereiche in Haus und Garten (ausgenommen Moorbeetpflanzen)</li><li>gebrauchsfertige Erde aus Torf, Rindenhumus und Grünkompost</li><li>mit Nährstoffen angereichert</li><li>verbessert und aktiviert das Bodenleben<br/></li></ul>"
-}

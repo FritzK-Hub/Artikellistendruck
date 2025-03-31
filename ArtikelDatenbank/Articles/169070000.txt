@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>vielseitige Sicherheitslösung</li><li>hochwertiger Türzylinder</li><li>praktisch und komfortabel</li><li>leichte Handhabung</li><li>einfache Montage<br/><br/></li></ul>"
-}

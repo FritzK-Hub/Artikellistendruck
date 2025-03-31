@@ -1,4 +1,0 @@
-{
-    "uvp": 3.95,
-    "attributes": "<ul><li>schnelle Trocknungszeit</li><li>vielseitige Anwendung</li><li>starke Haftung</li><li>zuverlässige Versiegelung</li><li>leichte Verarbeitung<br/></li></ul>"
-}

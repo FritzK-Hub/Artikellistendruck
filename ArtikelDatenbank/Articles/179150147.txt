@@ -1,4 +1,0 @@
-{
-    "uvp": 14.03,
-    "attributes": "<ul><li>beeindruckende Zugkraft</li><li>mit Beleuchtungsfunktion</li><li>großzügige Länge</li><li>Präzision und Effizienz</li><li>vielseitige Anwendung</li></ul>"
-}

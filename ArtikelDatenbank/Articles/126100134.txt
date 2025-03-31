@@ -1,4 +1,0 @@
-{
-    "uvp": 249.0,
-    "attributes": "<ul><li>starker Motor für kraftvolle Schnitte</li><li>flexibler Schneidkopf zum präzisen Arbeiten</li><li>komfortabler Schultergurt entlastet die Arme</li><li>emissionsfreier Elektroantrieb schont die Umwelt</li><li>Schnellverschluss ermöglicht sofortige Einsatzbereitschaft</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>Nagler-Klammern 40 mm 2500 Stück KN 40 von Güde</li><li>aus verzinktem Stahl gefertigt</li><li>für viele gängige Druckluftklammergeräte geeignet</li><li>dringen mühelos in verschiedenen Werkstoffen ein</li><li>Verwendung im Modellbau oder Haushalt<br/></li></ul>"
-}

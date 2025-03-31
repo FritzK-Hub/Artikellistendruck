@@ -1,4 +1,0 @@
-{
-    "uvp": 7.49,
-    "attributes": "<ul><li>giftfreie Schulmalfarbe auf Wasserbasis</li><li>für verschiedene Techniken und Untergründe</li><li>äußerst vielseitig und schnelltrocknend</li><li>besonders strahlende Farbe</li><li>geschmeidige Konsistenz<br/></li></ul>"
-}

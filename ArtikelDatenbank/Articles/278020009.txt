@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul> <li>Messgenauigkeit = 0.5 mm/m</li> <li>Materialstärke = 1.2 mm</li> <li>Magnetischer Boden und Enden mit Gummikappen<br/></li> <li>UV-Beständigkeit</li> <li>mit Horizontal-, Vertikal- und Diagonallibelle</li> </ul>"
-}

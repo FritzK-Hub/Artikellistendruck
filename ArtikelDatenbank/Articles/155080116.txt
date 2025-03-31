@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Batterie Säuredichteprüfer aus Kunststoff</li><li>übersichtliche Skalierung an der Kunststoffspindel</li><li>Skalierung 1.12 - 1.16 - 1.20 - 1.24 - 1.28</li><li>Rohr, Ansaugrohr und Spindel aus Kunststoff</li><li>Messungen bei allen Temperaturen möglich</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.19,
-    "attributes": "<ul><li>zum Aufhängen von Bildern, Deko usw.</li><li>einfaches Anbringen ohne Werkzeug</li><li>robust und stabil</li><li>passend für Rahmenstärke bis 12 mm</li><li>keine Beschädigung von Fenster oder Türen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Kabeltrommel mit 10 m Kabel 3G x 1,5 mm²</li><li>aus schlagfestem Kunststoff mit Überhitzungsschutz</li><li>4 Schutzkontaktsteckdosen</li><li>robustes Gestell für einen sicheren Halt</li><li>extra Tragegriff für einen leichteren Transport<br/></li></ul>"
-}

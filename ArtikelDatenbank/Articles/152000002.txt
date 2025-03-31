@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Gehhilfe zum Zusammenstecken mit 5 einstellbaren Längen<br/></li><li>aus stabilem Aluminium gefertigt</li><li>unterstützt dich bei langen Spaziergängen oder Wanderungen</li><li>genieße das Gehen, ohne dabei deinen Rücken zu belasten</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar</li></ul>"
-}

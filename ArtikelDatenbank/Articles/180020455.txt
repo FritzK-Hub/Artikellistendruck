@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>2-Wege Verteilerstück aus Kunststoff</li><li>mit 2 Absperrhähnen und Gummidichtung</li><li>zur Installation an Wasserhahn oder Rohrleitung</li><li>für Wasserhähne mit 3/4\" und 1\" Gewinde</li><li>Ausgänge unabhängig voneinander stufenlos regulierbar<br/></li></ul>"
-}

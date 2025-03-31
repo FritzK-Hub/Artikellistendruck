@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>geeignet für Materialien wie Gipskarton, Porenbeton, Kunststoff, Holz</li><li>vielseitig einsetzbar für Elektro-, Trockenbau- und Sanitärarbeiten</li><li>saubere und professionelle Schnitte für perfekte Ergebnisse</li><li>2-teiliges Set: Lochsäge und Aufnahme mit Bohrer</li><li>kompatibel mit Hand- und Standbohrmaschinen</li></ul>"
-}

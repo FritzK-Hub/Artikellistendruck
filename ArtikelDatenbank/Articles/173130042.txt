@@ -1,4 +1,0 @@
-{
-    "uvp": 8.59,
-    "attributes": "<ul><li>27mm</li><li>verchromt</li><li>nach DIN 3113A</li></ul>"
-}

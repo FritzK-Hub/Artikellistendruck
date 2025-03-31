@@ -1,4 +1,0 @@
-{
-    "uvp": 149.95,
-    "attributes": "<ul><li>leistungsstarker 710 W Wand- und Deckenschleifer </li><li>variable Drehzahlregulierung und Teleskopfunktion</li><li>210 mm Schleifteller für große Flächenabdeckung</li><li>Klettverschluss für schnellen Schleifpapierwechsel</li><li>mit LED Arbeitsleuchte, Absaugschlauch und Schleifscheiben</li></ul>"
-}

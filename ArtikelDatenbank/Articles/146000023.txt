@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>getrocknetes Anzündholz abgepackt zu je 5 dm³</li><li>kompakte Einheiten erlauben mühelose Handhabung</li><li>universelle Nutzung in verschiedenen Öfen</li><li>bequemes Heizen mit ofenfertigen Scheiten</li><li>platzsparend lagern, mehr Raum nutzen<br/></li></ul>"
-}

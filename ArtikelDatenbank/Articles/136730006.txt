@@ -1,4 +1,0 @@
-{
-    "uvp": 8.49,
-    "attributes": "<ul><li>praktisches Hilfsmittel für den Handwerker</li><li>zur Übertragung von z.B. Rundungen auf ein Werkstück</li><li>Konturen werden exakt übernommen</li><li>ideal zum Abtasten von Schnittverläufen</li><li>integrierter Magnethalter für die Aufbewahrung<br/></li></ul>"
-}

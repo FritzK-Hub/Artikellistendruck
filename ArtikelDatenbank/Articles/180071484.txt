@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Untersetzer Terra rund Ø 29 cm in Terracotta</li><li>UV-beständig und stabil</li><li>verhindert das Auslaufen von Wasser</li><li>schützt Fensterbänke vor Beschädigungen</li><li>besteht aus hochwertigem Kunststoff<br/></li></ul>"
-}

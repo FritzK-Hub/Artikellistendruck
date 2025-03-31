@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>Warnflagge ca. 30 x 30 cm in rot</li><li>mit Sonderpreis Baumarkt Logo versehen</li><li>nach StVO zur Ladungssicherung zulässig</li><li>einfache Befestigung am Auto</li><li>inklusive eingeschweißter Aufhängeöse</li></ul>"
-}

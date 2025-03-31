@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Verkleidungswerkzeug zum Entfernen der Autoscheibe</li><li>zum Entfernen von Clips und Gummidichtung</li><li>für die Reinigung der Windschutzscheibenführung</li><li>einfache Anwendung</li><li>unverzichtbar für Autowerkstätten<br/></li></ul>"
-}

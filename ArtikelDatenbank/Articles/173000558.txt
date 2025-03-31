@@ -1,4 +1,0 @@
-{
-    "uvp": 29.99,
-    "attributes": "<ul><li>warmweißes, 3 m langes LED-Band mit Bewegungssensor</li><li>funktioniert kabellos</li><li>2 verschiedene Funktionen auswählbar</li><li>flexibel einsetzbar</li><li>stoß- und kratzfest, dank starker struktureller Stabilität<br/><br/></li></ul>"
-}

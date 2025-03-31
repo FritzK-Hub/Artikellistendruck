@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Glättkelle aus Edelstahl</li><li>mit Holzgriff, lackiert</li><li>zum Auftragen von Putz, Spachtelmasse, etc.</li><li>Stärke Blatt 0,9 mm</li><li>Länge Griff 12 cm</li></ul>"
-}

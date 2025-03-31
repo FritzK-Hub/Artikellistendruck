@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>8 Bodenträger mit Zapfen im Set</li><li>für die Aufnahme von Einlegeböden</li><li>für Bohrlöcher mit einem 5 mm Durchmesser</li><li>braune Kunststoffbeschichtung schützt die Möbel</li><li>Bodenträger zum Stecken</li></ul>"
-}

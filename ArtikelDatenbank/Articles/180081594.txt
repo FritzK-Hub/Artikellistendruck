@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>Frühbeetkasten inklusive Erdnägel</li><li>langlebiger Aluminiumrahmen und Verglasung aus Polycarbonat</li><li>schützt Pflanzen gegen Schädlinge und Frost</li><li>Deckel höhenverstellbar, beste Luftzirkulation</li><li>stabile, rostfreie und witterungsbeständige Konstruktion</li></ul>"
-}

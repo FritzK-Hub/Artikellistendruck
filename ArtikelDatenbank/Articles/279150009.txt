@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Gerät zum Magnetisieren oder Entmagnetisieren</li><li>für Schraubendreherköpfe, Zange, Pinzetten usw.</li><li>einfache Anwendung</li><li>aus bruchfestem Kunststoff</li><li>universal einsetzbar</li></ul>"
-}

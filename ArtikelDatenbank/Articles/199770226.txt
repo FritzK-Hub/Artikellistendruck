@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li> Stahlnägel für Beton, Mauerwerk oder Hartholz </li><li>können mühelos in das Material eingeschlagen werden </li><li> aus gebläutem Stahl mit Messingkopf </li><li>sorgen für optimale Verbindungen </li><li> sehr robust und zäh</li></ul><p></p>"
-}

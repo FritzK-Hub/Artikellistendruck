@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>hervorragende Qualität</li><li>linksschneidende Vielfalt</li><li>abgebrochene Schrauben leicht entfernen</li><li>robust und langlebig</li><li>praktische Aufbewahrung</li></ul>"
-}

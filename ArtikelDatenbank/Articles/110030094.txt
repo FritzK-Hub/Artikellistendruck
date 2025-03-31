@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>hoher Reinigungseffekt auch ohne Chemie</li><li>entfernt mühelos Fettspritzer und Fettfilme</li><li>hohe Schmutzaufnahme</li><li>schont die Oberfläche</li><li>optimale Reinigungswirkung in angefeuchtetem Zustand</li></ul>"
-}

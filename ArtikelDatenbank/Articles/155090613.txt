@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>zur Installation im Innen- und Außenbereich</li><li>geeignet zur Verlegung im direkten Erdreich</li><li>für trockene, feuchte und nasse Räume</li><li>Festinstallation im Freien und im Wasser möglich</li><li>entspricht VDE-Norm</li></ul>"
-}

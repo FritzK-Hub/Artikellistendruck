@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Fächerscheibe, Schleifscheibe von GERMANIA® Qualitätswerkzeuge</li><li>ZK 60-er Körnung</li><li>zum freihand Schleifen geeignet</li><li>für Stahl- und Edelstahl-Schleifen</li><li>hohe Standzeit</li></ul>"
-}

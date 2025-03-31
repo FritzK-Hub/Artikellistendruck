@@ -1,4 +1,0 @@
-{
-    "uvp": 29.9,
-    "attributes": "<ul><li>maximale Schnittleistung bei minimalem Kraftaufwand</li><li>flexibel dank teleskopierbarer Längenanpassung</li><li>langlebig durch hochwertige Stahlkonstruktion</li><li>ergonomisches Design für hohen Bedienkomfort</li><li>vielseitig einsetzbar im Gartenbereich</li></ul>"
-}

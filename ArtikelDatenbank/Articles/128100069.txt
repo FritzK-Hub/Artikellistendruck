@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>robuste Beistelltisch aus Metall in Gold</li><li>für deinen Wohnraum, Garten oder Balkon</li><li>sehr stabil, dank der 4 Beine</li><li>für Dekorationen oder Pflanzen</li><li>mit anderen Möbeln kombinierbar<br/></li></ul>"
-}

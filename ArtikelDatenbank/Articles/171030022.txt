@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>fertig abgetönte <span class=\"modal_lexicon\">Innendispersionsfarbe</span></li><li><span class=\"modal_lexicon\">für Neu- und Renovierungsanstriche in  Wohnräumen</span></li><li><span class=\"modal_lexicon\">mit dem Umweltzeichen \"Blauer Engel\" ausgezeichnet</span></li><li><span class=\"modal_lexicon\">einfache Verarbeitung  </span></li><li><span class=\"modal_lexicon\">hohe Deckkraft</span></li></ul>"
-}

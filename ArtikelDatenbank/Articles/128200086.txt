@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Gartenfackel aus robustem Bambus</li><li>in zwei verschiedenen Größen erhältlich</li><li>mit Sicherheitskappe inklusive</li><li>vielseitig einsetzbare Gartendekoration</li><li>mit Docht und Brennstoffbehälter</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Schutz von Fahrzeug-Hohlräumen vor Rostfraß</li><li>mit Rüssel-Sprühkopf für schwer zugängliche Bereiche</li><li>verdrängt Feuchtigkeit und stoppt vorhandenen Rost</li><li>verfügt über hervorragendes Kriechvermögen</li><li>bildet einen dauerelastischen Wachsschutz</li></ul>"
-}

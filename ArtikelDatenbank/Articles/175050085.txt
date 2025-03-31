@@ -1,4 +1,0 @@
-{
-    "uvp": 54.95,
-    "attributes": "<ul><li>Druckluft Schlagschraubersatz 1/2\"</li><li>im stabilen Kunststoffkoffer</li><li>Schlagschrauger aus hochwertigem Aluminium Druckguss</li><li>inklusive Mini-Nebelöler</li><li>ideal für den Hobbyschrauber geeignet</li></ul>"
-}

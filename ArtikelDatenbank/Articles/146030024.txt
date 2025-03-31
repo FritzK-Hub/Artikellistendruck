@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Herren Gürtel mit hohem Tragekomfort</li><li>hochwertige Qualität mit solider Schnalle</li><li>in drei verschiedenen Längen</li><li>mit schmal zulaufendem Gürtelende</li><li>klassisches und elegantes Look<br/><br/></li></ul>"
-}

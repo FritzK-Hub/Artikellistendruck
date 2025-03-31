@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>robuste Spülbürsten mit Kunststoffborsten <br/></li><li>ideal zum Abspülen und Ausbürsten von Töpfen</li><li>kommt auch an schwer zugängliche Stellen mühelos ran</li><li>Schaberkante zum Entfernen von hartnäckigem Schmutz</li><li>bei Nichtgebrauch dank Öse platzsparend aufhängbar<br/></li></ul>"
-}

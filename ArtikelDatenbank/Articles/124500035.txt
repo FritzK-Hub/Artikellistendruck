@@ -1,4 +1,0 @@
-{
-    "uvp": 109.0,
-    "attributes": "<ul><li>Absaugvorrichtung nach DN 100</li><li>Zubehör für Abwassertank</li><li>Höhe nach Behältergröße</li><li>wird im Tank installiert, daher bitte mit dem Tank bestellen</li><li>inklusive Gummilippendichtung</li></ul>"
-}

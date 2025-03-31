@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Größen: 10mm (auch komplettes Set erhältlich)</li><li>Stärke Gabelschlüssel: ca. 6mm</li><li>Ausführung Ringschlüssel: 12kant</li><li>Material: Chrom Vanadium satiniert</li><li>Gewicht: ca. 48gr.</li></ul>"
-}

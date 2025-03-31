@@ -1,4 +1,0 @@
-{
-    "uvp": 43.29,
-    "attributes": "<ul><li>stabile Gardena Premium Bewässerungsbrause mit Frostschutz</li><li>sie liegt durch die griffigen Weichkunststoff-Elemente angenehm in der Hand</li><li>Strahlart stufenlos regulierbar</li><li>ergonomischer Impulsauslöser mit Dauerarretierung</li><li>die Dauerarretierung ermöglicht bequeme, permanente Bewässerung<br/></li></ul>"
-}

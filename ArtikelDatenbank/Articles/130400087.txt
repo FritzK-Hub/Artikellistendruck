@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>elektrischer Ölradiator mit 3 Heizstufen bis 1500 Watt<br/></li><li>ideal für Bereiche ohne zentrale Wärmeversorgung</li><li>optimale Wärmeverteilung durch 7-Rippen-Gehäuse</li><li>automatische Abschaltung bei Überhitzung für Sicherheit</li><li>integrierter Tragegriff und Lenkrollen für einfachen Transport</li></ul>"
-}

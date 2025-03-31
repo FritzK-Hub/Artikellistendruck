@@ -1,4 +1,0 @@
-{
-    "uvp": 39.95,
-    "attributes": "<ul><li>Einzel-Ladegerät 18 V Li-Ion von Batavia</li><li>handliche und einfache Ausführung</li><li>kann den 2 Ah als auch 4 Ah Akku aufladen</li><li>für die gesamte Maxxpack Collection geeignet</li><li>Ladezustand ist per LED-Anzeige ablesbar<br/></li></ul>"
-}

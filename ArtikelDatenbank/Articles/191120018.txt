@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>wirkunsvolles Insekten-Abwehrmittel für Pools</li><li>vertreibt Mücken, Schnaken, Fliegen und Insekten</li><li>für 800 L - 25000 L Schwimmbecken </li><li>für Filtern mit Skimmer und Dosierschwimmer</li><li>Wirkung durch Zitrusgeruch</li></ul>"
-}

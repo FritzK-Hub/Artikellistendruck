@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Schonhammer aus Kunststoff, sandgefüllt von GERMANIA®</li><li>zum Festklopfen und Anpassen von empfindlichen Materialien</li><li>Schläge werden vom Material effektiv abgedämpft</li><li>bietet vielseitige Einsatzmöglichkeiten</li><li>auch in der Karosserie- oder Trockenbau einsetzbar</li></ul>"
-}

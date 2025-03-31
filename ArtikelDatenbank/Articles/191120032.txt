@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Algenschutz im 5 Liter Kanister</li><li>dank Breidbandeffekt wird die Bildung von Algen verhindert</li><li>das Mittel ist für alle Beckenarten geeignet</li><li>sorgt für ein hygienisches Wasser</li><li>Kanister mit stabilem Haltegriff ausgestattet<br/></li></ul>"
-}

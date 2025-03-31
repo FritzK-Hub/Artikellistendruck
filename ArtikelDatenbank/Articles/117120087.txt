@@ -1,4 +1,0 @@
-{
-    "uvp": 99.0,
-    "attributes": "<ul><li>für den Anschluss eines Wellengittertors an einen Maschendrahtzaun</li><li>Set enthält alle notwendigen Teile zur Verbindung des Tors</li><li>robuste Metallausführung garantiert eine lange Lebensdauer</li><li>ist eine zweiseitige Verbindung eines Wellengittertors</li><li>passend für Zaunhöhe 153 cm und Torpfosten Ø 60 mm<br/></li></ul>"
-}

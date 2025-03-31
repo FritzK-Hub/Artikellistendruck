@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Flachverbinder aus rostfreiem Edelstahl</li><li>ideal für verschiedenste Holzverbindungen</li><li>für den Innen- und Außenbereich geeignet</li><li>Montage mit Edelstahlnägeln wird empfohlen</li><li>für alle Holzkonstruktionen geeignet</li></ul>"
-}

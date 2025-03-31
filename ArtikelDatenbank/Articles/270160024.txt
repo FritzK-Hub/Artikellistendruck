@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>5-teiliges Set Präzisionswerkzeug von Drillcraft</li><li>T-Schaft passend für Bosch, Metabo, Makita, AEG u.v.a.</li><li>besonders langlebig, leise und vibrationsarm</li><li>ideal für Grob-. Fein- und Kurvenschnitte</li><li>geeignet für Holz, Sperrholz, Kunststoff, Metall, Aluminium und Buntmetalle</li></ul>"
-}

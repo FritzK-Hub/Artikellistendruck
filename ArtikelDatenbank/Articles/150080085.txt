@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>Radkralle für PKW, Wohnmobil oder Anhänger</li><li>schnelle und einfache Montage</li><li>effizienter Schutz vor Diebstahl</li><li>Sicherheitsschloss mit 2 Schlüsseln</li><li>für Stahl- und Alufelgen geeignet</li></ul>"
-}

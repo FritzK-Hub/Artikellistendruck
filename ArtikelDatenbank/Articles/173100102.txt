@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>LED Lampe in Tropfen-Form</li><li>warmweißes, angenehmes Licht</li><li>geringer Energieverbrauch</li><li>LED Tropfen im kompaktem Design</li><li>ohne Aufwärmzeit, sofort 100 % Licht</li></ul>"
-}

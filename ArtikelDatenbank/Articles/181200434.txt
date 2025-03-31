@@ -1,4 +1,0 @@
-{
-    "uvp": 1.69,
-    "attributes": "<ul><li>Saatgut Studentenblume Tagetes Mischung, für ca. 60 Pflanzen</li><li>ist eine beliebte Beet- und Gruppenpflanze für Schalen und Kübel</li><li>ihre großen, dichtgefüllten Blüten haben eine lange Blütezeit</li><li>bekämpft Nematoden und hält Ameisen und weiße Fliegen fern</li><li>verfügt über eine Probefeldgetestete Qualität<br/></li></ul>"
-}

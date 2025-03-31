@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>SDK-Abzweigverbinder Set 5-teilig 5-polig, lötfrei</li><li>für Abzweigverbindungen an vorhandenen Kabeln</li><li>ideal für den Einsatz in der KFZ-Elektronik</li><li>praktisches Sichtfester für leichtere Kontrolle</li><li>Installation ohne Kabeltrennung</li></ul>"
-}

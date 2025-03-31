@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>hervorragende Qualität</li><li>perfekt für Sockenstricken</li><li>lang anhaltende Haltbarkeit</li><li>stilvolles Design</li><li>komfortables Strickerlebnis<br/><br/></li></ul>"
-}

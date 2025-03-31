@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Steckdosenleiste 9-fach in weiß mit Schalter und Kindersicherung</li><li>bestehend aus sechs Schutzkontaktstecker und drei Eurostecker</li><li>ideal für den Innenbereich geeignet</li><li>die Schutzkontakt-Steckplätze sind im 45°-Winkel angeordnet</li><li>inklusive 1,4 m langem Netzkabel<br/></li></ul>"
-}

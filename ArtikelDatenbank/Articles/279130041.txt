@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>Arbeitshandschuhe rutschfest in Größe 8</li><li>sorgt bei für den nötigen, festen Griff</li><li>PVC-Noppen an der Handinnenfläche</li><li>aus Baumwolle und Nylon</li><li>elastisches Strickbündchen</li></ul>"
-}

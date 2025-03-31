@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Metallschutzlack in schwarz matt auf Kunstharzbasis</li><li>lösemittelhaltig und aromatenfrei</li><li>direkt auf Rost anwendbar, bildet eine feuchtigkeitsschützende Deckschicht</li><li>für alle blanken und rostigen Eisenmetalle, sowie lackierbare Kunststoffe und Nichteisen-Metalle wie Zink, Aluminium und Kupfer</li><li>Grundierung, Rostschutz und Decklack in Einem</li></ul>"
-}

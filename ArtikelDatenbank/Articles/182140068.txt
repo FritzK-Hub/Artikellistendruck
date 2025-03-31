@@ -1,4 +1,0 @@
-{
-    "uvp": 5.99,
-    "attributes": "<ul><li>Lenkergriffe Kids mit Motiv-Noppen für mehr Grip</li><li>mit großflächigen Aufprall-Puffern</li><li>Schützt Hände, Gesicht und Oberkörper</li><li>Fahrradgriffe farblich sortiert</li><li>mit einem Innendurchmesser von ca. 22 mm</li></ul>"
-}

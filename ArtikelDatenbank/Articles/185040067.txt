@@ -1,4 +1,0 @@
-{
-    "uvp": 1.99,
-    "attributes": "<ul><li>Flaschentasche in verschiedenen Dekoren</li><li>Geschenkverpackung aus stabilem Papier</li><li>außen glanz-plastifiziert</li><li>passend für Wein, Sekt und Prosecco Flaschen</li><li>mit Kordel und passendem Beschriftungskärtchen</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>FISHBULL PU-Bauschaumpistole mit ergonomischem Kunststoffgriff</li><li>zum Verarbeiten von 2K PU-Pistolenschaum</li><li>stabile Ausführung durch abgesetztes, verchromtes Messingrohr</li><li>leicht und präzise justierbar</li><li>sehr guter Schaumdurchfluss<br/></li></ul>"
-}

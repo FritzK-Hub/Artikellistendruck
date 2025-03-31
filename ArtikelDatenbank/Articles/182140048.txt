@@ -1,4 +1,0 @@
-{
-    "uvp": 22.99,
-    "attributes": "<ul><li>Fahrrad Ersatzteil Box</li><li>zur Fahrrad Reparatur</li><li>inklusive Fahrrad Werkzeuge</li><li>übersichtlich sortiert</li><li>Reparaturset in praktischer Sortimentsbox</li></ul>"
-}

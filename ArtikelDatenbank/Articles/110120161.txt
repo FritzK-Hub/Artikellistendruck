@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>zuverlässig bei starkem Wind</li><li>mit 2 Turboflammen</li><li>stilvoll und trendig</li><li>besonders langlebig</li><li>mit Piezo-Zündung und verstellbarer Flamme<br/></li></ul>"
-}

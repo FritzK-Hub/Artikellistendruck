@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>Größe der Diamanttrennscheibe: (Ø) ca. 115 mm</li><li>Schnittbreite der Trennscheibe: (B) ca. 2,0 mm</li><li>Bohrung der Diamanttrennscheibe: (Ø) ca. 22,2 mm</li><li>geeignet für Drehzahl max.: 13200 U/min</li><li>Umfangsgeschwindigkeit: max. 80 m/sec</li><li>Material der Trennscheibe: Stahl</li><li>geeignet für: Beton, alt, armiert, Ziegel, Waschbeton u.v.m.</li><li>passend für Winkelschleifer mit einer 22,2 mm Aufnahme</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Ersatzrad für Transportrollen</li><li>geeignet für Bock- oder Lenkrollen</li><li>das Ersatzrad ist rollengelagert</li><li>aus schwarzem Vollgummi</li><li>Transportrollen Rad mit Profil</li><li>Tragkraft pro Rad ca. 100 kg</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 20.9,
-    "attributes": "<ul><li>Ölfilterspinne 3-armig von Normex</li><li>festsitzende Ölfilter können mühelos gelöst werden</li><li>4-Kant Antrieb, 3/8\" mit 1/2\" Adapter</li><li>auch für lösen von Granulatkartuschen geeignet</li><li>Ölfilterkralle in massiver Metallausführung</li></ul><p><br/></p>"
-}

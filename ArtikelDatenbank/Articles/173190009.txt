@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Baufassung E27 250 V</li><li>Renovierungs-Fassung mit 20 cm Kabel</li><li>mit 3-Loch-Aufhänger</li><li>2-polige Anschlussklemme</li><li>Lampenfassung aus Isolierstoff</li></ul>"
-}

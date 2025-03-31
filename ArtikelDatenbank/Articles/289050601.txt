@@ -1,4 +1,0 @@
-{
-    "uvp": 8.29,
-    "attributes": "<ul><li>Winkelprofil gleichschenklig 100 x 4 cm</li><li>aus robustem, weißem Hart-PVC gefertigt</li><li>zum Abdecken von unsauberen Abschlüssen</li><li>empfindliche Schnittkanten werden verdeckt</li><li>ideal im Haushalt, Möbelbedarf oder zum Basteln</li></ul>"
-}

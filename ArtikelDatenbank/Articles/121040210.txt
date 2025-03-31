@@ -1,4 +1,0 @@
-{
-    "uvp": 11.95,
-    "attributes": "<ul><li>glatt und gleichmäßig dank Bleichung und 3-facher Grundierung</li><li>geeignet für Acrylfarben, Ölfarben, Gouache, Tempera</li><li>stabiler Rahmen und sorgfältiges Aufspannen</li><li>langlebig und für Innen- und Außenbereich geeignet</li><li>ideal für Profis und Hobbymaler<br/></li></ul>"
-}

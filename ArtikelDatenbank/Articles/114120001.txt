@@ -1,4 +1,0 @@
-{
-    "uvp": 44.99,
-    "attributes": "<ul><li>Video-Sicherheitssystem mit Intercom</li><li>kabellose Übertragung von Bild &amp; Ton</li><li>mit Gegensprechfunktion</li><li>neigen, schwenken per App</li><li>automatische Videoaufzeichnung</li></ul>"
-}

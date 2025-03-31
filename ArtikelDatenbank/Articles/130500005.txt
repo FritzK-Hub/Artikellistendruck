@@ -1,4 +1,0 @@
-{
-    "uvp": 179.0,
-    "attributes": "<ul><li>Hochdruckreiniger mit 2000 W Leistungsmotor</li><li>ideal für die Reinigung von größeren Flächen oder Autos</li><li>integriertes Auto-Stopp System</li><li>mit großen Rädern und einem Teleskopkopfgriff ausgestattet</li><li>inklusive Kurbel und Flasche für Reinigungsmittel</li></ul>"
-}

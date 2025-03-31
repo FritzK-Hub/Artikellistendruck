@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>wirkt ähnlich wie ein Treibhaus</li><li>schützt Pflanzen vor Insekten und Umwelteinflüssen</li><li>mit Belüftungsöffnung</li><li>witterungsbeständig und wiederverwendbar</li><li>einfache Anwendung </li></ul>"
-}

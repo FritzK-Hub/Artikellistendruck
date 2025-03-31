@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Handbrause Relax verchromt mit weißem Brausekopf</li><li>mit Antikalk-Noppen für eine leichtere Reinigung</li><li>Handbrause aus verchromtem Kunststoff</li><li>mit einem 1/2“ Brauseanschluss versehen</li><li>per Knopfdruck zwischen 3 Strahlarten auswählbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 4.95,
-    "attributes": "<ul><li>bruchsicheres Lineal 100 cm</li><li>aus rostfreiem Aluminium gefertigt</li><li>besitzt abgerundete Ecken</li><li>flexibel beweglich</li><li>mit einer Zentimeter- und Inch-Anzeige versehen<br/></li></ul>"
-}

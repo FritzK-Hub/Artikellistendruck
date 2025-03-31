@@ -1,4 +1,0 @@
-{
-    "uvp": 21.99,
-    "attributes": "<ul><li>universelle Antennendose 4in1 für Aufputzmontage</li><li>mit Anschluss für TV + SAT + Radio + Telefon + Unicable</li><li>Enddose mit 0 dB Anschlussdämpfung</li><li>Antennendose mit Abdeckung und Rahmen</li><li>mit rückkanaltauglichem Anschluss</li></ul>"
-}

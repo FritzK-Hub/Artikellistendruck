@@ -1,4 +1,0 @@
-{
-    "uvp": 12.95,
-    "attributes": "<ul><li>faltbarer Eimer aus Kunststoff mit stabilem Tragegriff</li><li>ein nützliches Zubehör im Außenbereich oder beim Camping</li><li>verfügt über ein Fassungsvermögen von bis zu 10 Litern</li><li>vielseitig bei den verschiedensten Outdoor-Aktivitäten einsetzbar</li><li>platzsparend zusammenfaltbar und leicht zu verstauen</li></ul>"
-}

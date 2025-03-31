@@ -1,4 +1,0 @@
-{
-    "uvp": 17.0,
-    "attributes": "<ul><li>massiver Pfostenträger mit feuerverzinkter Oberfläche</li><li>ideal zur Aufschrauben auf Mauerwerk oder Fundamente</li><li>lässt sich schnell und einfach auf Untergrund aufzuschrauben</li><li>konisch zulaufender Pfostenträger für einfaches Aufstecken des Zaunpfostens</li><li>verhindert Verwindung und Verrutschen von Zaunpfosten</li></ul>"
-}

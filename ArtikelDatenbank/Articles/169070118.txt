@@ -1,4 +1,0 @@
-{
-    "uvp": 24.95,
-    "attributes": "<ul><li>für rechts und links angeschlagene Türen</li><li>kompatibel mit Profilschließzylindern</li><li>stabile Konstruktion</li><li>zuverlässige Verriegelung</li><li>ergonomische und komfortable Bedienung<br/></li></ul>"
-}

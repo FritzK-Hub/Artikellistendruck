@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>praktischer Handtuchhalter mit 4 Haken</li><li>modernes und schlichtes Design</li><li>aus hochwertigem Edelstahl gefertigt</li><li>ideale Ergänzung für Küche oder Bad</li><li>Handtücher trocknen schnell und einfach<br/></li></ul>"
-}

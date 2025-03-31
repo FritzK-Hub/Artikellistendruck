@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Handschleifer aus Kunststoff mit Klemmung</li><li>mit 4 mm starkem Moosgummibelag</li><li>Bügelgriff aus Kunststoff</li></ul>"
-}

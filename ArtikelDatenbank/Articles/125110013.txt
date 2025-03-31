@@ -1,4 +1,0 @@
-{
-    "uvp": 11.49,
-    "attributes": "<ul><li>Mittel gegen Blattläuse und andere saugende Schädlinge</li><li>anwendungsfertiges Spray mit 3in1 Wirkung</li><li>stoppt Schädlinge bereits in einer Stunde</li><li>bietet bis zu acht Wochen lang Schutz</li><li>Nützlinge und Bienen werden nicht geschadet</li></ul>"
-}

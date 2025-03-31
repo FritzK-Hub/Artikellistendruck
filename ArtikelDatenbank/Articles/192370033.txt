@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>festliche Gläser im originellen Design</li><li>kreative Verbindung von Tradition und Modernität</li><li>hochwertiges Glas für stilvolle Präsentation</li><li>schöne Lichtreflexion wirkt ansprechend edel</li><li>vielseitig einsetzbar für verschiedene Getränke</li></ul>"
-}

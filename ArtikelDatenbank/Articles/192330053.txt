@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Windlicht 10 cm aus massivem Metall in Gold/Schwarz</li><li>zur dekorativen Gestaltung in Wohnräumen oder Treppenhäusern</li><li>als Orientierungslicht im Garten einsetzbar </li><li>vielseitige Dekoration oder als Geschenkidee geeignet</li><li>für LED- als auch für echte Kerzen geeignet <br/></li></ul>"
-}

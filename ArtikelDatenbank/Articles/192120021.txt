@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Porutscher KID Slider rosa</li><li>einfache Handhabung</li><li>Winterspaß für Jung und Alt</li><li>Lenkung durch Gewichtverlagerung</li><li>großer Haltegriff für einfache und sichere Positionierung</li></ul><p></p>"
-}

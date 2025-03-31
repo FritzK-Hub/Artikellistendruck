@@ -1,4 +1,0 @@
-{
-    "uvp": 6.49,
-    "attributes": "<ul><li>Fahrradflaschenhalter mit frontseitiger Öffnung</li><li>für Standard-Fahrradflaschen</li><li>für kleine Rahmendurchmesser geeignet</li><li>inklusive Befestigungsschrauben</li><li>Trinkflaschen-Halter aus Kunststoff</li></ul>"
-}

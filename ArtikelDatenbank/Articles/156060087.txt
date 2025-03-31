@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>4 Stück Karosserie-Spachtel im Set</li><li>aus flexiblem, gratfreiem Kunststoff</li><li>ideal zum Mischen und Auftragen von Spachtel-Masse</li><li>sorgen für einen glatten Abzug</li><li>beschädigen nicht den Untergrund</li></ul>"
-}

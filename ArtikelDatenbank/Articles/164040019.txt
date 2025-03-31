@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>S-Haken symmetrisch</li><li>aus Stahl</li><li>mit Zink beschichtet</li><li>2 Stück im Set</li><li>bis maximal 30 kg belastbar</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>Pflanzensprüher batteriebetrieben mit Sprühpistole</li><li>zum Versprühen von Schädlingsbekämpfungsmitteln, Düngemitteln, Reinigungsmitteln usw.</li><li>versprüht den Inhalt mittels Knopfdrucks</li><li>Behälter mit Tragegriff und 2 Liter Fassungsvermögen</li><li>inklusive eines 130 cm langem Schlauch<br/></li></ul>"
-}

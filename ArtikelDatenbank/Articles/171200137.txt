@@ -1,4 +1,0 @@
-{
-    "uvp": 64.99,
-    "attributes": "<ul><li>ultraelastischer Anstrich</li><li>zuverlässiger Nässeschutz</li><li>bis zu 12 Jahre Wetterschutz</li><li>beugt Pilz- und Algenbefall vor</li><li>Stay-Clean Technologie für saubere Oberflächen</li></ul><p></p>"
-}

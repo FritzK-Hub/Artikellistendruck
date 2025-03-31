@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>runde Filzgleiter im Set 4 Stück</li><li>mit dreipunktiger Stahlbasis versehen</li><li>schützen die Böden vor Kratzern</li><li>einfache Montage und fester Halt</li><li>erleichtert das Verrücken von Stühlen<br/></li></ul>"
-}

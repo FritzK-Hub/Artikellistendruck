@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>seidenmatter, schnelltrocknender Premium-Klarlack auf Wasserbasis</li><li>zur strapazierfähigen Lackierung im Wohn-, Schlaf- und Essbereich</li><li>Grundierung und Lackierung in einem, für dauerhaften Schutzanstrich und schöner Oberfläche</li><li>geruchsmild als auch beständig gegen Wasser, Öl, Fett, Handcreme und Trinkalkohol</li><li>lässt sich auch für Kinderspielzeug universell verwenden</li></ul>"
-}

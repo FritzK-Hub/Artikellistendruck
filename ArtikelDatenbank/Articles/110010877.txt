@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>KG-Endstück zum Verschließen von Muffen an KG-Rohren</li><li>passgenaue und problemlose Anschlussmöglichkeiten</li><li>zum Verbinden von KG-Kanalrohren und HT-Rohren</li><li>Doppeldichtungs-Set für KGUG erforderlich</li><li>Sicherheit durch Rückstauverschlüsse</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>Braunkohlebriketts als effiziente Wärmequelle</li><li>lang anhaltende Wärme für Komfort</li><li>gemütliches Flammenspiel schafft Atmosphäre</li><li>einfaches Anzünden und lange Brenndauer</li><li>kompakte Form für bequeme Handhabung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>GERMANIA® Plattform Akku-Exzenterschleifer 20 V</li><li>kompakter und handlicher Akku-Exzenterschleifer</li><li>schneller Schleifpapierwechsel durch Klettbefestigungssystem</li><li>integriertes Staubabsaugungssystem mit Staubfangbeutel</li><li>ergonomischer Soft-Griff für komfortables Arbeiten<br/></li></ul>"
-}

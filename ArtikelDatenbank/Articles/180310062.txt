@@ -1,4 +1,0 @@
-{
-    "uvp": 19.99,
-    "attributes": "<ul><li>drei Schaumdüsen für variable Schaumbildung</li><li>drehbarer Strahl erreicht schwer zugängliche Stellen</li><li>ergonomisches Design für maximalen Komfort</li><li>kompakt mit integrierter Düsenaufbewahrung</li><li>vielseitig einsetzbar drinnen und draußen</li></ul>"
-}

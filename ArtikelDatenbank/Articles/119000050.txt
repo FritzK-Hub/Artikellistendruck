@@ -1,4 +1,0 @@
-{
-    "uvp": 139.95,
-    "attributes": "<ul><li>Teleskopleiter ausziehbar 3,2 m von AquaLaser</li><li>mit 3,2 m Länge und mit 11 Streben versehen</li><li>mit 150 kg Tragfähigkeit für Innen und Außen geeignet</li><li>besitzt rutschfeste Standbeine für sicheren Halt</li><li>bei Nichtgebrauch platzsparend zusammenziehbar<br/></li></ul>"
-}

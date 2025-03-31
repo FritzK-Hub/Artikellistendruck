@@ -1,4 +1,0 @@
-{
-    "uvp": 0,
-    "attributes": "<ul><li>Hinweisschild aus Kunststoff</li><li>Grafiksymbol \"Videokamera\"</li><li>mit Schriftzug \"Videoüberwachung\"</li><li>schwarze Schrift</li><li>wetterbeständig</li></ul>"
-}

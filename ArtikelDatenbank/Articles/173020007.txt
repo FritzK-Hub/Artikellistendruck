@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>vielseitiges Sicherheits-Bitset</li><li>bohrmaschinengeeignet</li><li>präzise Handhabung</li><li>robuste Konstruktion</li><li>umfangreiche Größenauswahl</li></ul>"
-}

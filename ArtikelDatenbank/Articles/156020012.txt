@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>Flachpinsel mit Misch-Borsten</li><li>Basis-Qualität für einfache Streicharbeiten</li><li>geeignet für Farben, Lacke und Lasuren</li><li>ideal für Renovierarbeiten</li><li>Holzgriff und Metallzwinge</li></ul>"
-}

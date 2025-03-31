@@ -1,4 +1,0 @@
-{
-    "uvp": 31.95,
-    "attributes": "<ul> <li>5-tlg.</li> <li>matt verchromt</li> <li>Größen: 8x10, 11x13, 14x15, 17x19, 21x22 mm In Tetron-Rolltasche</li></ul>"
-}

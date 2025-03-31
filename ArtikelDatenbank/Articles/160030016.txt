@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>Rindvolllederhandschuhe in der Größe 10</li><li>für eine reibungslose Arbeit im Garten</li><li>besitzt ein 7 cm großes Strickbund mit Pulsschutz</li><li>für einen angenehmeren Tragekomfort mit Baumwolle gefüllt</li><li>mit wasserabweisendem Handrücken und besonderer Passform<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Halogen Scheinwerferlampe H7 mit hoher Leuchtdichte</li><li>eignet sich für alle Fahrzeuge mit entsprechendem Sockel</li><li>für eine helle Sicht und sichere Fahrt im Straßenverkehr</li><li>eine passende Ersatzlampe für deine defekten Scheinwerferlicht</li><li>lässt sich schnell und einfach auswechseln</li></ul>"
-}

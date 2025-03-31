@@ -1,4 +1,0 @@
-{
-    "uvp": 18.95,
-    "attributes": "<ul><li>solarbetriebene LED-Wandleuchte für klare Sicht in Eingangsbereichen, Garagen oder im Garten</li><li>besonders langlebig und stabil, aus robustem Kunststoff gefertigt</li><li>vielseitig einsetzbar mit zwei verschiedenen Einstellungen für die optimale Beleuchtung</li><li>mit automatischem Bewegungssensor mit einer Reichweite von bis zu 6 Metern</li><li>Befestigungszubehör und Montageschablone erleichtern die Wandmontage</li></ul>"
-}

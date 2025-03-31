@@ -1,4 +1,0 @@
-{
-    "uvp": 129.99,
-    "attributes": "<ul><li>robustes Stahlgestell ermöglicht sicheren Stand</li><li>strapazierfähiges Material bietet lange Lebensdauer</li><li>großzügiger Platz für bis zu 3 Personen</li><li>komfortable Sitzauflage zum entspannten Verweilen</li><li>elegantes Design für stilvolle Gärten</li></ul>"
-}

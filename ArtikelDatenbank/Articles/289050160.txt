@@ -1,4 +1,0 @@
-{
-    "uvp": 5.08,
-    "attributes": "<ul><li>massive Rundstange aus eloxiertem Aluminium</li></ul>"
-}

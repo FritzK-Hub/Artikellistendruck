@@ -1,4 +1,0 @@
-{
-    "uvp": 4.49,
-    "attributes": "<ul><li>Widerstandsfähigkeit gegen Echten Mehltau</li><li>zarte und knackige Knolle</li><li>leuchtend rote Farbe und Spitzenqualität</li><li>vielseitige Verwendungsmöglichkeiten</li><li>empfohlener regelmäßiger Anbau<br/></li></ul>"
-}

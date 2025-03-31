@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>hochwertige Schale zum Schutz der Zwiebeln</li><li>aus stoßfestem und bruchfestem Material</li><li>verhindert Bissschäden von Wühlmäusen</li><li>einfaches einpflanzen ohne viel Aufwand</li><li>Spatenstich genügt für müheloses ernten<br/></li></ul>"
-}

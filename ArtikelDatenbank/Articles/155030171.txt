@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>langlebige Lithium-Batterie CR 123A<br/></li><li>geeignet für Kameras, Blitzgeräte und vieles mehr</li><li>lange Lagerfähigkeit ohne nennenswerte Verluste</li><li>auf einer stabilen Blisterkarte für übersichtliche Bevorratung</li><li>ideal für Geräte mit hohem oder konstant niedrigen Energiebedarf</li></ul>"
-}

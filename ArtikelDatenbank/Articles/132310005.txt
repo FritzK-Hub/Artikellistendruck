@@ -1,4 +1,0 @@
-{
-    "uvp": 99.95,
-    "attributes": "<ul><li>GERMANIA® Doppelschleifer 120 W mit zwei vormontierten Scheiben</li><li>ideal für Schleif-, Trenn- oder Polierarbeiten</li><li>zum Bearbeiten von Stahl, NE-Metallen, Holz oder Kunststoffen</li><li>geschlossenen Scheibenschutzhauben schützen vor Funken</li><li>inklusive seines103-teiliges Zubehör-Set im Holzkoffer<br/></li></ul>"
-}

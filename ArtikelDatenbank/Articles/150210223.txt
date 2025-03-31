@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>transparenter Mikrowellendeckel</li><li>aus widerstandsfähigem Kunststoff</li><li>Tellerabdeckung für die Mikrowelle</li><li>spülmaschinenfest und einfach zu reinigen</li><li>zur Vermeidung von Spritzern beim Erhitzen von Lebensmitteln</li></ul>"
-}

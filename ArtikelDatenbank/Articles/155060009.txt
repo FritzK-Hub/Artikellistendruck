@@ -1,4 +1,0 @@
-{
-    "uvp": 0.99,
-    "attributes": "<ul><li>einfühlsame Cover-Texte zeugen von Empathie<br/></li><li>vielfältige Motive ermöglichen individuelles Beileid</li><li>angenehme Haptik durch hochwertiges Papier</li><li>ideale Größe für den Postversand</li><li>sorgfältige Verarbeitung bietet stilvolle Trauerkommunikation</li></ul><p></p>"
-}

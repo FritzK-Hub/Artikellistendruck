@@ -1,4 +1,0 @@
-{
-    "uvp": 8.29,
-    "attributes": "<ul><li>Pattex® Kraftkleber \" Special \" 80 g</li><li>besitzt eine Anfangshaftung von 150 kg/m²</li><li>zuverlässiger Klebstoff für schnelle und saubere Anwendungen</li><li>für die Verklebung im Bad- oder Küchenbereich geeignet</li><li>zum Verbinden von zwei nicht-saugenden Materialien geeignet <br/></li></ul>"
-}

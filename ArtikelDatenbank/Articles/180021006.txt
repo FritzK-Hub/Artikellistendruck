@@ -1,4 +1,0 @@
-{
-    "uvp": 10.99,
-    "attributes": "<ul><li>Winkel aus Messing</li><li>mit Innen- und Außengewinde</li><li>für effektive, sichere Rohrverbindungen</li><li>stabile 90° Verbindung</li><li>für innen und außen</li></ul>"
-}

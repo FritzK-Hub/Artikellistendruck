@@ -1,4 +1,0 @@
-{
-    "uvp": 26.95,
-    "attributes": "<ul><li>langlebiges und biegsames Material aus Pappelholz</li><li>unbehandeltes Holz für eine authentische Optik</li><li>einsetzbar für verschiedene DIY-Bastelarbeiten im Innenbereich</li><li>vielseitig einsetzbare Platte für Holzkonstruktionen und Möbelbau</li><li>umweltfreundliches, natürliches Material für eine nachhaltige Wohn- und Arbeitsumgebung<br/></li></ul>"
-}

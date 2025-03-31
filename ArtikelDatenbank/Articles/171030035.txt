@@ -1,4 +1,0 @@
-{
-    "uvp": 14.69,
-    "attributes": "<ul><li>einzigartiges mattes Himmelsgrau für Individualität</li><li>zeitsparend durch schnellen und einfachen Farbauftrag</li><li>perfekt geeignet für filigrane Möbel</li><li>ausgezeichnete Haftung mit langanhaltenden Resultaten</li><li>Express-Trocknung schafft schnell Erfolgserlebnisse</li></ul><p></p>"
-}

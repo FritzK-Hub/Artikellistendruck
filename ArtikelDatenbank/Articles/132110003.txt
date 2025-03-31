@@ -1,4 +1,0 @@
-{
-    "uvp": 59.95,
-    "attributes": "<ul><li>GERMANIA® Plattform Akku-Stichsäge 20 V</li><li>dank Aluminiumtisch selbst anspruchsvolle Sägarbeiten möglich</li><li>staubfreie Arbeit dank Staubabsaugung</li><li>mit neuster Lithium-Ionen Technologie ausgestattet</li><li>einfache und präzise Schnitte dank rutschfesten Griffen und LED-Licht<br/></li></ul>"
-}

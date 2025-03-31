@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<ul><li>dient als Ersatzglas für beschädigte Schutzgläser</li><li>für CFH-Schweißer-Schutzschilder und Schutzschirme</li><li>schützt vor Funkenflug und Spritzern</li><li>garantiert eine zuverlässige Abdeckung</li><li>einfacher und schneller Wechsel<br/></li></ul>"
-}

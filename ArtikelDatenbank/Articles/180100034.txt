@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>hochwertige Synthesetechnologie für verbesserte Leistung</li><li>optimierte Alterungsbeständigkeit</li><li>ausgezeichneter Verschleißschutz</li><li>höchste Sicherheitsreserven</li><li>günstiges Reibverhalten</li></ul>"
-}

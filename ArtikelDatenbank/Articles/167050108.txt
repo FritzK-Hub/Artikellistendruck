@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>24-fach spezialgeflochtenes Polypropylen-Seil <br/></li><li>universell einsetzbar</li><li>multifil (Endlosgarn)</li><li>UV-stabilisiert und schwimmfähig</li><li>Länge individuell wählbar von 1 m bis 80 m</li></ul>"
-}

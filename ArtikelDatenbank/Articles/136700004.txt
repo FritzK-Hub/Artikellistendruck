@@ -1,4 +1,0 @@
-{
-    "uvp": 3.29,
-    "attributes": "<ul><li>Spannungsprüfer Euro isoliert</li><li>mit umlaufendem Handschutz</li><li>Befestigungsklipp aus isoliertem Material</li><li>spritzwassergeschützt</li><li>Anzeige auf dunklem Hintergrund</li></ul>"
-}

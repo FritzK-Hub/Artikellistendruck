@@ -1,4 +1,0 @@
-{
-    "uvp": 7.1,
-    "attributes": "<ul><li>3-teiliger Bohrersatz</li><li>Steinboher mit Rundschaft</li><li>passend für alle Maschinen mit herkömmlichem Bohrfutter</li><li>für Mauerdurchbrüche</li><li>geeignet für Stein, Beton, Porenbeton<br/></li></ul>"
-}

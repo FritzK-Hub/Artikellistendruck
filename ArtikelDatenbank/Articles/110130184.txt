@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>für Gardinenstangen mit Ringen von 28 mm Durchmesser</li><li>besonders langlebig und robust, aus Kunststoff gefertigt</li><li>ermöglicht eine einfache und schnelle Befestigung der Gardinen</li><li>transparentes Design für sicheren Halt, ohne aufzufallen</li><li>eignet sich für elegante Faltenlegung und stilvollen Look<br/></li></ul>"
-}

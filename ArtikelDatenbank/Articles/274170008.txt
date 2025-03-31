@@ -1,4 +1,0 @@
-{
-    "uvp": 29.95,
-    "attributes": "<ul><li>Machete, Buschmesser, Haumesser</li><li>Handgriff mit Fingergelenkschutz</li><li>Edelstahl Klinge mit Glattschnitt</li><li>auch für Gartenarbeiten geeignet</li><li>ideal für Jagd, Fischen, Camping u.v.m.</li></ul>"
-}

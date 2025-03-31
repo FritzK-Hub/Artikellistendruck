@@ -1,4 +1,0 @@
-{
-    "uvp": 27.95,
-    "attributes": "<ul><li>dreiteiliges Druckluft Set</li><li>Reifenfüller mit Manometer</li><li>knickfester PU Spiralschlauch</li><li>vielseitig nutzbare Ausblaspistole</li><li>mit montierten Stecknippeln</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>vielseitig für verschiedene Oberflächen einsetzbar</li><li>natürliche Reinigung ohne Konservierungsstoffe</li><li>streifenfreier Glanz auf Lackflächen</li><li>perfekt einsetzbar im Innenbereich</li><li>schonende Pflege für Holzböden und Naturstein</li></ul>"
-}

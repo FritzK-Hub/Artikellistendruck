@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>Campingstuhl mit pulverbeschichtetem Metallgestell in silber</li><li>für den besonderen Komfort im Garten, bei Ausflügen oder Camping</li><li>600D Oxford-Stoffbespannung sowie Armlehnen für mehr Komfort</li><li>mit Seitentisch und zweifacher Untensielentasche ausgestattet</li><li>bei Nichtgebrauch platzsparend zusammenfaltbar<br/></li></ul>"
-}

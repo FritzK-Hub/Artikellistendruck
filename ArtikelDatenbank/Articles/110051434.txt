@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Allzweckschere</li><li>Klinge aus rostfreiem Edelstahl</li><li>2-Komponenten Kunststoffgriff für bessere Griffigkeit</li><li>ideal zum Basteln</li><li>hoher Schneidekomfort</li></ul>"
-}

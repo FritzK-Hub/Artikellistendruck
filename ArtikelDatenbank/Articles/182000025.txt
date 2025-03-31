@@ -1,4 +1,0 @@
-{
-    "uvp": 399.0,
-    "attributes": "<ul><li>einfacher und stabiler Faltmechanismus</li><li>leicht und portabel</li><li>Hohlkammerreifen vorne für hohen Fahrkomfort</li><li>Elektrokleinstfahrzeugverordnung konform</li><li>bis zu 100 kg maximal belastbar<br/></li></ul>"
-}

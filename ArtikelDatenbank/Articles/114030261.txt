@@ -1,4 +1,0 @@
-{
-    "uvp": 1.79,
-    "attributes": "<ul><li>Megaluftballons Herz</li><li>schöne Hochzeitsdekoration</li><li>lassen sich leicht aufblasen</li><li>hochwertiges Material</li><li>mehrfach aufblasbar</li></ul>"
-}

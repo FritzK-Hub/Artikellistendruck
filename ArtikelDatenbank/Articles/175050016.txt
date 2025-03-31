@@ -1,4 +1,0 @@
-{
-    "uvp": 22.95,
-    "attributes": "<ul><li>für Reinigungs- und Lösemittel</li><li>1000ccm</li></ul>"
-}

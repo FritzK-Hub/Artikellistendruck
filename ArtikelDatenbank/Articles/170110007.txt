@@ -1,4 +1,0 @@
-{
-    "uvp": 7.1,
-    "attributes": "<ul><li>Laubsägebogen aus Stahlrohr</li><li>stabile Ausführung, leicht und handlich</li><li>mit ergonomischem Holzgriff</li><li>für Laubsägeblätter mit einer Länge von ca. 14 cm</li><li>ideal für Bastelarbeiten und Feinschnitte</li></ul>"
-}

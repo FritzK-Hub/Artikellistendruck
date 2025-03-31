@@ -1,4 +1,0 @@
-{
-    "uvp": 8.99,
-    "attributes": "<ul><li>Rabitzzange 220 mm tauchisoliert von GERMANIA®</li><li>kurzer Kopf, lange Schenkel</li><li>zum Verdrillen und Abtrennen von Bindedraht</li><li>auch für Stahlbetonarbeiten geeignet</li><li>Griff mit Schutzhülle<br/></li></ul>"
-}

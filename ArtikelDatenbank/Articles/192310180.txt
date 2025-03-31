@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>grünes System-Netzteil mit Transformator</li><li>für Lichterketten mit bis zu 1500 LEDs aus der System-Serie</li><li>mit 8 Funktionen ausgestattet</li><li>5 m lange Zuleitung</li><li>für innen und außen</li></ul>"
-}

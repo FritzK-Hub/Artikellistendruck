@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>wasserlösliche Holzbeize in Pulverform</li><li>intensive, brillante Farbwirkung</li><li>Mischbarkeit der Farbtöne in gelöster Form</li><li>geeignet für alle gebräuchlichen Holzarten</li><li>Beutelinhalt reicht für 250 ml fertige Beize</li></ul><p></p>"
-}

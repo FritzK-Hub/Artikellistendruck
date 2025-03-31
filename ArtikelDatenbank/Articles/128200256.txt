@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>LED-Lichterkette 120 cm mit 10 Seesternen</li><li>die Seesterne sind mit je einem warmweißen LED versehen</li><li>ideal als Partybeleuchtung oder für den Garten geeignet</li><li>vielseitig im Innen- und Außenbereich einsetzbar</li><li>besitzt eine Timerfunktions von sechs Stunden<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 5.79,
-    "attributes": "<ul><li>zeitloses Design mit Aluminiumrahmen</li><li>geeignet für Fotos im Format von ca. 13 x 18 cm</li><li>leicht aufzustellen oder aufzuhängen mit passender Aufhängung</li><li>klares und unverzerrtes Bild durch Normalglas</li><li>stilvolles und langlebiges Accessoire für wertvolle Erinnerungen<br/><br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<h3>Produktmerkmale:</h3><ul><li>Mehrzweckschlüssel aus Karbonstahl</li><li>ideal für Feinmechaniker</li><li>Gabelschlüssel und Schlitzschrauber in Einem</li><li>universell einsetzbar</li><li>Profiqualität<br/></li></ul>"
-}

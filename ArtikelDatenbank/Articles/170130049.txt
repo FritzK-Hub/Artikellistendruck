@@ -1,4 +1,0 @@
-{
-    "uvp": 36.95,
-    "attributes": "<ul> <li>Kreissägeblatt für Hand- und Tischkreissägen</li> <li>für Zuschnitte in Holz, Sperrholz und Spanplatten</li> <li>ideal für mittelharte Beanspruchung im Heimwerkerbereich</li> <li>mehrfach höhere Standzeit für problematische Werkstoffe</li> <li>hohe Schnittqualität und extrem niedrige thermische Belastung des zu schneidenden Materials</li></ul>"
-}

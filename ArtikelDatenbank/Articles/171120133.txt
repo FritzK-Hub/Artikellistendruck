@@ -1,4 +1,0 @@
-{
-    "uvp": 10.95,
-    "attributes": "<ul><li>schnelltrocknendes Lackspray</li><li>hochglänzend</li><li>in verschiedenen Farben erhältlich </li><li>ideal für Neulackierungen und Reparaturen </li><li>einfache und praktische Anwendung<br/></li></ul>"
-}

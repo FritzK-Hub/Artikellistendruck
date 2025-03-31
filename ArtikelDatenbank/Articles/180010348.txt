@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>organischer Dünger 1 kg</li><li>zum Einmischen in die Blumen- und Pflanzerde</li><li>ideal geeignet zur Nachdüngung</li><li>fördert kräftigen Wuchs und reiche Blüte</li><li>Düngung in der Hauptwachstumszeit alle 8 - 10 Wochen wiederholen<br/></li></ul>"
-}

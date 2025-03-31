@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>ideal für den Ölwechsel oder anderen Flüssigkeiten wie Kühl- oder Bremsflüssigkeit</li><li>auch für die Reinigung von Kleinteilen mit Kaltreiniger verwendbar</li><li>besonders stabil und langlebig, aus schlagfestem Kunststoff gefertigt</li><li>sicheres und sauberes Ausgießen über den integrierten Ausgießer</li><li>einfach in der Handhabung, für den täglichen Werkstatteinsatz konzipiert<br/></li></ul>"
-}

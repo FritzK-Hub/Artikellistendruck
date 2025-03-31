@@ -1,4 +1,0 @@
-{
-    "uvp": 173.95,
-    "attributes": "<ul><li>Gartenliege aus Holz</li><li>stabiles Deckchair</li><li>aus Eukalyptusholz</li><li>geölte Oberfläche</li><li>abnehmbares Fußteil</li></ul>"
-}

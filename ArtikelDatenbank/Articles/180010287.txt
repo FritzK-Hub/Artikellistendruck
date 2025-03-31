@@ -1,4 +1,0 @@
-{
-    "uvp": 11.99,
-    "attributes": "<ul><li>ideal für Balkon- und Kübelpflanzen</li><li>mit zusätzlichen Eisen</li><li>für sattes Blattgrün und Wachstum</li><li>für vitale und gesunde Pflanzen</li><li>einfache Anwendung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>Universalschrauben 40 Stück im Set</li><li>mit PZ Pozidrive Antrieb</li><li>aus verzinktem Stahl gefertigt</li><li>für Verbindungen von Metall und Holz Werkstücken</li><li>Holzschrauben mit Linsenkopf<br/></li></ul>"
-}

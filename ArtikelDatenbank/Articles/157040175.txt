@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul> <li>Kunstharz-Hochglanzlack für dekorative und schützende Lackierungen</li> <li>geeignet für Holz, Metall und tragfähige Altanstriche im Innen- und Außenbereich</li> <li>hohe Füll- und Deckkraft</li> <li>schlag-, kratz- und wetterfest</li> <li>hohe Widerstandsfähigkeit</li></ul>"
-}

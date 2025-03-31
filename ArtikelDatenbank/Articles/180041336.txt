@@ -1,4 +1,0 @@
-{
-    "uvp": 2.19,
-    "attributes": "<ul><li>effizientes Unkrautentfernung</li><li>lang anhaltende Leistung</li><li>robuste Konstruktion</li><li>vielseitig einsetzbar</li><li>bequeme Handhabung</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 3.49,
-    "attributes": "<ul><li>10 Bohrschrauben im Set</li><li>mit Außen-Sechskant Antrieb</li><li>aus verzinktem Stahl</li><li>nach DIN 7504 K</li><li>Montage ohne Vorbohren<br/></li></ul>"
-}

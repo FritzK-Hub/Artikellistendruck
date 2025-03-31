@@ -1,4 +1,0 @@
-{
-    "uvp": 39.99,
-    "attributes": "<ul><li>Echtzeit-Videoübertragung für sofortige Einsicht in Innenräume</li><li>Bewegungserkennung mit Push-Benachrichtigungen erhöht Sicherheit</li><li>Mikrofon und Lautsprecher ermöglichen Zwei-Wege-Kommunikation</li><li>einfache Installation ohne zusätzliches Hub erforderlich</li><li>Multi-User-Zugriff für mehrere Benutzer gleichzeitig</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 1.49,
-    "attributes": "<ul><li>stilvolles Accessoire mit einzigartigem \"Moustaches\"-Motiv</li><li>zuverlässige Piezo-Zündung für schnelle und einfache Handhabung</li><li>verstellbare Flamme ermöglicht individuelle Einstellung der Flammenhöhe</li><li>aus hochwertigem Kunststoff gefertigt</li><li>nachfüllbarer Butangas-Brennstoff für langlebige Nutzung<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 2.49,
-    "attributes": "<ul><li>einfach und schnell anwendbar</li><li>demontierbar</li><li>nicht brennbar, nicht entzündbar</li><li>resistent gegen Pilze</li><li>quillt nicht<br/></li></ul>"
-}

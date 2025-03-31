@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>vielseitige Größen</li><li>beeindruckende Länge</li><li>präzise Bohrergebnisse</li><li>kompakte Aufbewahrung</li><li>langlebig und robust<br/><br/></li></ul>"
-}

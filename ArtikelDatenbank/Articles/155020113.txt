@@ -1,4 +1,0 @@
-{
-    "uvp": 7.99,
-    "attributes": "<ul><li>universelle Anwendbarkeit im DIN A4 Format</li><li>brillante Druckergebnisse dank reinweisser Farbgebung</li><li>langfristige Versorgung mit 500 Blatt</li><li>vielseitiger Einsatz durch 80g/m² Gewicht</li><li>zuverlässige Qualität für professionelle Dokumente</li></ul><p></p>"
-}

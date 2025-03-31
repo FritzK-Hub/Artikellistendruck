@@ -1,4 +1,0 @@
-{
-    "uvp": 4.99,
-    "attributes": "<ul><li>lang anhaltende Blütenpracht</li><li>frische Schnittblumen den ganzen Sommer über</li><li>natürlicher Anziehungspunkt für Bienen und Schmetterlinge</li><li>sehr ergiebig, für bis zu 50 m² Gartenfläche</li><li>nachhaltige Freude für Umweltbewusste<br/></li></ul>"
-}

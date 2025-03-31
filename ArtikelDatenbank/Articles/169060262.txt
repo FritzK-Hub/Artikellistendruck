@@ -1,4 +1,0 @@
-{
-    "uvp": 13.95,
-    "attributes": "<ul><li>für Montage- und Fugenverleimung</li><li>mit hoher Anfangshaftung</li><li>für schnelle und saubere Anwendungen ohne Werkzeug</li><li>für das Verlegen von Holzwerkstoffen, HPL-Platten oder Kunststoffkanten geeignet</li><li>mit Dosierspitze für einfache Anwendung<br/></li></ul>"
-}

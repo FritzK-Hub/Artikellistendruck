@@ -1,4 +1,0 @@
-{
-    "uvp": 19.95,
-    "attributes": "<ul><li>Deko-Lampe batteriebetrieben aus grünem Glas</li><li>der integrierte LED-Silberdraht leuchtet in neutralweiß<br/></li><li>vielseitig einsetzbare Dekoration im Innenbereich</li><li>als praktisches Orientierungslicht im Garten einsetzbar</li><li>auch zwischen Büschen und Blumen ein echter Blickfang</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 699.9,
-    "attributes": "<ul><li>kompakt und ideal für Balkone</li><li>kristallklares Sicherheitsglas bietet hohe Stabilität</li><li>einfache Montage dank Einschubtechnik</li><li>flexibles Rollfundament ermöglicht Mobilität</li><li>getrennte Fächer für bessere Nutzungsmöglichkeiten</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 89.95,
-    "attributes": "<ul><li>Markise schützt vor seitlichem Wind und Sonnenstrahlen</li><li>ideal für Balkon, Garten oder Terrasse geeignet</li><li>verhindert neugierige Blicke von Nachbarn für mehr Privatsphäre</li><li>einfache und schnelle Montage und Bedienung</li><li>automatische Einzugfeder erleichtert das Einholen der Markise bei Nichtgebrauch<br/></li></ul>"
-}

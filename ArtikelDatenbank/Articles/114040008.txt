@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Papiertischdecke auf Rolle</li><li>mit Damast-Prägemuster</li><li>beliebig zuschneidbar</li><li>hochwertiges Papier</li><li>zweiseitig bedruckt</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 15.5,
-    "attributes": "<ul><li>einfacher Fenstergriff </li><li>nicht abschließbar</li><li>inklusive Befestigungsmaterial</li><li>Fenstergriffe in weiß</li><li>mit Vierkant-Dorn<br/></li></ul>"
-}

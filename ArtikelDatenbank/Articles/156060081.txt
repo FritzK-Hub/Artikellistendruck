@@ -1,4 +1,0 @@
-{
-    "uvp": 2.99,
-    "attributes": "<ul><li>Spachtel mit steifem Blatt</li><li>ideal zum Ablösen von Tapeten</li><li>aus hochwertigem Stahl</li><li>einseitig geschliffen</li><li>mit Holzgriff</li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>Multifunktions-Rasensprenger mit 5 verschiedenen Bewässerungsfunktionen</li><li>perfekt für kleine Rasenflächen</li><li>Anschluss mittels herkömmlicher Schnellkupplung für 1/2\" Schlauch<br/></li></ul>"
-}

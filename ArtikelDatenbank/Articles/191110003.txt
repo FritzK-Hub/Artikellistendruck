@@ -1,4 +1,0 @@
-{
-    "uvp": 9.95,
-    "attributes": "<ul><li>runde Poolplane 244 cm aus stabilem Vinyl</li><li>passendes Zubehör für den Easy Set Swimming Pool</li><li>umlaufende Schnur und Überhang erleichtert die Befestigung</li><li>integrierte Abflussöffnungen gegen Wasseransammlungen</li><li>Plane schützt das Wasser vor Verschmutzungen<br/></li></ul>"
-}

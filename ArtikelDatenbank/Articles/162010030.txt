@@ -1,4 +1,0 @@
-{
-    "uvp": 6.99,
-    "attributes": "<ul><li>einfache Montage für zeitsparende Handhabung</li><li>unauffälliges Design zur ästhetischen Vorhanggestaltung</li><li>flexible Verriegelung bietet bequeme Nutzungsoptionen</li><li>transparentes Material schafft unauffällige Eleganz am Vorhang</li><li>weiße Röllchen für stilvolle Farbharmonie mit der Umgebung</li></ul><p></p>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 49.95,
-    "attributes": "<ul><li>leistungsstarker 3000-Watt-Motor</li><li>variable Geschwindigkeitseinstellung</li><li>3in1: Laubbläser, Laubsauger, Laubhäcksler</li><li>verstellbarer Schultergurt und Kabelzugentlastung<br/></li><li>großer Fangsack mit 35 Liter Fassungsvermögen<br/><br/><br/></li></ul>"
-}

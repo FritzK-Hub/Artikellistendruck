@@ -1,4 +1,0 @@
-{
-    "uvp": 14.95,
-    "attributes": "<ul><li>Hängematte 300 x 147 cm für zwei Personen</li><li>aus 210D Nylon in schwarz-rot angefertigt</li><li>lädt nach einem anstrengenden Tag zur Entspannung</li><li>zwei Karabinerhaken und Nylonschnüre sind inklusive</li><li>bei Nichtgebrauch platzsparend im Beutel aufbewahrbar<br/></li></ul>"
-}

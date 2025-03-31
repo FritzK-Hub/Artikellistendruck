@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>umfasst die wichtigsten Werkzeuge rund um die Gartenarbeit</li><li>zum Auflockern und Umgraben von Gartenerde </li><li>erleichtert das Ein- und Auspflanzen von Pflanzen</li><li>Softgrip für sicheren Halt und präzises Arbeiten</li><li>dank Öse am Griff platzsparend aufhängbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 15.99,
-    "attributes": "<ul><li>modernes Steinmuster</li><li>hochwertige Verarbeitung</li><li>strapazierfähiges Material</li><li>gemütlicher Komfort</li><li>zeitlose Eleganz<br/></li></ul>"
-}

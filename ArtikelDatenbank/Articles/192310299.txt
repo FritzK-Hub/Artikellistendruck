@@ -1,4 +1,0 @@
-{
-    "uvp": 9.99,
-    "attributes": "<ul><li>batteriebetriebener LED-Lichtervorhang mit Eiszapfenmotiv</li><li>mit 20 warmweißen LEDs versehen</li><li>vielseitig einsetzbare Fensterdekoration</li><li>LED-Beleuchtung für den Innenbereich</li><li>mit einer Timerfunktion von sechs Stunden versehen<br/></li></ul>"
-}

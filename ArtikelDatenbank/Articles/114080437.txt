@@ -1,4 +1,0 @@
-{
-    "uvp": 3.99,
-    "attributes": "<ul><li>Spitzkerzen-Set 8 Stück je 24 cm</li><li>aus Echtwachs in rot gefertigt</li><li>schafft eine stimmungsvolle Wohlfühlatmosphäre</li><li>ideal zur Tisch-, Weihnachtsdekoration</li><li>für die Bestückung von Weihnachtskränzen<br/></li></ul>"
-}

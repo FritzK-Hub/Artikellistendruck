@@ -1,4 +1,0 @@
-{
-    "uvp": 24.3,
-    "attributes": "<ul><li>vielseitig für Umbau- und Renovierungsarbeiten einsetzbar</li><li>zum Schneiden von Holz oder anderen Materialien</li><li>2-K-Griff garantiert sicheren Halt, für leichte Sägebewegung</li><li>schneller und einfacher Blattwechsel durch Knopfdruck am Griff</li><li>bei Nichtgebrauch platzsparend in der Garage aufhängbar<br/></li></ul>"
-}

@@ -1,4 +1,0 @@
-{
-    "uvp": 57.99,
-    "attributes": "<ul><li>modernes Design für stilvolle Außenbeleuchtung</li><li>langlebige Materialien ideal im Outdoor-Einsatz</li><li>IP44-Schutz gegen Spritzwasser</li><li>flexible Positionierung im Garten oder an Wegen<br/></li><li>einfache Montage und Wartung</li></ul>"
-}
