@@ -2,98 +2,121 @@
 <html lang="de">
 
 <head>
-    <meta charset="UTF-8">
+    <meta charset="Windows-1252">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>...</title>
-    <link rel="icon" type="image/x-icon" href="Icons/spb_main.png">
-    <link rel="icon" type="image/x-icon" href="Icons/spb_main.png">
+    <link rel="icon" type="image/x-icon" href="Images/spb_main.png">
+    <link rel="icon" type="image/x-icon" href="Images/spb_main.png">
     <link rel="stylesheet" media="screen" href="Css/Screen.css"/ defer>
+    <link rel="stylesheet" media="screen, print" href="Css/Fonts.css"/ defer>
     <link id="print-style-h" rel="stylesheet" media="print" href="Css/PrintLayoutH.css"/>
     <link id="print-style-r" rel="stylesheet" media="print" href="Css/PrintLayoutR.css"/>    
-    <link id="print-style-l" rel="stylesheet" media="print" href="Css/PrintLayoutL.css"/>
+    <link id="print-style-p" rel="stylesheet" media="print" href="Css/PrintLayoutP.css"/>
 	<script src="Js/Articles.js" defer></script>
-    <script src="Js/C128.js"></script>
+    <script src="Js/C128.js" defer></script>
+    <script src="Js/CSV.js" defer></script>
 	<script src="Js/Main.js" defer></script>
 </html>
 
-<body class="clean">
+<body>
     <div id="Header-Container" class="dont-print">
-        <img id="Main-Logo" src="Icons/spb_main.png" alt="SBP Logo">
-        <p id="Article-Title" class="bold-weight">...</p>
+        <img id="Main-Logo" src="Images/spb_main.png" alt="SBP Logo">
+        <p id="Article-Title" >...</p>
     </div>
 
     <div id="Button-Container" class="dont-print">
-        <button onclick="printList(true, false, false)" class="bold-weight">HAENGE-ETIKETT</button>
-        <button onclick="printList(false, true, false)" class="bold-weight">REGAL-ETIKETT</button>
-        <button onclick="printList(false, false, true)" class="bold-weight">PLAKAT</button>
+        <button onclick="printList(Type.HAENGEND)"> HAENGE-ETIKETT</button>
+        <button onclick="printList(Type.REGAL)"> REGAL-ETIKETT</button>
+        <button onclick="printList(Type.PLAKAT)"> PLAKAT</button>
     </div>
 
     <div id="ArticleList-Container">
-        <div id="Article-Container" class="dont-print">
-            <div id="Barcode-Container" class="list-element">
-                <p class="list-item-description">Barcode</p>
+        <div class="header dont-print">
+            <div class="field barcode">
+                <p id="header-barcode">Barcode</p>
             </div>
-            <div id="ArticleNr-Container" class="list-element">
-                <p class="list-item-description">Artikel-Nr.</p>
+            <div class="field articleNr">
+                <p id="header-articleNr">Artikel-Nr.</p>
             </div>
-            <div id="Source-Container" class="list-element">
-                <p class="list-item-description">Bezug</p>
+            <div class="field source">
+                <p id="header-source">Bezug</p>
             </div>
-            <div id="Name-Container" class="list-element">
-                <p class="list-item-description">Artikelbezeichnung</p>
+            <div class="field name">
+                <p id="header-name">Artikelbezeichnung</p>
             </div>
-            <div id="Price-Container" class="list-element">
-                <p class="list-item-description">LVP</p>
+            <div class="field price">
+                <p id="header-price">LVP</p>
             </div>
         </div>
 
-        <div id="Article-Container" class="page-break">
-			<img src="Icons/placard_background.png" alt="" class="hide"/>
-            <div id="Barcode-Container" class="list-element">
-                <p id="GTIN" class="clean">...</p>
+        <div class="article page-break">
+			<img src="Images/placard_background.png" alt="" class="hide"/>
+            <div class="field barcode">
+                <p id="gtin">GTIN</p>
             </div>
-            <div id="ArticleNr-Container" class="list-element">
-                <p id="ArticleNr" class="list-item clean">...</p>
+            <div class="field articleNr">
+                <p id="articleNr">Artikel-Nr.</p>
             </div>
-            <div id="Source-Container" class="list-element">
-                <p id="Source" class="list-item clean">...</p>
+            <div class="field source">
+                <p id="source">Bezug</p>
             </div>
-            <div id="Name-Container" class="bold-weight list-element">
-                <p id="Name" class="list-item clean">...</p>
+            <div class="field name">
+                <p id="name">Artikelbezeichnung</p>
             </div>
-            <div id="Price-Container" class="bold-weight list-element">
-                <p id="Price" class="list-item clean">...</p>
+            <div class="field price">
+                <p id="price">LVP</p>
             </div>           
-            <div id="UVP-Container" class="hide">
-                <!-- <p id="UVP" class="list-item clean">...</p> -->
-            </div>           
-            <div id="Attr-Container" class="hide">
-                <p id="Attr" class="list-item clean">...</p>
-            </div>           
-            <div id="Saved-Container" class="hide">
-                <p id="Saved" class="list-item clean">...</p>
-            </div>           
+            <div class="field attributes hide"></div>           
+            <div class="field uvp hide"></div>           
+            <div class="field saved hide"></div>           
         </div>
-    </div><div id='Article-Data' amount='48' class="hide dont-print">
-        <div id='Title-Data'>
-        Artikelliste_Test
     </div>
-    <div id='GTIN-Data'>
-        872057351479;4026947099217;4002019448978;40020194;40020194602771;872057351479;8719987833441;9002560783714;8716242979296;8716242979241;8716242979104;8716242979081;8716242841388;4008153858642;8711252343778;4036812411594;4008153475238;4046281902301;4046281900765;5707672734220;5706773180899;5706773134526;5701922130312;5706773313105;5707672734213;4049376101504;4100420038648;4026947073101;4002031110006;4049376106578;4026947079875;4026947021720;4026947001449;4026947032320;4008153740916;4017681174766;4046281900222;4008153756191;4049145106419;8711500475169;8711500406071;4008153777417;4008153778308;4038373061218;4008153778339;4008153777851;3165141228915;3165143410387;
-    </div>
-    <div id='ArticleNr-Data'>
-        128200276;175130038;171500002;150000062;171800011;128200276;170410001;174300020;171200152;171200150;171030037;171030038;171200048;182130007;182010152;170500004;172050012;128300068;180041955;150210190;150210203;150210207;150210221;150210202;150210213;150090145;180100051;173090107;150090098;150100173;174220001;178030040;150080002;150080021;150110154;150100863;255050002;150101024;150100178;150090081;150090082;150090072;150090086;150090067;150090089;150090078;150090437;150101040;
-    </div>
-    <div id='Name-Data'>
-        Wespenfalle;Ersatz LÃ¶tspitzen Set 2-tlg.;Schimmel Stopp Farbe;WC-DuftspÃ¼ler 4er Lemon;Holz-Reiniger transparent;Wespenfalle;LED-Kerze im Betontopf;GRANDE VITA CLASSIC SpÃ¼ltischarmatur, Chrom;BONDEX Garden Colors Spray;BONDEX Garden Colors Spray;BONDEX Kreidefarbe Metallic Spray Bronze;BONDEX Kreidefarbe Metallic Spray Kupfer;Bondex Holzlasur fÃ¼r Aussen Kalk Weiss;Kettenschloss 65cm 6mm;GrillgeblÃ¤se BBQ Collection;Vase blau;TSD m. FuÃŸtretschalter 6f 2xDauerON ws;Tarnnetz Sichtschutz;Handpumpe;Montreal Universalbox fÃ¼r Besteck u.SpÃ¼lutensilien;EiswÃ¼rfenbereiter mit Deckel;MÃ¼lleimer rund mit Schwingdeckel 51;Babytopf;Sieb rund mit Griff;Montreal Abtropfbrett fÃ¼r Geschirr;Lichtleiste weiss 122 cm;Liqui Moly Leichtlauf High Tech 5W-40;"Kraft-Schoneinsatz, 17-19- 21mm, 12,5 % 3tlg.";BatterieladegerÃ¤t 11Ah 12V;Gegenplatte zu Zurrmulde 10656;Mini-Gummisauger mit LÃ¶sehebel;SpannungsprÃ¼fer 6-24 Volt;ZÃ¼ndkerzenschlÃ¼ssel mit Kugelgelenk;KotflÃ¼gel-Abdeckplane mit Magnet;Schraubensicherung;Antirutsch Pad;KFZ Ladeadapter Set, inkl. Ladekabel und 5 Adapter;Starthilfekabel Alu-Kupfer DIN 25;Kupplungsklaue f.Zugrohr 60 mm eckig;PHILIPS H1 12V Premium 1-er Blister;PHILIPS H7 12V Premium 1-er Blister;R2 Abblendlampe Unitec 12V 45/40W P45t;Soffittenl. Unitec C5W;Adapter 50 auf 150 Ohm;T4W Unitec Standlichtl. BA9s;H3 Halogen Unitec 12V 55W PK225;Bosch GLL Pure Light 1,2W;WBA Aerotwin KSN A9335;
-    </div>
-    <div id='Price-Data'>
-        4,99;2,99;15,95;1,79;8,99;4,99;5,99;59,95;13,49;13,49;13,95;13,95;13,79;16,95;3,99;7,99;18,95;17,95;5,99;3,99;1,99;5,49;4,29;1,99;11,95;34,95;54,95;21,95;59,95;5,49;4,49;6,49;10,95;8,99;6,99;2,99;7,49;26,95;18,95;6,49;9,99;2,29;2,19;2,79;2,49;3,89;3,79;34,95;
-    </div>
-    <div id='Source-Data'>
-        DACHSER SE - Logistik Hof;BGS technic KG;Ultrament ;Reinex ;Ultrament ;DACHSER SE - Logistik Hof;DACHSER SE Logistik Hof;W. Kirchhoff ;PPG Coatings Deutschland ;PPG Coatings Deutschland ;;PPG Coatings Deutschland ;;EVB Handelshaus Bour  ;;;EVB Handelshaus Bour  ;DACHSER SE Logistik Hof;DACHSER SE Logistik Hof;NHG ;NHG ;NHG ;NHG ;NHG ;NHG ;EAL ;Liqui Moly ;BGS technic KG;EVB Handelshaus Bour  ;EAL ;BGS technic KG;BGS technic KG;BGS technic KG;BGS technic KG;EVB Handelshaus Bour  ;EAL ;DACHSER SE - Logistik Hof;EVB Handelshaus Bour  ;EAL ;EVB Handelshaus Bour  ;EVB Handelshaus Bour  ;EVB Handelshaus Bour  ;EVB Handelshaus Bour  ;EVB Handelshaus Bour ;EVB Handelshaus Bour  ;EVB Handelshaus Bour  ;MTS Marken TechnikService ;MTS Marken TechnikService ;
-    </div>
-
-</div>
-</body>
-</html>
+	<p id="csv-data" class="hide">GTIN;Artikelnummer;Artikelbezeichnung;LVP;Menge;Letzter Bezugsweg;Filialbestand Position
+872057351479;128200276;Wespenfalle;4,99;2,000;Lager DACHSER SE - Logistik Hof;3 St
+4026947099217;175130038;Ersatz Lötspitzen Set 2-tlg.;2,99;3,000;Strecke BGS technic KG;5 St
+4002019448978;171500002;Schimmel Stopp Farbe;15,95;1,000;Strecke Ultrament GmbH;1 St
+40020194;150000062;WC-Duftspüler 4er Lemon;1,79;2,000;Strecke Reinex GmbH & Co.KG;2 St
+40020194602771;171800011;Holz-Reiniger transparent;8,99;2,000;Strecke Ultrament GmbH;2 St
+872057351479;128200276;Wespenfalle;4,99;2,000;Lager DACHSER SE - Logistik Hof;3 St
+8719987833441;170410001;LED-Kerze im Betontopf;5,99;3,000;Lager DACHSER SE Logistik Hof;3 St
+9002560783714;174300020;GRANDE VITA CLASSIC Spültischarmatur, Chrom;59,95;12,000;Strecke W. Kirchhoff GmbH;4 St
+8716242979296;171200152;BONDEX Garden Colors Spray;13,49;5,000;Strecke PPG Coatings Deutschland GmbH;5 St
+8716242979241;171200150;BONDEX Garden Colors Spray;13,49;5,000;Strecke PPG Coatings Deutschland GmbH;5 St
+8716242979104;171030037;BONDEX Kreidefarbe Metallic Spray Bronze;13,95;6,000;;6 St
+8716242979081;171030038;BONDEX Kreidefarbe Metallic Spray Kupfer;13,95;6,000;Strecke PPG Coatings Deutschland GmbH;6 St
+8716242841388;171200048;Bondex Holzlasur für Aussen Kalk Weiss;13,79;3,000;;3 St
+4008153858642;182130007;Kettenschloss 65cm 6mm;16,95;3,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);3 St
+8711252343778;182010152;Grillgebläse BBQ Collection;3,99;2,000;;2 St
+4036812411594;170500004;Vase blau;7,99;2,000;;1 St
+4008153475238;172050012;TSD m. Fußtretschalter 6f 2xDauerON ws;18,95;3,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);3 St
+4046281902301;128300068;Tarnnetz Sichtschutz;17,95;2,000;Lager DACHSER SE Logistik Hof;1 St
+4046281900765;180041955;Handpumpe;5,99;1,000;Lager DACHSER SE Logistik Hof;1 St
+5707672734220;150210190;Montreal Universalbox für Besteck u.Spülutensilien;3,99;5,000;Strecke NHG GmbH;5 St
+5706773180899;150210203;Eiswürfenbereiter mit Deckel;1,99;1,000;Strecke NHG GmbH;1 St
+5706773134526;150210207;Mülleimer rund mit Schwingdeckel 51;5,49;3,000;Strecke NHG GmbH;5 St
+5701922130312;150210221;Babytopf;4,29;3,000;Strecke NHG GmbH;3 St
+5706773313105;150210202;Sieb rund mit Griff;1,99;4,000;Strecke NHG GmbH;4 St
+5707672734213;150210213;Montreal Abtropfbrett für Geschirr;11,95;4,000;Strecke NHG GmbH;4 St
+4049376101504;150090145;Lichtleiste weiss 122 cm;34,95;2,000;Strecke EAL GmbH;2 St
+4100420038648;180100051;Liqui Moly Leichtlauf High Tech 5W-40;54,95;4,000;Strecke Liqui Moly GmbH;4 St
+4026947073101;173090107;"Kraft-Schoneinsatz, 17-19- 21mm, 12,5 % 3tlg.";21,95;2,000;Strecke BGS technic KG;3 St
+4002031110006;150090098;Batterieladegerät 11Ah 12V;59,95;2,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);2 St
+4049376106578;150100173;Gegenplatte zu Zurrmulde 10656;5,49;4,000;Strecke EAL GmbH;4 St
+4026947079875;174220001;Mini-Gummisauger mit Lösehebel;4,49;1,000;Strecke BGS technic KG;1 St
+4026947021720;178030040;Spannungsprüfer 6-24 Volt;6,49;5,000;Strecke BGS technic KG;2 St
+4026947001449;150080002;Zündkerzenschlüssel mit Kugelgelenk;10,95;3,000;Strecke BGS technic KG;3 St
+4026947032320;150080021;Kotflügel-Abdeckplane mit Magnet;8,99;2,000;Strecke BGS technic KG;2 St
+4008153740916;150110154;Schraubensicherung;6,99;7,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);7 St
+4017681174766;150100863;Antirutsch Pad;2,99;14,000;Strecke EAL GmbH;16 St
+4046281900222;255050002;KFZ Ladeadapter Set, inkl. Ladekabel und 5 Adapter;7,49;5,000;Lager DACHSER SE - Logistik Hof;5 St
+4008153756191;150101024;Starthilfekabel Alu-Kupfer DIN 25;26,95;2,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);2 St
+4049145106419;150100178;Kupplungsklaue f.Zugrohr 60 mm eckig;18,95;4,000;Strecke EAL GmbH;2 St
+8711500475169;150090081;PHILIPS H1 12V Premium 1-er Blister;6,49;4,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);4 St
+8711500406071;150090082;PHILIPS H7 12V Premium 1-er Blister;9,99;1,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);1 St
+4008153777417;150090072;R2 Abblendlampe Unitec 12V 45/40W P45t;2,29;1,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);1 St
+4008153778308;150090086;Soffittenl. Unitec C5W;2,19;9,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);6 St
+4038373061218;150090067;Adapter 50 auf 150 Ohm;2,79;8,000;Strecke EVB Handelshaus Bour GmbH
+4008153778339;150090089;T4W Unitec Standlichtl. BA9s;2,49;8,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);8 St (MTS-Intertec);8 St 4008153778322;150090088;Glassockell. Unitec T5 1,2W 2Stk.;1,99;6,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);6 St
+4008153777851;150090078;H3 Halogen Unitec 12V 55W PK225;3,89;4,000;Strecke EVB Handelshaus Bour GmbH (MTS-Intertec);4 St
+3165141228915;150090437;Bosch GLL Pure Light 1,2W;3,79;11,000;Strecke MTS Marken TechnikService GmbH & Co.KG;11 St
+3165143410387;150101040;WBA Aerotwin KSN A9335;34,95;4,000;Strecke MTS Marken TechnikService GmbH & Co.KG;4 St</p><p id="file-name" class="hide">Artikelliste_Test</p></body></html> 

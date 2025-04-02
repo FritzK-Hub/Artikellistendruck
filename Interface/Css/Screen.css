@@ -13,25 +13,11 @@
     --debug-outline-red: 1px solid red;
 }
 
-@font-face {
-    font-family: "GenericNormal";
-    src: url("fonts/GenericNormal.otf") format("opentype");
-}
-
-@font-face {
-    font-family: "GenericBold";
-    src: url("fonts/GenericBold.otf") format("opentype");
-}
 
 * {
     margin: 0;
     padding: 0;
-    font-family: "GenericNormal", Sans-Serif;
-    font-weight: 400;
-}
-
-.bold-weight {
-    font-weight: 600;
+/*     border: 1px solid black; */
 }
 
 .hide {
@@ -46,6 +32,7 @@
 
 
 #Header-Container {
+    font-family: "Myriad", Sans-Serif;
     height: var(--header-height);
     width: 100%;
     background-color: var(--main-color);
@@ -67,6 +54,7 @@
     width: calc(100% - var(--header-height));
     text-align: left;
     overflow: hidden;
+    font-weight: 700;
 }
 
 
@@ -92,12 +80,12 @@ button {
     border: 0;
     color: var(--accent-color-grey);
     width: fit-content;
-    margin-top: calc(var(--buttons-height)*0.25);
     margin-left: 8px;
     margin-right: 8px;
-    height: calc(var(--buttons-height)*0.75);
-    font-size: 1.2em;
-    font-family: "GenericBold";
+    height: var(--buttons-height);
+    font-size: 1em;
+    font-family: Sans-Serif;
+    font-weight: 700;
     padding-right: 8px;
     padding-left: 8px;
 }
@@ -116,94 +104,69 @@ button:hover {
 
 
 #ArticleList-Container {
+    font-family: "Myriad", Sans-Serif;
     width: 100%;
     height: fit-content;
-    margin-top: 22px;
-    padding-left: 12.5%;
-    padding-right: 12.5%;
+    margin-top: 16px;
+    padding-left: 20%;
+    padding-right: 20%;
     color:#3c3c3b;
 }
 
-#Article-Container {
-    border-top: 1px solid var(--border-color);
+.header {
     margin-top: -1px;
-    width: 75%;
+    width: 60%;
+    height: 32px;
+    display: flex;
+    font-weight: 400;
+}
+
+.article {
+    border-top: 1px solid var(--border-color);
+    margin-bottom: 4px;
+    width: 60%;
     height: var(--article-height);
     display: flex;
+    font-weight: 300;
 }
 
-#Article-Container:first-of-type {
-    border-top: 0;
-    height: 32px;
+.field {
+    padding: 4px;
+    text-align: center;
 }
 
-
-
-
-/* ITEMS */
-/* ITEMS */
-
-
-
-.list-element {
-    margin-left: 8px;
-    margin-right: 8px;
-    height: 100%;
-    width: 100%;
-    overflow: hidden;
+.field.barcode {
+    width: 30%;
+    min-width: 10px;
 }
 
-.list-item-description {
-    height: 100%;
-    width: 100%;
-    position: relative;
+.field.articleNr {
+    width: 15%;
 }
 
-.list-item {
-    margin-top: 4px;
+.field.source {
+    width: 15%;
 }
 
-#Barcode-Container {
-    width: 25%;
+.field.name {
+    width: 45%;
+}
+
+.field.price {
+    width: 5%;
+}
+
+#header-barcode {
+    text-align: left;
 }
 
 #Barcode-Code128 {
-    height: 65%;
+    height: 70%;
     width: 100%;
-    margin-left: 0px;
-    margin-top: 6px;
 }
 
-#GTIN {
-    height: var(--article-height*0.25);
-    width: 100%;
-    text-align: center;
-    letter-spacing: 5px;
+#gtin {
+    letter-spacing: 8px;
+    padding-left: 4px;
     overflow: hidden;
-	font-family: Arial, sans-serif;
-}
-
-#Source {
-    height: 75%;
-    margin-top: 4px;
-    overflow: hidden;
-}
-
-
-#ArticleNr-Container {
-    width: 15%;
-}
-
-#Name-Container {
-    width: 35%;
-}
-
-
-#Price-Container {
-    width: 10%;
-    text-align: right;
-}
-
-#Source-Container {
-    width: 15%;
 }

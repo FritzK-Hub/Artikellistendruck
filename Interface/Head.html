@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="Windows-1252">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>...</title>
+    <link rel="icon" type="image/x-icon" href="Images/spb_main.png">
+    <link rel="icon" type="image/x-icon" href="Images/spb_main.png">
+    <link rel="stylesheet" media="screen" href="Css/Screen.css"/ defer>
+    <link rel="stylesheet" media="screen, print" href="Css/Fonts.css"/ defer>
+    <link id="print-style-h" rel="stylesheet" media="print" href="Css/PrintLayoutH.css"/>
+    <link id="print-style-r" rel="stylesheet" media="print" href="Css/PrintLayoutR.css"/>    
+    <link id="print-style-p" rel="stylesheet" media="print" href="Css/PrintLayoutP.css"/>
+	<script src="Js/Articles.js" defer></script>
+    <script src="Js/C128.js" defer></script>
+    <script src="Js/CSV.js" defer></script>
+	<script src="Js/Main.js" defer></script>
+</html>
+
+<body>
+    <div id="Header-Container" class="dont-print">
+        <img id="Main-Logo" src="Images/spb_main.png" alt="SBP Logo">
+        <p id="Article-Title" >...</p>
+    </div>
+
+    <div id="Button-Container" class="dont-print">
+        <button onclick="printList(Type.HAENGEND)"> HAENGE-ETIKETT</button>
+        <button onclick="printList(Type.REGAL)"> REGAL-ETIKETT</button>
+        <button onclick="printList(Type.PLAKAT)"> PLAKAT</button>
+    </div>
+
+    <div id="ArticleList-Container">
+        <div class="header dont-print">
+            <div class="field barcode">
+                <p id="header-barcode">Barcode</p>
+            </div>
+            <div class="field articleNr">
+                <p id="header-articleNr">Artikel-Nr.</p>
+            </div>
+            <div class="field source">
+                <p id="header-source">Bezug</p>
+            </div>
+            <div class="field name">
+                <p id="header-name">Artikelbezeichnung</p>
+            </div>
+            <div class="field price">
+                <p id="header-price">LVP</p>
+            </div>
+        </div>
+
+        <div class="article page-break">
+			<img src="Images/placard_background.png" alt="" class="hide"/>
+            <div class="field barcode">
+                <p id="gtin">GTIN</p>
+            </div>
+            <div class="field articleNr">
+                <p id="articleNr">Artikel-Nr.</p>
+            </div>
+            <div class="field source">
+                <p id="source">Bezug</p>
+            </div>
+            <div class="field name">
+                <p id="name">Artikelbezeichnung</p>
+            </div>
+            <div class="field price">
+                <p id="price">LVP</p>
+            </div>           
+            <div class="field attributes hide"></div>           
+            <div class="field uvp hide"></div>           
+            <div class="field saved hide"></div>           
+        </div>
+    </div>
+	<p id="csv-data" class="hide">

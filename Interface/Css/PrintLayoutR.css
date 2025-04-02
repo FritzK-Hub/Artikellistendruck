@@ -1,50 +1,42 @@
 @page {
     size: 60mm 31mm;
-    margin: 0mm;
-}
-
-@font-face {
-    font-family: "GenericNormal";
-    src: url("fonts/GenericNormal.otf") format("opentype");
-}
-
-@font-face {
-    font-family: "GenericBold";
-    src: url("fonts/GenericBold.otf") format("opentype");
+    width: 60mm;
+    height: 31mm;
+    margin: 0;
+    padding: 0;
 }
 
 * {
-    font-family: Arial, Sans-Serif;
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+/*     border: solid black 1px; */
 }
 
-.bold-weight {
-    font-weight: 600;
-}
 
 .dont-print {
     display: none !important;
 }
 
 .page-break {
+    color: black;
     width: 60mm;
     left: 0mm;
-    height: 30.5mm;
+    height: 31mm;
     box-sizing: content-box;
     position: relative;
     page-break-after: always;
     overflow: hidden;
 }
 
-.clean {
-    margin: 0mm;
-    padding: 0mm;
-}
-
-#ArticleContainer:first-of-type {
+.hide {
     display: none !important;
 }
 
-#ArticleNr {
+
+#articleNr {
+    margin: 0mm;
+    padding: 0mm;
     top: 18mm;
     left: 3mm;
     position: absolute;
@@ -52,31 +44,31 @@
     letter-spacing: 0.2mm;
 }
 
-#Name {
+#name {
+    font-weight: 700;
     width: 54mm;
-    height: 11mm;
-    top: 1mm;
+    height: 8.7mm;
+    top: 3mm;
     left: 3mm;
     position: absolute;
-    font-size: 3mm;
-    line-height: 3.66mm;
+    font-size: 3.5mm;
+    line-height: 4mm;
     overflow: hidden;
-    hyphens: auto;
     hyphenate-limit-chars: 100 100 100;
 }
 
-#Price {
+#price {
+    font-weight: 700;
     width: 40mm;
     height: 22mm;
     top: 15mm;
     left: 18mm;
     position: absolute;
     font-size: 13mm;
-    font-family: Arial, Sans-Serif;
     text-align: right;
 }
 
-#Source {
+#source {
     width: 15mm;
     height: 4mm;
     top: 23mm;
@@ -88,7 +80,7 @@
     overflow: hidden;
 }
 
-#GTIN {
+#gtin {
     top: 14.7mm;
     left: 3mm;
     position: absolute;

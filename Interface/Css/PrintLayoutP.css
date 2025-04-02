@@ -1,0 +1,174 @@
+@page {
+    size: a4;
+    margin: 0mm;
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: "Myriad", Sans-Serif;
+    color-adjust: exact;  
+    -webkit-print-color-adjust: exact; 
+    print-color-adjust: exact; 
+/*     border: solid black 1px; */
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 210mm;
+    height: 291mm;
+}
+
+
+.dont-print {
+    display: none !important;
+}
+
+#csv-data {
+    display: none !important;
+}
+
+#file-name {
+    display: none !important;
+}
+
+.page-break {
+    position: relative;
+    page-break-after: always;
+    overflow: hidden;
+}
+
+.clean {
+    margin: 0mm;
+    padding: 0mm;
+}
+
+
+.articleNr {
+    top: 231mm;
+    right: 25mm;
+    width: 60mm;
+    height: 2mm;
+    font-size: 5mm;
+    position: absolute;
+    letter-spacing: 0.7mm;
+    text-align: center;
+}
+
+.source {
+    display: none !important;
+}
+
+.name {
+    top: 65mm;
+    left: 19mm;
+    width: 171mm;
+    height: 35mm;
+    font-size: 12mm;
+    line-height: 12mm;
+    text-align: center;
+    position: absolute;
+    overflow: hidden;
+    hyphenate-limit-chars: 100 100 100;
+    color: #3f3f41;
+    font-weight: 900;
+}
+
+.field.attributes.hide {
+    top: 110mm;
+    left: 16mm;
+    width: 180mm;
+    height: 80mm;
+    font-size: 7mm;
+    line-height: 8mm;
+    position: absolute;
+    hyphenate-limit-chars: 100 100 100;
+    color: #3f3f41;
+    font-weight: 400;
+    overflow: clip;
+}
+
+ul {
+  margin-left: 3mm;
+  list-style-type: none;
+}
+ul > li {
+  text-indent: -3mm;
+}
+ul > li:before {
+  content: "- ";
+  text-indent: -3mm;
+}
+
+#gtin {
+    display: none !important;
+}
+
+#Barcode-Code128 {
+    top: 210mm;
+    right: 25mm;
+    width: 60mm;
+    height: 20mm;
+    position: absolute;
+    color: #3f3f41;
+}
+
+.price {
+    color: white !important;
+    top: 202mm;
+    left: 14.48mm;
+    width: 73.8mm;
+    height: 38.1mm;
+    font-size: 21mm;
+    text-align: center;
+    line-height: 37mm;
+    position: absolute;
+    color: #3f3f41;
+    font-weight: 900;
+}
+#uvpTag {
+    color: #cf1628 !important;
+    white-space: pre;
+    top: 203mm;
+    left: 19mm;
+    width: 140mm;
+    height: 8mm;
+    font-size: 8mm;
+    line-height: 8mm;
+    position: absolute;
+    color: #3f3f41;
+    font-weight: 700;
+}
+#uvpPrice {
+    color: #cf1628 !important;
+    white-space: pre;
+    top: 209.9mm;
+    left: 19mm;
+    width: 140mm;
+    height: 14mm;
+    font-size: 14mm;
+    line-height: 14mm;
+    position: absolute;
+    color: #3f3f41;
+    font-weight: 700;
+}
+.saved {
+    color: #3f3f41 !important;
+    top: 239.5mm;
+    left: 19.64mm;
+    width: 63mm;
+    height: 9.23mm;
+    font-size: 8mm;
+    text-align: center;
+    line-height: 9mm;
+    position: absolute;
+    color: #3f3f41;
+    font-weight: 700;
+}
+
+
+.field.uvp.hide {
+    position: absolute;
+    top: -20mm;
+}
