@@ -33,6 +33,10 @@
     display: none !important;
 }
 
+rect {
+    fill: black;
+}
+
 .articleNr {
     top: 16.5mm;
     left: 1mm;

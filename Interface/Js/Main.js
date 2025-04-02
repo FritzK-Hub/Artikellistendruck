@@ -6,6 +6,7 @@ const FILE_NAME_Element = document.getElementById('file-name')
 
 document.getElementById('Article-Title').textContent =
   FILE_NAME_Element.textContent
+document.title = FILE_NAME_Element.textContent
 ARTICLE_TEMPLATE.remove()
 /**
  * Switch between stylesheets to print the given type

@@ -56,7 +56,7 @@ class C128 {
     rect.setAttribute('height', '100')
     rect.setAttribute('x', `${offset}`)
     rect.setAttribute('y', '0')
-    rect.setAttribute('fill', 'black')
+    rect.setAttribute('fill', '#3f3f41')
     return rect
   }
 

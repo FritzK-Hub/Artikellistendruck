@@ -33,6 +33,10 @@
     display: none !important;
 }
 
+rect {
+    fill: black;
+}
+
 
 #articleNr {
     margin: 0mm;
