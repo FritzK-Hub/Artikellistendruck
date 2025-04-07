@@ -47,7 +47,7 @@ img {
 
 .articleNr {
     top: 231mm;
-    right: 25mm;
+    left: 120mm;
     width: 60mm;
     height: 2mm;
     font-size: 5mm;
@@ -108,7 +108,7 @@ ul > li:before {
 
 #Barcode-Code128 {
     top: 210mm;
-    right: 25mm;
+    left: 120mm;
     width: 60mm;
     height: 20mm;
     position: absolute;
@@ -117,13 +117,13 @@ ul > li:before {
 
 .price {
     color: white !important;
-    top: 202mm;
-    left: 14.48mm;
-    width: 73.8mm;
-    height: 38.1mm;
-    font-size: 21mm;
+    top: 205mm;
+    left: 21mm;
+    width: 64mm;
+    height: 29mm;
+    font-size: 20mm;
     text-align: center;
-    line-height: 37mm;
+    line-height: 33.1mm;
     position: absolute;
     color: #3f3f41;
     font-weight: 900;
@@ -131,8 +131,8 @@ ul > li:before {
 #uvpTag {
     color: #cf1628 !important;
     white-space: pre;
-    top: 203mm;
-    left: 19mm;
+    top: 207mm;
+    left: 24.5mm;
     width: 140mm;
     height: 8mm;
     font-size: 8mm;
@@ -144,8 +144,8 @@ ul > li:before {
 #uvpPrice {
     color: #cf1628 !important;
     white-space: pre;
-    top: 209.9mm;
-    left: 19mm;
+    top: 212.9mm;
+    left: 24.5mm;
     width: 140mm;
     height: 14mm;
     font-size: 14mm;
@@ -156,11 +156,11 @@ ul > li:before {
 }
 .saved {
     color: #3f3f41 !important;
-    top: 239.5mm;
-    left: 19.64mm;
-    width: 63mm;
-    height: 9.23mm;
-    font-size: 8mm;
+    top: 233.5mm;
+    left: 25mm;
+    width: 56mm;
+    height: 7.5mm;
+    font-size: 7mm;
     text-align: center;
     line-height: 9mm;
     position: absolute;
